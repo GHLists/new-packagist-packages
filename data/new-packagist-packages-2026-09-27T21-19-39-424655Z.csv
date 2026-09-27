@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-09-27T20:33:03Z,ereborcodeforge/durin-installer,v0.1.1,Thales Ruppenthal,Global project installer for the Durin ecosystem
+2026-09-27T20:53:30Z,jamacio/module-setup-wizard,1.0.0,Jamacio,"Web Setup Wizard for Magento 2.4: install Magento or bring a store up from an existing database in the browser, with no web server configuration. Includes a basic MySQL search engine to run without OpenSearch/Elasticsearch."
+2026-09-27T20:56:52Z,tyrann0us/improvesearch,1.0.0,,"MediaWiki extension that widens the built-in MySQL search: substring page titles, a wikitext-free search index and snippets, and no pointless thumbnail lookups."
+2026-09-27T20:56:59Z,ahmad-chebbo/laravel-areeba-payment,v3.0.0,Ahmad Shebbo,"Laravel package for the Areeba (Mastercard Gateway) hosted checkout, refunds, card tokens and webhooks"
+2026-09-27T20:58:47Z,weldist/spatie-medialibrary-doctor,v1.0.0,X-Adam,"Finds spatie/laravel-medialibrary media rows without a file and files without a media row, and safely removes them."
+2026-09-27T20:59:50Z,jeffersongoncalves/filament-bladewind,1.0.0,,
+2026-09-27T21:09:44Z,solar-icons/blade,v2.0.0,Saoudi Hakim,A package to easily make use of Solar Icons in your Laravel Blade views.
