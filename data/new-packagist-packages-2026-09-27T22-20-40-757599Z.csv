@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-09-27T21:51:59Z,lex-zander/kirby-karbon,1.0.0,Alexander Drießen,"Serves a carbon.txt for Kirby sites, editable in the Panel"
+2026-09-27T22:09:41Z,profmugomes/mgcep,2.0.1,Murilo Gomes,É uma biblioteca leve e simples em PHP para consulta de CEP utilizando a API pública do ViaCEP.
