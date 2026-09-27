@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 19:20 UTC
+## Latest list — 2026-09-27 20:20 UTC
 
-New packages created between 2026-09-27 18:20 UTC and 2026-09-27 19:20 UTC.
+New packages created between 2026-09-27 19:20 UTC and 2026-09-27 20:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-27T19-20-24-025907Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-27T20-20-01-61831Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-27 18:53:58 | [cboxdk/laravel-telemetry-insights](https://www.nuget.org/packages/cboxdk%2Flaravel-telemetry-insights) | v1.0.0 | Sylvester Damgaard | Stateful insights on top of cboxdk/laravel-telemetry-ui: deduplicated issues, i… |
-| 2026-09-27 18:54:37 | [minstrel/api-client](https://www.nuget.org/packages/minstrel%2Fapi-client) | v1.0.0 |  | PHP client for the Minstrel public API (v1), generated from docs/openapi/v1.jso… |
-| 2026-09-27 19:12:26 | [carloscardoso05/pptx-template](https://www.nuget.org/packages/carloscardoso05%2Fpptx-template) | v1.0.0 | Carlos Cardoso | Biblioteca PHP para manipulação de templates PPTX com substituição de tags por… |
-| 2026-09-27 19:14:27 | [pietervanleuven/laravel-mcp-discovery](https://www.nuget.org/packages/pietervanleuven%2Flaravel-mcp-discovery) | v0.1.0 | Pieter Van Leuven | Make your laravel/mcp servers discoverable by AI agents: server cards, llms.txt… |
+| 2026-09-27 19:31:49 | [sahifa/laravel](https://www.nuget.org/packages/sahifa%2Flaravel) | v1.0.0 | Yimello LLC | Laravel package for Sahifa: Arabic-ready HTML to PDF and screenshots, rendered… |
+| 2026-09-27 19:40:50 | [ereborcodeforge/durin-app](https://www.nuget.org/packages/ereborcodeforge%2Fdurin-app) | v0.1.1 | Thales Ruppenthal | Official application skeleton for Durin |
 
 ## Data source
 

@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-09-27T19:31:49Z,sahifa/laravel,v1.0.0,Yimello LLC,"Laravel package for Sahifa: Arabic-ready HTML to PDF and screenshots, rendered in Saudi Arabia. Render Blade views to PDF without dompdf's Arabic problems."
+2026-09-27T19:40:50Z,ereborcodeforge/durin-app,v0.1.1,Thales Ruppenthal,Official application skeleton for Durin
