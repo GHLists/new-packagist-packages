@@ -15,7 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-_No list has been generated yet._
+## Latest list — 2026-09-27 11:20 UTC
+
+New packages created between 2026-09-27 10:20 UTC and 2026-09-27 11:20 UTC.
+
+[Full CSV](data/new-packagist-packages-2026-09-27T11-20-30-975248Z.csv)
+
+| Created (UTC) | Package | Version | Author | Description |
+| :------------ | :------ | :------ | :------ | :----------- |
+| 2026-09-27 10:48:56 | [zodiac1978/custom-patterns-asb](https://www.nuget.org/packages/zodiac1978%2Fcustom-patterns-asb) | 1.4 | Torsten Landsiedel | Add custom patterns for Antispam Bee. |
 
 ## Data source
 
