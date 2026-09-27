@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 13:19 UTC
+## Latest list — 2026-09-27 14:21 UTC
 
-New packages created between 2026-09-27 12:20 UTC and 2026-09-27 13:19 UTC.
+New packages created between 2026-09-27 13:19 UTC and 2026-09-27 14:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-27T13-19-51-99246Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-27T14-21-07-512664Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-27 12:23:48 | [venusian/surface](https://www.nuget.org/packages/venusian%2Fsurface) | 0.8.0 | Angel Gonzalez | The Venusian Display Panel Framework. |
-| 2026-09-27 12:29:41 | [mammatus/http-server-contracts](https://www.nuget.org/packages/mammatus%2Fhttp-server-contracts) | 0.1.0 |  | Contracts for the HTTP server |
-| 2026-09-27 12:41:01 | [mammatus/http-server-webroot](https://www.nuget.org/packages/mammatus%2Fhttp-server-webroot) | 0.1.2 |  | HTTP Server webroot implementations |
-| 2026-09-27 12:51:19 | [webx-ui/module-press](https://www.nuget.org/packages/webx-ui%2Fmodule-press) | v0.44.0 | WebX UI | Press for the WebX UI admin panel: the outlets that wrote about the site — a lo… |
-| 2026-09-27 12:56:15 | [ipf/newsman](https://www.nuget.org/packages/ipf%2Fnewsman) | 1.0.0 |  | Newsman subscription extension with Mailman integration |
+| 2026-09-27 13:20:59 | [weldist/spatie-medialibrary-media-hasher](https://www.nuget.org/packages/weldist%2Fspatie-medialibrary-media-hasher) | v1.1.0 | X-Adam | Computes one or more hashes (checksum, perceptual) of every file added to spati… |
+| 2026-09-27 13:29:50 | [leobard/kirby-linkeddata](https://www.nuget.org/packages/leobard%2Fkirby-linkeddata) | 0.0.1 | Leo "Leobard" Sauermann | Kirby LinkedData for SEO |
+| 2026-09-27 13:45:50 | [hydrakit/filesystem](https://www.nuget.org/packages/hydrakit%2Ffilesystem) | v0.9.16 | William Hleucka | File storage behind one contract: a private disk served through the app, a publ… |
+| 2026-09-27 14:18:18 | [adamjenkins/moodle-filter_ruby](https://www.nuget.org/packages/adamjenkins%2Fmoodle-filter_ruby) | v1.0.1 |  | A Moodle text filter that adds furigana (ruby) readings above difficult kanji,… |
+| 2026-09-27 14:18:59 | [snipershady/emailvalidator](https://www.nuget.org/packages/snipershady%2Femailvalidator) | v1.0.0 | Stefano Perrini | Simple, clean and reliable email validator for PHP >= 8.3: syntax, RFC 5322 for… |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-09-27T13:20:59Z,weldist/spatie-medialibrary-media-hasher,v1.1.0,X-Adam,"Computes one or more hashes (checksum, perceptual) of every file added to spatie/laravel-medialibrary and stores them in the media custom properties."
+2026-09-27T13:29:50Z,leobard/kirby-linkeddata,0.0.1,"Leo ""Leobard"" Sauermann",Kirby LinkedData for SEO
+2026-09-27T13:45:50Z,hydrakit/filesystem,v0.9.16,William Hleucka,"File storage behind one contract: a private disk served through the app, a public disk served by the web server, and keys that never trust the client's filename."
+2026-09-27T14:18:18Z,adamjenkins/moodle-filter_ruby,v1.0.1,,"A Moodle text filter that adds furigana (ruby) readings above difficult kanji, with word lists that each course can customise for itself"
+2026-09-27T14:18:59Z,snipershady/emailvalidator,v1.0.0,Stefano Perrini,"Simple, clean and reliable email validator for PHP >= 8.3: syntax, RFC 5322 format and MX/Null-MX record checks, with sanitized-address retrieval."
