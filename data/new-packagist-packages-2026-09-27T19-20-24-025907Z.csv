@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-09-27T18:53:58Z,cboxdk/laravel-telemetry-insights,v1.0.0,Sylvester Damgaard,"Stateful insights on top of cboxdk/laravel-telemetry-ui: deduplicated issues, incident correlation across error groups, alerting and periodic digests."
+2026-09-27T18:54:37Z,minstrel/api-client,v1.0.0,,"PHP client for the Minstrel public API (v1), generated from docs/openapi/v1.json."
+2026-09-27T19:12:26Z,carloscardoso05/pptx-template,v1.0.0,Carlos Cardoso,Biblioteca PHP para manipulação de templates PPTX com substituição de tags por texto e imagens
+2026-09-27T19:14:27Z,pietervanleuven/laravel-mcp-discovery,v0.1.0,Pieter Van Leuven,"Make your laravel/mcp servers discoverable by AI agents: server cards, llms.txt, robots.txt, Link headers and a bot gate."
