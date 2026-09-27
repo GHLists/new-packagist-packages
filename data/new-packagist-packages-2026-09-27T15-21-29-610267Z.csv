@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-09-27T14:34:29Z,mammatus/healthz-vhost,0.1.0,,⚕️ Basic health check vhost
+2026-09-27T14:54:24Z,zemkogabor/xinfra-php,v1.0.0,,PHP client for sending logs and errors to xInfra.
+2026-09-27T14:56:05Z,webx-ui/module-team,v0.45.0,WebX UI,"The team for the WebX UI admin panel: people with a photo, a name, a job title, a short text and their social links, shown on any page as a block — a grid, a slider or a list — and in templates through team()."
