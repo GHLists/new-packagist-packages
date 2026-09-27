@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-09-27T16:23:45Z,greatcode/gcurl,v0.1.1,Greatcode,Native PHP C extension and client wrapping libcurl-impersonate for browser fingerprint impersonation (TLS/HTTP2).
+2026-09-27T16:36:07Z,dealerweb/einvoice,v1.1.0,,"E-invoicing in pure PHP: read, validate, visualize and create XRechnung, ZUGFeRD / Factur-X and Peppol BIS invoices (EN 16931, UBL and CII) - with the verdicts of the official validators, no Java needed."
+2026-09-27T16:40:29Z,elephentity/codegen-graphql-php,v0.1.0-alpha.1,,Standalone GraphQL PHP manifest generator for Elephentity. Build-time only.
+2026-09-27T16:40:29Z,elephentity/codegen-sqlite,v0.1.0-alpha.1,,SQLite storage manifest and schema generator for Elephentity. Build-time only.
+2026-09-27T16:48:40Z,rareform/craft-mailer,1.0.0,Rareform,"Send personalized emails to users, user groups and any address from the Craft control panel, with scheduling, batching, logs and unsubscribes."
+2026-09-27T16:53:46Z,celema/server,0.1.0,Ernst,Celema development server commands
+2026-09-27T16:57:37Z,nowo-tech/page-builder-kit-bundle,v1.0.0,Héctor Franco Aceituno; Nowo.tech,"Visual Symfony page builder powered by GrapesJS, with Doctrine persistence, locale-aware content, revisions, SEO, and Twig public rendering. Classic section/column/widget documents remain supported."

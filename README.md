@@ -15,24 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 16:19 UTC
+## Latest list — 2026-09-27 17:22 UTC
 
-New packages created between 2026-09-27 15:21 UTC and 2026-09-27 16:19 UTC.
+New packages created between 2026-09-27 16:19 UTC and 2026-09-27 17:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-27T16-19-14-608036Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-27T17-22-15-860812Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-27 15:22:27 | [zemkogabor/xinfra-laravel](https://www.nuget.org/packages/zemkogabor%2Fxinfra-laravel) | v1.0.0 |  | Laravel integration for sending logs and errors to xInfra. |
-| 2026-09-27 15:26:09 | [dirthara/routing](https://www.nuget.org/packages/dirthara%2Frouting) | 0.1.0 | Dirthara | Routing for the Dirthara Framework |
-| 2026-09-27 15:26:16 | [vynex/pay-php](https://www.nuget.org/packages/vynex%2Fpay-php) | v1.0.0 |  | SDK PHP oficial da API Vynex Pay (/api/v1): recursos por família, Idempotency-K… |
-| 2026-09-27 15:37:29 | [elephentity/graphql](https://www.nuget.org/packages/elephentity%2Fgraphql) | v0.1.0-alpha.1 |  | Experimental Framework-independent GraphQL integration for the Elephentity PHP… |
-| 2026-09-27 15:37:29 | [elephentity/sqlite](https://www.nuget.org/packages/elephentity%2Fsqlite) | v0.1.0-alpha.1 |  | Experimental SQLite storage adaptor for the Elephentity PHP runtime. |
-| 2026-09-27 15:40:57 | [upturnstudio/module-mcp](https://www.nuget.org/packages/upturnstudio%2Fmodule-mcp) | 1.0.0 | UpturnStudio | MCP (Model Context Protocol) connector exposing read-only Magento GraphQL acces… |
-| 2026-09-27 15:43:42 | [f-lombardo/jev-php](https://www.nuget.org/packages/f-lombardo%2Fjev-php) | 1.0.0 | Franco Lombardo | A library to connect PHP applications to Jev APIs |
-| 2026-09-27 15:48:35 | [bonsai-lint/bonsai-lint](https://www.nuget.org/packages/bonsai-lint%2Fbonsai-lint) | v0.4.3 |  | Multi-language cognitive complexity linter, as a single static binary |
-| 2026-09-27 16:04:35 | [smtping/smtping-php](https://www.nuget.org/packages/smtping%2Fsmtping-php) | v1.0.0 | SMTPing | Official SMTPing SDK for PHP: verify email addresses, run bulk list jobs, and c… |
-| 2026-09-27 16:04:59 | [memo2k/asksql](https://www.nuget.org/packages/memo2k%2Fasksql) | v0.1.0 | Mehmed | AI Text to SQL |
+| 2026-09-27 16:23:45 | [greatcode/gcurl](https://www.nuget.org/packages/greatcode%2Fgcurl) | v0.1.1 | Greatcode | Native PHP C extension and client wrapping libcurl-impersonate for browser fing… |
+| 2026-09-27 16:36:07 | [dealerweb/einvoice](https://www.nuget.org/packages/dealerweb%2Feinvoice) | v1.1.0 |  | E-invoicing in pure PHP: read, validate, visualize and create XRechnung, ZUGFeR… |
+| 2026-09-27 16:40:29 | [elephentity/codegen-graphql-php](https://www.nuget.org/packages/elephentity%2Fcodegen-graphql-php) | v0.1.0-alpha.1 |  | Standalone GraphQL PHP manifest generator for Elephentity. Build-time only. |
+| 2026-09-27 16:40:29 | [elephentity/codegen-sqlite](https://www.nuget.org/packages/elephentity%2Fcodegen-sqlite) | v0.1.0-alpha.1 |  | SQLite storage manifest and schema generator for Elephentity. Build-time only. |
+| 2026-09-27 16:48:40 | [rareform/craft-mailer](https://www.nuget.org/packages/rareform%2Fcraft-mailer) | 1.0.0 | Rareform | Send personalized emails to users, user groups and any address from the Craft c… |
+| 2026-09-27 16:53:46 | [celema/server](https://www.nuget.org/packages/celema%2Fserver) | 0.1.0 | Ernst | Celema development server commands |
+| 2026-09-27 16:57:37 | [nowo-tech/page-builder-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fpage-builder-kit-bundle) | v1.0.0 | Héctor Franco Aceituno; Nowo.… | Visual Symfony page builder powered by GrapesJS, with Doctrine persistence, loc… |
 
 ## Data source
 
