@@ -15,15 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 12:20 UTC
+## Latest list — 2026-09-27 13:19 UTC
 
-New packages created between 2026-09-27 11:20 UTC and 2026-09-27 12:20 UTC.
+New packages created between 2026-09-27 12:20 UTC and 2026-09-27 13:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-27T12-20-05-433092Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-27T13-19-51-99246Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-27 12:15:17 | [mammatus/http-server-attributes](https://www.nuget.org/packages/mammatus%2Fhttp-server-attributes) | 0.1.0 |  | Attributes for the HTTP server |
+| 2026-09-27 12:23:48 | [venusian/surface](https://www.nuget.org/packages/venusian%2Fsurface) | 0.8.0 | Angel Gonzalez | The Venusian Display Panel Framework. |
+| 2026-09-27 12:29:41 | [mammatus/http-server-contracts](https://www.nuget.org/packages/mammatus%2Fhttp-server-contracts) | 0.1.0 |  | Contracts for the HTTP server |
+| 2026-09-27 12:41:01 | [mammatus/http-server-webroot](https://www.nuget.org/packages/mammatus%2Fhttp-server-webroot) | 0.1.2 |  | HTTP Server webroot implementations |
+| 2026-09-27 12:51:19 | [webx-ui/module-press](https://www.nuget.org/packages/webx-ui%2Fmodule-press) | v0.44.0 | WebX UI | Press for the WebX UI admin panel: the outlets that wrote about the site — a lo… |
+| 2026-09-27 12:56:15 | [ipf/newsman](https://www.nuget.org/packages/ipf%2Fnewsman) | 1.0.0 |  | Newsman subscription extension with Mailman integration |
 
 ## Data source
 
