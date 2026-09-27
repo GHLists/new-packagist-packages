@@ -1,0 +1,17 @@
+created_at,package,version,author,description
+2026-09-27T22:32:58Z,componenta/auth-app,v2.0.1,,Authentication context integration for Componenta DI v5
+2026-09-27T22:32:58Z,componenta/auth-http,v1.0.0,,PSR-7/PSR-15 HTTP integration for Componenta Auth
+2026-09-27T22:32:58Z,componenta/auth-token,v1.0.0,,Purpose-separated one-time bearer tokens for Componenta authentication flows
+2026-09-27T22:32:59Z,componenta/auth-jwt,v1.0.0,,JWT access tokens and rotating refresh-token families for Componenta Auth 3
+2026-09-27T22:32:59Z,componenta/auth-session,v1.0.0,,Authentication-session contracts and lifecycle for Componenta Auth
+2026-09-27T22:33:00Z,componenta/auth-session-app,v1.0.0,,Current authentication-session parameter integration for Componenta DI
+2026-09-27T22:33:00Z,componenta/auth-session-database,v1.0.0,,Cycle Database persistence for Componenta authentication sessions
+2026-09-27T22:33:01Z,componenta/auth-magic-link,v1.0.0,,Pre-auth-bound magic-link authentication for Componenta Auth 3
+2026-09-27T22:33:01Z,componenta/auth-session-http,v1.0.0,,PSR-7/PSR-15 browser transport for Componenta authentication sessions
+2026-09-27T22:33:02Z,componenta/auth-otp,v1.0.0,,Bound one-time-code authentication challenges for Componenta Auth 3
+2026-09-27T22:33:02Z,componenta/auth-password,v1.0.0,,Password authentication and password-reset HTTP flows for Componenta Auth 3
+2026-09-27T22:33:03Z,componenta/auth-recovery-code,v1.0.0,,Single-use recovery codes for Componenta Auth 3
+2026-09-27T22:33:03Z,componenta/auth-remember-me,v1.0.0,,Rotating persistent remember-me grants for Componenta Auth 3
+2026-09-27T22:33:04Z,componenta/auth-totp,v1.0.0,,Encrypted TOTP enrollment and reauthentication for Componenta Auth 3
+2026-09-27T22:33:04Z,componenta/auth-webauthn,v1.0.0,,WebAuthn/passkey authentication and reauthentication for Componenta Auth 3
+2026-09-27T23:03:14Z,ussaaass/hyperf-swagger,v3.2.6,,A swagger library for Hyperf.
