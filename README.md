@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 11:20 UTC
+## Latest list — 2026-09-27 12:20 UTC
 
-New packages created between 2026-09-27 10:20 UTC and 2026-09-27 11:20 UTC.
+New packages created between 2026-09-27 11:20 UTC and 2026-09-27 12:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-27T11-20-30-975248Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-27T12-20-05-433092Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-27 10:48:56 | [zodiac1978/custom-patterns-asb](https://www.nuget.org/packages/zodiac1978%2Fcustom-patterns-asb) | 1.4 | Torsten Landsiedel | Add custom patterns for Antispam Bee. |
+| 2026-09-27 12:15:17 | [mammatus/http-server-attributes](https://www.nuget.org/packages/mammatus%2Fhttp-server-attributes) | 0.1.0 |  | Attributes for the HTTP server |
 
 ## Data source
 
