@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-09-27T15:22:27Z,zemkogabor/xinfra-laravel,v1.0.0,,Laravel integration for sending logs and errors to xInfra.
+2026-09-27T15:26:09Z,dirthara/routing,0.1.0,Dirthara,Routing for the Dirthara Framework
+2026-09-27T15:26:16Z,vynex/pay-php,v1.0.0,,"SDK PHP oficial da API Vynex Pay (/api/v1): recursos por família, Idempotency-Key automática, retry com backoff, paginação automática e verificação de webhook."
+2026-09-27T15:37:29Z,elephentity/graphql,v0.1.0-alpha.1,,Experimental Framework-independent GraphQL integration for the Elephentity PHP runtime.
+2026-09-27T15:37:29Z,elephentity/sqlite,v0.1.0-alpha.1,,Experimental SQLite storage adaptor for the Elephentity PHP runtime.
+2026-09-27T15:40:57Z,upturnstudio/module-mcp,1.0.0,UpturnStudio,"MCP (Model Context Protocol) connector exposing read-only Magento GraphQL access to Claude, authorized via OAuth 2.1 for Magento admin users."
+2026-09-27T15:43:42Z,f-lombardo/jev-php,1.0.0,Franco Lombardo,A library to connect PHP applications to Jev APIs
+2026-09-27T15:48:35Z,bonsai-lint/bonsai-lint,v0.4.3,,"Multi-language cognitive complexity linter, as a single static binary"
+2026-09-27T16:04:35Z,smtping/smtping-php,v1.0.0,SMTPing,"Official SMTPing SDK for PHP: verify email addresses, run bulk list jobs, and check spamtrap, disposable, spambot and complainer lists."
+2026-09-27T16:04:59Z,memo2k/asksql,v0.1.0,Mehmed,AI Text to SQL
