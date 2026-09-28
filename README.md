@@ -15,22 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 14:20 UTC
+## Latest list — 2026-09-28 15:21 UTC
 
-New packages created between 2026-09-28 13:21 UTC and 2026-09-28 14:20 UTC.
+New packages created between 2026-09-28 14:20 UTC and 2026-09-28 15:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-28T14-20-58-101177Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-28T15-21-38-098285Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-28 13:25:41 | [tobimori/kirby-agents](https://www.nuget.org/packages/tobimori%2Fkirby-agents) | 0.1.0 | Tobias Möritz | Stateless MCP server for Kirby CMS with OAuth, blueprint-aware editing, and pag… |
-| 2026-09-28 13:33:44 | [wexample/symfony-remote-demo](https://www.nuget.org/packages/wexample%2Fsymfony-remote-demo) | 1.0.1 |  |  |
-| 2026-09-28 13:39:47 | [shannonllc/webhookadmin](https://www.nuget.org/packages/shannonllc%2Fwebhookadmin) | v0.1.0 | SHANNON LIMITED LIABILITY COM… | PHP SDK for Webhook Admin: send webhooks, manage endpoints and verify signature… |
-| 2026-09-28 13:48:50 | [ayangzy/real-seed](https://www.nuget.org/packages/ayangzy%2Freal-seed) | v0.1.0 | ayangzy | Generate realistic, relational, temporally coherent synthetic data for non-prod… |
-| 2026-09-28 13:56:48 | [christianjbrown/etsy-open-api-sdk](https://www.nuget.org/packages/christianjbrown%2Fetsy-open-api-sdk) | v1.0.0 | Christian Brown | A strongly-typed PHP 8.5+ client for the Etsy Open API v3 that returns typed mo… |
-| 2026-09-28 13:58:19 | [hauerheinrich/hh-readable-anchor](https://www.nuget.org/packages/hauerheinrich%2Fhh-readable-anchor) | 1.0.0 | Christian Hackl | Lesbare Sprungmarken (Anker-IDs) für alle Inhaltselemente – aus der Überschrift… |
-| 2026-09-28 14:15:24 | [featvalue/contao](https://www.nuget.org/packages/featvalue%2Fcontao) | 1.0.0 | FeatValue | Embeds the FeatValue client portal in a Contao website. |
-| 2026-09-28 14:16:27 | [wexample/symfony-remote-rocket-chat](https://www.nuget.org/packages/wexample%2Fsymfony-remote-rocket-chat) | 1.0.1 |  |  |
+| 2026-09-28 14:36:02 | [quoyer/quoyer-php](https://www.nuget.org/packages/quoyer%2Fquoyer-php) | v1.0.0 | Quoyer | Official PHP SDK for the Quoyer loyalty API: customers, points, redemptions, we… |
+| 2026-09-28 15:01:24 | [merkushin/wpal](https://www.nuget.org/packages/merkushin%2Fwpal) | 0.7.0 | Dmitry Merkushin | Provides an abstraction layer for WordPress API |
+| 2026-09-28 15:05:23 | [ronald-ph/strong-pass](https://www.nuget.org/packages/ronald-ph%2Fstrong-pass) | v1.0.0 | Ronald PH | Framework-neutral PHP password strength checking with optional Laravel integrat… |
+| 2026-09-28 15:13:06 | [featvalue/typo3](https://www.nuget.org/packages/featvalue%2Ftypo3) | 0.1.3 | FeatValue | Embeds the FeatValue client portal in a TYPO3 website. |
+| 2026-09-28 15:15:32 | [wonittecnologia/interage-sdk-php](https://www.nuget.org/packages/wonittecnologia%2Finterage-sdk-php) | v0.1.0 | Wonit Tecnologia da Informação | SDK PHP oficial da API pública de clientes da plataforma Interage+ (Wonit). |
 
 ## Data source
 

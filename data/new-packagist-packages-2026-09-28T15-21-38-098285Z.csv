@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-09-28T14:36:02Z,quoyer/quoyer-php,v1.0.0,Quoyer,"Official PHP SDK for the Quoyer loyalty API: customers, points, redemptions, webhooks, with Laravel integration."
+2026-09-28T15:01:24Z,merkushin/wpal,0.7.0,Dmitry Merkushin,Provides an abstraction layer for WordPress API
+2026-09-28T15:05:23Z,ronald-ph/strong-pass,v1.0.0,Ronald PH,Framework-neutral PHP password strength checking with optional Laravel integration.
+2026-09-28T15:13:06Z,featvalue/typo3,0.1.3,FeatValue,Embeds the FeatValue client portal in a TYPO3 website.
+2026-09-28T15:15:32Z,wonittecnologia/interage-sdk-php,v0.1.0,Wonit Tecnologia da Informação,SDK PHP oficial da API pública de clientes da plataforma Interage+ (Wonit).
