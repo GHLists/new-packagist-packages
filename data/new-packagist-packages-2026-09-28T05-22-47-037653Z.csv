@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-09-28T04:58:23Z,payzu/pix,2.0.0,PayZu,"SDK oficial PHP da API PayZu Pix: depósitos, saques, transferências internas, infrações, relatórios e callbacks."
