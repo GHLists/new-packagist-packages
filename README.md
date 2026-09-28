@@ -15,19 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 15:21 UTC
+## Latest list — 2026-09-28 16:19 UTC
 
-New packages created between 2026-09-28 14:20 UTC and 2026-09-28 15:21 UTC.
+New packages created between 2026-09-28 15:21 UTC and 2026-09-28 16:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-28T15-21-38-098285Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-28T16-19-16-633414Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-28 14:36:02 | [quoyer/quoyer-php](https://www.nuget.org/packages/quoyer%2Fquoyer-php) | v1.0.0 | Quoyer | Official PHP SDK for the Quoyer loyalty API: customers, points, redemptions, we… |
-| 2026-09-28 15:01:24 | [merkushin/wpal](https://www.nuget.org/packages/merkushin%2Fwpal) | 0.7.0 | Dmitry Merkushin | Provides an abstraction layer for WordPress API |
-| 2026-09-28 15:05:23 | [ronald-ph/strong-pass](https://www.nuget.org/packages/ronald-ph%2Fstrong-pass) | v1.0.0 | Ronald PH | Framework-neutral PHP password strength checking with optional Laravel integrat… |
-| 2026-09-28 15:13:06 | [featvalue/typo3](https://www.nuget.org/packages/featvalue%2Ftypo3) | 0.1.3 | FeatValue | Embeds the FeatValue client portal in a TYPO3 website. |
-| 2026-09-28 15:15:32 | [wonittecnologia/interage-sdk-php](https://www.nuget.org/packages/wonittecnologia%2Finterage-sdk-php) | v0.1.0 | Wonit Tecnologia da Informação | SDK PHP oficial da API pública de clientes da plataforma Interage+ (Wonit). |
+| 2026-09-28 15:22:23 | [dirthara/events](https://www.nuget.org/packages/dirthara%2Fevents) | 0.1.0 | Dirthara | PSR-14 event dispatching and event publishing for PHP and the Dirthara framework |
+| 2026-09-28 15:30:27 | [wexample/symfony-data-sync-ds](https://www.nuget.org/packages/wexample%2Fsymfony-data-sync-ds) | 1.0.2 |  |  |
+| 2026-09-28 15:36:37 | [limegreentangerine/mapbox_kit](https://www.nuget.org/packages/limegreentangerine%2Fmapbox_kit) | 1.0.0 | Dave Hendy | A custom ConcreteCMS package for displaying maps through the Mapbox system |
+| 2026-09-28 15:38:14 | [wexample/symfony-translations-demo](https://www.nuget.org/packages/wexample%2Fsymfony-translations-demo) | 1.0.1 |  |  |
+| 2026-09-28 15:38:23 | [angelohd/laravel-backup](https://www.nuget.org/packages/angelohd%2Flaravel-backup) | v1.0.1 | Angelo N. Mwadiavita | Biblioteca Laravel para realizar backup automatico da base de dados. |
+| 2026-09-28 15:38:50 | [wexample/symfony-translations-ds](https://www.nuget.org/packages/wexample%2Fsymfony-translations-ds) | 1.0.1 |  |  |
+| 2026-09-28 15:50:44 | [wexample/symfony-data-sync-demo](https://www.nuget.org/packages/wexample%2Fsymfony-data-sync-demo) | 1.0.1 |  |  |
 
 ## Data source
 
