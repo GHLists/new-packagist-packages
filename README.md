@@ -15,24 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 12:20 UTC
+## Latest list — 2026-09-28 13:21 UTC
 
-New packages created between 2026-09-28 11:20 UTC and 2026-09-28 12:20 UTC.
+New packages created between 2026-09-28 12:20 UTC and 2026-09-28 13:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-28T12-20-10-768532Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-28T13-21-13-990079Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-28 11:20:36 | [fahadahmadshemul/laravel-qrcode](https://www.nuget.org/packages/fahadahmadshemul%2Flaravel-qrcode) | v1.0.0 | Md. Fahad Hossain | Self-contained QR code generator for Laravel with the QR encoding engine implem… |
-| 2026-09-28 11:32:58 | [christianjbrown/api-client](https://www.nuget.org/packages/christianjbrown%2Fapi-client) | v1.0.0 | Christian Brown | A thin, strongly-typed PHP 8.5+ client for JSON and XML APIs that wraps GuzzleH… |
-| 2026-09-28 11:33:53 | [christianjbrown/key-value-store](https://www.nuget.org/packages/christianjbrown%2Fkey-value-store) | v1.0.0 | Christian Brown | A thin, strongly-typed PHP 8.5+ library of interchangeable key-value store impl… |
-| 2026-09-28 11:35:53 | [christianjbrown/oauth2-client](https://www.nuget.org/packages/christianjbrown%2Foauth2-client) | v1.0.0 | Christian Brown | A thin, strongly-typed PHP 8.5+ OAuth 2.0 client that manages access tokens (re… |
-| 2026-09-28 11:37:27 | [securetrading/test_migration_an](https://www.nuget.org/packages/securetrading%2Ftest_migration_an) | 1.0.1 |  | Repo to test migration to gitlab |
-| 2026-09-28 11:41:59 | [noirapi/framework](https://www.nuget.org/packages/noirapi%2Fframework) | v1.0.1 | deba12 | Small PHP 8.4 web framework: FastRoute routing, Latte views, noirapi/database m… |
-| 2026-09-28 11:42:41 | [andreacolzani/laravel-pgarray](https://www.nuget.org/packages/andreacolzani%2Flaravel-pgarray) | 1.0.0 | Andrea Colzani | PostgreSQL arrays support for Laravel |
-| 2026-09-28 11:50:35 | [pandabear/mlm](https://www.nuget.org/packages/pandabear%2Fmlm) | v0.1.0 | chocoalano | Configurable MLM engine plugin for Panda Panel. |
-| 2026-09-28 12:08:03 | [christianjbrown/ebay-browse-api-sdk](https://www.nuget.org/packages/christianjbrown%2Febay-browse-api-sdk) | v1.0.0 | Christian Brown | A strongly-typed, read-only PHP 8.5+ client for the eBay Browse API that return… |
-| 2026-09-28 12:14:55 | [ismailnakkar/laravel-localization](https://www.nuget.org/packages/ismailnakkar%2Flaravel-localization) | v0.1.0 | Ismail Nakkar | Localized routes and per-visitor language for Laravel. |
+| 2026-09-28 12:21:03 | [niangpro/niangpro](https://www.nuget.org/packages/niangpro%2Fniangpro) | v2.0.0 |  | Squelette d'application NiangPro : composer create-project niangpro/niangpro mo… |
+| 2026-09-28 12:26:04 | [christianjbrown/ebay-sell-fulfillment-api-sdk](https://www.nuget.org/packages/christianjbrown%2Febay-sell-fulfillment-api-sdk) | v1.0.0 | Christian Brown | A strongly-typed PHP 8.5+ client for the eBay Sell Fulfillment API that returns… |
+| 2026-09-28 12:44:55 | [hei/laravel-scarlett-player](https://www.nuget.org/packages/hei%2Flaravel-scarlett-player) | v0.1.0 | Hackney Enterprises Inc | The server side of Scarlett Player for Laravel: analytics beacon ingest, clip g… |
+| 2026-09-28 12:49:03 | [marshmallow/laravel-odoo](https://www.nuget.org/packages/marshmallow%2Flaravel-odoo) | v0.1.0 | Marshmallow | Laravel client for the Odoo 19+ External JSON-2 API, with per-model resources f… |
+| 2026-09-28 12:56:41 | [clearcut/clearcut-laravel](https://www.nuget.org/packages/clearcut%2Fclearcut-laravel) | v1.0.1 |  | Laravel client for a clearcut-video service: watermarking and PII redaction for… |
+| 2026-09-28 13:13:09 | [webx-ui/module-tariffs](https://www.nuget.org/packages/webx-ui%2Fmodule-tariffs) | v0.48.0 | WebX UI | Tariffs for the WebX UI admin panel: price cards with a badge, a price in a cur… |
+| 2026-09-28 13:13:21 | [webx-ui/module-vacancies](https://www.nuget.org/packages/webx-ui%2Fmodule-vacancies) | v0.48.0 | WebX UI | Vacancies for the WebX UI admin panel: open positions with the place, the kind… |
 
 ## Data source
 

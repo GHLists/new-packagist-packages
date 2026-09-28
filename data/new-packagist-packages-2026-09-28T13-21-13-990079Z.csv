@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-09-28T12:21:03Z,niangpro/niangpro,v2.0.0,,Squelette d'application NiangPro : composer create-project niangpro/niangpro mon-app
+2026-09-28T12:26:04Z,christianjbrown/ebay-sell-fulfillment-api-sdk,v1.0.0,Christian Brown,A strongly-typed PHP 8.5+ client for the eBay Sell Fulfillment API that returns typed model objects instead of raw arrays.
+2026-09-28T12:44:55Z,hei/laravel-scarlett-player,v0.1.0,Hackney Enterprises Inc,"The server side of Scarlett Player for Laravel: analytics beacon ingest, clip generation, player configuration and the embed route"
+2026-09-28T12:49:03Z,marshmallow/laravel-odoo,v0.1.0,Marshmallow,"Laravel client for the Odoo 19+ External JSON-2 API, with per-model resources for partners, products, invoices and more."
+2026-09-28T12:56:41Z,clearcut/clearcut-laravel,v1.0.1,,Laravel client for a clearcut-video service: watermarking and PII redaction for screen recordings
+2026-09-28T13:13:09Z,webx-ui/module-tariffs,v0.48.0,WebX UI,"Tariffs for the WebX UI admin panel: price cards with a badge, a price in a currency of the site's list or words instead of one, what the plan includes, a description and a button, in flat groups, shown on any page as a block — a slider or a grid — and in templates through tariffs()."
+2026-09-28T13:13:21Z,webx-ui/module-vacancies,v0.48.0,WebX UI,"Vacancies for the WebX UI admin panel: open positions with the place, the kind of employment, the salary in words and in numbers, duties, requirements and benefits, each a page of fixed structure with schema.org JobPosting, flat categories as groups and a filter, closed vacancies and an application…"
