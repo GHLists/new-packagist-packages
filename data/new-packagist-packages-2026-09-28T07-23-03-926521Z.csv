@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-09-28T07:02:10Z,cors/symfony-ai-506-platform,0.1,CORS GmbH,506.ai platform bridge for Symfony AI
+2026-09-28T07:03:41Z,amdadulhaq/bangla-slug-laravel,v1.0.0,Amdadul Haq,"Readable Banglish URL slugs from Bangla text for Laravel: phonetic transliteration, English loanword and acronym detection."
+2026-09-28T07:10:32Z,wexample/php-api-entity,1.0.1,Wexample,"Client-side entities, repositories and envelope for APIs served by wexample/symfony-api"
+2026-09-28T07:12:28Z,cloud-castle/gui,v0.1.0,CloudCastle,Production-ready PHP 8.1+ package (CloudCastle GUI).

@@ -15,15 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 05:22 UTC
+## Latest list — 2026-09-28 07:23 UTC
 
-New packages created between 2026-09-28 04:19 UTC and 2026-09-28 05:22 UTC.
+New packages created between 2026-09-28 06:22 UTC and 2026-09-28 07:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-28T05-22-47-037653Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-28T07-23-03-926521Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-28 04:58:23 | [payzu/pix](https://www.nuget.org/packages/payzu%2Fpix) | 2.0.0 | PayZu | SDK oficial PHP da API PayZu Pix: depósitos, saques, transferências internas, i… |
+| 2026-09-28 07:02:10 | [cors/symfony-ai-506-platform](https://www.nuget.org/packages/cors%2Fsymfony-ai-506-platform) | 0.1 | CORS GmbH | 506.ai platform bridge for Symfony AI |
+| 2026-09-28 07:03:41 | [amdadulhaq/bangla-slug-laravel](https://www.nuget.org/packages/amdadulhaq%2Fbangla-slug-laravel) | v1.0.0 | Amdadul Haq | Readable Banglish URL slugs from Bangla text for Laravel: phonetic transliterat… |
+| 2026-09-28 07:10:32 | [wexample/php-api-entity](https://www.nuget.org/packages/wexample%2Fphp-api-entity) | 1.0.1 | Wexample | Client-side entities, repositories and envelope for APIs served by wexample/sym… |
+| 2026-09-28 07:12:28 | [cloud-castle/gui](https://www.nuget.org/packages/cloud-castle%2Fgui) | v0.1.0 | CloudCastle | Production-ready PHP 8.1+ package (CloudCastle GUI). |
 
 ## Data source
 
