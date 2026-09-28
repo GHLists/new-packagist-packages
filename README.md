@@ -15,20 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 09:23 UTC
+## Latest list — 2026-09-28 10:26 UTC
 
-New packages created between 2026-09-28 08:19 UTC and 2026-09-28 09:23 UTC.
+New packages created between 2026-09-28 09:23 UTC and 2026-09-28 10:26 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-28T09-23-43-848487Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-28T10-26-27-109288Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-28 08:41:50 | [webx-ui/module-banners](https://www.nuget.org/packages/webx-ui%2Fmodule-banners) | v0.47.0 | WebX UI | Banners for the WebX UI admin panel: a picture (and one for phones), a video, a… |
-| 2026-09-28 08:55:04 | [andriichuk/laravel-billing-bluesnap](https://www.nuget.org/packages/andriichuk%2Flaravel-billing-bluesnap) | 0.2.0 | Serhii Andriichuk | Official BlueSnap driver for andriichuk/laravel-billing. |
-| 2026-09-28 09:01:34 | [magna-cms/pages](https://www.nuget.org/packages/magna-cms%2Fpages) | v0.1.0-alpha |  | Rendered-frontend plugin for Magna CMS: pages, templates, menus, and the visual… |
-| 2026-09-28 09:10:33 | [bytesof/craft-formable](https://www.nuget.org/packages/bytesof%2Fcraft-formable) | 1.0.0-beta.1 | Maria Viviana MUNTEANU | Commercial form builder plugin for Craft CMS 5. |
-| 2026-09-28 09:12:21 | [dreamboycx/tp6-secure-middleware](https://www.nuget.org/packages/dreamboycx%2Ftp6-secure-middleware) | v1.0.0 | chenxiang | ThinkPHP6 安全中间件合集(SQL注入检测、CORS跨域、IP黑名单、接口签名) |
-| 2026-09-28 09:19:27 | [andriichuk/bluesnap-php-sdk](https://www.nuget.org/packages/andriichuk%2Fbluesnap-php-sdk) | 0.1.0 | Serhii Andriichuk | A framework-agnostic PHP SDK for the BlueSnap Payment API. |
+| 2026-09-28 09:24:58 | [skorlok/tacupmanager](https://www.nuget.org/packages/skorlok%2Ftacupmanager) | 1.0.1 | Skorlok | Generate a result page for TA cups |
+| 2026-09-28 09:28:03 | [xddesigners/silverstripe-qr-code-generator](https://www.nuget.org/packages/xddesigners%2Fsilverstripe-qr-code-generator) | 6.1.0 | Remy Vaartjes | Create QR codes with an embedded logo and short redirect URLs, managed in the S… |
+| 2026-09-28 09:40:08 | [osama-98/laravel-skills](https://www.nuget.org/packages/osama-98%2Flaravel-skills) | 1.0 | Osama Sadah | A collection of Laravel Boost guidelines and agent skills (HyperPay/OPPWA, Back… |
+| 2026-09-28 09:53:28 | [huoxin/user-handles](https://www.nuget.org/packages/huoxin%2Fuser-handles) | 1.0.0 | huoxin | Display @username handles alongside nicknames across the forum. |
+| 2026-09-28 09:54:32 | [dev1191/filament-nepali-address](https://www.nuget.org/packages/dev1191%2Ffilament-nepali-address) | v1.0.0 | Dev Raj Thapa | A comprehensive Nepali address plugin for Filament (v4 & v5) providing cascadin… |
+| 2026-09-28 09:59:44 | [andriichuk/laravel-billing](https://www.nuget.org/packages/andriichuk%2Flaravel-billing) | 0.1.0 | Serhii Andriichuk | Vendor-agnostic subscription billing primitives for Laravel. |
+| 2026-09-28 10:08:41 | [jundayw/composer-version-plugin](https://www.nuget.org/packages/jundayw%2Fcomposer-version-plugin) | v1.0.0 | jundayw | A Composer plugin for semantic version bumping, Git commit and tag automation. |
+| 2026-09-28 10:10:58 | [schaefersoft/laravel-seq](https://www.nuget.org/packages/schaefersoft%2Flaravel-seq) | v1.0.0 | Luca Schäfer | Structured logging to Seq for Laravel. Ships batched CLEF events after the resp… |
+| 2026-09-28 10:13:49 | [lbonnet/seo-bundle](https://www.nuget.org/packages/lbonnet%2Fseo-bundle) | v0.1.0 | lbonnet | A Symfony bundle that crawls a site once to audit its links, on-page content an… |
 
 ## Data source
 
