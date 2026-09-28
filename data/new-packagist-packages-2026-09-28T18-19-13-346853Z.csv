@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-09-28T17:50:09Z,mailgazelle/laravel-sdk,v1.0.0,Srdjan Marjanovic,Mail Gazelle mail transport for Laravel.
+2026-09-28T18:18:23Z,youbar/easy-crud,v1.0.0,Younes El Barnoussi,"Convention-driven CRUD controllers for Laravel. Magic by default, overridable everywhere."
