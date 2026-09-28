@@ -15,21 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 13:21 UTC
+## Latest list — 2026-09-28 14:20 UTC
 
-New packages created between 2026-09-28 12:20 UTC and 2026-09-28 13:21 UTC.
+New packages created between 2026-09-28 13:21 UTC and 2026-09-28 14:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-28T13-21-13-990079Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-28T14-20-58-101177Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-28 12:21:03 | [niangpro/niangpro](https://www.nuget.org/packages/niangpro%2Fniangpro) | v2.0.0 |  | Squelette d'application NiangPro : composer create-project niangpro/niangpro mo… |
-| 2026-09-28 12:26:04 | [christianjbrown/ebay-sell-fulfillment-api-sdk](https://www.nuget.org/packages/christianjbrown%2Febay-sell-fulfillment-api-sdk) | v1.0.0 | Christian Brown | A strongly-typed PHP 8.5+ client for the eBay Sell Fulfillment API that returns… |
-| 2026-09-28 12:44:55 | [hei/laravel-scarlett-player](https://www.nuget.org/packages/hei%2Flaravel-scarlett-player) | v0.1.0 | Hackney Enterprises Inc | The server side of Scarlett Player for Laravel: analytics beacon ingest, clip g… |
-| 2026-09-28 12:49:03 | [marshmallow/laravel-odoo](https://www.nuget.org/packages/marshmallow%2Flaravel-odoo) | v0.1.0 | Marshmallow | Laravel client for the Odoo 19+ External JSON-2 API, with per-model resources f… |
-| 2026-09-28 12:56:41 | [clearcut/clearcut-laravel](https://www.nuget.org/packages/clearcut%2Fclearcut-laravel) | v1.0.1 |  | Laravel client for a clearcut-video service: watermarking and PII redaction for… |
-| 2026-09-28 13:13:09 | [webx-ui/module-tariffs](https://www.nuget.org/packages/webx-ui%2Fmodule-tariffs) | v0.48.0 | WebX UI | Tariffs for the WebX UI admin panel: price cards with a badge, a price in a cur… |
-| 2026-09-28 13:13:21 | [webx-ui/module-vacancies](https://www.nuget.org/packages/webx-ui%2Fmodule-vacancies) | v0.48.0 | WebX UI | Vacancies for the WebX UI admin panel: open positions with the place, the kind… |
+| 2026-09-28 13:25:41 | [tobimori/kirby-agents](https://www.nuget.org/packages/tobimori%2Fkirby-agents) | 0.1.0 | Tobias Möritz | Stateless MCP server for Kirby CMS with OAuth, blueprint-aware editing, and pag… |
+| 2026-09-28 13:33:44 | [wexample/symfony-remote-demo](https://www.nuget.org/packages/wexample%2Fsymfony-remote-demo) | 1.0.1 |  |  |
+| 2026-09-28 13:39:47 | [shannonllc/webhookadmin](https://www.nuget.org/packages/shannonllc%2Fwebhookadmin) | v0.1.0 | SHANNON LIMITED LIABILITY COM… | PHP SDK for Webhook Admin: send webhooks, manage endpoints and verify signature… |
+| 2026-09-28 13:48:50 | [ayangzy/real-seed](https://www.nuget.org/packages/ayangzy%2Freal-seed) | v0.1.0 | ayangzy | Generate realistic, relational, temporally coherent synthetic data for non-prod… |
+| 2026-09-28 13:56:48 | [christianjbrown/etsy-open-api-sdk](https://www.nuget.org/packages/christianjbrown%2Fetsy-open-api-sdk) | v1.0.0 | Christian Brown | A strongly-typed PHP 8.5+ client for the Etsy Open API v3 that returns typed mo… |
+| 2026-09-28 13:58:19 | [hauerheinrich/hh-readable-anchor](https://www.nuget.org/packages/hauerheinrich%2Fhh-readable-anchor) | 1.0.0 | Christian Hackl | Lesbare Sprungmarken (Anker-IDs) für alle Inhaltselemente – aus der Überschrift… |
+| 2026-09-28 14:15:24 | [featvalue/contao](https://www.nuget.org/packages/featvalue%2Fcontao) | 1.0.0 | FeatValue | Embeds the FeatValue client portal in a Contao website. |
+| 2026-09-28 14:16:27 | [wexample/symfony-remote-rocket-chat](https://www.nuget.org/packages/wexample%2Fsymfony-remote-rocket-chat) | 1.0.1 |  |  |
 
 ## Data source
 

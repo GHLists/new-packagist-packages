@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-09-28T13:25:41Z,tobimori/kirby-agents,0.1.0,Tobias Möritz,"Stateless MCP server for Kirby CMS with OAuth, blueprint-aware editing, and page lifecycle tools"
+2026-09-28T13:33:44Z,wexample/symfony-remote-demo,1.0.1,,
+2026-09-28T13:39:47Z,shannonllc/webhookadmin,v0.1.0,SHANNON LIMITED LIABILITY COMPANY,"PHP SDK for Webhook Admin: send webhooks, manage endpoints and verify signatures."
+2026-09-28T13:48:50Z,ayangzy/real-seed,v0.1.0,ayangzy,"Generate realistic, relational, temporally coherent synthetic data for non-production Laravel environments."
+2026-09-28T13:56:48Z,christianjbrown/etsy-open-api-sdk,v1.0.0,Christian Brown,"A strongly-typed PHP 8.5+ client for the Etsy Open API v3 that returns typed model objects instead of raw arrays, covering every read and write operation."
+2026-09-28T13:58:19Z,hauerheinrich/hh-readable-anchor,1.0.0,Christian Hackl,Lesbare Sprungmarken (Anker-IDs) für alle Inhaltselemente – aus der Überschrift oder einem eigenen Feld.
+2026-09-28T14:15:24Z,featvalue/contao,1.0.0,FeatValue,Embeds the FeatValue client portal in a Contao website.
+2026-09-28T14:16:27Z,wexample/symfony-remote-rocket-chat,1.0.1,,
