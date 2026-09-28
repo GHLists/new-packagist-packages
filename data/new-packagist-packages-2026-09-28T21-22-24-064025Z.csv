@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-09-28T20:22:34Z,n9c/typo3-monitor,0.3.2,N9C,"N9C Inside Monitor - meldet sicherheitsrelevante Kennzahlen dieser TYPO3-Instanz (nur Zahlen und Flags, keine personenbezogenen Daten) an den N9C Monitoring-Dienst."
+2026-09-28T20:54:09Z,kaveraa/slug-history,v1.0.0,Augustin Kavera,"Garde les anciens slugs et redirige en 301 vers la nouvelle adresse, pour Laravel et Symfony/Doctrine. Renommer un contenu ne casse plus aucun lien."
+2026-09-28T21:08:41Z,pietervanleuven/vitodeploy-bunny,0.2.0,Pieter Van Leuven,"Bunny.net integration for VitoDeploy: DNS provider, Edge Storage backups and CDN cache purging"

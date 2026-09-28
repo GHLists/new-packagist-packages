@@ -15,19 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 20:20 UTC
+## Latest list — 2026-09-28 21:22 UTC
 
-New packages created between 2026-09-28 19:20 UTC and 2026-09-28 20:20 UTC.
+New packages created between 2026-09-28 20:20 UTC and 2026-09-28 21:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-28T20-20-13-366914Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-28T21-22-24-064025Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-28 19:41:19 | [reynotech/dev-login-laravel](https://www.nuget.org/packages/reynotech%2Fdev-login-laravel) | v0.1.0 |  | Development-only local account seeder for the Dev Login browser extension |
-| 2026-09-28 19:54:55 | [znojil/vies](https://www.nuget.org/packages/znojil%2Fvies) | v1.0.0 | Marek Znojil | PHP client for the EU VIES VAT number validation service. |
-| 2026-09-28 19:58:09 | [kaveraa/data-lifecycle](https://www.nuget.org/packages/kaveraa%2Fdata-lifecycle) | v1.0.0 | Augustin Kavera | Conservation et cycle de vie des données personnelles pour Laravel et Symfony/D… |
-| 2026-09-28 20:02:32 | [phpsoftbox/barcode](https://www.nuget.org/packages/phpsoftbox%2Fbarcode) | v1.0.0 | Anton K. | Barcode and QR generation component for the PhpSoftBox framework |
-| 2026-09-28 20:03:41 | [huzaifaarain/laravel-pulse-mcp](https://www.nuget.org/packages/huzaifaarain%2Flaravel-pulse-mcp) | v0.1.0 | Huzaifa Saif-ur-Rehman | Securely expose Laravel Pulse production monitoring data to AI agents through a… |
+| 2026-09-28 20:22:34 | [n9c/typo3-monitor](https://www.nuget.org/packages/n9c%2Ftypo3-monitor) | 0.3.2 | N9C | N9C Inside Monitor - meldet sicherheitsrelevante Kennzahlen dieser TYPO3-Instan… |
+| 2026-09-28 20:54:09 | [kaveraa/slug-history](https://www.nuget.org/packages/kaveraa%2Fslug-history) | v1.0.0 | Augustin Kavera | Garde les anciens slugs et redirige en 301 vers la nouvelle adresse, pour Larav… |
+| 2026-09-28 21:08:41 | [pietervanleuven/vitodeploy-bunny](https://www.nuget.org/packages/pietervanleuven%2Fvitodeploy-bunny) | 0.2.0 | Pieter Van Leuven | Bunny.net integration for VitoDeploy: DNS provider, Edge Storage backups and CD… |
 
 ## Data source
 
