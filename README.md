@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 02:22 UTC
+## Latest list — 2026-09-28 03:19 UTC
 
-New packages created between 2026-09-28 01:20 UTC and 2026-09-28 02:22 UTC.
+New packages created between 2026-09-28 02:22 UTC and 2026-09-28 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-28T02-22-38-587509Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-28T03-19-22-06574Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-28 02:08:05 | [dirthara/authorisation](https://www.nuget.org/packages/dirthara%2Fauthorisation) | 0.1.0 | Dirthara | Standalone policy-based authorisation for PHP and the Dirthara framework |
+| 2026-09-28 02:56:59 | [yukazakiri/lepton-agent](https://www.nuget.org/packages/yukazakiri%2Flepton-agent) | v1.0.1 | yukazakiri | Laravel bridge for Lepton Agents (Circle Agent Stack + Arc). No hardcoded CLI s… |
+| 2026-09-28 03:13:33 | [adscrawl/adscrawl](https://www.nuget.org/packages/adscrawl%2Fadscrawl) | v0.1.0 | AdsCrawl | Official PHP SDK for the AdsCrawl browser, extraction, screenshot, CDP, and clo… |
 
 ## Data source
 
