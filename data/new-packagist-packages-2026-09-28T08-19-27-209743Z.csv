@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-09-28T07:37:46Z,jigar-dhulla/swiggy-mcp,v0.1.0,Jigar Dhulla,"A framework-agnostic PHP client for Swiggy's MCP servers: Food, Instamart, Dineout and Scenes."
+2026-09-28T07:38:36Z,michael-dev/identity_api,2.3,michael-dev,"Per-shop e-mail addresses (<prefix>-<shop>-<year>-<random>@domain) as Roundcube identities, created on the fly through a token-authenticated REST API, e.g. from the browser extension Shop-Adressen for Firefox and Chrome."
+2026-09-28T07:59:16Z,foxws/laravel-relatable,v1.0.0,francoism90,"Relate Eloquent models to other models, with a base score and boost to control their priority."

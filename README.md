@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 07:23 UTC
+## Latest list — 2026-09-28 08:19 UTC
 
-New packages created between 2026-09-28 06:22 UTC and 2026-09-28 07:23 UTC.
+New packages created between 2026-09-28 07:23 UTC and 2026-09-28 08:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-28T07-23-03-926521Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-28T08-19-27-209743Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-28 07:02:10 | [cors/symfony-ai-506-platform](https://www.nuget.org/packages/cors%2Fsymfony-ai-506-platform) | 0.1 | CORS GmbH | 506.ai platform bridge for Symfony AI |
-| 2026-09-28 07:03:41 | [amdadulhaq/bangla-slug-laravel](https://www.nuget.org/packages/amdadulhaq%2Fbangla-slug-laravel) | v1.0.0 | Amdadul Haq | Readable Banglish URL slugs from Bangla text for Laravel: phonetic transliterat… |
-| 2026-09-28 07:10:32 | [wexample/php-api-entity](https://www.nuget.org/packages/wexample%2Fphp-api-entity) | 1.0.1 | Wexample | Client-side entities, repositories and envelope for APIs served by wexample/sym… |
-| 2026-09-28 07:12:28 | [cloud-castle/gui](https://www.nuget.org/packages/cloud-castle%2Fgui) | v0.1.0 | CloudCastle | Production-ready PHP 8.1+ package (CloudCastle GUI). |
+| 2026-09-28 07:37:46 | [jigar-dhulla/swiggy-mcp](https://www.nuget.org/packages/jigar-dhulla%2Fswiggy-mcp) | v0.1.0 | Jigar Dhulla | A framework-agnostic PHP client for Swiggy's MCP servers: Food, Instamart, Dine… |
+| 2026-09-28 07:38:36 | [michael-dev/identity_api](https://www.nuget.org/packages/michael-dev%2Fidentity_api) | 2.3 | michael-dev | Per-shop e-mail addresses (<prefix>-<shop>-<year>-<random>@domain) as Roundcube… |
+| 2026-09-28 07:59:16 | [foxws/laravel-relatable](https://www.nuget.org/packages/foxws%2Flaravel-relatable) | v1.0.0 | francoism90 | Relate Eloquent models to other models, with a base score and boost to control… |
 
 ## Data source
 
