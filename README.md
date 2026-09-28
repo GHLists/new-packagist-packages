@@ -15,17 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 08:19 UTC
+## Latest list — 2026-09-28 09:23 UTC
 
-New packages created between 2026-09-28 07:23 UTC and 2026-09-28 08:19 UTC.
+New packages created between 2026-09-28 08:19 UTC and 2026-09-28 09:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-28T08-19-27-209743Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-28T09-23-43-848487Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-28 07:37:46 | [jigar-dhulla/swiggy-mcp](https://www.nuget.org/packages/jigar-dhulla%2Fswiggy-mcp) | v0.1.0 | Jigar Dhulla | A framework-agnostic PHP client for Swiggy's MCP servers: Food, Instamart, Dine… |
-| 2026-09-28 07:38:36 | [michael-dev/identity_api](https://www.nuget.org/packages/michael-dev%2Fidentity_api) | 2.3 | michael-dev | Per-shop e-mail addresses (<prefix>-<shop>-<year>-<random>@domain) as Roundcube… |
-| 2026-09-28 07:59:16 | [foxws/laravel-relatable](https://www.nuget.org/packages/foxws%2Flaravel-relatable) | v1.0.0 | francoism90 | Relate Eloquent models to other models, with a base score and boost to control… |
+| 2026-09-28 08:41:50 | [webx-ui/module-banners](https://www.nuget.org/packages/webx-ui%2Fmodule-banners) | v0.47.0 | WebX UI | Banners for the WebX UI admin panel: a picture (and one for phones), a video, a… |
+| 2026-09-28 08:55:04 | [andriichuk/laravel-billing-bluesnap](https://www.nuget.org/packages/andriichuk%2Flaravel-billing-bluesnap) | 0.2.0 | Serhii Andriichuk | Official BlueSnap driver for andriichuk/laravel-billing. |
+| 2026-09-28 09:01:34 | [magna-cms/pages](https://www.nuget.org/packages/magna-cms%2Fpages) | v0.1.0-alpha |  | Rendered-frontend plugin for Magna CMS: pages, templates, menus, and the visual… |
+| 2026-09-28 09:10:33 | [bytesof/craft-formable](https://www.nuget.org/packages/bytesof%2Fcraft-formable) | 1.0.0-beta.1 | Maria Viviana MUNTEANU | Commercial form builder plugin for Craft CMS 5. |
+| 2026-09-28 09:12:21 | [dreamboycx/tp6-secure-middleware](https://www.nuget.org/packages/dreamboycx%2Ftp6-secure-middleware) | v1.0.0 | chenxiang | ThinkPHP6 安全中间件合集(SQL注入检测、CORS跨域、IP黑名单、接口签名) |
+| 2026-09-28 09:19:27 | [andriichuk/bluesnap-php-sdk](https://www.nuget.org/packages/andriichuk%2Fbluesnap-php-sdk) | 0.1.0 | Serhii Andriichuk | A framework-agnostic PHP SDK for the BlueSnap Payment API. |
 
 ## Data source
 

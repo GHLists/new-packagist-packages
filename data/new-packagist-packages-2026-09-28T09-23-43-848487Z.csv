@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-09-28T08:41:50Z,webx-ui/module-banners,v0.47.0,WebX UI,"Banners for the WebX UI admin panel: a picture (and one for phones), a video, a title, a text and up to three buttons, kept in named places and printed by the site's own templates through banners()."
+2026-09-28T08:55:04Z,andriichuk/laravel-billing-bluesnap,0.2.0,Serhii Andriichuk,Official BlueSnap driver for andriichuk/laravel-billing.
+2026-09-28T09:01:34Z,magna-cms/pages,v0.1.0-alpha,,"Rendered-frontend plugin for Magna CMS: pages, templates, menus, and the visual site builder."
+2026-09-28T09:10:33Z,bytesof/craft-formable,1.0.0-beta.1,Maria Viviana MUNTEANU,Commercial form builder plugin for Craft CMS 5.
+2026-09-28T09:12:21Z,dreamboycx/tp6-secure-middleware,v1.0.0,chenxiang,ThinkPHP6 安全中间件合集(SQL注入检测、CORS跨域、IP黑名单、接口签名)
+2026-09-28T09:19:27Z,andriichuk/bluesnap-php-sdk,0.1.0,Serhii Andriichuk,A framework-agnostic PHP SDK for the BlueSnap Payment API.
