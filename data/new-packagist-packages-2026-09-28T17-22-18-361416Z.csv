@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-09-28T16:19:35Z,tcgunel/omniship-navlungo,v0.0.2,,Navlungo Domestic carrier for Omniship shipping library
+2026-09-28T16:26:10Z,spora-ai/spora-plugin-staan,v0.1.0,,"EU-hosted web search via Staan — ranked results, or relevance-scored page excerpts for RAG."
+2026-09-28T16:28:11Z,polunich/wp-jsonapi,v1.0.0,,JSON:API 1.1 on the WordPress REST API
+2026-09-28T16:29:29Z,dirthara/messaging,0.1.0,Dirthara,"Transport-neutral, one-way message publishing for PHP and the Dirthara framework"
+2026-09-28T16:31:31Z,altirs/sdk,v0.1.0,,PHP SDK for Altirs — Guardrails-as-a-Service API
+2026-09-28T16:59:55Z,orbis-cms/mcp,0.0.4,,MCP server integration for Orbis CMS.
+2026-09-28T17:04:23Z,skyyware/stage-cms,v0.1.0,,"A CMS for people and agents, built on Stage."
+2026-09-28T17:14:15Z,payloadshield/laravelps,1.0.0,Ganesh Kandu,Pluggable Laravel middleware for encrypting/decrypting request and response payloads.
+2026-09-28T17:15:32Z,jblab/wide-events-bundle,0.1.0,,"Safe, structured canonical wide events bundle for Symfony applications."

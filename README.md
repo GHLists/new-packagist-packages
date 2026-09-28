@@ -15,21 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 16:19 UTC
+## Latest list — 2026-09-28 17:22 UTC
 
-New packages created between 2026-09-28 15:21 UTC and 2026-09-28 16:19 UTC.
+New packages created between 2026-09-28 16:19 UTC and 2026-09-28 17:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-28T16-19-16-633414Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-28T17-22-18-361416Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-28 15:22:23 | [dirthara/events](https://www.nuget.org/packages/dirthara%2Fevents) | 0.1.0 | Dirthara | PSR-14 event dispatching and event publishing for PHP and the Dirthara framework |
-| 2026-09-28 15:30:27 | [wexample/symfony-data-sync-ds](https://www.nuget.org/packages/wexample%2Fsymfony-data-sync-ds) | 1.0.2 |  |  |
-| 2026-09-28 15:36:37 | [limegreentangerine/mapbox_kit](https://www.nuget.org/packages/limegreentangerine%2Fmapbox_kit) | 1.0.0 | Dave Hendy | A custom ConcreteCMS package for displaying maps through the Mapbox system |
-| 2026-09-28 15:38:14 | [wexample/symfony-translations-demo](https://www.nuget.org/packages/wexample%2Fsymfony-translations-demo) | 1.0.1 |  |  |
-| 2026-09-28 15:38:23 | [angelohd/laravel-backup](https://www.nuget.org/packages/angelohd%2Flaravel-backup) | v1.0.1 | Angelo N. Mwadiavita | Biblioteca Laravel para realizar backup automatico da base de dados. |
-| 2026-09-28 15:38:50 | [wexample/symfony-translations-ds](https://www.nuget.org/packages/wexample%2Fsymfony-translations-ds) | 1.0.1 |  |  |
-| 2026-09-28 15:50:44 | [wexample/symfony-data-sync-demo](https://www.nuget.org/packages/wexample%2Fsymfony-data-sync-demo) | 1.0.1 |  |  |
+| 2026-09-28 16:19:35 | [tcgunel/omniship-navlungo](https://www.nuget.org/packages/tcgunel%2Fomniship-navlungo) | v0.0.2 |  | Navlungo Domestic carrier for Omniship shipping library |
+| 2026-09-28 16:26:10 | [spora-ai/spora-plugin-staan](https://www.nuget.org/packages/spora-ai%2Fspora-plugin-staan) | v0.1.0 |  | EU-hosted web search via Staan — ranked results, or relevance-scored page excer… |
+| 2026-09-28 16:28:11 | [polunich/wp-jsonapi](https://www.nuget.org/packages/polunich%2Fwp-jsonapi) | v1.0.0 |  | JSON:API 1.1 on the WordPress REST API |
+| 2026-09-28 16:29:29 | [dirthara/messaging](https://www.nuget.org/packages/dirthara%2Fmessaging) | 0.1.0 | Dirthara | Transport-neutral, one-way message publishing for PHP and the Dirthara framework |
+| 2026-09-28 16:31:31 | [altirs/sdk](https://www.nuget.org/packages/altirs%2Fsdk) | v0.1.0 |  | PHP SDK for Altirs — Guardrails-as-a-Service API |
+| 2026-09-28 16:59:55 | [orbis-cms/mcp](https://www.nuget.org/packages/orbis-cms%2Fmcp) | 0.0.4 |  | MCP server integration for Orbis CMS. |
+| 2026-09-28 17:04:23 | [skyyware/stage-cms](https://www.nuget.org/packages/skyyware%2Fstage-cms) | v0.1.0 |  | A CMS for people and agents, built on Stage. |
+| 2026-09-28 17:14:15 | [payloadshield/laravelps](https://www.nuget.org/packages/payloadshield%2Flaravelps) | 1.0.0 | Ganesh Kandu | Pluggable Laravel middleware for encrypting/decrypting request and response pay… |
+| 2026-09-28 17:15:32 | [jblab/wide-events-bundle](https://www.nuget.org/packages/jblab%2Fwide-events-bundle) | 0.1.0 |  | Safe, structured canonical wide events bundle for Symfony applications. |
 
 ## Data source
 
