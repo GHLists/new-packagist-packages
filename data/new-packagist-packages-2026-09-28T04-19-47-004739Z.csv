@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-09-28T03:24:16Z,kasera/kasera-pay,v0.1.0,,Official PHP SDK for Kasera Pay: accept QRIS and Virtual Account payments in Indonesia.
+2026-09-28T03:36:57Z,runapi-ai/typesafe,v0.2.0,RunAPI,RunAPI TypeSafe Composer package for PHP applications
+2026-09-28T04:07:53Z,medigital-dev/ci4-base,v1.0.0,,"Base model dan util reusable untuk project CodeIgniter 4 (UUID PK, soft delete, mini-DSL, bulk sync)"
