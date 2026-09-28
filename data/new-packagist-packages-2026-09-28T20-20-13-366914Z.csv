@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-09-28T19:41:19Z,reynotech/dev-login-laravel,v0.1.0,,Development-only local account seeder for the Dev Login browser extension
+2026-09-28T19:54:55Z,znojil/vies,v1.0.0,Marek Znojil,PHP client for the EU VIES VAT number validation service.
+2026-09-28T19:58:09Z,kaveraa/data-lifecycle,v1.0.0,Augustin Kavera,"Conservation et cycle de vie des données personnelles pour Laravel et Symfony/Doctrine : durée de conservation, rappel avant échéance, désactivation avec période de grâce, puis anonymisation ou suppression."
+2026-09-28T20:02:32Z,phpsoftbox/barcode,v1.0.0,Anton K.,Barcode and QR generation component for the PhpSoftBox framework
+2026-09-28T20:03:41Z,huzaifaarain/laravel-pulse-mcp,v0.1.0,Huzaifa Saif-ur-Rehman,Securely expose Laravel Pulse production monitoring data to AI agents through an OAuth-protected MCP server.

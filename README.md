@@ -15,24 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 19:20 UTC
+## Latest list — 2026-09-28 20:20 UTC
 
-New packages created between 2026-09-28 18:19 UTC and 2026-09-28 19:20 UTC.
+New packages created between 2026-09-28 19:20 UTC and 2026-09-28 20:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-28T19-20-04-191041Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-28T20-20-13-366914Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-28 18:32:44 | [jeytekdev/explain-lint](https://www.nuget.org/packages/jeytekdev%2Fexplain-lint) | v1.0.0 | Jeytekdev | Re-runs EXPLAIN against every SQL query captured during your test suite and fai… |
-| 2026-09-28 18:32:45 | [jeytekdev/explain-lint-laravel](https://www.nuget.org/packages/jeytekdev%2Fexplain-lint-laravel) | v1.0.0 | Jeytekdev | Laravel bridge for jeytekdev/explain-lint — captures queries via DB::listen() a… |
-| 2026-09-28 18:32:46 | [jeytekdev/explain-lint-yii2](https://www.nuget.org/packages/jeytekdev%2Fexplain-lint-yii2) | v1.0.0 | Jeytekdev | Yii2 bridge for jeytekdev/explain-lint — wraps the DB connection's PDO handle a… |
-| 2026-09-28 18:32:49 | [jeytekdev/explain-lint-doctrine](https://www.nuget.org/packages/jeytekdev%2Fexplain-lint-doctrine) | v1.0.0 | Jeytekdev | Doctrine DBAL bridge for jeytekdev/explain-lint — captures queries via a Driver… |
-| 2026-09-28 18:34:06 | [erag/inertia-forms](https://www.nuget.org/packages/erag%2Finertia-forms) | v0.0.1 | Er Amit Gupta | Define Laravel forms in PHP and render them with Inertia.js in Vue, React, or S… |
-| 2026-09-28 18:42:31 | [sailantis/clarity-engine](https://www.nuget.org/packages/sailantis%2Fclarity-engine) | v0.1.0 | Sailantis | A fast and powerful Template engine for PHP inspired by Twig. |
-| 2026-09-28 18:51:18 | [pigagent/pig](https://www.nuget.org/packages/pigagent%2Fpig) | v0.1.0 | owner888 | pi, ported to PHP: agent core, unified LLM API, terminal UI, coding agent CLI |
-| 2026-09-28 19:06:55 | [codingducksrl/laravel-queue-monitor](https://www.nuget.org/packages/codingducksrl%2Flaravel-queue-monitor) | 1.0.0 | Coding Duck s.r.l. | Queue monitoring for Laravel applications |
-| 2026-09-28 19:14:19 | [yossuf/laravel-geocoding](https://www.nuget.org/packages/yossuf%2Flaravel-geocoding) | v0.1.0 |  | Minimalist, self-hosted geocoding using datasets from national registry. |
-| 2026-09-28 19:19:29 | [lenorix/laravel-beel](https://www.nuget.org/packages/lenorix%2Flaravel-beel) | v0.1.0 | Jesus Hernandez | Laravel integration for the BeeL invoicing API unofficial PHP SDK |
+| 2026-09-28 19:41:19 | [reynotech/dev-login-laravel](https://www.nuget.org/packages/reynotech%2Fdev-login-laravel) | v0.1.0 |  | Development-only local account seeder for the Dev Login browser extension |
+| 2026-09-28 19:54:55 | [znojil/vies](https://www.nuget.org/packages/znojil%2Fvies) | v1.0.0 | Marek Znojil | PHP client for the EU VIES VAT number validation service. |
+| 2026-09-28 19:58:09 | [kaveraa/data-lifecycle](https://www.nuget.org/packages/kaveraa%2Fdata-lifecycle) | v1.0.0 | Augustin Kavera | Conservation et cycle de vie des données personnelles pour Laravel et Symfony/D… |
+| 2026-09-28 20:02:32 | [phpsoftbox/barcode](https://www.nuget.org/packages/phpsoftbox%2Fbarcode) | v1.0.0 | Anton K. | Barcode and QR generation component for the PhpSoftBox framework |
+| 2026-09-28 20:03:41 | [huzaifaarain/laravel-pulse-mcp](https://www.nuget.org/packages/huzaifaarain%2Flaravel-pulse-mcp) | v0.1.0 | Huzaifa Saif-ur-Rehman | Securely expose Laravel Pulse production monitoring data to AI agents through a… |
 
 ## Data source
 
