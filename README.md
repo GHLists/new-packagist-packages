@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 00:19 UTC
+## Latest list — 2026-09-28 02:22 UTC
 
-New packages created between 2026-09-27 23:21 UTC and 2026-09-28 00:19 UTC.
+New packages created between 2026-09-28 01:20 UTC and 2026-09-28 02:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-28T00-19-57-060404Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-28T02-22-38-587509Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-27 23:48:41 | [dirthara/validation](https://www.nuget.org/packages/dirthara%2Fvalidation) | 0.1.0 | Dirthara | Validation for the Dirthara framework |
+| 2026-09-28 02:08:05 | [dirthara/authorisation](https://www.nuget.org/packages/dirthara%2Fauthorisation) | 0.1.0 | Dirthara | Standalone policy-based authorisation for PHP and the Dirthara framework |
 
 ## Data source
 
