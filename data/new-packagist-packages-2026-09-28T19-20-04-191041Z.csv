@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-09-28T18:32:44Z,jeytekdev/explain-lint,v1.0.0,Jeytekdev,"Re-runs EXPLAIN against every SQL query captured during your test suite and fails the build on full table scans, lost indexes, filesort and temporary tables."
+2026-09-28T18:32:45Z,jeytekdev/explain-lint-laravel,v1.0.0,Jeytekdev,Laravel bridge for jeytekdev/explain-lint — captures queries via DB::listen() and provides a service provider with auto-discovery.
+2026-09-28T18:32:46Z,jeytekdev/explain-lint-yii2,v1.0.0,Jeytekdev,Yii2 bridge for jeytekdev/explain-lint — wraps the DB connection's PDO handle and re-runs EXPLAIN on the same connection.
+2026-09-28T18:32:49Z,jeytekdev/explain-lint-doctrine,v1.0.0,Jeytekdev,Doctrine DBAL bridge for jeytekdev/explain-lint — captures queries via a Driver\Middleware and re-runs EXPLAIN on the same connection.
+2026-09-28T18:34:06Z,erag/inertia-forms,v0.0.1,Er Amit Gupta,"Define Laravel forms in PHP and render them with Inertia.js in Vue, React, or Svelte. Validation, conditional visibility, authorization, and model binding included."
+2026-09-28T18:42:31Z,sailantis/clarity-engine,v0.1.0,Sailantis,A fast and powerful Template engine for PHP inspired by Twig.
+2026-09-28T18:51:18Z,pigagent/pig,v0.1.0,owner888,"pi, ported to PHP: agent core, unified LLM API, terminal UI, coding agent CLI"
+2026-09-28T19:06:55Z,codingducksrl/laravel-queue-monitor,1.0.0,Coding Duck s.r.l.,Queue monitoring for Laravel applications
+2026-09-28T19:14:19Z,yossuf/laravel-geocoding,v0.1.0,,"Minimalist, self-hosted geocoding using datasets from national registry."
+2026-09-28T19:19:29Z,lenorix/laravel-beel,v0.1.0,Jesus Hernandez,Laravel integration for the BeeL invoicing API unofficial PHP SDK
