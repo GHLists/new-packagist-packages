@@ -15,30 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 23:21 UTC
+## Latest list — 2026-09-28 00:19 UTC
 
-New packages created between 2026-09-27 22:20 UTC and 2026-09-27 23:21 UTC.
+New packages created between 2026-09-27 23:21 UTC and 2026-09-28 00:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-27T23-21-42-593015Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-28T00-19-57-060404Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-27 22:32:58 | [componenta/auth-app](https://www.nuget.org/packages/componenta%2Fauth-app) | v2.0.1 |  | Authentication context integration for Componenta DI v5 |
-| 2026-09-27 22:32:58 | [componenta/auth-http](https://www.nuget.org/packages/componenta%2Fauth-http) | v1.0.0 |  | PSR-7/PSR-15 HTTP integration for Componenta Auth |
-| 2026-09-27 22:32:58 | [componenta/auth-token](https://www.nuget.org/packages/componenta%2Fauth-token) | v1.0.0 |  | Purpose-separated one-time bearer tokens for Componenta authentication flows |
-| 2026-09-27 22:32:59 | [componenta/auth-jwt](https://www.nuget.org/packages/componenta%2Fauth-jwt) | v1.0.0 |  | JWT access tokens and rotating refresh-token families for Componenta Auth 3 |
-| 2026-09-27 22:32:59 | [componenta/auth-session](https://www.nuget.org/packages/componenta%2Fauth-session) | v1.0.0 |  | Authentication-session contracts and lifecycle for Componenta Auth |
-| 2026-09-27 22:33:00 | [componenta/auth-session-app](https://www.nuget.org/packages/componenta%2Fauth-session-app) | v1.0.0 |  | Current authentication-session parameter integration for Componenta DI |
-| 2026-09-27 22:33:00 | [componenta/auth-session-database](https://www.nuget.org/packages/componenta%2Fauth-session-database) | v1.0.0 |  | Cycle Database persistence for Componenta authentication sessions |
-| 2026-09-27 22:33:01 | [componenta/auth-magic-link](https://www.nuget.org/packages/componenta%2Fauth-magic-link) | v1.0.0 |  | Pre-auth-bound magic-link authentication for Componenta Auth 3 |
-| 2026-09-27 22:33:01 | [componenta/auth-session-http](https://www.nuget.org/packages/componenta%2Fauth-session-http) | v1.0.0 |  | PSR-7/PSR-15 browser transport for Componenta authentication sessions |
-| 2026-09-27 22:33:02 | [componenta/auth-otp](https://www.nuget.org/packages/componenta%2Fauth-otp) | v1.0.0 |  | Bound one-time-code authentication challenges for Componenta Auth 3 |
-| 2026-09-27 22:33:02 | [componenta/auth-password](https://www.nuget.org/packages/componenta%2Fauth-password) | v1.0.0 |  | Password authentication and password-reset HTTP flows for Componenta Auth 3 |
-| 2026-09-27 22:33:03 | [componenta/auth-recovery-code](https://www.nuget.org/packages/componenta%2Fauth-recovery-code) | v1.0.0 |  | Single-use recovery codes for Componenta Auth 3 |
-| 2026-09-27 22:33:03 | [componenta/auth-remember-me](https://www.nuget.org/packages/componenta%2Fauth-remember-me) | v1.0.0 |  | Rotating persistent remember-me grants for Componenta Auth 3 |
-| 2026-09-27 22:33:04 | [componenta/auth-totp](https://www.nuget.org/packages/componenta%2Fauth-totp) | v1.0.0 |  | Encrypted TOTP enrollment and reauthentication for Componenta Auth 3 |
-| 2026-09-27 22:33:04 | [componenta/auth-webauthn](https://www.nuget.org/packages/componenta%2Fauth-webauthn) | v1.0.0 |  | WebAuthn/passkey authentication and reauthentication for Componenta Auth 3 |
-| 2026-09-27 23:03:14 | [ussaaass/hyperf-swagger](https://www.nuget.org/packages/ussaaass%2Fhyperf-swagger) | v3.2.6 |  | A swagger library for Hyperf. |
+| 2026-09-27 23:48:41 | [dirthara/validation](https://www.nuget.org/packages/dirthara%2Fvalidation) | 0.1.0 | Dirthara | Validation for the Dirthara framework |
 
 ## Data source
 
