@@ -15,24 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 21:19 UTC
+## Latest list — 2026-09-29 22:21 UTC
 
-New packages created between 2026-09-29 20:20 UTC and 2026-09-29 21:19 UTC.
+New packages created between 2026-09-29 21:19 UTC and 2026-09-29 22:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-29T21-19-52-444025Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-29T22-21-15-105737Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-29 20:21:14 | [hubmais/h-http-client](https://www.nuget.org/packages/hubmais%2Fh-http-client) | 1.0.0 |  | Http Client to access Api HUBMAIS |
-| 2026-09-29 20:21:19 | [mage2kishan/module-cachemanager](https://www.nuget.org/packages/mage2kishan%2Fmodule-cachemanager) | 1.0.7 | Kishan Savaliya | Smart cache invalidation on entity save and automated cache warmup with concurr… |
-| 2026-09-29 20:29:24 | [mage2kishan/module-checkout-extended](https://www.nuget.org/packages/mage2kishan%2Fmodule-checkout-extended) | 1.1.4 | Kishan Savaliya | Enhanced one-page checkout for Magento 2 with configurable multi-column layouts… |
-| 2026-09-29 20:33:28 | [leeovery/rules-engine](https://www.nuget.org/packages/leeovery%2Frules-engine) | v1.0.0 | Lee Overy | A rules engine for Laravel that resolves values from named rule sets against fa… |
-| 2026-09-29 20:36:25 | [mage2kishan/module-checkout-success](https://www.nuget.org/packages/mage2kishan%2Fmodule-checkout-success) | 1.0.8 | Kishan Savaliya | Modern, configurable checkout success page for Magento 2. Replaces the default… |
-| 2026-09-29 20:45:12 | [mage2kishan/module-corewebvitals](https://www.nuget.org/packages/mage2kishan%2Fmodule-corewebvitals) | 1.0.11 | Kishan Savaliya | Real-time Core Web Vitals monitoring with LCP, FID, CLS tracking using Performa… |
-| 2026-09-29 20:55:52 | [mage2kishan/module-crosslinks](https://www.nuget.org/packages/mage2kishan%2Fmodule-crosslinks) | 1.0.11 |  | Automatic internal crosslinks for Magento 2 (Hyva + Luma). Converts configured… |
-| 2026-09-29 21:03:12 | [mage2kishan/module-custom-options](https://www.nuget.org/packages/mage2kishan%2Fmodule-custom-options) | 1.0.8 | Kishan Savaliya | Panth Custom Options — beautifully styled product custom options for Hyva-based… |
-| 2026-09-29 21:10:11 | [afaztech/reactor](https://www.nuget.org/packages/afaztech%2Freactor) | v0.1.1 |  | Application skeleton for the Reactor PHP framework |
-| 2026-09-29 21:17:51 | [mage2kishan/module-dynamic-forms](https://www.nuget.org/packages/mage2kishan%2Fmodule-dynamic-forms) | 1.1.3 |  | Dynamic Forms module for Magento 2 - Create and manage custom forms with drag-a… |
+| 2026-09-29 21:24:34 | [markhamsq/nitpick](https://www.nuget.org/packages/markhamsq%2Fnitpick) | 0.1.0 | Nick Basile | A local QA panel for Laravel: scenarios, one-click persona login and reset, che… |
+| 2026-09-29 21:25:26 | [youmad/endurance-activity-postgresql](https://www.nuget.org/packages/youmad%2Fendurance-activity-postgresql) | v0.1.0 |  | Doctrine DBAL adapters and migrations for PostgreSQL activity storage |
+| 2026-09-29 21:28:48 | [mage2kishan/module-error-monitor](https://www.nuget.org/packages/mage2kishan%2Fmodule-error-monitor) | 1.5.10 | Kishan Savaliya | Panth Error Monitor - smart, secure error management for Magento 2. Captures PH… |
+| 2026-09-29 21:35:38 | [mailhive/mailhive-php](https://www.nuget.org/packages/mailhive%2Fmailhive-php) | v0.1.0 |  | The official PHP SDK for Mailhive Send, with a Laravel mail transport. |
+| 2026-09-29 21:36:38 | [dex/curio](https://www.nuget.org/packages/dex%2Fcurio) | 0.1.0 | Eder Soares | A curious way to query Eloquent |
+| 2026-09-29 21:44:37 | [reconcilekit/core](https://www.nuget.org/packages/reconcilekit%2Fcore) | v0.1.0 |  | Financial reconciliation for Laravel: compare internal payments with provider d… |
+| 2026-09-29 22:02:17 | [mage2kishan/module-extra-fee](https://www.nuget.org/packages/mage2kishan%2Fmodule-extra-fee) | 1.0.10 | Kishan Savaliya | Panth Extra Fee — add configurable extra fees and surcharges to Magento 2 check… |
+| 2026-09-29 22:15:07 | [mage2kishan/module-faq](https://www.nuget.org/packages/mage2kishan%2Fmodule-faq) | 1.2.3 | Kishan Savaliya | Advanced FAQ Module with multi-level assignment capabilities |
 
 ## Data source
 

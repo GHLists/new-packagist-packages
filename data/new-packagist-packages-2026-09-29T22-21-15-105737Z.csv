@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-09-29T21:24:34Z,markhamsq/nitpick,0.1.0,Nick Basile,"A local QA panel for Laravel: scenarios, one-click persona login and reset, checklists, captured mail, and round reports that an agent can read."
+2026-09-29T21:25:26Z,youmad/endurance-activity-postgresql,v0.1.0,,Doctrine DBAL adapters and migrations for PostgreSQL activity storage
+2026-09-29T21:28:48Z,mage2kishan/module-error-monitor,1.5.10,Kishan Savaliya,"Panth Error Monitor - smart, secure error management for Magento 2. Captures PHP exceptions and storefront JavaScript console errors into deduplicated, grouped database records, and sends throttled digest email alerts so your inbox is never flooded. Includes an admin review grid, severity-based fil…"
+2026-09-29T21:35:38Z,mailhive/mailhive-php,v0.1.0,,"The official PHP SDK for Mailhive Send, with a Laravel mail transport."
+2026-09-29T21:36:38Z,dex/curio,0.1.0,Eder Soares,A curious way to query Eloquent
+2026-09-29T21:44:37Z,reconcilekit/core,v0.1.0,,"Financial reconciliation for Laravel: compare internal payments with provider data and detect missing, duplicate and mismatched transactions."
+2026-09-29T22:02:17Z,mage2kishan/module-extra-fee,1.0.10,Kishan Savaliya,"Panth Extra Fee — add configurable extra fees and surcharges to Magento 2 checkout based on payment method, customer group, country/region, products, categories, order amount, and more. Fixed, percentage, or combined fee calculation with full tax and refund support."
+2026-09-29T22:15:07Z,mage2kishan/module-faq,1.2.3,Kishan Savaliya,Advanced FAQ Module with multi-level assignment capabilities
