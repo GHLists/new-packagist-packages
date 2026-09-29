@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-09-29T00:24:27Z,dirthara/queue,0.1.0,Dirthara,Transport-neutral message queues and workers for PHP and the Dirthara framework
+2026-09-29T00:26:07Z,senddart/senddart,v1.0.0,,Official SendDart PHP SDK — send transactional and marketing email from your own verified domain.
+2026-09-29T00:29:00Z,petar-spasic/laravel-kanban,v0.1.2,Petar Spasic,"Git-backed kanban board, worktree workflow and Claude Code hooks for Laravel projects (dev-only)."
+2026-09-29T00:29:07Z,petar-spasic/laravel-house,v0.1.2,Petar Spasic,"House skills for Laravel projects (project setup, Docker hosting, laravel-kanban adoption), installed into Claude Code by Laravel Boost."
+2026-09-29T00:31:39Z,monkeyscloud/monkeyslegion-inertia,1.0.0,,Inertia.js server adapter for MonKeysLegion — bridges PHP controllers with React/Vue SPAs.
+2026-09-29T00:39:16Z,automattic/jetpack-sharing-likes,v0.1.0,,Sharing buttons and Like buttons for your posts.
+2026-09-29T00:41:03Z,automattic/jetpack-ads,v0.1.0,,WordAds: the Ads section and widgets of the Premium Analytics dashboard.
+2026-09-29T01:01:12Z,nnaemekanweke/logwatch,v1.0.0,,Push your Laravel app's logs to LogWatch as a standard log channel.
+2026-09-29T01:02:14Z,monkeyscloud/monkeyslegion-testing,1.0.0,,"Testing toolkit for MonKeysLegion — HTTP testing DSL, database traits, fake subsystems, snapshots."
+2026-09-29T01:02:40Z,monkeyscloud/monkeyslegion-vite,1.0.0,,"Vite asset pipeline integration for MonKeysLegion — manifest parser, @vite directive, dev mode detection."

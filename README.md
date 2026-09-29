@@ -15,20 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 00:20 UTC
+## Latest list — 2026-09-29 01:22 UTC
 
-New packages created between 2026-09-28 23:21 UTC and 2026-09-29 00:20 UTC.
+New packages created between 2026-09-29 00:20 UTC and 2026-09-29 01:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-29T00-20-50-462218Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-29T01-22-35-29897Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-28 23:22:00 | [upbot/dependencies](https://www.nuget.org/packages/upbot%2Fdependencies) | v0.1.0 |  | Send a minimal Composer/npm dependency inventory to UpBot |
-| 2026-09-28 23:31:11 | [upbot/laravel-dependencies](https://www.nuget.org/packages/upbot%2Flaravel-dependencies) | v0.1.0 |  | UpBot dependency reports through Laravel Artisan and Scheduler |
-| 2026-09-28 23:48:58 | [monkeyscloud/monkeyslegion-feature-flags](https://www.nuget.org/packages/monkeyscloud%2Fmonkeyslegion-feature-flags) | 1.0.0 |  | Feature flags package for MonKeysLegion framework |
-| 2026-09-28 23:48:59 | [4rn0/statamic-cp-bar](https://www.nuget.org/packages/4rn0%2Fstatamic-cp-bar) | v1.0.0 | Arno Hoogma | WordPress's admin bar, rebuilt for Statamic: edit, add and refresh any page fro… |
-| 2026-09-28 23:49:31 | [monkeyscloud/monkeyslegion-webhooks](https://www.nuget.org/packages/monkeyscloud%2Fmonkeyslegion-webhooks) | 1.0.0 |  | Webhook management package for MonKeysLegion framework |
-| 2026-09-28 23:50:05 | [monkeyscloud/monkeyslegion-markdown](https://www.nuget.org/packages/monkeyscloud%2Fmonkeyslegion-markdown) | 1.0.0 |  | Markdown rendering package for MonKeysLegion framework |
+| 2026-09-29 00:24:27 | [dirthara/queue](https://www.nuget.org/packages/dirthara%2Fqueue) | 0.1.0 | Dirthara | Transport-neutral message queues and workers for PHP and the Dirthara framework |
+| 2026-09-29 00:26:07 | [senddart/senddart](https://www.nuget.org/packages/senddart%2Fsenddart) | v1.0.0 |  | Official SendDart PHP SDK — send transactional and marketing email from your ow… |
+| 2026-09-29 00:29:00 | [petar-spasic/laravel-kanban](https://www.nuget.org/packages/petar-spasic%2Flaravel-kanban) | v0.1.2 | Petar Spasic | Git-backed kanban board, worktree workflow and Claude Code hooks for Laravel pr… |
+| 2026-09-29 00:29:07 | [petar-spasic/laravel-house](https://www.nuget.org/packages/petar-spasic%2Flaravel-house) | v0.1.2 | Petar Spasic | House skills for Laravel projects (project setup, Docker hosting, laravel-kanba… |
+| 2026-09-29 00:31:39 | [monkeyscloud/monkeyslegion-inertia](https://www.nuget.org/packages/monkeyscloud%2Fmonkeyslegion-inertia) | 1.0.0 |  | Inertia.js server adapter for MonKeysLegion — bridges PHP controllers with Reac… |
+| 2026-09-29 00:39:16 | [automattic/jetpack-sharing-likes](https://www.nuget.org/packages/automattic%2Fjetpack-sharing-likes) | v0.1.0 |  | Sharing buttons and Like buttons for your posts. |
+| 2026-09-29 00:41:03 | [automattic/jetpack-ads](https://www.nuget.org/packages/automattic%2Fjetpack-ads) | v0.1.0 |  | WordAds: the Ads section and widgets of the Premium Analytics dashboard. |
+| 2026-09-29 01:01:12 | [nnaemekanweke/logwatch](https://www.nuget.org/packages/nnaemekanweke%2Flogwatch) | v1.0.0 |  | Push your Laravel app's logs to LogWatch as a standard log channel. |
+| 2026-09-29 01:02:14 | [monkeyscloud/monkeyslegion-testing](https://www.nuget.org/packages/monkeyscloud%2Fmonkeyslegion-testing) | 1.0.0 |  | Testing toolkit for MonKeysLegion — HTTP testing DSL, database traits, fake sub… |
+| 2026-09-29 01:02:40 | [monkeyscloud/monkeyslegion-vite](https://www.nuget.org/packages/monkeyscloud%2Fmonkeyslegion-vite) | 1.0.0 |  | Vite asset pipeline integration for MonKeysLegion — manifest parser, @vite dire… |
 
 ## Data source
 
