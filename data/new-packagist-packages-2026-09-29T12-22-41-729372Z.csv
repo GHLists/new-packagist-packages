@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-09-29T11:22:12Z,odemehub/php-sdk,v1.0.0,,ödemehub ödeme geçidi için PHP istemcisi.
+2026-09-29T11:31:57Z,notideus/notideus-php,1.0.0,,Official PHP SDK for the Notideus email API
+2026-09-29T11:42:29Z,quaxis/hello,v0.1.0,Yusuf Özdemir,Quaxis example package.
+2026-09-29T11:54:27Z,dhank77/qris-dinamis,v1.0.0,M. Hamdani Ilham Latjoro; Gidhan,"Convert static QRIS to dynamic QRIS in PHP: parse, validate, inject amount & service fee, recalculate CRC16. Zero dependencies."
+2026-09-29T11:56:18Z,php-io-extensions/kqueue,v0.10.0,"Project Saturn Studios, LLC","1:1 PHP bindings of kqueue(2): kqueue(), kevent(), kevent64(), EV_SET(), EV_SET64()"
+2026-09-29T12:04:35Z,ventusforge/neos-token-auth-manager,0.2.0,,Backend Module to manage auth tokens for Neos
+2026-09-29T12:08:11Z,ffans/community-notes,v2.0.0-beta.1,Golden; FFans,Let the community add and rate notes that provide context for potentially misleading posts.
+2026-09-29T12:09:32Z,vibefilter/filament,v0.1.0,András Horváth,Filter your Filament tables by vibe: natural-language table filters powered by TypeSafe Jev.
