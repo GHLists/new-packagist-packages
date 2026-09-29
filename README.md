@@ -15,21 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 19:21 UTC
+## Latest list — 2026-09-29 20:20 UTC
 
-New packages created between 2026-09-29 18:20 UTC and 2026-09-29 19:21 UTC.
+New packages created between 2026-09-29 19:21 UTC and 2026-09-29 20:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-29T19-21-09-520622Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-29T20-20-18-953569Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-29 18:23:17 | [syriable/maintenance-guard](https://www.nuget.org/packages/syriable%2Fmaintenance-guard) | 1.0.0 | Syriable | Dynamic, extensible access control for Laravel's native maintenance mode. |
-| 2026-09-29 18:37:28 | [mage2kishan/module-admin-menu-manager](https://www.nuget.org/packages/mage2kishan%2Fmodule-admin-menu-manager) | 1.0.11 | Kishan Savaliya | Customises the Magento 2 backend menu — hide, rename, re-icon, recolor, reorder… |
-| 2026-09-29 18:37:30 | [augustash/mna_neo](https://www.nuget.org/packages/augustash%2Fmna_neo) | 1.0.0 |  | Neo Alchemist components shared by MNA sites. |
-| 2026-09-29 18:42:56 | [iberfacil/eidas-cert-auth](https://www.nuget.org/packages/iberfacil%2Feidas-cert-auth) | v0.1.1 | Marco Gavilán | Autentica en PHP con certificados eIDAS (FNMT, DNIe y UE), listas de confianza… |
-| 2026-09-29 18:46:59 | [mage2kishan/module-advanced-contact-us](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-contact-us) | 1.0.13 |  | Advanced Contact Us Page - Custom fields, bot protection, submission management… |
-| 2026-09-29 18:51:30 | [bifrostcrypto/sdk](https://www.nuget.org/packages/bifrostcrypto%2Fsdk) | v0.1.0 |  | Official Bifrost Crypto API client for PHP |
-| 2026-09-29 19:03:55 | [mage2kishan/module-advanced-product-grid](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-product-grid) | 1.0.8 | Kishan Savaliya | Advanced Product Grid for Magento 2 admin - inline edit every column (text, sel… |
+| 2026-09-29 19:35:11 | [mage2kishan/module-advancedcart](https://www.nuget.org/packages/mage2kishan%2Fmodule-advancedcart) | 1.0.9 |  | Advanced Cart Page Enhancements - Free shipping bar, qty buttons, trust badges,… |
+| 2026-09-29 19:37:50 | [youmad/endurance-activity-fit](https://www.nuget.org/packages/youmad%2Fendurance-activity-fit) | v0.1.1 |  | Streaming FIT-to-activity mapping and import coordination |
+| 2026-09-29 19:48:20 | [jgawlik/laravel-journal](https://www.nuget.org/packages/jgawlik%2Flaravel-journal) | v1.0.0 | Jakub Gawlik | A Laravel package providing a multi-user journal API with CRUD operations. |
+| 2026-09-29 19:50:11 | [mage2kishan/module-banner-slider](https://www.nuget.org/packages/mage2kishan%2Fmodule-banner-slider) | 1.0.11 | Kishan Savaliya | Panth Banner Slider Module - Responsive banner slider widget with Luma and Hyva… |
 
 ## Data source
 
