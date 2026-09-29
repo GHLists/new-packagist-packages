@@ -15,19 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 09:21 UTC
+## Latest list — 2026-09-29 10:20 UTC
 
-New packages created between 2026-09-29 08:25 UTC and 2026-09-29 09:21 UTC.
+New packages created between 2026-09-29 09:21 UTC and 2026-09-29 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-29T09-21-17-247401Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-29T10-20-14-958617Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-29 08:36:09 | [ganadev/laravel-shield](https://www.nuget.org/packages/ganadev%2Flaravel-shield) | v1.0.0 | Ganadev | Laravel adapter for Ganadev Shield - adaptive application firewall. |
-| 2026-09-29 08:38:38 | [elgentos/module-gallery-mp4-solver](https://www.nuget.org/packages/elgentos%2Fmodule-gallery-mp4-solver) | v1.0.0 |  | MP4 support for the Magento media gallery: upload, sync, poster thumbnails and… |
-| 2026-09-29 08:43:06 | [prestouniverse/presto-pay-sdk](https://www.nuget.org/packages/prestouniverse%2Fpresto-pay-sdk) | v0.1.0 | Presto Universe | Presto Pay merchant SDK for PHP |
-| 2026-09-29 08:55:24 | [omniphp/framework](https://www.nuget.org/packages/omniphp%2Fframework) | v0.1.0 | owner888 | OmniPHP — The universal PHP framework. Lightweight, Workerman-based: HTTP route… |
-| 2026-09-29 09:18:13 | [jeytekdev/explain-lint-codeception](https://www.nuget.org/packages/jeytekdev%2Fexplain-lint-codeception) | v1.1.0 | Jeytekdev | Codeception bridge for jeytekdev/explain-lint — analyzes and reports captured q… |
+| 2026-09-29 09:46:48 | [adimiuprix/coinmarketcap](https://www.nuget.org/packages/adimiuprix%2Fcoinmarketcap) | 1.0.0 | Igor Sazonov | CoinMarketCap API Client for Laravel |
+| 2026-09-29 09:56:05 | [smtping/mautic-email-verifier](https://www.nuget.org/packages/smtping%2Fmautic-email-verifier) | v1.0.0 | SMTPing | SMTPing Email Verifier for Mautic: verify contacts, block risky addresses on fo… |
+| 2026-09-29 10:14:21 | [shibuj/laravel-ai-chat-assistant](https://www.nuget.org/packages/shibuj%2Flaravel-ai-chat-assistant) | v0.1.0 | Shibu J | A BotMan-powered, tool-calling AI chat widget for Laravel with a swappable AI d… |
 
 ## Data source
 

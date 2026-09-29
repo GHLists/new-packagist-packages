@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-09-29T09:46:48Z,adimiuprix/coinmarketcap,1.0.0,Igor Sazonov,CoinMarketCap API Client for Laravel
+2026-09-29T09:56:05Z,smtping/mautic-email-verifier,v1.0.0,SMTPing,"SMTPing Email Verifier for Mautic: verify contacts, block risky addresses on forms, route campaigns by verification result."
+2026-09-29T10:14:21Z,shibuj/laravel-ai-chat-assistant,v0.1.0,Shibu J,"A BotMan-powered, tool-calling AI chat widget for Laravel with a swappable AI driver (Gemini by default)."
