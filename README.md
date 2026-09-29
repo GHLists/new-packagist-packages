@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 04:19 UTC
+## Latest list — 2026-09-29 06:21 UTC
 
-New packages created between 2026-09-29 03:22 UTC and 2026-09-29 04:19 UTC.
+New packages created between 2026-09-29 05:21 UTC and 2026-09-29 06:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-29T04-19-05-215423Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-29T06-21-17-779401Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-29 04:08:16 | [qiangvei/theme-amazon](https://www.nuget.org/packages/qiangvei%2Ftheme-amazon) | 1.0.0 |  | Amazon style theme for Magento 2.4 |
-| 2026-09-29 04:08:30 | [pimbay/search-query-pimcore](https://www.nuget.org/packages/pimbay%2Fsearch-query-pimcore) | v1.0.0 | Jan Sarmir | Pimcore Listing adapter for pimbay/search-query. |
+| 2026-09-29 06:10:39 | [fundrik/coding-standard](https://www.nuget.org/packages/fundrik%2Fcoding-standard) | 0.2.0 | Denis Yanchevskiy | Custom PHP_CodeSniffer rules for Fundrik |
+| 2026-09-29 06:11:21 | [socket-bridge/laravel-socketio](https://www.nuget.org/packages/socket-bridge%2Flaravel-socketio) | v0.1.0 |  | Reusable Laravel integration for authenticated Socket.IO events over Redis. |
 
 ## Data source
 

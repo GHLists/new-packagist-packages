@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-09-29T06:10:39Z,fundrik/coding-standard,0.2.0,Denis Yanchevskiy,Custom PHP_CodeSniffer rules for Fundrik
+2026-09-29T06:11:21Z,socket-bridge/laravel-socketio,v0.1.0,,Reusable Laravel integration for authenticated Socket.IO events over Redis.
