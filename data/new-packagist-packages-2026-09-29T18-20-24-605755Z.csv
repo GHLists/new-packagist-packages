@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-09-29T17:31:07Z,mage2kishan/module-image-seo,1.0.10,Kishan Savaliya,"Panth Image SEO — template-based alt/title generation for Magento 2 product images, with token substitution and gallery support."
+2026-09-29T17:49:16Z,kechankrisna/payway-partner,v1.0.0,Ke Chankrisna,"ABA PayWay partner API client for PHP. Register merchants, decrypt the pushback and inquire merchant info."
+2026-09-29T17:52:27Z,smronju/nativephp-secure-storage,1.0.0,Mohammad Shoriful Islam Ronju,"Implements NativePHP Mobile's SecureStorage::set()/get()/delete() on both platforms — Android Keystore (AES-256-GCM) on Android, the Keychain on iOS."
+2026-09-29T18:11:15Z,payloadshield/symfonyps,1.0.0,Ganesh Kandu,Symfony bundle for encrypting and decrypting HTTP payloads
