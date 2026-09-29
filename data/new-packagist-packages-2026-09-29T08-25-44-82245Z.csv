@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-09-29T07:25:50Z,vuthaihoc/laravel-xtdb2,v0.1.0-beta2,vuthaihoc,"An XTDB 2 database driver for Laravel: Eloquent, Query Builder and migrations over the PostgreSQL wire protocol, with bitemporal queries"
+2026-09-29T07:34:28Z,schachbulle/contao-schachcomputer-bundle,1.0.0,Frank Hoppe,"Gewertete Schachpartien gegen Stockfish im Browser für Contao: Bedenkzeiten aus dem Backend, Glicko-2-Wertung je Klasse, Ranglisten, Übungspartien und PGN-Archiv."
+2026-09-29T07:52:25Z,wexample/php-remote,1.0.2,weeger,"Registry, health checks and php-api client building for the external services a PHP app talks to"
+2026-09-29T07:54:36Z,protung/easyadmin-plus-bundle,v0.1.0,Dragos Protung; Cezary Stepkowski,"Extensions for EasyAdmin: base CRUD controllers, also for editing entities through DTOs, an entity field linking to the CRUD controller of the related entity, JSON and callback-configurable fields, an enum filter, menu item matchers, and PHPUnit test cases for dashboards and CRUD actions."
+2026-09-29T07:59:56Z,youmad/endurance-foundation,v0.1.1,,Foundational value objects and clock abstractions for activity processing
+2026-09-29T08:03:32Z,fyuri4/laravel-observability,v1.0.1,FURUSHKA,"Production-ready observability for Laravel: traces, spans, slow queries, exceptions."
