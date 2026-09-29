@@ -15,15 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 23:21 UTC
+## Latest list — 2026-09-29 00:20 UTC
 
-New packages created between 2026-09-28 22:22 UTC and 2026-09-28 23:21 UTC.
+New packages created between 2026-09-28 23:21 UTC and 2026-09-29 00:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-28T23-21-23-637127Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-29T00-20-50-462218Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-28 22:58:58 | [sailantis/azera-framework](https://www.nuget.org/packages/sailantis%2Fazera-framework) | v0.1.0 | Sailantis | A lightweight, fast PHP framework for building modern web and cli applications.… |
+| 2026-09-28 23:22:00 | [upbot/dependencies](https://www.nuget.org/packages/upbot%2Fdependencies) | v0.1.0 |  | Send a minimal Composer/npm dependency inventory to UpBot |
+| 2026-09-28 23:31:11 | [upbot/laravel-dependencies](https://www.nuget.org/packages/upbot%2Flaravel-dependencies) | v0.1.0 |  | UpBot dependency reports through Laravel Artisan and Scheduler |
+| 2026-09-28 23:48:58 | [monkeyscloud/monkeyslegion-feature-flags](https://www.nuget.org/packages/monkeyscloud%2Fmonkeyslegion-feature-flags) | 1.0.0 |  | Feature flags package for MonKeysLegion framework |
+| 2026-09-28 23:48:59 | [4rn0/statamic-cp-bar](https://www.nuget.org/packages/4rn0%2Fstatamic-cp-bar) | v1.0.0 | Arno Hoogma | WordPress's admin bar, rebuilt for Statamic: edit, add and refresh any page fro… |
+| 2026-09-28 23:49:31 | [monkeyscloud/monkeyslegion-webhooks](https://www.nuget.org/packages/monkeyscloud%2Fmonkeyslegion-webhooks) | 1.0.0 |  | Webhook management package for MonKeysLegion framework |
+| 2026-09-28 23:50:05 | [monkeyscloud/monkeyslegion-markdown](https://www.nuget.org/packages/monkeyscloud%2Fmonkeyslegion-markdown) | 1.0.0 |  | Markdown rendering package for MonKeysLegion framework |
 
 ## Data source
 

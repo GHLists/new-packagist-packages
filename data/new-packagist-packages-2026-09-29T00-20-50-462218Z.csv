@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-09-28T23:22:00Z,upbot/dependencies,v0.1.0,,Send a minimal Composer/npm dependency inventory to UpBot
+2026-09-28T23:31:11Z,upbot/laravel-dependencies,v0.1.0,,UpBot dependency reports through Laravel Artisan and Scheduler
+2026-09-28T23:48:58Z,monkeyscloud/monkeyslegion-feature-flags,1.0.0,,Feature flags package for MonKeysLegion framework
+2026-09-28T23:48:59Z,4rn0/statamic-cp-bar,v1.0.0,Arno Hoogma,"WordPress's admin bar, rebuilt for Statamic: edit, add and refresh any page from the front end. No template changes, safe with static caching."
+2026-09-28T23:49:31Z,monkeyscloud/monkeyslegion-webhooks,1.0.0,,Webhook management package for MonKeysLegion framework
+2026-09-28T23:50:05Z,monkeyscloud/monkeyslegion-markdown,1.0.0,,Markdown rendering package for MonKeysLegion framework
