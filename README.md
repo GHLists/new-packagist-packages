@@ -32,6 +32,9 @@ New packages created between 2026-09-29 12:22 UTC and 2026-09-29 13:20 UTC.
 | 2026-09-29 12:59:42 | [webx-ui/module-catalog](https://www.nuget.org/packages/webx-ui%2Fmodule-catalog) | v0.50.0 | WebX UI | A product catalogue for the WebX UI admin panel: products, a tree of categories… |
 | 2026-09-29 13:09:03 | [baggins800/reverb-rs](https://www.nuget.org/packages/baggins800%2Freverb-rs) | v0.1.0 | Ruan Luies | Laravel integration for reverb-rs, a drop-in Rust replacement for the Laravel R… |
 
+> The changes feed history did not cover this window completely, so
+> some packages may be missing.
+
 ## Data source
 
 Data comes from the [Packagist.org API](https://packagist.org/apidoc),
