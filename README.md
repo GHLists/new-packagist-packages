@@ -15,22 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 22:21 UTC
+## Latest list — 2026-09-29 23:19 UTC
 
-New packages created between 2026-09-29 21:19 UTC and 2026-09-29 22:21 UTC.
+New packages created between 2026-09-29 22:21 UTC and 2026-09-29 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-29T22-21-15-105737Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-29T23-19-28-596451Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-29 21:24:34 | [markhamsq/nitpick](https://www.nuget.org/packages/markhamsq%2Fnitpick) | 0.1.0 | Nick Basile | A local QA panel for Laravel: scenarios, one-click persona login and reset, che… |
-| 2026-09-29 21:25:26 | [youmad/endurance-activity-postgresql](https://www.nuget.org/packages/youmad%2Fendurance-activity-postgresql) | v0.1.0 |  | Doctrine DBAL adapters and migrations for PostgreSQL activity storage |
-| 2026-09-29 21:28:48 | [mage2kishan/module-error-monitor](https://www.nuget.org/packages/mage2kishan%2Fmodule-error-monitor) | 1.5.10 | Kishan Savaliya | Panth Error Monitor - smart, secure error management for Magento 2. Captures PH… |
-| 2026-09-29 21:35:38 | [mailhive/mailhive-php](https://www.nuget.org/packages/mailhive%2Fmailhive-php) | v0.1.0 |  | The official PHP SDK for Mailhive Send, with a Laravel mail transport. |
-| 2026-09-29 21:36:38 | [dex/curio](https://www.nuget.org/packages/dex%2Fcurio) | 0.1.0 | Eder Soares | A curious way to query Eloquent |
-| 2026-09-29 21:44:37 | [reconcilekit/core](https://www.nuget.org/packages/reconcilekit%2Fcore) | v0.1.0 |  | Financial reconciliation for Laravel: compare internal payments with provider d… |
-| 2026-09-29 22:02:17 | [mage2kishan/module-extra-fee](https://www.nuget.org/packages/mage2kishan%2Fmodule-extra-fee) | 1.0.10 | Kishan Savaliya | Panth Extra Fee — add configurable extra fees and surcharges to Magento 2 check… |
-| 2026-09-29 22:15:07 | [mage2kishan/module-faq](https://www.nuget.org/packages/mage2kishan%2Fmodule-faq) | 1.2.3 | Kishan Savaliya | Advanced FAQ Module with multi-level assignment capabilities |
+| 2026-09-29 22:21:24 | [simonecerruti/laravel-translation-audit](https://www.nuget.org/packages/simonecerruti%2Flaravel-translation-audit) | v0.1.0 | SimoneCerruti | Audit your app for missing or unused translations. |
+| 2026-09-29 22:23:54 | [mage2kishan/module-faq](https://www.nuget.org/packages/mage2kishan%2Fmodule-faq) | 1.2.4 | Kishan Savaliya | Advanced FAQ Module with multi-level assignment capabilities |
+| 2026-09-29 22:53:11 | [mage2kishan/module-filter-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-filter-seo) | 1.1.2 | Kishan Savaliya | Panth Filter SEO — clean path-based URLs for layered navigation filters + dynam… |
+| 2026-09-29 23:15:45 | [mralston/diagnostics](https://www.nuget.org/packages/mralston%2Fdiagnostics) | v1.0.0 | Matt Ralston | Run a suite of named checks against any Eloquent model, in parallel on the queu… |
 
 ## Data source
 
