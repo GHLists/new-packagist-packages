@@ -15,18 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 18:20 UTC
+## Latest list — 2026-09-29 19:21 UTC
 
-New packages created between 2026-09-29 17:20 UTC and 2026-09-29 18:20 UTC.
+New packages created between 2026-09-29 18:20 UTC and 2026-09-29 19:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-29T18-20-24-605755Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-29T19-21-09-520622Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-29 17:31:07 | [mage2kishan/module-image-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-image-seo) | 1.0.10 | Kishan Savaliya | Panth Image SEO — template-based alt/title generation for Magento 2 product ima… |
-| 2026-09-29 17:49:16 | [kechankrisna/payway-partner](https://www.nuget.org/packages/kechankrisna%2Fpayway-partner) | v1.0.0 | Ke Chankrisna | ABA PayWay partner API client for PHP. Register merchants, decrypt the pushback… |
-| 2026-09-29 17:52:27 | [smronju/nativephp-secure-storage](https://www.nuget.org/packages/smronju%2Fnativephp-secure-storage) | 1.0.0 | Mohammad Shoriful Islam Ronju | Implements NativePHP Mobile's SecureStorage::set()/get()/delete() on both platf… |
-| 2026-09-29 18:11:15 | [payloadshield/symfonyps](https://www.nuget.org/packages/payloadshield%2Fsymfonyps) | 1.0.0 | Ganesh Kandu | Symfony bundle for encrypting and decrypting HTTP payloads |
+| 2026-09-29 18:23:17 | [syriable/maintenance-guard](https://www.nuget.org/packages/syriable%2Fmaintenance-guard) | 1.0.0 | Syriable | Dynamic, extensible access control for Laravel's native maintenance mode. |
+| 2026-09-29 18:37:28 | [mage2kishan/module-admin-menu-manager](https://www.nuget.org/packages/mage2kishan%2Fmodule-admin-menu-manager) | 1.0.11 | Kishan Savaliya | Customises the Magento 2 backend menu — hide, rename, re-icon, recolor, reorder… |
+| 2026-09-29 18:37:30 | [augustash/mna_neo](https://www.nuget.org/packages/augustash%2Fmna_neo) | 1.0.0 |  | Neo Alchemist components shared by MNA sites. |
+| 2026-09-29 18:42:56 | [iberfacil/eidas-cert-auth](https://www.nuget.org/packages/iberfacil%2Feidas-cert-auth) | v0.1.1 | Marco Gavilán | Autentica en PHP con certificados eIDAS (FNMT, DNIe y UE), listas de confianza… |
+| 2026-09-29 18:46:59 | [mage2kishan/module-advanced-contact-us](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-contact-us) | 1.0.13 |  | Advanced Contact Us Page - Custom fields, bot protection, submission management… |
+| 2026-09-29 18:51:30 | [bifrostcrypto/sdk](https://www.nuget.org/packages/bifrostcrypto%2Fsdk) | v0.1.0 |  | Official Bifrost Crypto API client for PHP |
+| 2026-09-29 19:03:55 | [mage2kishan/module-advanced-product-grid](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-product-grid) | 1.0.8 | Kishan Savaliya | Advanced Product Grid for Magento 2 admin - inline edit every column (text, sel… |
 
 ## Data source
 

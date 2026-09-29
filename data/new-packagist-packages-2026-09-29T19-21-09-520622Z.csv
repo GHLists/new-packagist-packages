@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-09-29T18:23:17Z,syriable/maintenance-guard,1.0.0,Syriable,"Dynamic, extensible access control for Laravel's native maintenance mode."
+2026-09-29T18:37:28Z,mage2kishan/module-admin-menu-manager,1.0.11,Kishan Savaliya,"Customises the Magento 2 backend menu — hide, rename, re-icon, recolor, reorder and reparent any item, grouped into named 'views' you can flip between with one click. Includes an optional drilldown rendering style that adds a back button + search box to crowded L0 panels. Admin-only, no storefront…"
+2026-09-29T18:37:30Z,augustash/mna_neo,1.0.0,,Neo Alchemist components shared by MNA sites.
+2026-09-29T18:42:56Z,iberfacil/eidas-cert-auth,v0.1.1,Marco Gavilán,"Autentica en PHP con certificados eIDAS (FNMT, DNIe y UE), listas de confianza firmadas y revocación. CLI y Laravel."
+2026-09-29T18:46:59Z,mage2kishan/module-advanced-contact-us,1.0.13,,"Advanced Contact Us Page - Custom fields, bot protection, submission management, email notifications"
+2026-09-29T18:51:30Z,bifrostcrypto/sdk,v0.1.0,,Official Bifrost Crypto API client for PHP
+2026-09-29T19:03:55Z,mage2kishan/module-advanced-product-grid,1.0.8,Kishan Savaliya,"Advanced Product Grid for Magento 2 admin - inline edit every column (text, select, multiselect, date, price, image, tier price), auto-discover EAV attributes, 20+ extra columns (thumbnail, categories, availability, low stock, qty sold, tier prices, storefront URL), tabbed Manage Columns panel with…"
