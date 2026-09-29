@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-09-29T08:36:09Z,ganadev/laravel-shield,v1.0.0,Ganadev,Laravel adapter for Ganadev Shield - adaptive application firewall.
+2026-09-29T08:38:38Z,elgentos/module-gallery-mp4-solver,v1.0.0,,"MP4 support for the Magento media gallery: upload, sync, poster thumbnails and clean deletion of video assets"
+2026-09-29T08:43:06Z,prestouniverse/presto-pay-sdk,v0.1.0,Presto Universe,Presto Pay merchant SDK for PHP
+2026-09-29T08:55:24Z,omniphp/framework,v0.1.0,owner888,"OmniPHP — The universal PHP framework. Lightweight, Workerman-based: HTTP router & middleware, query builder & migrations, Redis Stream queue, template engine, cache, i18n and structured logging."
+2026-09-29T09:18:13Z,jeytekdev/explain-lint-codeception,v1.1.0,Jeytekdev,"Codeception bridge for jeytekdev/explain-lint — analyzes and reports captured queries via a Codeception\Extension, for projects whose tests run through codecept run instead of vendor/bin/phpunit."
