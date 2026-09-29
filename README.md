@@ -15,24 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 01:22 UTC
+## Latest list — 2026-09-29 04:19 UTC
 
-New packages created between 2026-09-29 00:20 UTC and 2026-09-29 01:22 UTC.
+New packages created between 2026-09-29 03:22 UTC and 2026-09-29 04:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-29T01-22-35-29897Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-29T04-19-05-215423Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-29 00:24:27 | [dirthara/queue](https://www.nuget.org/packages/dirthara%2Fqueue) | 0.1.0 | Dirthara | Transport-neutral message queues and workers for PHP and the Dirthara framework |
-| 2026-09-29 00:26:07 | [senddart/senddart](https://www.nuget.org/packages/senddart%2Fsenddart) | v1.0.0 |  | Official SendDart PHP SDK — send transactional and marketing email from your ow… |
-| 2026-09-29 00:29:00 | [petar-spasic/laravel-kanban](https://www.nuget.org/packages/petar-spasic%2Flaravel-kanban) | v0.1.2 | Petar Spasic | Git-backed kanban board, worktree workflow and Claude Code hooks for Laravel pr… |
-| 2026-09-29 00:29:07 | [petar-spasic/laravel-house](https://www.nuget.org/packages/petar-spasic%2Flaravel-house) | v0.1.2 | Petar Spasic | House skills for Laravel projects (project setup, Docker hosting, laravel-kanba… |
-| 2026-09-29 00:31:39 | [monkeyscloud/monkeyslegion-inertia](https://www.nuget.org/packages/monkeyscloud%2Fmonkeyslegion-inertia) | 1.0.0 |  | Inertia.js server adapter for MonKeysLegion — bridges PHP controllers with Reac… |
-| 2026-09-29 00:39:16 | [automattic/jetpack-sharing-likes](https://www.nuget.org/packages/automattic%2Fjetpack-sharing-likes) | v0.1.0 |  | Sharing buttons and Like buttons for your posts. |
-| 2026-09-29 00:41:03 | [automattic/jetpack-ads](https://www.nuget.org/packages/automattic%2Fjetpack-ads) | v0.1.0 |  | WordAds: the Ads section and widgets of the Premium Analytics dashboard. |
-| 2026-09-29 01:01:12 | [nnaemekanweke/logwatch](https://www.nuget.org/packages/nnaemekanweke%2Flogwatch) | v1.0.0 |  | Push your Laravel app's logs to LogWatch as a standard log channel. |
-| 2026-09-29 01:02:14 | [monkeyscloud/monkeyslegion-testing](https://www.nuget.org/packages/monkeyscloud%2Fmonkeyslegion-testing) | 1.0.0 |  | Testing toolkit for MonKeysLegion — HTTP testing DSL, database traits, fake sub… |
-| 2026-09-29 01:02:40 | [monkeyscloud/monkeyslegion-vite](https://www.nuget.org/packages/monkeyscloud%2Fmonkeyslegion-vite) | 1.0.0 |  | Vite asset pipeline integration for MonKeysLegion — manifest parser, @vite dire… |
+| 2026-09-29 04:08:16 | [qiangvei/theme-amazon](https://www.nuget.org/packages/qiangvei%2Ftheme-amazon) | 1.0.0 |  | Amazon style theme for Magento 2.4 |
+| 2026-09-29 04:08:30 | [pimbay/search-query-pimcore](https://www.nuget.org/packages/pimbay%2Fsearch-query-pimcore) | v1.0.0 | Jan Sarmir | Pimcore Listing adapter for pimbay/search-query. |
 
 ## Data source
 
