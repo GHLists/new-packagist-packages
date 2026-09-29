@@ -15,22 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 12:22 UTC
+## Latest list — 2026-09-29 13:20 UTC
 
-New packages created between 2026-09-29 11:20 UTC and 2026-09-29 12:22 UTC.
+New packages created between 2026-09-29 12:22 UTC and 2026-09-29 13:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-29T12-22-41-729372Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-29T13-20-31-568782Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-29 11:22:12 | [odemehub/php-sdk](https://www.nuget.org/packages/odemehub%2Fphp-sdk) | v1.0.0 |  | ödemehub ödeme geçidi için PHP istemcisi. |
-| 2026-09-29 11:31:57 | [notideus/notideus-php](https://www.nuget.org/packages/notideus%2Fnotideus-php) | 1.0.0 |  | Official PHP SDK for the Notideus email API |
-| 2026-09-29 11:42:29 | [quaxis/hello](https://www.nuget.org/packages/quaxis%2Fhello) | v0.1.0 | Yusuf Özdemir | Quaxis example package. |
-| 2026-09-29 11:54:27 | [dhank77/qris-dinamis](https://www.nuget.org/packages/dhank77%2Fqris-dinamis) | v1.0.0 | M. Hamdani Ilham Latjoro; Gid… | Convert static QRIS to dynamic QRIS in PHP: parse, validate, inject amount & se… |
-| 2026-09-29 11:56:18 | [php-io-extensions/kqueue](https://www.nuget.org/packages/php-io-extensions%2Fkqueue) | v0.10.0 | Project Saturn Studios, LLC | 1:1 PHP bindings of kqueue(2): kqueue(), kevent(), kevent64(), EV_SET(), EV_SET… |
-| 2026-09-29 12:04:35 | [ventusforge/neos-token-auth-manager](https://www.nuget.org/packages/ventusforge%2Fneos-token-auth-manager) | 0.2.0 |  | Backend Module to manage auth tokens for Neos |
-| 2026-09-29 12:08:11 | [ffans/community-notes](https://www.nuget.org/packages/ffans%2Fcommunity-notes) | v2.0.0-beta.1 | Golden; FFans | Let the community add and rate notes that provide context for potentially misle… |
-| 2026-09-29 12:09:32 | [vibefilter/filament](https://www.nuget.org/packages/vibefilter%2Ffilament) | v0.1.0 | András Horváth | Filter your Filament tables by vibe: natural-language table filters powered by… |
+| 2026-09-29 12:22:54 | [freento/base](https://www.nuget.org/packages/freento%2Fbase) | 1.0.0 |  | Base module for Freento extensions: shows installed Freento products with avail… |
+| 2026-09-29 12:31:39 | [emirustaoglu/fmc](https://www.nuget.org/packages/emirustaoglu%2Ffmc) | 0.0.1 |  | A lightweight PHP client for Firebase Cloud Messaging (FCM) HTTP v1 API. |
+| 2026-09-29 12:32:14 | [mdrbx/nova-mcp](https://www.nuget.org/packages/mdrbx%2Fnova-mcp) | v0.1.0 | Matthieu Deroubaix | Expose Laravel Nova resources to MCP clients through Nova's existing permission… |
+| 2026-09-29 12:41:49 | [alexandrebulete/ddd-activity-bundle](https://www.nuget.org/packages/alexandrebulete%2Fddd-activity-bundle) | 1.0.0 | Alexandre Bulete | Activity journal as a reusable DDD building block — who did what, through which… |
+| 2026-09-29 12:42:57 | [silunilabs/behat-cucumber-formatter](https://www.nuget.org/packages/silunilabs%2Fbehat-cucumber-formatter) | v0.1.0 |  | Behat 4 extension writing a Cucumber JSON report (with tags) |
+| 2026-09-29 12:50:17 | [thelemon2020/pest-plugin-simulator](https://www.nuget.org/packages/thelemon2020%2Fpest-plugin-simulator) | v0.1.0 |  | Pest plugin that drives NativePHP screens on iOS Simulators and Android Emulato… |
+| 2026-09-29 12:59:42 | [webx-ui/module-catalog](https://www.nuget.org/packages/webx-ui%2Fmodule-catalog) | v0.50.0 | WebX UI | A product catalogue for the WebX UI admin panel: products, a tree of categories… |
+| 2026-09-29 13:09:03 | [baggins800/reverb-rs](https://www.nuget.org/packages/baggins800%2Freverb-rs) | v0.1.0 | Ruan Luies | Laravel integration for reverb-rs, a drop-in Rust replacement for the Laravel R… |
 
 ## Data source
 

@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-09-29T12:22:54Z,freento/base,1.0.0,,"Base module for Freento extensions: shows installed Freento products with available updates, recommends free modules and displays admin notifications from freento.com."
+2026-09-29T12:31:39Z,emirustaoglu/fmc,0.0.1,,A lightweight PHP client for Firebase Cloud Messaging (FCM) HTTP v1 API.
+2026-09-29T12:32:14Z,mdrbx/nova-mcp,v0.1.0,Matthieu Deroubaix,Expose Laravel Nova resources to MCP clients through Nova's existing permissions and OAuth.
+2026-09-29T12:41:49Z,alexandrebulete/ddd-activity-bundle,1.0.0,Alexandre Bulete,"Activity journal as a reusable DDD building block — who did what, through which chain of causes, and how it ended."
+2026-09-29T12:42:57Z,silunilabs/behat-cucumber-formatter,v0.1.0,,Behat 4 extension writing a Cucumber JSON report (with tags)
+2026-09-29T12:50:17Z,thelemon2020/pest-plugin-simulator,v0.1.0,,Pest plugin that drives NativePHP screens on iOS Simulators and Android Emulators.
+2026-09-29T12:59:42Z,webx-ui/module-catalog,v0.50.0,WebX UI,"A product catalogue for the WebX UI admin panel: products, a tree of categories, prices, a gallery and the registries its satellite modules plug into."
+2026-09-29T13:09:03Z,baggins800/reverb-rs,v0.1.0,Ruan Luies,"Laravel integration for reverb-rs, a drop-in Rust replacement for the Laravel Reverb WebSocket server."
