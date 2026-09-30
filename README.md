@@ -15,22 +15,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 09:20 UTC
+## Latest list — 2026-09-30 10:21 UTC
 
-New packages created between 2026-09-30 08:21 UTC and 2026-09-30 09:20 UTC.
+New packages created between 2026-09-30 09:20 UTC and 2026-09-30 10:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-30T09-20-04-514096Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-30T10-21-29-019588Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-30 08:24:07 | [mage2kishan/module-smart-badge](https://www.nuget.org/packages/mage2kishan%2Fmodule-smart-badge) | 1.0.11 |  | Smart Product Badge & Label System - Automatically displays beautiful badges on… |
-| 2026-09-30 08:32:15 | [baracod/larastarterkit-core](https://www.nuget.org/packages/baracod%2Flarastarterkit-core) | 1.0.0-rc.1 |  | Shared Laravel infrastructure with Auth and Admin modules |
-| 2026-09-30 08:36:56 | [baracod/larastarterkit-generator](https://www.nuget.org/packages/baracod%2Flarastarterkit-generator) | 1.0.0-rc.1 |  | Developer tooling for Larastarterkit |
-| 2026-09-30 08:52:23 | [tomvondracek/bolt-ai-image-alt](https://www.nuget.org/packages/tomvondracek%2Fbolt-ai-image-alt) | v1.0.0 | Tomas Vondracek | In-browser AI generation of image ALT texts for the Bolt CMS admin (Florence-2… |
-| 2026-09-30 08:53:09 | [omniphp/omniphp](https://www.nuget.org/packages/omniphp%2Fomniphp) | v0.1.0 | owner888 | OmniPHP application skeleton — a ready-to-run Workerman project layout for the… |
-| 2026-09-30 09:07:14 | [tastysoul/changelog-checker](https://www.nuget.org/packages/tastysoul%2Fchangelog-checker) | 1.0.0 |  | Composer plugin to check changelog files for breaking changes |
-| 2026-09-30 09:08:31 | [emse-dev/doxswap](https://www.nuget.org/packages/emse-dev%2Fdoxswap) | 1.1.0 | Michael Deeming | Doxswap is a simple document conversion package for Laravel which uses LibreOff… |
-| 2026-09-30 09:09:03 | [emse-dev/onym](https://www.nuget.org/packages/emse-dev%2Fonym) | 1.1.0 | Michael Deeming | Onym is a lightweight Laravel package designed to generate unique, structured,… |
+| 2026-09-30 09:26:17 | [udir-moodle/antivirus_mimeblocker](https://www.nuget.org/packages/udir-moodle%2Fantivirus_mimeblocker) | 2023022001 |  | Mime Blocker antivirus — Composer/Packagist mirror of the Moodle plugin antivir… |
+| 2026-09-30 09:28:46 | [mage2kishan/module-advanced-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-seo) | 1.8.0 | Kishan Savaliya | Panth Advanced SEO — enterprise-grade SEO suite for Magento 2: SEO dashboard, m… |
+| 2026-09-30 09:29:06 | [udir-moodle/local_quicknote](https://www.nuget.org/packages/udir-moodle%2Flocal_quicknote) | 2026092801 |  | QuickNote — Composer/Packagist mirror of the Moodle plugin local_quicknote, aut… |
+| 2026-09-30 09:38:42 | [mage2kishan/module-structured-data](https://www.nuget.org/packages/mage2kishan%2Fmodule-structured-data) | 1.2.0 | Kishan Savaliya | Panth Structured Data — JSON-LD schemas for Magento 2: Product, Breadcrumb, Org… |
+| 2026-09-30 09:41:17 | [haoa/migration](https://www.nuget.org/packages/haoa%2Fmigration) | v1.0.0 |  | Lightweight versioned database migrations for Haoa projects |
+| 2026-09-30 09:53:12 | [aenzenith/laravel-birfatura](https://www.nuget.org/packages/aenzenith%2Flaravel-birfatura) | v1.0.0 | Mustafa Sarı | BirFatura "Özel Entegrasyon" (custom integration) server for Laravel: registers… |
+| 2026-09-30 10:02:19 | [spinningcatstudios/lingara](https://www.nuget.org/packages/spinningcatstudios%2Flingara) | v0.1.0-alpha.6 |  | The official PHP library for the Lingara API: PSR-18 calls, foreach event strea… |
+| 2026-09-30 10:04:29 | [udir-moodle/availability_role](https://www.nuget.org/packages/udir-moodle%2Favailability_role) | 2026042000 |  | Restriction by course role — Composer/Packagist mirror of the Moodle plugin ava… |
+| 2026-09-30 10:07:03 | [udir-moodle/format_tiles](https://www.nuget.org/packages/udir-moodle%2Fformat_tiles) | 2026012570 |  | Tiles format — Composer/Packagist mirror of the Moodle plugin format_tiles, aut… |
+| 2026-09-30 10:07:46 | [udir-moodle/mod_choicegroup](https://www.nuget.org/packages/udir-moodle%2Fmod_choicegroup) | 2026013100 |  | Group choice — Composer/Packagist mirror of the Moodle plugin mod_choicegroup,… |
+| 2026-09-30 10:08:54 | [udir-moodle/mod_learningmap](https://www.nuget.org/packages/udir-moodle%2Fmod_learningmap) | 2026021900 |  | Learning map — Composer/Packagist mirror of the Moodle plugin mod_learningmap,… |
+| 2026-09-30 10:09:41 | [webx-ui/module-catalog-labels](https://www.nuget.org/packages/webx-ui%2Fmodule-catalog-labels) | v0.53.0 | WebX UI | Labels for the WebX UI catalogue: top, sale, new — several per product, a badge… |
+| 2026-09-30 10:09:41 | [webx-ui/module-catalog-stock](https://www.nuget.org/packages/webx-ui%2Fmodule-catalog-stock) | v0.53.0 | WebX UI | Stock statuses for the WebX UI catalogue: in stock, out of stock, on order — on… |
+| 2026-09-30 10:10:22 | [webx-ui/module-catalog-brands](https://www.nuget.org/packages/webx-ui%2Fmodule-catalog-brands) | v0.53.0 | WebX UI | Brands for the WebX UI catalogue: one per product, each with its own page of th… |
+| 2026-09-30 10:18:09 | [curly-deni/laravel-storage](https://www.nuget.org/packages/curly-deni%2Flaravel-storage) | 1.0 | Danila Mikhalev | Laravel file storage with polymorphic file records and customizable filesystem… |
 
 ## Data source
 
