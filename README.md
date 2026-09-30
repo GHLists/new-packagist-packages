@@ -15,29 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 10:21 UTC
+## Latest list — 2026-09-30 11:18 UTC
 
-New packages created between 2026-09-30 09:20 UTC and 2026-09-30 10:21 UTC.
+New packages created between 2026-09-30 10:21 UTC and 2026-09-30 11:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-30T10-21-29-019588Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-30T11-18-55-30433Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-30 09:26:17 | [udir-moodle/antivirus_mimeblocker](https://www.nuget.org/packages/udir-moodle%2Fantivirus_mimeblocker) | 2023022001 |  | Mime Blocker antivirus — Composer/Packagist mirror of the Moodle plugin antivir… |
-| 2026-09-30 09:28:46 | [mage2kishan/module-advanced-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-seo) | 1.8.0 | Kishan Savaliya | Panth Advanced SEO — enterprise-grade SEO suite for Magento 2: SEO dashboard, m… |
-| 2026-09-30 09:29:06 | [udir-moodle/local_quicknote](https://www.nuget.org/packages/udir-moodle%2Flocal_quicknote) | 2026092801 |  | QuickNote — Composer/Packagist mirror of the Moodle plugin local_quicknote, aut… |
-| 2026-09-30 09:38:42 | [mage2kishan/module-structured-data](https://www.nuget.org/packages/mage2kishan%2Fmodule-structured-data) | 1.2.0 | Kishan Savaliya | Panth Structured Data — JSON-LD schemas for Magento 2: Product, Breadcrumb, Org… |
-| 2026-09-30 09:41:17 | [haoa/migration](https://www.nuget.org/packages/haoa%2Fmigration) | v1.0.0 |  | Lightweight versioned database migrations for Haoa projects |
-| 2026-09-30 09:53:12 | [aenzenith/laravel-birfatura](https://www.nuget.org/packages/aenzenith%2Flaravel-birfatura) | v1.0.0 | Mustafa Sarı | BirFatura "Özel Entegrasyon" (custom integration) server for Laravel: registers… |
-| 2026-09-30 10:02:19 | [spinningcatstudios/lingara](https://www.nuget.org/packages/spinningcatstudios%2Flingara) | v0.1.0-alpha.6 |  | The official PHP library for the Lingara API: PSR-18 calls, foreach event strea… |
-| 2026-09-30 10:04:29 | [udir-moodle/availability_role](https://www.nuget.org/packages/udir-moodle%2Favailability_role) | 2026042000 |  | Restriction by course role — Composer/Packagist mirror of the Moodle plugin ava… |
-| 2026-09-30 10:07:03 | [udir-moodle/format_tiles](https://www.nuget.org/packages/udir-moodle%2Fformat_tiles) | 2026012570 |  | Tiles format — Composer/Packagist mirror of the Moodle plugin format_tiles, aut… |
-| 2026-09-30 10:07:46 | [udir-moodle/mod_choicegroup](https://www.nuget.org/packages/udir-moodle%2Fmod_choicegroup) | 2026013100 |  | Group choice — Composer/Packagist mirror of the Moodle plugin mod_choicegroup,… |
-| 2026-09-30 10:08:54 | [udir-moodle/mod_learningmap](https://www.nuget.org/packages/udir-moodle%2Fmod_learningmap) | 2026021900 |  | Learning map — Composer/Packagist mirror of the Moodle plugin mod_learningmap,… |
-| 2026-09-30 10:09:41 | [webx-ui/module-catalog-labels](https://www.nuget.org/packages/webx-ui%2Fmodule-catalog-labels) | v0.53.0 | WebX UI | Labels for the WebX UI catalogue: top, sale, new — several per product, a badge… |
-| 2026-09-30 10:09:41 | [webx-ui/module-catalog-stock](https://www.nuget.org/packages/webx-ui%2Fmodule-catalog-stock) | v0.53.0 | WebX UI | Stock statuses for the WebX UI catalogue: in stock, out of stock, on order — on… |
-| 2026-09-30 10:10:22 | [webx-ui/module-catalog-brands](https://www.nuget.org/packages/webx-ui%2Fmodule-catalog-brands) | v0.53.0 | WebX UI | Brands for the WebX UI catalogue: one per product, each with its own page of th… |
-| 2026-09-30 10:18:09 | [curly-deni/laravel-storage](https://www.nuget.org/packages/curly-deni%2Flaravel-storage) | 1.0 | Danila Mikhalev | Laravel file storage with polymorphic file records and customizable filesystem… |
+| 2026-09-30 10:24:06 | [eekes/sulu-image-optimizer-bundle](https://www.nuget.org/packages/eekes%2Fsulu-image-optimizer-bundle) | v1.0.0 | Ewald Vanderveken | Optimizes and resizes images before they are stored in the Sulu media library,… |
+| 2026-09-30 10:24:30 | [kaveraa/api-gouv-publique-fr](https://www.nuget.org/packages/kaveraa%2Fapi-gouv-publique-fr) | v0.1.0 | Augustin Kavera | Typed PHP client for French public APIs (company search and address) with a Lar… |
+| 2026-09-30 10:52:34 | [mage2kishan/module-error-monitor](https://www.nuget.org/packages/mage2kishan%2Fmodule-error-monitor) | 1.6.0 | Kishan Savaliya | Panth Error Monitor - smart, secure error management for Magento 2. Captures PH… |
+| 2026-09-30 10:56:44 | [mage2kishan/module-admin-menu-manager](https://www.nuget.org/packages/mage2kishan%2Fmodule-admin-menu-manager) | 1.0.12 | Kishan Savaliya | Customises the Magento 2 backend menu — hide, rename, re-icon, recolor, reorder… |
+| 2026-09-30 11:00:03 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.0 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
+| 2026-09-30 11:01:50 | [ffans/paste-link](https://www.nuget.org/packages/ffans%2Fpaste-link) | v1.0.0 | Golden; FFans | Turn selected text into a Markdown link by pasting a URL in Flarum's default co… |
+| 2026-09-30 11:05:37 | [mage2kishan/module-blog](https://www.nuget.org/packages/mage2kishan%2Fmodule-blog) | 1.2.0 | Kishan Savaliya | Panth_Blog - SEO-grade blog module for Magento 2 with first-class AEO/AIO suppo… |
+| 2026-09-30 11:07:30 | [curly-deni/laravel-maintenance](https://www.nuget.org/packages/curly-deni%2Flaravel-maintenance) | 1.0 | Danila Mikhalev | Maintenance windows and runtime availability for Laravel applications. |
+| 2026-09-30 11:12:14 | [mage2kishan/module-xml-sitemap](https://www.nuget.org/packages/mage2kishan%2Fmodule-xml-sitemap) | 1.2.0 | Kishan Savaliya | Panth XML Sitemap — sharded XML sitemap generator for Magento 2: per-store prof… |
+| 2026-09-30 11:18:12 | [mage2kishan/module-product-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-attachments) | 1.1.0 |  | Product Attachments module for Magento 2 - attach files, links, and documents t… |
 
 ## Data source
 
