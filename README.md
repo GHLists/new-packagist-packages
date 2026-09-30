@@ -15,28 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 15:22 UTC
+## Latest list — 2026-09-30 16:19 UTC
 
-New packages created between 2026-09-30 14:21 UTC and 2026-09-30 15:22 UTC.
+New packages created between 2026-09-30 15:22 UTC and 2026-09-30 16:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-30T15-22-54-233157Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-30T16-19-55-993758Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-30 14:22:33 | [blueprintau/collections](https://www.nuget.org/packages/blueprintau%2Fcollections) | v1.0.0 | Mineubob | A pure, standalone array wrapper for BlueprintAU — generic Collection and Enume… |
-| 2026-09-30 14:24:21 | [mage2kishan/module-footer](https://www.nuget.org/packages/mage2kishan%2Fmodule-footer) | 1.0.9 | Kishan Savaliya | Panth Footer — configurable footer module for Magento 2 with Hyva and Luma them… |
-| 2026-09-30 14:27:39 | [mage2kishan/module-testimonials](https://www.nuget.org/packages/mage2kishan%2Fmodule-testimonials) | 1.2.0 |  | Advanced Testimonials module with slider, individual pages, categories, SEO, an… |
-| 2026-09-30 14:27:46 | [siberfx/bunny-cdn](https://www.nuget.org/packages/siberfx%2Fbunny-cdn) | 1.1.0 | Selim Görmüş | Bunny.net API client (pull zones, storage, stream, DNS) with a Flysystem v3 ada… |
-| 2026-09-30 14:33:06 | [discoverygarden/test_support](https://www.nuget.org/packages/discoverygarden%2Ftest_support) | v1.0.0 |  | Provides various traits to help test setup and assertions in Drupal Kernel tests |
-| 2026-09-30 14:34:49 | [istiyakamin/laradantic](https://www.nuget.org/packages/istiyakamin%2Flaradantic) | v0.1.0 |  | Pydantic-inspired typed schemas, JSON Schema, structured AI output and tool cal… |
-| 2026-09-30 14:35:56 | [mage2kishan/module-advanced-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-seo) | 1.8.2 | Kishan Savaliya | Panth Advanced SEO — enterprise-grade SEO suite for Magento 2: SEO dashboard, m… |
-| 2026-09-30 14:38:00 | [dp0/filament-sanchaya](https://www.nuget.org/packages/dp0%2Ffilament-sanchaya) | v1.0.0 | DP0 | A powerful file manager plugin for Filament PHP with media picker support. |
-| 2026-09-30 14:38:08 | [ianfoxdev/outbox](https://www.nuget.org/packages/ianfoxdev%2Foutbox) | v0.1.0 | Anatoly Pankratyev | Transactional outbox for PHP: store events in the same database transaction, pu… |
-| 2026-09-30 14:39:19 | [mage2kishan/module-smart-badge](https://www.nuget.org/packages/mage2kishan%2Fmodule-smart-badge) | 1.1.0 |  | Smart Product Badge & Label System - Automatically displays beautiful badges on… |
-| 2026-09-30 14:41:19 | [akyos/native-push](https://www.nuget.org/packages/akyos%2Fnative-push) | 0.1.0 |  | Symfony Notifier push transport sending straight to APNs (iOS) and FCM v1 (Andr… |
-| 2026-09-30 14:42:28 | [justpush/module-notify](https://www.nuget.org/packages/justpush%2Fmodule-notify) | v1.0.0 |  | Sends Magento 2 store events (orders, invoices, refunds, new customers, admin l… |
-| 2026-09-30 15:10:50 | [thethunderturner/laravel-tmdb](https://www.nuget.org/packages/thethunderturner%2Flaravel-tmdb) | v1.0.0 | Matthew Biskas | A way to access TMDB from Laravel |
-| 2026-09-30 15:17:30 | [mage2kishan/module-core](https://www.nuget.org/packages/mage2kishan%2Fmodule-core) | 1.2.3 | Kishan Savaliya | Panth Core - base module providing shared utilities, admin configuration helper… |
+| 2026-09-30 15:23:10 | [marrow/ai-context](https://www.nuget.org/packages/marrow%2Fai-context) | v1.0.0 |  | Generates AGENTS.md — a live, accurate map of an Marrow app (modules, routes, c… |
+| 2026-09-30 15:29:54 | [trisnawan/translator-client-php](https://www.nuget.org/packages/trisnawan%2Ftranslator-client-php) | 1.0.0 | Trisnawan | Asynchronous PHP client for the Translator REST API: queue translations and ver… |
+| 2026-09-30 15:38:52 | [schorschii/fastinfoset](https://www.nuget.org/packages/schorschii%2Ffastinfoset) | v0.1 |  | Dependency-free Fast Infoset encoder and decoder in pure PHP |
+| 2026-09-30 15:44:46 | [siberfx/cloudflare-turnstile](https://www.nuget.org/packages/siberfx%2Fcloudflare-turnstile) | 1.0.0 | Selim Görmüş | Cloudflare Turnstile CAPTCHA integration for Laravel: Blade widget, validation… |
+| 2026-09-30 15:49:50 | [hydrakit/broadcast](https://www.nuget.org/packages/hydrakit%2Fbroadcast) | v0.18.0 | William Hleucka | Tell other processes that something changed: a publisher over Redis pub/sub, li… |
+| 2026-09-30 15:58:14 | [ogidimitrov/diff](https://www.nuget.org/packages/ogidimitrov%2Fdiff) | v1.0.0 | Ognyan Dimitrov | Character-based diff, fuzzy matching and unidiff-style patching for PHP, in the… |
+| 2026-09-30 16:01:33 | [asukapay/sdk](https://www.nuget.org/packages/asukapay%2Fsdk) | v1.0.0 |  | SDK PHP officiel, sans dépendance de runtime, pour l'API marchand AsukaPay (/ap… |
+| 2026-09-30 16:14:14 | [markup-carve/tempest-highlight-carve](https://www.nuget.org/packages/markup-carve%2Ftempest-highlight-carve) | 0.1.0 | Mark Scherer | Carve markup language support for tempest/highlight: server-side syntax highlig… |
 
 ## Data source
 
