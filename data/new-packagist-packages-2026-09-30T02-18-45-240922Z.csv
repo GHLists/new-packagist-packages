@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-09-30T01:40:59Z,mage2kishan/module-llms-txt,1.5.2,Kishan Savaliya,"Panth LLMs.txt — AI Indexing Engine for Magento 2. Serves structured /llms.txt, /llms-full.txt and /llms.json with a dynamic multi-URL sitemap engine, weighted ranking, auto-generated summaries, product-type and use-case grouping, and cron-based cache warm-up. Built for ChatGPT, Claude, Perplexity,…"
+2026-09-30T01:56:48Z,survos/bookmark-bundle,2.34.16,,Local bookmarks for arbitrary resources with optional peer sharing.
+2026-09-30T02:00:34Z,mage2kishan/module-low-stock-notification,1.0.11,,Magento 2 Low Stock Notification module - allows customers to subscribe for back-in-stock email alerts on out-of-stock products. Compatible with Luma and Hyva themes.
+2026-09-30T02:09:05Z,controleonline/legacy,v1.0.2,Controle Online,

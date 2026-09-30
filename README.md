@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 01:19 UTC
+## Latest list — 2026-09-30 02:18 UTC
 
-New packages created between 2026-09-30 00:20 UTC and 2026-09-30 01:19 UTC.
+New packages created between 2026-09-30 01:19 UTC and 2026-09-30 02:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-30T01-19-54-849806Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-30T02-18-45-240922Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-30 00:30:53 | [totara/lightsaml](https://www.nuget.org/packages/totara%2Flightsaml) | 4.1.6.3 |  |  |
-| 2026-09-30 00:42:03 | [mage2kishan/module-index-now](https://www.nuget.org/packages/mage2kishan%2Fmodule-index-now) | 1.0.11 | Kishan Savaliya | Panth IndexNow — instantly notify Bing, Yandex and other search engines when co… |
+| 2026-09-30 01:40:59 | [mage2kishan/module-llms-txt](https://www.nuget.org/packages/mage2kishan%2Fmodule-llms-txt) | 1.5.2 | Kishan Savaliya | Panth LLMs.txt — AI Indexing Engine for Magento 2. Serves structured /llms.txt,… |
+| 2026-09-30 01:56:48 | [survos/bookmark-bundle](https://www.nuget.org/packages/survos%2Fbookmark-bundle) | 2.34.16 |  | Local bookmarks for arbitrary resources with optional peer sharing. |
+| 2026-09-30 02:00:34 | [mage2kishan/module-low-stock-notification](https://www.nuget.org/packages/mage2kishan%2Fmodule-low-stock-notification) | 1.0.11 |  | Magento 2 Low Stock Notification module - allows customers to subscribe for bac… |
+| 2026-09-30 02:09:05 | [controleonline/legacy](https://www.nuget.org/packages/controleonline%2Flegacy) | v1.0.2 | Controle Online |  |
 
 ## Data source
 
