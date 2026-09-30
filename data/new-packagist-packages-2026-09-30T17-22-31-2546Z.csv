@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-09-30T16:31:21Z,monty7352/quick-activity-log,v1.0.0,Your Name,A lightweight activity logger for Laravel Eloquent models.
+2026-09-30T16:33:33Z,arnauddelgerie/tfs-app-bundle,v0.1.0,Arnaud Delgerie,"Symfony bundle for apps run by TFSAppHub, a host that installs and runs Symfony apps as local desktop apps."
+2026-09-30T16:34:08Z,webx-ui/module-catalog-properties,v0.54.0,WebX UI,"Properties of products for the WebX UI catalogue: reference books, numbers, texts and yes/no, sets inherited down the categories, facets from the database picked by coverage, merging of values and an index document."
+2026-09-30T16:50:33Z,alies-dev/psalm-plugin-pest,0.1.0,Alies Lapatsin,Psalm plugin for Pest: types $this in test closures as the configured TestCase and accepts Pest's public API.
+2026-09-30T16:58:19Z,webware/webware-phpdb,1.0.0-alpha.1,Joey Smith,PhpDb bridge for the Webware stack: shadows the PhpDb root namespace so packages can replace individual php-db/phpdb classes.
+2026-09-30T17:03:51Z,heyosseus/phpstan-sloppy,v1.0.0,heyosseus,"Sloppy's rules inside your PHPStan run: swallowed exceptions, god methods, N+1 queries, placeholder bodies and the rest of the debt AI coding agents leave in PHP, reported as PHPStan errors."
+2026-09-30T17:06:16Z,pokerprovide/sdk,v1.0.0,,Official PokerProvide Poker-as-a-Service SDK for PHP
+2026-09-30T17:11:51Z,sympress/qa,0.1.0,Brian Schaffner,Shared QA tooling for SymPress packages.
