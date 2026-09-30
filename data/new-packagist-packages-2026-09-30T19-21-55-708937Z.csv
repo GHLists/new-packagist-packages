@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-09-30T18:25:02Z,hypnokizer/validator,v7.0.0,Nathan Kizer,Class to validate a dataset.
+2026-09-30T18:31:30Z,centralog/error-monitoring-laravel,v0.1.0,,Laravel SDK for Centralog error monitoring. Captures exceptions and sends a copy to your Centralog platform without breaking your app.
+2026-09-30T18:40:23Z,sociolink/api-resource-bundle,v1.0.0,Xavier KONGOLO,"Génère les ressources API Platform (DTOs, State Processors/Providers, filtres QueryParameter) à partir des entités Doctrine — outil de développement, jamais requis en production."
+2026-09-30T18:47:52Z,hypnokizer/comptest,v1.0.0,Nathan Kizer,testing the versioning
+2026-09-30T18:55:27Z,sytxlabs/blade-sandbox,1.0.0,Shaun Lüdeke,"A default-deny security sandbox for rendering untrusted Laravel Blade templates, views, components, DTOs and Livewire views."
+2026-09-30T19:14:03Z,siberfx/mpesa-payment,1.0.0,Selim Görmüş,"Modern M-Pesa payment gateway for PHP 8.4+ — Safaricom Daraja (Kenya) and Vodacom M-Pesa OpenAPI (Tanzania, DRC, Lesotho). Works standalone or with Laravel 12/13."
+2026-09-30T19:15:46Z,fawno/agencias,0.0.1,,
