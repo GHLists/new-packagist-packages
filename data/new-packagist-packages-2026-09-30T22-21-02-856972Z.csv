@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-09-30T21:21:47Z,mambusrl/bper-avvisi-pagopa,v1.0.0,,"Client PHP per il WS IUVOnline 1.4 di BPER Banca / BPS: generazione, variazione, annullo e recupero avvisi PagoPA, gestione ricevute telematiche (RT)."
+2026-09-30T21:28:18Z,webdna/typesense-sync,1.0.0-beta.1,webdna,"Keep Craft content in a Typesense search index, and give search pages a safe, filtered search key, by declaring what to index."
+2026-09-30T21:32:12Z,siberfx/laravel-mutex-lock,1.0.1,Selim Görmüş,"Laravel integration for php-lock/lock: database-backed mutexes for MySQL/MariaDB, PostgreSQL and SQLite."
+2026-09-30T21:44:43Z,laraxgram/sentinel,v1.0.0,laraXgram,"Watch over your LaraGram bot: updates, webhooks, Telegram API calls, exceptions and performance in one dashboard."
