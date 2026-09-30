@@ -15,34 +15,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 12:21 UTC
+## Latest list — 2026-09-30 13:18 UTC
 
-New packages created between 2026-09-30 11:18 UTC and 2026-09-30 12:21 UTC.
+New packages created between 2026-09-30 12:21 UTC and 2026-09-30 13:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-30T12-21-48-806921Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-30T13-18-50-96631Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-30 11:19:04 | [curly-deni/laravel-notifications](https://www.nuget.org/packages/curly-deni%2Flaravel-notifications) | 1.0 | Danila Mikhalev | Reusable database notifications for Laravel applications. |
-| 2026-09-30 11:21:40 | [mage2kishan/module-sale-filter](https://www.nuget.org/packages/mage2kishan%2Fmodule-sale-filter) | 1.1.0 | Kishan Savaliya | Panth Sale Filter — "On Sale" layered navigation filter for Magento 2, backed b… |
-| 2026-09-30 11:25:15 | [mage2kishan/module-sale-filter-hyva](https://www.nuget.org/packages/mage2kishan%2Fmodule-sale-filter-hyva) | 1.1.0 | Kishan Savaliya | Panth Sale Filter — Hyvä compatibility module. Ships Alpine.js + Tailwind templ… |
-| 2026-09-30 11:29:35 | [curly-deni/laravel-safety-broadcast](https://www.nuget.org/packages/curly-deni%2Flaravel-safety-broadcast) | 1.0 | Danila Mikhalev | Safely dispatch Laravel broadcast events without failing the application. |
-| 2026-09-30 11:30:26 | [mage2kishan/module-structured-data](https://www.nuget.org/packages/mage2kishan%2Fmodule-structured-data) | 1.3.0 | Kishan Savaliya | Panth Structured Data — JSON-LD schemas for Magento 2: Product, Breadcrumb, Org… |
-| 2026-09-30 11:30:55 | [curly-deni/laravel-prompts](https://www.nuget.org/packages/curly-deni%2Flaravel-prompts) | 1.0 | Danila Mikhalev | Prompt rendering infrastructure for Laravel applications. |
-| 2026-09-30 11:32:20 | [rad-themes/client-portal](https://www.nuget.org/packages/rad-themes%2Fclient-portal) | v1.0.1 |  | Private client portals for Statamic: phases, modules, files and content pages f… |
-| 2026-09-30 11:34:44 | [mage2kishan/module-robots-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-robots-seo) | 1.3.0 | Kishan Savaliya | Panth Robots SEO — dedicated robots.txt, X-Robots-Tag, and LLM-bot (GPTBot, Cla… |
-| 2026-09-30 11:35:42 | [openhandle/sdk](https://www.nuget.org/packages/openhandle%2Fsdk) | v1.2.4 | OpenHandle | Official PHP SDK for OpenHandle |
-| 2026-09-30 11:35:42 | [shazzoo/assistant-plugin](https://www.nuget.org/packages/shazzoo%2Fassistant-plugin) | v0.1.4 |  | AI assistant for Content Studio: visitors ask questions and get answers from th… |
-| 2026-09-30 11:38:53 | [mage2kishan/module-redirects](https://www.nuget.org/packages/mage2kishan%2Fmodule-redirects) | 1.2.0 |  | Redirects and 404 management for Magento 2 (Hyva + Luma). Manual + auto redirec… |
-| 2026-09-30 11:43:09 | [mage2kishan/module-cachemanager](https://www.nuget.org/packages/mage2kishan%2Fmodule-cachemanager) | 1.1.0 | Kishan Savaliya | Smart cache invalidation on entity save and automated cache warmup with concurr… |
-| 2026-09-30 11:46:47 | [mage2kishan/module-search-autocomplete](https://www.nuget.org/packages/mage2kishan%2Fmodule-search-autocomplete) | 1.1.0 | Kishan Savaliya | Engine-agnostic, bot-hardened, cached search autocomplete for Magento 2 and Hyv… |
-| 2026-09-30 11:52:09 | [mage2kishan/module-advanced-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-seo) | 1.8.1 | Kishan Savaliya | Panth Advanced SEO — enterprise-grade SEO suite for Magento 2: SEO dashboard, m… |
-| 2026-09-30 11:54:28 | [mage2kishan/module-disable-wishlist-compare](https://www.nuget.org/packages/mage2kishan%2Fmodule-disable-wishlist-compare) | 1.0.10 |  | Disable Wishlist and Compare functionality across the entire Magento 2 frontend… |
-| 2026-09-30 11:58:15 | [mage2kishan/module-not-found-page](https://www.nuget.org/packages/mage2kishan%2Fmodule-not-found-page) | 1.0.10 | Kishan Savaliya | Custom 404 Not Found Page for Magento 2. Replaces the default CMS 404 page with… |
-| 2026-09-30 12:01:53 | [mage2kishan/module-whatsapp](https://www.nuget.org/packages/mage2kishan%2Fmodule-whatsapp) | 1.0.10 | Kishan Savaliya | WhatsApp Integration for Magento 2 — floating chat button, product page inquiry… |
-| 2026-09-30 12:11:24 | [mage2kishan/module-footer](https://www.nuget.org/packages/mage2kishan%2Fmodule-footer) | 1.0.8 | Kishan Savaliya | Panth Footer — configurable footer module for Magento 2 with Hyva and Luma them… |
-| 2026-09-30 12:16:43 | [mage2kishan/module-price-drop-alert](https://www.nuget.org/packages/mage2kishan%2Fmodule-price-drop-alert) | 1.1.0 |  | Price Drop Alert module for Magento 2 - Allows customers to subscribe to price… |
-| 2026-09-30 12:20:59 | [mage2kishan/module-low-stock-notification](https://www.nuget.org/packages/mage2kishan%2Fmodule-low-stock-notification) | 1.1.0 |  | Magento 2 Low Stock Notification module - allows customers to subscribe for bac… |
+| 2026-09-30 12:25:06 | [mage2kishan/module-zipcode-validation](https://www.nuget.org/packages/mage2kishan%2Fmodule-zipcode-validation) | 1.1.0 | Kishan Savaliya | Panth ZipcodeValidation — validates ZIP/PIN codes at checkout against configura… |
+| 2026-09-30 12:28:41 | [mage2kishan/module-social-meta](https://www.nuget.org/packages/mage2kishan%2Fmodule-social-meta) | 1.1.3 | Kishan Savaliya | Panth Social Meta — OpenGraph and Twitter Card head tags for Magento 2, with CM… |
+| 2026-09-30 12:30:43 | [survos/media-topics-bundle](https://www.nuget.org/packages/survos%2Fmedia-topics-bundle) | 2.34.22 | Tac Tacelosky | IPTC Media Topics in a Symfony app: the vocabulary as a service, plus console c… |
+| 2026-09-30 12:30:45 | [survos/media-topics](https://www.nuget.org/packages/survos%2Fmedia-topics) | 2.34.22 | Tac Tacelosky | IPTC Media Topics and Genre as a PHP library: the pinned vocabularies with hier… |
+| 2026-09-30 12:31:59 | [survos/classifier-bundle](https://www.nuget.org/packages/survos%2Fclassifier-bundle) | 2.34.22 | Tac Tacelosky | Assign controlled labels to text with interchangeable strategies (rules, Jev),… |
+| 2026-09-30 12:33:10 | [mage2kishan/module-image-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-image-seo) | 1.0.11 | Kishan Savaliya | Panth Image SEO — template-based alt/title generation for Magento 2 product ima… |
+| 2026-09-30 12:37:43 | [mage2kishan/module-malware-scanner](https://www.nuget.org/packages/mage2kishan%2Fmodule-malware-scanner) | 1.3.0 | Kishan Savaliya | Active malware prevention + on-disk scanner for Magento 2. Three real-time guar… |
+| 2026-09-30 12:42:43 | [mage2kishan/module-mega-menu](https://www.nuget.org/packages/mage2kishan%2Fmodule-mega-menu) | 1.0.11 | Kishan Savaliya | Advanced mega menu for Magento 2 — works on Hyva and Luma. Drag-and-drop tree b… |
+| 2026-09-30 12:48:07 | [mage2kishan/module-quickview](https://www.nuget.org/packages/mage2kishan%2Fmodule-quickview) | 1.0.12 | Kishan Savaliya | Smart Quick View & Compare module for Magento 2 with Hyva theme support. Featur… |
+| 2026-09-30 12:51:36 | [mage2kishan/module-productgallery](https://www.nuget.org/packages/mage2kishan%2Fmodule-productgallery) | 1.0.11 | Kishan Savaliya | Custom product image gallery for Magento 2 product detail pages. Features confi… |
+| 2026-09-30 12:55:00 | [mage2kishan/module-producttabs](https://www.nuget.org/packages/mage2kishan%2Fmodule-producttabs) | 1.1.0 | Kishan Savaliya | Product detail page tab customization for Magento 2. Supports horizontal/vertic… |
+| 2026-09-30 12:58:51 | [mage2kishan/module-product-slider](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-slider) | 1.1.0 |  | Advanced Product Slider widget with extensive customization options for Magento… |
+| 2026-09-30 13:02:51 | [mage2kishan/module-advanced-contact-us](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-contact-us) | 1.1.0 |  | Advanced Contact Us Page - Custom fields, bot protection, submission management… |
+| 2026-09-30 13:04:21 | [skynettechnologies/luya-allinoneaccessibility](https://www.nuget.org/packages/skynettechnologies%2Fluya-allinoneaccessibility) | 1.0.0 |  | Quick Web Accessibility Implementation with All in One Accessibility! |
+| 2026-09-30 13:05:44 | [auth-contrib/php-auth-library](https://www.nuget.org/packages/auth-contrib%2Fphp-auth-library) | v0.0.1 |  | This is a placeholder package. Please download this package from the internal r… |
+| 2026-09-30 13:07:14 | [mage2kishan/module-dynamic-forms](https://www.nuget.org/packages/mage2kishan%2Fmodule-dynamic-forms) | 1.2.0 |  | Dynamic Forms module for Magento 2 - Create and manage custom forms with drag-a… |
+| 2026-09-30 13:11:14 | [mage2kishan/module-eu-withdrawal](https://www.nuget.org/packages/mage2kishan%2Fmodule-eu-withdrawal) | 1.1.0 | Kishan Savaliya | Panth EU Withdrawal Button - a clear, accessible digital withdrawal (cancellati… |
+| 2026-09-30 13:12:28 | [yeh110/php-s3-lite](https://www.nuget.org/packages/yeh110%2Fphp-s3-lite) | v0.1.1 |  | 零第三方依赖的 S3 兼容对象存储客户端（PHP 8.1+），内置 AWS Signature V4 |
+| 2026-09-30 13:13:34 | [mage2kishan/module-extra-fee](https://www.nuget.org/packages/mage2kishan%2Fmodule-extra-fee) | 1.1.0 | Kishan Savaliya | Panth Extra Fee — add configurable extra fees and surcharges to Magento 2 check… |
+| 2026-09-30 13:17:35 | [mage2kishan/module-faq](https://www.nuget.org/packages/mage2kishan%2Fmodule-faq) | 1.3.0 | Kishan Savaliya | Advanced FAQ Module with multi-level assignment capabilities |
 
 ## Data source
 
