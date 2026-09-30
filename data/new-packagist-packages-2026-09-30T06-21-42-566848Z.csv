@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-09-30T05:29:55Z,balerka/laravel-proxy,v1.0.1,,HTTP proxy failover for Laravel and Guzzle.
+2026-09-30T06:03:14Z,mage2kishan/module-social-meta,1.1.2,Kishan Savaliya,"Panth Social Meta — OpenGraph and Twitter Card head tags for Magento 2, with CMS/product/category fallbacks."
+2026-09-30T06:14:58Z,mage2kishan/module-testimonials,1.1.2,,"Advanced Testimonials module with slider, individual pages, categories, SEO, and frontend submission"

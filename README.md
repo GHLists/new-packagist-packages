@@ -15,21 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 05:21 UTC
+## Latest list — 2026-09-30 06:21 UTC
 
-New packages created between 2026-09-30 04:19 UTC and 2026-09-30 05:21 UTC.
+New packages created between 2026-09-30 05:21 UTC and 2026-09-30 06:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-30T05-21-46-269152Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-30T06-21-42-566848Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-30 04:21:32 | [mage2kishan/module-performance-optimizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-performance-optimizer) | 1.0.9 | Kishan Savaliya | Frontend performance optimizations for Magento 2 — script deferral, font-displa… |
-| 2026-09-30 04:34:06 | [mage2kishan/module-product-slider](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-slider) | 1.0.10 |  | Advanced Product Slider widget with extensive customization options for Magento… |
-| 2026-09-30 04:38:54 | [mage2kishan/module-producttabs](https://www.nuget.org/packages/mage2kishan%2Fmodule-producttabs) | 1.0.10 | Kishan Savaliya | Product detail page tab customization for Magento 2. Supports horizontal/vertic… |
-| 2026-09-30 04:44:59 | [mage2kishan/module-productgallery](https://www.nuget.org/packages/mage2kishan%2Fmodule-productgallery) | 1.0.10 | Kishan Savaliya | Custom product image gallery for Magento 2 product detail pages. Features confi… |
-| 2026-09-30 04:53:44 | [mage2kishan/module-robots-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-robots-seo) | 1.2.3 | Kishan Savaliya | Panth Robots SEO — dedicated robots.txt, X-Robots-Tag, and LLM-bot (GPTBot, Cla… |
-| 2026-09-30 04:59:27 | [mercanpay/mercanpay-php](https://www.nuget.org/packages/mercanpay%2Fmercanpay-php) | v1.0.0 | MercanPay | Official PHP client for the MercanPay crypto payment gateway (TRX & USDT-TRC20) |
-| 2026-09-30 04:59:44 | [mage2kishan/module-search-autocomplete](https://www.nuget.org/packages/mage2kishan%2Fmodule-search-autocomplete) | 1.0.10 | Kishan Savaliya | Engine-agnostic, bot-hardened, cached search autocomplete for Magento 2 and Hyv… |
+| 2026-09-30 05:29:55 | [balerka/laravel-proxy](https://www.nuget.org/packages/balerka%2Flaravel-proxy) | v1.0.1 |  | HTTP proxy failover for Laravel and Guzzle. |
+| 2026-09-30 06:03:14 | [mage2kishan/module-social-meta](https://www.nuget.org/packages/mage2kishan%2Fmodule-social-meta) | 1.1.2 | Kishan Savaliya | Panth Social Meta — OpenGraph and Twitter Card head tags for Magento 2, with CM… |
+| 2026-09-30 06:14:58 | [mage2kishan/module-testimonials](https://www.nuget.org/packages/mage2kishan%2Fmodule-testimonials) | 1.1.2 |  | Advanced Testimonials module with slider, individual pages, categories, SEO, an… |
 
 ## Data source
 
