@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 02:18 UTC
+## Latest list — 2026-09-30 03:19 UTC
 
-New packages created between 2026-09-30 01:19 UTC and 2026-09-30 02:18 UTC.
+New packages created between 2026-09-30 02:18 UTC and 2026-09-30 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-30T02-18-45-240922Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-30T03-19-27-244256Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-30 01:40:59 | [mage2kishan/module-llms-txt](https://www.nuget.org/packages/mage2kishan%2Fmodule-llms-txt) | 1.5.2 | Kishan Savaliya | Panth LLMs.txt — AI Indexing Engine for Magento 2. Serves structured /llms.txt,… |
-| 2026-09-30 01:56:48 | [survos/bookmark-bundle](https://www.nuget.org/packages/survos%2Fbookmark-bundle) | 2.34.16 |  | Local bookmarks for arbitrary resources with optional peer sharing. |
-| 2026-09-30 02:00:34 | [mage2kishan/module-low-stock-notification](https://www.nuget.org/packages/mage2kishan%2Fmodule-low-stock-notification) | 1.0.11 |  | Magento 2 Low Stock Notification module - allows customers to subscribe for bac… |
-| 2026-09-30 02:09:05 | [controleonline/legacy](https://www.nuget.org/packages/controleonline%2Flegacy) | v1.0.2 | Controle Online |  |
+| 2026-09-30 03:06:05 | [mage2kishan/module-notification-bar](https://www.nuget.org/packages/mage2kishan%2Fmodule-notification-bar) | 1.0.11 | Kishan Savaliya | Panth Notification Bar — display customizable notification bars, promo banners,… |
+| 2026-09-30 03:14:24 | [mage2kishan/module-ordered-items](https://www.nuget.org/packages/mage2kishan%2Fmodule-ordered-items) | 1.0.9 | Kishan Savaliya | Panth Ordered Items — adds a rich 'Order Items' column to the Magento 2 admin S… |
 
 ## Data source
 
