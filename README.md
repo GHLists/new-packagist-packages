@@ -15,17 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 06:21 UTC
+## Latest list — 2026-09-30 07:19 UTC
 
-New packages created between 2026-09-30 05:21 UTC and 2026-09-30 06:21 UTC.
+New packages created between 2026-09-30 06:21 UTC and 2026-09-30 07:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-30T06-21-42-566848Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-30T07-19-39-493197Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-30 05:29:55 | [balerka/laravel-proxy](https://www.nuget.org/packages/balerka%2Flaravel-proxy) | v1.0.1 |  | HTTP proxy failover for Laravel and Guzzle. |
-| 2026-09-30 06:03:14 | [mage2kishan/module-social-meta](https://www.nuget.org/packages/mage2kishan%2Fmodule-social-meta) | 1.1.2 | Kishan Savaliya | Panth Social Meta — OpenGraph and Twitter Card head tags for Magento 2, with CM… |
-| 2026-09-30 06:14:58 | [mage2kishan/module-testimonials](https://www.nuget.org/packages/mage2kishan%2Fmodule-testimonials) | 1.1.2 |  | Advanced Testimonials module with slider, individual pages, categories, SEO, an… |
+| 2026-09-30 06:28:00 | [pixelfix/pixelfix](https://www.nuget.org/packages/pixelfix%2Fpixelfix) | 0.1.0 |  | PixelFix application starter |
+| 2026-09-30 06:36:44 | [mage2kishan/module-quickview](https://www.nuget.org/packages/mage2kishan%2Fmodule-quickview) | 1.0.11 | Kishan Savaliya | Smart Quick View & Compare module for Magento 2 with Hyva theme support. Featur… |
+| 2026-09-30 06:39:56 | [mage2kishan/module-smart-badge](https://www.nuget.org/packages/mage2kishan%2Fmodule-smart-badge) | 1.0.10 |  | Smart Product Badge & Label System - Automatically displays beautiful badges on… |
+| 2026-09-30 06:43:29 | [mage2kishan/module-zipcode-validation](https://www.nuget.org/packages/mage2kishan%2Fmodule-zipcode-validation) | 1.0.8 | Kishan Savaliya | Panth ZipcodeValidation — validates ZIP/PIN codes at checkout against configura… |
+| 2026-09-30 06:59:20 | [resvg-php/resvg](https://www.nuget.org/packages/resvg-php%2Fresvg) | v0.1.0+resvg.0.48.1 | Fojle Rabbi (Rabib) | Render SVG to PNG in-process, backed by a statically linked build of resvg |
 
 ## Data source
 

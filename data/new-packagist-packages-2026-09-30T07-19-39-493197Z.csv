@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-09-30T06:28:00Z,pixelfix/pixelfix,0.1.0,,PixelFix application starter
+2026-09-30T06:36:44Z,mage2kishan/module-quickview,1.0.11,Kishan Savaliya,"Smart Quick View & Compare module for Magento 2 with Hyva theme support. Features: Quick View Modal, Product Comparison, Recently Viewed Products"
+2026-09-30T06:39:56Z,mage2kishan/module-smart-badge,1.0.10,,Smart Product Badge & Label System - Automatically displays beautiful badges on products to increase urgency and conversions
+2026-09-30T06:43:29Z,mage2kishan/module-zipcode-validation,1.0.8,Kishan Savaliya,"Panth ZipcodeValidation — validates ZIP/PIN codes at checkout against configurable country-specific ranges. Ships with pre-loaded ranges for India, US, UK, Canada, Australia, and Europe. Includes an admin grid for managing ranges, JSON import and export, and AJAX validation on the storefront."
+2026-09-30T06:59:20Z,resvg-php/resvg,v0.1.0+resvg.0.48.1,Fojle Rabbi (Rabib),"Render SVG to PNG in-process, backed by a statically linked build of resvg"
