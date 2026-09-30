@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 03:19 UTC
+## Latest list — 2026-09-30 04:19 UTC
 
-New packages created between 2026-09-30 02:18 UTC and 2026-09-30 03:19 UTC.
+New packages created between 2026-09-30 03:19 UTC and 2026-09-30 04:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-30T03-19-27-244256Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-30T04-19-59-410965Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-30 03:06:05 | [mage2kishan/module-notification-bar](https://www.nuget.org/packages/mage2kishan%2Fmodule-notification-bar) | 1.0.11 | Kishan Savaliya | Panth Notification Bar — display customizable notification bars, promo banners,… |
-| 2026-09-30 03:14:24 | [mage2kishan/module-ordered-items](https://www.nuget.org/packages/mage2kishan%2Fmodule-ordered-items) | 1.0.9 | Kishan Savaliya | Panth Ordered Items — adds a rich 'Order Items' column to the Magento 2 admin S… |
+| 2026-09-30 03:30:25 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.1 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
+| 2026-09-30 04:02:03 | [mage2kishan/module-performance-debugger](https://www.nuget.org/packages/mage2kishan%2Fmodule-performance-debugger) | 1.0.11 | Kishan Savaliya | Production-grade Magento 2 frontend performance debugger and profiler. Tracks b… |
+| 2026-09-30 04:07:07 | [tualo/timetracker](https://www.nuget.org/packages/tualo%2Ftimetracker) | 1.0.2 |  | Timetracker package for Tualo Office package structure and example implementati… |
+| 2026-09-30 04:16:29 | [mage2kishan/module-order-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-order-attachments) | 1.0.12 |  | Allows customers to attach files to order items |
 
 ## Data source
 

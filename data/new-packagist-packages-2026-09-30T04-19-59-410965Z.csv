@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-09-30T03:30:25Z,mage2kishan/theme-frontend-panth-infotech,1.0.1,Kishan Savaliya,"Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent theme."
+2026-09-30T04:02:03Z,mage2kishan/module-performance-debugger,1.0.11,Kishan Savaliya,"Production-grade Magento 2 frontend performance debugger and profiler. Tracks block render time, observers, plugins, layout XML, DI resolution, DB queries (slow + duplicate + N+1), memory, and full page timeline. Surfaces a floating storefront toolbar with bottleneck detection, severity scoring, su…"
+2026-09-30T04:07:07Z,tualo/timetracker,1.0.2,,Timetracker package for Tualo Office package structure and example implementation
+2026-09-30T04:16:29Z,mage2kishan/module-order-attachments,1.0.12,,Allows customers to attach files to order items
