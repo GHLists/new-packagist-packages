@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-09-30T19:23:24Z,curly-deni/laravel-api-concern,1.0,Danila Mikhalev,Reusable API responses and exception rendering for Laravel
+2026-09-30T19:30:57Z,rutgers-oit-eds/laravel-cas-authentication,v1.0.0,Nicholas Blew,Laravel package for integrating CAS authentication
+2026-09-30T19:33:08Z,squipix/openai-php-client,1.0.0,Nuno Maduro; Sandro Gehri,OpenAI PHP is a supercharged PHP API client that allows you to interact with the Open AI API
+2026-09-30T19:33:24Z,doxa-soft/laravel-seeme,v1.0.0,Mánuel Fodor,Laravel package for the SeeMe SMS Gateway
+2026-09-30T19:37:08Z,heimseiten/contao-custom-navigation-bundle,1.0.0,heimseiten.de - Webdesign aus Köln,"Sicherheitsdreieck für das barrierefreie Navigationsmenü von Contao: Fährt die Maus schräg auf ein Untermenü zu und streift dabei andere Menüpunkte, bleibt das Untermenü geöffnet. Außerdem im Navigationsmodul einstellbar: Wiedereinblenden nach kurzem Verlassen, Öffnungsrichtung seitlicher Untermenü…"
+2026-09-30T19:40:33Z,spiggle/filament-portal-snapshot,1.0.0,Spiggle,"Filament 4/5 plugin for creating, scheduling, restoring, exporting and remotely storing database snapshots with automated demo resets."
+2026-09-30T19:55:25Z,fabeat/markdown-word,v0.1.0,Fabian Graßl,"Pure PHP Markdown to Word (DOCX) generator and back, built on PHPWord. Full CommonMark and GitHub-Flavored Markdown support, configurable styling, Word template rendering, and a command line utility."
+2026-09-30T19:56:53Z,curly-deni/laravel-tenancy,1.0,Danila Mikhalev,"Tenant identity, membership, access control, and resource isolation for Laravel."
+2026-09-30T19:59:13Z,kodhe/events,1.0.0,,"PSR-14 compatible event dispatcher for the Kodhe framework (standalone, general-purpose)"
+2026-09-30T20:11:04Z,reactor/reactor,1.0.0,,"A powerful event dispatcher with middleware, listener groups, and context-based routing."
