@@ -1,0 +1,15 @@
+created_at,package,version,author,description
+2026-09-30T14:22:33Z,blueprintau/collections,v1.0.0,Mineubob,"A pure, standalone array wrapper for BlueprintAU — generic Collection and Enumerable contract with no dependencies."
+2026-09-30T14:24:21Z,mage2kishan/module-footer,1.0.9,Kishan Savaliya,"Panth Footer — configurable footer module for Magento 2 with Hyva and Luma theme support. Features multi-column layout, social media links, newsletter subscription, back-to-top button, and full admin configuration. Part of the Panth Infotech extension suite on the Adobe Commerce Marketplace."
+2026-09-30T14:27:39Z,mage2kishan/module-testimonials,1.2.0,,"Advanced Testimonials module with slider, individual pages, categories, SEO, and frontend submission"
+2026-09-30T14:27:46Z,siberfx/bunny-cdn,1.1.0,Selim Görmüş,"Bunny.net API client (pull zones, storage, stream, DNS) with a Flysystem v3 adapter and Laravel integration."
+2026-09-30T14:33:06Z,discoverygarden/test_support,v1.0.0,,Provides various traits to help test setup and assertions in Drupal Kernel tests
+2026-09-30T14:34:49Z,istiyakamin/laradantic,v0.1.0,,"Pydantic-inspired typed schemas, JSON Schema, structured AI output and tool calling for Laravel."
+2026-09-30T14:35:56Z,mage2kishan/module-advanced-seo,1.8.2,Kishan Savaliya,"Panth Advanced SEO — enterprise-grade SEO suite for Magento 2: SEO dashboard, meta templates, SEO rules engine, bulk meta editor, custom canonicals, filter URL rewrites, filter page meta, hreflang, product feeds, missing meta report, SEO audit & crawl results, structured data (JSON-LD), breadcrumbs…"
+2026-09-30T14:38:00Z,dp0/filament-sanchaya,v1.0.0,DP0,A powerful file manager plugin for Filament PHP with media picker support.
+2026-09-30T14:38:08Z,ianfoxdev/outbox,v0.1.0,Anatoly Pankratyev,"Transactional outbox for PHP: store events in the same database transaction, publish them to Kafka with a separate relay."
+2026-09-30T14:39:19Z,mage2kishan/module-smart-badge,1.1.0,,Smart Product Badge & Label System - Automatically displays beautiful badges on products to increase urgency and conversions
+2026-09-30T14:41:19Z,akyos/native-push,0.1.0,,"Symfony Notifier push transport sending straight to APNs (iOS) and FCM v1 (Android), with device token storage for any Doctrine entity"
+2026-09-30T14:42:28Z,justpush/module-notify,v1.0.0,,"Sends Magento 2 store events (orders, invoices, refunds, new customers, admin logins) to JustPush Studio as push notifications."
+2026-09-30T15:10:50Z,thethunderturner/laravel-tmdb,v1.0.0,Matthew Biskas,A way to access TMDB from Laravel
+2026-09-30T15:17:30Z,mage2kishan/module-core,1.2.3,Kishan Savaliya,"Panth Core - base module providing shared utilities, admin configuration helpers, the optional ThemeBuildExecutorInterface contract, and the panth_modules registry used by every other Panth extension. Required dependency for all Panth Infotech extensions on the Magento Marketplace."
