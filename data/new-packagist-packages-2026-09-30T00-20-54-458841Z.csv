@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-09-29T23:28:50Z,upturnstudio/module-smart-categories,1.0.0,Brideo,"Smart categories for Magento 2 — rule-driven category membership, recomputed on save via message queue and cron."
+2026-09-29T23:29:29Z,connectmedia/laravel,v1.0.0,Connect Media,"Laravel integration for the Connect Media SMS API: send bulk and transactional SMS and SMS notifications to Safaricom, Airtel and Telkom in Kenya."
+2026-09-29T23:30:52Z,mage2kishan/module-hero-slider,1.0.11,Kishan Savaliya,"Hero / homepage carousel for Magento 2 (Hyva + Luma). Center-focused 3-up Splide.js slider with autoplay, per-slide button styling, and responsive desktop/mobile artwork. Ships its own Splide assets — no theme dependency."
+2026-09-29T23:49:49Z,mage2kishan/module-hreflang,1.0.19,Kishan Savaliya,"Panth Hreflang — multi-language/multi-region hreflang link tags for Magento 2 with x-default, cross-store CMS/product/category mapping, and admin CRUD."
+2026-09-30T00:07:12Z,mage2kishan/module-html-sitemap,1.0.13,,"Theme-agnostic HTML sitemap page for Magento 2 (Hyva + Luma). Renders categories (tree), products (grid), CMS pages, store switcher, and custom links at /sitemap with a built-in client-side search. Extracted from Panth_AdvancedSEO for independent installation."
+2026-09-30T00:18:14Z,mage2kishan/module-imageoptimizer,1.0.9,Kishan Savaliya,"Frontend image performance: lazy loading (Native/IntersectionObserver/Hybrid), WebP browser detection with fallback, preload hints, async decoding, and fetchpriority"
