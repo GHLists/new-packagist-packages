@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-09-30T20:28:26Z,jacerider/neo_migrate,1.0.0,Cyle Carlson (JaceRider),"Moves a legacy site (paragraphs, micon, escort, real_favicon, aeon) onto the Neo suite."
+2026-09-30T20:40:07Z,lenorix/datadis-client,v0.1.0,Jesus Hernandez,"PHP client for Datadis, the platform where Spanish electricity distributors publish supply data: supplies, contracts, hourly and quarter-hourly consumption, maximum power, reactive energy and public open data."
+2026-09-30T20:40:54Z,chrisreedio/laravel-mdstaff-sdk,v1.0.0,Chris Reed,Laravel SDK for querying the MDStaff (ASM Cloud) API
+2026-09-30T20:44:21Z,aimeos/pagible-webhooks,0.13.0,,Pagible CMS webhook delivery
+2026-09-30T20:59:31Z,shellrent/sdk,v0.1.0,,Official PHP SDK for the Shellrent public API
