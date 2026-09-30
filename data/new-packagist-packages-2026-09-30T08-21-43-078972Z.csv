@@ -1,0 +1,64 @@
+created_at,package,version,author,description
+2026-09-30T07:22:30Z,flarum-lang/afrikaans,2.0.0,,Afrikaans language pack for Flarum.
+2026-09-30T07:24:09Z,flarum-lang/asturian,2.0.0,,Asturian language pack for Flarum.
+2026-09-30T07:25:00Z,flarum-lang/belarusian,2.0.0,,Belarusian language pack for Flarum.
+2026-09-30T07:25:31Z,flarum-lang/bulgarian,2.0.0,Nikolay Sokolov,Bulgarian language pack for Flarum.
+2026-09-30T07:25:58Z,flarum-lang/bengali,2.0.0,,Bengali language pack for Flarum.
+2026-09-30T07:26:28Z,flarum-lang/breton,2.0.0,,Breton language pack for Flarum.
+2026-09-30T07:27:16Z,flarum-lang/bosnian,2.0.0,,Bosnian language pack for Flarum.
+2026-09-30T07:28:10Z,flarum-lang/kurdish-central,2.0.0,,Kurdish (Central) language pack for Flarum.
+2026-09-30T07:28:56Z,flarum-lang/welsh,2.0.0,,Welsh language pack for Flarum.
+2026-09-30T07:29:20Z,flarum-lang/danish,2.0.0,,Danish language pack for Flarum.
+2026-09-30T07:30:30Z,flarum-lang/esperanto,2.0.0,,Esperanto language pack for Flarum.
+2026-09-30T07:31:00Z,flarum-lang/spanish-argentina,2.0.0,,Spanish (Argentina) language pack for Flarum.
+2026-09-30T07:31:23Z,flarum-lang/spanish-mexico,2.0.0,,Spanish (Mexico) language pack for Flarum.
+2026-09-30T07:31:48Z,flarum-lang/estonian,2.0.0,,Estonian language pack for Flarum.
+2026-09-30T07:32:14Z,flarum-lang/basque,2.0.0,,Basque language pack for Flarum.
+2026-09-30T07:32:26Z,emirustaoglu/fcm,0.0.1,,A lightweight PHP client for Firebase Cloud Messaging (FCM) HTTP v1 API.
+2026-09-30T07:33:28Z,flarum-lang/filipino,2.0.0,,Filipino language pack for Flarum.
+2026-09-30T07:33:35Z,predictflow/sdk,v0.1.0,PredictFlow,"Official PHP SDK for PredictFlow - demand forecasting, inventory intelligence, and pricing optimization for Shopify and WooCommerce stores"
+2026-09-30T07:34:17Z,flarum-lang/irish,2.0.0,,Irish language pack for Flarum.
+2026-09-30T07:36:21Z,flarum-lang/galician,2.0.0,,Galician language pack for Flarum.
+2026-09-30T07:36:45Z,flarum-lang/croatian,2.0.0,,Croatian language pack for Flarum.
+2026-09-30T07:37:08Z,flarum-lang/armenian,2.0.0,,Armenian language pack for Flarum.
+2026-09-30T07:38:03Z,maatify/php-return-target,v1.0.0-rc.1,Maatify,PHP library for stateless signed internal return-target handling.
+2026-09-30T07:38:08Z,flarum-lang/icelandic,2.0.0,,Icelandic language pack for Flarum.
+2026-09-30T07:38:57Z,flarum-lang/georgian,2.0.0,,Georgian language pack for Flarum.
+2026-09-30T07:39:32Z,flarum-lang/kabyle,2.0.0,,Kabyle language pack for Flarum.
+2026-09-30T07:40:19Z,flarum-lang/kazakh,2.0.0,,Kazakh language pack for Flarum.
+2026-09-30T07:41:05Z,emirustaoglu/barcode,1.0.0,Yusuf Emir USTAOĞLU,Lightweight PHP library for generating QR codes and 1D/2D barcodes.
+2026-09-30T07:41:05Z,flarum-lang/khmer,2.0.0,,Khmer language pack for Flarum.
+2026-09-30T07:41:28Z,flarum-lang/kurdish-northern,2.0.0,,Kurdish (Northern) language pack for Flarum.
+2026-09-30T07:42:07Z,maatify/php-rate-limiter,v1.0.0-rc.1,Maatify,"PHP library for deterministic, multi-signal rate-limit decisions."
+2026-09-30T07:42:21Z,flarum-lang/kannada,2.0.0,,Kannada language pack for Flarum.
+2026-09-30T07:44:08Z,flarum-lang/macedonian,2.0.0,,Macedonian language pack for Flarum.
+2026-09-30T07:44:36Z,flarum-lang/malayalam,2.0.0,meetdilip,Malayalam language pack for Flarum.
+2026-09-30T07:44:36Z,meetdilip/flarum-lang-malayalam,2.0.0,meetdilip,Malayalam language pack for Flarum.
+2026-09-30T07:45:21Z,flarum-lang/marathi,2.0.0,,Marathi language pack for Flarum.
+2026-09-30T07:45:51Z,flarum-lang/burmese,2.0.0,,Burmese language pack for Flarum.
+2026-09-30T07:46:14Z,flarum-lang/norwegian-bokmal,2.0.0,,Norwegian Bokmål language pack for Flarum.
+2026-09-30T07:46:38Z,flarum-lang/nepali,2.0.0,,Nepali language pack for Flarum.
+2026-09-30T07:47:07Z,flarum-lang/norwegian-nynorsk,2.0.0,,Norwegian Nynorsk language pack for Flarum.
+2026-09-30T07:47:31Z,flarum-lang/occitan,2.0.0,,Occitan language pack for Flarum.
+2026-09-30T07:47:54Z,flarum-lang/punjabi,2.0.0,,Punjabi language pack for Flarum.
+2026-09-30T07:48:11Z,karewan/kncaptcha,2.0.0,Florent VIALATTE,"Server side of KnCaptcha for PHP 8.3+: privacy-friendly proof-of-work captcha, stateless challenges, memory-hard Equihash puzzles checked in microseconds"
+2026-09-30T07:48:19Z,flarum-lang/portuguese,2.0.0,,Portuguese language pack for Flarum.
+2026-09-30T07:49:15Z,flarum-lang/sardinian,2.0.0,,Sardinian language pack for Flarum.
+2026-09-30T07:50:09Z,flarum-lang/slovenian,2.0.0,,Slovenian language pack for Flarum.
+2026-09-30T07:50:38Z,flarum-lang/albanian,2.0.0,,Albanian language pack for Flarum.
+2026-09-30T07:51:02Z,flarum-lang/serbian-cyrillic,2.0.0,,Serbian (Cyrillic) language pack for Flarum.
+2026-09-30T07:51:26Z,flarum-lang/serbian,2.0.0,,Serbian (Latin) language pack for Flarum.
+2026-09-30T07:51:26Z,flarum-lang/serbian-latin,2.0.0,,Serbian (Latin) language pack for Flarum.
+2026-09-30T07:51:51Z,flarum-lang/telugu,2.0.0,,Telugu language pack for Flarum.
+2026-09-30T07:52:15Z,flarum-lang/tajik,2.0.0,,Tajik language pack for Flarum.
+2026-09-30T07:52:40Z,flarum-lang/thai,2.0.0,kon3ko,Thai language pack for Flarum.
+2026-09-30T07:52:54Z,dotmarn/mailcheckr-php,v0.0.1,Ridwan Kasim,Laravel client for the MailCheckr email verification API
+2026-09-30T07:53:06Z,flarum-lang/turkmen,2.0.0,,Turkmen language pack for Flarum.
+2026-09-30T07:53:36Z,flarum-lang/tagalog,2.0.0,,Tagalog language pack for Flarum.
+2026-09-30T07:53:58Z,pinecore/pinecore,v0.1.0,,Minimal PHP framework for long-running workers
+2026-09-30T07:54:12Z,flarum-lang/toki-pona,2.0.0,,Toki Pona language pack for Flarum.
+2026-09-30T07:55:01Z,flarum-lang/uyghur,2.0.0,,Uyghur language pack for Flarum.
+2026-09-30T07:55:50Z,flarum-lang/urdu,2.0.0,,Urdu language pack for Flarum.
+2026-09-30T08:02:55Z,karewan/knroute-inertia,1.0.0,Florent VIALATTE,Fast Inertia.js v3 server-side adapter for the KnRoute PHP 8.3+ router
+2026-09-30T08:04:56Z,mage2kishan/module-hero-slider,1.0.12,Kishan Savaliya,"Hero / homepage carousel for Magento 2 (Hyva + Luma). Center-focused 3-up Splide.js slider with autoplay, per-slide button styling, and responsive desktop/mobile artwork. Ships its own Splide assets — no theme dependency."
+2026-09-30T08:17:57Z,mage2kishan/module-order-attachments,1.0.13,,Allows customers to attach files to order items
