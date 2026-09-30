@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-09-30T08:24:07Z,mage2kishan/module-smart-badge,1.0.11,,Smart Product Badge & Label System - Automatically displays beautiful badges on products to increase urgency and conversions
+2026-09-30T08:32:15Z,baracod/larastarterkit-core,1.0.0-rc.1,,Shared Laravel infrastructure with Auth and Admin modules
+2026-09-30T08:36:56Z,baracod/larastarterkit-generator,1.0.0-rc.1,,Developer tooling for Larastarterkit
+2026-09-30T08:52:23Z,tomvondracek/bolt-ai-image-alt,v1.0.0,Tomas Vondracek,"In-browser AI generation of image ALT texts for the Bolt CMS admin (Florence-2 + Chrome Translator API). No API costs, image data never leaves the browser."
+2026-09-30T08:53:09Z,omniphp/omniphp,v0.1.0,owner888,OmniPHP application skeleton — a ready-to-run Workerman project layout for the OmniPHP framework.
+2026-09-30T09:07:14Z,tastysoul/changelog-checker,1.0.0,,Composer plugin to check changelog files for breaking changes
+2026-09-30T09:08:31Z,emse-dev/doxswap,1.1.0,Michael Deeming,Doxswap is a simple document conversion package for Laravel which uses LibreOffice to convert documents to a variety of formats.
+2026-09-30T09:09:03Z,emse-dev/onym,1.1.0,Michael Deeming,"Onym is a lightweight Laravel package designed to generate unique, structured, and meaningful filenames effortlessly."
