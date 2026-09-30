@@ -15,18 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 04:19 UTC
+## Latest list — 2026-09-30 05:21 UTC
 
-New packages created between 2026-09-30 03:19 UTC and 2026-09-30 04:19 UTC.
+New packages created between 2026-09-30 04:19 UTC and 2026-09-30 05:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-30T04-19-59-410965Z.csv)
+[Full CSV](data/new-packagist-packages-2026-09-30T05-21-46-269152Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-30 03:30:25 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.1 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
-| 2026-09-30 04:02:03 | [mage2kishan/module-performance-debugger](https://www.nuget.org/packages/mage2kishan%2Fmodule-performance-debugger) | 1.0.11 | Kishan Savaliya | Production-grade Magento 2 frontend performance debugger and profiler. Tracks b… |
-| 2026-09-30 04:07:07 | [tualo/timetracker](https://www.nuget.org/packages/tualo%2Ftimetracker) | 1.0.2 |  | Timetracker package for Tualo Office package structure and example implementati… |
-| 2026-09-30 04:16:29 | [mage2kishan/module-order-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-order-attachments) | 1.0.12 |  | Allows customers to attach files to order items |
+| 2026-09-30 04:21:32 | [mage2kishan/module-performance-optimizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-performance-optimizer) | 1.0.9 | Kishan Savaliya | Frontend performance optimizations for Magento 2 — script deferral, font-displa… |
+| 2026-09-30 04:34:06 | [mage2kishan/module-product-slider](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-slider) | 1.0.10 |  | Advanced Product Slider widget with extensive customization options for Magento… |
+| 2026-09-30 04:38:54 | [mage2kishan/module-producttabs](https://www.nuget.org/packages/mage2kishan%2Fmodule-producttabs) | 1.0.10 | Kishan Savaliya | Product detail page tab customization for Magento 2. Supports horizontal/vertic… |
+| 2026-09-30 04:44:59 | [mage2kishan/module-productgallery](https://www.nuget.org/packages/mage2kishan%2Fmodule-productgallery) | 1.0.10 | Kishan Savaliya | Custom product image gallery for Magento 2 product detail pages. Features confi… |
+| 2026-09-30 04:53:44 | [mage2kishan/module-robots-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-robots-seo) | 1.2.3 | Kishan Savaliya | Panth Robots SEO — dedicated robots.txt, X-Robots-Tag, and LLM-bot (GPTBot, Cla… |
+| 2026-09-30 04:59:27 | [mercanpay/mercanpay-php](https://www.nuget.org/packages/mercanpay%2Fmercanpay-php) | v1.0.0 | MercanPay | Official PHP client for the MercanPay crypto payment gateway (TRX & USDT-TRC20) |
+| 2026-09-30 04:59:44 | [mage2kishan/module-search-autocomplete](https://www.nuget.org/packages/mage2kishan%2Fmodule-search-autocomplete) | 1.0.10 | Kishan Savaliya | Engine-agnostic, bot-hardened, cached search autocomplete for Magento 2 and Hyv… |
 
 ## Data source
 
