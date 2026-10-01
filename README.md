@@ -15,18 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 00:21 UTC
+## Latest list — 2026-10-01 01:20 UTC
 
-New packages created between 2026-09-30 23:19 UTC and 2026-10-01 00:21 UTC.
+New packages created between 2026-10-01 00:21 UTC and 2026-10-01 01:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-01T00-21-48-571487Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-01T01-20-33-877263Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-30 23:44:11 | [novaris-dev/framework](https://www.nuget.org/packages/novaris-dev%2Fframework) | v1.0.0 | Benjamin Lu | Novaris Framework: The core foundation of the Novaris Content Management System… |
-| 2026-09-30 23:54:19 | [madbuilder/framework](https://www.nuget.org/packages/madbuilder%2Fframework) | v5.107.0 | Matheus Agnes Dias | Mad Framework: the open-source Laravel runtime behind MadBuilder apps. Server-d… |
-| 2026-10-01 00:03:50 | [christianjbrown/user-friendly-exception](https://www.nuget.org/packages/christianjbrown%2Fuser-friendly-exception) | v1.0.0 | Christian Brown | A tiny PHP library providing a UserFriendlyException whose message is safe to d… |
-| 2026-10-01 00:10:09 | [christianjbrown/cloud-run-function-lib](https://www.nuget.org/packages/christianjbrown%2Fcloud-run-function-lib) | v1.0.0 | Christian Brown | A strongly-typed PHP 8.5+ framework for building Google Cloud Run functions HTT… |
+| 2026-10-01 00:40:33 | [betocampoy/champs-whatsapp-sdk](https://www.nuget.org/packages/betocampoy%2Fchamps-whatsapp-sdk) | v0.1.0 | Beto Campoy | SDK PHP da Champs para o gateway WhatsApp (champs-whatsapp-gateway): sessões, Q… |
 
 ## Data source
 
