@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-01T09:27:11Z,mage2kishan/module-dynamic-forms,1.2.2,,"Dynamic Forms module for Magento 2 - Create and manage custom forms with drag-and-drop field builder, Hyva and Luma support"
+2026-10-01T09:34:48Z,mage2kishan/module-advanced-contact-us,1.1.2,,"Advanced Contact Us Page - Custom fields, bot protection, submission management, email notifications"
+2026-10-01T09:48:05Z,wexample/symfony-mail-ds,1.0.1,,
+2026-10-01T09:48:37Z,wexample/symfony-mail-demo,1.0.1,,
+2026-10-01T09:54:08Z,larascan/larascan,v1.0.0-alpha,Emre Balasar,"Measure and analyze your Laravel 13 Core native adoption rate, discover used & unused facades, utilities, and helpers."
+2026-10-01T09:57:11Z,nexia-cloud-os/devtools,v0.1.0,,Standalone Nexia App source generators
+2026-10-01T10:12:34Z,mage2kishan/module-mega-menu,1.0.13,Kishan Savaliya,"Advanced mega menu for Magento 2 — works on Hyva and Luma. Drag-and-drop tree builder, multi-column dropdowns, image and icon support per item, custom CMS block injection per column, mobile drawer with smooth animations, store-view scoped, FPC-aware caching, role-based access. Modern Tailwind + Alp…"
+2026-10-01T10:16:27Z,mage2kishan/module-notification-bar,1.0.12,Kishan Savaliya,"Panth Notification Bar — display customizable notification bars, promo banners, countdown timers, and announcement strips on your Magento 2 storefront. Multiple bars with scheduling, page targeting, customer group targeting, geo-targeting, CTA buttons, and dismissible with cookie memory. Hyva + Lum…"

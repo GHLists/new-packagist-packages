@@ -15,21 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 09:22 UTC
+## Latest list — 2026-10-01 10:20 UTC
 
-New packages created between 2026-10-01 08:19 UTC and 2026-10-01 09:22 UTC.
+New packages created between 2026-10-01 09:22 UTC and 2026-10-01 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-01T09-22-56-922305Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-01T10-20-23-522087Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-01 08:32:01 | [crsl-admin/laravel-nuxt-ui-starter-kit](https://www.nuget.org/packages/crsl-admin%2Flaravel-nuxt-ui-starter-kit) | 0.0.1 |  | The NuxtUI application starter kit for CRSL team. |
-| 2026-10-01 09:01:03 | [mage2kishan/module-eu-withdrawal](https://www.nuget.org/packages/mage2kishan%2Fmodule-eu-withdrawal) | 1.1.2 | Kishan Savaliya | Panth EU Withdrawal Button - a clear, accessible digital withdrawal (cancellati… |
-| 2026-10-01 09:04:20 | [mage2kishan/module-faq](https://www.nuget.org/packages/mage2kishan%2Fmodule-faq) | 1.3.2 | Kishan Savaliya | Advanced FAQ Module with multi-level assignment capabilities |
-| 2026-10-01 09:07:24 | [mage2kishan/module-testimonials](https://www.nuget.org/packages/mage2kishan%2Fmodule-testimonials) | 1.2.2 |  | Advanced Testimonials module with slider, individual pages, categories, SEO, an… |
-| 2026-10-01 09:11:29 | [mage2kishan/module-blog](https://www.nuget.org/packages/mage2kishan%2Fmodule-blog) | 1.3.1 | Kishan Savaliya | Panth_Blog - SEO-grade blog module for Magento 2 with first-class AEO/AIO suppo… |
-| 2026-10-01 09:17:05 | [mage2kishan/module-html-sitemap](https://www.nuget.org/packages/mage2kishan%2Fmodule-html-sitemap) | 1.0.15 |  | Theme-agnostic HTML sitemap page for Magento 2 (Hyva + Luma). Renders categorie… |
-| 2026-10-01 09:21:08 | [mage2kishan/module-not-found-page](https://www.nuget.org/packages/mage2kishan%2Fmodule-not-found-page) | 1.0.12 | Kishan Savaliya | Custom 404 Not Found Page for Magento 2. Replaces the default CMS 404 page with… |
+| 2026-10-01 09:27:11 | [mage2kishan/module-dynamic-forms](https://www.nuget.org/packages/mage2kishan%2Fmodule-dynamic-forms) | 1.2.2 |  | Dynamic Forms module for Magento 2 - Create and manage custom forms with drag-a… |
+| 2026-10-01 09:34:48 | [mage2kishan/module-advanced-contact-us](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-contact-us) | 1.1.2 |  | Advanced Contact Us Page - Custom fields, bot protection, submission management… |
+| 2026-10-01 09:48:05 | [wexample/symfony-mail-ds](https://www.nuget.org/packages/wexample%2Fsymfony-mail-ds) | 1.0.1 |  |  |
+| 2026-10-01 09:48:37 | [wexample/symfony-mail-demo](https://www.nuget.org/packages/wexample%2Fsymfony-mail-demo) | 1.0.1 |  |  |
+| 2026-10-01 09:54:08 | [larascan/larascan](https://www.nuget.org/packages/larascan%2Flarascan) | v1.0.0-alpha | Emre Balasar | Measure and analyze your Laravel 13 Core native adoption rate, discover used &… |
+| 2026-10-01 09:57:11 | [nexia-cloud-os/devtools](https://www.nuget.org/packages/nexia-cloud-os%2Fdevtools) | v0.1.0 |  | Standalone Nexia App source generators |
+| 2026-10-01 10:12:34 | [mage2kishan/module-mega-menu](https://www.nuget.org/packages/mage2kishan%2Fmodule-mega-menu) | 1.0.13 | Kishan Savaliya | Advanced mega menu for Magento 2 — works on Hyva and Luma. Drag-and-drop tree b… |
+| 2026-10-01 10:16:27 | [mage2kishan/module-notification-bar](https://www.nuget.org/packages/mage2kishan%2Fmodule-notification-bar) | 1.0.12 | Kishan Savaliya | Panth Notification Bar — display customizable notification bars, promo banners,… |
 
 ## Data source
 
