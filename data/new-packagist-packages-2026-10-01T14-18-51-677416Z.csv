@@ -1,0 +1,26 @@
+created_at,package,version,author,description
+2026-10-01T13:22:11Z,migears/captcha,2.0.0,,A lightweight captcha generator for PHP 8.1+ with GD extension
+2026-10-01T13:22:14Z,migears/cache,2.0.0,,A lightweight cache abstraction layer with PSR-16 compliance and Redis implementation
+2026-10-01T13:22:14Z,migears/data-structure,2.0.0,,Redis data structure service: explicit Hash/List/Set/ZSet semantics with an interface for redis-compatible servers
+2026-10-01T13:22:20Z,migears/ai-proxy,2.0.0,,A minimal AI streaming proxy for PHP 8.1+ — SSE relay + OpenAI-compatible model abstraction
+2026-10-01T13:22:25Z,migears/dao,2.0.0,,Minimalist DAO trait — connects SQL layer with Domain objects
+2026-10-01T13:23:00Z,mage2kishan/module-footer,1.0.11,Kishan Savaliya,"Panth Footer — configurable footer module for Magento 2 with Hyva and Luma theme support. Features multi-column layout, social media links, newsletter subscription, back-to-top button, and full admin configuration. Part of the Panth Infotech extension suite on the Adobe Commerce Marketplace."
+2026-10-01T13:24:04Z,migears/http-exceptions,2.0.0,,A minimal collection of HTTP exception classes for PHP 8.1+
+2026-10-01T13:24:07Z,migears/domain,2.0.0,,Minimalist Domain — pure data containers with zero mapping and self-validation
+2026-10-01T13:24:07Z,migears/html-digest,2.0.0,,A lightweight HTML text digest / summary extractor for PHP 8.1+
+2026-10-01T13:24:10Z,migears/i18n,2.0.0,Sam X. Xu,"Minimalist internationalization library — array and gettext translations, plus timezone-aware date rendering"
+2026-10-01T13:26:33Z,migears/mitable,2.0.0,,"Minimalist single-table execution helper for one-off data migrations — DDL, CRUD, introspection, and cursor-based iteration, with a class per SQL dialect."
+2026-10-01T13:26:37Z,migears/image,2.0.0,,极简图像处理工具包，支持缩放、裁剪、水印、格式转换
+2026-10-01T13:26:39Z,migears/manager,2.0.0,Sam X. Xu,"Minimalist Manager layer — business orchestration: coordinate Domains, persist through DAOs, notify through events"
+2026-10-01T13:26:50Z,mage2kishan/module-extra-fee,1.1.2,Kishan Savaliya,"Panth Extra Fee — add configurable extra fees and surcharges to Magento 2 checkout based on payment method, customer group, country/region, products, categories, order amount, and more. Fixed, percentage, or combined fee calculation with full tax and refund support."
+2026-10-01T13:26:50Z,migears/jobs,2.0.0,,Minimalist background job runner — fire and forget async processes
+2026-10-01T13:26:54Z,migears/log,2.0.0,,Minimalist PSR-3 compliant logger
+2026-10-01T13:29:28Z,migears/rpc,2.0.0,,Minimalist JSON-RPC 2.0 client and server
+2026-10-01T13:29:40Z,migears/security,2.0.0,,miGears Security - Security toolkit with MiAuth classic implementation
+2026-10-01T13:29:49Z,migears/sql,2.0.0,,Lightweight SQL query builder for PHP 8.1+
+2026-10-01T13:31:49Z,mage2kishan/module-mage-pos,1.0.7,Kishan Savaliya,"Panth MagePos - a full point of sale (POS) for Magento 2. Standalone touch-friendly terminal with cashier authentication and PIN lock, register sessions with cash management and X/Z reports, barcode scanning, quick keys, multi-cart hold/retrieve, discounts with per-role caps, custom sale lines, spl…"
+2026-10-01T13:32:39Z,migears/template,2.0.0,,"Minimalist PHP template engine — native PHP, auto-escaping, layout inheritance"
+2026-10-01T13:32:52Z,migears/utils,2.0.0,Sam X. Xu,Minimalist utility collection — immutable URLs and pagination DTOs
+2026-10-01T13:32:55Z,migears/validator,2.0.0,,"Lightweight declarative validation — error codes, i18n-ready"
+2026-10-01T13:35:29Z,mage2kishan/module-checkout-success,1.0.10,Kishan Savaliya,"Modern, configurable checkout success page for Magento 2. Replaces the default order confirmation with a two-column or single-column layout showing order details, items with thumbnails, shipping/billing addresses, order totals, payment/shipping method, guest account creation prompt, CMS block slot,…"
+2026-10-01T13:57:43Z,mage2kishan/module-theme-customizer,1.1.2,,"Hyva Theme Customizer - Backend-driven theme configuration with CSS custom properties, color management, typography, and Tailwind CSS integration."
