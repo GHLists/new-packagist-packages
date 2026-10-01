@@ -15,39 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 14:18 UTC
+## Latest list — 2026-10-01 15:22 UTC
 
-New packages created between 2026-10-01 13:20 UTC and 2026-10-01 14:18 UTC.
+New packages created between 2026-10-01 14:18 UTC and 2026-10-01 15:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-01T14-18-51-677416Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-01T15-22-04-817133Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-01 13:22:11 | [migears/captcha](https://www.nuget.org/packages/migears%2Fcaptcha) | 2.0.0 |  | A lightweight captcha generator for PHP 8.1+ with GD extension |
-| 2026-10-01 13:22:14 | [migears/cache](https://www.nuget.org/packages/migears%2Fcache) | 2.0.0 |  | A lightweight cache abstraction layer with PSR-16 compliance and Redis implemen… |
-| 2026-10-01 13:22:14 | [migears/data-structure](https://www.nuget.org/packages/migears%2Fdata-structure) | 2.0.0 |  | Redis data structure service: explicit Hash/List/Set/ZSet semantics with an int… |
-| 2026-10-01 13:22:20 | [migears/ai-proxy](https://www.nuget.org/packages/migears%2Fai-proxy) | 2.0.0 |  | A minimal AI streaming proxy for PHP 8.1+ — SSE relay + OpenAI-compatible model… |
-| 2026-10-01 13:22:25 | [migears/dao](https://www.nuget.org/packages/migears%2Fdao) | 2.0.0 |  | Minimalist DAO trait — connects SQL layer with Domain objects |
-| 2026-10-01 13:23:00 | [mage2kishan/module-footer](https://www.nuget.org/packages/mage2kishan%2Fmodule-footer) | 1.0.11 | Kishan Savaliya | Panth Footer — configurable footer module for Magento 2 with Hyva and Luma them… |
-| 2026-10-01 13:24:04 | [migears/http-exceptions](https://www.nuget.org/packages/migears%2Fhttp-exceptions) | 2.0.0 |  | A minimal collection of HTTP exception classes for PHP 8.1+ |
-| 2026-10-01 13:24:07 | [migears/domain](https://www.nuget.org/packages/migears%2Fdomain) | 2.0.0 |  | Minimalist Domain — pure data containers with zero mapping and self-validation |
-| 2026-10-01 13:24:07 | [migears/html-digest](https://www.nuget.org/packages/migears%2Fhtml-digest) | 2.0.0 |  | A lightweight HTML text digest / summary extractor for PHP 8.1+ |
-| 2026-10-01 13:24:10 | [migears/i18n](https://www.nuget.org/packages/migears%2Fi18n) | 2.0.0 | Sam X. Xu | Minimalist internationalization library — array and gettext translations, plus… |
-| 2026-10-01 13:26:33 | [migears/mitable](https://www.nuget.org/packages/migears%2Fmitable) | 2.0.0 |  | Minimalist single-table execution helper for one-off data migrations — DDL, CRU… |
-| 2026-10-01 13:26:37 | [migears/image](https://www.nuget.org/packages/migears%2Fimage) | 2.0.0 |  | 极简图像处理工具包，支持缩放、裁剪、水印、格式转换 |
-| 2026-10-01 13:26:39 | [migears/manager](https://www.nuget.org/packages/migears%2Fmanager) | 2.0.0 | Sam X. Xu | Minimalist Manager layer — business orchestration: coordinate Domains, persist… |
-| 2026-10-01 13:26:50 | [mage2kishan/module-extra-fee](https://www.nuget.org/packages/mage2kishan%2Fmodule-extra-fee) | 1.1.2 | Kishan Savaliya | Panth Extra Fee — add configurable extra fees and surcharges to Magento 2 check… |
-| 2026-10-01 13:26:50 | [migears/jobs](https://www.nuget.org/packages/migears%2Fjobs) | 2.0.0 |  | Minimalist background job runner — fire and forget async processes |
-| 2026-10-01 13:26:54 | [migears/log](https://www.nuget.org/packages/migears%2Flog) | 2.0.0 |  | Minimalist PSR-3 compliant logger |
-| 2026-10-01 13:29:28 | [migears/rpc](https://www.nuget.org/packages/migears%2Frpc) | 2.0.0 |  | Minimalist JSON-RPC 2.0 client and server |
-| 2026-10-01 13:29:40 | [migears/security](https://www.nuget.org/packages/migears%2Fsecurity) | 2.0.0 |  | miGears Security - Security toolkit with MiAuth classic implementation |
-| 2026-10-01 13:29:49 | [migears/sql](https://www.nuget.org/packages/migears%2Fsql) | 2.0.0 |  | Lightweight SQL query builder for PHP 8.1+ |
-| 2026-10-01 13:31:49 | [mage2kishan/module-mage-pos](https://www.nuget.org/packages/mage2kishan%2Fmodule-mage-pos) | 1.0.7 | Kishan Savaliya | Panth MagePos - a full point of sale (POS) for Magento 2. Standalone touch-frie… |
-| 2026-10-01 13:32:39 | [migears/template](https://www.nuget.org/packages/migears%2Ftemplate) | 2.0.0 |  | Minimalist PHP template engine — native PHP, auto-escaping, layout inheritance |
-| 2026-10-01 13:32:52 | [migears/utils](https://www.nuget.org/packages/migears%2Futils) | 2.0.0 | Sam X. Xu | Minimalist utility collection — immutable URLs and pagination DTOs |
-| 2026-10-01 13:32:55 | [migears/validator](https://www.nuget.org/packages/migears%2Fvalidator) | 2.0.0 |  | Lightweight declarative validation — error codes, i18n-ready |
-| 2026-10-01 13:35:29 | [mage2kishan/module-checkout-success](https://www.nuget.org/packages/mage2kishan%2Fmodule-checkout-success) | 1.0.10 | Kishan Savaliya | Modern, configurable checkout success page for Magento 2. Replaces the default… |
-| 2026-10-01 13:57:43 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.2 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
+| 2026-10-01 14:28:45 | [kevinpirnie/kpt-database](https://www.nuget.org/packages/kevinpirnie%2Fkpt-database) | v1.2.16 | Kevin Pirnie | A modern, fluent PHP database wrapper built on top of PDO, providing an elegant… |
+| 2026-10-01 14:32:03 | [robertboes/laravel-cloudflare-proxies](https://www.nuget.org/packages/robertboes%2Flaravel-cloudflare-proxies) | v0.1.1 | Robert Boes | Trust Cloudflare's published ranges and the private proxy hop, so the client IP… |
+| 2026-10-01 14:32:26 | [philipstuessel/deploy-machine](https://www.nuget.org/packages/philipstuessel%2Fdeploy-machine) | v1.2.1 |  | Deploys a folder to a server. One bash script, one config file. |
+| 2026-10-01 14:32:56 | [migears/mail](https://www.nuget.org/packages/migears%2Fmail) | 2.0.0 |  | Minimalist mail sending library with native mail() and SMTP support |
+| 2026-10-01 14:35:41 | [reshapify/sendseven](https://www.nuget.org/packages/reshapify%2Fsendseven) | v0.1.2 | Richard Bowen | Unofficial. A typed, fully documented PHP SDK for the SendSeven messaging API:… |
+| 2026-10-01 14:42:35 | [se7enxweb/expui](https://www.nuget.org/packages/se7enxweb%2Fexpui) | v1.0.0.0 | 7x | Exponential UI: the jQuery 4 API (Exp.*) that delivers the admin's and the site… |
+| 2026-10-01 14:43:28 | [reshapify/sendseven-laravel](https://www.nuget.org/packages/reshapify%2Fsendseven-laravel) | v0.1.0 | Richard Bowen | Unofficial. SendSeven for Laravel: configured client, verified webhooks as Lara… |
+| 2026-10-01 14:56:39 | [digit7s/filament-view-website](https://www.nuget.org/packages/digit7s%2Ffilament-view-website) | 1.0.0 | Myo Min Oo | A lightweight Filament 5 panel plugin that adds a configurable Visit Website ac… |
 
 ## Data source
 

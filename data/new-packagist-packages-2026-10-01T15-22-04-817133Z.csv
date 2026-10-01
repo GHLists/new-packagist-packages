@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-01T14:28:45Z,kevinpirnie/kpt-database,v1.2.16,Kevin Pirnie,"A modern, fluent PHP database wrapper built on top of PDO, providing an elegant and secure way to interact with MySQL databases"
+2026-10-01T14:32:03Z,robertboes/laravel-cloudflare-proxies,v0.1.1,Robert Boes,"Trust Cloudflare's published ranges and the private proxy hop, so the client IP and scheme are right behind Cloudflare."
+2026-10-01T14:32:26Z,philipstuessel/deploy-machine,v1.2.1,,"Deploys a folder to a server. One bash script, one config file."
+2026-10-01T14:32:56Z,migears/mail,2.0.0,,Minimalist mail sending library with native mail() and SMTP support
+2026-10-01T14:35:41Z,reshapify/sendseven,v0.1.2,Richard Bowen,"Unofficial. A typed, fully documented PHP SDK for the SendSeven messaging API: WhatsApp, SMS, email, Telegram, Messenger, Instagram and more."
+2026-10-01T14:42:35Z,se7enxweb/expui,v1.0.0.0,7x,"Exponential UI: the jQuery 4 API (Exp.*) that delivers the admin's and the site designs' interactive features, replacing YUI"
+2026-10-01T14:43:28Z,reshapify/sendseven-laravel,v0.1.0,Richard Bowen,"Unofficial. SendSeven for Laravel: configured client, verified webhooks as Laravel events, channel onboarding redirects, a shared rate limit and a doctor command."
+2026-10-01T14:56:39Z,digit7s/filament-view-website,1.0.0,Myo Min Oo,A lightweight Filament 5 panel plugin that adds a configurable Visit Website action to the panel topbar.
