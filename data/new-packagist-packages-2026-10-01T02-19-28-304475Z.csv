@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-01T01:22:02Z,chargealong/chargealong,v0.1.0,,"Find EV chargers near a point, plan a road trip through charging stops, and look up how fast electric cars charge. Free and keyless."
+2026-10-01T01:44:07Z,sambitar/arabic-restore,v0.1.0,,Restore scrambled Arabic text with an OpenAI agent.
+2026-10-01T02:00:44Z,omerkoseoglu/devextreme-data,v0.1.0,,"Server-side data processing for DevExtreme widgets in PHP: filtering, sorting, paging, grouping, summaries and select over arrays and SQL (PDO). A PHP port of DevExtreme.AspNet.Data."
+2026-10-01T02:03:55Z,omerkoseoglu/devextreme-data-laravel,v0.1.0,,"Laravel integration for omerkoseoglu/devextreme-data: server-side DevExtreme data processing over Eloquent models, query builders and collections."
+2026-10-01T02:05:39Z,omerkoseoglu/devextreme-data-symfony,v0.1.0,,"Symfony bundle for omerkoseoglu/devextreme-data: server-side DevExtreme data processing over Doctrine DBAL, ORM entities and arrays."

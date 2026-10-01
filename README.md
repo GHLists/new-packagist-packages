@@ -15,15 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 01:20 UTC
+## Latest list — 2026-10-01 02:19 UTC
 
-New packages created between 2026-10-01 00:21 UTC and 2026-10-01 01:20 UTC.
+New packages created between 2026-10-01 01:20 UTC and 2026-10-01 02:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-01T01-20-33-877263Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-01T02-19-28-304475Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-01 00:40:33 | [betocampoy/champs-whatsapp-sdk](https://www.nuget.org/packages/betocampoy%2Fchamps-whatsapp-sdk) | v0.1.0 | Beto Campoy | SDK PHP da Champs para o gateway WhatsApp (champs-whatsapp-gateway): sessões, Q… |
+| 2026-10-01 01:22:02 | [chargealong/chargealong](https://www.nuget.org/packages/chargealong%2Fchargealong) | v0.1.0 |  | Find EV chargers near a point, plan a road trip through charging stops, and loo… |
+| 2026-10-01 01:44:07 | [sambitar/arabic-restore](https://www.nuget.org/packages/sambitar%2Farabic-restore) | v0.1.0 |  | Restore scrambled Arabic text with an OpenAI agent. |
+| 2026-10-01 02:00:44 | [omerkoseoglu/devextreme-data](https://www.nuget.org/packages/omerkoseoglu%2Fdevextreme-data) | v0.1.0 |  | Server-side data processing for DevExtreme widgets in PHP: filtering, sorting,… |
+| 2026-10-01 02:03:55 | [omerkoseoglu/devextreme-data-laravel](https://www.nuget.org/packages/omerkoseoglu%2Fdevextreme-data-laravel) | v0.1.0 |  | Laravel integration for omerkoseoglu/devextreme-data: server-side DevExtreme da… |
+| 2026-10-01 02:05:39 | [omerkoseoglu/devextreme-data-symfony](https://www.nuget.org/packages/omerkoseoglu%2Fdevextreme-data-symfony) | v0.1.0 |  | Symfony bundle for omerkoseoglu/devextreme-data: server-side DevExtreme data pr… |
 
 ## Data source
 
