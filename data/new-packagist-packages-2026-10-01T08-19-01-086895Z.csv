@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-01T07:36:56Z,mage2kishan/module-zipcode-validation,1.1.1,Kishan Savaliya,"Panth ZipcodeValidation — validates ZIP/PIN codes at checkout against configurable country-specific ranges. Ships with pre-loaded ranges for India, US, UK, Canada, Australia, and Europe. Includes an admin grid for managing ranges, JSON import and export, and AJAX validation on the storefront."
+2026-10-01T07:40:06Z,mage2kishan/theme-frontend-panth-infotech,1.0.3,Kishan Savaliya,"Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent theme."
+2026-10-01T07:40:10Z,trismegiste/parsoid-bundle,1.0.0,,
+2026-10-01T07:44:15Z,webware/webware-theme,1.0.0-alpha.1,Joey Smith,Provides theme support via laminas-view to webware applications.
+2026-10-01T07:50:01Z,webware/webware-htmx,1.0.0-alpha.1,Joey Smith,Provides HTMX support via laminas-view to webware applications.

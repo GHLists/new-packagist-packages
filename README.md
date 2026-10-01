@@ -15,24 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 07:21 UTC
+## Latest list — 2026-10-01 08:19 UTC
 
-New packages created between 2026-10-01 06:19 UTC and 2026-10-01 07:21 UTC.
+New packages created between 2026-10-01 07:21 UTC and 2026-10-01 08:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-01T07-21-55-743411Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-01T08-19-01-086895Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-01 06:20:20 | [mage2kishan/module-structured-data](https://www.nuget.org/packages/mage2kishan%2Fmodule-structured-data) | 1.3.1 | Kishan Savaliya | Panth Structured Data — JSON-LD schemas for Magento 2: Product, Breadcrumb, Org… |
-| 2026-10-01 06:26:07 | [mage2kishan/module-testimonials](https://www.nuget.org/packages/mage2kishan%2Fmodule-testimonials) | 1.2.1 |  | Advanced Testimonials module with slider, individual pages, categories, SEO, an… |
-| 2026-10-01 06:30:50 | [mage2kishan/module-whatsapp](https://www.nuget.org/packages/mage2kishan%2Fmodule-whatsapp) | 1.0.11 | Kishan Savaliya | WhatsApp Integration for Magento 2 — floating chat button, product page inquiry… |
-| 2026-10-01 06:36:53 | [mage2kishan/module-xml-sitemap](https://www.nuget.org/packages/mage2kishan%2Fmodule-xml-sitemap) | 1.2.1 | Kishan Savaliya | Panth XML Sitemap — sharded XML sitemap generator for Magento 2: per-store prof… |
-| 2026-10-01 06:37:08 | [cognesy/instructor-retrieval](https://www.nuget.org/packages/cognesy%2Finstructor-retrieval) | v2.12.0 |  | Vector storage, indexing, and retrieval for InstructorPHP |
-| 2026-10-01 06:42:39 | [mage2kishan/module-producttabs](https://www.nuget.org/packages/mage2kishan%2Fmodule-producttabs) | 1.1.1 | Kishan Savaliya | Product detail page tab customization for Magento 2. Supports horizontal/vertic… |
-| 2026-10-01 06:48:11 | [mage2kishan/module-blog](https://www.nuget.org/packages/mage2kishan%2Fmodule-blog) | 1.3.0 | Kishan Savaliya | Panth_Blog - SEO-grade blog module for Magento 2 with first-class AEO/AIO suppo… |
-| 2026-10-01 06:52:01 | [mage2kishan/module-search-autocomplete](https://www.nuget.org/packages/mage2kishan%2Fmodule-search-autocomplete) | 1.1.1 | Kishan Savaliya | Engine-agnostic, bot-hardened, cached search autocomplete for Magento 2 and Hyv… |
-| 2026-10-01 07:14:39 | [synergizeflow/laravel-onboarding](https://www.nuget.org/packages/synergizeflow%2Flaravel-onboarding) | v1.0.0 |  | SynergizeFlow core client and onboarding package for Laravel |
-| 2026-10-01 07:17:03 | [synergizeflow/laravel-onboarding-blog](https://www.nuget.org/packages/synergizeflow%2Flaravel-onboarding-blog) | v1.0.0 |  | Headless blog addon package for SynergizeFlow Laravel integration |
+| 2026-10-01 07:36:56 | [mage2kishan/module-zipcode-validation](https://www.nuget.org/packages/mage2kishan%2Fmodule-zipcode-validation) | 1.1.1 | Kishan Savaliya | Panth ZipcodeValidation — validates ZIP/PIN codes at checkout against configura… |
+| 2026-10-01 07:40:06 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.3 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
+| 2026-10-01 07:40:10 | [trismegiste/parsoid-bundle](https://www.nuget.org/packages/trismegiste%2Fparsoid-bundle) | 1.0.0 |  |  |
+| 2026-10-01 07:44:15 | [webware/webware-theme](https://www.nuget.org/packages/webware%2Fwebware-theme) | 1.0.0-alpha.1 | Joey Smith | Provides theme support via laminas-view to webware applications. |
+| 2026-10-01 07:50:01 | [webware/webware-htmx](https://www.nuget.org/packages/webware%2Fwebware-htmx) | 1.0.0-alpha.1 | Joey Smith | Provides HTMX support via laminas-view to webware applications. |
 
 ## Data source
 
