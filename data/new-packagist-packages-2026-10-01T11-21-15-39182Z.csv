@@ -1,0 +1,20 @@
+created_at,package,version,author,description
+2026-10-01T10:23:37Z,mage2kishan/module-whatsapp,1.0.12,Kishan Savaliya,"WhatsApp Integration for Magento 2 — floating chat button, product page inquiry button, and category page assistance banner. Supports Hyva and Luma themes with CSS variable-based styling."
+2026-10-01T10:27:09Z,mage2kishan/module-hero-slider,1.1.1,Kishan Savaliya,"Hero / homepage carousel for Magento 2 (Hyva + Luma). Center-focused 3-up Splide.js slider with autoplay, per-slide button styling, and responsive desktop/mobile artwork. Ships its own copy of Splide 4.1.4 (MIT license included) - no CDN or theme dependency."
+2026-10-01T10:30:49Z,mage2kishan/module-banner-slider,1.0.14,Kishan Savaliya,Panth Banner Slider Module - Responsive banner slider widget with Luma and Hyva theme support
+2026-10-01T10:34:43Z,webdna/auditor,1.0.0-beta.1,webdna,"An audit log for Craft CMS: who changed what, when, from where and what it said before, plus every sign-in and change of access, in one log."
+2026-10-01T10:35:03Z,mage2kishan/module-smart-badge,1.1.1,,Smart Product Badge & Label System - Automatically displays beautiful badges on products to increase urgency and conversions
+2026-10-01T10:38:40Z,mage2kishan/module-product-slider,1.1.1,,Advanced Product Slider widget with extensive customization options for Magento 2
+2026-10-01T10:42:24Z,mage2kishan/module-producttabs,1.1.2,Kishan Savaliya,"Product detail page tab customization for Magento 2. Supports horizontal/vertical tab styles, fade/slide/none animations, and mobile accordion. Compatible with Hyva and Luma themes."
+2026-10-01T10:45:57Z,mage2kishan/module-footer,1.0.10,Kishan Savaliya,"Panth Footer — configurable footer module for Magento 2 with Hyva and Luma theme support. Features multi-column layout, social media links, newsletter subscription, back-to-top button, and full admin configuration. Part of the Panth Infotech extension suite on the Adobe Commerce Marketplace."
+2026-10-01T10:49:36Z,mage2kishan/module-theme-customizer,1.1.1,,"Hyva Theme Customizer - Backend-driven theme configuration with CSS custom properties, color management, typography, and Tailwind CSS integration."
+2026-10-01T10:53:28Z,mage2kishan/module-quickview,1.0.13,Kishan Savaliya,"Smart Quick View & Compare module for Magento 2 with Hyva theme support. Features: Quick View Modal, Product Comparison, Recently Viewed Products"
+2026-10-01T10:55:18Z,proxy-seller/user-api-php,2.0.0,proxy-seller,"PHP SDK for the Proxy-Seller Client API v2: orders, proxy lists and exports, balance and auto top-up, resident packages, subpackages and lists."
+2026-10-01T10:57:05Z,mage2kishan/module-search-autocomplete,1.1.2,Kishan Savaliya,"Engine-agnostic, bot-hardened, cached search autocomplete for Magento 2 and Hyva. Searches products, categories and CMS pages via the configured Magento search engine (Elasticsearch 7 / 8 / OpenSearch / MySQL fallback). Includes 9 layers of bot protection, dynamic catalog-derived synonym matching,…"
+2026-10-01T10:58:35Z,j4kim/lfta,v1.0.0,,Website for Atelier Honorin
+2026-10-01T11:00:17Z,dazi-web/oxid2fa,v1.0.0,,Two-factor authentication (TOTP) for OXID eShop administrators
+2026-10-01T11:01:05Z,mage2kishan/module-crosslinks,1.1.1,,"Automatic internal crosslinks for Magento 2 (Hyva + Luma). Converts configured keywords in product, category, and CMS content into anchor links to boost internal linking and SEO. Extracted from Panth_AdvancedSEO for independent installation."
+2026-10-01T11:05:15Z,mage2kishan/module-faq,1.3.3,Kishan Savaliya,Advanced FAQ Module with multi-level assignment capabilities
+2026-10-01T11:09:20Z,mage2kishan/module-testimonials,1.2.3,,"Advanced Testimonials module with slider, individual pages, categories, SEO, and frontend submission"
+2026-10-01T11:13:02Z,mage2kishan/module-dynamic-forms,1.2.3,,"Dynamic Forms module for Magento 2 - Create and manage custom forms with drag-and-drop field builder, Hyva and Luma support"
+2026-10-01T11:16:46Z,mage2kishan/module-advanced-contact-us,1.1.3,,"Advanced Contact Us Page - Custom fields, bot protection, submission management, email notifications"
