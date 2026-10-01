@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-01T03:40:52Z,scottchiefbaker/yaml-polyfill,v0.1.0,Scott Baker,"Pure-PHP polyfill for the PECL php-yaml extension: yaml_emit(), yaml_parse(), and friends (PHP 8.2+, zero dependencies)"
+2026-10-01T03:50:29Z,jamescarr/ankusa,v0.3.0,,"Client SDK for Ankusa deployments: the claim-check gateway client, the route-management, operator (admin) and source-management clients, and a webhook-receiving header helper."

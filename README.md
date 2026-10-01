@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 03:20 UTC
+## Latest list — 2026-10-01 04:20 UTC
 
-New packages created between 2026-10-01 02:19 UTC and 2026-10-01 03:20 UTC.
+New packages created between 2026-10-01 03:20 UTC and 2026-10-01 04:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-01T03-20-40-377141Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-01T04-20-15-600276Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-01 02:46:53 | [amtgard/environment-loader](https://www.nuget.org/packages/amtgard%2Fenvironment-loader) | v1.0.0 |  | Environment-agnostic PHP include path selection for composition roots (Registry… |
-| 2026-10-01 02:58:00 | [starfruit/post-bundle](https://www.nuget.org/packages/starfruit%2Fpost-bundle) | 0.0.1 | Nguyen Hoang Anh | Starfruit Post Bundle |
-| 2026-10-01 03:03:19 | [verifaid/verifaid-php](https://www.nuget.org/packages/verifaid%2Fverifaid-php) | v1.0.1 | VerifAID | Official VerifAID PHP SDK for extracting data from Indonesian identity document… |
+| 2026-10-01 03:40:52 | [scottchiefbaker/yaml-polyfill](https://www.nuget.org/packages/scottchiefbaker%2Fyaml-polyfill) | v0.1.0 | Scott Baker | Pure-PHP polyfill for the PECL php-yaml extension: yaml_emit(), yaml_parse(), a… |
+| 2026-10-01 03:50:29 | [jamescarr/ankusa](https://www.nuget.org/packages/jamescarr%2Fankusa) | v0.3.0 |  | Client SDK for Ankusa deployments: the claim-check gateway client, the route-ma… |
 
 ## Data source
 
