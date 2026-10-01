@@ -15,27 +15,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 12:22 UTC
+## Latest list — 2026-10-01 13:20 UTC
 
-New packages created between 2026-10-01 11:21 UTC and 2026-10-01 12:22 UTC.
+New packages created between 2026-10-01 12:22 UTC and 2026-10-01 13:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-01T12-22-00-877289Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-01T13-20-46-105725Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-01 11:21:22 | [mage2kishan/module-not-found-page](https://www.nuget.org/packages/mage2kishan%2Fmodule-not-found-page) | 1.0.13 | Kishan Savaliya | Custom 404 Not Found Page for Magento 2. Replaces the default CMS 404 page with… |
-| 2026-10-01 11:25:13 | [mage2kishan/module-eu-withdrawal](https://www.nuget.org/packages/mage2kishan%2Fmodule-eu-withdrawal) | 1.1.3 | Kishan Savaliya | Panth EU Withdrawal Button - a clear, accessible digital withdrawal (cancellati… |
-| 2026-10-01 11:29:42 | [mage2kishan/module-blog](https://www.nuget.org/packages/mage2kishan%2Fmodule-blog) | 1.3.2 | Kishan Savaliya | Panth_Blog - SEO-grade blog module for Magento 2 with first-class AEO/AIO suppo… |
-| 2026-10-01 11:30:25 | [osumionline/plugin-updater](https://www.nuget.org/packages/osumionline%2Fplugin-updater) | 1.0.1 |  | Osumi Framework Composer plugin to run core migrations after framework updates. |
-| 2026-10-01 11:31:11 | [yatmo/laravel](https://www.nuget.org/packages/yatmo%2Flaravel) | v1.0.0 | Yatmo | Real estate maps, points of interest and neighbourhood data for Laravel: Blade… |
-| 2026-10-01 11:34:08 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.4 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
-| 2026-10-01 11:37:37 | [reza-satya/stylist](https://www.nuget.org/packages/reza-satya%2Fstylist) | 1.2.0 | Reza Satyawijaya | Laravel theming package. Forked for personal use |
-| 2026-10-01 11:46:37 | [marrow/warden](https://www.nuget.org/packages/marrow%2Fwarden) | v1.0.0 | Aure Dulvresse | Account security scaffolding for Marrow — login, registration, password reset,… |
-| 2026-10-01 11:47:52 | [synergizeflow/laravel-onboarding](https://www.nuget.org/packages/synergizeflow%2Flaravel-onboarding) | v1.0.10 |  | SynergizeFlow core client and onboarding package for Laravel |
-| 2026-10-01 12:01:58 | [pollora/meilifacets](https://www.nuget.org/packages/pollora%2Fmeilifacets) | 0.1.0 | AmphiBee; Louis Boulanger | Faceted search, filtering and suggestions powered by Meilisearch for Pollora pr… |
-| 2026-10-01 12:03:19 | [timmit/phpstan-framework-rules](https://www.nuget.org/packages/timmit%2Fphpstan-framework-rules) | 1.0.0 |  | PHPStan rules shared by aItem applications. |
-| 2026-10-01 12:03:24 | [synergitech/laravel-docblocks](https://www.nuget.org/packages/synergitech%2Flaravel-docblocks) | v1.0.0 |  | Automatically generate PHPDoc types for various elements within Laravel project. |
-| 2026-10-01 12:12:10 | [gingerminds/symfony-multisite](https://www.nuget.org/packages/gingerminds%2Fsymfony-multisite) | 0.1.0 | Gingerminds | Multisite and multi-language functionalities for Gingerminds Symfony projects |
+| 2026-10-01 12:24:03 | [veewee/ext-wasm](https://www.nuget.org/packages/veewee%2Fext-wasm) | 0.1.0 | Toon Verwerft | WebAssembly for PHP: compile, instantiate and call wasm modules with an API mod… |
+| 2026-10-01 12:32:05 | [codecorner/laravel-setup-wizard](https://www.nuget.org/packages/codecorner%2Flaravel-setup-wizard) | 1.0.0 |  | Browser setup wizard that starts automatically on `php artisan serve` for a fre… |
+| 2026-10-01 12:44:56 | [plin-code/laravel-platform-authorizer](https://www.nuget.org/packages/plin-code%2Flaravel-platform-authorizer) | v0.1.0 | Daniele Barbaro | Remote authorization for a vendor panel and signed feature flags in self-hosted… |
+| 2026-10-01 12:47:39 | [scalexy/filament-bulk-upload](https://www.nuget.org/packages/scalexy%2Ffilament-bulk-upload) | v0.0.1 |  | Direct S3 bulk upload field for Filament and Spatie Media Library |
+| 2026-10-01 12:52:13 | [mage2kishan/module-product-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-attachments) | 1.1.2 |  | Product Attachments module for Magento 2 - attach files, links, and documents t… |
+| 2026-10-01 12:56:10 | [mage2kishan/module-price-drop-alert](https://www.nuget.org/packages/mage2kishan%2Fmodule-price-drop-alert) | 1.1.2 |  | Price Drop Alert module for Magento 2 - Allows customers to subscribe to price… |
+| 2026-10-01 12:58:37 | [domm98cz/color](https://www.nuget.org/packages/domm98cz%2Fcolor) | 0.1.0 | Dominik Procházka | Small PHP library for colors: create from hex, rgb, hsl or CSS, convert, tint a… |
+| 2026-10-01 12:59:51 | [mage2kishan/module-low-stock-notification](https://www.nuget.org/packages/mage2kishan%2Fmodule-low-stock-notification) | 1.1.2 |  | Magento 2 Low Stock Notification module - allows customers to subscribe for bac… |
+| 2026-10-01 13:03:29 | [mage2kishan/module-order-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-order-attachments) | 1.1.2 |  | Allows customers to attach files to order items |
+| 2026-10-01 13:07:49 | [mage2kishan/module-advancedcart](https://www.nuget.org/packages/mage2kishan%2Fmodule-advancedcart) | 1.0.12 |  | Advanced Cart Page Enhancements - Free shipping bar, qty buttons, trust badges,… |
+| 2026-10-01 13:13:44 | [mage2kishan/module-custom-options](https://www.nuget.org/packages/mage2kishan%2Fmodule-custom-options) | 1.0.9 | Kishan Savaliya | Panth Custom Options — beautifully styled product custom options for Hyva-based… |
+| 2026-10-01 13:18:18 | [mage2kishan/module-checkout-extended](https://www.nuget.org/packages/mage2kishan%2Fmodule-checkout-extended) | 1.1.6 | Kishan Savaliya | Enhanced one-page checkout for Magento 2 with configurable multi-column layouts… |
 
 ## Data source
 

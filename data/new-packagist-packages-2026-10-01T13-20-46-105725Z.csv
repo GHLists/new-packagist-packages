@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-10-01T12:24:03Z,veewee/ext-wasm,0.1.0,Toon Verwerft,"WebAssembly for PHP: compile, instantiate and call wasm modules with an API modelled on the JavaScript WebAssembly API."
+2026-10-01T12:32:05Z,codecorner/laravel-setup-wizard,1.0.0,,Browser setup wizard that starts automatically on `php artisan serve` for a fresh Laravel project.
+2026-10-01T12:44:56Z,plin-code/laravel-platform-authorizer,v0.1.0,Daniele Barbaro,Remote authorization for a vendor panel and signed feature flags in self-hosted Laravel installations
+2026-10-01T12:47:39Z,scalexy/filament-bulk-upload,v0.0.1,,Direct S3 bulk upload field for Filament and Spatie Media Library
+2026-10-01T12:52:13Z,mage2kishan/module-product-attachments,1.1.2,,"Product Attachments module for Magento 2 - attach files, links, and documents to products, categories, and CMS pages with Luma and Hyva theme support."
+2026-10-01T12:56:10Z,mage2kishan/module-price-drop-alert,1.1.2,,Price Drop Alert module for Magento 2 - Allows customers to subscribe to price drop notifications on products.
+2026-10-01T12:58:37Z,domm98cz/color,0.1.0,Dominik Procházka,"Small PHP library for colors: create from hex, rgb, hsl or CSS, convert, tint and shade, harmonies, contrast, CSS output."
+2026-10-01T12:59:51Z,mage2kishan/module-low-stock-notification,1.1.2,,Magento 2 Low Stock Notification module - allows customers to subscribe for back-in-stock email alerts on out-of-stock products. Compatible with Luma and Hyva themes.
+2026-10-01T13:03:29Z,mage2kishan/module-order-attachments,1.1.2,,Allows customers to attach files to order items
+2026-10-01T13:07:49Z,mage2kishan/module-advancedcart,1.0.12,,"Advanced Cart Page Enhancements - Free shipping bar, qty buttons, trust badges, order notes, savings display, estimated delivery"
+2026-10-01T13:13:44Z,mage2kishan/module-custom-options,1.0.9,Kishan Savaliya,"Panth Custom Options — beautifully styled product custom options for Hyva-based Magento 2 storefronts. Replaces the default custom options rendering with a modern, accessible UI featuring styled text inputs, textareas, file upload zones, select/radio/checkbox controls, and HTML5 date pickers, all g…"
+2026-10-01T13:18:18Z,mage2kishan/module-checkout-extended,1.1.6,Kishan Savaliya,"Enhanced one-page checkout for Magento 2 with configurable multi-column layouts (1/2/3 columns), sticky sidebar, newsletter subscription at checkout, quantity increment controls, coupon code in sidebar, sidebar place-order button, custom CSS/JS injection, and modern card-style UI options. Fully adm…"
