@@ -15,32 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 06:19 UTC
+## Latest list — 2026-10-01 07:21 UTC
 
-New packages created between 2026-10-01 05:19 UTC and 2026-10-01 06:19 UTC.
+New packages created between 2026-10-01 06:19 UTC and 2026-10-01 07:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-01T06-19-38-381789Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-01T07-21-55-743411Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-01 05:22:21 | [trassd/contao-reprise-bundle](https://www.nuget.org/packages/trassd%2Fcontao-reprise-bundle) | 1.0.0 |  | Integrates symfony/reprise (Vite/Rsbuild) into Contao: select entrypoints per p… |
-| 2026-10-01 05:22:38 | [mage2kishan/module-filter-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-filter-seo) | 1.1.3 | Kishan Savaliya | Panth Filter SEO — clean path-based URLs for layered navigation filters + dynam… |
-| 2026-10-01 05:25:53 | [mage2kishan/module-hreflang](https://www.nuget.org/packages/mage2kishan%2Fmodule-hreflang) | 1.0.21 | Kishan Savaliya | Panth Hreflang — multi-language/multi-region hreflang link tags for Magento 2 w… |
-| 2026-10-01 05:26:44 | [netresearch/nr-bug-reporter](https://www.nuget.org/packages/netresearch%2Fnr-bug-reporter) | v0.1.0 |  | TYPO3 backend bug reporter: attribute an error to its originating Composer pack… |
-| 2026-10-01 05:28:58 | [mage2kishan/module-index-now](https://www.nuget.org/packages/mage2kishan%2Fmodule-index-now) | 1.1.1 | Kishan Savaliya | Panth IndexNow — instantly notify Bing, Yandex and other search engines when co… |
-| 2026-10-01 05:32:12 | [mage2kishan/module-low-stock-notification](https://www.nuget.org/packages/mage2kishan%2Fmodule-low-stock-notification) | 1.1.1 |  | Magento 2 Low Stock Notification module - allows customers to subscribe for bac… |
-| 2026-10-01 05:35:52 | [mage2kishan/module-mage-pos](https://www.nuget.org/packages/mage2kishan%2Fmodule-mage-pos) | 1.0.6 | Kishan Savaliya | Panth MagePos - a full point of sale (POS) for Magento 2. Standalone touch-frie… |
-| 2026-10-01 05:39:09 | [mage2kishan/module-malware-scanner](https://www.nuget.org/packages/mage2kishan%2Fmodule-malware-scanner) | 1.3.1 | Kishan Savaliya | Active malware prevention + on-disk scanner for Magento 2. Three real-time guar… |
-| 2026-10-01 05:42:43 | [mage2kishan/module-mega-menu](https://www.nuget.org/packages/mage2kishan%2Fmodule-mega-menu) | 1.0.12 | Kishan Savaliya | Advanced mega menu for Magento 2 — works on Hyva and Luma. Drag-and-drop tree b… |
-| 2026-10-01 05:45:56 | [mage2kishan/module-not-found-page](https://www.nuget.org/packages/mage2kishan%2Fmodule-not-found-page) | 1.0.11 | Kishan Savaliya | Custom 404 Not Found Page for Magento 2. Replaces the default CMS 404 page with… |
-| 2026-10-01 05:49:08 | [mage2kishan/module-order-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-order-attachments) | 1.1.1 |  | Allows customers to attach files to order items |
-| 2026-10-01 05:52:24 | [mage2kishan/module-order-cleanup](https://www.nuget.org/packages/mage2kishan%2Fmodule-order-cleanup) | 1.0.10 | Kishan Savaliya | Panth Order Cleanup — safely delete test orders, invoices, shipments, and credi… |
-| 2026-10-01 05:55:50 | [mage2kishan/module-pagebuilder-ai](https://www.nuget.org/packages/mage2kishan%2Fmodule-pagebuilder-ai) | 1.2.22 | Kishan Savaliya | Adds an AI Content button to the Magento PageBuilder toolbar and inline AI butt… |
-| 2026-10-01 05:59:04 | [mage2kishan/module-price-drop-alert](https://www.nuget.org/packages/mage2kishan%2Fmodule-price-drop-alert) | 1.1.1 |  | Price Drop Alert module for Magento 2 - Allows customers to subscribe to price… |
-| 2026-10-01 06:02:40 | [mage2kishan/module-product-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-attachments) | 1.1.1 |  | Product Attachments module for Magento 2 - attach files, links, and documents t… |
-| 2026-10-01 06:06:36 | [mage2kishan/module-redirects](https://www.nuget.org/packages/mage2kishan%2Fmodule-redirects) | 1.2.1 |  | Redirects and 404 management for Magento 2 (Hyva + Luma). Manual + auto redirec… |
-| 2026-10-01 06:09:58 | [mage2kishan/module-robots-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-robots-seo) | 1.3.1 | Kishan Savaliya | Panth Robots SEO — dedicated robots.txt, X-Robots-Tag, and LLM-bot (GPTBot, Cla… |
-| 2026-10-01 06:14:32 | [mage2kishan/module-sale-filter](https://www.nuget.org/packages/mage2kishan%2Fmodule-sale-filter) | 1.1.1 | Kishan Savaliya | Panth Sale Filter — "On Sale" layered navigation filter for Magento 2, backed b… |
+| 2026-10-01 06:20:20 | [mage2kishan/module-structured-data](https://www.nuget.org/packages/mage2kishan%2Fmodule-structured-data) | 1.3.1 | Kishan Savaliya | Panth Structured Data — JSON-LD schemas for Magento 2: Product, Breadcrumb, Org… |
+| 2026-10-01 06:26:07 | [mage2kishan/module-testimonials](https://www.nuget.org/packages/mage2kishan%2Fmodule-testimonials) | 1.2.1 |  | Advanced Testimonials module with slider, individual pages, categories, SEO, an… |
+| 2026-10-01 06:30:50 | [mage2kishan/module-whatsapp](https://www.nuget.org/packages/mage2kishan%2Fmodule-whatsapp) | 1.0.11 | Kishan Savaliya | WhatsApp Integration for Magento 2 — floating chat button, product page inquiry… |
+| 2026-10-01 06:36:53 | [mage2kishan/module-xml-sitemap](https://www.nuget.org/packages/mage2kishan%2Fmodule-xml-sitemap) | 1.2.1 | Kishan Savaliya | Panth XML Sitemap — sharded XML sitemap generator for Magento 2: per-store prof… |
+| 2026-10-01 06:37:08 | [cognesy/instructor-retrieval](https://www.nuget.org/packages/cognesy%2Finstructor-retrieval) | v2.12.0 |  | Vector storage, indexing, and retrieval for InstructorPHP |
+| 2026-10-01 06:42:39 | [mage2kishan/module-producttabs](https://www.nuget.org/packages/mage2kishan%2Fmodule-producttabs) | 1.1.1 | Kishan Savaliya | Product detail page tab customization for Magento 2. Supports horizontal/vertic… |
+| 2026-10-01 06:48:11 | [mage2kishan/module-blog](https://www.nuget.org/packages/mage2kishan%2Fmodule-blog) | 1.3.0 | Kishan Savaliya | Panth_Blog - SEO-grade blog module for Magento 2 with first-class AEO/AIO suppo… |
+| 2026-10-01 06:52:01 | [mage2kishan/module-search-autocomplete](https://www.nuget.org/packages/mage2kishan%2Fmodule-search-autocomplete) | 1.1.1 | Kishan Savaliya | Engine-agnostic, bot-hardened, cached search autocomplete for Magento 2 and Hyv… |
+| 2026-10-01 07:14:39 | [synergizeflow/laravel-onboarding](https://www.nuget.org/packages/synergizeflow%2Flaravel-onboarding) | v1.0.0 |  | SynergizeFlow core client and onboarding package for Laravel |
+| 2026-10-01 07:17:03 | [synergizeflow/laravel-onboarding-blog](https://www.nuget.org/packages/synergizeflow%2Flaravel-onboarding-blog) | v1.0.0 |  | Headless blog addon package for SynergizeFlow Laravel integration |
 
 ## Data source
 
