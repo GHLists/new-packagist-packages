@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-01T19:31:54Z,balazstanka/laravel-telegram-alerts,v1.0.0,Balazs Tanka,Send alerts to Telegram from your Laravel app.
