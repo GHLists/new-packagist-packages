@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-01T20:20:47Z,maukirim/sdk,v1.0.0,,"Official PHP SDK for MauKirim - managed WhatsApp gateway for OTP, templated notifications, rented numbers and webhooks."
+2026-10-01T20:29:12Z,trail/trail,0.2.0,Alex Brindley,A base skeleton project for the trail framework
+2026-10-01T20:35:45Z,slpxxv/ksef-php-client,v0.1.0,,A typed PHP client for KSeF API 2.0.
+2026-10-01T21:15:20Z,ctterrlt/easy-tools,v1.0.0,Tursi Christian,A variety of tools that make any developer's life much easier

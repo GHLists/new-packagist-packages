@@ -15,15 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 20:20 UTC
+## Latest list — 2026-10-01 21:19 UTC
 
-New packages created between 2026-10-01 19:20 UTC and 2026-10-01 20:20 UTC.
+New packages created between 2026-10-01 20:20 UTC and 2026-10-01 21:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-01T20-20-43-563444Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-01T21-19-00-279557Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-01 19:31:54 | [balazstanka/laravel-telegram-alerts](https://www.nuget.org/packages/balazstanka%2Flaravel-telegram-alerts) | v1.0.0 | Balazs Tanka | Send alerts to Telegram from your Laravel app. |
+| 2026-10-01 20:20:47 | [maukirim/sdk](https://www.nuget.org/packages/maukirim%2Fsdk) | v1.0.0 |  | Official PHP SDK for MauKirim - managed WhatsApp gateway for OTP, templated not… |
+| 2026-10-01 20:29:12 | [trail/trail](https://www.nuget.org/packages/trail%2Ftrail) | 0.2.0 | Alex Brindley | A base skeleton project for the trail framework |
+| 2026-10-01 20:35:45 | [slpxxv/ksef-php-client](https://www.nuget.org/packages/slpxxv%2Fksef-php-client) | v0.1.0 |  | A typed PHP client for KSeF API 2.0. |
+| 2026-10-01 21:15:20 | [ctterrlt/easy-tools](https://www.nuget.org/packages/ctterrlt%2Feasy-tools) | v1.0.0 | Tursi Christian | A variety of tools that make any developer's life much easier |
 
 ## Data source
 
