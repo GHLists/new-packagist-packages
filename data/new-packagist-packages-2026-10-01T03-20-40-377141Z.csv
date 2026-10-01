@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-01T02:46:53Z,amtgard/environment-loader,v1.0.0,,Environment-agnostic PHP include path selection for composition roots (Registry + Strategy).
+2026-10-01T02:58:00Z,starfruit/post-bundle,0.0.1,Nguyen Hoang Anh,Starfruit Post Bundle
+2026-10-01T03:03:19Z,verifaid/verifaid-php,v1.0.1,VerifAID,"Official VerifAID PHP SDK for extracting data from Indonesian identity documents: e-KTP, SIM, NPWP, BPJS, and Kartu Keluarga."
