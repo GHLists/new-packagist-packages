@@ -15,15 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 23:19 UTC
+## Latest list — 2026-10-01 00:21 UTC
 
-New packages created between 2026-09-30 22:21 UTC and 2026-09-30 23:19 UTC.
+New packages created between 2026-09-30 23:19 UTC and 2026-10-01 00:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-09-30T23-19-24-646119Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-01T00-21-48-571487Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-09-30 22:57:54 | [novaris-dev/novaris](https://www.nuget.org/packages/novaris-dev%2Fnovaris) | 0.0.1 | Benjamin Lu | A starter project for building websites with the Novaris Content Management Sys… |
+| 2026-09-30 23:44:11 | [novaris-dev/framework](https://www.nuget.org/packages/novaris-dev%2Fframework) | v1.0.0 | Benjamin Lu | Novaris Framework: The core foundation of the Novaris Content Management System… |
+| 2026-09-30 23:54:19 | [madbuilder/framework](https://www.nuget.org/packages/madbuilder%2Fframework) | v5.107.0 | Matheus Agnes Dias | Mad Framework: the open-source Laravel runtime behind MadBuilder apps. Server-d… |
+| 2026-10-01 00:03:50 | [christianjbrown/user-friendly-exception](https://www.nuget.org/packages/christianjbrown%2Fuser-friendly-exception) | v1.0.0 | Christian Brown | A tiny PHP library providing a UserFriendlyException whose message is safe to d… |
+| 2026-10-01 00:10:09 | [christianjbrown/cloud-run-function-lib](https://www.nuget.org/packages/christianjbrown%2Fcloud-run-function-lib) | v1.0.0 | Christian Brown | A strongly-typed PHP 8.5+ framework for building Google Cloud Run functions HTT… |
 
 ## Data source
 

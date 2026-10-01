@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-09-30T23:44:11Z,novaris-dev/framework,v1.0.0,Benjamin Lu,"Novaris Framework: The core foundation of the Novaris Content Management System (CMS), providing a robust and flexible architecture designed to power dynamic content-driven websites"
+2026-09-30T23:54:19Z,madbuilder/framework,v5.107.0,Matheus Agnes Dias,"Mad Framework: the open-source Laravel runtime behind MadBuilder apps. Server-driven <mad-*> Blade components, reactive UI without a build step, IAM, i18n, PDF, MCP server and AI copilot."
+2026-10-01T00:03:50Z,christianjbrown/user-friendly-exception,v1.0.0,Christian Brown,A tiny PHP library providing a UserFriendlyException whose message is safe to display directly to end users.
+2026-10-01T00:10:09Z,christianjbrown/cloud-run-function-lib,v1.0.0,Christian Brown,"A strongly-typed PHP 8.5+ framework for building Google Cloud Run functions HTTP endpoints that return a consistent JSON envelope with built-in header auth, CORS, and CDN cache-control headers."
