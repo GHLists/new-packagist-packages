@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-01T22:23:58Z,hipsterjazzbo/php-style,0.1.0,,Shared PHP-CS-Fixer configuration for HipsterJazzbo projects.
+2026-10-01T22:24:23Z,mage2kishan/module-product-slider,1.1.2,,Advanced Product Slider widget with extensive customization options for Magento 2
+2026-10-01T22:30:33Z,fundrik/coding-standard,v0.9.0,Denis Yanchevskiy,Custom PHP_CodeSniffer rules for Fundrik
+2026-10-01T22:34:51Z,mage2kishan/module-dynamic-forms,1.2.6,,"Dynamic Forms module for Magento 2 - Create and manage custom forms with drag-and-drop field builder, Hyva and Luma support"
+2026-10-01T22:38:18Z,mage2kishan/module-admin-menu-manager,1.0.15,Kishan Savaliya,"Customises the Magento 2 backend menu — hide, rename, re-icon, recolor, reorder and reparent any item, grouped into named 'views' you can flip between with one click. Includes an optional drilldown rendering style that adds a back button + search box to crowded L0 panels. Admin-only, no storefront…"
+2026-10-01T22:52:24Z,1994/ghostwriter-core,v0.1.0,1994,"The framework-free core shared by the Ghostwriter addons for Statamic, Filament and Craft: draft text handling, prompts and the AI provider layer."
+2026-10-01T23:14:46Z,mage2kishan/module-theme-customizer,1.1.4,,"Hyva Theme Customizer - Backend-driven theme configuration with CSS custom properties, color management, typography, and Tailwind CSS integration."
+2026-10-01T23:18:06Z,mage2kishan/module-eu-withdrawal,1.1.6,Kishan Savaliya,"Panth EU Withdrawal Button - a clear, accessible digital withdrawal (cancellation) function for Magento 2 and Adobe Commerce that complies with Directive (EU) 2023/2673 (effective 19 June 2026). Guest-capable two-step withdrawal flow, durable-medium email proof, withdrawal link in order emails, con…"

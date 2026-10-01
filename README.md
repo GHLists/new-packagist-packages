@@ -15,28 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 22:22 UTC
+## Latest list — 2026-10-01 23:20 UTC
 
-New packages created between 2026-10-01 21:19 UTC and 2026-10-01 22:22 UTC.
+New packages created between 2026-10-01 22:22 UTC and 2026-10-01 23:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-01T22-22-40-538989Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-01T23-20-17-598612Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-01 21:52:06 | [kevinpirnie/kpt-cache](https://www.nuget.org/packages/kevinpirnie%2Fkpt-cache) | v1.1.32 | Kevin Pirnie | Modern Multi-Tier PHP Caching System with automatic tier discovery, connection… |
-| 2026-10-01 21:58:06 | [mage2kishan/module-pagebuilder-ai](https://www.nuget.org/packages/mage2kishan%2Fmodule-pagebuilder-ai) | 1.2.24 | Kishan Savaliya | Adds an AI Content button to the Magento PageBuilder toolbar and inline AI butt… |
-| 2026-10-01 22:01:25 | [mage2kishan/module-sale-filter](https://www.nuget.org/packages/mage2kishan%2Fmodule-sale-filter) | 1.1.3 | Kishan Savaliya | Panth Sale Filter — "On Sale" layered navigation filter for Magento 2, backed b… |
-| 2026-10-01 22:04:25 | [mage2kishan/module-extra-fee](https://www.nuget.org/packages/mage2kishan%2Fmodule-extra-fee) | 1.1.4 | Kishan Savaliya | Panth Extra Fee — add configurable extra fees and surcharges to Magento 2 check… |
-| 2026-10-01 22:07:17 | [mage2kishan/module-advanced-contact-us](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-contact-us) | 1.1.5 |  | Advanced Contact Us Page - Custom fields, bot protection, submission management… |
-| 2026-10-01 22:09:07 | [focalcrm/core](https://www.nuget.org/packages/focalcrm%2Fcore) | v0.1.0 | CaskStack, LLC | Headless CRM Core Engine for Focal (Contacts, Companies, Custom Properties, Ass… |
-| 2026-10-01 22:09:07 | [focalcrm/filament](https://www.nuget.org/packages/focalcrm%2Ffilament) | v0.1.0 | CaskStack, LLC | Unified Filament CRM Panel & UI Plugin for Focal |
-| 2026-10-01 22:09:07 | [focalcrm/marketing](https://www.nuget.org/packages/focalcrm%2Fmarketing) | v0.1.0 | CaskStack, LLC | Email Marketing, Lead Capture Forms, Drip Campaigns, and Analytics for Focal CRM |
-| 2026-10-01 22:09:07 | [focalcrm/sales](https://www.nuget.org/packages/focalcrm%2Fsales) | v0.1.0 | CaskStack, LLC | Sales, Deals, and Pipeline Management for Focal CRM |
-| 2026-10-01 22:09:07 | [focalcrm/service](https://www.nuget.org/packages/focalcrm%2Fservice) | v0.1.0 | CaskStack, LLC | Customer Service, Help Desk, Tickets, SLAs, and Knowledge Base for Focal CRM |
-| 2026-10-01 22:10:11 | [mage2kishan/module-malware-scanner](https://www.nuget.org/packages/mage2kishan%2Fmodule-malware-scanner) | 1.3.3 | Kishan Savaliya | Active malware prevention + on-disk scanner for Magento 2. Three real-time guar… |
-| 2026-10-01 22:13:33 | [mage2kishan/module-mage-pos](https://www.nuget.org/packages/mage2kishan%2Fmodule-mage-pos) | 1.0.9 | Kishan Savaliya | Panth MagePos - a full point of sale (POS) for Magento 2. Standalone touch-frie… |
-| 2026-10-01 22:18:23 | [mage2kishan/module-advanced-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-seo) | 1.8.5 | Kishan Savaliya | Panth Advanced SEO — enterprise-grade SEO suite for Magento 2: SEO dashboard, m… |
-| 2026-10-01 22:21:27 | [mage2kishan/module-xml-sitemap](https://www.nuget.org/packages/mage2kishan%2Fmodule-xml-sitemap) | 1.2.3 | Kishan Savaliya | Panth XML Sitemap — sharded XML sitemap generator for Magento 2: per-store prof… |
+| 2026-10-01 22:23:58 | [hipsterjazzbo/php-style](https://www.nuget.org/packages/hipsterjazzbo%2Fphp-style) | 0.1.0 |  | Shared PHP-CS-Fixer configuration for HipsterJazzbo projects. |
+| 2026-10-01 22:24:23 | [mage2kishan/module-product-slider](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-slider) | 1.1.2 |  | Advanced Product Slider widget with extensive customization options for Magento… |
+| 2026-10-01 22:30:33 | [fundrik/coding-standard](https://www.nuget.org/packages/fundrik%2Fcoding-standard) | v0.9.0 | Denis Yanchevskiy | Custom PHP_CodeSniffer rules for Fundrik |
+| 2026-10-01 22:34:51 | [mage2kishan/module-dynamic-forms](https://www.nuget.org/packages/mage2kishan%2Fmodule-dynamic-forms) | 1.2.6 |  | Dynamic Forms module for Magento 2 - Create and manage custom forms with drag-a… |
+| 2026-10-01 22:38:18 | [mage2kishan/module-admin-menu-manager](https://www.nuget.org/packages/mage2kishan%2Fmodule-admin-menu-manager) | 1.0.15 | Kishan Savaliya | Customises the Magento 2 backend menu — hide, rename, re-icon, recolor, reorder… |
+| 2026-10-01 22:52:24 | [1994/ghostwriter-core](https://www.nuget.org/packages/1994%2Fghostwriter-core) | v0.1.0 | 1994 | The framework-free core shared by the Ghostwriter addons for Statamic, Filament… |
+| 2026-10-01 23:14:46 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.4 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
+| 2026-10-01 23:18:06 | [mage2kishan/module-eu-withdrawal](https://www.nuget.org/packages/mage2kishan%2Fmodule-eu-withdrawal) | 1.1.6 | Kishan Savaliya | Panth EU Withdrawal Button - a clear, accessible digital withdrawal (cancellati… |
 
 ## Data source
 
