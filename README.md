@@ -15,19 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 08:19 UTC
+## Latest list — 2026-10-01 09:22 UTC
 
-New packages created between 2026-10-01 07:21 UTC and 2026-10-01 08:19 UTC.
+New packages created between 2026-10-01 08:19 UTC and 2026-10-01 09:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-01T08-19-01-086895Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-01T09-22-56-922305Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-01 07:36:56 | [mage2kishan/module-zipcode-validation](https://www.nuget.org/packages/mage2kishan%2Fmodule-zipcode-validation) | 1.1.1 | Kishan Savaliya | Panth ZipcodeValidation — validates ZIP/PIN codes at checkout against configura… |
-| 2026-10-01 07:40:06 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.3 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
-| 2026-10-01 07:40:10 | [trismegiste/parsoid-bundle](https://www.nuget.org/packages/trismegiste%2Fparsoid-bundle) | 1.0.0 |  |  |
-| 2026-10-01 07:44:15 | [webware/webware-theme](https://www.nuget.org/packages/webware%2Fwebware-theme) | 1.0.0-alpha.1 | Joey Smith | Provides theme support via laminas-view to webware applications. |
-| 2026-10-01 07:50:01 | [webware/webware-htmx](https://www.nuget.org/packages/webware%2Fwebware-htmx) | 1.0.0-alpha.1 | Joey Smith | Provides HTMX support via laminas-view to webware applications. |
+| 2026-10-01 08:32:01 | [crsl-admin/laravel-nuxt-ui-starter-kit](https://www.nuget.org/packages/crsl-admin%2Flaravel-nuxt-ui-starter-kit) | 0.0.1 |  | The NuxtUI application starter kit for CRSL team. |
+| 2026-10-01 09:01:03 | [mage2kishan/module-eu-withdrawal](https://www.nuget.org/packages/mage2kishan%2Fmodule-eu-withdrawal) | 1.1.2 | Kishan Savaliya | Panth EU Withdrawal Button - a clear, accessible digital withdrawal (cancellati… |
+| 2026-10-01 09:04:20 | [mage2kishan/module-faq](https://www.nuget.org/packages/mage2kishan%2Fmodule-faq) | 1.3.2 | Kishan Savaliya | Advanced FAQ Module with multi-level assignment capabilities |
+| 2026-10-01 09:07:24 | [mage2kishan/module-testimonials](https://www.nuget.org/packages/mage2kishan%2Fmodule-testimonials) | 1.2.2 |  | Advanced Testimonials module with slider, individual pages, categories, SEO, an… |
+| 2026-10-01 09:11:29 | [mage2kishan/module-blog](https://www.nuget.org/packages/mage2kishan%2Fmodule-blog) | 1.3.1 | Kishan Savaliya | Panth_Blog - SEO-grade blog module for Magento 2 with first-class AEO/AIO suppo… |
+| 2026-10-01 09:17:05 | [mage2kishan/module-html-sitemap](https://www.nuget.org/packages/mage2kishan%2Fmodule-html-sitemap) | 1.0.15 |  | Theme-agnostic HTML sitemap page for Magento 2 (Hyva + Luma). Renders categorie… |
+| 2026-10-01 09:21:08 | [mage2kishan/module-not-found-page](https://www.nuget.org/packages/mage2kishan%2Fmodule-not-found-page) | 1.0.12 | Kishan Savaliya | Custom 404 Not Found Page for Magento 2. Replaces the default CMS 404 page with… |
 
 ## Data source
 
