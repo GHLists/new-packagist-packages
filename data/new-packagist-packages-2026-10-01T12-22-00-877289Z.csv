@@ -1,0 +1,14 @@
+created_at,package,version,author,description
+2026-10-01T11:21:22Z,mage2kishan/module-not-found-page,1.0.13,Kishan Savaliya,"Custom 404 Not Found Page for Magento 2. Replaces the default CMS 404 page with a modern, fully configurable design featuring dynamic category links, integrated search bar, and admin-controlled content. Configurable heading, subheading, search toggle, popular-links toggle, and contact information —…"
+2026-10-01T11:25:13Z,mage2kishan/module-eu-withdrawal,1.1.3,Kishan Savaliya,"Panth EU Withdrawal Button - a clear, accessible digital withdrawal (cancellation) function for Magento 2 and Adobe Commerce that complies with Directive (EU) 2023/2673 (effective 19 June 2026). Guest-capable two-step withdrawal flow, durable-medium email proof, withdrawal link in order emails, con…"
+2026-10-01T11:29:42Z,mage2kishan/module-blog,1.3.2,Kishan Savaliya,"Panth_Blog - SEO-grade blog module for Magento 2 with first-class AEO/AIO support: JSON-LD, llms.txt, IndexNow, hreflang, markdown export, RSS/Atom feeds, and Hyva-first templates. Built to plug into the Panth_* ecosystem."
+2026-10-01T11:30:25Z,osumionline/plugin-updater,1.0.1,,Osumi Framework Composer plugin to run core migrations after framework updates.
+2026-10-01T11:31:11Z,yatmo/laravel,v1.0.0,Yatmo,"Real estate maps, points of interest and neighbourhood data for Laravel: Blade components for the property map, the nearest schools, shops and public transport with travel times, and a cached, server-rendered neighbourhood text for SEO. Laravel 10 to 13. Powered by Yatmo."
+2026-10-01T11:34:08Z,mage2kishan/theme-frontend-panth-infotech,1.0.4,Kishan Savaliya,"Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent theme."
+2026-10-01T11:37:37Z,reza-satya/stylist,1.2.0,Reza Satyawijaya,Laravel theming package. Forked for personal use
+2026-10-01T11:46:37Z,marrow/warden,v1.0.0,Aure Dulvresse,"Account security scaffolding for Marrow — login, registration, password reset, email verification, remember-me, and a 2FA login challenge. Publishes editable controllers/views into your app (Breeze-style) on top of a small, versioned runtime (token brokers, mailables) built entirely on the framewor…"
+2026-10-01T11:47:52Z,synergizeflow/laravel-onboarding,v1.0.10,,SynergizeFlow core client and onboarding package for Laravel
+2026-10-01T12:01:58Z,pollora/meilifacets,0.1.0,AmphiBee; Louis Boulanger,"Faceted search, filtering and suggestions powered by Meilisearch for Pollora projects."
+2026-10-01T12:03:19Z,timmit/phpstan-framework-rules,1.0.0,,PHPStan rules shared by aItem applications.
+2026-10-01T12:03:24Z,synergitech/laravel-docblocks,v1.0.0,,Automatically generate PHPDoc types for various elements within Laravel project.
+2026-10-01T12:12:10Z,gingerminds/symfony-multisite,0.1.0,Gingerminds,Multisite and multi-language functionalities for Gingerminds Symfony projects
