@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 13:20 UTC
+## Latest list — 2026-10-02 14:19 UTC
 
-New packages created between 2026-10-02 12:20 UTC and 2026-10-02 13:20 UTC.
+New packages created between 2026-10-02 13:20 UTC and 2026-10-02 14:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-02T13-20-28-552938Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-02T14-19-17-842649Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-02 12:48:52 | [lekoala/kaly](https://www.nuget.org/packages/lekoala%2Fkaly) | 0.1.0 | Thomas | A small modular PSR HTTP framework with convention-based routing and first-clas… |
-| 2026-10-02 12:53:53 | [yesjoar/t3monitoring-client-extended](https://www.nuget.org/packages/yesjoar%2Ft3monitoring-client-extended) | 0.1.0 | Kai Seliger | Monitoring: scheduler and log insights - Adds scheduler, system log and log fil… |
-| 2026-10-02 13:00:56 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.7 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
-| 2026-10-02 13:03:57 | [ismailnakkar/laravel-listing](https://www.nuget.org/packages/ismailnakkar%2Flaravel-listing) | v0.1.0 | Ismail Nakkar | Easy, typed querying and filtering for Blade list pages: declare filters and so… |
+| 2026-10-02 13:30:45 | [adeshsuryan/next-cache-doctor](https://www.nuget.org/packages/adeshsuryan%2Fnext-cache-doctor) | v0.2.1 |  | Read a Next.js project and report cache layers that can stay stale after invali… |
+| 2026-10-02 13:32:32 | [tommica/mailpox](https://www.nuget.org/packages/tommica%2Fmailpox) | v1.0.0 | Tom Mica | A local development mailbox for Laravel applications. |
+| 2026-10-02 13:43:36 | [deepphp/laravel-slugify](https://www.nuget.org/packages/deepphp%2Flaravel-slugify) | v1.0.0 |  | Slug generation and uniqueness helpers for Laravel. |
+| 2026-10-02 14:03:41 | [mage2kishan/magento2-claude-ai](https://www.nuget.org/packages/mage2kishan%2Fmagento2-claude-ai) | 1.9.1 | Kishan Savaliya | Magento 2 Automation with Claude AI - natural-language store management. Update… |
+| 2026-10-02 14:13:59 | [amphp/uv](https://www.nuget.org/packages/amphp%2Fuv) | v0.3.1 | Bob Weinand; Aaron Piotrowski | PHP extension providing access to libuv functions |
 
 ## Data source
 

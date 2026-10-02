@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-02T13:30:45Z,adeshsuryan/next-cache-doctor,v0.2.1,,Read a Next.js project and report cache layers that can stay stale after invalidation.
+2026-10-02T13:32:32Z,tommica/mailpox,v1.0.0,Tom Mica,A local development mailbox for Laravel applications.
+2026-10-02T13:43:36Z,deepphp/laravel-slugify,v1.0.0,,Slug generation and uniqueness helpers for Laravel.
+2026-10-02T14:03:41Z,mage2kishan/magento2-claude-ai,1.9.1,Kishan Savaliya,"Magento 2 Automation with Claude AI - natural-language store management. Update prices, query catalog, surface insights, all by asking in plain English. Powered by Anthropic's Claude API with tool use."
+2026-10-02T14:13:59Z,amphp/uv,v0.3.1,Bob Weinand; Aaron Piotrowski,PHP extension providing access to libuv functions
