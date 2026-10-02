@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-02T16:45:22Z,rahatsagor/laravel-runtime-system,v1.0.0,Rahat Sagor,Runtime core installer and application validation layer for RS Application products.
+2026-10-02T16:47:10Z,mattstein/usesend-laravel,v0.1.0,Matt Stein,Laravel mail transport for useSend: send transactional email through the useSend API.
+2026-10-02T16:49:33Z,mage2kishan/module-mage-pos,1.0.12,Kishan Savaliya,"Panth MagePos - a full point of sale (POS) for Magento 2. Standalone touch-friendly terminal with cashier authentication and PIN lock, register sessions with cash management and X/Z reports, barcode scanning, quick keys, multi-cart hold/retrieve, discounts with per-role caps, custom sale lines, spl…"
+2026-10-02T16:49:54Z,duncanmcclean/best-before,v1.0.0,Duncan McClean,"Give temporary classes and methods a best before date, then fail CI once they've gone off."
+2026-10-02T16:52:28Z,fundrik/toolbox,v1.0.0,Denis Yanchevskiy,A collection of general-purpose PHP utilities used across Fundrik projects
+2026-10-02T16:59:19Z,webong/proxy,v0.1.0,,Webhook proxy system for scoped webhook routing and delivery
