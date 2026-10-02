@@ -15,20 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 15:19 UTC
+## Latest list — 2026-10-02 16:21 UTC
 
-New packages created between 2026-10-02 14:19 UTC and 2026-10-02 15:19 UTC.
+New packages created between 2026-10-02 15:19 UTC and 2026-10-02 16:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-02T15-19-45-073755Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-02T16-21-46-714946Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-02 14:27:34 | [clicalmani/metrics](https://www.nuget.org/packages/clicalmani%2Fmetrics) | v1.0.0-alpha | clicalmani | A metrics package for Tonka |
-| 2026-10-02 14:28:25 | [vortechron/filament-block-editor](https://www.nuget.org/packages/vortechron%2Ffilament-block-editor) | v0.1.0 | Vortechron | A Notion-style block editor and page builder for Filament 5: BlockNote content,… |
-| 2026-10-02 14:58:18 | [alexhackney/laravel-ntfy](https://www.nuget.org/packages/alexhackney%2Flaravel-ntfy) | v0.1.0 | Alex Hackney | ntfy notifications channel and client for Laravel |
-| 2026-10-02 15:01:11 | [nordwerk/contao-teasers-bundle](https://www.nuget.org/packages/nordwerk%2Fcontao-teasers-bundle) | v0.1.0 |  | Source-driven Twig teaser cards for Contao |
-| 2026-10-02 15:01:11 | [nordwerk/contao-testimonials-bundle](https://www.nuget.org/packages/nordwerk%2Fcontao-testimonials-bundle) | v0.1.0 |  | Moderated customer testimonials and submissions for Contao |
-| 2026-10-02 15:16:35 | [asignua/filament-seo-files](https://www.nuget.org/packages/asignua%2Ffilament-seo-files) | v1.0.0 | Mykhailo Hladchenko | sitemap.xml, robots.txt, llms.txt and llms-full.txt for Filament panels: plugga… |
+| 2026-10-02 15:25:07 | [ligorikus/h3-php](https://www.nuget.org/packages/ligorikus%2Fh3-php) | 1.0.0 |  | Pure PHP implementation of H3 geospatial indexing system |
+| 2026-10-02 15:34:10 | [lucajackal85/pii-sanitizer-php](https://www.nuget.org/packages/lucajackal85%2Fpii-sanitizer-php) | v0.1.0 | Luca Giacalone | Monolog processor and Unix-socket client that scrub PII and secrets via the loc… |
+| 2026-10-02 15:42:56 | [hydrakit/seo](https://www.nuget.org/packages/hydrakit%2Fseo) | v0.24.0 | William Hleucka | Meta tags, sitemaps and Atom feeds for Hydra: built from plain values, escaped… |
+| 2026-10-02 15:51:24 | [lucajackal85/pii-sanitizer-symfony](https://www.nuget.org/packages/lucajackal85%2Fpii-sanitizer-symfony) | v0.1.1 | Luca Giacalone | Symfony bundle that scrubs PII and secrets from Monolog records via the local P… |
+| 2026-10-02 15:53:07 | [lts/php-qa-ci](https://www.nuget.org/packages/lts%2Fphp-qa-ci) | 84.0.0 |  |  |
+| 2026-10-02 15:54:34 | [openexit/openexit](https://www.nuget.org/packages/openexit%2Fopenexit) | v0.1.0 |  | OpenExit SDK for the Portable Application State Protocol (PASP) |
+| 2026-10-02 15:55:37 | [lenorix/laravel-datadis-client](https://www.nuget.org/packages/lenorix%2Flaravel-datadis-client) | v0.1.0 | Jesus Hernandez | Laravel integration for lenorix/datadis-client: Datadis electricity data on Lar… |
 
 ## Data source
 

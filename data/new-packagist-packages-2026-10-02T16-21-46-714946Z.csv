@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-02T15:25:07Z,ligorikus/h3-php,1.0.0,,Pure PHP implementation of H3 geospatial indexing system
+2026-10-02T15:34:10Z,lucajackal85/pii-sanitizer-php,v0.1.0,Luca Giacalone,Monolog processor and Unix-socket client that scrub PII and secrets via the local PII Sanitizer Engine.
+2026-10-02T15:42:56Z,hydrakit/seo,v0.24.0,William Hleucka,"Meta tags, sitemaps and Atom feeds for Hydra: built from plain values, escaped once, every URL absolute."
+2026-10-02T15:51:24Z,lucajackal85/pii-sanitizer-symfony,v0.1.1,Luca Giacalone,Symfony bundle that scrubs PII and secrets from Monolog records via the local PII Sanitizer Engine.
+2026-10-02T15:53:07Z,lts/php-qa-ci,84.0.0,,
+2026-10-02T15:54:34Z,openexit/openexit,v0.1.0,,OpenExit SDK for the Portable Application State Protocol (PASP)
+2026-10-02T15:55:37Z,lenorix/laravel-datadis-client,v0.1.0,Jesus Hernandez,"Laravel integration for lenorix/datadis-client: Datadis electricity data on Laravel's Http, cache and configuration."
