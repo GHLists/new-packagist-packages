@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 22:19 UTC
+## Latest list — 2026-10-02 23:21 UTC
 
-New packages created between 2026-10-02 21:22 UTC and 2026-10-02 22:19 UTC.
+New packages created between 2026-10-02 22:19 UTC and 2026-10-02 23:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-02T22-19-33-029114Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-02T23-21-44-640996Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-02 21:27:45 | [sympress/starter](https://www.nuget.org/packages/sympress%2Fstarter) | v1.0.0 |  | SymPress Starter for WordPress projects |
-| 2026-10-02 21:28:50 | [sympress/demo](https://www.nuget.org/packages/sympress%2Fdemo) | v1.0.0 |  | Reference WordPress website demonstrating structured development with SymPress… |
-| 2026-10-02 22:02:33 | [siol-data/linkml-connector](https://www.nuget.org/packages/siol-data%2Flinkml-connector) | v2.0.5 |  | DFC LinkML Semantic Object Connector for PHP |
-| 2026-10-02 22:14:03 | [stanislas-poisson/french-postal-code](https://www.nuget.org/packages/stanislas-poisson%2Ffrench-postal-code) | 4.0.0 | Stanislas Poisson | The regions, departments, communes and postal codes of France, with one GPS poi… |
+| 2026-10-02 22:28:30 | [reyhan-commerce/core](https://www.nuget.org/packages/reyhan-commerce%2Fcore) | v1.0.0 | Reyhan Commerce Core Team | Next-Gen Headless E-Commerce Core Framework for Laravel 13 |
+| 2026-10-02 22:35:29 | [reyhan-commerce/reyhan](https://www.nuget.org/packages/reyhan-commerce%2Freyhan) | v1.0.0 |  | Reyhan Commerce — Headless E-Commerce Framework for Iran. |
+| 2026-10-02 22:55:16 | [ahmed-aliraqi/laravel-deep-link](https://www.nuget.org/packages/ahmed-aliraqi%2Flaravel-deep-link) | v1.0.0 | Ahmed Fathy | Universal Links, Android App Links and smart landing pages for Laravel: shareab… |
+| 2026-10-02 23:06:30 | [mandrael/contao-maplibre](https://www.nuget.org/packages/mandrael%2Fcontao-maplibre) | 0.2.0 | Michael Gasperl | MapLibre-Karten für Contao mit OpenFreeMap (© OpenMapTiles, Data from OpenStree… |
+| 2026-10-02 23:12:28 | [robyajo/laravel-security-monitor](https://www.nuget.org/packages/robyajo%2Flaravel-security-monitor) | v2.0.0 | Roby | Enterprise-grade headless self-hosted WAF, threat detection engine, zero-tolera… |
 
 ## Data source
 

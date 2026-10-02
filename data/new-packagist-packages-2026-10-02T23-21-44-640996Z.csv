@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-02T22:28:30Z,reyhan-commerce/core,v1.0.0,Reyhan Commerce Core Team,Next-Gen Headless E-Commerce Core Framework for Laravel 13
+2026-10-02T22:35:29Z,reyhan-commerce/reyhan,v1.0.0,,Reyhan Commerce — Headless E-Commerce Framework for Iran.
+2026-10-02T22:55:16Z,ahmed-aliraqi/laravel-deep-link,v1.0.0,Ahmed Fathy,"Universal Links, Android App Links and smart landing pages for Laravel: shareable URLs that open the mobile app when it is installed and fall back to the stores when it is not."
+2026-10-02T23:06:30Z,mandrael/contao-maplibre,0.2.0,Michael Gasperl,"MapLibre-Karten für Contao mit OpenFreeMap (© OpenMapTiles, Data from OpenStreetMap): Multi-Marker und Cluster-Marker, zentrale Standortverwaltung mit Geocoding (Nominatim) und ein Inhaltselement – datenschutzfreundlicher Ersatz für Google Maps."
+2026-10-02T23:12:28Z,robyajo/laravel-security-monitor,v2.0.0,Roby,"Enterprise-grade headless self-hosted WAF, threat detection engine, zero-tolerance blocking, stepped login lockout, and security auditing toolkit for Laravel."
