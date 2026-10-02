@@ -15,19 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 10:21 UTC
+## Latest list — 2026-10-02 11:21 UTC
 
-New packages created between 2026-10-02 09:18 UTC and 2026-10-02 10:21 UTC.
+New packages created between 2026-10-02 10:21 UTC and 2026-10-02 11:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-02T10-21-51-631286Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-02T11-21-59-115616Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-02 09:20:15 | [tobimori/kirby-global-blocks](https://www.nuget.org/packages/tobimori%2Fkirby-global-blocks) | 0.1.1 |  | Reusable global blocks for Kirby blocks and layout fields |
-| 2026-10-02 09:23:21 | [nordwerk/contao-sections-bundle](https://www.nuget.org/packages/nordwerk%2Fcontao-sections-bundle) | v0.1.0 |  | Page sections for Contao content pages: hero, page head, promises, picture and… |
-| 2026-10-02 09:57:21 | [siberfx/linkedin-autopost](https://www.nuget.org/packages/siberfx%2Flinkedin-autopost) | 1.1.0 | Selim Görmüş | Connect one LinkedIn account to your Laravel app and share models to LinkedIn a… |
-| 2026-10-02 10:06:16 | [besnovatyj/yii2-cms-blocks](https://www.nuget.org/packages/besnovatyj%2Fyii2-cms-blocks) | v1.0.0 | Besnovatyj | Модуль блоков Yii2 CMS: управляемое из админки содержимое мест, объявленных тем… |
-| 2026-10-02 10:17:27 | [hirasso/wp-sync-deploy](https://www.nuget.org/packages/hirasso%2Fwp-sync-deploy) | 3.0.0 |  | Bash scripts to sync and deploy WordPress sites |
+| 2026-10-02 10:33:41 | [smartassert/symfony-remote-event-request-factory](https://www.nuget.org/packages/smartassert%2Fsymfony-remote-event-request-factory) | 0.1 | Jon Cram |  |
+| 2026-10-02 10:46:24 | [yatmo/typo3-yatmo-map](https://www.nuget.org/packages/yatmo%2Ftypo3-yatmo-map) | 1.0.0 | Yatmo | Real estate map, points of interest with travel times and an indexable neighbou… |
+| 2026-10-02 11:03:57 | [mage2kishan/module-redirects](https://www.nuget.org/packages/mage2kishan%2Fmodule-redirects) | 1.2.4 |  | Redirects and 404 management for Magento 2 (Hyva + Luma). Manual + auto redirec… |
+| 2026-10-02 11:05:17 | [sympress/cli](https://www.nuget.org/packages/sympress%2Fcli) | v0.1.0 | Brian Schaffner | Standalone Symfony Console CLI for creating configured SymPress projects from s… |
+| 2026-10-02 11:09:12 | [mage2kishan/module-advanced-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-seo) | 1.8.7 | Kishan Savaliya | Panth Advanced SEO — enterprise-grade SEO suite for Magento 2: SEO dashboard, m… |
+| 2026-10-02 11:10:35 | [statamic-addon/upload-video](https://www.nuget.org/packages/statamic-addon%2Fupload-video) | v1.0.1 |  | Vizuall Upload Video fieldtype |
+| 2026-10-02 11:13:05 | [mage2kishan/module-pagebuilder-ai](https://www.nuget.org/packages/mage2kishan%2Fmodule-pagebuilder-ai) | 1.2.26 | Kishan Savaliya | Adds an AI Content button to the Magento PageBuilder toolbar and inline AI butt… |
+| 2026-10-02 11:14:36 | [sympress/mailer](https://www.nuget.org/packages/sympress%2Fmailer) | v0.1.0 | Brian Schäffner | Core Symfony Mailer powered WordPress mail plugin for the SymPress kernel. |
+| 2026-10-02 11:16:45 | [mage2kishan/module-extra-fee](https://www.nuget.org/packages/mage2kishan%2Fmodule-extra-fee) | 1.1.5 | Kishan Savaliya | Panth Extra Fee — add configurable extra fees and surcharges to Magento 2 check… |
+| 2026-10-02 11:20:22 | [mage2kishan/module-filter-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-filter-seo) | 1.1.4 | Kishan Savaliya | Panth Filter SEO — clean path-based URLs for layered navigation filters + dynam… |
 
 ## Data source
 
