@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-02T07:21:26Z,nivoin/ship-ready,v1.1.0,nivoin,"Static security, performance, and production-readiness auditor for Laravel 11, 12, and 13 — 111 checks, MCP server, Octane, Queue, Tenancy, Livewire, Filament, Infrastructure"
+2026-10-02T07:36:41Z,aldogtz/amadeus-soap,v2.0.0,Aldo Gutierrez,Laravel wrapper for Amadeus Globalizer SOAP Web Services
+2026-10-02T07:39:15Z,ameax/laravel-glitchtip,v0.1.0,Michael Schmidt,"Error tracking for Laravel with GlitchTip (or any Sentry compatible server): privacy mode, release detection for git and Deployer, and context for users, tenants and Livewire"
+2026-10-02T08:05:53Z,robyajo/laravel-security-monitor,v1.1.0,Roby,"Enterprise-grade headless self-hosted WAF, threat detection engine, zero-tolerance blocking, stepped login lockout, pure SVG captcha, and security auditing toolkit for Laravel."

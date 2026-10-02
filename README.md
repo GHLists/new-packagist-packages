@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 07:20 UTC
+## Latest list — 2026-10-02 08:21 UTC
 
-New packages created between 2026-10-02 06:22 UTC and 2026-10-02 07:20 UTC.
+New packages created between 2026-10-02 07:20 UTC and 2026-10-02 08:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-02T07-20-24-814458Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-02T08-21-13-890824Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-02 06:30:23 | [mage2kishan/module-live-activity](https://www.nuget.org/packages/mage2kishan%2Fmodule-live-activity) | 1.0.12 | Kishan Savaliya | Live Activity & Social Proof notifications for Magento 2. Shows real-time custo… |
-| 2026-10-02 06:50:58 | [vectorbross/vb_multilingual](https://www.nuget.org/packages/vectorbross%2Fvb_multilingual) | 1.0.0 |  | Config actions that apply the Vector BROSS translation defaults to every transl… |
-| 2026-10-02 06:50:58 | [vectorbross/vb_multilingual_deepl_recipe](https://www.nuget.org/packages/vectorbross%2Fvb_multilingual_deepl_recipe) | 1.0.0 |  | The complete multilingual setup with machine translation of content by TMGMT an… |
-| 2026-10-02 06:50:58 | [vectorbross/vb_multilingual_recipe](https://www.nuget.org/packages/vectorbross%2Fvb_multilingual_recipe) | 1.0.0 |  | Adds languages and makes every translatable entity type translatable. |
-| 2026-10-02 07:08:29 | [akibeo/kirby-umami](https://www.nuget.org/packages/akibeo%2Fkirby-umami) | 1.0.0 | Wannes Debusschere | Umami analytics for Kirby CMS: tracker script with CSP nonce, server-side event… |
+| 2026-10-02 07:21:26 | [nivoin/ship-ready](https://www.nuget.org/packages/nivoin%2Fship-ready) | v1.1.0 | nivoin | Static security, performance, and production-readiness auditor for Laravel 11,… |
+| 2026-10-02 07:36:41 | [aldogtz/amadeus-soap](https://www.nuget.org/packages/aldogtz%2Famadeus-soap) | v2.0.0 | Aldo Gutierrez | Laravel wrapper for Amadeus Globalizer SOAP Web Services |
+| 2026-10-02 07:39:15 | [ameax/laravel-glitchtip](https://www.nuget.org/packages/ameax%2Flaravel-glitchtip) | v0.1.0 | Michael Schmidt | Error tracking for Laravel with GlitchTip (or any Sentry compatible server): pr… |
+| 2026-10-02 08:05:53 | [robyajo/laravel-security-monitor](https://www.nuget.org/packages/robyajo%2Flaravel-security-monitor) | v1.1.0 | Roby | Enterprise-grade headless self-hosted WAF, threat detection engine, zero-tolera… |
 
 ## Data source
 
