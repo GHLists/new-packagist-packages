@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-02T20:49:42Z,milon/fuse,v1.0.0,Nuruzzaman Milon,HTTP-client-agnostic circuit breaker with optional Laravel and Saloon adapters
+2026-10-02T21:13:56Z,justpush/laravel-notification-channel,v1.0.0,JustPush.io,JustPush notification channel for Laravel: send push notifications to iOS and Android with $user->notify().
+2026-10-02T21:17:17Z,portabyte/php,v0.1.0,,Official PHP SDK for Portabyte file infrastructure.

@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 20:22 UTC
+## Latest list — 2026-10-02 21:22 UTC
 
-New packages created between 2026-10-02 19:21 UTC and 2026-10-02 20:22 UTC.
+New packages created between 2026-10-02 20:22 UTC and 2026-10-02 21:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-02T20-22-08-966034Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-02T21-22-31-141244Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-02 19:37:23 | [edulazaro/wirepicker](https://www.nuget.org/packages/edulazaro%2Fwirepicker) | 1.1.0 | Edu Lazaro | Framework-agnostic date and date-range picker for Laravel, Livewire and Alpine.… |
+| 2026-10-02 20:49:42 | [milon/fuse](https://www.nuget.org/packages/milon%2Ffuse) | v1.0.0 | Nuruzzaman Milon | HTTP-client-agnostic circuit breaker with optional Laravel and Saloon adapters |
+| 2026-10-02 21:13:56 | [justpush/laravel-notification-channel](https://www.nuget.org/packages/justpush%2Flaravel-notification-channel) | v1.0.0 | JustPush.io | JustPush notification channel for Laravel: send push notifications to iOS and A… |
+| 2026-10-02 21:17:17 | [portabyte/php](https://www.nuget.org/packages/portabyte%2Fphp) | v0.1.0 |  | Official PHP SDK for Portabyte file infrastructure. |
 
 ## Data source
 
