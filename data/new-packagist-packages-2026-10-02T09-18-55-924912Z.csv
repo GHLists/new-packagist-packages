@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-02T08:26:30Z,marrow/ui,v1.0.0,Aure Dulvresse,"A ready-to-use Tailwind + Alpine.js component library for Marrow — 30+ components (Button, Card, Select, Breadcrumb, a Form bridge to marrow/form-builder, and more) built on the framework's existing Component/ComponentRegistry primitives."
+2026-10-02T08:30:19Z,purplespider/silverstripe-elemental-draft-lock,1.0.0,James Cocker,"Lets editors lock an individual Elemental block as draft, so publishing the page does not publish it"
+2026-10-02T08:36:31Z,bee-interactive/boomerang,v0.1.0,Yves Engetschwiler,Boomerang notifier for the Laravel PHP framework. Monitor and report Laravel errors.
+2026-10-02T08:51:36Z,magicoli/opensim-engine,3.0.0-beta.1,Gudule Lapointe,OpenSimulator Engine - Framework-agnostic core functionality for OpenSim grids
+2026-10-02T09:06:00Z,codecorner/laravel-datagrid,v1.0.0,,"Extensible, queue-powered data grid for Laravel with a backend-defined schema, Next.js and Blade renderers."
+2026-10-02T09:12:07Z,cjph96/php-core,v0.1.0,Cristian J. Pérez Hernández,"A small, framework-independent PHP foundation for shared technical primitives."
+2026-10-02T09:14:59Z,goldnead/statamic-bard-footnotes,v1.0.0,Adrian Goldner,"Footnotes for Bard: type [1] in the text, keep the sources in a grid, get superscript links and a source list."
