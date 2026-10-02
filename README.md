@@ -15,23 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 06:22 UTC
+## Latest list — 2026-10-02 07:20 UTC
 
-New packages created between 2026-10-02 05:21 UTC and 2026-10-02 06:22 UTC.
+New packages created between 2026-10-02 06:22 UTC and 2026-10-02 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-02T06-22-02-286956Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-02T07-20-24-814458Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-02 05:34:36 | [urlund/wordpress-updater](https://www.nuget.org/packages/urlund%2Fwordpress-updater) | 1.0.0 | Henrik Urlund | WordPress plugin and theme updater with GitHub integration and CLI release tools |
-| 2026-10-02 05:44:12 | [whitesmoke/core](https://www.nuget.org/packages/whitesmoke%2Fcore) | v0.2.0 |  | Whitesmoke Framework core: HTTP, routing, views, sessions, security, validation… |
-| 2026-10-02 05:46:16 | [rad-themes/radpack-crm](https://www.nuget.org/packages/rad-themes%2Fradpack-crm) | v1.0.1 | Rad Themes | A free, full-featured CRM for Statamic: contacts, companies, quotes, invoices,… |
-| 2026-10-02 05:47:08 | [whitesmoke/framework](https://www.nuget.org/packages/whitesmoke%2Fframework) | v0.2.1 |  | Whitesmoke Framework application skeleton. |
-| 2026-10-02 06:04:03 | [mage2kishan/module-footer](https://www.nuget.org/packages/mage2kishan%2Fmodule-footer) | 1.0.13 | Kishan Savaliya | Panth Footer — configurable footer module for Magento 2 with Hyva and Luma them… |
-| 2026-10-02 06:07:43 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.5 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
-| 2026-10-02 06:12:00 | [mage2kishan/module-blog](https://www.nuget.org/packages/mage2kishan%2Fmodule-blog) | 1.3.7 | Kishan Savaliya | Panth_Blog - SEO-grade blog module for Magento 2 with first-class AEO/AIO suppo… |
-| 2026-10-02 06:15:34 | [mage2kishan/module-advanced-contact-us](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-contact-us) | 1.1.6 |  | Advanced Contact Us Page - Custom fields, bot protection, submission management… |
-| 2026-10-02 06:19:03 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.6 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
+| 2026-10-02 06:30:23 | [mage2kishan/module-live-activity](https://www.nuget.org/packages/mage2kishan%2Fmodule-live-activity) | 1.0.12 | Kishan Savaliya | Live Activity & Social Proof notifications for Magento 2. Shows real-time custo… |
+| 2026-10-02 06:50:58 | [vectorbross/vb_multilingual](https://www.nuget.org/packages/vectorbross%2Fvb_multilingual) | 1.0.0 |  | Config actions that apply the Vector BROSS translation defaults to every transl… |
+| 2026-10-02 06:50:58 | [vectorbross/vb_multilingual_deepl_recipe](https://www.nuget.org/packages/vectorbross%2Fvb_multilingual_deepl_recipe) | 1.0.0 |  | The complete multilingual setup with machine translation of content by TMGMT an… |
+| 2026-10-02 06:50:58 | [vectorbross/vb_multilingual_recipe](https://www.nuget.org/packages/vectorbross%2Fvb_multilingual_recipe) | 1.0.0 |  | Adds languages and makes every translatable entity type translatable. |
+| 2026-10-02 07:08:29 | [akibeo/kirby-umami](https://www.nuget.org/packages/akibeo%2Fkirby-umami) | 1.0.0 | Wannes Debusschere | Umami analytics for Kirby CMS: tracker script with CSP nonce, server-side event… |
 
 ## Data source
 

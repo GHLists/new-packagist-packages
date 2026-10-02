@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-02T06:30:23Z,mage2kishan/module-live-activity,1.0.12,Kishan Savaliya,"Live Activity & Social Proof notifications for Magento 2. Shows real-time customer activity (purchases, cart adds, wishlists) to create urgency and social proof. Supports configurable fake names, locations, featured products, animation styles, and mobile responsiveness. Compatible with Luma and Hyv…"
+2026-10-02T06:50:58Z,vectorbross/vb_multilingual,1.0.0,,Config actions that apply the Vector BROSS translation defaults to every translatable entity type.
+2026-10-02T06:50:58Z,vectorbross/vb_multilingual_deepl_recipe,1.0.0,,The complete multilingual setup with machine translation of content by TMGMT and DeepL.
+2026-10-02T06:50:58Z,vectorbross/vb_multilingual_recipe,1.0.0,,Adds languages and makes every translatable entity type translatable.
+2026-10-02T07:08:29Z,akibeo/kirby-umami,1.0.0,Wannes Debusschere,"Umami analytics for Kirby CMS: tracker script with CSP nonce, server-side events and a Panel stats view."
