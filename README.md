@@ -15,19 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 14:19 UTC
+## Latest list — 2026-10-02 15:19 UTC
 
-New packages created between 2026-10-02 13:20 UTC and 2026-10-02 14:19 UTC.
+New packages created between 2026-10-02 14:19 UTC and 2026-10-02 15:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-02T14-19-17-842649Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-02T15-19-45-073755Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-02 13:30:45 | [adeshsuryan/next-cache-doctor](https://www.nuget.org/packages/adeshsuryan%2Fnext-cache-doctor) | v0.2.1 |  | Read a Next.js project and report cache layers that can stay stale after invali… |
-| 2026-10-02 13:32:32 | [tommica/mailpox](https://www.nuget.org/packages/tommica%2Fmailpox) | v1.0.0 | Tom Mica | A local development mailbox for Laravel applications. |
-| 2026-10-02 13:43:36 | [deepphp/laravel-slugify](https://www.nuget.org/packages/deepphp%2Flaravel-slugify) | v1.0.0 |  | Slug generation and uniqueness helpers for Laravel. |
-| 2026-10-02 14:03:41 | [mage2kishan/magento2-claude-ai](https://www.nuget.org/packages/mage2kishan%2Fmagento2-claude-ai) | 1.9.1 | Kishan Savaliya | Magento 2 Automation with Claude AI - natural-language store management. Update… |
-| 2026-10-02 14:13:59 | [amphp/uv](https://www.nuget.org/packages/amphp%2Fuv) | v0.3.1 | Bob Weinand; Aaron Piotrowski | PHP extension providing access to libuv functions |
+| 2026-10-02 14:27:34 | [clicalmani/metrics](https://www.nuget.org/packages/clicalmani%2Fmetrics) | v1.0.0-alpha | clicalmani | A metrics package for Tonka |
+| 2026-10-02 14:28:25 | [vortechron/filament-block-editor](https://www.nuget.org/packages/vortechron%2Ffilament-block-editor) | v0.1.0 | Vortechron | A Notion-style block editor and page builder for Filament 5: BlockNote content,… |
+| 2026-10-02 14:58:18 | [alexhackney/laravel-ntfy](https://www.nuget.org/packages/alexhackney%2Flaravel-ntfy) | v0.1.0 | Alex Hackney | ntfy notifications channel and client for Laravel |
+| 2026-10-02 15:01:11 | [nordwerk/contao-teasers-bundle](https://www.nuget.org/packages/nordwerk%2Fcontao-teasers-bundle) | v0.1.0 |  | Source-driven Twig teaser cards for Contao |
+| 2026-10-02 15:01:11 | [nordwerk/contao-testimonials-bundle](https://www.nuget.org/packages/nordwerk%2Fcontao-testimonials-bundle) | v0.1.0 |  | Moderated customer testimonials and submissions for Contao |
+| 2026-10-02 15:16:35 | [asignua/filament-seo-files](https://www.nuget.org/packages/asignua%2Ffilament-seo-files) | v1.0.0 | Mykhailo Hladchenko | sitemap.xml, robots.txt, llms.txt and llms-full.txt for Filament panels: plugga… |
 
 ## Data source
 

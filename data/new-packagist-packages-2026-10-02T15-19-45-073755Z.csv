@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-02T14:27:34Z,clicalmani/metrics,v1.0.0-alpha,clicalmani,A metrics package for Tonka
+2026-10-02T14:28:25Z,vortechron/filament-block-editor,v0.1.0,Vortechron,"A Notion-style block editor and page builder for Filament 5: BlockNote content, styled sections, block styles, saved blocks and a media library."
+2026-10-02T14:58:18Z,alexhackney/laravel-ntfy,v0.1.0,Alex Hackney,ntfy notifications channel and client for Laravel
+2026-10-02T15:01:11Z,nordwerk/contao-teasers-bundle,v0.1.0,,Source-driven Twig teaser cards for Contao
+2026-10-02T15:01:11Z,nordwerk/contao-testimonials-bundle,v0.1.0,,Moderated customer testimonials and submissions for Contao
+2026-10-02T15:16:35Z,asignua/filament-seo-files,v1.0.0,Mykhailo Hladchenko,"sitemap.xml, robots.txt, llms.txt and llms-full.txt for Filament panels: pluggable page sources, multilingual hreflang, manual sitemap URLs, an editor page and scheduled generation."
