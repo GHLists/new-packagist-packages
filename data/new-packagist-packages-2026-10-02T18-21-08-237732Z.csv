@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-02T17:21:25Z,manuxi/sulu-conditional-validation-bundle,v1.0.0,Manuel Bertrams,Sulu admin forms: mandatory fields and block entries are only checked where their visibleCondition shows them
+2026-10-02T17:24:44Z,1994/ghostwriter-statamic,v1.0.0,1994,"Learns a site's tone of voice and image style from what it has published, then drafts new entries in that voice from a short brief and a conversation, finds or makes images to match, and plans what the site is missing."
+2026-10-02T17:31:41Z,vexed/vexed,0.1.0,Woody Gilk,Variable API Problem (RFC 9457) data structure
+2026-10-02T17:36:12Z,ua0leg/yii2-combo-tree,1.0.9,Oleg,Yii2 Combo Tree Select Extension
+2026-10-02T17:47:50Z,mage2kishan/module-faq,1.3.6,Kishan Savaliya,Advanced FAQ Module with multi-level assignment capabilities
+2026-10-02T17:52:06Z,mage2kishan/module-blog,1.3.9,Kishan Savaliya,"Panth_Blog - SEO-grade blog module for Magento 2 with first-class AEO/AIO support: JSON-LD, llms.txt, IndexNow, hreflang, markdown export, RSS/Atom feeds, and Hyva-first templates. Built to plug into the Panth_* ecosystem."
+2026-10-02T17:52:19Z,lcmialichi/php-gpu-tensors,v0.1.0-beta.2,,"Native PHP extension for NVIDIA GPU tensors, CUDA-accelerated computing, and machine-learning workloads."
+2026-10-02T17:56:12Z,mage2kishan/module-testimonials,1.2.7,,"Advanced Testimonials module with slider, individual pages, categories, SEO, and frontend submission"
+2026-10-02T17:58:14Z,momotombo/nativephp-settings,v1.0.0,Momotombo,Local typed settings for NativePHP Mobile applications.
