@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-02T18:43:53Z,manuxi/sulu-block-validation-bundle,v1.1.0,Manuel Bertrams,Sulu admin forms: mandatory fields and block entries are only checked where their visibleCondition shows them; blocks with invalid fields open after a failed save
+2026-10-02T18:53:44Z,directorytree/operations,v1.0.0,Steve Bauman,Run one-time deployment operations in Laravel.

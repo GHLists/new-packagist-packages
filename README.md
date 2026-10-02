@@ -15,23 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 18:21 UTC
+## Latest list — 2026-10-02 19:21 UTC
 
-New packages created between 2026-10-02 17:20 UTC and 2026-10-02 18:21 UTC.
+New packages created between 2026-10-02 18:21 UTC and 2026-10-02 19:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-02T18-21-08-237732Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-02T19-21-53-074757Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-02 17:21:25 | [manuxi/sulu-conditional-validation-bundle](https://www.nuget.org/packages/manuxi%2Fsulu-conditional-validation-bundle) | v1.0.0 | Manuel Bertrams | Sulu admin forms: mandatory fields and block entries are only checked where the… |
-| 2026-10-02 17:24:44 | [1994/ghostwriter-statamic](https://www.nuget.org/packages/1994%2Fghostwriter-statamic) | v1.0.0 | 1994 | Learns a site's tone of voice and image style from what it has published, then… |
-| 2026-10-02 17:31:41 | [vexed/vexed](https://www.nuget.org/packages/vexed%2Fvexed) | 0.1.0 | Woody Gilk | Variable API Problem (RFC 9457) data structure |
-| 2026-10-02 17:36:12 | [ua0leg/yii2-combo-tree](https://www.nuget.org/packages/ua0leg%2Fyii2-combo-tree) | 1.0.9 | Oleg | Yii2 Combo Tree Select Extension |
-| 2026-10-02 17:47:50 | [mage2kishan/module-faq](https://www.nuget.org/packages/mage2kishan%2Fmodule-faq) | 1.3.6 | Kishan Savaliya | Advanced FAQ Module with multi-level assignment capabilities |
-| 2026-10-02 17:52:06 | [mage2kishan/module-blog](https://www.nuget.org/packages/mage2kishan%2Fmodule-blog) | 1.3.9 | Kishan Savaliya | Panth_Blog - SEO-grade blog module for Magento 2 with first-class AEO/AIO suppo… |
-| 2026-10-02 17:52:19 | [lcmialichi/php-gpu-tensors](https://www.nuget.org/packages/lcmialichi%2Fphp-gpu-tensors) | v0.1.0-beta.2 |  | Native PHP extension for NVIDIA GPU tensors, CUDA-accelerated computing, and ma… |
-| 2026-10-02 17:56:12 | [mage2kishan/module-testimonials](https://www.nuget.org/packages/mage2kishan%2Fmodule-testimonials) | 1.2.7 |  | Advanced Testimonials module with slider, individual pages, categories, SEO, an… |
-| 2026-10-02 17:58:14 | [momotombo/nativephp-settings](https://www.nuget.org/packages/momotombo%2Fnativephp-settings) | v1.0.0 | Momotombo | Local typed settings for NativePHP Mobile applications. |
+| 2026-10-02 18:43:53 | [manuxi/sulu-block-validation-bundle](https://www.nuget.org/packages/manuxi%2Fsulu-block-validation-bundle) | v1.1.0 | Manuel Bertrams | Sulu admin forms: mandatory fields and block entries are only checked where the… |
+| 2026-10-02 18:53:44 | [directorytree/operations](https://www.nuget.org/packages/directorytree%2Foperations) | v1.0.0 | Steve Bauman | Run one-time deployment operations in Laravel. |
 
 ## Data source
 
