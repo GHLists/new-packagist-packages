@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-02T19:37:23Z,edulazaro/wirepicker,1.1.0,Edu Lazaro,"Framework-agnostic date and date-range picker for Laravel, Livewire and Alpine. Pure CSS, themed through CSS variables, localized through Intl. Sibling of wiremodal and wiretoast."

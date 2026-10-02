@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 19:21 UTC
+## Latest list — 2026-10-02 20:22 UTC
 
-New packages created between 2026-10-02 18:21 UTC and 2026-10-02 19:21 UTC.
+New packages created between 2026-10-02 19:21 UTC and 2026-10-02 20:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-02T19-21-53-074757Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-02T20-22-08-966034Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-02 18:43:53 | [manuxi/sulu-block-validation-bundle](https://www.nuget.org/packages/manuxi%2Fsulu-block-validation-bundle) | v1.1.0 | Manuel Bertrams | Sulu admin forms: mandatory fields and block entries are only checked where the… |
-| 2026-10-02 18:53:44 | [directorytree/operations](https://www.nuget.org/packages/directorytree%2Foperations) | v1.0.0 | Steve Bauman | Run one-time deployment operations in Laravel. |
+| 2026-10-02 19:37:23 | [edulazaro/wirepicker](https://www.nuget.org/packages/edulazaro%2Fwirepicker) | 1.1.0 | Edu Lazaro | Framework-agnostic date and date-range picker for Laravel, Livewire and Alpine.… |
 
 ## Data source
 
