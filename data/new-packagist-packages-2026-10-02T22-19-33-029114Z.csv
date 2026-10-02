@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-02T21:27:45Z,sympress/starter,v1.0.0,,SymPress Starter for WordPress projects
+2026-10-02T21:28:50Z,sympress/demo,v1.0.0,,Reference WordPress website demonstrating structured development with SymPress and Symfony components.
+2026-10-02T22:02:33Z,siol-data/linkml-connector,v2.0.5,,DFC LinkML Semantic Object Connector for PHP
+2026-10-02T22:14:03Z,stanislas-poisson/french-postal-code,4.0.0,Stanislas Poisson,"The regions, departments, communes and postal codes of France, with one GPS point per postal code: the data, the models and a loader for Laravel and Symfony."

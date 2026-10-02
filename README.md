@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 21:22 UTC
+## Latest list — 2026-10-02 22:19 UTC
 
-New packages created between 2026-10-02 20:22 UTC and 2026-10-02 21:22 UTC.
+New packages created between 2026-10-02 21:22 UTC and 2026-10-02 22:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-02T21-22-31-141244Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-02T22-19-33-029114Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-02 20:49:42 | [milon/fuse](https://www.nuget.org/packages/milon%2Ffuse) | v1.0.0 | Nuruzzaman Milon | HTTP-client-agnostic circuit breaker with optional Laravel and Saloon adapters |
-| 2026-10-02 21:13:56 | [justpush/laravel-notification-channel](https://www.nuget.org/packages/justpush%2Flaravel-notification-channel) | v1.0.0 | JustPush.io | JustPush notification channel for Laravel: send push notifications to iOS and A… |
-| 2026-10-02 21:17:17 | [portabyte/php](https://www.nuget.org/packages/portabyte%2Fphp) | v0.1.0 |  | Official PHP SDK for Portabyte file infrastructure. |
+| 2026-10-02 21:27:45 | [sympress/starter](https://www.nuget.org/packages/sympress%2Fstarter) | v1.0.0 |  | SymPress Starter for WordPress projects |
+| 2026-10-02 21:28:50 | [sympress/demo](https://www.nuget.org/packages/sympress%2Fdemo) | v1.0.0 |  | Reference WordPress website demonstrating structured development with SymPress… |
+| 2026-10-02 22:02:33 | [siol-data/linkml-connector](https://www.nuget.org/packages/siol-data%2Flinkml-connector) | v2.0.5 |  | DFC LinkML Semantic Object Connector for PHP |
+| 2026-10-02 22:14:03 | [stanislas-poisson/french-postal-code](https://www.nuget.org/packages/stanislas-poisson%2Ffrench-postal-code) | 4.0.0 | Stanislas Poisson | The regions, departments, communes and postal codes of France, with one GPS poi… |
 
 ## Data source
 
