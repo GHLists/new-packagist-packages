@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-02T09:20:15Z,tobimori/kirby-global-blocks,0.1.1,,Reusable global blocks for Kirby blocks and layout fields
+2026-10-02T09:23:21Z,nordwerk/contao-sections-bundle,v0.1.0,,"Page sections for Contao content pages: hero, page head, promises, picture and text, figures, features, steps, team, logos, contact and closing tile"
+2026-10-02T09:57:21Z,siberfx/linkedin-autopost,1.1.0,Selim Görmüş,"Connect one LinkedIn account to your Laravel app and share models to LinkedIn automatically when they go live, through the Posts API."
+2026-10-02T10:06:16Z,besnovatyj/yii2-cms-blocks,v1.0.0,Besnovatyj,"Модуль блоков Yii2 CMS: управляемое из админки содержимое мест, объявленных темой"
+2026-10-02T10:17:27Z,hirasso/wp-sync-deploy,3.0.0,,Bash scripts to sync and deploy WordPress sites

@@ -15,21 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 09:18 UTC
+## Latest list — 2026-10-02 10:21 UTC
 
-New packages created between 2026-10-02 08:21 UTC and 2026-10-02 09:18 UTC.
+New packages created between 2026-10-02 09:18 UTC and 2026-10-02 10:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-02T09-18-55-924912Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-02T10-21-51-631286Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-02 08:26:30 | [marrow/ui](https://www.nuget.org/packages/marrow%2Fui) | v1.0.0 | Aure Dulvresse | A ready-to-use Tailwind + Alpine.js component library for Marrow — 30+ componen… |
-| 2026-10-02 08:30:19 | [purplespider/silverstripe-elemental-draft-lock](https://www.nuget.org/packages/purplespider%2Fsilverstripe-elemental-draft-lock) | 1.0.0 | James Cocker | Lets editors lock an individual Elemental block as draft, so publishing the pag… |
-| 2026-10-02 08:36:31 | [bee-interactive/boomerang](https://www.nuget.org/packages/bee-interactive%2Fboomerang) | v0.1.0 | Yves Engetschwiler | Boomerang notifier for the Laravel PHP framework. Monitor and report Laravel er… |
-| 2026-10-02 08:51:36 | [magicoli/opensim-engine](https://www.nuget.org/packages/magicoli%2Fopensim-engine) | 3.0.0-beta.1 | Gudule Lapointe | OpenSimulator Engine - Framework-agnostic core functionality for OpenSim grids |
-| 2026-10-02 09:06:00 | [codecorner/laravel-datagrid](https://www.nuget.org/packages/codecorner%2Flaravel-datagrid) | v1.0.0 |  | Extensible, queue-powered data grid for Laravel with a backend-defined schema,… |
-| 2026-10-02 09:12:07 | [cjph96/php-core](https://www.nuget.org/packages/cjph96%2Fphp-core) | v0.1.0 | Cristian J. Pérez Hernández | A small, framework-independent PHP foundation for shared technical primitives. |
-| 2026-10-02 09:14:59 | [goldnead/statamic-bard-footnotes](https://www.nuget.org/packages/goldnead%2Fstatamic-bard-footnotes) | v1.0.0 | Adrian Goldner | Footnotes for Bard: type [1] in the text, keep the sources in a grid, get super… |
+| 2026-10-02 09:20:15 | [tobimori/kirby-global-blocks](https://www.nuget.org/packages/tobimori%2Fkirby-global-blocks) | 0.1.1 |  | Reusable global blocks for Kirby blocks and layout fields |
+| 2026-10-02 09:23:21 | [nordwerk/contao-sections-bundle](https://www.nuget.org/packages/nordwerk%2Fcontao-sections-bundle) | v0.1.0 |  | Page sections for Contao content pages: hero, page head, promises, picture and… |
+| 2026-10-02 09:57:21 | [siberfx/linkedin-autopost](https://www.nuget.org/packages/siberfx%2Flinkedin-autopost) | 1.1.0 | Selim Görmüş | Connect one LinkedIn account to your Laravel app and share models to LinkedIn a… |
+| 2026-10-02 10:06:16 | [besnovatyj/yii2-cms-blocks](https://www.nuget.org/packages/besnovatyj%2Fyii2-cms-blocks) | v1.0.0 | Besnovatyj | Модуль блоков Yii2 CMS: управляемое из админки содержимое мест, объявленных тем… |
+| 2026-10-02 10:17:27 | [hirasso/wp-sync-deploy](https://www.nuget.org/packages/hirasso%2Fwp-sync-deploy) | 3.0.0 |  | Bash scripts to sync and deploy WordPress sites |
 
 ## Data source
 
