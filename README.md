@@ -15,18 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 02:21 UTC
+## Latest list — 2026-10-02 03:21 UTC
 
-New packages created between 2026-10-02 01:20 UTC and 2026-10-02 02:21 UTC.
+New packages created between 2026-10-02 02:21 UTC and 2026-10-02 03:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-02T02-21-45-607734Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-02T03-21-58-760903Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-02 01:31:08 | [clicalmani/notification](https://www.nuget.org/packages/clicalmani%2Fnotification) | v1.0.0 | clicalmani | A notification package for Tonka |
-| 2026-10-02 01:44:56 | [clicalmani/queue](https://www.nuget.org/packages/clicalmani%2Fqueue) | v1.0.0-alpha | clicalmani | Queue package for Tonka framework |
-| 2026-10-02 01:50:24 | [leopoletto/robots-txt-parser](https://www.nuget.org/packages/leopoletto%2Frobots-txt-parser) | v1.0.0 | Leonardo Poletto | A comprehensive PHP package for parsing robots.txt files, including support for… |
-| 2026-10-02 01:52:54 | [marque/marque](https://www.nuget.org/packages/marque%2Fmarque) | v1.0.0 | Letter Of Marque Software | The Marque installer — one require, then `php artisan marque:install` wires a w… |
+| 2026-10-02 02:34:22 | [monty7352/rate-limit-dashboard](https://www.nuget.org/packages/monty7352%2Frate-limit-dashboard) | v1.0.0 | Your Name | A lightweight real-time traffic, rate limit, and auto-blocking monitoring dashb… |
 
 ## Data source
 

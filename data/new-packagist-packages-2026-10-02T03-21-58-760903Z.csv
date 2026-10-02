@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-02T02:34:22Z,monty7352/rate-limit-dashboard,v1.0.0,Your Name,"A lightweight real-time traffic, rate limit, and auto-blocking monitoring dashboard for Laravel."
