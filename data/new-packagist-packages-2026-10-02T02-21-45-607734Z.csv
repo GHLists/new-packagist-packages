@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-02T01:31:08Z,clicalmani/notification,v1.0.0,clicalmani,A notification package for Tonka
+2026-10-02T01:44:56Z,clicalmani/queue,v1.0.0-alpha,clicalmani,Queue package for Tonka framework
+2026-10-02T01:50:24Z,leopoletto/robots-txt-parser,v1.0.0,Leonardo Poletto,"A comprehensive PHP package for parsing robots.txt files, including support for meta tags and X-Robots-Tag HTTP headers"
+2026-10-02T01:52:54Z,marque/marque,v1.0.0,Letter Of Marque Software,"The Marque installer — one require, then `php artisan marque:install` wires a working tracker"
