@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-02T00:33:04Z,hawarei/sift,v1.0.0,Mina Hawarei,Parse messy tabular text into predictable Laravel Collections.
