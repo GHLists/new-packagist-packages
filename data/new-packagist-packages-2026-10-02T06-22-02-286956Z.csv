@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-02T05:34:36Z,urlund/wordpress-updater,1.0.0,Henrik Urlund,WordPress plugin and theme updater with GitHub integration and CLI release tools
+2026-10-02T05:44:12Z,whitesmoke/core,v0.2.0,,"Whitesmoke Framework core: HTTP, routing, views, sessions, security, validation, database."
+2026-10-02T05:46:16Z,rad-themes/radpack-crm,v1.0.1,Rad Themes,"A free, full-featured CRM for Statamic: contacts, companies, quotes, invoices, tasks, email and more."
+2026-10-02T05:47:08Z,whitesmoke/framework,v0.2.1,,Whitesmoke Framework application skeleton.
+2026-10-02T06:04:03Z,mage2kishan/module-footer,1.0.13,Kishan Savaliya,"Panth Footer — configurable footer module for Magento 2 with Hyva and Luma theme support. Features multi-column layout, social media links, newsletter subscription, back-to-top button, and full admin configuration. Part of the Panth Infotech extension suite on the Adobe Commerce Marketplace."
+2026-10-02T06:07:43Z,mage2kishan/module-theme-customizer,1.1.5,,"Hyva Theme Customizer - Backend-driven theme configuration with CSS custom properties, color management, typography, and Tailwind CSS integration."
+2026-10-02T06:12:00Z,mage2kishan/module-blog,1.3.7,Kishan Savaliya,"Panth_Blog - SEO-grade blog module for Magento 2 with first-class AEO/AIO support: JSON-LD, llms.txt, IndexNow, hreflang, markdown export, RSS/Atom feeds, and Hyva-first templates. Built to plug into the Panth_* ecosystem."
+2026-10-02T06:15:34Z,mage2kishan/module-advanced-contact-us,1.1.6,,"Advanced Contact Us Page - Custom fields, bot protection, submission management, email notifications"
+2026-10-02T06:19:03Z,mage2kishan/theme-frontend-panth-infotech,1.0.6,Kishan Savaliya,"Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent theme."
