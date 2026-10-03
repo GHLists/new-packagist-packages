@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 02:20 UTC
+## Latest list — 2026-10-03 03:21 UTC
 
-New packages created between 2026-10-03 01:19 UTC and 2026-10-03 02:20 UTC.
+New packages created between 2026-10-03 02:20 UTC and 2026-10-03 03:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-03T02-20-02-506757Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-03T03-21-01-607469Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-03 01:48:11 | [invoka/sdk](https://www.nuget.org/packages/invoka%2Fsdk) | v1.0.0 | Invoka | SDK oficial de PHP para la API de Invoka: facturación electrónica del SRI de Ec… |
+| 2026-10-03 02:28:28 | [omnifox/sdk](https://www.nuget.org/packages/omnifox%2Fsdk) | v0.4.1 | Omnifox | Official PHP SDK for the Omnifox.io REST API: inbox, contacts, CRM, boards, cal… |
 
 ## Data source
 
