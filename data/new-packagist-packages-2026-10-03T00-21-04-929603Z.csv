@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-02T23:42:00Z,edulazaro/larasearch,1.0.0,Edu Lazaro,"Text search for Eloquent models on your own database: a normalized search_text column per model for fast list searches, and an optional global index for command palettes, scoped by tenant and filtered by what each user may see. No Elasticsearch, no Meilisearch."
+2026-10-02T23:48:01Z,ernestdefoe/ladder,1.0.0,Ernest Defoe,"Post-count ranks for Flarum. Members climb a ladder of groups, and hold exactly one rung at a time."

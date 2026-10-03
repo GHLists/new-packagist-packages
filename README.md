@@ -15,19 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 23:21 UTC
+## Latest list — 2026-10-03 00:21 UTC
 
-New packages created between 2026-10-02 22:19 UTC and 2026-10-02 23:21 UTC.
+New packages created between 2026-10-02 23:21 UTC and 2026-10-03 00:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-02T23-21-44-640996Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-03T00-21-04-929603Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-02 22:28:30 | [reyhan-commerce/core](https://www.nuget.org/packages/reyhan-commerce%2Fcore) | v1.0.0 | Reyhan Commerce Core Team | Next-Gen Headless E-Commerce Core Framework for Laravel 13 |
-| 2026-10-02 22:35:29 | [reyhan-commerce/reyhan](https://www.nuget.org/packages/reyhan-commerce%2Freyhan) | v1.0.0 |  | Reyhan Commerce — Headless E-Commerce Framework for Iran. |
-| 2026-10-02 22:55:16 | [ahmed-aliraqi/laravel-deep-link](https://www.nuget.org/packages/ahmed-aliraqi%2Flaravel-deep-link) | v1.0.0 | Ahmed Fathy | Universal Links, Android App Links and smart landing pages for Laravel: shareab… |
-| 2026-10-02 23:06:30 | [mandrael/contao-maplibre](https://www.nuget.org/packages/mandrael%2Fcontao-maplibre) | 0.2.0 | Michael Gasperl | MapLibre-Karten für Contao mit OpenFreeMap (© OpenMapTiles, Data from OpenStree… |
-| 2026-10-02 23:12:28 | [robyajo/laravel-security-monitor](https://www.nuget.org/packages/robyajo%2Flaravel-security-monitor) | v2.0.0 | Roby | Enterprise-grade headless self-hosted WAF, threat detection engine, zero-tolera… |
+| 2026-10-02 23:42:00 | [edulazaro/larasearch](https://www.nuget.org/packages/edulazaro%2Flarasearch) | 1.0.0 | Edu Lazaro | Text search for Eloquent models on your own database: a normalized search_text… |
+| 2026-10-02 23:48:01 | [ernestdefoe/ladder](https://www.nuget.org/packages/ernestdefoe%2Fladder) | 1.0.0 | Ernest Defoe | Post-count ranks for Flarum. Members climb a ladder of groups, and hold exactly… |
 
 ## Data source
 
