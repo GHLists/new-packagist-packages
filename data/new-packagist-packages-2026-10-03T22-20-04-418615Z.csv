@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-03T21:21:05Z,themusicdev/trailing-slash,v1.0.0,TheMusicDev,CakePHP 5 plugin: one middleware that 301-redirects trailing-slash URLs to the slash-free canonical form
+2026-10-03T21:41:38Z,marcinwolnyeu/slopshape-php,v1.0.0,Marcin Wolny,"Explainable AI text detector for PHP: scores how likely an English text is AI/LLM-generated from discourse structure, with per-feature evidence. No dependencies; offline (reduced accuracy) or with any LLM. Based on SlopShape (arXiv:2609.15369)."
+2026-10-03T22:02:16Z,ernestdefoe/folio,1.0.0,Ernest Defoe,"Export a Flarum discussion as a PDF, a Word document or Markdown — styled in the forum's colours, with only the posts the reader is allowed to see."
+2026-10-03T22:04:55Z,lambda-twelve/one-record,1.0.0-beta1,Nick Andriopoulos,A framework-agnostic PHP server (PSR-15) and client (PSR-18) implementation for the IATA ONE Record API.

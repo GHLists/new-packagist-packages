@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 21:20 UTC
+## Latest list — 2026-10-03 22:20 UTC
 
-New packages created between 2026-10-03 20:19 UTC and 2026-10-03 21:20 UTC.
+New packages created between 2026-10-03 21:20 UTC and 2026-10-03 22:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-03T21-20-52-312094Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-03T22-20-04-418615Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-03 20:30:59 | [formatsoft/content-reminder](https://www.nuget.org/packages/formatsoft%2Fcontent-reminder) | 0.1.0 | Andreas Kessel, format Softwa… | Content Reminder - Reminders for TYPO3 pages: due dates, recurrence, assignment… |
-| 2026-10-03 20:44:15 | [26b/joiner](https://www.nuget.org/packages/26b%2Fjoiner) | 1.0.0 |  | Join strings with conditional values |
-| 2026-10-03 20:51:03 | [ijeffro/laralocker](https://www.nuget.org/packages/ijeffro%2Flaralocker) | v3.0.0 | Phil Graham | A Laravel API connector for Learning Locker®, the open-source Learning Record S… |
-| 2026-10-03 20:51:58 | [ssmiff/entabula](https://www.nuget.org/packages/ssmiff%2Fentabula) | v1.0.0 |  | Entabula, an entity-based admin panel, without any framework. Served by Laravel… |
-| 2026-10-03 20:51:58 | [ssmiff/entabula-laravel](https://www.nuget.org/packages/ssmiff%2Fentabula-laravel) | v1.0.1 |  | Serves the ssmiff/entabula entity-based admin panel, from Laravel, with Eloquen… |
-| 2026-10-03 20:51:58 | [ssmiff/entabula-mezzio](https://www.nuget.org/packages/ssmiff%2Fentabula-mezzio) | v1.0.1 |  | Serves the ssmiff/entabula entity-based admin panel, from Mezzio, with Doctrine… |
+| 2026-10-03 21:21:05 | [themusicdev/trailing-slash](https://www.nuget.org/packages/themusicdev%2Ftrailing-slash) | v1.0.0 | TheMusicDev | CakePHP 5 plugin: one middleware that 301-redirects trailing-slash URLs to the… |
+| 2026-10-03 21:41:38 | [marcinwolnyeu/slopshape-php](https://www.nuget.org/packages/marcinwolnyeu%2Fslopshape-php) | v1.0.0 | Marcin Wolny | Explainable AI text detector for PHP: scores how likely an English text is AI/L… |
+| 2026-10-03 22:02:16 | [ernestdefoe/folio](https://www.nuget.org/packages/ernestdefoe%2Ffolio) | 1.0.0 | Ernest Defoe | Export a Flarum discussion as a PDF, a Word document or Markdown — styled in th… |
+| 2026-10-03 22:04:55 | [lambda-twelve/one-record](https://www.nuget.org/packages/lambda-twelve%2Fone-record) | 1.0.0-beta1 | Nick Andriopoulos | A framework-agnostic PHP server (PSR-15) and client (PSR-18) implementation for… |
 
 ## Data source
 
