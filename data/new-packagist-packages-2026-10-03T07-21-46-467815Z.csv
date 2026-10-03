@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-03T06:35:53Z,itxshakil/laravel-form-shield,v1.0.1,Shakil Alam,"CAPTCHA-free spam scoring for Laravel forms: quarantine instead of reject, keep every verdict, and tune your rules against human-labelled data."
+2026-10-03T06:53:28Z,mage2kishan/module-theme-customizer,1.1.6,,"Hyva Theme Customizer - Backend-driven theme configuration with CSS custom properties, color management, typography, and Tailwind CSS integration."
+2026-10-03T07:15:43Z,php-bug-catcher/perf-collector,2.0.0-RC1,,"Per-request performance collector for Bug Catcher: an auto_prepend_file hook and a cron aggregator, with no PHP extension and no dependencies"

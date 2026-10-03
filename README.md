@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 06:19 UTC
+## Latest list — 2026-10-03 07:21 UTC
 
-New packages created between 2026-10-03 05:19 UTC and 2026-10-03 06:19 UTC.
+New packages created between 2026-10-03 06:19 UTC and 2026-10-03 07:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-03T06-19-25-269255Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-03T07-21-46-467815Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-03 05:32:48 | [asignua/filament-activity-log-plus](https://www.nuget.org/packages/asignua%2Ffilament-activity-log-plus) | v1.0.1 | Mykhailo Hladchenko | An audit trail for Filament 5 on top of spatie/laravel-activitylog 5: per-langu… |
-| 2026-10-03 05:39:22 | [mage2kishan/module-notification-bar](https://www.nuget.org/packages/mage2kishan%2Fmodule-notification-bar) | 1.0.16 | Kishan Savaliya | Panth Notification Bar — display customizable notification bars, promo banners,… |
+| 2026-10-03 06:35:53 | [itxshakil/laravel-form-shield](https://www.nuget.org/packages/itxshakil%2Flaravel-form-shield) | v1.0.1 | Shakil Alam | CAPTCHA-free spam scoring for Laravel forms: quarantine instead of reject, keep… |
+| 2026-10-03 06:53:28 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.6 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
+| 2026-10-03 07:15:43 | [php-bug-catcher/perf-collector](https://www.nuget.org/packages/php-bug-catcher%2Fperf-collector) | 2.0.0-RC1 |  | Per-request performance collector for Bug Catcher: an auto_prepend_file hook an… |
 
 ## Data source
 
