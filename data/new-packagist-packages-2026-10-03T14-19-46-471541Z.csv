@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-03T13:27:42Z,benargo/saloon-graphql,v0.1.0,Ben Argo,API-agnostic GraphQL layer for Saloon
+2026-10-03T13:41:29Z,mage2kishan/module-custom-options,1.0.11,Kishan Savaliya,"Panth Custom Options — beautifully styled product custom options for Hyva-based Magento 2 storefronts. Replaces the default custom options rendering with a modern, accessible UI featuring styled text inputs, textareas, file upload zones, select/radio/checkbox controls, and HTML5 date pickers, all g…"
+2026-10-03T13:58:08Z,lodestone/lodestone,v0.1.0-alpha.1,James Lomax,"Server-driven UI for Laravel admin panels. Build pages, tables, forms and buttons with PHP builders; Lodestone draws them with React and shadcn and calls your callbacks."
+2026-10-03T13:58:27Z,rondeto/jscontact,v0.1.0,Olivier Dolbeau,"JSContact (RFC 9553) for PHP: a typed contact model with JSON reading, writing and validation, and vCard to JSContact conversion both ways (RFC 9555) that keeps what it does not understand."
