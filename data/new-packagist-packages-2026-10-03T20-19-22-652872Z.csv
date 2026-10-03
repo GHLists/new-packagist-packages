@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-10-03T19:24:09Z,justinholtweb/craft-freeride,5.0.0,Justin Holt,"Free shipping rules for Craft Commerce — offer it, waive it, block it, and tell customers how far away they are from earning it."
+2026-10-03T19:26:05Z,liyang042218/hello-thinkphp8,v1.0.0,liyang042218,一个简单的 ThinkPHP8 Composer 学习包
+2026-10-03T19:27:17Z,mage2kishan/module-disable-wishlist-compare,1.0.12,,Disable Wishlist and Compare functionality across the entire Magento 2 frontend (works on Hyva and Luma).
+2026-10-03T19:33:20Z,ernestdefoe/chronicle,1.0.0,Ernest Defoe,"An Activity tab on every member's profile: the discussions they started, their replies, the posts they liked, their best answers and badges, newest first."
+2026-10-03T19:35:01Z,ernestdefoe/kindred,1.0.0,Ernest Defoe,"Similar discussions at the foot of every discussion, the way traditional forums keep readers on the site."
+2026-10-03T19:39:50Z,justinholtweb/craft-shipper,5.0.0,Justin Holt,"ShipStation integration for Craft Commerce — export orders, receive tracking, quote live carrier rates, and see every request in a log."
+2026-10-03T19:40:43Z,ernestdefoe/sheaf,1.0.0,Ernest Defoe,"Multi-quote for Flarum: collect quotes from several posts, even across discussions, then reply once with all of them."
+2026-10-03T19:49:51Z,ernestdefoe/rubric,1.0.0,Ernest Defoe,"Thread prefixes for Flarum 2: a short coloured label before a discussion's title — [Rumor], [Official], [Solved] — chosen when the discussion is started, separate from tags."
+2026-10-03T19:53:53Z,stewart-php/mqtt,v0.2.1,,"MQTT 3.1.1 client that connects Stewart apps to an MQTT server. Non-blocking, over amphp"
+2026-10-03T20:10:25Z,dekor/devio,v1.0.0,Denys,"Laravel-style dev & deploy scripts for Docker-based PHP projects: shell, SSH, Docker, notifications. Ships as a single phar."
+2026-10-03T20:11:27Z,justinholtweb/craft-friend,5.0.0,Justin Holt,"Every dead URL has a friend. When a page 404s, Friend finds the entry the visitor was probably after and sends them there — under rules you write, with a threshold you set, and a log of every guess it made."
