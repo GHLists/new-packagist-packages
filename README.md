@@ -15,31 +15,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 11:22 UTC
+## Latest list — 2026-10-03 12:22 UTC
 
-New packages created between 2026-10-03 10:19 UTC and 2026-10-03 11:22 UTC.
+New packages created between 2026-10-03 11:22 UTC and 2026-10-03 12:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-03T11-22-09-464779Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-03T12-22-24-743587Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-03 10:21:15 | [sashalenz/laravel-settings-ui](https://www.nuget.org/packages/sashalenz%2Flaravel-settings-ui) | v1.0.1 | Sasha Lenz | Declarative, nestable runtime settings for Laravel — fluent schema, pluggable s… |
-| 2026-10-03 10:42:37 | [mage2kishan/module-advanced-contact-us](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-contact-us) | 1.1.8 |  | Advanced Contact Us Page - Custom fields, bot protection, submission management… |
-| 2026-10-03 10:46:03 | [mage2kishan/module-dynamic-forms](https://www.nuget.org/packages/mage2kishan%2Fmodule-dynamic-forms) | 1.2.7 |  | Dynamic Forms module for Magento 2 - Create and manage custom forms with drag-a… |
-| 2026-10-03 10:48:59 | [mage2kishan/module-testimonials](https://www.nuget.org/packages/mage2kishan%2Fmodule-testimonials) | 1.2.8 |  | Advanced Testimonials module with slider, individual pages, categories, SEO, an… |
-| 2026-10-03 10:51:37 | [skom/stylex-connector](https://www.nuget.org/packages/skom%2Fstylex-connector) | 1.0.0 | Sven Kalbhenn | StyleX Connector - Bridges StyleX build-time CSS authoring with TYPO3 Fluid tem… |
-| 2026-10-03 10:51:57 | [mage2kishan/module-eu-withdrawal](https://www.nuget.org/packages/mage2kishan%2Fmodule-eu-withdrawal) | 1.1.7 | Kishan Savaliya | Panth EU Withdrawal Button - a clear, accessible digital withdrawal (cancellati… |
-| 2026-10-03 10:54:50 | [mage2kishan/module-whatsapp](https://www.nuget.org/packages/mage2kishan%2Fmodule-whatsapp) | 1.0.14 | Kishan Savaliya | WhatsApp Integration for Magento 2 — floating chat button, product page inquiry… |
-| 2026-10-03 10:57:43 | [mage2kishan/module-live-activity](https://www.nuget.org/packages/mage2kishan%2Fmodule-live-activity) | 1.0.13 | Kishan Savaliya | Live Activity & Social Proof notifications for Magento 2. Shows real-time custo… |
-| 2026-10-03 11:00:40 | [mage2kishan/module-notification-bar](https://www.nuget.org/packages/mage2kishan%2Fmodule-notification-bar) | 1.0.17 | Kishan Savaliya | Panth Notification Bar — display customizable notification bars, promo banners,… |
-| 2026-10-03 11:03:57 | [mage2kishan/module-price-drop-alert](https://www.nuget.org/packages/mage2kishan%2Fmodule-price-drop-alert) | 1.1.4 |  | Price Drop Alert module for Magento 2 - Allows customers to subscribe to price… |
-| 2026-10-03 11:06:58 | [mage2kishan/module-low-stock-notification](https://www.nuget.org/packages/mage2kishan%2Fmodule-low-stock-notification) | 1.1.4 |  | Magento 2 Low Stock Notification module - allows customers to subscribe for bac… |
-| 2026-10-03 11:09:50 | [mage2kishan/module-order-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-order-attachments) | 1.1.5 |  | Allows customers to attach files to order items |
-| 2026-10-03 11:12:36 | [mage2kishan/module-custom-options](https://www.nuget.org/packages/mage2kishan%2Fmodule-custom-options) | 1.0.10 | Kishan Savaliya | Panth Custom Options — beautifully styled product custom options for Hyva-based… |
-| 2026-10-03 11:15:04 | [tibor-src/xai-sdk-laravel](https://www.nuget.org/packages/tibor-src%2Fxai-sdk-laravel) | v0.2.1.1 |  | Unofficial Laravel integration for tibor-src/xai-sdk-php. |
-| 2026-10-03 11:15:25 | [mage2kishan/module-zipcode-validation](https://www.nuget.org/packages/mage2kishan%2Fmodule-zipcode-validation) | 1.1.2 | Kishan Savaliya | Panth ZipcodeValidation — validates ZIP/PIN codes at checkout against configura… |
-| 2026-10-03 11:16:03 | [hellozedofficial/cyber-theme-filament](https://www.nuget.org/packages/hellozedofficial%2Fcyber-theme-filament) | v1.0.0 | HelloZed | Cyber Glass theme and liquid UI enhancements for Filament PHP |
-| 2026-10-03 11:18:35 | [mage2kishan/module-faq](https://www.nuget.org/packages/mage2kishan%2Fmodule-faq) | 1.3.7 | Kishan Savaliya | Advanced FAQ Module with multi-level assignment capabilities |
+| 2026-10-03 11:22:14 | [skankydev/framework](https://www.nuget.org/packages/skankydev%2Fframework) | 0.1.0 | Skankydev | Un petit framework PHP MVC maison, pensé pour faire du CRUD sur MongoDB sans se… |
+| 2026-10-03 11:27:59 | [mage2kishan/module-search-autocomplete](https://www.nuget.org/packages/mage2kishan%2Fmodule-search-autocomplete) | 1.1.4 | Kishan Savaliya | Engine-agnostic, bot-hardened, cached search autocomplete for Magento 2 and Hyv… |
+| 2026-10-03 11:28:13 | [mrpunyapal/nativephp-plugin-turnstile](https://www.nuget.org/packages/mrpunyapal%2Fnativephp-plugin-turnstile) | v0.1.1 |  | Cloudflare Turnstile integration for Laravel and NativePHP Mobile. |
+| 2026-10-03 11:29:35 | [skankydev/starter](https://www.nuget.org/packages/skankydev%2Fstarter) | 0.1.0 | Skankydev | Le point de départ d'un projet SkankyDev : on clone, on install, on code. |
+| 2026-10-03 11:30:47 | [mage2kishan/module-quickview](https://www.nuget.org/packages/mage2kishan%2Fmodule-quickview) | 1.0.18 | Kishan Savaliya | Smart Quick View & Compare module for Magento 2 with Hyva theme support. Featur… |
+| 2026-10-03 11:31:56 | [webtigers/tld-rules](https://www.nuget.org/packages/webtigers%2Ftld-rules) | v1.0.0 | WebTigers | Zero-dependency catalog + query API of per-TLD domain-registration rules: requi… |
+| 2026-10-03 11:33:48 | [mage2kishan/module-productgallery](https://www.nuget.org/packages/mage2kishan%2Fmodule-productgallery) | 1.0.12 | Kishan Savaliya | Custom product image gallery for Magento 2 product detail pages. Features confi… |
+| 2026-10-03 11:37:12 | [mage2kishan/module-producttabs](https://www.nuget.org/packages/mage2kishan%2Fmodule-producttabs) | 1.1.5 | Kishan Savaliya | Product detail page tab customization for Magento 2. Supports horizontal/vertic… |
+| 2026-10-03 11:40:11 | [mage2kishan/module-banner-slider](https://www.nuget.org/packages/mage2kishan%2Fmodule-banner-slider) | 1.0.17 | Kishan Savaliya | Panth Banner Slider Module - Responsive banner slider widget with Luma and Hyva… |
+| 2026-10-03 11:43:04 | [mage2kishan/module-product-slider](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-slider) | 1.1.3 |  | Advanced Product Slider widget with extensive customization options for Magento… |
+| 2026-10-03 11:46:06 | [mage2kishan/module-smart-badge](https://www.nuget.org/packages/mage2kishan%2Fmodule-smart-badge) | 1.1.6 |  | Smart Product Badge & Label System - Automatically displays beautiful badges on… |
+| 2026-10-03 11:48:59 | [mage2kishan/module-whatsapp](https://www.nuget.org/packages/mage2kishan%2Fmodule-whatsapp) | 1.0.15 | Kishan Savaliya | WhatsApp Integration for Magento 2 — floating chat button, product page inquiry… |
+| 2026-10-03 11:51:59 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.9 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
+| 2026-10-03 11:55:36 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.9 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
 
 ## Data source
 

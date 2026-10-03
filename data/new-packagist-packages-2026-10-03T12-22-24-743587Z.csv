@@ -1,0 +1,15 @@
+created_at,package,version,author,description
+2026-10-03T11:22:14Z,skankydev/framework,0.1.0,Skankydev,"Un petit framework PHP MVC maison, pensé pour faire du CRUD sur MongoDB sans se prendre la tête."
+2026-10-03T11:27:59Z,mage2kishan/module-search-autocomplete,1.1.4,Kishan Savaliya,"Engine-agnostic, bot-hardened, cached search autocomplete for Magento 2 and Hyva. Searches products, categories and CMS pages via the configured Magento search engine (Elasticsearch 7 / 8 / OpenSearch / MySQL fallback). Includes 9 layers of bot protection, dynamic catalog-derived synonym matching,…"
+2026-10-03T11:28:13Z,mrpunyapal/nativephp-plugin-turnstile,v0.1.1,,Cloudflare Turnstile integration for Laravel and NativePHP Mobile.
+2026-10-03T11:29:35Z,skankydev/starter,0.1.0,Skankydev,"Le point de départ d'un projet SkankyDev : on clone, on install, on code."
+2026-10-03T11:30:47Z,mage2kishan/module-quickview,1.0.18,Kishan Savaliya,"Smart Quick View & Compare module for Magento 2 with Hyva theme support. Features: Quick View Modal, Product Comparison, Recently Viewed Products"
+2026-10-03T11:31:56Z,webtigers/tld-rules,v1.0.0,WebTigers,"Zero-dependency catalog + query API of per-TLD domain-registration rules: required registrant extended attributes (OpenSRS tld_data), WHOIS-privacy availability, and registration-period bounds. Language-neutral JSON data included."
+2026-10-03T11:33:48Z,mage2kishan/module-productgallery,1.0.12,Kishan Savaliya,"Custom product image gallery for Magento 2 product detail pages. Features configurable thumbnail layouts (horizontal, vertical, grid), image zoom (inner/lens), fullscreen lightbox, and responsive navigation. Compatible with Hyva and Luma themes."
+2026-10-03T11:37:12Z,mage2kishan/module-producttabs,1.1.5,Kishan Savaliya,"Product detail page tab customization for Magento 2. Supports horizontal/vertical tab styles, fade/slide/none animations, and mobile accordion. Compatible with Hyva and Luma themes."
+2026-10-03T11:40:11Z,mage2kishan/module-banner-slider,1.0.17,Kishan Savaliya,Panth Banner Slider Module - Responsive banner slider widget with Luma and Hyva theme support
+2026-10-03T11:43:04Z,mage2kishan/module-product-slider,1.1.3,,Advanced Product Slider widget with extensive customization options for Magento 2
+2026-10-03T11:46:06Z,mage2kishan/module-smart-badge,1.1.6,,Smart Product Badge & Label System - Automatically displays beautiful badges on products to increase urgency and conversions
+2026-10-03T11:48:59Z,mage2kishan/module-whatsapp,1.0.15,Kishan Savaliya,"WhatsApp Integration for Magento 2 — floating chat button, product page inquiry button, and category page assistance banner. Supports Hyva and Luma themes with CSS variable-based styling."
+2026-10-03T11:51:59Z,mage2kishan/module-theme-customizer,1.1.9,,"Hyva Theme Customizer - Backend-driven theme configuration with CSS custom properties, color management, typography, and Tailwind CSS integration."
+2026-10-03T11:55:36Z,mage2kishan/theme-frontend-panth-infotech,1.0.9,Kishan Savaliya,"Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent theme."
