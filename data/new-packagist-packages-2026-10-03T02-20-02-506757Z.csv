@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-03T01:48:11Z,invoka/sdk,v1.0.0,Invoka,"SDK oficial de PHP para la API de Invoka: facturación electrónica del SRI de Ecuador para programadores (emisión de comprobantes, consulta y descarga, consultas al SRI, créditos, empresas y webhooks)."

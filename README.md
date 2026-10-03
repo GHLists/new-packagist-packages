@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 00:21 UTC
+## Latest list — 2026-10-03 02:20 UTC
 
-New packages created between 2026-10-02 23:21 UTC and 2026-10-03 00:21 UTC.
+New packages created between 2026-10-03 01:19 UTC and 2026-10-03 02:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-03T00-21-04-929603Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-03T02-20-02-506757Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-02 23:42:00 | [edulazaro/larasearch](https://www.nuget.org/packages/edulazaro%2Flarasearch) | 1.0.0 | Edu Lazaro | Text search for Eloquent models on your own database: a normalized search_text… |
-| 2026-10-02 23:48:01 | [ernestdefoe/ladder](https://www.nuget.org/packages/ernestdefoe%2Fladder) | 1.0.0 | Ernest Defoe | Post-count ranks for Flarum. Members climb a ladder of groups, and hold exactly… |
+| 2026-10-03 01:48:11 | [invoka/sdk](https://www.nuget.org/packages/invoka%2Fsdk) | v1.0.0 | Invoka | SDK oficial de PHP para la API de Invoka: facturación electrónica del SRI de Ec… |
 
 ## Data source
 
