@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 22:20 UTC
+## Latest list — 2026-10-03 23:20 UTC
 
-New packages created between 2026-10-03 21:20 UTC and 2026-10-03 22:20 UTC.
+New packages created between 2026-10-03 22:20 UTC and 2026-10-03 23:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-03T22-20-04-418615Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-03T23-20-02-20061Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-03 21:21:05 | [themusicdev/trailing-slash](https://www.nuget.org/packages/themusicdev%2Ftrailing-slash) | v1.0.0 | TheMusicDev | CakePHP 5 plugin: one middleware that 301-redirects trailing-slash URLs to the… |
-| 2026-10-03 21:41:38 | [marcinwolnyeu/slopshape-php](https://www.nuget.org/packages/marcinwolnyeu%2Fslopshape-php) | v1.0.0 | Marcin Wolny | Explainable AI text detector for PHP: scores how likely an English text is AI/L… |
-| 2026-10-03 22:02:16 | [ernestdefoe/folio](https://www.nuget.org/packages/ernestdefoe%2Ffolio) | 1.0.0 | Ernest Defoe | Export a Flarum discussion as a PDF, a Word document or Markdown — styled in th… |
-| 2026-10-03 22:04:55 | [lambda-twelve/one-record](https://www.nuget.org/packages/lambda-twelve%2Fone-record) | 1.0.0-beta1 | Nick Andriopoulos | A framework-agnostic PHP server (PSR-15) and client (PSR-18) implementation for… |
+| 2026-10-03 22:42:26 | [justinholtweb/craft-jack](https://www.nuget.org/packages/justinholtweb%2Fcraft-jack) | 5.0.0 | Justin Holt | Legal texts for Craft CMS — imprint, privacy policy, cookies and terms, generat… |
+| 2026-10-03 23:06:14 | [ernestdefoe/gatehouse](https://www.nuget.org/packages/ernestdefoe%2Fgatehouse) | 1.0.0 | Ernest Defoe | Approve new members before they get in: sign-ups from addresses you trust activ… |
 
 ## Data source
 

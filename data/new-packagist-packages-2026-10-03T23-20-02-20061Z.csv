@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-03T22:42:26Z,justinholtweb/craft-jack,5.0.0,Justin Holt,"Legal texts for Craft CMS — imprint, privacy policy, cookies and terms, generated from the facts about your site and kept current as the law moves."
+2026-10-03T23:06:14Z,ernestdefoe/gatehouse,1.0.0,Ernest Defoe,"Approve new members before they get in: sign-ups from addresses you trust activate as normal, everyone else waits in a queue for an admin to approve or decline."
