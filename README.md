@@ -15,25 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 20:19 UTC
+## Latest list — 2026-10-03 21:20 UTC
 
-New packages created between 2026-10-03 19:21 UTC and 2026-10-03 20:19 UTC.
+New packages created between 2026-10-03 20:19 UTC and 2026-10-03 21:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-03T20-19-22-652872Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-03T21-20-52-312094Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-03 19:24:09 | [justinholtweb/craft-freeride](https://www.nuget.org/packages/justinholtweb%2Fcraft-freeride) | 5.0.0 | Justin Holt | Free shipping rules for Craft Commerce — offer it, waive it, block it, and tell… |
-| 2026-10-03 19:26:05 | [liyang042218/hello-thinkphp8](https://www.nuget.org/packages/liyang042218%2Fhello-thinkphp8) | v1.0.0 | liyang042218 | 一个简单的 ThinkPHP8 Composer 学习包 |
-| 2026-10-03 19:27:17 | [mage2kishan/module-disable-wishlist-compare](https://www.nuget.org/packages/mage2kishan%2Fmodule-disable-wishlist-compare) | 1.0.12 |  | Disable Wishlist and Compare functionality across the entire Magento 2 frontend… |
-| 2026-10-03 19:33:20 | [ernestdefoe/chronicle](https://www.nuget.org/packages/ernestdefoe%2Fchronicle) | 1.0.0 | Ernest Defoe | An Activity tab on every member's profile: the discussions they started, their… |
-| 2026-10-03 19:35:01 | [ernestdefoe/kindred](https://www.nuget.org/packages/ernestdefoe%2Fkindred) | 1.0.0 | Ernest Defoe | Similar discussions at the foot of every discussion, the way traditional forums… |
-| 2026-10-03 19:39:50 | [justinholtweb/craft-shipper](https://www.nuget.org/packages/justinholtweb%2Fcraft-shipper) | 5.0.0 | Justin Holt | ShipStation integration for Craft Commerce — export orders, receive tracking, q… |
-| 2026-10-03 19:40:43 | [ernestdefoe/sheaf](https://www.nuget.org/packages/ernestdefoe%2Fsheaf) | 1.0.0 | Ernest Defoe | Multi-quote for Flarum: collect quotes from several posts, even across discussi… |
-| 2026-10-03 19:49:51 | [ernestdefoe/rubric](https://www.nuget.org/packages/ernestdefoe%2Frubric) | 1.0.0 | Ernest Defoe | Thread prefixes for Flarum 2: a short coloured label before a discussion's titl… |
-| 2026-10-03 19:53:53 | [stewart-php/mqtt](https://www.nuget.org/packages/stewart-php%2Fmqtt) | v0.2.1 |  | MQTT 3.1.1 client that connects Stewart apps to an MQTT server. Non-blocking, o… |
-| 2026-10-03 20:10:25 | [dekor/devio](https://www.nuget.org/packages/dekor%2Fdevio) | v1.0.0 | Denys | Laravel-style dev & deploy scripts for Docker-based PHP projects: shell, SSH, D… |
-| 2026-10-03 20:11:27 | [justinholtweb/craft-friend](https://www.nuget.org/packages/justinholtweb%2Fcraft-friend) | 5.0.0 | Justin Holt | Every dead URL has a friend. When a page 404s, Friend finds the entry the visit… |
+| 2026-10-03 20:30:59 | [formatsoft/content-reminder](https://www.nuget.org/packages/formatsoft%2Fcontent-reminder) | 0.1.0 | Andreas Kessel, format Softwa… | Content Reminder - Reminders for TYPO3 pages: due dates, recurrence, assignment… |
+| 2026-10-03 20:44:15 | [26b/joiner](https://www.nuget.org/packages/26b%2Fjoiner) | 1.0.0 |  | Join strings with conditional values |
+| 2026-10-03 20:51:03 | [ijeffro/laralocker](https://www.nuget.org/packages/ijeffro%2Flaralocker) | v3.0.0 | Phil Graham | A Laravel API connector for Learning Locker®, the open-source Learning Record S… |
+| 2026-10-03 20:51:58 | [ssmiff/entabula](https://www.nuget.org/packages/ssmiff%2Fentabula) | v1.0.0 |  | Entabula, an entity-based admin panel, without any framework. Served by Laravel… |
+| 2026-10-03 20:51:58 | [ssmiff/entabula-laravel](https://www.nuget.org/packages/ssmiff%2Fentabula-laravel) | v1.0.1 |  | Serves the ssmiff/entabula entity-based admin panel, from Laravel, with Eloquen… |
+| 2026-10-03 20:51:58 | [ssmiff/entabula-mezzio](https://www.nuget.org/packages/ssmiff%2Fentabula-mezzio) | v1.0.1 |  | Serves the ssmiff/entabula entity-based admin panel, from Mezzio, with Doctrine… |
 
 ## Data source
 
