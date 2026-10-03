@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 04:21 UTC
+## Latest list — 2026-10-03 05:19 UTC
 
-New packages created between 2026-10-03 03:21 UTC and 2026-10-03 04:21 UTC.
+New packages created between 2026-10-03 04:21 UTC and 2026-10-03 05:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-03T04-21-50-868546Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-03T05-19-29-529376Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-03 03:35:21 | [migears/wiring](https://www.nuget.org/packages/migears%2Fwiring) | 2.0.0 | Sam X. Xu | Config-driven container wiring — load a PHP array of factories and register it… |
-| 2026-10-03 04:07:58 | [blutrixx/nativephp-pdf-viewer](https://www.nuget.org/packages/blutrixx%2Fnativephp-pdf-viewer) | v0.1.0 |  | PDF preview and native sharing for NativePHP Mobile applications |
+| 2026-10-03 04:41:22 | [bagoespantera/laravel-cron-mailer](https://www.nuget.org/packages/bagoespantera%2Flaravel-cron-mailer) | 1.0.0 |  | Queue e-mails into the database and deliver them from a scheduled console worke… |
+| 2026-10-03 04:50:40 | [adt/request-logger](https://www.nuget.org/packages/adt%2Frequest-logger) | v1.0 | Apps Dev Team | Logs HTTP requests (and optionally responses) of a Nette application into reque… |
 
 ## Data source
 
