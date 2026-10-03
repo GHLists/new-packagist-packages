@@ -15,37 +15,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 18:20 UTC
+## Latest list — 2026-10-03 19:21 UTC
 
-New packages created between 2026-10-03 17:20 UTC and 2026-10-03 18:20 UTC.
+New packages created between 2026-10-03 18:20 UTC and 2026-10-03 19:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-03T18-20-00-775777Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-03T19-21-28-965532Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-03 17:32:53 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.10 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
-| 2026-10-03 17:43:28 | [justinholtweb/craft-subscribr](https://www.nuget.org/packages/justinholtweb%2Fcraft-subscribr) | 5.0.0 | Justin Holt | Recurring commerce for Craft — subscription boxes, skip/pause/swap, prepaid and… |
-| 2026-10-03 17:47:10 | [roundly-consulting/package-toolkit-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fpackage-toolkit-for-laravel) | 1.0.0 | Andrej Mihaliak | A native, dependency-free toolkit for building Laravel packages: a fluent packa… |
-| 2026-10-03 17:48:09 | [roundly-consulting/enums-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fenums-for-laravel) | 1.0.0 | Andrej Mihaliak | Convenient helper methods for PHP enums in Laravel applications |
-| 2026-10-03 17:48:50 | [mage2kishan/module-footer](https://www.nuget.org/packages/mage2kishan%2Fmodule-footer) | 1.0.14 | Kishan Savaliya | Panth Footer — configurable footer module for Magento 2 with Hyva and Luma them… |
-| 2026-10-03 17:54:46 | [roundly-consulting/http-client-rate-limits-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fhttp-client-rate-limits-for-laravel) | 1.0.0 | Andrej Mihaliak | Rate limit outgoing requests made with Laravel's HTTP client |
-| 2026-10-03 17:54:51 | [roundly-consulting/approvals-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fapprovals-for-laravel) | 1.0.0 | Andrej Mihaliak | Record polymorphic approvals between Eloquent models for Laravel. |
-| 2026-10-03 17:55:09 | [roundly-consulting/money-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fmoney-for-laravel) | 1.0.0 | Andrej Mihaliak | Immutable arbitrary-precision Money and Currency value objects for Laravel: ISO… |
-| 2026-10-03 17:55:11 | [roundly-consulting/sluggable-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fsluggable-for-laravel) | 1.0.0 | Andrej Mihaliak | Single- and multi-language (json/jsonb locale-map) slugs for Eloquent: multiple… |
-| 2026-10-03 17:55:36 | [roundly-consulting/addresses-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Faddresses-for-laravel) | 1.0.0 | Andrej Mihaliak | Store billing, shipping, or other addresses on any Eloquent model via a polymor… |
-| 2026-10-03 17:56:04 | [roundly-consulting/connections-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fconnections-for-laravel) | 1.0.0 | Andrej Mihaliak | Many-to-many connections between Eloquent models with permissions and expiratio… |
-| 2026-10-03 17:56:05 | [roundly-consulting/likes-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Flikes-for-laravel) | 1.0.0 | Andrej Mihaliak | Lightweight Laravel package to handle likes on entities |
-| 2026-10-03 17:56:20 | [roundly-consulting/options-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Foptions-for-laravel) | 1.0.0 | Andrej Mihaliak | Manage global or per-entity options and preferences with typed casts and in-req… |
-| 2026-10-03 17:56:33 | [roundly-consulting/media-library-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fmedia-library-for-laravel) | 1.0.0 | Andrej Mihaliak | Native Laravel media library: polymorphic media buckets, multi-disk storage, an… |
-| 2026-10-03 17:56:35 | [roundly-consulting/alerts-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Falerts-for-laravel) | 1.0.0 | Andrej Mihaliak | Schedule recurring health checks against any notifiable model, send throttled a… |
-| 2026-10-03 17:56:57 | [roundly-consulting/onboarding-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fonboarding-for-laravel) | 1.0.0 | Andrej Mihaliak | Define and track multiple onboarding flows for your Laravel application. |
-| 2026-10-03 17:57:08 | [roundly-consulting/metrics-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fmetrics-for-laravel) | 1.0.0 | Andrej Mihaliak | Calculate value, trend, progress, and partition metrics from any Eloquent query. |
-| 2026-10-03 17:57:31 | [roundly-consulting/query-builder-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fquery-builder-for-laravel) | 1.0.0 | Andrej Mihaliak | Native, allow-list-driven filter, sort and pagination for Laravel API list endp… |
-| 2026-10-03 17:57:42 | [roundly-consulting/lifecycle-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Flifecycle-for-laravel) | 1.0.0 | Andrej Mihaliak | Status lifecycles for Eloquent models: guarded named transitions, limits and qu… |
-| 2026-10-03 17:57:56 | [roundly-consulting/opening-hours-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fopening-hours-for-laravel) | 1.0.0 | Andrej Mihaliak | Opening hours, seasonal schedules, exceptions and bookable availability for any… |
-| 2026-10-03 17:58:00 | [roundly-consulting/crypto-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fcrypto-for-laravel) | 1.0.0 | Andrej Mihaliak | Native, audited cryptographic and encoding primitives for Laravel: JWS/JOSE, TO… |
-| 2026-10-03 17:58:24 | [roundly-consulting/trading-analytics-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Ftrading-analytics-for-laravel) | 1.0.0 | Andrej Mihaliak | Calculate trading performance analytics — P&L, returns, streaks, profit factor… |
-| 2026-10-03 18:18:52 | [mage2kishan/module-whatsapp](https://www.nuget.org/packages/mage2kishan%2Fmodule-whatsapp) | 1.0.16 | Kishan Savaliya | WhatsApp Integration for Magento 2 — floating chat button, product page inquiry… |
+| 2026-10-03 18:22:26 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.11 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
+| 2026-10-03 18:24:00 | [vivutio/devkit-module](https://www.nuget.org/packages/vivutio%2Fdevkit-module) | v0.1.0 | Ezekiel Mjema | The vivutio development kit: the fleet gate, which creates a project from the s… |
+| 2026-10-03 18:24:50 | [vivutio/vivutio](https://www.nuget.org/packages/vivutio%2Fvivutio) | v0.1.2 | Ezekiel Mjema | The vivutio core: identity, the shell, the registry, places, partners and the h… |
+| 2026-10-03 18:25:48 | [basekit-laravel/basekit-laravel-slugs](https://www.nuget.org/packages/basekit-laravel%2Fbasekit-laravel-slugs) | v1.0.0 | Gergő Tar | Slugs and localized slugs for Basekit Laravel — deterministic slug generation,… |
+| 2026-10-03 18:26:12 | [vivutio/skeleton](https://www.nuget.org/packages/vivutio%2Fskeleton) | v0.1.0 | Ezekiel Mjema | An empty vivutio installation: the core and nothing else, the same for every su… |
+| 2026-10-03 18:26:39 | [actinc/cyberbiz-sdk](https://www.nuget.org/packages/actinc%2Fcyberbiz-sdk) | v0.1.0 |  | PHP client for the CYBERBIZ e-commerce platform API |
+| 2026-10-03 18:29:56 | [roundly-consulting/passkeys-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fpasskeys-for-laravel) | 1.0.0 | Andrej Mihaliak | A native WebAuthn / FIDO2 passkey relying party for Laravel — registration and… |
+| 2026-10-03 18:36:13 | [betocampoy/champs-onboarding](https://www.nuget.org/packages/betocampoy%2Fchamps-onboarding) | v0.1.0 | Beto Campoy | Onboarding guiado (tours de interface) para projetos Symfony, integrado ao cham… |
+| 2026-10-03 18:39:19 | [roundly-consulting/campaigns-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fcampaigns-for-laravel) | 1.0.0 | Andrej Mihaliak | Send campaigns to multiple recipients |
+| 2026-10-03 18:39:30 | [roundly-consulting/appointments-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fappointments-for-laravel) | 1.0.0 | Andrej Mihaliak | Laravel package to manage appointments between entities. |
+| 2026-10-03 18:39:31 | [roundly-consulting/advertisements-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fadvertisements-for-laravel) | 1.0.0 | Andrej Mihaliak | Manage advertisements, placements, and pricing for Laravel applications. |
+| 2026-10-03 18:39:32 | [roundly-consulting/comments-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fcomments-for-laravel) | 1.0.0 | Andrej Mihaliak | Attach polymorphic comments to any Laravel model |
+| 2026-10-03 18:40:24 | [roundly-consulting/google-places-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fgoogle-places-for-laravel) | 1.0.0 | Andrej Mihaliak | Query the Google Places API — place details, autocomplete, reverse geocoding, a… |
+| 2026-10-03 18:40:28 | [roundly-consulting/forms-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fforms-for-laravel) | 1.0.0 | Andrej Mihaliak | Manage form structures, fields, and submissions in the database. |
+| 2026-10-03 18:40:29 | [roundly-consulting/permissions-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fpermissions-for-laravel) | 1.0.0 | Andrej Mihaliak | Native roles & permissions for Laravel — single-guard, cache-backed, additive-g… |
+| 2026-10-03 18:40:51 | [roundly-consulting/posts-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fposts-for-laravel) | 1.0.0 | Andrej Mihaliak | A modern, multilingual, SEO-ready blog/posts engine for Laravel with translatab… |
+| 2026-10-03 18:41:26 | [roundly-consulting/auth-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fauth-for-laravel) | 1.0.0 | Andrej Mihaliak | Headless multi-guard authentication for Laravel: password, magic link, email OT… |
+| 2026-10-03 18:42:05 | [roundly-consulting/teams-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fteams-for-laravel) | 1.0.0 | Andrej Mihaliak | Associate users with teams, roles, permissions, and invitations in Laravel. |
+| 2026-10-03 18:42:29 | [roundly-consulting/shops-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fshops-for-laravel) | 1.0.0 | Andrej Mihaliak | Manage single or multiple shops with products, categories, and orders in Larave… |
+| 2026-10-03 18:46:23 | [thomsontochi/laravel-agent-loops](https://www.nuget.org/packages/thomsontochi%2Flaravel-agent-loops) | v0.1.0 | Austin Opia | A Laravel agent harness with swappable loops. Pick how your AI agent thinks, sw… |
+| 2026-10-03 18:51:56 | [stanislas-poisson/php-dev-tools](https://www.nuget.org/packages/stanislas-poisson%2Fphp-dev-tools) | 0.1.0 | Stanislas Poisson | The quality tools of the zairakai PHP projects, without Laravel: Pint, PHPStan,… |
+| 2026-10-03 18:59:05 | [arzcode/shared-secrets](https://www.nuget.org/packages/arzcode%2Fshared-secrets) | 1.0.0 | Alicia | Share passwords and secrets from your Filament panel through self-destructing s… |
+| 2026-10-03 19:01:31 | [kevinpirnie/kpt-router](https://www.nuget.org/packages/kevinpirnie%2Fkpt-router) | v1.0.53 | Kevin Pirnie | A comprehensive PHP routing library with middleware support, rate limiting, vie… |
+| 2026-10-03 19:05:30 | [mage2kishan/module-advancedcart](https://www.nuget.org/packages/mage2kishan%2Fmodule-advancedcart) | 1.0.16 |  | Advanced Cart Page Enhancements - Free shipping bar, qty buttons, trust badges,… |
+| 2026-10-03 19:09:05 | [adeshsuryan/laravel-otp-login](https://www.nuget.org/packages/adeshsuryan%2Flaravel-otp-login) | 12.0.3 | Adesh Kumar | Adds a one-time password step after Laravel login, with pluggable SMS, mail, lo… |
+| 2026-10-03 19:17:34 | [justinholtweb/craft-fold](https://www.nuget.org/packages/justinholtweb%2Fcraft-fold) | 5.0.0 | Justin Holt | A store locator for Craft CMS — mapped, searchable store locations with opening… |
 
 ## Data source
 

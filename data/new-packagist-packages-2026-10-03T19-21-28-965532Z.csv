@@ -1,0 +1,27 @@
+created_at,package,version,author,description
+2026-10-03T18:22:26Z,mage2kishan/theme-frontend-panth-infotech,1.0.11,Kishan Savaliya,"Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent theme."
+2026-10-03T18:24:00Z,vivutio/devkit-module,v0.1.0,Ezekiel Mjema,"The vivutio development kit: the fleet gate, which creates a project from the skeleton and proves the platform installs and runs as one product. Development only."
+2026-10-03T18:24:50Z,vivutio/vivutio,v0.1.2,Ezekiel Mjema,"The vivutio core: identity, the shell, the registry, places, partners and the hub connection, shipped as one package and one version."
+2026-10-03T18:25:48Z,basekit-laravel/basekit-laravel-slugs,v1.0.0,Gergő Tar,"Slugs and localized slugs for Basekit Laravel — deterministic slug generation, normalization and validation plus a reusable Eloquent trait that any model (Page, Post, Product, ...) can opt into."
+2026-10-03T18:26:12Z,vivutio/skeleton,v0.1.0,Ezekiel Mjema,"An empty vivutio installation: the core and nothing else, the same for every supplier, operator and agent. Add the modules that apply to you."
+2026-10-03T18:26:39Z,actinc/cyberbiz-sdk,v0.1.0,,PHP client for the CYBERBIZ e-commerce platform API
+2026-10-03T18:29:56Z,roundly-consulting/passkeys-for-laravel,1.0.0,Andrej Mihaliak,"A native WebAuthn / FIDO2 passkey relying party for Laravel — registration and authentication ceremonies with ES256/RS256/EdDSA, zero third-party crypto dependencies."
+2026-10-03T18:36:13Z,betocampoy/champs-onboarding,v0.1.0,Beto Campoy,"Onboarding guiado (tours de interface) para projetos Symfony, integrado ao champs-frontend."
+2026-10-03T18:39:19Z,roundly-consulting/campaigns-for-laravel,1.0.0,Andrej Mihaliak,Send campaigns to multiple recipients
+2026-10-03T18:39:30Z,roundly-consulting/appointments-for-laravel,1.0.0,Andrej Mihaliak,Laravel package to manage appointments between entities.
+2026-10-03T18:39:31Z,roundly-consulting/advertisements-for-laravel,1.0.0,Andrej Mihaliak,"Manage advertisements, placements, and pricing for Laravel applications."
+2026-10-03T18:39:32Z,roundly-consulting/comments-for-laravel,1.0.0,Andrej Mihaliak,Attach polymorphic comments to any Laravel model
+2026-10-03T18:40:24Z,roundly-consulting/google-places-for-laravel,1.0.0,Andrej Mihaliak,"Query the Google Places API — place details, autocomplete, reverse geocoding, and distance matrix — from Laravel."
+2026-10-03T18:40:28Z,roundly-consulting/forms-for-laravel,1.0.0,Andrej Mihaliak,"Manage form structures, fields, and submissions in the database."
+2026-10-03T18:40:29Z,roundly-consulting/permissions-for-laravel,1.0.0,Andrej Mihaliak,"Native roles & permissions for Laravel — single-guard, cache-backed, additive-grant registry with Gate integration and zero third-party runtime deps."
+2026-10-03T18:40:51Z,roundly-consulting/posts-for-laravel,1.0.0,Andrej Mihaliak,"A modern, multilingual, SEO-ready blog/posts engine for Laravel with translatable content, a publishing lifecycle, categories, and tags."
+2026-10-03T18:41:26Z,roundly-consulting/auth-for-laravel,1.0.0,Andrej Mihaliak,"Headless multi-guard authentication for Laravel: password, magic link, email OTP and passkey login, 2FA challenges, JWT + rotating refresh sessions, invitations, verification and activity logging."
+2026-10-03T18:42:05Z,roundly-consulting/teams-for-laravel,1.0.0,Andrej Mihaliak,"Associate users with teams, roles, permissions, and invitations in Laravel."
+2026-10-03T18:42:29Z,roundly-consulting/shops-for-laravel,1.0.0,Andrej Mihaliak,"Manage single or multiple shops with products, categories, and orders in Laravel."
+2026-10-03T18:46:23Z,thomsontochi/laravel-agent-loops,v0.1.0,Austin Opia,"A Laravel agent harness with swappable loops. Pick how your AI agent thinks, switch with one line, compare which works best."
+2026-10-03T18:51:56Z,stanislas-poisson/php-dev-tools,0.1.0,Stanislas Poisson,"The quality tools of the zairakai PHP projects, without Laravel: Pint, PHPStan, Rector, PHP Insights, markdownlint and the Git hooks, as a base that a project extends."
+2026-10-03T18:59:05Z,arzcode/shared-secrets,1.0.0,Alicia,Share passwords and secrets from your Filament panel through self-destructing signed links.
+2026-10-03T19:01:31Z,kevinpirnie/kpt-router,v1.0.53,Kevin Pirnie,"A comprehensive PHP routing library with middleware support, rate limiting, view rendering, and controller resolution capabilities"
+2026-10-03T19:05:30Z,mage2kishan/module-advancedcart,1.0.16,,"Advanced Cart Page Enhancements - Free shipping bar, qty buttons, trust badges, order notes, savings display, estimated delivery"
+2026-10-03T19:09:05Z,adeshsuryan/laravel-otp-login,12.0.3,Adesh Kumar,"Adds a one-time password step after Laravel login, with pluggable SMS, mail, log, and array channels."
+2026-10-03T19:17:34Z,justinholtweb/craft-fold,5.0.0,Justin Holt,"A store locator for Craft CMS — mapped, searchable store locations with opening hours, radius search, and Craft Commerce inventory awareness."
