@@ -1,0 +1,19 @@
+created_at,package,version,author,description
+2026-10-03T12:27:59Z,nerova/sdk,v0.3.0-beta.2,Nerova Systems,Server-side PHP client for the Nerova stable tenant-v1 API.
+2026-10-03T12:29:50Z,golo/symfony-anthropic-wrapper,v0.1.1,Barry O'Neil,"Symfony bundle for the official Anthropic PHP SDK: YAML-configured defaults, per-model options and presets, plus a profiler panel for every Claude call."
+2026-10-03T12:32:10Z,wp-alchemist/framework,v0.1.0,,"Runtime helpers for WordPress plugins scaffolded with wp-alchemist: lifecycle, modules, REST routing, Vite assets, migrations, settings and support helpers."
+2026-10-03T12:35:03Z,stewart-php/client,v0.1.0,,Home Assistant WebSocket client. Usable on its own
+2026-10-03T12:35:07Z,stewart-php/support,v0.1.0,,Framework-internal helpers shared by the Stewart packages. Not part of the app-facing API
+2026-10-03T12:35:16Z,stewart-php/skeleton,v0.1.0,,A new Stewart project: Home Assistant automations in PHP
+2026-10-03T12:35:21Z,stewart-php/store,v0.1.0,,"Scoping, encoding and hydration for Stewart's key-value storage. Backend-agnostic"
+2026-10-03T12:35:25Z,stewart-php/testing,v0.1.0,,"Shared test doubles for the Stewart packages. A development dependency, not part of the app-facing API"
+2026-10-03T12:35:42Z,stewart-php/contracts,v0.1.0,,Stewart core abstractions. Pure PHP and one cron parser
+2026-10-03T12:35:53Z,stewart-php/runtime,v0.1.0,,"Stewart broker, workers and the channel protocol between them."
+2026-10-03T12:35:54Z,stewart-php/store-redis,v0.1.0,,"Redis backend for Stewart's key-value storage. Non-blocking, over amphp"
+2026-10-03T12:36:08Z,stewart-php/codegen,v0.1.0,,Generates typed entity and service classes from a Home Assistant instance
+2026-10-03T12:38:32Z,mage2kishan/module-core,1.2.5,Kishan Savaliya,"Panth Core - base module providing shared utilities, admin configuration helpers, the optional ThemeBuildExecutorInterface contract, and the panth_modules registry used by every other Panth extension. Required dependency for all Panth Infotech extensions on the Magento Marketplace."
+2026-10-03T12:44:17Z,maatify/php-i18n,v1.0.0-rc.1,Maatify,"Database-driven internationalization library for structured translation keys, exact language scopes, governance, and MySQL persistence."
+2026-10-03T13:00:56Z,sahicheck/sahicheck-php,v0.1.0,SahiCheck,Official PHP SDK for the SahiCheck verification API
+2026-10-03T13:09:48Z,makallio85/cakephp-sso,v1.0.0,Marko Kallio,CakePHP 5 plugin that signs users in through the central Rock Software identity provider (OpenID Connect).
+2026-10-03T13:17:31Z,mage2kishan/module-malware-scanner,1.3.6,Kishan Savaliya,"Active malware prevention + on-disk scanner for Magento 2. Three real-time guards (REST API, universal upload, custom-options) block PolyShell webshells, polyglot files and PHP-object-injection payloads BEFORE they touch disk. A nightly recursive scanner finds anything that slipped through, auto-qu…"
+2026-10-03T13:20:03Z,mage2kishan/module-order-attachments,1.1.6,,Allows customers to attach files to order items
