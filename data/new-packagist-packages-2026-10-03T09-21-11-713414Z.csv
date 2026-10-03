@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-03T08:43:28Z,mage2kishan/module-theme-customizer,1.1.7,,"Hyva Theme Customizer - Backend-driven theme configuration with CSS custom properties, color management, typography, and Tailwind CSS integration."
+2026-10-03T08:43:44Z,yasser-elgammal/tabby-php,v1.0.0,,"A production-ready, framework-agnostic PHP SDK for Tabby."
+2026-10-03T09:03:34Z,mage2kishan/module-smart-badge,1.1.5,,Smart Product Badge & Label System - Automatically displays beautiful badges on products to increase urgency and conversions
+2026-10-03T09:07:00Z,mage2kishan/module-advancedcart,1.0.14,,"Advanced Cart Page Enhancements - Free shipping bar, qty buttons, trust badges, order notes, savings display, estimated delivery"
+2026-10-03T09:13:19Z,debug404/laravel-ranker,v1.0.0,debug404,High-performance Eloquent drag-and-drop item sorting and reordering package for Laravel.

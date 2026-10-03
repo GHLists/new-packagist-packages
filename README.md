@@ -15,22 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 08:21 UTC
+## Latest list — 2026-10-03 09:21 UTC
 
-New packages created between 2026-10-03 07:21 UTC and 2026-10-03 08:21 UTC.
+New packages created between 2026-10-03 08:21 UTC and 2026-10-03 09:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-03T08-21-54-043032Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-03T09-21-11-713414Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-03 07:21:54 | [php-bug-catcher/perf-collector-bundle](https://www.nuget.org/packages/php-bug-catcher%2Fperf-collector-bundle) | v2.0.0-RC2 |  | Symfony integration for the Bug Catcher performance collector: the aggregator a… |
-| 2026-10-03 07:29:58 | [tilscn/laravel](https://www.nuget.org/packages/tilscn%2Flaravel) | 1.0.0 | tilscn | A Laravel package for various utilities. |
-| 2026-10-03 07:31:31 | [corvus-dotnet/corvus-json-schema](https://www.nuget.org/packages/corvus-dotnet%2Fcorvus-json-schema) | 0.1.0 | endjin | A high-performance JSON Schema evaluator (draft 4, 6, 7, 2019-09 and 2020-12) a… |
-| 2026-10-03 07:59:17 | [mage2kishan/module-mega-menu](https://www.nuget.org/packages/mage2kishan%2Fmodule-mega-menu) | 1.0.18 | Kishan Savaliya | Advanced mega menu for Magento 2 — works on Hyva and Luma. Drag-and-drop tree b… |
-| 2026-10-03 07:59:57 | [missbach/shape-cms](https://www.nuget.org/packages/missbach%2Fshape-cms) | 2.0.0 | Michael Missbach | Shape CMS based on Shape Application Framework |
-| 2026-10-03 08:02:42 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.8 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
-| 2026-10-03 08:04:12 | [adt/log-mover](https://www.nuget.org/packages/adt%2Flog-mover) | v1.0 | Apps Dev Team | Moves log tables from the application database into a separate log storage (typ… |
-| 2026-10-03 08:06:24 | [missbach/shape](https://www.nuget.org/packages/missbach%2Fshape) | 2.0.0 | Michael Missbach | Symfony application framework |
+| 2026-10-03 08:43:28 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.7 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
+| 2026-10-03 08:43:44 | [yasser-elgammal/tabby-php](https://www.nuget.org/packages/yasser-elgammal%2Ftabby-php) | v1.0.0 |  | A production-ready, framework-agnostic PHP SDK for Tabby. |
+| 2026-10-03 09:03:34 | [mage2kishan/module-smart-badge](https://www.nuget.org/packages/mage2kishan%2Fmodule-smart-badge) | 1.1.5 |  | Smart Product Badge & Label System - Automatically displays beautiful badges on… |
+| 2026-10-03 09:07:00 | [mage2kishan/module-advancedcart](https://www.nuget.org/packages/mage2kishan%2Fmodule-advancedcart) | 1.0.14 |  | Advanced Cart Page Enhancements - Free shipping bar, qty buttons, trust badges,… |
+| 2026-10-03 09:13:19 | [debug404/laravel-ranker](https://www.nuget.org/packages/debug404%2Flaravel-ranker) | v1.0.0 | debug404 | High-performance Eloquent drag-and-drop item sorting and reordering package for… |
 
 ## Data source
 
