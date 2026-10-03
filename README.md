@@ -15,17 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 07:21 UTC
+## Latest list — 2026-10-03 08:21 UTC
 
-New packages created between 2026-10-03 06:19 UTC and 2026-10-03 07:21 UTC.
+New packages created between 2026-10-03 07:21 UTC and 2026-10-03 08:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-03T07-21-46-467815Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-03T08-21-54-043032Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-03 06:35:53 | [itxshakil/laravel-form-shield](https://www.nuget.org/packages/itxshakil%2Flaravel-form-shield) | v1.0.1 | Shakil Alam | CAPTCHA-free spam scoring for Laravel forms: quarantine instead of reject, keep… |
-| 2026-10-03 06:53:28 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.6 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
-| 2026-10-03 07:15:43 | [php-bug-catcher/perf-collector](https://www.nuget.org/packages/php-bug-catcher%2Fperf-collector) | 2.0.0-RC1 |  | Per-request performance collector for Bug Catcher: an auto_prepend_file hook an… |
+| 2026-10-03 07:21:54 | [php-bug-catcher/perf-collector-bundle](https://www.nuget.org/packages/php-bug-catcher%2Fperf-collector-bundle) | v2.0.0-RC2 |  | Symfony integration for the Bug Catcher performance collector: the aggregator a… |
+| 2026-10-03 07:29:58 | [tilscn/laravel](https://www.nuget.org/packages/tilscn%2Flaravel) | 1.0.0 | tilscn | A Laravel package for various utilities. |
+| 2026-10-03 07:31:31 | [corvus-dotnet/corvus-json-schema](https://www.nuget.org/packages/corvus-dotnet%2Fcorvus-json-schema) | 0.1.0 | endjin | A high-performance JSON Schema evaluator (draft 4, 6, 7, 2019-09 and 2020-12) a… |
+| 2026-10-03 07:59:17 | [mage2kishan/module-mega-menu](https://www.nuget.org/packages/mage2kishan%2Fmodule-mega-menu) | 1.0.18 | Kishan Savaliya | Advanced mega menu for Magento 2 — works on Hyva and Luma. Drag-and-drop tree b… |
+| 2026-10-03 07:59:57 | [missbach/shape-cms](https://www.nuget.org/packages/missbach%2Fshape-cms) | 2.0.0 | Michael Missbach | Shape CMS based on Shape Application Framework |
+| 2026-10-03 08:02:42 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.8 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
+| 2026-10-03 08:04:12 | [adt/log-mover](https://www.nuget.org/packages/adt%2Flog-mover) | v1.0 | Apps Dev Team | Moves log tables from the application database into a separate log storage (typ… |
+| 2026-10-03 08:06:24 | [missbach/shape](https://www.nuget.org/packages/missbach%2Fshape) | 2.0.0 | Michael Missbach | Symfony application framework |
 
 ## Data source
 
