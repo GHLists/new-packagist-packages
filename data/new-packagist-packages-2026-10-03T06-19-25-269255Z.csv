@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-03T05:32:48Z,asignua/filament-activity-log-plus,v1.0.1,Mykhailo Hladchenko,"An audit trail for Filament 5 on top of spatie/laravel-activitylog 5: per-language diffs of translatable fields, no phantom changes, one operation = one batch, pivot and media changes recorded against the owner, a History action and a read-only log resource."
+2026-10-03T05:39:22Z,mage2kishan/module-notification-bar,1.0.16,Kishan Savaliya,"Panth Notification Bar — display customizable notification bars, promo banners, countdown timers, and announcement strips on your Magento 2 storefront. Multiple bars with scheduling, page targeting, customer group targeting, geo-targeting, CTA buttons, and dismissible with cookie memory. Hyva + Lum…"

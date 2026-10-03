@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 05:19 UTC
+## Latest list — 2026-10-03 06:19 UTC
 
-New packages created between 2026-10-03 04:21 UTC and 2026-10-03 05:19 UTC.
+New packages created between 2026-10-03 05:19 UTC and 2026-10-03 06:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-03T05-19-29-529376Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-03T06-19-25-269255Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-03 04:41:22 | [bagoespantera/laravel-cron-mailer](https://www.nuget.org/packages/bagoespantera%2Flaravel-cron-mailer) | 1.0.0 |  | Queue e-mails into the database and deliver them from a scheduled console worke… |
-| 2026-10-03 04:50:40 | [adt/request-logger](https://www.nuget.org/packages/adt%2Frequest-logger) | v1.0 | Apps Dev Team | Logs HTTP requests (and optionally responses) of a Nette application into reque… |
+| 2026-10-03 05:32:48 | [asignua/filament-activity-log-plus](https://www.nuget.org/packages/asignua%2Ffilament-activity-log-plus) | v1.0.1 | Mykhailo Hladchenko | An audit trail for Filament 5 on top of spatie/laravel-activitylog 5: per-langu… |
+| 2026-10-03 05:39:22 | [mage2kishan/module-notification-bar](https://www.nuget.org/packages/mage2kishan%2Fmodule-notification-bar) | 1.0.16 | Kishan Savaliya | Panth Notification Bar — display customizable notification bars, promo banners,… |
 
 ## Data source
 
