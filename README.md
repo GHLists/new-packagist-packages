@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 00:20 UTC
+## Latest list — 2026-10-04 02:21 UTC
 
-New packages created between 2026-10-03 23:20 UTC and 2026-10-04 00:20 UTC.
+New packages created between 2026-10-04 01:20 UTC and 2026-10-04 02:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-04T00-20-36-572215Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-04T02-21-19-698388Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-03 23:33:49 | [ernestdefoe/greeter](https://www.nuget.org/packages/ernestdefoe%2Fgreeter) | 1.0.0 | Ernest Defoe | Welcome every new member with a private message, an email, or both — sent the m… |
-| 2026-10-03 23:54:03 | [ernestdefoe/reel](https://www.nuget.org/packages/ernestdefoe%2Freel) | 1.0.0 | Ernest Defoe | GIF search in the composer for Flarum 2: trending and search results from GIPHY… |
-| 2026-10-04 00:17:43 | [mohammed-mojaly/laralyze](https://www.nuget.org/packages/mohammed-mojaly%2Flaralyze) | v0.1.0 | Mohammed Mojaly | Self-hosted production monitoring and analysis for Laravel. |
+| 2026-10-04 02:16:18 | [tilscn/laravel](https://www.nuget.org/packages/tilscn%2Flaravel) | 1.0.0 | tilscn | A Laravel package for various utilities and features. |
 
 ## Data source
 
