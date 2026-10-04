@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-04T04:17:38Z,patterns/result,v1.0.0,,"Result pattern - represent the outcome of operations that might fail, explicitly and without exceptions."

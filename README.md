@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 03:21 UTC
+## Latest list — 2026-10-04 04:21 UTC
 
-New packages created between 2026-10-04 02:21 UTC and 2026-10-04 03:21 UTC.
+New packages created between 2026-10-04 03:21 UTC and 2026-10-04 04:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-04T03-21-28-513721Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-04T04-21-51-040833Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-04 02:21:54 | [mevisoft/auth-accounts-luisml](https://www.nuget.org/packages/mevisoft%2Fauth-accounts-luisml) | 1.0.0 |  | Laravel client for Accounts LuisML: Continuar con LuisML (OpenID Connect) with… |
+| 2026-10-04 04:17:38 | [patterns/result](https://www.nuget.org/packages/patterns%2Fresult) | v1.0.0 |  | Result pattern - represent the outcome of operations that might fail, explicitl… |
 
 ## Data source
 
