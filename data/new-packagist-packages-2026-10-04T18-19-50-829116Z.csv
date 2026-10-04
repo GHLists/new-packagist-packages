@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-04T17:31:10Z,kevinpirnie/kpt-datatables,v2.3.60,Kevin Pirnie,"Advanced PHP DataTables library with CRUD operations, search, sorting, pagination, bulk actions, and multi-framework theme support (UIKit3, Bootstrap 5, Tailwind, Plain)"
+2026-10-04T17:34:32Z,football-api/laravel-sdk,v1.0.0,,Unofficial Laravel SDK for the 5DollarFootballAPI
+2026-10-04T17:39:04Z,smronju/nativephp-purchases,1.0.0,Mohammad Shoriful Islam Ronju,"One-time in-app purchases (non-consumables like ""Remove Ads"") with restore, via Google Play Billing and StoreKit 2 — no server, no receipt validation backend."
+2026-10-04T17:53:08Z,mage2kishan/module-admin-menu-manager,1.0.16,Kishan Savaliya,"Customises the Magento 2 backend menu — hide, rename, re-icon, recolor, reorder and reparent any item, grouped into named 'views' you can flip between with one click. Includes an optional drilldown rendering style that adds a back button + search box to crowded L0 panels. Admin-only, no storefront…"
+2026-10-04T18:00:17Z,kafka-bus/metadata,v2.0.1,Kirill Popkov,"Kafka cluster metadata for Kafka Bus: topics, partitions, consumer group offsets inspection and administration"
+2026-10-04T18:00:22Z,kafka-bus/worker,v2.0.1,Kirill Popkov,Kafka polling worker infrastructure for Kafka Bus — reads messages from Kafka and dispatches them to the Bus
+2026-10-04T18:14:59Z,kerigard/laravel-api-starter-kit,v1.0.0,,The skeleton application for the Laravel framework.
