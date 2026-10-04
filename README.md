@@ -15,21 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 21:21 UTC
+## Latest list — 2026-10-04 22:19 UTC
 
-New packages created between 2026-10-04 20:20 UTC and 2026-10-04 21:21 UTC.
+New packages created between 2026-10-04 21:21 UTC and 2026-10-04 22:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-04T21-21-16-187377Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-04T22-19-30-134057Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-04 20:24:07 | [citomni/image](https://www.nuget.org/packages/citomni%2Fimage) | v1.0.0 | Lars Grove Mortensen | Deterministic, reusable image inspection, transformation and encoding for CitOm… |
-| 2026-10-04 20:33:00 | [ibrahimjml/laravel-modules](https://www.nuget.org/packages/ibrahimjml%2Flaravel-modules) | v1.0 |  | Laravel modules generator |
-| 2026-10-04 20:46:09 | [justinholtweb/craft-glue](https://www.nuget.org/packages/justinholtweb%2Fcraft-glue) | 5.0.0 | Justin Holt | Merge two entries into one in Craft CMS — pick a winner field by field, combine… |
-| 2026-10-04 20:50:16 | [zhandos717/qazaq-inflector](https://www.nuget.org/packages/zhandos717%2Fqazaq-inflector) | v0.5.0 | Zhandos Zhandarbekov | Declension of Kazakh names, full names and pronouns: 7 cases, possessive forms,… |
-| 2026-10-04 20:56:33 | [juaniquillo/slate-backend-components](https://www.nuget.org/packages/juaniquillo%2Fslate-backend-components) | v0.1.1 | juaniquillo | Slate backend components for Laravel. |
-| 2026-10-04 21:03:09 | [notonfire/php](https://www.nuget.org/packages/notonfire%2Fphp) | v1.0.0 |  | NotOnFire for Laravel and PHP: error tracking with strict privacy defaults and… |
-| 2026-10-04 21:10:04 | [mage2kishan/module-banner-slider](https://www.nuget.org/packages/mage2kishan%2Fmodule-banner-slider) | 1.0.18 | Kishan Savaliya | Panth Banner Slider Module - Responsive banner slider widget with Luma and Hyva… |
+| 2026-10-04 21:21:48 | [lambda-twelve/one-record-drupal](https://www.nuget.org/packages/lambda-twelve%2Fone-record-drupal) | 1.0.0-beta1 | Nick Andriopoulos | Drupal integration for lambda-twelve/one-record: wires the IATA ONE Record SDK… |
+| 2026-10-04 21:23:55 | [justinholtweb/craft-twinsies](https://www.nuget.org/packages/justinholtweb%2Fcraft-twinsies) | 5.0.0 | Justin Holt | Twinfield integration for Craft Commerce — post orders as sales invoices or jou… |
+| 2026-10-04 21:35:40 | [g4t/printly](https://www.nuget.org/packages/g4t%2Fprintly) | 0.0.1 | Hussein Alaa | Generate PDFs in Laravel with headless Chrome: first-class Arabic/RTL, custom f… |
+| 2026-10-04 21:54:57 | [mage2kishan/module-price-drop-alert](https://www.nuget.org/packages/mage2kishan%2Fmodule-price-drop-alert) | 1.1.5 |  | Price Drop Alert module for Magento 2 - Allows customers to subscribe to price… |
+| 2026-10-04 21:59:48 | [dirthara/migration](https://www.nuget.org/packages/dirthara%2Fmigration) | 0.1.0 | Dirthara | Migrations for the Dirthara framework |
 
 ## Data source
 

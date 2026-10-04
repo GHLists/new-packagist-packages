@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-04T21:21:48Z,lambda-twelve/one-record-drupal,1.0.0-beta1,Nick Andriopoulos,"Drupal integration for lambda-twelve/one-record: wires the IATA ONE Record SDK into Drupal's container, configuration, routing, database and queue."
+2026-10-04T21:23:55Z,justinholtweb/craft-twinsies,5.0.0,Justin Holt,"Twinfield integration for Craft Commerce — post orders as sales invoices or journal transactions, sync customers and articles, pull payment status back, and credit refunds."
+2026-10-04T21:35:40Z,g4t/printly,0.0.1,Hussein Alaa,"Generate PDFs in Laravel with headless Chrome: first-class Arabic/RTL, custom fonts and colors."
+2026-10-04T21:54:57Z,mage2kishan/module-price-drop-alert,1.1.5,,Price Drop Alert module for Magento 2 - Allows customers to subscribe to price drop notifications on products.
+2026-10-04T21:59:48Z,dirthara/migration,0.1.0,Dirthara,Migrations for the Dirthara framework
