@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-04T18:24:27Z,ghostwriter/serializer,0.1.0,Nathanael Esayeas,Serialize and Deserialize PHP objects to JSON
+2026-10-04T18:25:52Z,cyberxgh/ghana-sms,v0.1.0,,"Unified SMS interface for Ghanaian providers (Arkesel, mNotify, Hubtel) for PHP and Laravel."
+2026-10-04T18:26:20Z,mylekha/record-api,1.0.2,,"Config-driven generic CRUD API engine for Laravel: list/fetch/create/update/delete/restore, filters, relations, tenancy, permissions and RPC functions from per-table configs."
+2026-10-04T18:32:17Z,bentools/url-pattern,1.0,Beno!t POLASZEK,WHATWG URLPattern implementation for PHP
+2026-10-04T18:46:02Z,mage2kishan/module-product-slider,1.1.5,,Advanced Product Slider widget with extensive customization options for Magento 2
