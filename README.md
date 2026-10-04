@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 11:20 UTC
+## Latest list — 2026-10-04 12:20 UTC
 
-New packages created between 2026-10-04 10:21 UTC and 2026-10-04 11:20 UTC.
+New packages created between 2026-10-04 11:20 UTC and 2026-10-04 12:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-04T11-20-54-792517Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-04T12-20-29-769244Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-04 10:26:40 | [erpflow/erpflow-php](https://www.nuget.org/packages/erpflow%2Ferpflow-php) | v1.0.0 |  | Official PHP SDK for the ERPFlow Public API v3 |
-| 2026-10-04 10:29:18 | [mage2kishan/module-producttabs](https://www.nuget.org/packages/mage2kishan%2Fmodule-producttabs) | 1.1.6 | Kishan Savaliya | Product detail page tab customization for Magento 2. Supports horizontal/vertic… |
-| 2026-10-04 10:38:40 | [daedaloslabs/filament-shelly](https://www.nuget.org/packages/daedaloslabs%2Ffilament-shelly) | v1.0.0 | Michael Mavroforakis | Show live Shelly Cloud sensor stats (temperature, humidity, power, door/window,… |
-| 2026-10-04 10:45:55 | [actra/yuf-skeleton](https://www.nuget.org/packages/actra%2Fyuf-skeleton) | v1.0.1 |  | A minimal "Hello World" application to start a new project with the yuf framewo… |
-| 2026-10-04 11:01:50 | [mage2kishan/module-advanced-contact-us](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-contact-us) | 1.1.10 |  | Advanced Contact Us Page - Custom fields, bot protection, submission management… |
+| 2026-10-04 11:31:46 | [pnscripts/pn-invoice](https://www.nuget.org/packages/pnscripts%2Fpn-invoice) | v0.1.0 | PN Scripts | PN Invoice: framework-agnostic PHP library to generate and validate EN 16931 e-… |
+| 2026-10-04 11:35:11 | [trademinator/bcmath](https://www.nuget.org/packages/trademinator%2Fbcmath) | v0.1.0 |  | Framework-agnostic BCMath helpers and precision utilities for PHP. |
+| 2026-10-04 11:41:43 | [kerigard/laravel-stubs](https://www.nuget.org/packages/kerigard%2Flaravel-stubs) | v1.0.0 | Vladislav Sidelnikov | Custom stub templates for Laravel projects. |
+| 2026-10-04 12:06:58 | [mage2kishan/module-live-activity](https://www.nuget.org/packages/mage2kishan%2Fmodule-live-activity) | 1.0.15 | Kishan Savaliya | Live Activity & Social Proof notifications for Magento 2. Shows real-time custo… |
 
 ## Data source
 
