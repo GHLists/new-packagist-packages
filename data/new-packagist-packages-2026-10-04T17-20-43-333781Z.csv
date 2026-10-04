@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-04T16:22:03Z,masterlink/mpesa-dependency,v1.0.0,Moniz Sitoe,online payment manager using mpesa gateway
+2026-10-04T17:01:59Z,mage2kishan/module-crosslinks,1.1.5,,"Automatic internal crosslinks for Magento 2 (Hyva + Luma). Converts configured keywords in product, category, and CMS content into anchor links to boost internal linking and SEO. Extracted from Panth_AdvancedSEO for independent installation."
