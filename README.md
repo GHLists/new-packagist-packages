@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 05:19 UTC
+## Latest list — 2026-10-04 06:22 UTC
 
-New packages created between 2026-10-04 04:21 UTC and 2026-10-04 05:19 UTC.
+New packages created between 2026-10-04 05:19 UTC and 2026-10-04 06:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-04T05-19-09-916213Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-04T06-22-40-535941Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-04 04:28:21 | [kopaing/laravel-cloudflare-kv](https://www.nuget.org/packages/kopaing%2Flaravel-cloudflare-kv) | v1.0.0 | kopaing | A Laravel cache store backed by Cloudflare Workers KV, with honest semantics fo… |
-| 2026-10-04 05:10:30 | [patterns/guard](https://www.nuget.org/packages/patterns%2Fguard) | v1.0.0 |  | Guard pattern - validate inputs and preconditions early, returning a Result ins… |
-| 2026-10-04 05:15:20 | [patterns/value-object](https://www.nuget.org/packages/patterns%2Fvalue-object) | v1.0.0 |  | Value Object pattern - immutable, self-validating domain objects that compare b… |
+| 2026-10-04 05:34:51 | [mage2kishan/module-html-sitemap](https://www.nuget.org/packages/mage2kishan%2Fmodule-html-sitemap) | 1.0.18 |  | Theme-agnostic HTML sitemap page for Magento 2 (Hyva + Luma). Renders categorie… |
+| 2026-10-04 05:53:05 | [sendertr/sendertr-php](https://www.nuget.org/packages/sendertr%2Fsendertr-php) | v1.0.0 |  | SenderTR işlemsel e-posta ve pazarlama API istemcisi (resmî PHP SDK) |
+| 2026-10-04 05:56:55 | [mage2kishan/module-order-cleanup](https://www.nuget.org/packages/mage2kishan%2Fmodule-order-cleanup) | 1.0.13 | Kishan Savaliya | Panth Order Cleanup — safely delete test orders, invoices, shipments, and credi… |
+| 2026-10-04 06:19:31 | [mage2kishan/module-imageoptimizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-imageoptimizer) | 1.0.11 | Kishan Savaliya | Frontend image performance: lazy loading (Native/IntersectionObserver/Hybrid),… |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-04T05:34:51Z,mage2kishan/module-html-sitemap,1.0.18,,"Theme-agnostic HTML sitemap page for Magento 2 (Hyva + Luma). Renders categories (tree), products (grid), CMS pages, store switcher, and custom links at /sitemap with a built-in client-side search. Extracted from Panth_AdvancedSEO for independent installation."
+2026-10-04T05:53:05Z,sendertr/sendertr-php,v1.0.0,,SenderTR işlemsel e-posta ve pazarlama API istemcisi (resmî PHP SDK)
+2026-10-04T05:56:55Z,mage2kishan/module-order-cleanup,1.0.13,Kishan Savaliya,"Panth Order Cleanup — safely delete test orders, invoices, shipments, and credit memos from Magento 2 with double verification, deletion logs, and admin-configurable safety controls. Keeps your order data clean and organized."
+2026-10-04T06:19:31Z,mage2kishan/module-imageoptimizer,1.0.11,Kishan Savaliya,"Frontend image performance: lazy loading (Native/IntersectionObserver/Hybrid), WebP browser detection with fallback, preload hints, async decoding, and fetchpriority"
