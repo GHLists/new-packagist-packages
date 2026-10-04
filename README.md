@@ -15,19 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 15:18 UTC
+## Latest list — 2026-10-04 16:21 UTC
 
-New packages created between 2026-10-04 14:20 UTC and 2026-10-04 15:18 UTC.
+New packages created between 2026-10-04 15:18 UTC and 2026-10-04 16:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-04T15-18-51-67512Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-04T16-21-30-082455Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-04 14:24:36 | [mage2kishan/module-indexer-manager](https://www.nuget.org/packages/mage2kishan%2Fmodule-indexer-manager) | 1.2.3 | Kishan Savaliya | Panth Indexer Manager — reindex Magento 2 from the admin with strategy options… |
-| 2026-10-04 14:27:44 | [lambda-twelve/one-record-laravel](https://www.nuget.org/packages/lambda-twelve%2Fone-record-laravel) | 1.0.0-beta1 | Nick Andriopoulos | Laravel integration for lambda-twelve/one-record: service provider, routes, dat… |
-| 2026-10-04 14:28:45 | [kevinpirnie/kpt-datatables](https://www.nuget.org/packages/kevinpirnie%2Fkpt-datatables) | v2.3.47 | Kevin Pirnie | Advanced PHP DataTables library with CRUD operations, search, sorting, paginati… |
-| 2026-10-04 14:30:18 | [bootok/http](https://www.nuget.org/packages/bootok%2Fhttp) | v1.0.0 | hellobin | 基于 Symfony HttpClient 的 HTTP 客户端，完全兼容 yzh52521/easyhttp 门面 API（高版本 PHP 替代方案） |
-| 2026-10-04 15:06:56 | [mage2kishan/module-low-stock-notification](https://www.nuget.org/packages/mage2kishan%2Fmodule-low-stock-notification) | 1.1.6 |  | Magento 2 Low Stock Notification module - allows customers to subscribe for bac… |
+| 2026-10-04 15:35:32 | [voku/agent-edit](https://www.nuget.org/packages/voku%2Fagent-edit) | 0.1.0 | Lars Moelleken | Deterministic, evidence-backed source mutation for coding agents: validate, app… |
+| 2026-10-04 15:41:46 | [danielm/laravel-simple-altcha](https://www.nuget.org/packages/danielm%2Flaravel-simple-altcha) | v0.1.0 |  | ALTCHA (proof-of-work captcha) for Laravel: challenge endpoint, validation rule… |
+| 2026-10-04 16:01:32 | [mage2kishan/module-notification-bar](https://www.nuget.org/packages/mage2kishan%2Fmodule-notification-bar) | 1.0.19 | Kishan Savaliya | Panth Notification Bar — display customizable notification bars, promo banners,… |
+| 2026-10-04 16:10:41 | [veloxrouter/router](https://www.nuget.org/packages/veloxrouter%2Frouter) | v1.0.0 | Ortiz David | Lightning-fast HTTP routing engine for PHP |
+| 2026-10-04 16:17:29 | [studioespresso/craft-varnish-purger](https://www.nuget.org/packages/studioespresso%2Fcraft-varnish-purger) | 1.0.0 | Studio Espresso | Tag-based Varnish purging for Craft CMS: tracks the elements and queries used o… |
+| 2026-10-04 16:20:36 | [mage2kishan/module-performance-debugger](https://www.nuget.org/packages/mage2kishan%2Fmodule-performance-debugger) | 1.1.3 | Kishan Savaliya | Production-grade Magento 2 frontend performance debugger and profiler. Tracks b… |
 
 ## Data source
 

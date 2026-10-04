@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-04T15:35:32Z,voku/agent-edit,0.1.0,Lars Moelleken,"Deterministic, evidence-backed source mutation for coding agents: validate, apply transactionally and verify agent-map plans."
+2026-10-04T15:41:46Z,danielm/laravel-simple-altcha,v0.1.0,,"ALTCHA (proof-of-work captcha) for Laravel: challenge endpoint, validation rule, middleware and Inertia/React stubs. Built on altcha-org/altcha v2."
+2026-10-04T16:01:32Z,mage2kishan/module-notification-bar,1.0.19,Kishan Savaliya,"Panth Notification Bar — display customizable notification bars, promo banners, countdown timers, and announcement strips on your Magento 2 storefront. Multiple bars with scheduling, page targeting, customer group targeting, geo-targeting, CTA buttons, and dismissible with cookie memory. Hyva + Lum…"
+2026-10-04T16:10:41Z,veloxrouter/router,v1.0.0,Ortiz David,Lightning-fast HTTP routing engine for PHP
+2026-10-04T16:17:29Z,studioespresso/craft-varnish-purger,1.0.0,Studio Espresso,Tag-based Varnish purging for Craft CMS: tracks the elements and queries used on each page and purges them on save.
+2026-10-04T16:20:36Z,mage2kishan/module-performance-debugger,1.1.3,Kishan Savaliya,"Production-grade Magento 2 frontend performance debugger and profiler. Tracks block render time, observers, plugins, layout XML, DI resolution, DB queries (slow + duplicate + N+1), memory, and full page timeline. Surfaces a floating storefront toolbar with bottleneck detection, severity scoring, su…"
