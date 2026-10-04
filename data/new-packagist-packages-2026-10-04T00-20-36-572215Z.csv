@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-03T23:33:49Z,ernestdefoe/greeter,1.0.0,Ernest Defoe,"Welcome every new member with a private message, an email, or both — sent the moment they are actually in, written in your own words."
+2026-10-03T23:54:03Z,ernestdefoe/reel,1.0.0,Ernest Defoe,"GIF search in the composer for Flarum 2: trending and search results from GIPHY or KLIPY, one click to drop a GIF into a post. Works with Flarum's editor and Scribe."
+2026-10-04T00:17:43Z,mohammed-mojaly/laralyze,v0.1.0,Mohammed Mojaly,Self-hosted production monitoring and analysis for Laravel.

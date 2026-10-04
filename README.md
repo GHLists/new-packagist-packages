@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 23:20 UTC
+## Latest list — 2026-10-04 00:20 UTC
 
-New packages created between 2026-10-03 22:20 UTC and 2026-10-03 23:20 UTC.
+New packages created between 2026-10-03 23:20 UTC and 2026-10-04 00:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-03T23-20-02-20061Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-04T00-20-36-572215Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-03 22:42:26 | [justinholtweb/craft-jack](https://www.nuget.org/packages/justinholtweb%2Fcraft-jack) | 5.0.0 | Justin Holt | Legal texts for Craft CMS — imprint, privacy policy, cookies and terms, generat… |
-| 2026-10-03 23:06:14 | [ernestdefoe/gatehouse](https://www.nuget.org/packages/ernestdefoe%2Fgatehouse) | 1.0.0 | Ernest Defoe | Approve new members before they get in: sign-ups from addresses you trust activ… |
+| 2026-10-03 23:33:49 | [ernestdefoe/greeter](https://www.nuget.org/packages/ernestdefoe%2Fgreeter) | 1.0.0 | Ernest Defoe | Welcome every new member with a private message, an email, or both — sent the m… |
+| 2026-10-03 23:54:03 | [ernestdefoe/reel](https://www.nuget.org/packages/ernestdefoe%2Freel) | 1.0.0 | Ernest Defoe | GIF search in the composer for Flarum 2: trending and search results from GIPHY… |
+| 2026-10-04 00:17:43 | [mohammed-mojaly/laralyze](https://www.nuget.org/packages/mohammed-mojaly%2Flaralyze) | v0.1.0 | Mohammed Mojaly | Self-hosted production monitoring and analysis for Laravel. |
 
 ## Data source
 
