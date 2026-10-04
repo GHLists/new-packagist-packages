@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 08:20 UTC
+## Latest list — 2026-10-04 09:22 UTC
 
-New packages created between 2026-10-04 07:19 UTC and 2026-10-04 08:20 UTC.
+New packages created between 2026-10-04 08:20 UTC and 2026-10-04 09:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-04T08-20-48-432523Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-04T09-22-13-369284Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-04 07:41:40 | [mage2kishan/module-index-now](https://www.nuget.org/packages/mage2kishan%2Fmodule-index-now) | 1.1.3 | Kishan Savaliya | Panth IndexNow — instantly notify Bing, Yandex and other search engines when co… |
-| 2026-10-04 08:17:00 | [mage2kishan/module-productgallery](https://www.nuget.org/packages/mage2kishan%2Fmodule-productgallery) | 1.0.14 | Kishan Savaliya | Custom product image gallery for Magento 2 product detail pages. Features confi… |
+| 2026-10-04 08:46:49 | [shaungbhone/laravel-ai-doctor](https://www.nuget.org/packages/shaungbhone%2Flaravel-ai-doctor) | v0.1.0 |  | Detect AI provider compatibility issues in Laravel before runtime. |
+| 2026-10-04 08:50:17 | [mage2kishan/module-search-autocomplete](https://www.nuget.org/packages/mage2kishan%2Fmodule-search-autocomplete) | 1.1.6 | Kishan Savaliya | Engine-agnostic, bot-hardened, cached search autocomplete for Magento 2 and Hyv… |
 
 ## Data source
 
