@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 10:21 UTC
+## Latest list — 2026-10-04 11:20 UTC
 
-New packages created between 2026-10-04 09:22 UTC and 2026-10-04 10:21 UTC.
+New packages created between 2026-10-04 10:21 UTC and 2026-10-04 11:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-04T10-21-32-214126Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-04T11-20-54-792517Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-04 09:29:44 | [masterlink/mpesa-dependency](https://www.nuget.org/packages/masterlink%2Fmpesa-dependency) | v1.0.0 | Rafael Munguambe | online payment manager using mpesa gateway |
-| 2026-10-04 09:30:23 | [mage2kishan/module-cachemanager](https://www.nuget.org/packages/mage2kishan%2Fmodule-cachemanager) | 1.1.2 | Kishan Savaliya | Smart cache invalidation on entity save and automated cache warmup with concurr… |
-| 2026-10-04 09:33:34 | [hipdevteam/ion-mu](https://www.nuget.org/packages/hipdevteam%2Fion-mu) | v3.2.0 | ION | ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Inte… |
-| 2026-10-04 09:35:30 | [harmovich67/ai-translator](https://www.nuget.org/packages/harmovich67%2Fai-translator) | v1.0.0 | harmovich67 | Framework-agnostic translations, inline live editing, full-page Gemini translat… |
-| 2026-10-04 09:44:36 | [larawellui/starter-kit](https://www.nuget.org/packages/larawellui%2Fstarter-kit) | v2026.10.0 | Krishnaprasad R | A Laravel starter kit with sign in, registration and settings, built from Laraw… |
-| 2026-10-04 10:03:04 | [mage2kishan/module-social-meta](https://www.nuget.org/packages/mage2kishan%2Fmodule-social-meta) | 1.1.4 | Kishan Savaliya | Panth Social Meta — OpenGraph and Twitter Card head tags for Magento 2, with CM… |
+| 2026-10-04 10:26:40 | [erpflow/erpflow-php](https://www.nuget.org/packages/erpflow%2Ferpflow-php) | v1.0.0 |  | Official PHP SDK for the ERPFlow Public API v3 |
+| 2026-10-04 10:29:18 | [mage2kishan/module-producttabs](https://www.nuget.org/packages/mage2kishan%2Fmodule-producttabs) | 1.1.6 | Kishan Savaliya | Product detail page tab customization for Magento 2. Supports horizontal/vertic… |
+| 2026-10-04 10:38:40 | [daedaloslabs/filament-shelly](https://www.nuget.org/packages/daedaloslabs%2Ffilament-shelly) | v1.0.0 | Michael Mavroforakis | Show live Shelly Cloud sensor stats (temperature, humidity, power, door/window,… |
+| 2026-10-04 10:45:55 | [actra/yuf-skeleton](https://www.nuget.org/packages/actra%2Fyuf-skeleton) | v1.0.1 |  | A minimal "Hello World" application to start a new project with the yuf framewo… |
+| 2026-10-04 11:01:50 | [mage2kishan/module-advanced-contact-us](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-contact-us) | 1.1.10 |  | Advanced Contact Us Page - Custom fields, bot protection, submission management… |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-04T10:26:40Z,erpflow/erpflow-php,v1.0.0,,Official PHP SDK for the ERPFlow Public API v3
+2026-10-04T10:29:18Z,mage2kishan/module-producttabs,1.1.6,Kishan Savaliya,"Product detail page tab customization for Magento 2. Supports horizontal/vertical tab styles, fade/slide/none animations, and mobile accordion. Compatible with Hyva and Luma themes."
+2026-10-04T10:38:40Z,daedaloslabs/filament-shelly,v1.0.0,Michael Mavroforakis,"Show live Shelly Cloud sensor stats (temperature, humidity, power, door/window, custom) on any Filament page."
+2026-10-04T10:45:55Z,actra/yuf-skeleton,v1.0.1,,"A minimal ""Hello World"" application to start a new project with the yuf framework."
+2026-10-04T11:01:50Z,mage2kishan/module-advanced-contact-us,1.1.10,,"Advanced Contact Us Page - Custom fields, bot protection, submission management, email notifications"
