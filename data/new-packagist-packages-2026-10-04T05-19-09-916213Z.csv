@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-04T04:28:21Z,kopaing/laravel-cloudflare-kv,v1.0.0,kopaing,"A Laravel cache store backed by Cloudflare Workers KV, with honest semantics for TTLs, atomicity and consistency."
+2026-10-04T05:10:30Z,patterns/guard,v1.0.0,,"Guard pattern - validate inputs and preconditions early, returning a Result instead of throwing."
+2026-10-04T05:15:20Z,patterns/value-object,v1.0.0,,"Value Object pattern - immutable, self-validating domain objects that compare by value."

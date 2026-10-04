@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 04:21 UTC
+## Latest list — 2026-10-04 05:19 UTC
 
-New packages created between 2026-10-04 03:21 UTC and 2026-10-04 04:21 UTC.
+New packages created between 2026-10-04 04:21 UTC and 2026-10-04 05:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-04T04-21-51-040833Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-04T05-19-09-916213Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-04 04:17:38 | [patterns/result](https://www.nuget.org/packages/patterns%2Fresult) | v1.0.0 |  | Result pattern - represent the outcome of operations that might fail, explicitl… |
+| 2026-10-04 04:28:21 | [kopaing/laravel-cloudflare-kv](https://www.nuget.org/packages/kopaing%2Flaravel-cloudflare-kv) | v1.0.0 | kopaing | A Laravel cache store backed by Cloudflare Workers KV, with honest semantics fo… |
+| 2026-10-04 05:10:30 | [patterns/guard](https://www.nuget.org/packages/patterns%2Fguard) | v1.0.0 |  | Guard pattern - validate inputs and preconditions early, returning a Result ins… |
+| 2026-10-04 05:15:20 | [patterns/value-object](https://www.nuget.org/packages/patterns%2Fvalue-object) | v1.0.0 |  | Value Object pattern - immutable, self-validating domain objects that compare b… |
 
 ## Data source
 
