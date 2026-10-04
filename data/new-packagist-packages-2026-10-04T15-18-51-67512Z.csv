@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-04T14:24:36Z,mage2kishan/module-indexer-manager,1.2.3,Kishan Savaliya,"Panth Indexer Manager — reindex Magento 2 from the admin with strategy options (sync, queue, on-save) and per-indexer live tracking, status history, and run logs."
+2026-10-04T14:27:44Z,lambda-twelve/one-record-laravel,1.0.0-beta1,Nick Andriopoulos,"Laravel integration for lambda-twelve/one-record: service provider, routes, database stores, authentication wiring and a notification outbox for the IATA ONE Record SDK."
+2026-10-04T14:28:45Z,kevinpirnie/kpt-datatables,v2.3.47,Kevin Pirnie,"Advanced PHP DataTables library with CRUD operations, search, sorting, pagination, bulk actions, and multi-framework theme support (UIKit3, Bootstrap 5, Tailwind, Plain)"
+2026-10-04T14:30:18Z,bootok/http,v1.0.0,hellobin,基于 Symfony HttpClient 的 HTTP 客户端，完全兼容 yzh52521/easyhttp 门面 API（高版本 PHP 替代方案）
+2026-10-04T15:06:56Z,mage2kishan/module-low-stock-notification,1.1.6,,Magento 2 Low Stock Notification module - allows customers to subscribe for back-in-stock email alerts on out-of-stock products. Compatible with Luma and Hyva themes.
