@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 22:19 UTC
+## Latest list — 2026-10-04 23:19 UTC
 
-New packages created between 2026-10-04 21:21 UTC and 2026-10-04 22:19 UTC.
+New packages created between 2026-10-04 22:19 UTC and 2026-10-04 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-04T22-19-30-134057Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-04T23-19-17-626412Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-04 21:21:48 | [lambda-twelve/one-record-drupal](https://www.nuget.org/packages/lambda-twelve%2Fone-record-drupal) | 1.0.0-beta1 | Nick Andriopoulos | Drupal integration for lambda-twelve/one-record: wires the IATA ONE Record SDK… |
-| 2026-10-04 21:23:55 | [justinholtweb/craft-twinsies](https://www.nuget.org/packages/justinholtweb%2Fcraft-twinsies) | 5.0.0 | Justin Holt | Twinfield integration for Craft Commerce — post orders as sales invoices or jou… |
-| 2026-10-04 21:35:40 | [g4t/printly](https://www.nuget.org/packages/g4t%2Fprintly) | 0.0.1 | Hussein Alaa | Generate PDFs in Laravel with headless Chrome: first-class Arabic/RTL, custom f… |
-| 2026-10-04 21:54:57 | [mage2kishan/module-price-drop-alert](https://www.nuget.org/packages/mage2kishan%2Fmodule-price-drop-alert) | 1.1.5 |  | Price Drop Alert module for Magento 2 - Allows customers to subscribe to price… |
-| 2026-10-04 21:59:48 | [dirthara/migration](https://www.nuget.org/packages/dirthara%2Fmigration) | 0.1.0 | Dirthara | Migrations for the Dirthara framework |
+| 2026-10-04 22:24:33 | [mage2kishan/module-hreflang](https://www.nuget.org/packages/mage2kishan%2Fmodule-hreflang) | 1.0.26 | Kishan Savaliya | Panth Hreflang — multi-language/multi-region hreflang link tags for Magento 2 w… |
+| 2026-10-04 22:35:11 | [justinholtweb/craft-tape](https://www.nuget.org/packages/justinholtweb%2Fcraft-tape) | 5.0.0 | Justin Holt | Conversion tracking for Craft CMS — Google Ads, GA4, Meta, TikTok and a dozen m… |
+| 2026-10-04 22:55:45 | [mage2kishan/module-robots-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-robots-seo) | 1.3.5 | Kishan Savaliya | Panth Robots SEO — dedicated robots.txt, X-Robots-Tag, and LLM-bot (GPTBot, Cla… |
+| 2026-10-04 23:17:30 | [mage2kishan/module-eu-withdrawal](https://www.nuget.org/packages/mage2kishan%2Fmodule-eu-withdrawal) | 1.1.9 | Kishan Savaliya | Panth EU Withdrawal Button - a clear, accessible digital withdrawal (cancellati… |
 
 ## Data source
 
