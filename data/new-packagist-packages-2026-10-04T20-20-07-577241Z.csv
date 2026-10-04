@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-04T19:20:14Z,mage2kishan/module-order-attachments,1.1.7,,Allows customers to attach files to order items
+2026-10-04T19:54:50Z,artisan-build/telltale-client,v1.0.0,,NativePHP client package for reporting device analytics to a self-hosted Telltale server.
+2026-10-04T19:54:53Z,artisan-build/telltale-contracts,v1.0.0,,Versioned wire contracts shared by the Telltale client and server.
+2026-10-04T20:02:49Z,vivutio/property-module,v0.1.0,Ezekiel Mjema,"Properties for vivutio: the camps, lodges and hotels an organization runs, each a place to post people and a scope to grant permissions at."
+2026-10-04T20:07:19Z,nurbekjummayev/filament-tdc-sso,0.1,Nurbek Jummayev,"TDC-SSO (OAuth2 Authorization Code + PKCE) login, screen lock and PIN unlock plugin for Filament panels."
+2026-10-04T20:11:16Z,mage2kishan/module-checkout-extended,1.1.8,Kishan Savaliya,"Enhanced one-page checkout for Magento 2 with configurable multi-column layouts (1/2/3 columns), sticky sidebar, newsletter subscription at checkout, quantity increment controls, coupon code in sidebar, sidebar place-order button, custom CSS/JS injection, and modern card-style UI options. Fully adm…"

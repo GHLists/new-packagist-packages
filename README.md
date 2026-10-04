@@ -15,19 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 19:19 UTC
+## Latest list — 2026-10-04 20:20 UTC
 
-New packages created between 2026-10-04 18:19 UTC and 2026-10-04 19:19 UTC.
+New packages created between 2026-10-04 19:19 UTC and 2026-10-04 20:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-04T19-19-03-653479Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-04T20-20-07-577241Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-04 18:24:27 | [ghostwriter/serializer](https://www.nuget.org/packages/ghostwriter%2Fserializer) | 0.1.0 | Nathanael Esayeas | Serialize and Deserialize PHP objects to JSON |
-| 2026-10-04 18:25:52 | [cyberxgh/ghana-sms](https://www.nuget.org/packages/cyberxgh%2Fghana-sms) | v0.1.0 |  | Unified SMS interface for Ghanaian providers (Arkesel, mNotify, Hubtel) for PHP… |
-| 2026-10-04 18:26:20 | [mylekha/record-api](https://www.nuget.org/packages/mylekha%2Frecord-api) | 1.0.2 |  | Config-driven generic CRUD API engine for Laravel: list/fetch/create/update/del… |
-| 2026-10-04 18:32:17 | [bentools/url-pattern](https://www.nuget.org/packages/bentools%2Furl-pattern) | 1.0 | Beno!t POLASZEK | WHATWG URLPattern implementation for PHP |
-| 2026-10-04 18:46:02 | [mage2kishan/module-product-slider](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-slider) | 1.1.5 |  | Advanced Product Slider widget with extensive customization options for Magento… |
+| 2026-10-04 19:20:14 | [mage2kishan/module-order-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-order-attachments) | 1.1.7 |  | Allows customers to attach files to order items |
+| 2026-10-04 19:54:50 | [artisan-build/telltale-client](https://www.nuget.org/packages/artisan-build%2Ftelltale-client) | v1.0.0 |  | NativePHP client package for reporting device analytics to a self-hosted Tellta… |
+| 2026-10-04 19:54:53 | [artisan-build/telltale-contracts](https://www.nuget.org/packages/artisan-build%2Ftelltale-contracts) | v1.0.0 |  | Versioned wire contracts shared by the Telltale client and server. |
+| 2026-10-04 20:02:49 | [vivutio/property-module](https://www.nuget.org/packages/vivutio%2Fproperty-module) | v0.1.0 | Ezekiel Mjema | Properties for vivutio: the camps, lodges and hotels an organization runs, each… |
+| 2026-10-04 20:07:19 | [nurbekjummayev/filament-tdc-sso](https://www.nuget.org/packages/nurbekjummayev%2Ffilament-tdc-sso) | 0.1 | Nurbek Jummayev | TDC-SSO (OAuth2 Authorization Code + PKCE) login, screen lock and PIN unlock pl… |
+| 2026-10-04 20:11:16 | [mage2kishan/module-checkout-extended](https://www.nuget.org/packages/mage2kishan%2Fmodule-checkout-extended) | 1.1.8 | Kishan Savaliya | Enhanced one-page checkout for Magento 2 with configurable multi-column layouts… |
 
 ## Data source
 
