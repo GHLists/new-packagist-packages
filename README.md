@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 06:22 UTC
+## Latest list — 2026-10-04 07:19 UTC
 
-New packages created between 2026-10-04 05:19 UTC and 2026-10-04 06:22 UTC.
+New packages created between 2026-10-04 06:22 UTC and 2026-10-04 07:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-04T06-22-40-535941Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-04T07-19-40-773208Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-04 05:34:51 | [mage2kishan/module-html-sitemap](https://www.nuget.org/packages/mage2kishan%2Fmodule-html-sitemap) | 1.0.18 |  | Theme-agnostic HTML sitemap page for Magento 2 (Hyva + Luma). Renders categorie… |
-| 2026-10-04 05:53:05 | [sendertr/sendertr-php](https://www.nuget.org/packages/sendertr%2Fsendertr-php) | v1.0.0 |  | SenderTR işlemsel e-posta ve pazarlama API istemcisi (resmî PHP SDK) |
-| 2026-10-04 05:56:55 | [mage2kishan/module-order-cleanup](https://www.nuget.org/packages/mage2kishan%2Fmodule-order-cleanup) | 1.0.13 | Kishan Savaliya | Panth Order Cleanup — safely delete test orders, invoices, shipments, and credi… |
-| 2026-10-04 06:19:31 | [mage2kishan/module-imageoptimizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-imageoptimizer) | 1.0.11 | Kishan Savaliya | Frontend image performance: lazy loading (Native/IntersectionObserver/Hybrid),… |
+| 2026-10-04 06:37:49 | [mage2kishan/module-image-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-image-seo) | 1.0.13 | Kishan Savaliya | Panth Image SEO — template-based alt/title generation for Magento 2 product ima… |
+| 2026-10-04 06:44:38 | [codewiser/multilingual](https://www.nuget.org/packages/codewiser%2Fmultilingual) | v1.0.0 | pm | Multilingual Model Attributes for Laravel |
+| 2026-10-04 06:45:29 | [softcreatr/json-payload-contract](https://www.nuget.org/packages/softcreatr%2Fjson-payload-contract) | 1.0.0 | Sascha Greuel | Extract stable, typed data from evolving JSON payloads |
+| 2026-10-04 06:56:14 | [themusicdev/analytics](https://www.nuget.org/packages/themusicdev%2Fanalytics) | v1.0.0 | TheMusicDev | CakePHP 5 plugin: tracking tags (Google Analytics 4, Umami) and injected script… |
+| 2026-10-04 07:16:49 | [mage2kishan/module-quickview](https://www.nuget.org/packages/mage2kishan%2Fmodule-quickview) | 1.0.20 | Kishan Savaliya | Smart Quick View & Compare module for Magento 2 with Hyva theme support. Featur… |
 
 ## Data source
 

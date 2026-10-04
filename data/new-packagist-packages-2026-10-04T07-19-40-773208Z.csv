@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-04T06:37:49Z,mage2kishan/module-image-seo,1.0.13,Kishan Savaliya,"Panth Image SEO — template-based alt/title generation for Magento 2 product images, with token substitution and gallery support."
+2026-10-04T06:44:38Z,codewiser/multilingual,v1.0.0,pm,Multilingual Model Attributes for Laravel
+2026-10-04T06:45:29Z,softcreatr/json-payload-contract,1.0.0,Sascha Greuel,"Extract stable, typed data from evolving JSON payloads"
+2026-10-04T06:56:14Z,themusicdev/analytics,v1.0.0,TheMusicDev,"CakePHP 5 plugin: tracking tags (Google Analytics 4, Umami) and injected scripts, on production hosts only"
+2026-10-04T07:16:49Z,mage2kishan/module-quickview,1.0.20,Kishan Savaliya,"Smart Quick View & Compare module for Magento 2 with Hyva theme support. Features: Quick View Modal, Product Comparison, Recently Viewed Products"
