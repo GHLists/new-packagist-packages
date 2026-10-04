@@ -1,0 +1,17 @@
+created_at,package,version,author,description
+2026-10-04T12:23:21Z,justinholtweb/craft-schedulr,5.0.0,Justin Holt,"Scheduled notifications for Craft — web push, email and on-site, written once and delivered on a schedule, in a segment, or in each subscriber's own time zone."
+2026-10-04T12:27:43Z,justinholtweb/craft-sager,5.0.0,Justin Holt,"Sage Business Cloud Accounting for Craft Commerce — orders become sales invoices, payments and refunds follow, and nobody retypes an order again."
+2026-10-04T12:32:35Z,justinholtweb/craft-reportr,5.0.0,Justin Holt,"Content and data reports for Craft CMS — template or point-and-click, with run-time parameters, seven export formats, scheduling, email delivery and storage on any filesystem."
+2026-10-04T12:35:27Z,justinholtweb/craft-pwa,5.0.0,Justin Holt,"Turn a Craft site into an installable progressive web app — manifest, icons, a generated service worker with per-route caching, an offline page, an install prompt, web push, and a preflight check that tells you why the browser will not offer to install it."
+2026-10-04T12:36:52Z,trademinator/indicators,v0.1.0,,"Framework-agnostic BCMath technical indicators, candlestick patterns and CCXT OHLCV normalization."
+2026-10-04T12:42:55Z,artisan-build/assay-client,v0.1.0,,Laravel client package for reporting AI telemetry to a self-hosted Assay server.
+2026-10-04T12:42:58Z,artisan-build/assay-contracts,v0.1.0,,Versioned wire contracts shared by the Assay client and server.
+2026-10-04T12:44:17Z,mage2kishan/module-theme-customizer,1.1.11,,"Hyva Theme Customizer - Backend-driven theme configuration with CSS custom properties, color management, typography, and Tailwind CSS integration."
+2026-10-04T12:47:04Z,mage2kishan/theme-frontend-panth-infotech,1.0.12,Kishan Savaliya,"Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent theme."
+2026-10-04T12:50:19Z,justinholtweb/craft-publishr,5.0.0,Justin Holt,"Editorial calendar and content governance for Craft CMS — a month view of everything in flight, custom editorial stages, assignments, due dates, publish requirements and freshness reviews."
+2026-10-04T12:50:57Z,shannonllc/voicast,v0.1.0,SHANNON LIMITED LIABILITY COMPANY,"PHP SDK for voicast: manage agents, tenants and calls, and verify webhooks and in-call tool requests."
+2026-10-04T12:53:40Z,justinholtweb/craft-portfolio,5.0.0,Justin Holt,"Portfolio sections for Craft CMS — builds the section, entry type, fields and taxonomy in one go, then gives the front end a query API, starter templates and a drop-in grid."
+2026-10-04T12:58:44Z,justinholtweb/craft-my,5.0.0,Justin Holt,"MYOB integration for Craft Commerce — push orders to MYOB as invoices, keep customer cards in step, apply payments, and raise credit notes for refunds."
+2026-10-04T13:01:30Z,dshanske/parse-this,2.0.0,David Shanske,Parse This Library for WordPress
+2026-10-04T13:01:56Z,justinholtweb/craft-lock,5.0.0,Justin Holt,"GDPR and DSAR governance for Craft CMS — subject access request intake, everything you hold on a person assembled across users, entries, orders, submissions, comments and logs, anonymise or erase, a consent and processing-activity ledger, and retention rules that purge on their own."
+2026-10-04T13:08:14Z,justinholtweb/craft-library,5.0.0,Justin Holt,"A better media library for Craft CMS — collections, filters that work everywhere, bulk editing, usage tracking, duplicate detection and an alt text audit for your assets."
