@@ -15,20 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 20:20 UTC
+## Latest list — 2026-10-04 21:21 UTC
 
-New packages created between 2026-10-04 19:19 UTC and 2026-10-04 20:20 UTC.
+New packages created between 2026-10-04 20:20 UTC and 2026-10-04 21:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-04T20-20-07-577241Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-04T21-21-16-187377Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-04 19:20:14 | [mage2kishan/module-order-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-order-attachments) | 1.1.7 |  | Allows customers to attach files to order items |
-| 2026-10-04 19:54:50 | [artisan-build/telltale-client](https://www.nuget.org/packages/artisan-build%2Ftelltale-client) | v1.0.0 |  | NativePHP client package for reporting device analytics to a self-hosted Tellta… |
-| 2026-10-04 19:54:53 | [artisan-build/telltale-contracts](https://www.nuget.org/packages/artisan-build%2Ftelltale-contracts) | v1.0.0 |  | Versioned wire contracts shared by the Telltale client and server. |
-| 2026-10-04 20:02:49 | [vivutio/property-module](https://www.nuget.org/packages/vivutio%2Fproperty-module) | v0.1.0 | Ezekiel Mjema | Properties for vivutio: the camps, lodges and hotels an organization runs, each… |
-| 2026-10-04 20:07:19 | [nurbekjummayev/filament-tdc-sso](https://www.nuget.org/packages/nurbekjummayev%2Ffilament-tdc-sso) | 0.1 | Nurbek Jummayev | TDC-SSO (OAuth2 Authorization Code + PKCE) login, screen lock and PIN unlock pl… |
-| 2026-10-04 20:11:16 | [mage2kishan/module-checkout-extended](https://www.nuget.org/packages/mage2kishan%2Fmodule-checkout-extended) | 1.1.8 | Kishan Savaliya | Enhanced one-page checkout for Magento 2 with configurable multi-column layouts… |
+| 2026-10-04 20:24:07 | [citomni/image](https://www.nuget.org/packages/citomni%2Fimage) | v1.0.0 | Lars Grove Mortensen | Deterministic, reusable image inspection, transformation and encoding for CitOm… |
+| 2026-10-04 20:33:00 | [ibrahimjml/laravel-modules](https://www.nuget.org/packages/ibrahimjml%2Flaravel-modules) | v1.0 |  | Laravel modules generator |
+| 2026-10-04 20:46:09 | [justinholtweb/craft-glue](https://www.nuget.org/packages/justinholtweb%2Fcraft-glue) | 5.0.0 | Justin Holt | Merge two entries into one in Craft CMS — pick a winner field by field, combine… |
+| 2026-10-04 20:50:16 | [zhandos717/qazaq-inflector](https://www.nuget.org/packages/zhandos717%2Fqazaq-inflector) | v0.5.0 | Zhandos Zhandarbekov | Declension of Kazakh names, full names and pronouns: 7 cases, possessive forms,… |
+| 2026-10-04 20:56:33 | [juaniquillo/slate-backend-components](https://www.nuget.org/packages/juaniquillo%2Fslate-backend-components) | v0.1.1 | juaniquillo | Slate backend components for Laravel. |
+| 2026-10-04 21:03:09 | [notonfire/php](https://www.nuget.org/packages/notonfire%2Fphp) | v1.0.0 |  | NotOnFire for Laravel and PHP: error tracking with strict privacy defaults and… |
+| 2026-10-04 21:10:04 | [mage2kishan/module-banner-slider](https://www.nuget.org/packages/mage2kishan%2Fmodule-banner-slider) | 1.0.18 | Kishan Savaliya | Panth Banner Slider Module - Responsive banner slider widget with Luma and Hyva… |
 
 ## Data source
 

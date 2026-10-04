@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-04T20:24:07Z,citomni/image,v1.0.0,Lars Grove Mortensen,"Deterministic, reusable image inspection, transformation and encoding for CitOmni applications and packages."
+2026-10-04T20:33:00Z,ibrahimjml/laravel-modules,v1.0,,Laravel modules generator
+2026-10-04T20:46:09Z,justinholtweb/craft-glue,5.0.0,Justin Holt,"Merge two entries into one in Craft CMS — pick a winner field by field, combine what can be combined, and repoint everything that pointed at the entry you retired."
+2026-10-04T20:50:16Z,zhandos717/qazaq-inflector,v0.5.0,Zhandos Zhandarbekov,"Declension of Kazakh names, full names and pronouns: 7 cases, possessive forms, predicate endings"
+2026-10-04T20:56:33Z,juaniquillo/slate-backend-components,v0.1.1,juaniquillo,Slate backend components for Laravel.
+2026-10-04T21:03:09Z,notonfire/php,v1.0.0,,"NotOnFire for Laravel and PHP: error tracking with strict privacy defaults and privacy-friendly analytics, in one package."
+2026-10-04T21:10:04Z,mage2kishan/module-banner-slider,1.0.18,Kishan Savaliya,Panth Banner Slider Module - Responsive banner slider widget with Luma and Hyva theme support
