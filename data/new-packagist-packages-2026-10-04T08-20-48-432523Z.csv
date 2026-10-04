@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-04T07:41:40Z,mage2kishan/module-index-now,1.1.3,Kishan Savaliya,"Panth IndexNow — instantly notify Bing, Yandex and other search engines when content changes, via the IndexNow protocol."
+2026-10-04T08:17:00Z,mage2kishan/module-productgallery,1.0.14,Kishan Savaliya,"Custom product image gallery for Magento 2 product detail pages. Features configurable thumbnail layouts (horizontal, vertical, grid), image zoom (inner/lens), fullscreen lightbox, and responsive navigation. Compatible with Hyva and Luma themes."
