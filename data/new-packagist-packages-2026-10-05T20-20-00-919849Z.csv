@@ -1,0 +1,159 @@
+created_at,package,version,author,description
+2026-10-05T19:22:18Z,tyhpdef/symfony-dependency-injection-impl,7.4.17.0,,"Implementation package for tyhpdef/symfony-dependency-injection. Require tyhpdef/symfony-dependency-injection, not this package."
+2026-10-05T19:22:35Z,tyhpdef/symfony-deprecation-contracts,3.7.1,,Tyhp type definitions for symfony/deprecation-contracts 3.7.1.
+2026-10-05T19:22:46Z,tyhpdef/symfony-deprecation-contracts-impl,3.7.1.0,,"Implementation package for tyhpdef/symfony-deprecation-contracts. Require tyhpdef/symfony-deprecation-contracts, not this package."
+2026-10-05T19:23:02Z,tyhpdef/symfony-doctrine-bridge,7.4.17,,Tyhp type definitions for symfony/doctrine-bridge 7.4.17.
+2026-10-05T19:23:12Z,tyhpdef/symfony-doctrine-bridge-impl,7.4.17.0,,"Implementation package for tyhpdef/symfony-doctrine-bridge. Require tyhpdef/symfony-doctrine-bridge, not this package."
+2026-10-05T19:23:14Z,dirthara/i18n,0.1.0,Dirthara,Internationalisation for the Dirthara framework
+2026-10-05T19:23:29Z,tyhpdef/symfony-dom-crawler,7.4.17,,Tyhp type definitions for symfony/dom-crawler 7.4.17.
+2026-10-05T19:23:40Z,tyhpdef/symfony-dom-crawler-impl,7.4.17.0,,"Implementation package for tyhpdef/symfony-dom-crawler. Require tyhpdef/symfony-dom-crawler, not this package."
+2026-10-05T19:23:57Z,tyhpdef/symfony-dotenv,7.4.18,,Tyhp type definitions for symfony/dotenv 7.4.18.
+2026-10-05T19:24:08Z,tyhpdef/symfony-dotenv-impl,7.4.18.0,,"Implementation package for tyhpdef/symfony-dotenv. Require tyhpdef/symfony-dotenv, not this package."
+2026-10-05T19:24:24Z,tyhpdef/symfony-error-handler,7.4.17,,Tyhp type definitions for symfony/error-handler 7.4.17.
+2026-10-05T19:24:34Z,tyhpdef/symfony-error-handler-impl,7.4.17.0,,"Implementation package for tyhpdef/symfony-error-handler. Require tyhpdef/symfony-error-handler, not this package."
+2026-10-05T19:24:50Z,tyhpdef/symfony-event-dispatcher-contracts,3.7.1,,Tyhp type definitions for symfony/event-dispatcher-contracts 3.7.1.
+2026-10-05T19:25:01Z,tyhpdef/symfony-event-dispatcher-contracts-impl,3.7.1.0,,"Implementation package for tyhpdef/symfony-event-dispatcher-contracts. Require tyhpdef/symfony-event-dispatcher-contracts, not this package."
+2026-10-05T19:25:17Z,tyhpdef/symfony-event-dispatcher,7.4.17,,Tyhp type definitions for symfony/event-dispatcher 7.4.17.
+2026-10-05T19:25:28Z,tyhpdef/symfony-event-dispatcher-impl,7.4.17.0,,"Implementation package for tyhpdef/symfony-event-dispatcher. Require tyhpdef/symfony-event-dispatcher, not this package."
+2026-10-05T19:25:45Z,tyhpdef/symfony-expression-language,7.4.18,,Tyhp type definitions for symfony/expression-language 7.4.18.
+2026-10-05T19:25:55Z,tyhpdef/symfony-expression-language-impl,7.4.18.0,,"Implementation package for tyhpdef/symfony-expression-language. Require tyhpdef/symfony-expression-language, not this package."
+2026-10-05T19:26:13Z,tyhpdef/symfony-filesystem,7.4.18,,Tyhp type definitions for symfony/filesystem 7.4.18.
+2026-10-05T19:26:24Z,tyhpdef/symfony-filesystem-impl,7.4.18.0,,"Implementation package for tyhpdef/symfony-filesystem. Require tyhpdef/symfony-filesystem, not this package."
+2026-10-05T19:26:40Z,tyhpdef/symfony-finder,7.4.19,,Tyhp type definitions for symfony/finder 7.4.19.
+2026-10-05T19:26:50Z,tyhpdef/symfony-finder-impl,7.4.19.0,,"Implementation package for tyhpdef/symfony-finder. Require tyhpdef/symfony-finder, not this package."
+2026-10-05T19:27:06Z,tyhpdef/symfony-flex,2.11.0,,Tyhp type definitions for symfony/flex 2.11.0.
+2026-10-05T19:27:16Z,tyhpdef/symfony-flex-impl,2.11.0.0,,"Implementation package for tyhpdef/symfony-flex. Require tyhpdef/symfony-flex, not this package."
+2026-10-05T19:27:33Z,tyhpdef/symfony-form,7.4.19,,Tyhp type definitions for symfony/form 7.4.19.
+2026-10-05T19:27:44Z,tyhpdef/symfony-form-impl,7.4.19.0,,"Implementation package for tyhpdef/symfony-form. Require tyhpdef/symfony-form, not this package."
+2026-10-05T19:28:01Z,tyhpdef/symfony-framework-bundle,7.4.19,,Tyhp type definitions for symfony/framework-bundle 7.4.19.
+2026-10-05T19:28:13Z,tyhpdef/symfony-framework-bundle-impl,7.4.19.0,,"Implementation package for tyhpdef/symfony-framework-bundle. Require tyhpdef/symfony-framework-bundle, not this package."
+2026-10-05T19:28:29Z,tyhpdef/symfony-http-client-contracts,3.7.3,,Tyhp type definitions for symfony/http-client-contracts 3.7.3.
+2026-10-05T19:28:40Z,tyhpdef/symfony-http-client-contracts-impl,3.7.3.0,,"Implementation package for tyhpdef/symfony-http-client-contracts. Require tyhpdef/symfony-http-client-contracts, not this package."
+2026-10-05T19:28:56Z,tyhpdef/symfony-http-client,7.4.19,,Tyhp type definitions for symfony/http-client 7.4.19.
+2026-10-05T19:29:07Z,tyhpdef/symfony-http-client-impl,7.4.19.0,,"Implementation package for tyhpdef/symfony-http-client. Require tyhpdef/symfony-http-client, not this package."
+2026-10-05T19:29:23Z,tyhpdef/symfony-http-foundation,8.1.7,,Tyhp type definitions for symfony/http-foundation 8.1.7.
+2026-10-05T19:29:34Z,tyhpdef/symfony-http-foundation-impl,8.1.7.0,,"Implementation package for tyhpdef/symfony-http-foundation. Require tyhpdef/symfony-http-foundation, not this package."
+2026-10-05T19:30:15Z,tyhpdef/symfony-http-kernel,7.4.19,,Tyhp type definitions for symfony/http-kernel 7.4.19.
+2026-10-05T19:30:25Z,tyhpdef/symfony-http-kernel-impl,7.4.19.0,,"Implementation package for tyhpdef/symfony-http-kernel. Require tyhpdef/symfony-http-kernel, not this package."
+2026-10-05T19:30:42Z,tyhpdef/symfony-intl,7.4.17,,Tyhp type definitions for symfony/intl 7.4.17.
+2026-10-05T19:30:52Z,tyhpdef/symfony-intl-impl,7.4.17.0,,"Implementation package for tyhpdef/symfony-intl. Require tyhpdef/symfony-intl, not this package."
+2026-10-05T19:31:09Z,tyhpdef/symfony-lock,7.4.18,,Tyhp type definitions for symfony/lock 7.4.18.
+2026-10-05T19:31:19Z,tyhpdef/symfony-lock-impl,7.4.18.0,,"Implementation package for tyhpdef/symfony-lock. Require tyhpdef/symfony-lock, not this package."
+2026-10-05T19:31:37Z,tyhpdef/symfony-mailer,7.4.19,,Tyhp type definitions for symfony/mailer 7.4.19.
+2026-10-05T19:31:49Z,tyhpdef/symfony-mailer-impl,7.4.19.0,,"Implementation package for tyhpdef/symfony-mailer. Require tyhpdef/symfony-mailer, not this package."
+2026-10-05T19:32:07Z,tyhpdef/symfony-mailgun-mailer,7.4.18,,Tyhp type definitions for symfony/mailgun-mailer 7.4.18.
+2026-10-05T19:32:18Z,tyhpdef/symfony-mailgun-mailer-impl,7.4.18.0,,"Implementation package for tyhpdef/symfony-mailgun-mailer. Require tyhpdef/symfony-mailgun-mailer, not this package."
+2026-10-05T19:32:34Z,tyhpdef/symfony-maker-bundle,1.67.0,,Tyhp type definitions for symfony/maker-bundle 1.67.0.
+2026-10-05T19:32:44Z,tyhpdef/symfony-maker-bundle-impl,1.67.0.0,,"Implementation package for tyhpdef/symfony-maker-bundle. Require tyhpdef/symfony-maker-bundle, not this package."
+2026-10-05T19:32:51Z,mage2kishan/module-advanced-seo,1.8.9,Kishan Savaliya,"Panth Advanced SEO — enterprise-grade SEO suite for Magento 2: SEO dashboard, meta templates, SEO rules engine, bulk meta editor, custom canonicals, filter URL rewrites, filter page meta, hreflang, product feeds, missing meta report, SEO audit & crawl results, structured data (JSON-LD), breadcrumbs…"
+2026-10-05T19:33:01Z,tyhpdef/symfony-messenger,7.4.19,,Tyhp type definitions for symfony/messenger 7.4.19.
+2026-10-05T19:33:12Z,tyhpdef/symfony-messenger-impl,7.4.19.0,,"Implementation package for tyhpdef/symfony-messenger. Require tyhpdef/symfony-messenger, not this package."
+2026-10-05T19:33:28Z,tyhpdef/symfony-mime,8.1.7,,Tyhp type definitions for symfony/mime 8.1.7.
+2026-10-05T19:33:39Z,tyhpdef/symfony-mime-impl,8.1.7.0,,"Implementation package for tyhpdef/symfony-mime. Require tyhpdef/symfony-mime, not this package."
+2026-10-05T19:34:15Z,tyhpdef/symfony-monolog-bridge,7.4.18,,Tyhp type definitions for symfony/monolog-bridge 7.4.18.
+2026-10-05T19:34:26Z,tyhpdef/symfony-monolog-bridge-impl,7.4.18.0,,"Implementation package for tyhpdef/symfony-monolog-bridge. Require tyhpdef/symfony-monolog-bridge, not this package."
+2026-10-05T19:34:42Z,tyhpdef/symfony-monolog-bundle,4.0.2,,Tyhp type definitions for symfony/monolog-bundle 4.0.2.
+2026-10-05T19:34:52Z,tyhpdef/symfony-monolog-bundle-impl,4.0.2.0,,"Implementation package for tyhpdef/symfony-monolog-bundle. Require tyhpdef/symfony-monolog-bundle, not this package."
+2026-10-05T19:35:09Z,tyhpdef/symfony-notifier,7.4.17,,Tyhp type definitions for symfony/notifier 7.4.17.
+2026-10-05T19:35:19Z,tyhpdef/symfony-notifier-impl,7.4.17.0,,"Implementation package for tyhpdef/symfony-notifier. Require tyhpdef/symfony-notifier, not this package."
+2026-10-05T19:35:36Z,tyhpdef/symfony-options-resolver,7.4.8,,Tyhp type definitions for symfony/options-resolver 7.4.8.
+2026-10-05T19:35:46Z,tyhpdef/symfony-options-resolver-impl,7.4.8.0,,"Implementation package for tyhpdef/symfony-options-resolver. Require tyhpdef/symfony-options-resolver, not this package."
+2026-10-05T19:36:03Z,tyhpdef/symfony-password-hasher,7.4.8,,Tyhp type definitions for symfony/password-hasher 7.4.8.
+2026-10-05T19:36:13Z,tyhpdef/symfony-password-hasher-impl,7.4.8.0,,"Implementation package for tyhpdef/symfony-password-hasher. Require tyhpdef/symfony-password-hasher, not this package."
+2026-10-05T19:36:29Z,tyhpdef/symfony-phpunit-bridge,7.4.17,,Tyhp type definitions for symfony/phpunit-bridge 7.4.17.
+2026-10-05T19:36:40Z,tyhpdef/symfony-phpunit-bridge-impl,7.4.17.0,,"Implementation package for tyhpdef/symfony-phpunit-bridge. Require tyhpdef/symfony-phpunit-bridge, not this package."
+2026-10-05T19:36:57Z,tyhpdef/symfony-polyfill-ctype,1.37.0,,Tyhp type definitions for symfony/polyfill-ctype 1.37.0.
+2026-10-05T19:37:08Z,tyhpdef/symfony-polyfill-ctype-impl,1.37.0.0,,"Implementation package for tyhpdef/symfony-polyfill-ctype. Require tyhpdef/symfony-polyfill-ctype, not this package."
+2026-10-05T19:37:24Z,tyhpdef/symfony-polyfill-intl-grapheme,1.41.0,,Tyhp type definitions for symfony/polyfill-intl-grapheme 1.41.0.
+2026-10-05T19:37:34Z,tyhpdef/symfony-polyfill-intl-grapheme-impl,1.41.0.0,,"Implementation package for tyhpdef/symfony-polyfill-intl-grapheme. Require tyhpdef/symfony-polyfill-intl-grapheme, not this package."
+2026-10-05T19:37:51Z,tyhpdef/symfony-polyfill-intl-idn,1.42.0,,Tyhp type definitions for symfony/polyfill-intl-idn 1.42.0.
+2026-10-05T19:38:01Z,tyhpdef/symfony-polyfill-intl-idn-impl,1.42.0.0,,"Implementation package for tyhpdef/symfony-polyfill-intl-idn. Require tyhpdef/symfony-polyfill-intl-idn, not this package."
+2026-10-05T19:38:17Z,tyhpdef/symfony-polyfill-intl-normalizer,1.42.0,,Tyhp type definitions for symfony/polyfill-intl-normalizer 1.42.0.
+2026-10-05T19:38:28Z,tyhpdef/symfony-polyfill-intl-normalizer-impl,1.42.0.0,,"Implementation package for tyhpdef/symfony-polyfill-intl-normalizer. Require tyhpdef/symfony-polyfill-intl-normalizer, not this package."
+2026-10-05T19:38:44Z,tyhpdef/symfony-polyfill-mbstring,1.38.2,,Tyhp type definitions for symfony/polyfill-mbstring 1.38.2.
+2026-10-05T19:38:54Z,tyhpdef/symfony-polyfill-mbstring-impl,1.38.2.0,,"Implementation package for tyhpdef/symfony-polyfill-mbstring. Require tyhpdef/symfony-polyfill-mbstring, not this package."
+2026-10-05T19:39:11Z,tyhpdef/symfony-polyfill-php80,1.37.0,,Tyhp type definitions for symfony/polyfill-php80 1.37.0.
+2026-10-05T19:39:22Z,tyhpdef/symfony-polyfill-php80-impl,1.37.0.0,,"Implementation package for tyhpdef/symfony-polyfill-php80. Require tyhpdef/symfony-polyfill-php80, not this package."
+2026-10-05T19:39:37Z,tyhpdef/symfony-polyfill-php84,1.38.1,,Tyhp type definitions for symfony/polyfill-php84 1.38.1.
+2026-10-05T19:39:49Z,tyhpdef/symfony-polyfill-php84-impl,1.38.1.0,,"Implementation package for tyhpdef/symfony-polyfill-php84. Require tyhpdef/symfony-polyfill-php84, not this package."
+2026-10-05T19:40:05Z,tyhpdef/symfony-polyfill-php85,1.41.0,,Tyhp type definitions for symfony/polyfill-php85 1.41.0.
+2026-10-05T19:40:07Z,veloxrouter/middlewares,v1.0.0,Ortiz David,Official middleware collection for VeloxRouter ecosystem.
+2026-10-05T19:40:16Z,tyhpdef/symfony-polyfill-php85-impl,1.41.0.0,,"Implementation package for tyhpdef/symfony-polyfill-php85. Require tyhpdef/symfony-polyfill-php85, not this package."
+2026-10-05T19:40:33Z,tyhpdef/symfony-polyfill-php86,1.41.0,,Tyhp type definitions for symfony/polyfill-php86 1.41.0.
+2026-10-05T19:40:43Z,tyhpdef/symfony-polyfill-php86-impl,1.41.0.0,,"Implementation package for tyhpdef/symfony-polyfill-php86. Require tyhpdef/symfony-polyfill-php86, not this package."
+2026-10-05T19:41:00Z,tyhpdef/symfony-postmark-mailer,7.4.18,,Tyhp type definitions for symfony/postmark-mailer 7.4.18.
+2026-10-05T19:41:11Z,tyhpdef/symfony-postmark-mailer-impl,7.4.18.0,,"Implementation package for tyhpdef/symfony-postmark-mailer. Require tyhpdef/symfony-postmark-mailer, not this package."
+2026-10-05T19:41:28Z,tyhpdef/symfony-process,8.1.7,,Tyhp type definitions for symfony/process 8.1.7.
+2026-10-05T19:41:38Z,tyhpdef/symfony-process-impl,8.1.7.0,,"Implementation package for tyhpdef/symfony-process. Require tyhpdef/symfony-process, not this package."
+2026-10-05T19:42:16Z,tyhpdef/symfony-property-access,7.4.16,,Tyhp type definitions for symfony/property-access 7.4.16.
+2026-10-05T19:42:26Z,tyhpdef/symfony-property-access-impl,7.4.16.0,,"Implementation package for tyhpdef/symfony-property-access. Require tyhpdef/symfony-property-access, not this package."
+2026-10-05T19:42:43Z,tyhpdef/symfony-property-info,7.4.19,,Tyhp type definitions for symfony/property-info 7.4.19.
+2026-10-05T19:42:53Z,tyhpdef/symfony-property-info-impl,7.4.19.0,,"Implementation package for tyhpdef/symfony-property-info. Require tyhpdef/symfony-property-info, not this package."
+2026-10-05T19:43:09Z,tyhpdef/symfony-psr-http-message-bridge,7.4.8,,Tyhp type definitions for symfony/psr-http-message-bridge 7.4.8.
+2026-10-05T19:43:19Z,tyhpdef/symfony-psr-http-message-bridge-impl,7.4.8.0,,"Implementation package for tyhpdef/symfony-psr-http-message-bridge. Require tyhpdef/symfony-psr-http-message-bridge, not this package."
+2026-10-05T19:43:36Z,tyhpdef/symfony-rate-limiter,7.4.18,,Tyhp type definitions for symfony/rate-limiter 7.4.18.
+2026-10-05T19:43:48Z,tyhpdef/symfony-rate-limiter-impl,7.4.18.0,,"Implementation package for tyhpdef/symfony-rate-limiter. Require tyhpdef/symfony-rate-limiter, not this package."
+2026-10-05T19:44:05Z,tyhpdef/symfony-routing,7.4.18,,Tyhp type definitions for symfony/routing 7.4.18.
+2026-10-05T19:44:15Z,tyhpdef/symfony-routing-impl,7.4.18.0,,"Implementation package for tyhpdef/symfony-routing. Require tyhpdef/symfony-routing, not this package."
+2026-10-05T19:44:32Z,tyhpdef/symfony-runtime,7.4.14,,Tyhp type definitions for symfony/runtime 7.4.14.
+2026-10-05T19:44:43Z,tyhpdef/symfony-runtime-impl,7.4.14.0,,"Implementation package for tyhpdef/symfony-runtime. Require tyhpdef/symfony-runtime, not this package."
+2026-10-05T19:44:59Z,tyhpdef/symfony-security-bundle,7.4.15,,Tyhp type definitions for symfony/security-bundle 7.4.15.
+2026-10-05T19:45:10Z,tyhpdef/symfony-security-bundle-impl,7.4.15.0,,"Implementation package for tyhpdef/symfony-security-bundle. Require tyhpdef/symfony-security-bundle, not this package."
+2026-10-05T19:45:26Z,tyhpdef/symfony-security-core,7.4.18,,Tyhp type definitions for symfony/security-core 7.4.18.
+2026-10-05T19:45:36Z,tyhpdef/symfony-security-core-impl,7.4.18.0,,"Implementation package for tyhpdef/symfony-security-core. Require tyhpdef/symfony-security-core, not this package."
+2026-10-05T19:45:53Z,tyhpdef/symfony-security-csrf,7.4.8,,Tyhp type definitions for symfony/security-csrf 7.4.8.
+2026-10-05T19:46:03Z,tyhpdef/symfony-security-csrf-impl,7.4.8.0,,"Implementation package for tyhpdef/symfony-security-csrf. Require tyhpdef/symfony-security-csrf, not this package."
+2026-10-05T19:46:20Z,tyhpdef/symfony-security-http,7.4.19,,Tyhp type definitions for symfony/security-http 7.4.19.
+2026-10-05T19:46:30Z,tyhpdef/symfony-security-http-impl,7.4.19.0,,"Implementation package for tyhpdef/symfony-security-http. Require tyhpdef/symfony-security-http, not this package."
+2026-10-05T19:46:46Z,tyhpdef/symfony-serializer,7.4.19,,Tyhp type definitions for symfony/serializer 7.4.19.
+2026-10-05T19:46:57Z,tyhpdef/symfony-serializer-impl,7.4.19.0,,"Implementation package for tyhpdef/symfony-serializer. Require tyhpdef/symfony-serializer, not this package."
+2026-10-05T19:47:13Z,tyhpdef/symfony-service-contracts,3.7.3,,Tyhp type definitions for symfony/service-contracts 3.7.3.
+2026-10-05T19:47:24Z,tyhpdef/symfony-service-contracts-impl,3.7.3.0,,"Implementation package for tyhpdef/symfony-service-contracts. Require tyhpdef/symfony-service-contracts, not this package."
+2026-10-05T19:47:41Z,tyhpdef/symfony-stimulus-bundle,3.4.0,,Tyhp type definitions for symfony/stimulus-bundle 3.4.0.
+2026-10-05T19:47:51Z,tyhpdef/symfony-stimulus-bundle-impl,3.4.0.0,,"Implementation package for tyhpdef/symfony-stimulus-bundle. Require tyhpdef/symfony-stimulus-bundle, not this package."
+2026-10-05T19:48:08Z,tyhpdef/symfony-string,8.1.7,,Tyhp type definitions for symfony/string 8.1.7.
+2026-10-05T19:48:18Z,tyhpdef/symfony-string-impl,8.1.7.0,,"Implementation package for tyhpdef/symfony-string. Require tyhpdef/symfony-string, not this package."
+2026-10-05T19:48:55Z,tyhpdef/symfony-translation-contracts,3.7.1,,Tyhp type definitions for symfony/translation-contracts 3.7.1.
+2026-10-05T19:49:05Z,tyhpdef/symfony-translation-contracts-impl,3.7.1.0,,"Implementation package for tyhpdef/symfony-translation-contracts. Require tyhpdef/symfony-translation-contracts, not this package."
+2026-10-05T19:49:21Z,tyhpdef/symfony-translation,8.1.5,,Tyhp type definitions for symfony/translation 8.1.5.
+2026-10-05T19:49:32Z,tyhpdef/symfony-translation-impl,8.1.5.0,,"Implementation package for tyhpdef/symfony-translation. Require tyhpdef/symfony-translation, not this package."
+2026-10-05T19:50:09Z,tyhpdef/symfony-twig-bridge,7.4.17,,Tyhp type definitions for symfony/twig-bridge 7.4.17.
+2026-10-05T19:50:20Z,tyhpdef/symfony-twig-bridge-impl,7.4.17.0,,"Implementation package for tyhpdef/symfony-twig-bridge. Require tyhpdef/symfony-twig-bridge, not this package."
+2026-10-05T19:50:37Z,tyhpdef/symfony-twig-bundle,7.4.15,,Tyhp type definitions for symfony/twig-bundle 7.4.15.
+2026-10-05T19:50:48Z,tyhpdef/symfony-twig-bundle-impl,7.4.15.0,,"Implementation package for tyhpdef/symfony-twig-bundle. Require tyhpdef/symfony-twig-bundle, not this package."
+2026-10-05T19:51:04Z,tyhpdef/symfony-type-info,7.4.17,,Tyhp type definitions for symfony/type-info 7.4.17.
+2026-10-05T19:51:14Z,tyhpdef/symfony-type-info-impl,7.4.17.0,,"Implementation package for tyhpdef/symfony-type-info. Require tyhpdef/symfony-type-info, not this package."
+2026-10-05T19:51:31Z,tyhpdef/symfony-uid,7.4.17,,Tyhp type definitions for symfony/uid 7.4.17.
+2026-10-05T19:51:42Z,tyhpdef/symfony-uid-impl,7.4.17.0,,"Implementation package for tyhpdef/symfony-uid. Require tyhpdef/symfony-uid, not this package."
+2026-10-05T19:51:58Z,tyhpdef/symfony-ux-live-component,3.4.0,,Tyhp type definitions for symfony/ux-live-component 3.4.0.
+2026-10-05T19:52:08Z,tyhpdef/symfony-ux-live-component-impl,3.4.0.0,,"Implementation package for tyhpdef/symfony-ux-live-component. Require tyhpdef/symfony-ux-live-component, not this package."
+2026-10-05T19:52:25Z,tyhpdef/symfony-ux-twig-component,3.4.0,,Tyhp type definitions for symfony/ux-twig-component 3.4.0.
+2026-10-05T19:52:35Z,tyhpdef/symfony-ux-twig-component-impl,3.4.0.0,,"Implementation package for tyhpdef/symfony-ux-twig-component. Require tyhpdef/symfony-ux-twig-component, not this package."
+2026-10-05T19:52:52Z,tyhpdef/symfony-validator,7.4.19,,Tyhp type definitions for symfony/validator 7.4.19.
+2026-10-05T19:53:02Z,tyhpdef/symfony-validator-impl,7.4.19.0,,"Implementation package for tyhpdef/symfony-validator. Require tyhpdef/symfony-validator, not this package."
+2026-10-05T19:53:19Z,tyhpdef/symfony-var-dumper,8.1.7,,Tyhp type definitions for symfony/var-dumper 8.1.7.
+2026-10-05T19:53:30Z,tyhpdef/symfony-var-dumper-impl,8.1.7.0,,"Implementation package for tyhpdef/symfony-var-dumper. Require tyhpdef/symfony-var-dumper, not this package."
+2026-10-05T19:54:07Z,tyhpdef/symfony-var-exporter,7.4.18,,Tyhp type definitions for symfony/var-exporter 7.4.18.
+2026-10-05T19:54:17Z,tyhpdef/symfony-var-exporter-impl,7.4.18.0,,"Implementation package for tyhpdef/symfony-var-exporter. Require tyhpdef/symfony-var-exporter, not this package."
+2026-10-05T19:54:34Z,tyhpdef/symfony-workflow,7.4.9,,Tyhp type definitions for symfony/workflow 7.4.9.
+2026-10-05T19:54:44Z,tyhpdef/symfony-workflow-impl,7.4.9.0,,"Implementation package for tyhpdef/symfony-workflow. Require tyhpdef/symfony-workflow, not this package."
+2026-10-05T19:55:01Z,tyhpdef/symfony-yaml,7.4.18,,Tyhp type definitions for symfony/yaml 7.4.18.
+2026-10-05T19:55:11Z,tyhpdef/symfony-yaml-impl,7.4.18.0,,"Implementation package for tyhpdef/symfony-yaml. Require tyhpdef/symfony-yaml, not this package."
+2026-10-05T19:55:28Z,tyhpdef/tightenco-ziggy,2.6.4,,Tyhp type definitions for tightenco/ziggy 2.6.4.
+2026-10-05T19:55:39Z,tyhpdef/tightenco-ziggy-impl,2.6.4.0,,"Implementation package for tyhpdef/tightenco-ziggy. Require tyhpdef/tightenco-ziggy, not this package."
+2026-10-05T19:55:55Z,tyhpdef/tijsverkoyen-css-to-inline-styles,2.4.0,,Tyhp type definitions for tijsverkoyen/css-to-inline-styles 2.4.0.
+2026-10-05T19:56:05Z,tyhpdef/tijsverkoyen-css-to-inline-styles-impl,2.4.0.0,,"Implementation package for tyhpdef/tijsverkoyen-css-to-inline-styles. Require tyhpdef/tijsverkoyen-css-to-inline-styles, not this package."
+2026-10-05T19:56:22Z,tyhpdef/twig-twig,3.28.0,,Tyhp type definitions for twig/twig 3.28.0.
+2026-10-05T19:56:33Z,tyhpdef/twig-twig-impl,3.28.0.0,,"Implementation package for tyhpdef/twig-twig. Require tyhpdef/twig-twig, not this package."
+2026-10-05T19:56:49Z,tyhpdef/twilio-sdk,8.12.1,,Tyhp type definitions for twilio/sdk 8.12.1.
+2026-10-05T19:57:00Z,tyhpdef/twilio-sdk-impl,8.12.1.0,,"Implementation package for tyhpdef/twilio-sdk. Require tyhpdef/twilio-sdk, not this package."
+2026-10-05T19:57:18Z,tyhpdef/vimeo-psalm,7.0.0-beta22,,Tyhp type definitions for vimeo/psalm 7.0.0-beta22.
+2026-10-05T19:57:29Z,tyhpdef/vimeo-psalm-impl,7.0.0.0-beta22,,"Implementation package for tyhpdef/vimeo-psalm. Require tyhpdef/vimeo-psalm, not this package."
+2026-10-05T19:58:49Z,tyhpdef/vlucas-phpdotenv,5.7.0,,Tyhp type definitions for vlucas/phpdotenv 5.7.0.
+2026-10-05T19:58:59Z,tyhpdef/vlucas-phpdotenv-impl,5.7.0.0,,"Implementation package for tyhpdef/vlucas-phpdotenv. Require tyhpdef/vlucas-phpdotenv, not this package."
+2026-10-05T19:59:16Z,tyhpdef/webmozart-assert,2.4.1,,Tyhp type definitions for webmozart/assert 2.4.1.
+2026-10-05T19:59:27Z,tyhpdef/webmozart-assert-impl,2.4.1.0,,"Implementation package for tyhpdef/webmozart-assert. Require tyhpdef/webmozart-assert, not this package."
+2026-10-05T19:59:43Z,tyhpdef/willdurand-negotiation,3.1.0,,Tyhp type definitions for willdurand/negotiation 3.1.0.
+2026-10-05T19:59:53Z,tyhpdef/willdurand-negotiation-impl,3.1.0.0,,"Implementation package for tyhpdef/willdurand-negotiation. Require tyhpdef/willdurand-negotiation, not this package."
+2026-10-05T20:01:32Z,dariodelogu/monti-framework-core,1.0.0,,Monti PHP framework core
+2026-10-05T20:02:08Z,dariodelogu/monti-framework,1.0.0,,"A modular PHP framework, built for speed and simplicity"

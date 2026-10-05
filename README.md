@@ -15,216 +15,172 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 19:22 UTC
+## Latest list — 2026-10-05 20:20 UTC
 
-New packages created between 2026-10-05 18:22 UTC and 2026-10-05 19:22 UTC.
+New packages created between 2026-10-05 19:22 UTC and 2026-10-05 20:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-05T19-22-17-964278Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-05T20-20-00-919849Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-05 18:22:35 | [tyhpdef/league-flysystem-impl](https://www.nuget.org/packages/tyhpdef%2Fleague-flysystem-impl) | 3.36.0.0 |  | Implementation package for tyhpdef/league-flysystem. Require tyhpdef/league-fly… |
-| 2026-10-05 18:22:53 | [tyhpdef/league-fractal](https://www.nuget.org/packages/tyhpdef%2Fleague-fractal) | 0.21 |  | Tyhp type definitions for league/fractal 0.21. |
-| 2026-10-05 18:23:05 | [tyhpdef/league-fractal-impl](https://www.nuget.org/packages/tyhpdef%2Fleague-fractal-impl) | 0.21.0 |  | Implementation package for tyhpdef/league-fractal. Require tyhpdef/league-fract… |
-| 2026-10-05 18:23:23 | [tyhpdef/league-mime-type-detection](https://www.nuget.org/packages/tyhpdef%2Fleague-mime-type-detection) | 1.17.0 |  | Tyhp type definitions for league/mime-type-detection 1.17.0. |
-| 2026-10-05 18:23:36 | [tyhpdef/league-mime-type-detection-impl](https://www.nuget.org/packages/tyhpdef%2Fleague-mime-type-detection-impl) | 1.17.0.0 |  | Implementation package for tyhpdef/league-mime-type-detection. Require tyhpdef/… |
-| 2026-10-05 18:23:54 | [tyhpdef/league-oauth1-client](https://www.nuget.org/packages/tyhpdef%2Fleague-oauth1-client) | 1.11.0 |  | Tyhp type definitions for league/oauth1-client 1.11.0. |
-| 2026-10-05 18:24:06 | [tyhpdef/league-oauth1-client-impl](https://www.nuget.org/packages/tyhpdef%2Fleague-oauth1-client-impl) | 1.11.0.0 |  | Implementation package for tyhpdef/league-oauth1-client. Require tyhpdef/league… |
-| 2026-10-05 18:24:24 | [tyhpdef/league-oauth2-client](https://www.nuget.org/packages/tyhpdef%2Fleague-oauth2-client) | 2.9.1 |  | Tyhp type definitions for league/oauth2-client 2.9.1. |
-| 2026-10-05 18:24:36 | [tyhpdef/league-oauth2-client-impl](https://www.nuget.org/packages/tyhpdef%2Fleague-oauth2-client-impl) | 2.9.1.0 |  | Implementation package for tyhpdef/league-oauth2-client. Require tyhpdef/league… |
-| 2026-10-05 18:24:54 | [tyhpdef/league-oauth2-server](https://www.nuget.org/packages/tyhpdef%2Fleague-oauth2-server) | 9.4.1 |  | Tyhp type definitions for league/oauth2-server 9.4.1. |
-| 2026-10-05 18:25:05 | [tyhpdef/league-oauth2-server-impl](https://www.nuget.org/packages/tyhpdef%2Fleague-oauth2-server-impl) | 9.4.1.0 |  | Implementation package for tyhpdef/league-oauth2-server. Require tyhpdef/league… |
-| 2026-10-05 18:25:23 | [tyhpdef/league-uri-interfaces](https://www.nuget.org/packages/tyhpdef%2Fleague-uri-interfaces) | 7.8.1 |  | Tyhp type definitions for league/uri-interfaces 7.8.1. |
-| 2026-10-05 18:25:36 | [tyhpdef/league-uri-interfaces-impl](https://www.nuget.org/packages/tyhpdef%2Fleague-uri-interfaces-impl) | 7.8.1.0 |  | Implementation package for tyhpdef/league-uri-interfaces. Require tyhpdef/leagu… |
-| 2026-10-05 18:25:53 | [tyhpdef/league-uri](https://www.nuget.org/packages/tyhpdef%2Fleague-uri) | 7.8.1 |  | Tyhp type definitions for league/uri 7.8.1. |
-| 2026-10-05 18:26:03 | [tyhpdef/league-uri-impl](https://www.nuget.org/packages/tyhpdef%2Fleague-uri-impl) | 7.8.1.0 |  | Implementation package for tyhpdef/league-uri. Require tyhpdef/league-uri, not… |
-| 2026-10-05 18:26:21 | [tyhpdef/livewire-livewire](https://www.nuget.org/packages/tyhpdef%2Flivewire-livewire) | 4.4.5 |  | Tyhp type definitions for livewire/livewire 4.4.5. |
-| 2026-10-05 18:26:33 | [tyhpdef/livewire-livewire-impl](https://www.nuget.org/packages/tyhpdef%2Flivewire-livewire-impl) | 4.4.5.0 |  | Implementation package for tyhpdef/livewire-livewire. Require tyhpdef/livewire-… |
-| 2026-10-05 18:26:51 | [tyhpdef/maatwebsite-excel](https://www.nuget.org/packages/tyhpdef%2Fmaatwebsite-excel) | 4.0.3 |  | Tyhp type definitions for maatwebsite/excel 4.0.3. |
-| 2026-10-05 18:27:03 | [tyhpdef/maatwebsite-excel-impl](https://www.nuget.org/packages/tyhpdef%2Fmaatwebsite-excel-impl) | 4.0.3.0 |  | Implementation package for tyhpdef/maatwebsite-excel. Require tyhpdef/maatwebsi… |
-| 2026-10-05 18:27:05 | [envless/sdk](https://www.nuget.org/packages/envless%2Fsdk) | v0.0.1 | Envless | The official PHP SDK for the Envless API. Manage workspaces, products, projects… |
-| 2026-10-05 18:27:21 | [tyhpdef/maennchen-zipstream-php](https://www.nuget.org/packages/tyhpdef%2Fmaennchen-zipstream-php) | 3.2.2 |  | Tyhp type definitions for maennchen/zipstream-php 3.2.2. |
-| 2026-10-05 18:27:33 | [tyhpdef/maennchen-zipstream-php-impl](https://www.nuget.org/packages/tyhpdef%2Fmaennchen-zipstream-php-impl) | 3.2.2.0 |  | Implementation package for tyhpdef/maennchen-zipstream-php. Require tyhpdef/mae… |
-| 2026-10-05 18:27:52 | [tyhpdef/masterminds-html5](https://www.nuget.org/packages/tyhpdef%2Fmasterminds-html5) | 2.11.0 |  | Tyhp type definitions for masterminds/html5 2.11.0. |
-| 2026-10-05 18:28:06 | [tyhpdef/masterminds-html5-impl](https://www.nuget.org/packages/tyhpdef%2Fmasterminds-html5-impl) | 2.11.0.0 |  | Implementation package for tyhpdef/masterminds-html5. Require tyhpdef/mastermin… |
-| 2026-10-05 18:28:26 | [tyhpdef/mockery-mockery](https://www.nuget.org/packages/tyhpdef%2Fmockery-mockery) | 1.6.15 |  | Tyhp type definitions for mockery/mockery 1.6.15. |
-| 2026-10-05 18:28:39 | [tyhpdef/mockery-mockery-impl](https://www.nuget.org/packages/tyhpdef%2Fmockery-mockery-impl) | 1.6.15.0 |  | Implementation package for tyhpdef/mockery-mockery. Require tyhpdef/mockery-moc… |
-| 2026-10-05 18:28:58 | [tyhpdef/moneyphp-money](https://www.nuget.org/packages/tyhpdef%2Fmoneyphp-money) | 4.9.0 |  | Tyhp type definitions for moneyphp/money 4.9.0. |
-| 2026-10-05 18:29:09 | [tyhpdef/moneyphp-money-impl](https://www.nuget.org/packages/tyhpdef%2Fmoneyphp-money-impl) | 4.9.0.0 |  | Implementation package for tyhpdef/moneyphp-money. Require tyhpdef/moneyphp-mon… |
-| 2026-10-05 18:29:28 | [tyhpdef/mongodb-mongodb](https://www.nuget.org/packages/tyhpdef%2Fmongodb-mongodb) | 2.4.2 |  | Tyhp type definitions for mongodb/mongodb 2.4.2. |
-| 2026-10-05 18:29:39 | [tyhpdef/mongodb-mongodb-impl](https://www.nuget.org/packages/tyhpdef%2Fmongodb-mongodb-impl) | 2.4.2.0 |  | Implementation package for tyhpdef/mongodb-mongodb. Require tyhpdef/mongodb-mon… |
-| 2026-10-05 18:29:57 | [tyhpdef/monolog-monolog](https://www.nuget.org/packages/tyhpdef%2Fmonolog-monolog) | 3.12.0 |  | Tyhp type definitions for monolog/monolog 3.12.0. |
-| 2026-10-05 18:30:09 | [tyhpdef/monolog-monolog-impl](https://www.nuget.org/packages/tyhpdef%2Fmonolog-monolog-impl) | 3.12.0.0 |  | Implementation package for tyhpdef/monolog-monolog. Require tyhpdef/monolog-mon… |
-| 2026-10-05 18:30:51 | [tyhpdef/mtdowling-jmespath.php](https://www.nuget.org/packages/tyhpdef%2Fmtdowling-jmespath.php) | 2.9.2 |  | Tyhp type definitions for mtdowling/jmespath.php 2.9.2. |
-| 2026-10-05 18:31:02 | [tyhpdef/mtdowling-jmespath.php-impl](https://www.nuget.org/packages/tyhpdef%2Fmtdowling-jmespath.php-impl) | 2.9.2.0 |  | Implementation package for tyhpdef/mtdowling-jmespath.php. Require tyhpdef/mtdo… |
-| 2026-10-05 18:31:22 | [tyhpdef/nesbot-carbon](https://www.nuget.org/packages/tyhpdef%2Fnesbot-carbon) | 3.14.0 |  | Tyhp type definitions for nesbot/carbon 3.14.0. |
-| 2026-10-05 18:31:33 | [tyhpdef/nesbot-carbon-impl](https://www.nuget.org/packages/tyhpdef%2Fnesbot-carbon-impl) | 3.14.0.0 |  | Implementation package for tyhpdef/nesbot-carbon. Require tyhpdef/nesbot-carbon… |
-| 2026-10-05 18:31:51 | [tyhpdef/nette-php-generator](https://www.nuget.org/packages/tyhpdef%2Fnette-php-generator) | 4.2.2 |  | Tyhp type definitions for nette/php-generator 4.2.2. |
-| 2026-10-05 18:32:02 | [tyhpdef/nette-php-generator-impl](https://www.nuget.org/packages/tyhpdef%2Fnette-php-generator-impl) | 4.2.2.0 |  | Implementation package for tyhpdef/nette-php-generator. Require tyhpdef/nette-p… |
-| 2026-10-05 18:32:19 | [tyhpdef/nette-schema](https://www.nuget.org/packages/tyhpdef%2Fnette-schema) | 1.3.6 |  | Tyhp type definitions for nette/schema 1.3.6. |
-| 2026-10-05 18:32:30 | [tyhpdef/nette-schema-impl](https://www.nuget.org/packages/tyhpdef%2Fnette-schema-impl) | 1.3.6.0 |  | Implementation package for tyhpdef/nette-schema. Require tyhpdef/nette-schema,… |
-| 2026-10-05 18:32:47 | [tyhpdef/nette-utils](https://www.nuget.org/packages/tyhpdef%2Fnette-utils) | 4.1.5 |  | Tyhp type definitions for nette/utils 4.1.5. |
-| 2026-10-05 18:32:58 | [tyhpdef/nette-utils-impl](https://www.nuget.org/packages/tyhpdef%2Fnette-utils-impl) | 4.1.5.0 |  | Implementation package for tyhpdef/nette-utils. Require tyhpdef/nette-utils, no… |
-| 2026-10-05 18:33:17 | [tyhpdef/nikic-php-parser](https://www.nuget.org/packages/tyhpdef%2Fnikic-php-parser) | 5.9.0 |  | Tyhp type definitions for nikic/php-parser 5.9.0. |
-| 2026-10-05 18:33:21 | [vortech/softdeletes-flag](https://www.nuget.org/packages/vortech%2Fsoftdeletes-flag) | v1.0.0 | Mate Papp | Drop-in soft deletes for Laravel Eloquent that use an indexed boolean flag inst… |
-| 2026-10-05 18:33:28 | [tyhpdef/nikic-php-parser-impl](https://www.nuget.org/packages/tyhpdef%2Fnikic-php-parser-impl) | 5.9.0.0 |  | Implementation package for tyhpdef/nikic-php-parser. Require tyhpdef/nikic-php-… |
-| 2026-10-05 18:33:46 | [tyhpdef/nunomaduro-collision](https://www.nuget.org/packages/tyhpdef%2Fnunomaduro-collision) | 8.9.5 |  | Tyhp type definitions for nunomaduro/collision 8.9.5. |
-| 2026-10-05 18:33:58 | [tyhpdef/nunomaduro-collision-impl](https://www.nuget.org/packages/tyhpdef%2Fnunomaduro-collision-impl) | 8.9.5.0 |  | Implementation package for tyhpdef/nunomaduro-collision. Require tyhpdef/nunoma… |
-| 2026-10-05 18:34:15 | [tyhpdef/nunomaduro-termwind](https://www.nuget.org/packages/tyhpdef%2Fnunomaduro-termwind) | 2.4.0 |  | Tyhp type definitions for nunomaduro/termwind 2.4.0. |
-| 2026-10-05 18:34:26 | [tyhpdef/nunomaduro-termwind-impl](https://www.nuget.org/packages/tyhpdef%2Fnunomaduro-termwind-impl) | 2.4.0.0 |  | Implementation package for tyhpdef/nunomaduro-termwind. Require tyhpdef/nunomad… |
-| 2026-10-05 18:34:44 | [tyhpdef/nyholm-psr7-server](https://www.nuget.org/packages/tyhpdef%2Fnyholm-psr7-server) | 1.1.0 |  | Tyhp type definitions for nyholm/psr7-server 1.1.0. |
-| 2026-10-05 18:34:55 | [tyhpdef/nyholm-psr7-server-impl](https://www.nuget.org/packages/tyhpdef%2Fnyholm-psr7-server-impl) | 1.1.0.0 |  | Implementation package for tyhpdef/nyholm-psr7-server. Require tyhpdef/nyholm-p… |
-| 2026-10-05 18:35:13 | [tyhpdef/nyholm-psr7](https://www.nuget.org/packages/tyhpdef%2Fnyholm-psr7) | 1.8.2 |  | Tyhp type definitions for nyholm/psr7 1.8.2. |
-| 2026-10-05 18:35:25 | [tyhpdef/nyholm-psr7-impl](https://www.nuget.org/packages/tyhpdef%2Fnyholm-psr7-impl) | 1.8.2.0 |  | Implementation package for tyhpdef/nyholm-psr7. Require tyhpdef/nyholm-psr7, no… |
-| 2026-10-05 18:35:42 | [tyhpdef/openspout-openspout](https://www.nuget.org/packages/tyhpdef%2Fopenspout-openspout) | 5.11.3 |  | Tyhp type definitions for openspout/openspout 5.11.3. |
-| 2026-10-05 18:35:56 | [tyhpdef/openspout-openspout-impl](https://www.nuget.org/packages/tyhpdef%2Fopenspout-openspout-impl) | 5.11.3.0 |  | Implementation package for tyhpdef/openspout-openspout. Require tyhpdef/openspo… |
-| 2026-10-05 18:36:40 | [tyhpdef/orchestra-testbench-core](https://www.nuget.org/packages/tyhpdef%2Forchestra-testbench-core) | 11.4.0 |  | Tyhp type definitions for orchestra/testbench-core 11.4.0. |
-| 2026-10-05 18:36:51 | [tyhpdef/orchestra-testbench-core-impl](https://www.nuget.org/packages/tyhpdef%2Forchestra-testbench-core-impl) | 11.4.0.0 |  | Implementation package for tyhpdef/orchestra-testbench-core. Require tyhpdef/or… |
-| 2026-10-05 18:37:10 | [tyhpdef/orchestra-testbench](https://www.nuget.org/packages/tyhpdef%2Forchestra-testbench) | 11.2.0 |  | Tyhp type definitions for orchestra/testbench 11.2.0. |
-| 2026-10-05 18:37:21 | [tyhpdef/orchestra-testbench-impl](https://www.nuget.org/packages/tyhpdef%2Forchestra-testbench-impl) | 11.2.0.0 |  | Implementation package for tyhpdef/orchestra-testbench. Require tyhpdef/orchest… |
-| 2026-10-05 18:37:38 | [tyhpdef/paragonie-constant_time_encoding](https://www.nuget.org/packages/tyhpdef%2Fparagonie-constant_time_encoding) | 3.1.3 |  | Tyhp type definitions for paragonie/constant_time_encoding 3.1.3. |
-| 2026-10-05 18:37:49 | [tyhpdef/paragonie-constant_time_encoding-impl](https://www.nuget.org/packages/tyhpdef%2Fparagonie-constant_time_encoding-impl) | 3.1.3.0 |  | Implementation package for tyhpdef/paragonie-constant_time_encoding. Require ty… |
-| 2026-10-05 18:38:07 | [tyhpdef/pda-pheanstalk](https://www.nuget.org/packages/tyhpdef%2Fpda-pheanstalk) | 8.0.2 |  | Tyhp type definitions for pda/pheanstalk 8.0.2. |
-| 2026-10-05 18:38:18 | [tyhpdef/pda-pheanstalk-impl](https://www.nuget.org/packages/tyhpdef%2Fpda-pheanstalk-impl) | 8.0.2.0 |  | Implementation package for tyhpdef/pda-pheanstalk. Require tyhpdef/pda-pheansta… |
-| 2026-10-05 18:38:36 | [tyhpdef/pestphp-pest-plugin-arch](https://www.nuget.org/packages/tyhpdef%2Fpestphp-pest-plugin-arch) | 4.0.2 |  | Tyhp type definitions for pestphp/pest-plugin-arch 4.0.2. |
-| 2026-10-05 18:38:48 | [tyhpdef/pestphp-pest-plugin-arch-impl](https://www.nuget.org/packages/tyhpdef%2Fpestphp-pest-plugin-arch-impl) | 4.0.2.0 |  | Implementation package for tyhpdef/pestphp-pest-plugin-arch. Require tyhpdef/pe… |
-| 2026-10-05 18:39:06 | [tyhpdef/pestphp-pest-plugin-laravel](https://www.nuget.org/packages/tyhpdef%2Fpestphp-pest-plugin-laravel) | 4.1.0 |  | Tyhp type definitions for pestphp/pest-plugin-laravel 4.1.0. |
-| 2026-10-05 18:39:17 | [tyhpdef/pestphp-pest-plugin-laravel-impl](https://www.nuget.org/packages/tyhpdef%2Fpestphp-pest-plugin-laravel-impl) | 4.1.0.0 |  | Implementation package for tyhpdef/pestphp-pest-plugin-laravel. Require tyhpdef… |
-| 2026-10-05 18:39:34 | [tyhpdef/pestphp-pest](https://www.nuget.org/packages/tyhpdef%2Fpestphp-pest) | 4.7.8 |  | Tyhp type definitions for pestphp/pest 4.7.8. |
-| 2026-10-05 18:39:46 | [tyhpdef/pestphp-pest-impl](https://www.nuget.org/packages/tyhpdef%2Fpestphp-pest-impl) | 4.7.8.0 |  | Implementation package for tyhpdef/pestphp-pest. Require tyhpdef/pestphp-pest,… |
-| 2026-10-05 18:40:04 | [tyhpdef/phar-io-version](https://www.nuget.org/packages/tyhpdef%2Fphar-io-version) | 3.2.1 |  | Tyhp type definitions for phar-io/version 3.2.1. |
-| 2026-10-05 18:40:15 | [tyhpdef/phar-io-version-impl](https://www.nuget.org/packages/tyhpdef%2Fphar-io-version-impl) | 3.2.1.0 |  | Implementation package for tyhpdef/phar-io-version. Require tyhpdef/phar-io-ver… |
-| 2026-10-05 18:40:34 | [tyhpdef/php-amqplib-php-amqplib](https://www.nuget.org/packages/tyhpdef%2Fphp-amqplib-php-amqplib) | 3.7.4 |  | Tyhp type definitions for php-amqplib/php-amqplib 3.7.4. |
-| 2026-10-05 18:40:47 | [tyhpdef/php-amqplib-php-amqplib-impl](https://www.nuget.org/packages/tyhpdef%2Fphp-amqplib-php-amqplib-impl) | 3.7.4.0 |  | Implementation package for tyhpdef/php-amqplib-php-amqplib. Require tyhpdef/php… |
-| 2026-10-05 18:41:06 | [tyhpdef/php-debugbar-php-debugbar](https://www.nuget.org/packages/tyhpdef%2Fphp-debugbar-php-debugbar) | 3.8.0 |  | Tyhp type definitions for php-debugbar/php-debugbar 3.8.0. |
-| 2026-10-05 18:41:17 | [tyhpdef/php-debugbar-php-debugbar-impl](https://www.nuget.org/packages/tyhpdef%2Fphp-debugbar-php-debugbar-impl) | 3.8.0.0 |  | Implementation package for tyhpdef/php-debugbar-php-debugbar. Require tyhpdef/p… |
-| 2026-10-05 18:41:36 | [tyhpdef/php-di-invoker](https://www.nuget.org/packages/tyhpdef%2Fphp-di-invoker) | 2.3.7 |  | Tyhp type definitions for php-di/invoker 2.3.7. |
-| 2026-10-05 18:41:47 | [tyhpdef/php-di-invoker-impl](https://www.nuget.org/packages/tyhpdef%2Fphp-di-invoker-impl) | 2.3.7.0 |  | Implementation package for tyhpdef/php-di-invoker. Require tyhpdef/php-di-invok… |
-| 2026-10-05 18:42:04 | [tyhpdef/php-di-php-di](https://www.nuget.org/packages/tyhpdef%2Fphp-di-php-di) | 7.1.1 |  | Tyhp type definitions for php-di/php-di 7.1.1. |
-| 2026-10-05 18:42:15 | [tyhpdef/php-di-php-di-impl](https://www.nuget.org/packages/tyhpdef%2Fphp-di-php-di-impl) | 7.1.1.0 |  | Implementation package for tyhpdef/php-di-php-di. Require tyhpdef/php-di-php-di… |
-| 2026-10-05 18:42:34 | [tyhpdef/php-http-client-common](https://www.nuget.org/packages/tyhpdef%2Fphp-http-client-common) | 2.7.3 |  | Tyhp type definitions for php-http/client-common 2.7.3. |
-| 2026-10-05 18:42:44 | [tyhpdef/php-http-client-common-impl](https://www.nuget.org/packages/tyhpdef%2Fphp-http-client-common-impl) | 2.7.3.0 |  | Implementation package for tyhpdef/php-http-client-common. Require tyhpdef/php-… |
-| 2026-10-05 18:43:01 | [tyhpdef/php-http-discovery](https://www.nuget.org/packages/tyhpdef%2Fphp-http-discovery) | 1.20.0 |  | Tyhp type definitions for php-http/discovery 1.20.0. |
-| 2026-10-05 18:43:13 | [tyhpdef/php-http-discovery-impl](https://www.nuget.org/packages/tyhpdef%2Fphp-http-discovery-impl) | 1.20.0.0 |  | Implementation package for tyhpdef/php-http-discovery. Require tyhpdef/php-http… |
-| 2026-10-05 18:43:31 | [tyhpdef/php-http-httplug](https://www.nuget.org/packages/tyhpdef%2Fphp-http-httplug) | 2.4.1 |  | Tyhp type definitions for php-http/httplug 2.4.1. |
-| 2026-10-05 18:43:45 | [tyhpdef/php-http-httplug-impl](https://www.nuget.org/packages/tyhpdef%2Fphp-http-httplug-impl) | 2.4.1.0 |  | Implementation package for tyhpdef/php-http-httplug. Require tyhpdef/php-http-h… |
-| 2026-10-05 18:44:02 | [tyhpdef/php-http-message-factory](https://www.nuget.org/packages/tyhpdef%2Fphp-http-message-factory) | 1.1.0 |  | Tyhp type definitions for php-http/message-factory 1.1.0. |
-| 2026-10-05 18:44:14 | [tyhpdef/php-http-message-factory-impl](https://www.nuget.org/packages/tyhpdef%2Fphp-http-message-factory-impl) | 1.1.0.0 |  | Implementation package for tyhpdef/php-http-message-factory. Require tyhpdef/ph… |
-| 2026-10-05 18:44:32 | [tyhpdef/php-http-message](https://www.nuget.org/packages/tyhpdef%2Fphp-http-message) | 1.16.2 |  | Tyhp type definitions for php-http/message 1.16.2. |
-| 2026-10-05 18:44:46 | [tyhpdef/php-http-message-impl](https://www.nuget.org/packages/tyhpdef%2Fphp-http-message-impl) | 1.16.2.0 |  | Implementation package for tyhpdef/php-http-message. Require tyhpdef/php-http-m… |
-| 2026-10-05 18:45:04 | [tyhpdef/php-http-promise](https://www.nuget.org/packages/tyhpdef%2Fphp-http-promise) | 1.3.1 |  | Tyhp type definitions for php-http/promise 1.3.1. |
-| 2026-10-05 18:45:15 | [tyhpdef/php-http-promise-impl](https://www.nuget.org/packages/tyhpdef%2Fphp-http-promise-impl) | 1.3.1.0 |  | Implementation package for tyhpdef/php-http-promise. Require tyhpdef/php-http-p… |
-| 2026-10-05 18:45:33 | [tyhpdef/phpcompatibility-php-compatibility](https://www.nuget.org/packages/tyhpdef%2Fphpcompatibility-php-compatibility) | 9.3.5 |  | Tyhp type definitions for phpcompatibility/php-compatibility 9.3.5. |
-| 2026-10-05 18:45:45 | [tyhpdef/phpcompatibility-php-compatibility-impl](https://www.nuget.org/packages/tyhpdef%2Fphpcompatibility-php-compatibility-impl) | 9.3.5.0 |  | Implementation package for tyhpdef/phpcompatibility-php-compatibility. Require… |
-| 2026-10-05 18:46:02 | [tyhpdef/phpdocumentor-reflection-common](https://www.nuget.org/packages/tyhpdef%2Fphpdocumentor-reflection-common) | 2.2.0 |  | Tyhp type definitions for phpdocumentor/reflection-common 2.2.0. |
-| 2026-10-05 18:46:13 | [tyhpdef/phpdocumentor-reflection-common-impl](https://www.nuget.org/packages/tyhpdef%2Fphpdocumentor-reflection-common-impl) | 2.2.0.0 |  | Implementation package for tyhpdef/phpdocumentor-reflection-common. Require tyh… |
-| 2026-10-05 18:46:31 | [tyhpdef/phpdocumentor-reflection-docblock](https://www.nuget.org/packages/tyhpdef%2Fphpdocumentor-reflection-docblock) | 6.0.3 |  | Tyhp type definitions for phpdocumentor/reflection-docblock 6.0.3. |
-| 2026-10-05 18:46:42 | [tyhpdef/phpdocumentor-reflection-docblock-impl](https://www.nuget.org/packages/tyhpdef%2Fphpdocumentor-reflection-docblock-impl) | 6.0.3.0 |  | Implementation package for tyhpdef/phpdocumentor-reflection-docblock. Require t… |
-| 2026-10-05 18:47:00 | [tyhpdef/phpdocumentor-type-resolver](https://www.nuget.org/packages/tyhpdef%2Fphpdocumentor-type-resolver) | 2.0.0 |  | Tyhp type definitions for phpdocumentor/type-resolver 2.0.0. |
-| 2026-10-05 18:47:12 | [tyhpdef/phpdocumentor-type-resolver-impl](https://www.nuget.org/packages/tyhpdef%2Fphpdocumentor-type-resolver-impl) | 2.0.0.0 |  | Implementation package for tyhpdef/phpdocumentor-type-resolver. Require tyhpdef… |
-| 2026-10-05 18:47:30 | [tyhpdef/phpoffice-phpspreadsheet](https://www.nuget.org/packages/tyhpdef%2Fphpoffice-phpspreadsheet) | 5.9.0 |  | Tyhp type definitions for phpoffice/phpspreadsheet 5.9.0. |
-| 2026-10-05 18:47:42 | [tyhpdef/phpoffice-phpspreadsheet-impl](https://www.nuget.org/packages/tyhpdef%2Fphpoffice-phpspreadsheet-impl) | 5.9.0.0 |  | Implementation package for tyhpdef/phpoffice-phpspreadsheet. Require tyhpdef/ph… |
-| 2026-10-05 18:47:59 | [tyhpdef/phpseclib-phpseclib](https://www.nuget.org/packages/tyhpdef%2Fphpseclib-phpseclib) | 4.0.1 |  | Tyhp type definitions for phpseclib/phpseclib 4.0.1. |
-| 2026-10-05 18:48:11 | [tyhpdef/phpseclib-phpseclib-impl](https://www.nuget.org/packages/tyhpdef%2Fphpseclib-phpseclib-impl) | 4.0.1.0 |  | Implementation package for tyhpdef/phpseclib-phpseclib. Require tyhpdef/phpsecl… |
-| 2026-10-05 18:48:28 | [tyhpdef/phpspec-phpspec](https://www.nuget.org/packages/tyhpdef%2Fphpspec-phpspec) | 8.3.1 |  | Tyhp type definitions for phpspec/phpspec 8.3.1. |
-| 2026-10-05 18:48:40 | [tyhpdef/phpspec-phpspec-impl](https://www.nuget.org/packages/tyhpdef%2Fphpspec-phpspec-impl) | 8.3.1.0 |  | Implementation package for tyhpdef/phpspec-phpspec. Require tyhpdef/phpspec-php… |
-| 2026-10-05 18:48:58 | [tyhpdef/phpspec-prophecy-phpunit](https://www.nuget.org/packages/tyhpdef%2Fphpspec-prophecy-phpunit) | 2.5.0 |  | Tyhp type definitions for phpspec/prophecy-phpunit 2.5.0. |
-| 2026-10-05 18:49:09 | [tyhpdef/phpspec-prophecy-phpunit-impl](https://www.nuget.org/packages/tyhpdef%2Fphpspec-prophecy-phpunit-impl) | 2.5.0.0 |  | Implementation package for tyhpdef/phpspec-prophecy-phpunit. Require tyhpdef/ph… |
-| 2026-10-05 18:49:27 | [tyhpdef/phpspec-prophecy](https://www.nuget.org/packages/tyhpdef%2Fphpspec-prophecy) | 1.26.1 |  | Tyhp type definitions for phpspec/prophecy 1.26.1. |
-| 2026-10-05 18:49:38 | [tyhpdef/phpspec-prophecy-impl](https://www.nuget.org/packages/tyhpdef%2Fphpspec-prophecy-impl) | 1.26.1.0 |  | Implementation package for tyhpdef/phpspec-prophecy. Require tyhpdef/phpspec-pr… |
-| 2026-10-05 18:49:56 | [tyhpdef/phpstan-phpdoc-parser](https://www.nuget.org/packages/tyhpdef%2Fphpstan-phpdoc-parser) | 2.3.5 |  | Tyhp type definitions for phpstan/phpdoc-parser 2.3.5. |
-| 2026-10-05 18:50:06 | [tyhpdef/phpstan-phpdoc-parser-impl](https://www.nuget.org/packages/tyhpdef%2Fphpstan-phpdoc-parser-impl) | 2.3.5.0 |  | Implementation package for tyhpdef/phpstan-phpdoc-parser. Require tyhpdef/phpst… |
-| 2026-10-05 18:50:23 | [tyhpdef/phpstan-phpstan-doctrine](https://www.nuget.org/packages/tyhpdef%2Fphpstan-phpstan-doctrine) | 2.0.28 |  | Tyhp type definitions for phpstan/phpstan-doctrine 2.0.28. |
-| 2026-10-05 18:50:34 | [tyhpdef/phpstan-phpstan-doctrine-impl](https://www.nuget.org/packages/tyhpdef%2Fphpstan-phpstan-doctrine-impl) | 2.0.28.0 |  | Implementation package for tyhpdef/phpstan-phpstan-doctrine. Require tyhpdef/ph… |
-| 2026-10-05 18:50:51 | [tyhpdef/phpstan-phpstan-phpunit](https://www.nuget.org/packages/tyhpdef%2Fphpstan-phpstan-phpunit) | 2.0.18 |  | Tyhp type definitions for phpstan/phpstan-phpunit 2.0.18. |
-| 2026-10-05 18:51:03 | [tyhpdef/phpstan-phpstan-phpunit-impl](https://www.nuget.org/packages/tyhpdef%2Fphpstan-phpstan-phpunit-impl) | 2.0.18.0 |  | Implementation package for tyhpdef/phpstan-phpstan-phpunit. Require tyhpdef/php… |
-| 2026-10-05 18:51:20 | [tyhpdef/phpstan-phpstan-symfony](https://www.nuget.org/packages/tyhpdef%2Fphpstan-phpstan-symfony) | 2.0.20 |  | Tyhp type definitions for phpstan/phpstan-symfony 2.0.20. |
-| 2026-10-05 18:51:31 | [tyhpdef/phpstan-phpstan-symfony-impl](https://www.nuget.org/packages/tyhpdef%2Fphpstan-phpstan-symfony-impl) | 2.0.20.0 |  | Implementation package for tyhpdef/phpstan-phpstan-symfony. Require tyhpdef/php… |
-| 2026-10-05 18:51:48 | [tyhpdef/phpstan-phpstan](https://www.nuget.org/packages/tyhpdef%2Fphpstan-phpstan) | 2.2.14 |  | Tyhp type definitions for phpstan/phpstan 2.2.14. |
-| 2026-10-05 18:52:00 | [tyhpdef/phpstan-phpstan-impl](https://www.nuget.org/packages/tyhpdef%2Fphpstan-phpstan-impl) | 2.2.14.0 |  | Implementation package for tyhpdef/phpstan-phpstan. Require tyhpdef/phpstan-php… |
-| 2026-10-05 18:52:18 | [tyhpdef/phpunit-phpunit](https://www.nuget.org/packages/tyhpdef%2Fphpunit-phpunit) | 12.5.35 |  | Tyhp type definitions for phpunit/phpunit 12.5.35. |
-| 2026-10-05 18:52:29 | [tyhpdef/phpunit-phpunit-impl](https://www.nuget.org/packages/tyhpdef%2Fphpunit-phpunit-impl) | 12.5.35.0 |  | Implementation package for tyhpdef/phpunit-phpunit. Require tyhpdef/phpunit-php… |
-| 2026-10-05 18:53:10 | [tyhpdef/pragmarx-google2fa-qrcode](https://www.nuget.org/packages/tyhpdef%2Fpragmarx-google2fa-qrcode) | 4.0.0 |  | Tyhp type definitions for pragmarx/google2fa-qrcode 4.0.0. |
-| 2026-10-05 18:53:21 | [tyhpdef/pragmarx-google2fa-qrcode-impl](https://www.nuget.org/packages/tyhpdef%2Fpragmarx-google2fa-qrcode-impl) | 4.0.0.0 |  | Implementation package for tyhpdef/pragmarx-google2fa-qrcode. Require tyhpdef/p… |
-| 2026-10-05 18:53:38 | [tyhpdef/pragmarx-google2fa](https://www.nuget.org/packages/tyhpdef%2Fpragmarx-google2fa) | 9.1.0 |  | Tyhp type definitions for pragmarx/google2fa 9.1.0. |
-| 2026-10-05 18:53:50 | [tyhpdef/pragmarx-google2fa-impl](https://www.nuget.org/packages/tyhpdef%2Fpragmarx-google2fa-impl) | 9.1.0.0 |  | Implementation package for tyhpdef/pragmarx-google2fa. Require tyhpdef/pragmarx… |
-| 2026-10-05 18:54:09 | [tyhpdef/predis-predis](https://www.nuget.org/packages/tyhpdef%2Fpredis-predis) | 3.6.0 |  | Tyhp type definitions for predis/predis 3.6.0. |
-| 2026-10-05 18:54:20 | [tyhpdef/predis-predis-impl](https://www.nuget.org/packages/tyhpdef%2Fpredis-predis-impl) | 3.6.0.0 |  | Implementation package for tyhpdef/predis-predis. Require tyhpdef/predis-predis… |
-| 2026-10-05 18:54:38 | [tyhpdef/psalm-plugin-laravel](https://www.nuget.org/packages/tyhpdef%2Fpsalm-plugin-laravel) | 4.16.1 |  | Tyhp type definitions for psalm/plugin-laravel 4.16.1. |
-| 2026-10-05 18:54:49 | [tyhpdef/psalm-plugin-laravel-impl](https://www.nuget.org/packages/tyhpdef%2Fpsalm-plugin-laravel-impl) | 4.16.1.0 |  | Implementation package for tyhpdef/psalm-plugin-laravel. Require tyhpdef/psalm-… |
-| 2026-10-05 18:55:08 | [tyhpdef/psr-cache](https://www.nuget.org/packages/tyhpdef%2Fpsr-cache) | 3.0.0 |  | Tyhp type definitions for psr/cache 3.0.0. |
-| 2026-10-05 18:55:19 | [tyhpdef/psr-cache-impl](https://www.nuget.org/packages/tyhpdef%2Fpsr-cache-impl) | 3.0.0.0 |  | Implementation package for tyhpdef/psr-cache. Require tyhpdef/psr-cache, not th… |
-| 2026-10-05 18:55:37 | [tyhpdef/psr-clock](https://www.nuget.org/packages/tyhpdef%2Fpsr-clock) | 1.0.0 |  | Tyhp type definitions for psr/clock 1.0.0. |
-| 2026-10-05 18:55:48 | [tyhpdef/psr-clock-impl](https://www.nuget.org/packages/tyhpdef%2Fpsr-clock-impl) | 1.0.0.0 |  | Implementation package for tyhpdef/psr-clock. Require tyhpdef/psr-clock, not th… |
-| 2026-10-05 18:56:05 | [tyhpdef/psr-container](https://www.nuget.org/packages/tyhpdef%2Fpsr-container) | 2.0.2 |  | Tyhp type definitions for psr/container 2.0.2. |
-| 2026-10-05 18:56:16 | [tyhpdef/psr-container-impl](https://www.nuget.org/packages/tyhpdef%2Fpsr-container-impl) | 2.0.2.0 |  | Implementation package for tyhpdef/psr-container. Require tyhpdef/psr-container… |
-| 2026-10-05 18:56:34 | [tyhpdef/psr-event-dispatcher](https://www.nuget.org/packages/tyhpdef%2Fpsr-event-dispatcher) | 1.0.0 |  | Tyhp type definitions for psr/event-dispatcher 1.0.0. |
-| 2026-10-05 18:56:45 | [tyhpdef/psr-event-dispatcher-impl](https://www.nuget.org/packages/tyhpdef%2Fpsr-event-dispatcher-impl) | 1.0.0.0 |  | Implementation package for tyhpdef/psr-event-dispatcher. Require tyhpdef/psr-ev… |
-| 2026-10-05 18:57:02 | [tyhpdef/psr-http-client](https://www.nuget.org/packages/tyhpdef%2Fpsr-http-client) | 1.0.3 |  | Tyhp type definitions for psr/http-client 1.0.3. |
-| 2026-10-05 18:57:14 | [tyhpdef/psr-http-client-impl](https://www.nuget.org/packages/tyhpdef%2Fpsr-http-client-impl) | 1.0.3.0 |  | Implementation package for tyhpdef/psr-http-client. Require tyhpdef/psr-http-cl… |
-| 2026-10-05 18:57:31 | [tyhpdef/psr-http-factory](https://www.nuget.org/packages/tyhpdef%2Fpsr-http-factory) | 1.1.0 |  | Tyhp type definitions for psr/http-factory 1.1.0. |
-| 2026-10-05 18:57:42 | [tyhpdef/psr-http-factory-impl](https://www.nuget.org/packages/tyhpdef%2Fpsr-http-factory-impl) | 1.1.0.0 |  | Implementation package for tyhpdef/psr-http-factory. Require tyhpdef/psr-http-f… |
-| 2026-10-05 18:57:59 | [tyhpdef/psr-http-message](https://www.nuget.org/packages/tyhpdef%2Fpsr-http-message) | 2.0 |  | Tyhp type definitions for psr/http-message 2.0. |
-| 2026-10-05 18:58:11 | [tyhpdef/psr-http-message-impl](https://www.nuget.org/packages/tyhpdef%2Fpsr-http-message-impl) | 2.0.0 |  | Implementation package for tyhpdef/psr-http-message. Require tyhpdef/psr-http-m… |
-| 2026-10-05 18:58:29 | [tyhpdef/psr-http-server-handler](https://www.nuget.org/packages/tyhpdef%2Fpsr-http-server-handler) | 1.0.2 |  | Tyhp type definitions for psr/http-server-handler 1.0.2. |
-| 2026-10-05 18:58:40 | [tyhpdef/psr-http-server-handler-impl](https://www.nuget.org/packages/tyhpdef%2Fpsr-http-server-handler-impl) | 1.0.2.0 |  | Implementation package for tyhpdef/psr-http-server-handler. Require tyhpdef/psr… |
-| 2026-10-05 18:58:57 | [tyhpdef/psr-http-server-middleware](https://www.nuget.org/packages/tyhpdef%2Fpsr-http-server-middleware) | 1.0.2 |  | Tyhp type definitions for psr/http-server-middleware 1.0.2. |
-| 2026-10-05 18:59:08 | [tyhpdef/psr-http-server-middleware-impl](https://www.nuget.org/packages/tyhpdef%2Fpsr-http-server-middleware-impl) | 1.0.2.0 |  | Implementation package for tyhpdef/psr-http-server-middleware. Require tyhpdef/… |
-| 2026-10-05 18:59:26 | [tyhpdef/psr-link](https://www.nuget.org/packages/tyhpdef%2Fpsr-link) | 2.0.1 |  | Tyhp type definitions for psr/link 2.0.1. |
-| 2026-10-05 18:59:37 | [tyhpdef/psr-link-impl](https://www.nuget.org/packages/tyhpdef%2Fpsr-link-impl) | 2.0.1.0 |  | Implementation package for tyhpdef/psr-link. Require tyhpdef/psr-link, not this… |
-| 2026-10-05 18:59:54 | [tyhpdef/psr-log](https://www.nuget.org/packages/tyhpdef%2Fpsr-log) | 3.0.2 |  | Tyhp type definitions for psr/log 3.0.2. |
-| 2026-10-05 19:00:05 | [tyhpdef/psr-log-impl](https://www.nuget.org/packages/tyhpdef%2Fpsr-log-impl) | 3.0.2.0 |  | Implementation package for tyhpdef/psr-log. Require tyhpdef/psr-log, not this p… |
-| 2026-10-05 19:00:46 | [tyhpdef/psr-simple-cache](https://www.nuget.org/packages/tyhpdef%2Fpsr-simple-cache) | 3.0.0 |  | Tyhp type definitions for psr/simple-cache 3.0.0. |
-| 2026-10-05 19:00:57 | [tyhpdef/psr-simple-cache-impl](https://www.nuget.org/packages/tyhpdef%2Fpsr-simple-cache-impl) | 3.0.0.0 |  | Implementation package for tyhpdef/psr-simple-cache. Require tyhpdef/psr-simple… |
-| 2026-10-05 19:01:14 | [tyhpdef/psy-psysh](https://www.nuget.org/packages/tyhpdef%2Fpsy-psysh) | 0.12.24 |  | Tyhp type definitions for psy/psysh 0.12.24. |
-| 2026-10-05 19:01:26 | [tyhpdef/psy-psysh-impl](https://www.nuget.org/packages/tyhpdef%2Fpsy-psysh-impl) | 0.12.24.0 |  | Implementation package for tyhpdef/psy-psysh. Require tyhpdef/psy-psysh, not th… |
-| 2026-10-05 19:01:44 | [tyhpdef/pusher-pusher-php-server](https://www.nuget.org/packages/tyhpdef%2Fpusher-pusher-php-server) | 7.3.0 |  | Tyhp type definitions for pusher/pusher-php-server 7.3.0. |
-| 2026-10-05 19:01:54 | [tyhpdef/pusher-pusher-php-server-impl](https://www.nuget.org/packages/tyhpdef%2Fpusher-pusher-php-server-impl) | 7.3.0.0 |  | Implementation package for tyhpdef/pusher-pusher-php-server. Require tyhpdef/pu… |
-| 2026-10-05 19:02:11 | [tyhpdef/ramsey-collection](https://www.nuget.org/packages/tyhpdef%2Framsey-collection) | 2.1.1 |  | Tyhp type definitions for ramsey/collection 2.1.1. |
-| 2026-10-05 19:02:21 | [tyhpdef/ramsey-collection-impl](https://www.nuget.org/packages/tyhpdef%2Framsey-collection-impl) | 2.1.1.0 |  | Implementation package for tyhpdef/ramsey-collection. Require tyhpdef/ramsey-co… |
-| 2026-10-05 19:02:39 | [tyhpdef/ramsey-uuid-doctrine](https://www.nuget.org/packages/tyhpdef%2Framsey-uuid-doctrine) | 2.1.0 |  | Tyhp type definitions for ramsey/uuid-doctrine 2.1.0. |
-| 2026-10-05 19:02:50 | [tyhpdef/ramsey-uuid-doctrine-impl](https://www.nuget.org/packages/tyhpdef%2Framsey-uuid-doctrine-impl) | 2.1.0.0 |  | Implementation package for tyhpdef/ramsey-uuid-doctrine. Require tyhpdef/ramsey… |
-| 2026-10-05 19:03:08 | [tyhpdef/ramsey-uuid](https://www.nuget.org/packages/tyhpdef%2Framsey-uuid) | 4.9.3 |  | Tyhp type definitions for ramsey/uuid 4.9.3. |
-| 2026-10-05 19:03:19 | [tyhpdef/ramsey-uuid-impl](https://www.nuget.org/packages/tyhpdef%2Framsey-uuid-impl) | 4.9.3.0 |  | Implementation package for tyhpdef/ramsey-uuid. Require tyhpdef/ramsey-uuid, no… |
-| 2026-10-05 19:03:36 | [tyhpdef/react-promise](https://www.nuget.org/packages/tyhpdef%2Freact-promise) | 3.3.0 |  | Tyhp type definitions for react/promise 3.3.0. |
-| 2026-10-05 19:03:46 | [tyhpdef/react-promise-impl](https://www.nuget.org/packages/tyhpdef%2Freact-promise-impl) | 3.3.0.0 |  | Implementation package for tyhpdef/react-promise. Require tyhpdef/react-promise… |
-| 2026-10-05 19:04:02 | [tyhpdef/rector-rector](https://www.nuget.org/packages/tyhpdef%2Frector-rector) | 2.6.7 |  | Tyhp type definitions for rector/rector 2.6.7. |
-| 2026-10-05 19:04:12 | [tyhpdef/rector-rector-impl](https://www.nuget.org/packages/tyhpdef%2Frector-rector-impl) | 2.6.7.0 |  | Implementation package for tyhpdef/rector-rector. Require tyhpdef/rector-rector… |
-| 2026-10-05 19:04:29 | [tyhpdef/respect-validation](https://www.nuget.org/packages/tyhpdef%2Frespect-validation) | 3.1.2 |  | Tyhp type definitions for respect/validation 3.1.2. |
-| 2026-10-05 19:04:40 | [tyhpdef/respect-validation-impl](https://www.nuget.org/packages/tyhpdef%2Frespect-validation-impl) | 3.1.2.0 |  | Implementation package for tyhpdef/respect-validation. Require tyhpdef/respect-… |
-| 2026-10-05 19:04:58 | [tyhpdef/seld-jsonlint](https://www.nuget.org/packages/tyhpdef%2Fseld-jsonlint) | 1.12.1 |  | Tyhp type definitions for seld/jsonlint 1.12.1. |
-| 2026-10-05 19:05:08 | [tyhpdef/seld-jsonlint-impl](https://www.nuget.org/packages/tyhpdef%2Fseld-jsonlint-impl) | 1.12.1.0 |  | Implementation package for tyhpdef/seld-jsonlint. Require tyhpdef/seld-jsonlint… |
-| 2026-10-05 19:05:25 | [tyhpdef/sentry-sentry](https://www.nuget.org/packages/tyhpdef%2Fsentry-sentry) | 4.31.0 |  | Tyhp type definitions for sentry/sentry 4.31.0. |
-| 2026-10-05 19:05:37 | [tyhpdef/sentry-sentry-impl](https://www.nuget.org/packages/tyhpdef%2Fsentry-sentry-impl) | 4.31.0.0 |  | Implementation package for tyhpdef/sentry-sentry. Require tyhpdef/sentry-sentry… |
-| 2026-10-05 19:05:54 | [tyhpdef/setasign-fpdf](https://www.nuget.org/packages/tyhpdef%2Fsetasign-fpdf) | 1.9.0 |  | Tyhp type definitions for setasign/fpdf 1.9.0. |
-| 2026-10-05 19:06:05 | [tyhpdef/setasign-fpdf-impl](https://www.nuget.org/packages/tyhpdef%2Fsetasign-fpdf-impl) | 1.9.0.0 |  | Implementation package for tyhpdef/setasign-fpdf. Require tyhpdef/setasign-fpdf… |
-| 2026-10-05 19:06:22 | [tyhpdef/slevomat-coding-standard](https://www.nuget.org/packages/tyhpdef%2Fslevomat-coding-standard) | 8.31.1 |  | Tyhp type definitions for slevomat/coding-standard 8.31.1. |
-| 2026-10-05 19:06:32 | [tyhpdef/slevomat-coding-standard-impl](https://www.nuget.org/packages/tyhpdef%2Fslevomat-coding-standard-impl) | 8.31.1.0 |  | Implementation package for tyhpdef/slevomat-coding-standard. Require tyhpdef/sl… |
-| 2026-10-05 19:06:48 | [tyhpdef/slim-psr7](https://www.nuget.org/packages/tyhpdef%2Fslim-psr7) | 1.8.0 |  | Tyhp type definitions for slim/psr7 1.8.0. |
-| 2026-10-05 19:06:59 | [tyhpdef/slim-psr7-impl](https://www.nuget.org/packages/tyhpdef%2Fslim-psr7-impl) | 1.8.0.0 |  | Implementation package for tyhpdef/slim-psr7. Require tyhpdef/slim-psr7, not th… |
-| 2026-10-05 19:07:16 | [tyhpdef/spatie-backtrace](https://www.nuget.org/packages/tyhpdef%2Fspatie-backtrace) | 1.8.2 |  | Tyhp type definitions for spatie/backtrace 1.8.2. |
-| 2026-10-05 19:07:27 | [tyhpdef/spatie-backtrace-impl](https://www.nuget.org/packages/tyhpdef%2Fspatie-backtrace-impl) | 1.8.2.0 |  | Implementation package for tyhpdef/spatie-backtrace. Require tyhpdef/spatie-bac… |
-| 2026-10-05 19:07:43 | [tyhpdef/spatie-error-solutions](https://www.nuget.org/packages/tyhpdef%2Fspatie-error-solutions) | 2.0.5 |  | Tyhp type definitions for spatie/error-solutions 2.0.5. |
-| 2026-10-05 19:07:53 | [tyhpdef/spatie-error-solutions-impl](https://www.nuget.org/packages/tyhpdef%2Fspatie-error-solutions-impl) | 2.0.5.0 |  | Implementation package for tyhpdef/spatie-error-solutions. Require tyhpdef/spat… |
-| 2026-10-05 19:08:31 | [tyhpdef/spatie-flare-client-php](https://www.nuget.org/packages/tyhpdef%2Fspatie-flare-client-php) | 3.5.1 |  | Tyhp type definitions for spatie/flare-client-php 3.5.1. |
-| 2026-10-05 19:08:42 | [tyhpdef/spatie-flare-client-php-impl](https://www.nuget.org/packages/tyhpdef%2Fspatie-flare-client-php-impl) | 3.5.1.0 |  | Implementation package for tyhpdef/spatie-flare-client-php. Require tyhpdef/spa… |
-| 2026-10-05 19:09:41 | [tyhpdef/spatie-ignition](https://www.nuget.org/packages/tyhpdef%2Fspatie-ignition) | 1.16.0 |  | Tyhp type definitions for spatie/ignition 1.16.0. |
-| 2026-10-05 19:09:52 | [tyhpdef/spatie-ignition-impl](https://www.nuget.org/packages/tyhpdef%2Fspatie-ignition-impl) | 1.16.0.0 |  | Implementation package for tyhpdef/spatie-ignition. Require tyhpdef/spatie-igni… |
-| 2026-10-05 19:10:11 | [tyhpdef/spatie-image](https://www.nuget.org/packages/tyhpdef%2Fspatie-image) | 3.9.6 |  | Tyhp type definitions for spatie/image 3.9.6. |
-| 2026-10-05 19:10:22 | [tyhpdef/spatie-image-impl](https://www.nuget.org/packages/tyhpdef%2Fspatie-image-impl) | 3.9.6.0 |  | Implementation package for tyhpdef/spatie-image. Require tyhpdef/spatie-image,… |
-| 2026-10-05 19:10:39 | [tyhpdef/spatie-laravel-activitylog](https://www.nuget.org/packages/tyhpdef%2Fspatie-laravel-activitylog) | 5.1.1 |  | Tyhp type definitions for spatie/laravel-activitylog 5.1.1. |
-| 2026-10-05 19:10:49 | [tyhpdef/spatie-laravel-activitylog-impl](https://www.nuget.org/packages/tyhpdef%2Fspatie-laravel-activitylog-impl) | 5.1.1.0 |  | Implementation package for tyhpdef/spatie-laravel-activitylog. Require tyhpdef/… |
-| 2026-10-05 19:11:07 | [tyhpdef/spatie-laravel-backup](https://www.nuget.org/packages/tyhpdef%2Fspatie-laravel-backup) | 10.3.3 |  | Tyhp type definitions for spatie/laravel-backup 10.3.3. |
-| 2026-10-05 19:11:17 | [tyhpdef/spatie-laravel-backup-impl](https://www.nuget.org/packages/tyhpdef%2Fspatie-laravel-backup-impl) | 10.3.3.0 |  | Implementation package for tyhpdef/spatie-laravel-backup. Require tyhpdef/spati… |
-| 2026-10-05 19:11:34 | [tyhpdef/spatie-laravel-data](https://www.nuget.org/packages/tyhpdef%2Fspatie-laravel-data) | 4.23.0 |  | Tyhp type definitions for spatie/laravel-data 4.23.0. |
-| 2026-10-05 19:11:44 | [tyhpdef/spatie-laravel-data-impl](https://www.nuget.org/packages/tyhpdef%2Fspatie-laravel-data-impl) | 4.23.0.0 |  | Implementation package for tyhpdef/spatie-laravel-data. Require tyhpdef/spatie-… |
-| 2026-10-05 19:12:02 | [tyhpdef/spatie-laravel-error-share](https://www.nuget.org/packages/tyhpdef%2Fspatie-laravel-error-share) | 1.0.10 |  | Tyhp type definitions for spatie/laravel-error-share 1.0.10. |
-| 2026-10-05 19:12:13 | [tyhpdef/spatie-laravel-error-share-impl](https://www.nuget.org/packages/tyhpdef%2Fspatie-laravel-error-share-impl) | 1.0.10.0 |  | Implementation package for tyhpdef/spatie-laravel-error-share. Require tyhpdef/… |
-| 2026-10-05 19:12:30 | [tyhpdef/spatie-laravel-flare](https://www.nuget.org/packages/tyhpdef%2Fspatie-laravel-flare) | 2.8.0 |  | Tyhp type definitions for spatie/laravel-flare 2.8.0. |
-| 2026-10-05 19:12:40 | [tyhpdef/spatie-laravel-flare-impl](https://www.nuget.org/packages/tyhpdef%2Fspatie-laravel-flare-impl) | 2.8.0.0 |  | Implementation package for tyhpdef/spatie-laravel-flare. Require tyhpdef/spatie… |
-| 2026-10-05 19:13:18 | [tyhpdef/spatie-laravel-ignition](https://www.nuget.org/packages/tyhpdef%2Fspatie-laravel-ignition) | 2.12.0 |  | Tyhp type definitions for spatie/laravel-ignition 2.12.0. |
-
-_Showing the first 200 of 236 packages; see the [full CSV](data/new-packagist-packages-2026-10-05T19-22-17-964278Z.csv)._
+| 2026-10-05 19:22:18 | [tyhpdef/symfony-dependency-injection-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-dependency-injection-impl) | 7.4.17.0 |  | Implementation package for tyhpdef/symfony-dependency-injection. Require tyhpde… |
+| 2026-10-05 19:22:35 | [tyhpdef/symfony-deprecation-contracts](https://www.nuget.org/packages/tyhpdef%2Fsymfony-deprecation-contracts) | 3.7.1 |  | Tyhp type definitions for symfony/deprecation-contracts 3.7.1. |
+| 2026-10-05 19:22:46 | [tyhpdef/symfony-deprecation-contracts-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-deprecation-contracts-impl) | 3.7.1.0 |  | Implementation package for tyhpdef/symfony-deprecation-contracts. Require tyhpd… |
+| 2026-10-05 19:23:02 | [tyhpdef/symfony-doctrine-bridge](https://www.nuget.org/packages/tyhpdef%2Fsymfony-doctrine-bridge) | 7.4.17 |  | Tyhp type definitions for symfony/doctrine-bridge 7.4.17. |
+| 2026-10-05 19:23:12 | [tyhpdef/symfony-doctrine-bridge-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-doctrine-bridge-impl) | 7.4.17.0 |  | Implementation package for tyhpdef/symfony-doctrine-bridge. Require tyhpdef/sym… |
+| 2026-10-05 19:23:14 | [dirthara/i18n](https://www.nuget.org/packages/dirthara%2Fi18n) | 0.1.0 | Dirthara | Internationalisation for the Dirthara framework |
+| 2026-10-05 19:23:29 | [tyhpdef/symfony-dom-crawler](https://www.nuget.org/packages/tyhpdef%2Fsymfony-dom-crawler) | 7.4.17 |  | Tyhp type definitions for symfony/dom-crawler 7.4.17. |
+| 2026-10-05 19:23:40 | [tyhpdef/symfony-dom-crawler-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-dom-crawler-impl) | 7.4.17.0 |  | Implementation package for tyhpdef/symfony-dom-crawler. Require tyhpdef/symfony… |
+| 2026-10-05 19:23:57 | [tyhpdef/symfony-dotenv](https://www.nuget.org/packages/tyhpdef%2Fsymfony-dotenv) | 7.4.18 |  | Tyhp type definitions for symfony/dotenv 7.4.18. |
+| 2026-10-05 19:24:08 | [tyhpdef/symfony-dotenv-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-dotenv-impl) | 7.4.18.0 |  | Implementation package for tyhpdef/symfony-dotenv. Require tyhpdef/symfony-dote… |
+| 2026-10-05 19:24:24 | [tyhpdef/symfony-error-handler](https://www.nuget.org/packages/tyhpdef%2Fsymfony-error-handler) | 7.4.17 |  | Tyhp type definitions for symfony/error-handler 7.4.17. |
+| 2026-10-05 19:24:34 | [tyhpdef/symfony-error-handler-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-error-handler-impl) | 7.4.17.0 |  | Implementation package for tyhpdef/symfony-error-handler. Require tyhpdef/symfo… |
+| 2026-10-05 19:24:50 | [tyhpdef/symfony-event-dispatcher-contracts](https://www.nuget.org/packages/tyhpdef%2Fsymfony-event-dispatcher-contracts) | 3.7.1 |  | Tyhp type definitions for symfony/event-dispatcher-contracts 3.7.1. |
+| 2026-10-05 19:25:01 | [tyhpdef/symfony-event-dispatcher-contracts-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-event-dispatcher-contracts-impl) | 3.7.1.0 |  | Implementation package for tyhpdef/symfony-event-dispatcher-contracts. Require… |
+| 2026-10-05 19:25:17 | [tyhpdef/symfony-event-dispatcher](https://www.nuget.org/packages/tyhpdef%2Fsymfony-event-dispatcher) | 7.4.17 |  | Tyhp type definitions for symfony/event-dispatcher 7.4.17. |
+| 2026-10-05 19:25:28 | [tyhpdef/symfony-event-dispatcher-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-event-dispatcher-impl) | 7.4.17.0 |  | Implementation package for tyhpdef/symfony-event-dispatcher. Require tyhpdef/sy… |
+| 2026-10-05 19:25:45 | [tyhpdef/symfony-expression-language](https://www.nuget.org/packages/tyhpdef%2Fsymfony-expression-language) | 7.4.18 |  | Tyhp type definitions for symfony/expression-language 7.4.18. |
+| 2026-10-05 19:25:55 | [tyhpdef/symfony-expression-language-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-expression-language-impl) | 7.4.18.0 |  | Implementation package for tyhpdef/symfony-expression-language. Require tyhpdef… |
+| 2026-10-05 19:26:13 | [tyhpdef/symfony-filesystem](https://www.nuget.org/packages/tyhpdef%2Fsymfony-filesystem) | 7.4.18 |  | Tyhp type definitions for symfony/filesystem 7.4.18. |
+| 2026-10-05 19:26:24 | [tyhpdef/symfony-filesystem-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-filesystem-impl) | 7.4.18.0 |  | Implementation package for tyhpdef/symfony-filesystem. Require tyhpdef/symfony-… |
+| 2026-10-05 19:26:40 | [tyhpdef/symfony-finder](https://www.nuget.org/packages/tyhpdef%2Fsymfony-finder) | 7.4.19 |  | Tyhp type definitions for symfony/finder 7.4.19. |
+| 2026-10-05 19:26:50 | [tyhpdef/symfony-finder-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-finder-impl) | 7.4.19.0 |  | Implementation package for tyhpdef/symfony-finder. Require tyhpdef/symfony-find… |
+| 2026-10-05 19:27:06 | [tyhpdef/symfony-flex](https://www.nuget.org/packages/tyhpdef%2Fsymfony-flex) | 2.11.0 |  | Tyhp type definitions for symfony/flex 2.11.0. |
+| 2026-10-05 19:27:16 | [tyhpdef/symfony-flex-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-flex-impl) | 2.11.0.0 |  | Implementation package for tyhpdef/symfony-flex. Require tyhpdef/symfony-flex,… |
+| 2026-10-05 19:27:33 | [tyhpdef/symfony-form](https://www.nuget.org/packages/tyhpdef%2Fsymfony-form) | 7.4.19 |  | Tyhp type definitions for symfony/form 7.4.19. |
+| 2026-10-05 19:27:44 | [tyhpdef/symfony-form-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-form-impl) | 7.4.19.0 |  | Implementation package for tyhpdef/symfony-form. Require tyhpdef/symfony-form,… |
+| 2026-10-05 19:28:01 | [tyhpdef/symfony-framework-bundle](https://www.nuget.org/packages/tyhpdef%2Fsymfony-framework-bundle) | 7.4.19 |  | Tyhp type definitions for symfony/framework-bundle 7.4.19. |
+| 2026-10-05 19:28:13 | [tyhpdef/symfony-framework-bundle-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-framework-bundle-impl) | 7.4.19.0 |  | Implementation package for tyhpdef/symfony-framework-bundle. Require tyhpdef/sy… |
+| 2026-10-05 19:28:29 | [tyhpdef/symfony-http-client-contracts](https://www.nuget.org/packages/tyhpdef%2Fsymfony-http-client-contracts) | 3.7.3 |  | Tyhp type definitions for symfony/http-client-contracts 3.7.3. |
+| 2026-10-05 19:28:40 | [tyhpdef/symfony-http-client-contracts-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-http-client-contracts-impl) | 3.7.3.0 |  | Implementation package for tyhpdef/symfony-http-client-contracts. Require tyhpd… |
+| 2026-10-05 19:28:56 | [tyhpdef/symfony-http-client](https://www.nuget.org/packages/tyhpdef%2Fsymfony-http-client) | 7.4.19 |  | Tyhp type definitions for symfony/http-client 7.4.19. |
+| 2026-10-05 19:29:07 | [tyhpdef/symfony-http-client-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-http-client-impl) | 7.4.19.0 |  | Implementation package for tyhpdef/symfony-http-client. Require tyhpdef/symfony… |
+| 2026-10-05 19:29:23 | [tyhpdef/symfony-http-foundation](https://www.nuget.org/packages/tyhpdef%2Fsymfony-http-foundation) | 8.1.7 |  | Tyhp type definitions for symfony/http-foundation 8.1.7. |
+| 2026-10-05 19:29:34 | [tyhpdef/symfony-http-foundation-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-http-foundation-impl) | 8.1.7.0 |  | Implementation package for tyhpdef/symfony-http-foundation. Require tyhpdef/sym… |
+| 2026-10-05 19:30:15 | [tyhpdef/symfony-http-kernel](https://www.nuget.org/packages/tyhpdef%2Fsymfony-http-kernel) | 7.4.19 |  | Tyhp type definitions for symfony/http-kernel 7.4.19. |
+| 2026-10-05 19:30:25 | [tyhpdef/symfony-http-kernel-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-http-kernel-impl) | 7.4.19.0 |  | Implementation package for tyhpdef/symfony-http-kernel. Require tyhpdef/symfony… |
+| 2026-10-05 19:30:42 | [tyhpdef/symfony-intl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-intl) | 7.4.17 |  | Tyhp type definitions for symfony/intl 7.4.17. |
+| 2026-10-05 19:30:52 | [tyhpdef/symfony-intl-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-intl-impl) | 7.4.17.0 |  | Implementation package for tyhpdef/symfony-intl. Require tyhpdef/symfony-intl,… |
+| 2026-10-05 19:31:09 | [tyhpdef/symfony-lock](https://www.nuget.org/packages/tyhpdef%2Fsymfony-lock) | 7.4.18 |  | Tyhp type definitions for symfony/lock 7.4.18. |
+| 2026-10-05 19:31:19 | [tyhpdef/symfony-lock-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-lock-impl) | 7.4.18.0 |  | Implementation package for tyhpdef/symfony-lock. Require tyhpdef/symfony-lock,… |
+| 2026-10-05 19:31:37 | [tyhpdef/symfony-mailer](https://www.nuget.org/packages/tyhpdef%2Fsymfony-mailer) | 7.4.19 |  | Tyhp type definitions for symfony/mailer 7.4.19. |
+| 2026-10-05 19:31:49 | [tyhpdef/symfony-mailer-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-mailer-impl) | 7.4.19.0 |  | Implementation package for tyhpdef/symfony-mailer. Require tyhpdef/symfony-mail… |
+| 2026-10-05 19:32:07 | [tyhpdef/symfony-mailgun-mailer](https://www.nuget.org/packages/tyhpdef%2Fsymfony-mailgun-mailer) | 7.4.18 |  | Tyhp type definitions for symfony/mailgun-mailer 7.4.18. |
+| 2026-10-05 19:32:18 | [tyhpdef/symfony-mailgun-mailer-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-mailgun-mailer-impl) | 7.4.18.0 |  | Implementation package for tyhpdef/symfony-mailgun-mailer. Require tyhpdef/symf… |
+| 2026-10-05 19:32:34 | [tyhpdef/symfony-maker-bundle](https://www.nuget.org/packages/tyhpdef%2Fsymfony-maker-bundle) | 1.67.0 |  | Tyhp type definitions for symfony/maker-bundle 1.67.0. |
+| 2026-10-05 19:32:44 | [tyhpdef/symfony-maker-bundle-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-maker-bundle-impl) | 1.67.0.0 |  | Implementation package for tyhpdef/symfony-maker-bundle. Require tyhpdef/symfon… |
+| 2026-10-05 19:32:51 | [mage2kishan/module-advanced-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-seo) | 1.8.9 | Kishan Savaliya | Panth Advanced SEO — enterprise-grade SEO suite for Magento 2: SEO dashboard, m… |
+| 2026-10-05 19:33:01 | [tyhpdef/symfony-messenger](https://www.nuget.org/packages/tyhpdef%2Fsymfony-messenger) | 7.4.19 |  | Tyhp type definitions for symfony/messenger 7.4.19. |
+| 2026-10-05 19:33:12 | [tyhpdef/symfony-messenger-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-messenger-impl) | 7.4.19.0 |  | Implementation package for tyhpdef/symfony-messenger. Require tyhpdef/symfony-m… |
+| 2026-10-05 19:33:28 | [tyhpdef/symfony-mime](https://www.nuget.org/packages/tyhpdef%2Fsymfony-mime) | 8.1.7 |  | Tyhp type definitions for symfony/mime 8.1.7. |
+| 2026-10-05 19:33:39 | [tyhpdef/symfony-mime-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-mime-impl) | 8.1.7.0 |  | Implementation package for tyhpdef/symfony-mime. Require tyhpdef/symfony-mime,… |
+| 2026-10-05 19:34:15 | [tyhpdef/symfony-monolog-bridge](https://www.nuget.org/packages/tyhpdef%2Fsymfony-monolog-bridge) | 7.4.18 |  | Tyhp type definitions for symfony/monolog-bridge 7.4.18. |
+| 2026-10-05 19:34:26 | [tyhpdef/symfony-monolog-bridge-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-monolog-bridge-impl) | 7.4.18.0 |  | Implementation package for tyhpdef/symfony-monolog-bridge. Require tyhpdef/symf… |
+| 2026-10-05 19:34:42 | [tyhpdef/symfony-monolog-bundle](https://www.nuget.org/packages/tyhpdef%2Fsymfony-monolog-bundle) | 4.0.2 |  | Tyhp type definitions for symfony/monolog-bundle 4.0.2. |
+| 2026-10-05 19:34:52 | [tyhpdef/symfony-monolog-bundle-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-monolog-bundle-impl) | 4.0.2.0 |  | Implementation package for tyhpdef/symfony-monolog-bundle. Require tyhpdef/symf… |
+| 2026-10-05 19:35:09 | [tyhpdef/symfony-notifier](https://www.nuget.org/packages/tyhpdef%2Fsymfony-notifier) | 7.4.17 |  | Tyhp type definitions for symfony/notifier 7.4.17. |
+| 2026-10-05 19:35:19 | [tyhpdef/symfony-notifier-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-notifier-impl) | 7.4.17.0 |  | Implementation package for tyhpdef/symfony-notifier. Require tyhpdef/symfony-no… |
+| 2026-10-05 19:35:36 | [tyhpdef/symfony-options-resolver](https://www.nuget.org/packages/tyhpdef%2Fsymfony-options-resolver) | 7.4.8 |  | Tyhp type definitions for symfony/options-resolver 7.4.8. |
+| 2026-10-05 19:35:46 | [tyhpdef/symfony-options-resolver-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-options-resolver-impl) | 7.4.8.0 |  | Implementation package for tyhpdef/symfony-options-resolver. Require tyhpdef/sy… |
+| 2026-10-05 19:36:03 | [tyhpdef/symfony-password-hasher](https://www.nuget.org/packages/tyhpdef%2Fsymfony-password-hasher) | 7.4.8 |  | Tyhp type definitions for symfony/password-hasher 7.4.8. |
+| 2026-10-05 19:36:13 | [tyhpdef/symfony-password-hasher-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-password-hasher-impl) | 7.4.8.0 |  | Implementation package for tyhpdef/symfony-password-hasher. Require tyhpdef/sym… |
+| 2026-10-05 19:36:29 | [tyhpdef/symfony-phpunit-bridge](https://www.nuget.org/packages/tyhpdef%2Fsymfony-phpunit-bridge) | 7.4.17 |  | Tyhp type definitions for symfony/phpunit-bridge 7.4.17. |
+| 2026-10-05 19:36:40 | [tyhpdef/symfony-phpunit-bridge-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-phpunit-bridge-impl) | 7.4.17.0 |  | Implementation package for tyhpdef/symfony-phpunit-bridge. Require tyhpdef/symf… |
+| 2026-10-05 19:36:57 | [tyhpdef/symfony-polyfill-ctype](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-ctype) | 1.37.0 |  | Tyhp type definitions for symfony/polyfill-ctype 1.37.0. |
+| 2026-10-05 19:37:08 | [tyhpdef/symfony-polyfill-ctype-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-ctype-impl) | 1.37.0.0 |  | Implementation package for tyhpdef/symfony-polyfill-ctype. Require tyhpdef/symf… |
+| 2026-10-05 19:37:24 | [tyhpdef/symfony-polyfill-intl-grapheme](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-intl-grapheme) | 1.41.0 |  | Tyhp type definitions for symfony/polyfill-intl-grapheme 1.41.0. |
+| 2026-10-05 19:37:34 | [tyhpdef/symfony-polyfill-intl-grapheme-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-intl-grapheme-impl) | 1.41.0.0 |  | Implementation package for tyhpdef/symfony-polyfill-intl-grapheme. Require tyhp… |
+| 2026-10-05 19:37:51 | [tyhpdef/symfony-polyfill-intl-idn](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-intl-idn) | 1.42.0 |  | Tyhp type definitions for symfony/polyfill-intl-idn 1.42.0. |
+| 2026-10-05 19:38:01 | [tyhpdef/symfony-polyfill-intl-idn-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-intl-idn-impl) | 1.42.0.0 |  | Implementation package for tyhpdef/symfony-polyfill-intl-idn. Require tyhpdef/s… |
+| 2026-10-05 19:38:17 | [tyhpdef/symfony-polyfill-intl-normalizer](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-intl-normalizer) | 1.42.0 |  | Tyhp type definitions for symfony/polyfill-intl-normalizer 1.42.0. |
+| 2026-10-05 19:38:28 | [tyhpdef/symfony-polyfill-intl-normalizer-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-intl-normalizer-impl) | 1.42.0.0 |  | Implementation package for tyhpdef/symfony-polyfill-intl-normalizer. Require ty… |
+| 2026-10-05 19:38:44 | [tyhpdef/symfony-polyfill-mbstring](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-mbstring) | 1.38.2 |  | Tyhp type definitions for symfony/polyfill-mbstring 1.38.2. |
+| 2026-10-05 19:38:54 | [tyhpdef/symfony-polyfill-mbstring-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-mbstring-impl) | 1.38.2.0 |  | Implementation package for tyhpdef/symfony-polyfill-mbstring. Require tyhpdef/s… |
+| 2026-10-05 19:39:11 | [tyhpdef/symfony-polyfill-php80](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-php80) | 1.37.0 |  | Tyhp type definitions for symfony/polyfill-php80 1.37.0. |
+| 2026-10-05 19:39:22 | [tyhpdef/symfony-polyfill-php80-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-php80-impl) | 1.37.0.0 |  | Implementation package for tyhpdef/symfony-polyfill-php80. Require tyhpdef/symf… |
+| 2026-10-05 19:39:37 | [tyhpdef/symfony-polyfill-php84](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-php84) | 1.38.1 |  | Tyhp type definitions for symfony/polyfill-php84 1.38.1. |
+| 2026-10-05 19:39:49 | [tyhpdef/symfony-polyfill-php84-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-php84-impl) | 1.38.1.0 |  | Implementation package for tyhpdef/symfony-polyfill-php84. Require tyhpdef/symf… |
+| 2026-10-05 19:40:05 | [tyhpdef/symfony-polyfill-php85](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-php85) | 1.41.0 |  | Tyhp type definitions for symfony/polyfill-php85 1.41.0. |
+| 2026-10-05 19:40:07 | [veloxrouter/middlewares](https://www.nuget.org/packages/veloxrouter%2Fmiddlewares) | v1.0.0 | Ortiz David | Official middleware collection for VeloxRouter ecosystem. |
+| 2026-10-05 19:40:16 | [tyhpdef/symfony-polyfill-php85-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-php85-impl) | 1.41.0.0 |  | Implementation package for tyhpdef/symfony-polyfill-php85. Require tyhpdef/symf… |
+| 2026-10-05 19:40:33 | [tyhpdef/symfony-polyfill-php86](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-php86) | 1.41.0 |  | Tyhp type definitions for symfony/polyfill-php86 1.41.0. |
+| 2026-10-05 19:40:43 | [tyhpdef/symfony-polyfill-php86-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-polyfill-php86-impl) | 1.41.0.0 |  | Implementation package for tyhpdef/symfony-polyfill-php86. Require tyhpdef/symf… |
+| 2026-10-05 19:41:00 | [tyhpdef/symfony-postmark-mailer](https://www.nuget.org/packages/tyhpdef%2Fsymfony-postmark-mailer) | 7.4.18 |  | Tyhp type definitions for symfony/postmark-mailer 7.4.18. |
+| 2026-10-05 19:41:11 | [tyhpdef/symfony-postmark-mailer-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-postmark-mailer-impl) | 7.4.18.0 |  | Implementation package for tyhpdef/symfony-postmark-mailer. Require tyhpdef/sym… |
+| 2026-10-05 19:41:28 | [tyhpdef/symfony-process](https://www.nuget.org/packages/tyhpdef%2Fsymfony-process) | 8.1.7 |  | Tyhp type definitions for symfony/process 8.1.7. |
+| 2026-10-05 19:41:38 | [tyhpdef/symfony-process-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-process-impl) | 8.1.7.0 |  | Implementation package for tyhpdef/symfony-process. Require tyhpdef/symfony-pro… |
+| 2026-10-05 19:42:16 | [tyhpdef/symfony-property-access](https://www.nuget.org/packages/tyhpdef%2Fsymfony-property-access) | 7.4.16 |  | Tyhp type definitions for symfony/property-access 7.4.16. |
+| 2026-10-05 19:42:26 | [tyhpdef/symfony-property-access-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-property-access-impl) | 7.4.16.0 |  | Implementation package for tyhpdef/symfony-property-access. Require tyhpdef/sym… |
+| 2026-10-05 19:42:43 | [tyhpdef/symfony-property-info](https://www.nuget.org/packages/tyhpdef%2Fsymfony-property-info) | 7.4.19 |  | Tyhp type definitions for symfony/property-info 7.4.19. |
+| 2026-10-05 19:42:53 | [tyhpdef/symfony-property-info-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-property-info-impl) | 7.4.19.0 |  | Implementation package for tyhpdef/symfony-property-info. Require tyhpdef/symfo… |
+| 2026-10-05 19:43:09 | [tyhpdef/symfony-psr-http-message-bridge](https://www.nuget.org/packages/tyhpdef%2Fsymfony-psr-http-message-bridge) | 7.4.8 |  | Tyhp type definitions for symfony/psr-http-message-bridge 7.4.8. |
+| 2026-10-05 19:43:19 | [tyhpdef/symfony-psr-http-message-bridge-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-psr-http-message-bridge-impl) | 7.4.8.0 |  | Implementation package for tyhpdef/symfony-psr-http-message-bridge. Require tyh… |
+| 2026-10-05 19:43:36 | [tyhpdef/symfony-rate-limiter](https://www.nuget.org/packages/tyhpdef%2Fsymfony-rate-limiter) | 7.4.18 |  | Tyhp type definitions for symfony/rate-limiter 7.4.18. |
+| 2026-10-05 19:43:48 | [tyhpdef/symfony-rate-limiter-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-rate-limiter-impl) | 7.4.18.0 |  | Implementation package for tyhpdef/symfony-rate-limiter. Require tyhpdef/symfon… |
+| 2026-10-05 19:44:05 | [tyhpdef/symfony-routing](https://www.nuget.org/packages/tyhpdef%2Fsymfony-routing) | 7.4.18 |  | Tyhp type definitions for symfony/routing 7.4.18. |
+| 2026-10-05 19:44:15 | [tyhpdef/symfony-routing-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-routing-impl) | 7.4.18.0 |  | Implementation package for tyhpdef/symfony-routing. Require tyhpdef/symfony-rou… |
+| 2026-10-05 19:44:32 | [tyhpdef/symfony-runtime](https://www.nuget.org/packages/tyhpdef%2Fsymfony-runtime) | 7.4.14 |  | Tyhp type definitions for symfony/runtime 7.4.14. |
+| 2026-10-05 19:44:43 | [tyhpdef/symfony-runtime-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-runtime-impl) | 7.4.14.0 |  | Implementation package for tyhpdef/symfony-runtime. Require tyhpdef/symfony-run… |
+| 2026-10-05 19:44:59 | [tyhpdef/symfony-security-bundle](https://www.nuget.org/packages/tyhpdef%2Fsymfony-security-bundle) | 7.4.15 |  | Tyhp type definitions for symfony/security-bundle 7.4.15. |
+| 2026-10-05 19:45:10 | [tyhpdef/symfony-security-bundle-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-security-bundle-impl) | 7.4.15.0 |  | Implementation package for tyhpdef/symfony-security-bundle. Require tyhpdef/sym… |
+| 2026-10-05 19:45:26 | [tyhpdef/symfony-security-core](https://www.nuget.org/packages/tyhpdef%2Fsymfony-security-core) | 7.4.18 |  | Tyhp type definitions for symfony/security-core 7.4.18. |
+| 2026-10-05 19:45:36 | [tyhpdef/symfony-security-core-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-security-core-impl) | 7.4.18.0 |  | Implementation package for tyhpdef/symfony-security-core. Require tyhpdef/symfo… |
+| 2026-10-05 19:45:53 | [tyhpdef/symfony-security-csrf](https://www.nuget.org/packages/tyhpdef%2Fsymfony-security-csrf) | 7.4.8 |  | Tyhp type definitions for symfony/security-csrf 7.4.8. |
+| 2026-10-05 19:46:03 | [tyhpdef/symfony-security-csrf-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-security-csrf-impl) | 7.4.8.0 |  | Implementation package for tyhpdef/symfony-security-csrf. Require tyhpdef/symfo… |
+| 2026-10-05 19:46:20 | [tyhpdef/symfony-security-http](https://www.nuget.org/packages/tyhpdef%2Fsymfony-security-http) | 7.4.19 |  | Tyhp type definitions for symfony/security-http 7.4.19. |
+| 2026-10-05 19:46:30 | [tyhpdef/symfony-security-http-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-security-http-impl) | 7.4.19.0 |  | Implementation package for tyhpdef/symfony-security-http. Require tyhpdef/symfo… |
+| 2026-10-05 19:46:46 | [tyhpdef/symfony-serializer](https://www.nuget.org/packages/tyhpdef%2Fsymfony-serializer) | 7.4.19 |  | Tyhp type definitions for symfony/serializer 7.4.19. |
+| 2026-10-05 19:46:57 | [tyhpdef/symfony-serializer-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-serializer-impl) | 7.4.19.0 |  | Implementation package for tyhpdef/symfony-serializer. Require tyhpdef/symfony-… |
+| 2026-10-05 19:47:13 | [tyhpdef/symfony-service-contracts](https://www.nuget.org/packages/tyhpdef%2Fsymfony-service-contracts) | 3.7.3 |  | Tyhp type definitions for symfony/service-contracts 3.7.3. |
+| 2026-10-05 19:47:24 | [tyhpdef/symfony-service-contracts-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-service-contracts-impl) | 3.7.3.0 |  | Implementation package for tyhpdef/symfony-service-contracts. Require tyhpdef/s… |
+| 2026-10-05 19:47:41 | [tyhpdef/symfony-stimulus-bundle](https://www.nuget.org/packages/tyhpdef%2Fsymfony-stimulus-bundle) | 3.4.0 |  | Tyhp type definitions for symfony/stimulus-bundle 3.4.0. |
+| 2026-10-05 19:47:51 | [tyhpdef/symfony-stimulus-bundle-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-stimulus-bundle-impl) | 3.4.0.0 |  | Implementation package for tyhpdef/symfony-stimulus-bundle. Require tyhpdef/sym… |
+| 2026-10-05 19:48:08 | [tyhpdef/symfony-string](https://www.nuget.org/packages/tyhpdef%2Fsymfony-string) | 8.1.7 |  | Tyhp type definitions for symfony/string 8.1.7. |
+| 2026-10-05 19:48:18 | [tyhpdef/symfony-string-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-string-impl) | 8.1.7.0 |  | Implementation package for tyhpdef/symfony-string. Require tyhpdef/symfony-stri… |
+| 2026-10-05 19:48:55 | [tyhpdef/symfony-translation-contracts](https://www.nuget.org/packages/tyhpdef%2Fsymfony-translation-contracts) | 3.7.1 |  | Tyhp type definitions for symfony/translation-contracts 3.7.1. |
+| 2026-10-05 19:49:05 | [tyhpdef/symfony-translation-contracts-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-translation-contracts-impl) | 3.7.1.0 |  | Implementation package for tyhpdef/symfony-translation-contracts. Require tyhpd… |
+| 2026-10-05 19:49:21 | [tyhpdef/symfony-translation](https://www.nuget.org/packages/tyhpdef%2Fsymfony-translation) | 8.1.5 |  | Tyhp type definitions for symfony/translation 8.1.5. |
+| 2026-10-05 19:49:32 | [tyhpdef/symfony-translation-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-translation-impl) | 8.1.5.0 |  | Implementation package for tyhpdef/symfony-translation. Require tyhpdef/symfony… |
+| 2026-10-05 19:50:09 | [tyhpdef/symfony-twig-bridge](https://www.nuget.org/packages/tyhpdef%2Fsymfony-twig-bridge) | 7.4.17 |  | Tyhp type definitions for symfony/twig-bridge 7.4.17. |
+| 2026-10-05 19:50:20 | [tyhpdef/symfony-twig-bridge-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-twig-bridge-impl) | 7.4.17.0 |  | Implementation package for tyhpdef/symfony-twig-bridge. Require tyhpdef/symfony… |
+| 2026-10-05 19:50:37 | [tyhpdef/symfony-twig-bundle](https://www.nuget.org/packages/tyhpdef%2Fsymfony-twig-bundle) | 7.4.15 |  | Tyhp type definitions for symfony/twig-bundle 7.4.15. |
+| 2026-10-05 19:50:48 | [tyhpdef/symfony-twig-bundle-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-twig-bundle-impl) | 7.4.15.0 |  | Implementation package for tyhpdef/symfony-twig-bundle. Require tyhpdef/symfony… |
+| 2026-10-05 19:51:04 | [tyhpdef/symfony-type-info](https://www.nuget.org/packages/tyhpdef%2Fsymfony-type-info) | 7.4.17 |  | Tyhp type definitions for symfony/type-info 7.4.17. |
+| 2026-10-05 19:51:14 | [tyhpdef/symfony-type-info-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-type-info-impl) | 7.4.17.0 |  | Implementation package for tyhpdef/symfony-type-info. Require tyhpdef/symfony-t… |
+| 2026-10-05 19:51:31 | [tyhpdef/symfony-uid](https://www.nuget.org/packages/tyhpdef%2Fsymfony-uid) | 7.4.17 |  | Tyhp type definitions for symfony/uid 7.4.17. |
+| 2026-10-05 19:51:42 | [tyhpdef/symfony-uid-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-uid-impl) | 7.4.17.0 |  | Implementation package for tyhpdef/symfony-uid. Require tyhpdef/symfony-uid, no… |
+| 2026-10-05 19:51:58 | [tyhpdef/symfony-ux-live-component](https://www.nuget.org/packages/tyhpdef%2Fsymfony-ux-live-component) | 3.4.0 |  | Tyhp type definitions for symfony/ux-live-component 3.4.0. |
+| 2026-10-05 19:52:08 | [tyhpdef/symfony-ux-live-component-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-ux-live-component-impl) | 3.4.0.0 |  | Implementation package for tyhpdef/symfony-ux-live-component. Require tyhpdef/s… |
+| 2026-10-05 19:52:25 | [tyhpdef/symfony-ux-twig-component](https://www.nuget.org/packages/tyhpdef%2Fsymfony-ux-twig-component) | 3.4.0 |  | Tyhp type definitions for symfony/ux-twig-component 3.4.0. |
+| 2026-10-05 19:52:35 | [tyhpdef/symfony-ux-twig-component-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-ux-twig-component-impl) | 3.4.0.0 |  | Implementation package for tyhpdef/symfony-ux-twig-component. Require tyhpdef/s… |
+| 2026-10-05 19:52:52 | [tyhpdef/symfony-validator](https://www.nuget.org/packages/tyhpdef%2Fsymfony-validator) | 7.4.19 |  | Tyhp type definitions for symfony/validator 7.4.19. |
+| 2026-10-05 19:53:02 | [tyhpdef/symfony-validator-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-validator-impl) | 7.4.19.0 |  | Implementation package for tyhpdef/symfony-validator. Require tyhpdef/symfony-v… |
+| 2026-10-05 19:53:19 | [tyhpdef/symfony-var-dumper](https://www.nuget.org/packages/tyhpdef%2Fsymfony-var-dumper) | 8.1.7 |  | Tyhp type definitions for symfony/var-dumper 8.1.7. |
+| 2026-10-05 19:53:30 | [tyhpdef/symfony-var-dumper-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-var-dumper-impl) | 8.1.7.0 |  | Implementation package for tyhpdef/symfony-var-dumper. Require tyhpdef/symfony-… |
+| 2026-10-05 19:54:07 | [tyhpdef/symfony-var-exporter](https://www.nuget.org/packages/tyhpdef%2Fsymfony-var-exporter) | 7.4.18 |  | Tyhp type definitions for symfony/var-exporter 7.4.18. |
+| 2026-10-05 19:54:17 | [tyhpdef/symfony-var-exporter-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-var-exporter-impl) | 7.4.18.0 |  | Implementation package for tyhpdef/symfony-var-exporter. Require tyhpdef/symfon… |
+| 2026-10-05 19:54:34 | [tyhpdef/symfony-workflow](https://www.nuget.org/packages/tyhpdef%2Fsymfony-workflow) | 7.4.9 |  | Tyhp type definitions for symfony/workflow 7.4.9. |
+| 2026-10-05 19:54:44 | [tyhpdef/symfony-workflow-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-workflow-impl) | 7.4.9.0 |  | Implementation package for tyhpdef/symfony-workflow. Require tyhpdef/symfony-wo… |
+| 2026-10-05 19:55:01 | [tyhpdef/symfony-yaml](https://www.nuget.org/packages/tyhpdef%2Fsymfony-yaml) | 7.4.18 |  | Tyhp type definitions for symfony/yaml 7.4.18. |
+| 2026-10-05 19:55:11 | [tyhpdef/symfony-yaml-impl](https://www.nuget.org/packages/tyhpdef%2Fsymfony-yaml-impl) | 7.4.18.0 |  | Implementation package for tyhpdef/symfony-yaml. Require tyhpdef/symfony-yaml,… |
+| 2026-10-05 19:55:28 | [tyhpdef/tightenco-ziggy](https://www.nuget.org/packages/tyhpdef%2Ftightenco-ziggy) | 2.6.4 |  | Tyhp type definitions for tightenco/ziggy 2.6.4. |
+| 2026-10-05 19:55:39 | [tyhpdef/tightenco-ziggy-impl](https://www.nuget.org/packages/tyhpdef%2Ftightenco-ziggy-impl) | 2.6.4.0 |  | Implementation package for tyhpdef/tightenco-ziggy. Require tyhpdef/tightenco-z… |
+| 2026-10-05 19:55:55 | [tyhpdef/tijsverkoyen-css-to-inline-styles](https://www.nuget.org/packages/tyhpdef%2Ftijsverkoyen-css-to-inline-styles) | 2.4.0 |  | Tyhp type definitions for tijsverkoyen/css-to-inline-styles 2.4.0. |
+| 2026-10-05 19:56:05 | [tyhpdef/tijsverkoyen-css-to-inline-styles-impl](https://www.nuget.org/packages/tyhpdef%2Ftijsverkoyen-css-to-inline-styles-impl) | 2.4.0.0 |  | Implementation package for tyhpdef/tijsverkoyen-css-to-inline-styles. Require t… |
+| 2026-10-05 19:56:22 | [tyhpdef/twig-twig](https://www.nuget.org/packages/tyhpdef%2Ftwig-twig) | 3.28.0 |  | Tyhp type definitions for twig/twig 3.28.0. |
+| 2026-10-05 19:56:33 | [tyhpdef/twig-twig-impl](https://www.nuget.org/packages/tyhpdef%2Ftwig-twig-impl) | 3.28.0.0 |  | Implementation package for tyhpdef/twig-twig. Require tyhpdef/twig-twig, not th… |
+| 2026-10-05 19:56:49 | [tyhpdef/twilio-sdk](https://www.nuget.org/packages/tyhpdef%2Ftwilio-sdk) | 8.12.1 |  | Tyhp type definitions for twilio/sdk 8.12.1. |
+| 2026-10-05 19:57:00 | [tyhpdef/twilio-sdk-impl](https://www.nuget.org/packages/tyhpdef%2Ftwilio-sdk-impl) | 8.12.1.0 |  | Implementation package for tyhpdef/twilio-sdk. Require tyhpdef/twilio-sdk, not… |
+| 2026-10-05 19:57:18 | [tyhpdef/vimeo-psalm](https://www.nuget.org/packages/tyhpdef%2Fvimeo-psalm) | 7.0.0-beta22 |  | Tyhp type definitions for vimeo/psalm 7.0.0-beta22. |
+| 2026-10-05 19:57:29 | [tyhpdef/vimeo-psalm-impl](https://www.nuget.org/packages/tyhpdef%2Fvimeo-psalm-impl) | 7.0.0.0-beta22 |  | Implementation package for tyhpdef/vimeo-psalm. Require tyhpdef/vimeo-psalm, no… |
+| 2026-10-05 19:58:49 | [tyhpdef/vlucas-phpdotenv](https://www.nuget.org/packages/tyhpdef%2Fvlucas-phpdotenv) | 5.7.0 |  | Tyhp type definitions for vlucas/phpdotenv 5.7.0. |
+| 2026-10-05 19:58:59 | [tyhpdef/vlucas-phpdotenv-impl](https://www.nuget.org/packages/tyhpdef%2Fvlucas-phpdotenv-impl) | 5.7.0.0 |  | Implementation package for tyhpdef/vlucas-phpdotenv. Require tyhpdef/vlucas-php… |
+| 2026-10-05 19:59:16 | [tyhpdef/webmozart-assert](https://www.nuget.org/packages/tyhpdef%2Fwebmozart-assert) | 2.4.1 |  | Tyhp type definitions for webmozart/assert 2.4.1. |
+| 2026-10-05 19:59:27 | [tyhpdef/webmozart-assert-impl](https://www.nuget.org/packages/tyhpdef%2Fwebmozart-assert-impl) | 2.4.1.0 |  | Implementation package for tyhpdef/webmozart-assert. Require tyhpdef/webmozart-… |
+| 2026-10-05 19:59:43 | [tyhpdef/willdurand-negotiation](https://www.nuget.org/packages/tyhpdef%2Fwilldurand-negotiation) | 3.1.0 |  | Tyhp type definitions for willdurand/negotiation 3.1.0. |
+| 2026-10-05 19:59:53 | [tyhpdef/willdurand-negotiation-impl](https://www.nuget.org/packages/tyhpdef%2Fwilldurand-negotiation-impl) | 3.1.0.0 |  | Implementation package for tyhpdef/willdurand-negotiation. Require tyhpdef/will… |
+| 2026-10-05 20:01:32 | [dariodelogu/monti-framework-core](https://www.nuget.org/packages/dariodelogu%2Fmonti-framework-core) | 1.0.0 |  | Monti PHP framework core |
+| 2026-10-05 20:02:08 | [dariodelogu/monti-framework](https://www.nuget.org/packages/dariodelogu%2Fmonti-framework) | 1.0.0 |  | A modular PHP framework, built for speed and simplicity |
 
 ## Data source
 
