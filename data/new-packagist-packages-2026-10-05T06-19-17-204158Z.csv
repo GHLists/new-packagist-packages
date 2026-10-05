@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-05T05:25:27Z,contenir/errors-mezzio,v0.1.0,,Mezzio (PSR-15) adapter for contenir/errors — renders admin-authored per-status pages for 4xx/5xx responses.
+2026-10-05T05:26:17Z,wentthefox/services_libravatar,v1.0.5,Melissa Draper; Christian Weiske; WentTheFox,API interfacing class for libravatar.org
+2026-10-05T05:42:53Z,patterns/unit,v1.0.0,,"Unit pattern - a named, versioned identity for code that produces data, so every record can say which unit and which version made it."
+2026-10-05T05:50:28Z,contenir/contenir-db-model-tools,v1.0.0-rc1,,"Command-line tools for contenir-db-model: generate entities from live tables, upgrade 1.x entities and validate mappings"
+2026-10-05T05:50:58Z,mage2kishan/module-sale-filter,1.1.5,Kishan Savaliya,"Panth Sale Filter — ""On Sale"" layered navigation filter for Magento 2, backed by a custom indexer that respects catalog rules, special prices, customer groups, websites, and all product types (simple, configurable, grouped, bundle, virtual, downloadable). Hyva and Luma compatible."
+2026-10-05T05:58:50Z,units/logger,v1.0.0,,"Log unit - a versioned logging identity that writes through an injected adapter, on the patterns/unit contract."
+2026-10-05T06:05:43Z,stubbedev/jenkins-mcp,v0.2.6,,"MCP server for Jenkins build status and logs (Go, distributed as a prebuilt binary)"
+2026-10-05T06:07:29Z,stubbedev/sentry-mcp,v0.2.8,,"MCP server for self-hosted Sentry (Go, distributed as a prebuilt binary)"
