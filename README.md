@@ -15,24 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 07:20 UTC
+## Latest list — 2026-10-05 08:21 UTC
 
-New packages created between 2026-10-05 06:19 UTC and 2026-10-05 07:20 UTC.
+New packages created between 2026-10-05 07:20 UTC and 2026-10-05 08:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-05T07-20-35-280974Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-05T08-21-21-701512Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-05 06:20:35 | [stubbedev/atlassian-mcp](https://www.nuget.org/packages/stubbedev%2Fatlassian-mcp) | v0.5.24 |  | MCP server for self-hosted Jira and Bitbucket (Go, distributed as a prebuilt bi… |
-| 2026-10-05 06:22:17 | [cyllene-digital/sylius-tarteaucitron-plugin](https://www.nuget.org/packages/cyllene-digital%2Fsylius-tarteaucitron-plugin) | v1.0.0 |  | tarteaucitron.js cookie consent manager for Sylius. |
-| 2026-10-05 06:26:22 | [ianfoxdev/money-lint](https://www.nuget.org/packages/ianfoxdev%2Fmoney-lint) | v0.1.0 | Anatoly Pankratyev | PHPStan rules for code that moves money: floats in amounts, HTTP calls inside d… |
-| 2026-10-05 06:48:00 | [openemail/sdk](https://www.nuget.org/packages/openemail%2Fsdk) | v0.0.1 | OpenEmail | The official PHP SDK for the OpenEmail API. Send email and broadcasts, work wit… |
-| 2026-10-05 06:50:44 | [joydeep-bhowmik/quire](https://www.nuget.org/packages/joydeep-bhowmik%2Fquire) | v0.1.1 | Joydeep Bhowmik | File-based page router for plain PHP: every .php or .blade.php file is a route,… |
-| 2026-10-05 06:51:57 | [russelcruz28/filament-demo-mode](https://www.nuget.org/packages/russelcruz28%2Ffilament-demo-mode) | v0.1.0 | Russelcruz28 | Persistent SQLite demo sandboxes, role switching, and production-data isolation… |
-| 2026-10-05 06:52:49 | [mage2kishan/module-redirects](https://www.nuget.org/packages/mage2kishan%2Fmodule-redirects) | 1.2.6 |  | Redirects and 404 management for Magento 2 (Hyva + Luma). Manual + auto redirec… |
-| 2026-10-05 06:56:36 | [mohan-devstack/magento2-guest-order-to-customer](https://www.nuget.org/packages/mohan-devstack%2Fmagento2-guest-order-to-customer) | 1.0.0 | Mohan Prabhu | Map Magento 2 guest orders to an existing customer account with the same email,… |
-| 2026-10-05 07:00:51 | [stubbedev/ds-mcp](https://www.nuget.org/packages/stubbedev%2Fds-mcp) | v0.3.15 |  | DataStore MCP — one MCP server for MySQL/MariaDB, PostgreSQL, SQLite, DuckDB, S… |
-| 2026-10-05 07:05:58 | [janprikryl/revolutx](https://www.nuget.org/packages/janprikryl%2Frevolutx) | 0.0.6 | Jan Přikryl | PHP SDK for the Revolut X Crypto Exchange REST API (v1.0) |
+| 2026-10-05 07:58:29 | [projek-xyz/callable](https://www.nuget.org/packages/projek-xyz%2Fcallable) | v0.1.0 | Fery Wardiyanto | Auto-wire and invoke any callable through PSR-11 |
+| 2026-10-05 08:00:46 | [jishan-shk/laravel-databricks](https://www.nuget.org/packages/jishan-shk%2Flaravel-databricks) | v1.0.0 | Jishan | Databricks SQL client for Laravel over ODBC (Simba Spark / Databricks ODBC driv… |
+| 2026-10-05 08:12:16 | [survos/folio](https://www.nuget.org/packages/survos%2Ffolio) | 2.35.4 |  | Framework-free SQLite folio metadata reader and migration adapter. |
 
 ## Data source
 

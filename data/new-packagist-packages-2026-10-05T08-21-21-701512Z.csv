@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-05T07:58:29Z,projek-xyz/callable,v0.1.0,Fery Wardiyanto,Auto-wire and invoke any callable through PSR-11
+2026-10-05T08:00:46Z,jishan-shk/laravel-databricks,v1.0.0,Jishan,Databricks SQL client for Laravel over ODBC (Simba Spark / Databricks ODBC driver).
+2026-10-05T08:12:16Z,survos/folio,2.35.4,,Framework-free SQLite folio metadata reader and migration adapter.
