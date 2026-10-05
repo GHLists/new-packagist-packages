@@ -1,0 +1,239 @@
+created_at,package,version,author,description
+2026-10-05T17:19:46Z,tyhpdef/google-apiclient-services-tagmanager-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-tagmanager. Require tyhpdef/google-apiclient-services-tagmanager, not this package."
+2026-10-05T17:20:03Z,tyhpdef/google-apiclient-services-tasks,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:20:14Z,tyhpdef/google-apiclient-services-tasks-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-tasks. Require tyhpdef/google-apiclient-services-tasks, not this package."
+2026-10-05T17:20:31Z,betacalendars/calendar-presentation,v0.1.0,Beta Calendars,"Framework-agnostic, localized and accessible calendar presentation models and renderers for PHP."
+2026-10-05T17:20:31Z,tyhpdef/google-apiclient-services-testing,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:20:42Z,tyhpdef/google-apiclient-services-testing-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-testing. Require tyhpdef/google-apiclient-services-testing, not this package."
+2026-10-05T17:21:00Z,tyhpdef/google-apiclient-services-texttospeech,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:21:11Z,tyhpdef/google-apiclient-services-texttospeech-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-texttospeech. Require tyhpdef/google-apiclient-services-texttospeech, not this package."
+2026-10-05T17:21:28Z,tyhpdef/google-apiclient-services-threatintelligenceservice,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:21:39Z,tyhpdef/google-apiclient-services-threatintelligenceservice-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-threatintelligenceservice. Require tyhpdef/google-apiclient-services-threatintelligenceservice, not this package."
+2026-10-05T17:21:56Z,tyhpdef/google-apiclient-services-toolresults,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:22:07Z,tyhpdef/google-apiclient-services-toolresults-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-toolresults. Require tyhpdef/google-apiclient-services-toolresults, not this package."
+2026-10-05T17:22:27Z,tyhpdef/google-apiclient-services-tpu,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:22:40Z,tyhpdef/google-apiclient-services-tpu-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-tpu. Require tyhpdef/google-apiclient-services-tpu, not this package."
+2026-10-05T17:22:59Z,tyhpdef/google-apiclient-services-trafficdirectorservice,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:23:04Z,cubo3/img-thumb,v2.0.0,Cubo3 Ltda.,"Generador de miniaturas de imágenes en PHP, en un solo archivo: al vuelo con caché en disco y por lotes (CLI, recursivo)."
+2026-10-05T17:23:11Z,tyhpdef/google-apiclient-services-trafficdirectorservice-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-trafficdirectorservice. Require tyhpdef/google-apiclient-services-trafficdirectorservice, not this package."
+2026-10-05T17:23:29Z,tyhpdef/google-apiclient-services-transcoder,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:23:42Z,tyhpdef/google-apiclient-services-transcoder-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-transcoder. Require tyhpdef/google-apiclient-services-transcoder, not this package."
+2026-10-05T17:24:00Z,tyhpdef/google-apiclient-services-translate,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:24:12Z,tyhpdef/google-apiclient-services-translate-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-translate. Require tyhpdef/google-apiclient-services-translate, not this package."
+2026-10-05T17:24:30Z,tyhpdef/google-apiclient-services-travelimpactmodel,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:24:42Z,tyhpdef/google-apiclient-services-travelimpactmodel-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-travelimpactmodel. Require tyhpdef/google-apiclient-services-travelimpactmodel, not this package."
+2026-10-05T17:25:00Z,tyhpdef/google-apiclient-services-vault,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:25:11Z,tyhpdef/google-apiclient-services-vault-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-vault. Require tyhpdef/google-apiclient-services-vault, not this package."
+2026-10-05T17:25:29Z,tyhpdef/google-apiclient-services-verifiedaccess,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:25:42Z,tyhpdef/google-apiclient-services-verifiedaccess-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-verifiedaccess. Require tyhpdef/google-apiclient-services-verifiedaccess, not this package."
+2026-10-05T17:25:59Z,tyhpdef/google-apiclient-services-versionhistory,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:26:11Z,tyhpdef/google-apiclient-services-versionhistory-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-versionhistory. Require tyhpdef/google-apiclient-services-versionhistory, not this package."
+2026-10-05T17:26:29Z,tyhpdef/google-apiclient-services-vision,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:26:41Z,tyhpdef/google-apiclient-services-vision-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-vision. Require tyhpdef/google-apiclient-services-vision, not this package."
+2026-10-05T17:26:58Z,tyhpdef/google-apiclient-services-vmmigrationservice,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:27:09Z,tyhpdef/google-apiclient-services-vmmigrationservice-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-vmmigrationservice. Require tyhpdef/google-apiclient-services-vmmigrationservice, not this package."
+2026-10-05T17:27:28Z,tyhpdef/google-apiclient-services-vmwareengine,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:27:40Z,tyhpdef/google-apiclient-services-vmwareengine-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-vmwareengine. Require tyhpdef/google-apiclient-services-vmwareengine, not this package."
+2026-10-05T17:27:58Z,tyhpdef/google-apiclient-services-walletobjects,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:28:10Z,tyhpdef/google-apiclient-services-walletobjects-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-walletobjects. Require tyhpdef/google-apiclient-services-walletobjects, not this package."
+2026-10-05T17:28:28Z,tyhpdef/google-apiclient-services-webcontentpublisher,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:28:40Z,tyhpdef/google-apiclient-services-webcontentpublisher-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-webcontentpublisher. Require tyhpdef/google-apiclient-services-webcontentpublisher, not this package."
+2026-10-05T17:28:58Z,tyhpdef/google-apiclient-services-webfonts,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:29:09Z,tyhpdef/google-apiclient-services-webfonts-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-webfonts. Require tyhpdef/google-apiclient-services-webfonts, not this package."
+2026-10-05T17:29:26Z,tyhpdef/google-apiclient-services-webmasters,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:29:38Z,tyhpdef/google-apiclient-services-webmasters-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-webmasters. Require tyhpdef/google-apiclient-services-webmasters, not this package."
+2026-10-05T17:29:55Z,tyhpdef/google-apiclient-services-webrisk,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:30:06Z,tyhpdef/google-apiclient-services-webrisk-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-webrisk. Require tyhpdef/google-apiclient-services-webrisk, not this package."
+2026-10-05T17:30:25Z,tyhpdef/google-apiclient-services-workflowexecutions,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:30:36Z,tyhpdef/google-apiclient-services-workflowexecutions-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-workflowexecutions. Require tyhpdef/google-apiclient-services-workflowexecutions, not this package."
+2026-10-05T17:30:53Z,tyhpdef/google-apiclient-services-workflows,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:31:05Z,tyhpdef/google-apiclient-services-workflows-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-workflows. Require tyhpdef/google-apiclient-services-workflows, not this package."
+2026-10-05T17:31:23Z,tyhpdef/google-apiclient-services-workloadmanager,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:31:34Z,tyhpdef/google-apiclient-services-workloadmanager-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-workloadmanager. Require tyhpdef/google-apiclient-services-workloadmanager, not this package."
+2026-10-05T17:31:54Z,tyhpdef/google-apiclient-services-workspaceevents,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:32:05Z,tyhpdef/google-apiclient-services-workspaceevents-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-workspaceevents. Require tyhpdef/google-apiclient-services-workspaceevents, not this package."
+2026-10-05T17:32:23Z,tyhpdef/google-apiclient-services-youtube,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:32:35Z,tyhpdef/google-apiclient-services-youtube-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-youtube. Require tyhpdef/google-apiclient-services-youtube, not this package."
+2026-10-05T17:32:52Z,tyhpdef/google-apiclient-services-youtubeanalytics,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:33:04Z,tyhpdef/google-apiclient-services-youtubeanalytics-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-youtubeanalytics. Require tyhpdef/google-apiclient-services-youtubeanalytics, not this package."
+2026-10-05T17:33:22Z,tyhpdef/google-apiclient-services-youtubereporting,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:33:33Z,tyhpdef/google-apiclient-services-youtubereporting-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-youtubereporting. Require tyhpdef/google-apiclient-services-youtubereporting, not this package."
+2026-10-05T17:33:51Z,tyhpdef/google-apiclient-services,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T17:34:02Z,tyhpdef/google-apiclient-services-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services. Require tyhpdef/google-apiclient-services, not this package."
+2026-10-05T17:34:20Z,tyhpdef/google-apiclient,2.19.4,,Tyhp type definitions for google/apiclient 2.19.4.
+2026-10-05T17:34:33Z,tyhpdef/google-apiclient-impl,2.19.4.0,,"Implementation package for tyhpdef/google-apiclient. Require tyhpdef/google-apiclient, not this package."
+2026-10-05T17:34:51Z,tyhpdef/google-auth,1.54.0,,Tyhp type definitions for google/auth 1.54.0.
+2026-10-05T17:35:02Z,tyhpdef/google-auth-impl,1.54.0.0,,"Implementation package for tyhpdef/google-auth. Require tyhpdef/google-auth, not this package."
+2026-10-05T17:35:21Z,tyhpdef/google-cloud-core,1.73.3,,Tyhp type definitions for google/cloud-core 1.73.3.
+2026-10-05T17:35:34Z,tyhpdef/google-cloud-core-impl,1.73.3.0,,"Implementation package for tyhpdef/google-cloud-core. Require tyhpdef/google-cloud-core, not this package."
+2026-10-05T17:35:51Z,tyhpdef/google-cloud-storage,2.5.3,,Tyhp type definitions for google/cloud-storage 2.5.3.
+2026-10-05T17:36:02Z,tyhpdef/google-cloud-storage-impl,2.5.3.0,,"Implementation package for tyhpdef/google-cloud-storage. Require tyhpdef/google-cloud-storage, not this package."
+2026-10-05T17:36:22Z,tyhpdef/guzzlehttp-guzzle,8.2.0,,Tyhp type definitions for guzzlehttp/guzzle 8.2.0.
+2026-10-05T17:36:34Z,tyhpdef/guzzlehttp-guzzle-impl,8.2.0.0,,"Implementation package for tyhpdef/guzzlehttp-guzzle. Require tyhpdef/guzzlehttp-guzzle, not this package."
+2026-10-05T17:37:05Z,sebastka/domeneshop-dashboard,v0.3.0,Sebastian Karlsen,Read-only access to Domeneshop dashboard functions that the API does not expose. Unofficial and unsupported.
+2026-10-05T17:37:13Z,tyhpdef/guzzlehttp-promises,3.0.2,,Tyhp type definitions for guzzlehttp/promises 3.0.2.
+2026-10-05T17:37:25Z,tyhpdef/guzzlehttp-promises-impl,3.0.2.0,,"Implementation package for tyhpdef/guzzlehttp-promises. Require tyhpdef/guzzlehttp-promises, not this package."
+2026-10-05T17:38:05Z,tyhpdef/guzzlehttp-psr7,3.1.0,,Tyhp type definitions for guzzlehttp/psr7 3.1.0.
+2026-10-05T17:38:17Z,tyhpdef/guzzlehttp-psr7-impl,3.1.0.0,,"Implementation package for tyhpdef/guzzlehttp-psr7. Require tyhpdef/guzzlehttp-psr7, not this package."
+2026-10-05T17:38:58Z,tyhpdef/guzzlehttp-uri-template,2.0.1,,Tyhp type definitions for guzzlehttp/uri-template 2.0.1.
+2026-10-05T17:39:10Z,tyhpdef/guzzlehttp-uri-template-impl,2.0.1.0,,"Implementation package for tyhpdef/guzzlehttp-uri-template. Require tyhpdef/guzzlehttp-uri-template, not this package."
+2026-10-05T17:39:28Z,tyhpdef/hamcrest-hamcrest-php,3.0.0,,Tyhp type definitions for hamcrest/hamcrest-php 3.0.0.
+2026-10-05T17:39:39Z,tyhpdef/hamcrest-hamcrest-php-impl,3.0.0.0,,"Implementation package for tyhpdef/hamcrest-hamcrest-php. Require tyhpdef/hamcrest-hamcrest-php, not this package."
+2026-10-05T17:39:59Z,tyhpdef/hashids-hashids,5.0.2,,Tyhp type definitions for hashids/hashids 5.0.2.
+2026-10-05T17:40:10Z,tyhpdef/hashids-hashids-impl,5.0.2.0,,"Implementation package for tyhpdef/hashids-hashids. Require tyhpdef/hashids-hashids, not this package."
+2026-10-05T17:40:28Z,tyhpdef/illuminate-auth,13.32.0,,Tyhp type definitions for illuminate/auth 13.32.0.
+2026-10-05T17:40:40Z,tyhpdef/illuminate-auth-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-auth. Require tyhpdef/illuminate-auth, not this package."
+2026-10-05T17:40:57Z,tyhpdef/illuminate-broadcasting,13.32.0,,Tyhp type definitions for illuminate/broadcasting 13.32.0.
+2026-10-05T17:41:12Z,tyhpdef/illuminate-broadcasting-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-broadcasting. Require tyhpdef/illuminate-broadcasting, not this package."
+2026-10-05T17:41:30Z,tyhpdef/illuminate-bus,13.32.0,,Tyhp type definitions for illuminate/bus 13.32.0.
+2026-10-05T17:41:41Z,tyhpdef/illuminate-bus-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-bus. Require tyhpdef/illuminate-bus, not this package."
+2026-10-05T17:41:59Z,tyhpdef/illuminate-cache,13.32.0,,Tyhp type definitions for illuminate/cache 13.32.0.
+2026-10-05T17:42:10Z,tyhpdef/illuminate-cache-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-cache. Require tyhpdef/illuminate-cache, not this package."
+2026-10-05T17:42:29Z,tyhpdef/illuminate-collections,13.33.0,,Tyhp type definitions for illuminate/collections 13.33.0.
+2026-10-05T17:42:40Z,tyhpdef/illuminate-collections-impl,13.33.0.0,,"Implementation package for tyhpdef/illuminate-collections. Require tyhpdef/illuminate-collections, not this package."
+2026-10-05T17:43:21Z,tyhpdef/illuminate-conditionable,13.33.0,,Tyhp type definitions for illuminate/conditionable 13.33.0.
+2026-10-05T17:43:33Z,tyhpdef/illuminate-conditionable-impl,13.33.0.0,,"Implementation package for tyhpdef/illuminate-conditionable. Require tyhpdef/illuminate-conditionable, not this package."
+2026-10-05T17:44:14Z,tyhpdef/illuminate-config,13.32.0,,Tyhp type definitions for illuminate/config 13.32.0.
+2026-10-05T17:44:25Z,tyhpdef/illuminate-config-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-config. Require tyhpdef/illuminate-config, not this package."
+2026-10-05T17:44:44Z,tyhpdef/illuminate-console,13.32.0,,Tyhp type definitions for illuminate/console 13.32.0.
+2026-10-05T17:44:55Z,tyhpdef/illuminate-console-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-console. Require tyhpdef/illuminate-console, not this package."
+2026-10-05T17:45:13Z,tyhpdef/illuminate-container,13.32.0,,Tyhp type definitions for illuminate/container 13.32.0.
+2026-10-05T17:45:25Z,tyhpdef/illuminate-container-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-container. Require tyhpdef/illuminate-container, not this package."
+2026-10-05T17:45:44Z,tyhpdef/illuminate-contracts,13.33.0,,Tyhp type definitions for illuminate/contracts 13.33.0.
+2026-10-05T17:45:56Z,tyhpdef/illuminate-contracts-impl,13.33.0.0,,"Implementation package for tyhpdef/illuminate-contracts. Require tyhpdef/illuminate-contracts, not this package."
+2026-10-05T17:46:38Z,tyhpdef/illuminate-cookie,13.32.0,,Tyhp type definitions for illuminate/cookie 13.32.0.
+2026-10-05T17:46:50Z,tyhpdef/illuminate-cookie-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-cookie. Require tyhpdef/illuminate-cookie, not this package."
+2026-10-05T17:47:08Z,tyhpdef/illuminate-database,13.32.0,,Tyhp type definitions for illuminate/database 13.32.0.
+2026-10-05T17:47:20Z,tyhpdef/illuminate-database-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-database. Require tyhpdef/illuminate-database, not this package."
+2026-10-05T17:47:39Z,tyhpdef/illuminate-encryption,13.32.0,,Tyhp type definitions for illuminate/encryption 13.32.0.
+2026-10-05T17:47:51Z,tyhpdef/illuminate-encryption-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-encryption. Require tyhpdef/illuminate-encryption, not this package."
+2026-10-05T17:48:08Z,tyhpdef/illuminate-events,13.32.0,,Tyhp type definitions for illuminate/events 13.32.0.
+2026-10-05T17:48:20Z,tyhpdef/illuminate-events-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-events. Require tyhpdef/illuminate-events, not this package."
+2026-10-05T17:48:38Z,tyhpdef/illuminate-filesystem,13.32.0,,Tyhp type definitions for illuminate/filesystem 13.32.0.
+2026-10-05T17:48:49Z,tyhpdef/illuminate-filesystem-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-filesystem. Require tyhpdef/illuminate-filesystem, not this package."
+2026-10-05T17:49:07Z,tyhpdef/illuminate-hashing,13.32.0,,Tyhp type definitions for illuminate/hashing 13.32.0.
+2026-10-05T17:49:20Z,tyhpdef/illuminate-hashing-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-hashing. Require tyhpdef/illuminate-hashing, not this package."
+2026-10-05T17:49:37Z,tyhpdef/illuminate-http,13.32.0,,Tyhp type definitions for illuminate/http 13.32.0.
+2026-10-05T17:49:49Z,tyhpdef/illuminate-http-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-http. Require tyhpdef/illuminate-http, not this package."
+2026-10-05T17:50:08Z,tyhpdef/illuminate-image,13.32.0,,Tyhp type definitions for illuminate/image 13.32.0.
+2026-10-05T17:50:19Z,tyhpdef/illuminate-image-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-image. Require tyhpdef/illuminate-image, not this package."
+2026-10-05T17:50:38Z,tyhpdef/illuminate-json-schema,13.32.0,,Tyhp type definitions for illuminate/json-schema 13.32.0.
+2026-10-05T17:50:49Z,tyhpdef/illuminate-json-schema-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-json-schema. Require tyhpdef/illuminate-json-schema, not this package."
+2026-10-05T17:51:08Z,tyhpdef/illuminate-log,13.32.0,,Tyhp type definitions for illuminate/log 13.32.0.
+2026-10-05T17:51:19Z,tyhpdef/illuminate-log-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-log. Require tyhpdef/illuminate-log, not this package."
+2026-10-05T17:51:39Z,tyhpdef/illuminate-macroable,13.33.0,,Tyhp type definitions for illuminate/macroable 13.33.0.
+2026-10-05T17:51:50Z,tyhpdef/illuminate-macroable-impl,13.33.0.0,,"Implementation package for tyhpdef/illuminate-macroable. Require tyhpdef/illuminate-macroable, not this package."
+2026-10-05T17:52:32Z,tyhpdef/illuminate-mail,13.32.0,,Tyhp type definitions for illuminate/mail 13.32.0.
+2026-10-05T17:52:44Z,tyhpdef/illuminate-mail-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-mail. Require tyhpdef/illuminate-mail, not this package."
+2026-10-05T17:53:03Z,tyhpdef/illuminate-notifications,13.32.0,,Tyhp type definitions for illuminate/notifications 13.32.0.
+2026-10-05T17:53:15Z,tyhpdef/illuminate-notifications-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-notifications. Require tyhpdef/illuminate-notifications, not this package."
+2026-10-05T17:53:34Z,tyhpdef/illuminate-pagination,13.32.0,,Tyhp type definitions for illuminate/pagination 13.32.0.
+2026-10-05T17:53:47Z,tyhpdef/illuminate-pagination-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-pagination. Require tyhpdef/illuminate-pagination, not this package."
+2026-10-05T17:54:06Z,tyhpdef/illuminate-pipeline,13.32.0,,Tyhp type definitions for illuminate/pipeline 13.32.0.
+2026-10-05T17:54:18Z,tyhpdef/illuminate-pipeline-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-pipeline. Require tyhpdef/illuminate-pipeline, not this package."
+2026-10-05T17:54:38Z,tyhpdef/illuminate-process,13.32.0,,Tyhp type definitions for illuminate/process 13.32.0.
+2026-10-05T17:54:50Z,tyhpdef/illuminate-process-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-process. Require tyhpdef/illuminate-process, not this package."
+2026-10-05T17:55:10Z,tyhpdef/illuminate-queue,13.32.0,,Tyhp type definitions for illuminate/queue 13.32.0.
+2026-10-05T17:55:21Z,tyhpdef/illuminate-queue-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-queue. Require tyhpdef/illuminate-queue, not this package."
+2026-10-05T17:55:39Z,tyhpdef/illuminate-redis,13.32.0,,Tyhp type definitions for illuminate/redis 13.32.0.
+2026-10-05T17:55:51Z,tyhpdef/illuminate-redis-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-redis. Require tyhpdef/illuminate-redis, not this package."
+2026-10-05T17:56:09Z,tyhpdef/illuminate-reflection,13.33.0,,Tyhp type definitions for illuminate/reflection 13.33.0.
+2026-10-05T17:56:21Z,tyhpdef/illuminate-reflection-impl,13.33.0.0,,"Implementation package for tyhpdef/illuminate-reflection. Require tyhpdef/illuminate-reflection, not this package."
+2026-10-05T17:57:04Z,tyhpdef/illuminate-routing,13.32.0,,Tyhp type definitions for illuminate/routing 13.32.0.
+2026-10-05T17:57:16Z,tyhpdef/illuminate-routing-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-routing. Require tyhpdef/illuminate-routing, not this package."
+2026-10-05T17:57:34Z,tyhpdef/illuminate-session,13.32.0,,Tyhp type definitions for illuminate/session 13.32.0.
+2026-10-05T17:57:46Z,tyhpdef/illuminate-session-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-session. Require tyhpdef/illuminate-session, not this package."
+2026-10-05T17:58:04Z,tyhpdef/illuminate-support,13.33.0,,Tyhp type definitions for illuminate/support 13.33.0.
+2026-10-05T17:58:15Z,tyhpdef/illuminate-support-impl,13.33.0.0,,"Implementation package for tyhpdef/illuminate-support. Require tyhpdef/illuminate-support, not this package."
+2026-10-05T17:58:59Z,tyhpdef/illuminate-testing,13.32.0,,Tyhp type definitions for illuminate/testing 13.32.0.
+2026-10-05T17:59:11Z,tyhpdef/illuminate-testing-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-testing. Require tyhpdef/illuminate-testing, not this package."
+2026-10-05T17:59:32Z,tyhpdef/illuminate-translation,13.32.0,,Tyhp type definitions for illuminate/translation 13.32.0.
+2026-10-05T17:59:44Z,tyhpdef/illuminate-translation-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-translation. Require tyhpdef/illuminate-translation, not this package."
+2026-10-05T18:00:03Z,tyhpdef/illuminate-validation,13.32.0,,Tyhp type definitions for illuminate/validation 13.32.0.
+2026-10-05T18:00:15Z,tyhpdef/illuminate-validation-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-validation. Require tyhpdef/illuminate-validation, not this package."
+2026-10-05T18:00:34Z,tyhpdef/illuminate-view,13.32.0,,Tyhp type definitions for illuminate/view 13.32.0.
+2026-10-05T18:00:46Z,tyhpdef/illuminate-view-impl,13.32.0.0,,"Implementation package for tyhpdef/illuminate-view. Require tyhpdef/illuminate-view, not this package."
+2026-10-05T18:01:06Z,tyhpdef/inertiajs-inertia-laravel,3.3.4,,Tyhp type definitions for inertiajs/inertia-laravel 3.3.4.
+2026-10-05T18:01:20Z,tyhpdef/inertiajs-inertia-laravel-impl,3.3.4.0,,"Implementation package for tyhpdef/inertiajs-inertia-laravel. Require tyhpdef/inertiajs-inertia-laravel, not this package."
+2026-10-05T18:01:38Z,tyhpdef/infection-infection,0.35.4,,Tyhp type definitions for infection/infection 0.35.4.
+2026-10-05T18:01:51Z,tyhpdef/infection-infection-impl,0.35.4.0,,"Implementation package for tyhpdef/infection-infection. Require tyhpdef/infection-infection, not this package."
+2026-10-05T18:02:10Z,tyhpdef/infection-mutator,0.4.1,,Tyhp type definitions for infection/mutator 0.4.1.
+2026-10-05T18:02:23Z,tyhpdef/infection-mutator-impl,0.4.1.0,,"Implementation package for tyhpdef/infection-mutator. Require tyhpdef/infection-mutator, not this package."
+2026-10-05T18:02:42Z,tyhpdef/intervention-image-laravel,4.1.1,,Tyhp type definitions for intervention/image-laravel 4.1.1.
+2026-10-05T18:02:55Z,tyhpdef/intervention-image-laravel-impl,4.1.1.0,,"Implementation package for tyhpdef/intervention-image-laravel. Require tyhpdef/intervention-image-laravel, not this package."
+2026-10-05T18:03:15Z,tyhpdef/intervention-image,4.3.2,,Tyhp type definitions for intervention/image 4.3.2.
+2026-10-05T18:03:26Z,tyhpdef/intervention-image-impl,4.3.2.0,,"Implementation package for tyhpdef/intervention-image. Require tyhpdef/intervention-image, not this package."
+2026-10-05T18:03:45Z,tyhpdef/justinrainbow-json-schema,6.12.0,,Tyhp type definitions for justinrainbow/json-schema 6.12.0.
+2026-10-05T18:03:57Z,tyhpdef/justinrainbow-json-schema-impl,6.12.0.0,,"Implementation package for tyhpdef/justinrainbow-json-schema. Require tyhpdef/justinrainbow-json-schema, not this package."
+2026-10-05T18:04:17Z,tyhpdef/laminas-laminas-diactoros,3.8.0,,Tyhp type definitions for laminas/laminas-diactoros 3.8.0.
+2026-10-05T18:04:28Z,tyhpdef/laminas-laminas-diactoros-impl,3.8.0.0,,"Implementation package for tyhpdef/laminas-laminas-diactoros. Require tyhpdef/laminas-laminas-diactoros, not this package."
+2026-10-05T18:04:48Z,tyhpdef/larastan-larastan,3.12.1,,Tyhp type definitions for larastan/larastan 3.12.1.
+2026-10-05T18:05:00Z,tyhpdef/larastan-larastan-impl,3.12.1.0,,"Implementation package for tyhpdef/larastan-larastan. Require tyhpdef/larastan-larastan, not this package."
+2026-10-05T18:05:20Z,tyhpdef/laravel-ai,0.11.2,,Tyhp type definitions for laravel/ai 0.11.2.
+2026-10-05T18:05:33Z,tyhpdef/laravel-ai-impl,0.11.2.0,,"Implementation package for tyhpdef/laravel-ai. Require tyhpdef/laravel-ai, not this package."
+2026-10-05T18:05:51Z,tyhpdef/laravel-breeze,2.4.2,,Tyhp type definitions for laravel/breeze 2.4.2.
+2026-10-05T18:06:03Z,tyhpdef/laravel-breeze-impl,2.4.2.0,,"Implementation package for tyhpdef/laravel-breeze. Require tyhpdef/laravel-breeze, not this package."
+2026-10-05T18:06:22Z,tyhpdef/laravel-cashier,16.8.0,,Tyhp type definitions for laravel/cashier 16.8.0.
+2026-10-05T18:06:35Z,tyhpdef/laravel-cashier-impl,16.8.0.0,,"Implementation package for tyhpdef/laravel-cashier. Require tyhpdef/laravel-cashier, not this package."
+2026-10-05T18:06:53Z,tyhpdef/laravel-dusk,8.6.0,,Tyhp type definitions for laravel/dusk 8.6.0.
+2026-10-05T18:07:05Z,tyhpdef/laravel-dusk-impl,8.6.0.0,,"Implementation package for tyhpdef/laravel-dusk. Require tyhpdef/laravel-dusk, not this package."
+2026-10-05T18:07:23Z,tyhpdef/laravel-fortify,1.39.0,,Tyhp type definitions for laravel/fortify 1.39.0.
+2026-10-05T18:07:36Z,tyhpdef/laravel-fortify-impl,1.39.0.0,,"Implementation package for tyhpdef/laravel-fortify. Require tyhpdef/laravel-fortify, not this package."
+2026-10-05T18:07:57Z,tyhpdef/laravel-framework,13.32.0,,Tyhp type definitions for laravel/framework 13.32.0.
+2026-10-05T18:08:08Z,tyhpdef/laravel-framework-impl,13.32.0.0,,"Implementation package for tyhpdef/laravel-framework. Require tyhpdef/laravel-framework, not this package."
+2026-10-05T18:08:29Z,tyhpdef/laravel-horizon,5.49.0,,Tyhp type definitions for laravel/horizon 5.49.0.
+2026-10-05T18:08:42Z,tyhpdef/laravel-horizon-impl,5.49.0.0,,"Implementation package for tyhpdef/laravel-horizon. Require tyhpdef/laravel-horizon, not this package."
+2026-10-05T18:08:59Z,tyhpdef/laravel-jetstream,5.5.3,,Tyhp type definitions for laravel/jetstream 5.5.3.
+2026-10-05T18:09:10Z,tyhpdef/laravel-jetstream-impl,5.5.3.0,,"Implementation package for tyhpdef/laravel-jetstream. Require tyhpdef/laravel-jetstream, not this package."
+2026-10-05T18:09:28Z,tyhpdef/laravel-octane,2.19.1,,Tyhp type definitions for laravel/octane 2.19.1.
+2026-10-05T18:09:40Z,tyhpdef/laravel-octane-impl,2.19.1.0,,"Implementation package for tyhpdef/laravel-octane. Require tyhpdef/laravel-octane, not this package."
+2026-10-05T18:10:01Z,tyhpdef/laravel-pail,1.2.7,,Tyhp type definitions for laravel/pail 1.2.7.
+2026-10-05T18:10:13Z,tyhpdef/laravel-pail-impl,1.2.7.0,,"Implementation package for tyhpdef/laravel-pail. Require tyhpdef/laravel-pail, not this package."
+2026-10-05T18:10:27Z,mage2kishan/module-blog,1.3.12,Kishan Savaliya,"Panth_Blog - SEO-grade blog module for Magento 2 with first-class AEO/AIO support: JSON-LD, llms.txt, IndexNow, hreflang, markdown export, RSS/Atom feeds, and Hyva-first templates. Built to plug into the Panth_* ecosystem."
+2026-10-05T18:10:32Z,tyhpdef/laravel-passport,13.8.0,,Tyhp type definitions for laravel/passport 13.8.0.
+2026-10-05T18:10:43Z,tyhpdef/laravel-passport-impl,13.8.0.0,,"Implementation package for tyhpdef/laravel-passport. Require tyhpdef/laravel-passport, not this package."
+2026-10-05T18:11:01Z,tyhpdef/laravel-pennant,1.26.0,,Tyhp type definitions for laravel/pennant 1.26.0.
+2026-10-05T18:11:14Z,tyhpdef/laravel-pennant-impl,1.26.0.0,,"Implementation package for tyhpdef/laravel-pennant. Require tyhpdef/laravel-pennant, not this package."
+2026-10-05T18:11:32Z,tyhpdef/laravel-pint,1.32.1,,Tyhp type definitions for laravel/pint 1.32.1.
+2026-10-05T18:11:44Z,tyhpdef/laravel-pint-impl,1.32.1.0,,"Implementation package for tyhpdef/laravel-pint. Require tyhpdef/laravel-pint, not this package."
+2026-10-05T18:12:04Z,tyhpdef/laravel-prompts,0.3.24,,Tyhp type definitions for laravel/prompts 0.3.24.
+2026-10-05T18:12:16Z,tyhpdef/laravel-prompts-impl,0.3.24.0,,"Implementation package for tyhpdef/laravel-prompts. Require tyhpdef/laravel-prompts, not this package."
+2026-10-05T18:12:30Z,daun/composer-processwire,1.0.0,Philipp Daun,Install and update ProcessWire with Composer without changing its standard directory layout
+2026-10-05T18:12:36Z,tyhpdef/laravel-pulse,1.8.1,,Tyhp type definitions for laravel/pulse 1.8.1.
+2026-10-05T18:12:48Z,tyhpdef/laravel-pulse-impl,1.8.1.0,,"Implementation package for tyhpdef/laravel-pulse. Require tyhpdef/laravel-pulse, not this package."
+2026-10-05T18:13:06Z,tyhpdef/laravel-reverb,1.11.1,,Tyhp type definitions for laravel/reverb 1.11.1.
+2026-10-05T18:13:17Z,tyhpdef/laravel-reverb-impl,1.11.1.0,,"Implementation package for tyhpdef/laravel-reverb. Require tyhpdef/laravel-reverb, not this package."
+2026-10-05T18:13:37Z,tyhpdef/laravel-sail,1.67.0,,Tyhp type definitions for laravel/sail 1.67.0.
+2026-10-05T18:13:49Z,tyhpdef/laravel-sail-impl,1.67.0.0,,"Implementation package for tyhpdef/laravel-sail. Require tyhpdef/laravel-sail, not this package."
+2026-10-05T18:14:07Z,tyhpdef/laravel-sanctum,4.3.3,,Tyhp type definitions for laravel/sanctum 4.3.3.
+2026-10-05T18:14:19Z,tyhpdef/laravel-sanctum-impl,4.3.3.0,,"Implementation package for tyhpdef/laravel-sanctum. Require tyhpdef/laravel-sanctum, not this package."
+2026-10-05T18:14:37Z,tyhpdef/laravel-scout,11.7.0,,Tyhp type definitions for laravel/scout 11.7.0.
+2026-10-05T18:14:48Z,tyhpdef/laravel-scout-impl,11.7.0.0,,"Implementation package for tyhpdef/laravel-scout. Require tyhpdef/laravel-scout, not this package."
+2026-10-05T18:15:07Z,tyhpdef/laravel-serializable-closure,2.0.16,,Tyhp type definitions for laravel/serializable-closure 2.0.16.
+2026-10-05T18:15:18Z,tyhpdef/laravel-serializable-closure-impl,2.0.16.0,,"Implementation package for tyhpdef/laravel-serializable-closure. Require tyhpdef/laravel-serializable-closure, not this package."
+2026-10-05T18:15:40Z,tyhpdef/laravel-socialite,5.31.0,,Tyhp type definitions for laravel/socialite 5.31.0.
+2026-10-05T18:15:51Z,tyhpdef/laravel-socialite-impl,5.31.0.0,,"Implementation package for tyhpdef/laravel-socialite. Require tyhpdef/laravel-socialite, not this package."
+2026-10-05T18:16:11Z,tyhpdef/laravel-telescope,5.24.0,,Tyhp type definitions for laravel/telescope 5.24.0.
+2026-10-05T18:16:23Z,tyhpdef/laravel-telescope-impl,5.24.0.0,,"Implementation package for tyhpdef/laravel-telescope. Require tyhpdef/laravel-telescope, not this package."
+2026-10-05T18:16:42Z,tyhpdef/laravel-tinker,3.0.2,,Tyhp type definitions for laravel/tinker 3.0.2.
+2026-10-05T18:16:54Z,tyhpdef/laravel-tinker-impl,3.0.2.0,,"Implementation package for tyhpdef/laravel-tinker. Require tyhpdef/laravel-tinker, not this package."
+2026-10-05T18:17:12Z,tyhpdef/laravel-vapor-core,2.47.0,,Tyhp type definitions for laravel/vapor-core 2.47.0.
+2026-10-05T18:17:24Z,tyhpdef/laravel-vapor-core-impl,2.47.0.0,,"Implementation package for tyhpdef/laravel-vapor-core. Require tyhpdef/laravel-vapor-core, not this package."
+2026-10-05T18:17:44Z,tyhpdef/lcobucci-clock,3.6.0,,Tyhp type definitions for lcobucci/clock 3.6.0.
+2026-10-05T18:17:56Z,tyhpdef/lcobucci-clock-impl,3.6.0.0,,"Implementation package for tyhpdef/lcobucci-clock. Require tyhpdef/lcobucci-clock, not this package."
+2026-10-05T18:18:14Z,tyhpdef/lcobucci-jwt,5.6.0,,Tyhp type definitions for lcobucci/jwt 5.6.0.
+2026-10-05T18:18:27Z,tyhpdef/lcobucci-jwt-impl,5.6.0.0,,"Implementation package for tyhpdef/lcobucci-jwt. Require tyhpdef/lcobucci-jwt, not this package."
+2026-10-05T18:18:45Z,tyhpdef/league-commonmark,2.10.1,,Tyhp type definitions for league/commonmark 2.10.1.
+2026-10-05T18:18:58Z,tyhpdef/league-commonmark-impl,2.10.1.0,,"Implementation package for tyhpdef/league-commonmark. Require tyhpdef/league-commonmark, not this package."
+2026-10-05T18:19:16Z,tyhpdef/league-config,1.2.0,,Tyhp type definitions for league/config 1.2.0.
+2026-10-05T18:19:28Z,tyhpdef/league-config-impl,1.2.0.0,,"Implementation package for tyhpdef/league-config. Require tyhpdef/league-config, not this package."
+2026-10-05T18:19:48Z,tyhpdef/league-container,5.2.0,,Tyhp type definitions for league/container 5.2.0.
+2026-10-05T18:19:59Z,tyhpdef/league-container-impl,5.2.0.0,,"Implementation package for tyhpdef/league-container. Require tyhpdef/league-container, not this package."
+2026-10-05T18:20:18Z,tyhpdef/league-csv,9.28.0,,Tyhp type definitions for league/csv 9.28.0.
+2026-10-05T18:20:31Z,tyhpdef/league-csv-impl,9.28.0.0,,"Implementation package for tyhpdef/league-csv. Require tyhpdef/league-csv, not this package."
+2026-10-05T18:20:50Z,tyhpdef/league-event,3.0.3,,Tyhp type definitions for league/event 3.0.3.
+2026-10-05T18:21:04Z,tyhpdef/league-event-impl,3.0.3.0,,"Implementation package for tyhpdef/league-event. Require tyhpdef/league-event, not this package."
+2026-10-05T18:21:24Z,tyhpdef/league-flysystem-aws-s3-v3,3.35.3,,Tyhp type definitions for league/flysystem-aws-s3-v3 3.35.3.
+2026-10-05T18:21:36Z,tyhpdef/league-flysystem-aws-s3-v3-impl,3.35.3.0,,"Implementation package for tyhpdef/league-flysystem-aws-s3-v3. Require tyhpdef/league-flysystem-aws-s3-v3, not this package."
+2026-10-05T18:21:54Z,tyhpdef/league-flysystem-local,3.35.3,,Tyhp type definitions for league/flysystem-local 3.35.3.
+2026-10-05T18:22:06Z,tyhpdef/league-flysystem-local-impl,3.35.3.0,,"Implementation package for tyhpdef/league-flysystem-local. Require tyhpdef/league-flysystem-local, not this package."
