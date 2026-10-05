@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-04T23:21:23Z,edulazaro/larablog,1.0.0,Edu Lazaro,"Markdown blogs for Laravel in several languages, each with its own URL: one folder per post, one file per language, hreflang, feeds, sitemap and social cards included"
+2026-10-04T23:33:49Z,mage2kishan/module-llms-txt,1.5.5,Kishan Savaliya,"Panth LLMs.txt — AI Indexing Engine for Magento 2. Serves structured /llms.txt, /llms-full.txt and /llms.json with a dynamic multi-URL sitemap engine, weighted ranking, auto-generated summaries, product-type and use-case grouping, and cron-based cache warm-up. Built for ChatGPT, Claude, Perplexity,…"
+2026-10-04T23:35:30Z,sattorware/elephant,v1.0.0,sattorware,"Async PHP on fibers: write concurrent code that reads like plain PHP — tasks, timeouts, HTTP client and server, channels, files and processes."
+2026-10-05T00:12:51Z,foxws/laravel-media,0.1.0,foxws,"Probe, encode, package and stream media in Laravel with ffmpeg."

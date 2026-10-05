@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 23:19 UTC
+## Latest list — 2026-10-05 00:19 UTC
 
-New packages created between 2026-10-04 22:19 UTC and 2026-10-04 23:19 UTC.
+New packages created between 2026-10-04 23:19 UTC and 2026-10-05 00:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-04T23-19-17-626412Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-05T00-19-38-614447Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-04 22:24:33 | [mage2kishan/module-hreflang](https://www.nuget.org/packages/mage2kishan%2Fmodule-hreflang) | 1.0.26 | Kishan Savaliya | Panth Hreflang — multi-language/multi-region hreflang link tags for Magento 2 w… |
-| 2026-10-04 22:35:11 | [justinholtweb/craft-tape](https://www.nuget.org/packages/justinholtweb%2Fcraft-tape) | 5.0.0 | Justin Holt | Conversion tracking for Craft CMS — Google Ads, GA4, Meta, TikTok and a dozen m… |
-| 2026-10-04 22:55:45 | [mage2kishan/module-robots-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-robots-seo) | 1.3.5 | Kishan Savaliya | Panth Robots SEO — dedicated robots.txt, X-Robots-Tag, and LLM-bot (GPTBot, Cla… |
-| 2026-10-04 23:17:30 | [mage2kishan/module-eu-withdrawal](https://www.nuget.org/packages/mage2kishan%2Fmodule-eu-withdrawal) | 1.1.9 | Kishan Savaliya | Panth EU Withdrawal Button - a clear, accessible digital withdrawal (cancellati… |
+| 2026-10-04 23:21:23 | [edulazaro/larablog](https://www.nuget.org/packages/edulazaro%2Flarablog) | 1.0.0 | Edu Lazaro | Markdown blogs for Laravel in several languages, each with its own URL: one fol… |
+| 2026-10-04 23:33:49 | [mage2kishan/module-llms-txt](https://www.nuget.org/packages/mage2kishan%2Fmodule-llms-txt) | 1.5.5 | Kishan Savaliya | Panth LLMs.txt — AI Indexing Engine for Magento 2. Serves structured /llms.txt,… |
+| 2026-10-04 23:35:30 | [sattorware/elephant](https://www.nuget.org/packages/sattorware%2Felephant) | v1.0.0 | sattorware | Async PHP on fibers: write concurrent code that reads like plain PHP — tasks, t… |
+| 2026-10-05 00:12:51 | [foxws/laravel-media](https://www.nuget.org/packages/foxws%2Flaravel-media) | 0.1.0 | foxws | Probe, encode, package and stream media in Laravel with ffmpeg. |
 
 ## Data source
 
