@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 03:21 UTC
+## Latest list — 2026-10-05 04:22 UTC
 
-New packages created between 2026-10-05 02:21 UTC and 2026-10-05 03:21 UTC.
+New packages created between 2026-10-05 03:21 UTC and 2026-10-05 04:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-05T03-21-57-739976Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-05T04-22-00-385229Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-05 02:34:12 | [mage2kishan/module-hero-slider](https://www.nuget.org/packages/mage2kishan%2Fmodule-hero-slider) | 1.1.5 | Kishan Savaliya | Hero / homepage carousel for Magento 2 (Hyva + Luma). Center-focused 3-up Splid… |
-| 2026-10-05 03:00:31 | [mage2kishan/module-structured-data](https://www.nuget.org/packages/mage2kishan%2Fmodule-structured-data) | 1.3.3 | Kishan Savaliya | Panth Structured Data — JSON-LD schemas for Magento 2: Product, Breadcrumb, Org… |
+| 2026-10-05 03:34:03 | [mage2kishan/module-error-monitor](https://www.nuget.org/packages/mage2kishan%2Fmodule-error-monitor) | 1.6.4 | Kishan Savaliya | Panth Error Monitor - smart, secure error management for Magento 2. Captures PH… |
+| 2026-10-05 04:10:22 | [zhandos717/moonshine-monitoring](https://www.nuget.org/packages/zhandos717%2Fmoonshine-monitoring) | v1.3.0 | Zhandos | Server monitoring for MoonShine with real-time resource usage tracking |
 
 ## Data source
 
