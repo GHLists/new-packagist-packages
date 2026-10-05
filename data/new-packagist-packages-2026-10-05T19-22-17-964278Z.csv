@@ -1,0 +1,237 @@
+created_at,package,version,author,description
+2026-10-05T18:22:35Z,tyhpdef/league-flysystem-impl,3.36.0.0,,"Implementation package for tyhpdef/league-flysystem. Require tyhpdef/league-flysystem, not this package."
+2026-10-05T18:22:53Z,tyhpdef/league-fractal,0.21,,Tyhp type definitions for league/fractal 0.21.
+2026-10-05T18:23:05Z,tyhpdef/league-fractal-impl,0.21.0,,"Implementation package for tyhpdef/league-fractal. Require tyhpdef/league-fractal, not this package."
+2026-10-05T18:23:23Z,tyhpdef/league-mime-type-detection,1.17.0,,Tyhp type definitions for league/mime-type-detection 1.17.0.
+2026-10-05T18:23:36Z,tyhpdef/league-mime-type-detection-impl,1.17.0.0,,"Implementation package for tyhpdef/league-mime-type-detection. Require tyhpdef/league-mime-type-detection, not this package."
+2026-10-05T18:23:54Z,tyhpdef/league-oauth1-client,1.11.0,,Tyhp type definitions for league/oauth1-client 1.11.0.
+2026-10-05T18:24:06Z,tyhpdef/league-oauth1-client-impl,1.11.0.0,,"Implementation package for tyhpdef/league-oauth1-client. Require tyhpdef/league-oauth1-client, not this package."
+2026-10-05T18:24:24Z,tyhpdef/league-oauth2-client,2.9.1,,Tyhp type definitions for league/oauth2-client 2.9.1.
+2026-10-05T18:24:36Z,tyhpdef/league-oauth2-client-impl,2.9.1.0,,"Implementation package for tyhpdef/league-oauth2-client. Require tyhpdef/league-oauth2-client, not this package."
+2026-10-05T18:24:54Z,tyhpdef/league-oauth2-server,9.4.1,,Tyhp type definitions for league/oauth2-server 9.4.1.
+2026-10-05T18:25:05Z,tyhpdef/league-oauth2-server-impl,9.4.1.0,,"Implementation package for tyhpdef/league-oauth2-server. Require tyhpdef/league-oauth2-server, not this package."
+2026-10-05T18:25:23Z,tyhpdef/league-uri-interfaces,7.8.1,,Tyhp type definitions for league/uri-interfaces 7.8.1.
+2026-10-05T18:25:36Z,tyhpdef/league-uri-interfaces-impl,7.8.1.0,,"Implementation package for tyhpdef/league-uri-interfaces. Require tyhpdef/league-uri-interfaces, not this package."
+2026-10-05T18:25:53Z,tyhpdef/league-uri,7.8.1,,Tyhp type definitions for league/uri 7.8.1.
+2026-10-05T18:26:03Z,tyhpdef/league-uri-impl,7.8.1.0,,"Implementation package for tyhpdef/league-uri. Require tyhpdef/league-uri, not this package."
+2026-10-05T18:26:21Z,tyhpdef/livewire-livewire,4.4.5,,Tyhp type definitions for livewire/livewire 4.4.5.
+2026-10-05T18:26:33Z,tyhpdef/livewire-livewire-impl,4.4.5.0,,"Implementation package for tyhpdef/livewire-livewire. Require tyhpdef/livewire-livewire, not this package."
+2026-10-05T18:26:51Z,tyhpdef/maatwebsite-excel,4.0.3,,Tyhp type definitions for maatwebsite/excel 4.0.3.
+2026-10-05T18:27:03Z,tyhpdef/maatwebsite-excel-impl,4.0.3.0,,"Implementation package for tyhpdef/maatwebsite-excel. Require tyhpdef/maatwebsite-excel, not this package."
+2026-10-05T18:27:05Z,envless/sdk,v0.0.1,Envless,"The official PHP SDK for the Envless API. Manage workspaces, products, projects, environments, variables, versions, members, roles, keys and webhooks from PHP, with every value encrypted on your machine."
+2026-10-05T18:27:21Z,tyhpdef/maennchen-zipstream-php,3.2.2,,Tyhp type definitions for maennchen/zipstream-php 3.2.2.
+2026-10-05T18:27:33Z,tyhpdef/maennchen-zipstream-php-impl,3.2.2.0,,"Implementation package for tyhpdef/maennchen-zipstream-php. Require tyhpdef/maennchen-zipstream-php, not this package."
+2026-10-05T18:27:52Z,tyhpdef/masterminds-html5,2.11.0,,Tyhp type definitions for masterminds/html5 2.11.0.
+2026-10-05T18:28:06Z,tyhpdef/masterminds-html5-impl,2.11.0.0,,"Implementation package for tyhpdef/masterminds-html5. Require tyhpdef/masterminds-html5, not this package."
+2026-10-05T18:28:26Z,tyhpdef/mockery-mockery,1.6.15,,Tyhp type definitions for mockery/mockery 1.6.15.
+2026-10-05T18:28:39Z,tyhpdef/mockery-mockery-impl,1.6.15.0,,"Implementation package for tyhpdef/mockery-mockery. Require tyhpdef/mockery-mockery, not this package."
+2026-10-05T18:28:58Z,tyhpdef/moneyphp-money,4.9.0,,Tyhp type definitions for moneyphp/money 4.9.0.
+2026-10-05T18:29:09Z,tyhpdef/moneyphp-money-impl,4.9.0.0,,"Implementation package for tyhpdef/moneyphp-money. Require tyhpdef/moneyphp-money, not this package."
+2026-10-05T18:29:28Z,tyhpdef/mongodb-mongodb,2.4.2,,Tyhp type definitions for mongodb/mongodb 2.4.2.
+2026-10-05T18:29:39Z,tyhpdef/mongodb-mongodb-impl,2.4.2.0,,"Implementation package for tyhpdef/mongodb-mongodb. Require tyhpdef/mongodb-mongodb, not this package."
+2026-10-05T18:29:57Z,tyhpdef/monolog-monolog,3.12.0,,Tyhp type definitions for monolog/monolog 3.12.0.
+2026-10-05T18:30:09Z,tyhpdef/monolog-monolog-impl,3.12.0.0,,"Implementation package for tyhpdef/monolog-monolog. Require tyhpdef/monolog-monolog, not this package."
+2026-10-05T18:30:51Z,tyhpdef/mtdowling-jmespath.php,2.9.2,,Tyhp type definitions for mtdowling/jmespath.php 2.9.2.
+2026-10-05T18:31:02Z,tyhpdef/mtdowling-jmespath.php-impl,2.9.2.0,,"Implementation package for tyhpdef/mtdowling-jmespath.php. Require tyhpdef/mtdowling-jmespath.php, not this package."
+2026-10-05T18:31:22Z,tyhpdef/nesbot-carbon,3.14.0,,Tyhp type definitions for nesbot/carbon 3.14.0.
+2026-10-05T18:31:33Z,tyhpdef/nesbot-carbon-impl,3.14.0.0,,"Implementation package for tyhpdef/nesbot-carbon. Require tyhpdef/nesbot-carbon, not this package."
+2026-10-05T18:31:51Z,tyhpdef/nette-php-generator,4.2.2,,Tyhp type definitions for nette/php-generator 4.2.2.
+2026-10-05T18:32:02Z,tyhpdef/nette-php-generator-impl,4.2.2.0,,"Implementation package for tyhpdef/nette-php-generator. Require tyhpdef/nette-php-generator, not this package."
+2026-10-05T18:32:19Z,tyhpdef/nette-schema,1.3.6,,Tyhp type definitions for nette/schema 1.3.6.
+2026-10-05T18:32:30Z,tyhpdef/nette-schema-impl,1.3.6.0,,"Implementation package for tyhpdef/nette-schema. Require tyhpdef/nette-schema, not this package."
+2026-10-05T18:32:47Z,tyhpdef/nette-utils,4.1.5,,Tyhp type definitions for nette/utils 4.1.5.
+2026-10-05T18:32:58Z,tyhpdef/nette-utils-impl,4.1.5.0,,"Implementation package for tyhpdef/nette-utils. Require tyhpdef/nette-utils, not this package."
+2026-10-05T18:33:17Z,tyhpdef/nikic-php-parser,5.9.0,,Tyhp type definitions for nikic/php-parser 5.9.0.
+2026-10-05T18:33:21Z,vortech/softdeletes-flag,v1.0.0,Mate Papp,"Drop-in soft deletes for Laravel Eloquent that use an indexed boolean flag instead of a nullable timestamp, for faster queries in high-load applications."
+2026-10-05T18:33:28Z,tyhpdef/nikic-php-parser-impl,5.9.0.0,,"Implementation package for tyhpdef/nikic-php-parser. Require tyhpdef/nikic-php-parser, not this package."
+2026-10-05T18:33:46Z,tyhpdef/nunomaduro-collision,8.9.5,,Tyhp type definitions for nunomaduro/collision 8.9.5.
+2026-10-05T18:33:58Z,tyhpdef/nunomaduro-collision-impl,8.9.5.0,,"Implementation package for tyhpdef/nunomaduro-collision. Require tyhpdef/nunomaduro-collision, not this package."
+2026-10-05T18:34:15Z,tyhpdef/nunomaduro-termwind,2.4.0,,Tyhp type definitions for nunomaduro/termwind 2.4.0.
+2026-10-05T18:34:26Z,tyhpdef/nunomaduro-termwind-impl,2.4.0.0,,"Implementation package for tyhpdef/nunomaduro-termwind. Require tyhpdef/nunomaduro-termwind, not this package."
+2026-10-05T18:34:44Z,tyhpdef/nyholm-psr7-server,1.1.0,,Tyhp type definitions for nyholm/psr7-server 1.1.0.
+2026-10-05T18:34:55Z,tyhpdef/nyholm-psr7-server-impl,1.1.0.0,,"Implementation package for tyhpdef/nyholm-psr7-server. Require tyhpdef/nyholm-psr7-server, not this package."
+2026-10-05T18:35:13Z,tyhpdef/nyholm-psr7,1.8.2,,Tyhp type definitions for nyholm/psr7 1.8.2.
+2026-10-05T18:35:25Z,tyhpdef/nyholm-psr7-impl,1.8.2.0,,"Implementation package for tyhpdef/nyholm-psr7. Require tyhpdef/nyholm-psr7, not this package."
+2026-10-05T18:35:42Z,tyhpdef/openspout-openspout,5.11.3,,Tyhp type definitions for openspout/openspout 5.11.3.
+2026-10-05T18:35:56Z,tyhpdef/openspout-openspout-impl,5.11.3.0,,"Implementation package for tyhpdef/openspout-openspout. Require tyhpdef/openspout-openspout, not this package."
+2026-10-05T18:36:40Z,tyhpdef/orchestra-testbench-core,11.4.0,,Tyhp type definitions for orchestra/testbench-core 11.4.0.
+2026-10-05T18:36:51Z,tyhpdef/orchestra-testbench-core-impl,11.4.0.0,,"Implementation package for tyhpdef/orchestra-testbench-core. Require tyhpdef/orchestra-testbench-core, not this package."
+2026-10-05T18:37:10Z,tyhpdef/orchestra-testbench,11.2.0,,Tyhp type definitions for orchestra/testbench 11.2.0.
+2026-10-05T18:37:21Z,tyhpdef/orchestra-testbench-impl,11.2.0.0,,"Implementation package for tyhpdef/orchestra-testbench. Require tyhpdef/orchestra-testbench, not this package."
+2026-10-05T18:37:38Z,tyhpdef/paragonie-constant_time_encoding,3.1.3,,Tyhp type definitions for paragonie/constant_time_encoding 3.1.3.
+2026-10-05T18:37:49Z,tyhpdef/paragonie-constant_time_encoding-impl,3.1.3.0,,"Implementation package for tyhpdef/paragonie-constant_time_encoding. Require tyhpdef/paragonie-constant_time_encoding, not this package."
+2026-10-05T18:38:07Z,tyhpdef/pda-pheanstalk,8.0.2,,Tyhp type definitions for pda/pheanstalk 8.0.2.
+2026-10-05T18:38:18Z,tyhpdef/pda-pheanstalk-impl,8.0.2.0,,"Implementation package for tyhpdef/pda-pheanstalk. Require tyhpdef/pda-pheanstalk, not this package."
+2026-10-05T18:38:36Z,tyhpdef/pestphp-pest-plugin-arch,4.0.2,,Tyhp type definitions for pestphp/pest-plugin-arch 4.0.2.
+2026-10-05T18:38:48Z,tyhpdef/pestphp-pest-plugin-arch-impl,4.0.2.0,,"Implementation package for tyhpdef/pestphp-pest-plugin-arch. Require tyhpdef/pestphp-pest-plugin-arch, not this package."
+2026-10-05T18:39:06Z,tyhpdef/pestphp-pest-plugin-laravel,4.1.0,,Tyhp type definitions for pestphp/pest-plugin-laravel 4.1.0.
+2026-10-05T18:39:17Z,tyhpdef/pestphp-pest-plugin-laravel-impl,4.1.0.0,,"Implementation package for tyhpdef/pestphp-pest-plugin-laravel. Require tyhpdef/pestphp-pest-plugin-laravel, not this package."
+2026-10-05T18:39:34Z,tyhpdef/pestphp-pest,4.7.8,,Tyhp type definitions for pestphp/pest 4.7.8.
+2026-10-05T18:39:46Z,tyhpdef/pestphp-pest-impl,4.7.8.0,,"Implementation package for tyhpdef/pestphp-pest. Require tyhpdef/pestphp-pest, not this package."
+2026-10-05T18:40:04Z,tyhpdef/phar-io-version,3.2.1,,Tyhp type definitions for phar-io/version 3.2.1.
+2026-10-05T18:40:15Z,tyhpdef/phar-io-version-impl,3.2.1.0,,"Implementation package for tyhpdef/phar-io-version. Require tyhpdef/phar-io-version, not this package."
+2026-10-05T18:40:34Z,tyhpdef/php-amqplib-php-amqplib,3.7.4,,Tyhp type definitions for php-amqplib/php-amqplib 3.7.4.
+2026-10-05T18:40:47Z,tyhpdef/php-amqplib-php-amqplib-impl,3.7.4.0,,"Implementation package for tyhpdef/php-amqplib-php-amqplib. Require tyhpdef/php-amqplib-php-amqplib, not this package."
+2026-10-05T18:41:06Z,tyhpdef/php-debugbar-php-debugbar,3.8.0,,Tyhp type definitions for php-debugbar/php-debugbar 3.8.0.
+2026-10-05T18:41:17Z,tyhpdef/php-debugbar-php-debugbar-impl,3.8.0.0,,"Implementation package for tyhpdef/php-debugbar-php-debugbar. Require tyhpdef/php-debugbar-php-debugbar, not this package."
+2026-10-05T18:41:36Z,tyhpdef/php-di-invoker,2.3.7,,Tyhp type definitions for php-di/invoker 2.3.7.
+2026-10-05T18:41:47Z,tyhpdef/php-di-invoker-impl,2.3.7.0,,"Implementation package for tyhpdef/php-di-invoker. Require tyhpdef/php-di-invoker, not this package."
+2026-10-05T18:42:04Z,tyhpdef/php-di-php-di,7.1.1,,Tyhp type definitions for php-di/php-di 7.1.1.
+2026-10-05T18:42:15Z,tyhpdef/php-di-php-di-impl,7.1.1.0,,"Implementation package for tyhpdef/php-di-php-di. Require tyhpdef/php-di-php-di, not this package."
+2026-10-05T18:42:34Z,tyhpdef/php-http-client-common,2.7.3,,Tyhp type definitions for php-http/client-common 2.7.3.
+2026-10-05T18:42:44Z,tyhpdef/php-http-client-common-impl,2.7.3.0,,"Implementation package for tyhpdef/php-http-client-common. Require tyhpdef/php-http-client-common, not this package."
+2026-10-05T18:43:01Z,tyhpdef/php-http-discovery,1.20.0,,Tyhp type definitions for php-http/discovery 1.20.0.
+2026-10-05T18:43:13Z,tyhpdef/php-http-discovery-impl,1.20.0.0,,"Implementation package for tyhpdef/php-http-discovery. Require tyhpdef/php-http-discovery, not this package."
+2026-10-05T18:43:31Z,tyhpdef/php-http-httplug,2.4.1,,Tyhp type definitions for php-http/httplug 2.4.1.
+2026-10-05T18:43:45Z,tyhpdef/php-http-httplug-impl,2.4.1.0,,"Implementation package for tyhpdef/php-http-httplug. Require tyhpdef/php-http-httplug, not this package."
+2026-10-05T18:44:02Z,tyhpdef/php-http-message-factory,1.1.0,,Tyhp type definitions for php-http/message-factory 1.1.0.
+2026-10-05T18:44:14Z,tyhpdef/php-http-message-factory-impl,1.1.0.0,,"Implementation package for tyhpdef/php-http-message-factory. Require tyhpdef/php-http-message-factory, not this package."
+2026-10-05T18:44:32Z,tyhpdef/php-http-message,1.16.2,,Tyhp type definitions for php-http/message 1.16.2.
+2026-10-05T18:44:46Z,tyhpdef/php-http-message-impl,1.16.2.0,,"Implementation package for tyhpdef/php-http-message. Require tyhpdef/php-http-message, not this package."
+2026-10-05T18:45:04Z,tyhpdef/php-http-promise,1.3.1,,Tyhp type definitions for php-http/promise 1.3.1.
+2026-10-05T18:45:15Z,tyhpdef/php-http-promise-impl,1.3.1.0,,"Implementation package for tyhpdef/php-http-promise. Require tyhpdef/php-http-promise, not this package."
+2026-10-05T18:45:33Z,tyhpdef/phpcompatibility-php-compatibility,9.3.5,,Tyhp type definitions for phpcompatibility/php-compatibility 9.3.5.
+2026-10-05T18:45:45Z,tyhpdef/phpcompatibility-php-compatibility-impl,9.3.5.0,,"Implementation package for tyhpdef/phpcompatibility-php-compatibility. Require tyhpdef/phpcompatibility-php-compatibility, not this package."
+2026-10-05T18:46:02Z,tyhpdef/phpdocumentor-reflection-common,2.2.0,,Tyhp type definitions for phpdocumentor/reflection-common 2.2.0.
+2026-10-05T18:46:13Z,tyhpdef/phpdocumentor-reflection-common-impl,2.2.0.0,,"Implementation package for tyhpdef/phpdocumentor-reflection-common. Require tyhpdef/phpdocumentor-reflection-common, not this package."
+2026-10-05T18:46:31Z,tyhpdef/phpdocumentor-reflection-docblock,6.0.3,,Tyhp type definitions for phpdocumentor/reflection-docblock 6.0.3.
+2026-10-05T18:46:42Z,tyhpdef/phpdocumentor-reflection-docblock-impl,6.0.3.0,,"Implementation package for tyhpdef/phpdocumentor-reflection-docblock. Require tyhpdef/phpdocumentor-reflection-docblock, not this package."
+2026-10-05T18:47:00Z,tyhpdef/phpdocumentor-type-resolver,2.0.0,,Tyhp type definitions for phpdocumentor/type-resolver 2.0.0.
+2026-10-05T18:47:12Z,tyhpdef/phpdocumentor-type-resolver-impl,2.0.0.0,,"Implementation package for tyhpdef/phpdocumentor-type-resolver. Require tyhpdef/phpdocumentor-type-resolver, not this package."
+2026-10-05T18:47:30Z,tyhpdef/phpoffice-phpspreadsheet,5.9.0,,Tyhp type definitions for phpoffice/phpspreadsheet 5.9.0.
+2026-10-05T18:47:42Z,tyhpdef/phpoffice-phpspreadsheet-impl,5.9.0.0,,"Implementation package for tyhpdef/phpoffice-phpspreadsheet. Require tyhpdef/phpoffice-phpspreadsheet, not this package."
+2026-10-05T18:47:59Z,tyhpdef/phpseclib-phpseclib,4.0.1,,Tyhp type definitions for phpseclib/phpseclib 4.0.1.
+2026-10-05T18:48:11Z,tyhpdef/phpseclib-phpseclib-impl,4.0.1.0,,"Implementation package for tyhpdef/phpseclib-phpseclib. Require tyhpdef/phpseclib-phpseclib, not this package."
+2026-10-05T18:48:28Z,tyhpdef/phpspec-phpspec,8.3.1,,Tyhp type definitions for phpspec/phpspec 8.3.1.
+2026-10-05T18:48:40Z,tyhpdef/phpspec-phpspec-impl,8.3.1.0,,"Implementation package for tyhpdef/phpspec-phpspec. Require tyhpdef/phpspec-phpspec, not this package."
+2026-10-05T18:48:58Z,tyhpdef/phpspec-prophecy-phpunit,2.5.0,,Tyhp type definitions for phpspec/prophecy-phpunit 2.5.0.
+2026-10-05T18:49:09Z,tyhpdef/phpspec-prophecy-phpunit-impl,2.5.0.0,,"Implementation package for tyhpdef/phpspec-prophecy-phpunit. Require tyhpdef/phpspec-prophecy-phpunit, not this package."
+2026-10-05T18:49:27Z,tyhpdef/phpspec-prophecy,1.26.1,,Tyhp type definitions for phpspec/prophecy 1.26.1.
+2026-10-05T18:49:38Z,tyhpdef/phpspec-prophecy-impl,1.26.1.0,,"Implementation package for tyhpdef/phpspec-prophecy. Require tyhpdef/phpspec-prophecy, not this package."
+2026-10-05T18:49:56Z,tyhpdef/phpstan-phpdoc-parser,2.3.5,,Tyhp type definitions for phpstan/phpdoc-parser 2.3.5.
+2026-10-05T18:50:06Z,tyhpdef/phpstan-phpdoc-parser-impl,2.3.5.0,,"Implementation package for tyhpdef/phpstan-phpdoc-parser. Require tyhpdef/phpstan-phpdoc-parser, not this package."
+2026-10-05T18:50:23Z,tyhpdef/phpstan-phpstan-doctrine,2.0.28,,Tyhp type definitions for phpstan/phpstan-doctrine 2.0.28.
+2026-10-05T18:50:34Z,tyhpdef/phpstan-phpstan-doctrine-impl,2.0.28.0,,"Implementation package for tyhpdef/phpstan-phpstan-doctrine. Require tyhpdef/phpstan-phpstan-doctrine, not this package."
+2026-10-05T18:50:51Z,tyhpdef/phpstan-phpstan-phpunit,2.0.18,,Tyhp type definitions for phpstan/phpstan-phpunit 2.0.18.
+2026-10-05T18:51:03Z,tyhpdef/phpstan-phpstan-phpunit-impl,2.0.18.0,,"Implementation package for tyhpdef/phpstan-phpstan-phpunit. Require tyhpdef/phpstan-phpstan-phpunit, not this package."
+2026-10-05T18:51:20Z,tyhpdef/phpstan-phpstan-symfony,2.0.20,,Tyhp type definitions for phpstan/phpstan-symfony 2.0.20.
+2026-10-05T18:51:31Z,tyhpdef/phpstan-phpstan-symfony-impl,2.0.20.0,,"Implementation package for tyhpdef/phpstan-phpstan-symfony. Require tyhpdef/phpstan-phpstan-symfony, not this package."
+2026-10-05T18:51:48Z,tyhpdef/phpstan-phpstan,2.2.14,,Tyhp type definitions for phpstan/phpstan 2.2.14.
+2026-10-05T18:52:00Z,tyhpdef/phpstan-phpstan-impl,2.2.14.0,,"Implementation package for tyhpdef/phpstan-phpstan. Require tyhpdef/phpstan-phpstan, not this package."
+2026-10-05T18:52:18Z,tyhpdef/phpunit-phpunit,12.5.35,,Tyhp type definitions for phpunit/phpunit 12.5.35.
+2026-10-05T18:52:29Z,tyhpdef/phpunit-phpunit-impl,12.5.35.0,,"Implementation package for tyhpdef/phpunit-phpunit. Require tyhpdef/phpunit-phpunit, not this package."
+2026-10-05T18:53:10Z,tyhpdef/pragmarx-google2fa-qrcode,4.0.0,,Tyhp type definitions for pragmarx/google2fa-qrcode 4.0.0.
+2026-10-05T18:53:21Z,tyhpdef/pragmarx-google2fa-qrcode-impl,4.0.0.0,,"Implementation package for tyhpdef/pragmarx-google2fa-qrcode. Require tyhpdef/pragmarx-google2fa-qrcode, not this package."
+2026-10-05T18:53:38Z,tyhpdef/pragmarx-google2fa,9.1.0,,Tyhp type definitions for pragmarx/google2fa 9.1.0.
+2026-10-05T18:53:50Z,tyhpdef/pragmarx-google2fa-impl,9.1.0.0,,"Implementation package for tyhpdef/pragmarx-google2fa. Require tyhpdef/pragmarx-google2fa, not this package."
+2026-10-05T18:54:09Z,tyhpdef/predis-predis,3.6.0,,Tyhp type definitions for predis/predis 3.6.0.
+2026-10-05T18:54:20Z,tyhpdef/predis-predis-impl,3.6.0.0,,"Implementation package for tyhpdef/predis-predis. Require tyhpdef/predis-predis, not this package."
+2026-10-05T18:54:38Z,tyhpdef/psalm-plugin-laravel,4.16.1,,Tyhp type definitions for psalm/plugin-laravel 4.16.1.
+2026-10-05T18:54:49Z,tyhpdef/psalm-plugin-laravel-impl,4.16.1.0,,"Implementation package for tyhpdef/psalm-plugin-laravel. Require tyhpdef/psalm-plugin-laravel, not this package."
+2026-10-05T18:55:08Z,tyhpdef/psr-cache,3.0.0,,Tyhp type definitions for psr/cache 3.0.0.
+2026-10-05T18:55:19Z,tyhpdef/psr-cache-impl,3.0.0.0,,"Implementation package for tyhpdef/psr-cache. Require tyhpdef/psr-cache, not this package."
+2026-10-05T18:55:37Z,tyhpdef/psr-clock,1.0.0,,Tyhp type definitions for psr/clock 1.0.0.
+2026-10-05T18:55:48Z,tyhpdef/psr-clock-impl,1.0.0.0,,"Implementation package for tyhpdef/psr-clock. Require tyhpdef/psr-clock, not this package."
+2026-10-05T18:56:05Z,tyhpdef/psr-container,2.0.2,,Tyhp type definitions for psr/container 2.0.2.
+2026-10-05T18:56:16Z,tyhpdef/psr-container-impl,2.0.2.0,,"Implementation package for tyhpdef/psr-container. Require tyhpdef/psr-container, not this package."
+2026-10-05T18:56:34Z,tyhpdef/psr-event-dispatcher,1.0.0,,Tyhp type definitions for psr/event-dispatcher 1.0.0.
+2026-10-05T18:56:45Z,tyhpdef/psr-event-dispatcher-impl,1.0.0.0,,"Implementation package for tyhpdef/psr-event-dispatcher. Require tyhpdef/psr-event-dispatcher, not this package."
+2026-10-05T18:57:02Z,tyhpdef/psr-http-client,1.0.3,,Tyhp type definitions for psr/http-client 1.0.3.
+2026-10-05T18:57:14Z,tyhpdef/psr-http-client-impl,1.0.3.0,,"Implementation package for tyhpdef/psr-http-client. Require tyhpdef/psr-http-client, not this package."
+2026-10-05T18:57:31Z,tyhpdef/psr-http-factory,1.1.0,,Tyhp type definitions for psr/http-factory 1.1.0.
+2026-10-05T18:57:42Z,tyhpdef/psr-http-factory-impl,1.1.0.0,,"Implementation package for tyhpdef/psr-http-factory. Require tyhpdef/psr-http-factory, not this package."
+2026-10-05T18:57:59Z,tyhpdef/psr-http-message,2.0,,Tyhp type definitions for psr/http-message 2.0.
+2026-10-05T18:58:11Z,tyhpdef/psr-http-message-impl,2.0.0,,"Implementation package for tyhpdef/psr-http-message. Require tyhpdef/psr-http-message, not this package."
+2026-10-05T18:58:29Z,tyhpdef/psr-http-server-handler,1.0.2,,Tyhp type definitions for psr/http-server-handler 1.0.2.
+2026-10-05T18:58:40Z,tyhpdef/psr-http-server-handler-impl,1.0.2.0,,"Implementation package for tyhpdef/psr-http-server-handler. Require tyhpdef/psr-http-server-handler, not this package."
+2026-10-05T18:58:57Z,tyhpdef/psr-http-server-middleware,1.0.2,,Tyhp type definitions for psr/http-server-middleware 1.0.2.
+2026-10-05T18:59:08Z,tyhpdef/psr-http-server-middleware-impl,1.0.2.0,,"Implementation package for tyhpdef/psr-http-server-middleware. Require tyhpdef/psr-http-server-middleware, not this package."
+2026-10-05T18:59:26Z,tyhpdef/psr-link,2.0.1,,Tyhp type definitions for psr/link 2.0.1.
+2026-10-05T18:59:37Z,tyhpdef/psr-link-impl,2.0.1.0,,"Implementation package for tyhpdef/psr-link. Require tyhpdef/psr-link, not this package."
+2026-10-05T18:59:54Z,tyhpdef/psr-log,3.0.2,,Tyhp type definitions for psr/log 3.0.2.
+2026-10-05T19:00:05Z,tyhpdef/psr-log-impl,3.0.2.0,,"Implementation package for tyhpdef/psr-log. Require tyhpdef/psr-log, not this package."
+2026-10-05T19:00:46Z,tyhpdef/psr-simple-cache,3.0.0,,Tyhp type definitions for psr/simple-cache 3.0.0.
+2026-10-05T19:00:57Z,tyhpdef/psr-simple-cache-impl,3.0.0.0,,"Implementation package for tyhpdef/psr-simple-cache. Require tyhpdef/psr-simple-cache, not this package."
+2026-10-05T19:01:14Z,tyhpdef/psy-psysh,0.12.24,,Tyhp type definitions for psy/psysh 0.12.24.
+2026-10-05T19:01:26Z,tyhpdef/psy-psysh-impl,0.12.24.0,,"Implementation package for tyhpdef/psy-psysh. Require tyhpdef/psy-psysh, not this package."
+2026-10-05T19:01:44Z,tyhpdef/pusher-pusher-php-server,7.3.0,,Tyhp type definitions for pusher/pusher-php-server 7.3.0.
+2026-10-05T19:01:54Z,tyhpdef/pusher-pusher-php-server-impl,7.3.0.0,,"Implementation package for tyhpdef/pusher-pusher-php-server. Require tyhpdef/pusher-pusher-php-server, not this package."
+2026-10-05T19:02:11Z,tyhpdef/ramsey-collection,2.1.1,,Tyhp type definitions for ramsey/collection 2.1.1.
+2026-10-05T19:02:21Z,tyhpdef/ramsey-collection-impl,2.1.1.0,,"Implementation package for tyhpdef/ramsey-collection. Require tyhpdef/ramsey-collection, not this package."
+2026-10-05T19:02:39Z,tyhpdef/ramsey-uuid-doctrine,2.1.0,,Tyhp type definitions for ramsey/uuid-doctrine 2.1.0.
+2026-10-05T19:02:50Z,tyhpdef/ramsey-uuid-doctrine-impl,2.1.0.0,,"Implementation package for tyhpdef/ramsey-uuid-doctrine. Require tyhpdef/ramsey-uuid-doctrine, not this package."
+2026-10-05T19:03:08Z,tyhpdef/ramsey-uuid,4.9.3,,Tyhp type definitions for ramsey/uuid 4.9.3.
+2026-10-05T19:03:19Z,tyhpdef/ramsey-uuid-impl,4.9.3.0,,"Implementation package for tyhpdef/ramsey-uuid. Require tyhpdef/ramsey-uuid, not this package."
+2026-10-05T19:03:36Z,tyhpdef/react-promise,3.3.0,,Tyhp type definitions for react/promise 3.3.0.
+2026-10-05T19:03:46Z,tyhpdef/react-promise-impl,3.3.0.0,,"Implementation package for tyhpdef/react-promise. Require tyhpdef/react-promise, not this package."
+2026-10-05T19:04:02Z,tyhpdef/rector-rector,2.6.7,,Tyhp type definitions for rector/rector 2.6.7.
+2026-10-05T19:04:12Z,tyhpdef/rector-rector-impl,2.6.7.0,,"Implementation package for tyhpdef/rector-rector. Require tyhpdef/rector-rector, not this package."
+2026-10-05T19:04:29Z,tyhpdef/respect-validation,3.1.2,,Tyhp type definitions for respect/validation 3.1.2.
+2026-10-05T19:04:40Z,tyhpdef/respect-validation-impl,3.1.2.0,,"Implementation package for tyhpdef/respect-validation. Require tyhpdef/respect-validation, not this package."
+2026-10-05T19:04:58Z,tyhpdef/seld-jsonlint,1.12.1,,Tyhp type definitions for seld/jsonlint 1.12.1.
+2026-10-05T19:05:08Z,tyhpdef/seld-jsonlint-impl,1.12.1.0,,"Implementation package for tyhpdef/seld-jsonlint. Require tyhpdef/seld-jsonlint, not this package."
+2026-10-05T19:05:25Z,tyhpdef/sentry-sentry,4.31.0,,Tyhp type definitions for sentry/sentry 4.31.0.
+2026-10-05T19:05:37Z,tyhpdef/sentry-sentry-impl,4.31.0.0,,"Implementation package for tyhpdef/sentry-sentry. Require tyhpdef/sentry-sentry, not this package."
+2026-10-05T19:05:54Z,tyhpdef/setasign-fpdf,1.9.0,,Tyhp type definitions for setasign/fpdf 1.9.0.
+2026-10-05T19:06:05Z,tyhpdef/setasign-fpdf-impl,1.9.0.0,,"Implementation package for tyhpdef/setasign-fpdf. Require tyhpdef/setasign-fpdf, not this package."
+2026-10-05T19:06:22Z,tyhpdef/slevomat-coding-standard,8.31.1,,Tyhp type definitions for slevomat/coding-standard 8.31.1.
+2026-10-05T19:06:32Z,tyhpdef/slevomat-coding-standard-impl,8.31.1.0,,"Implementation package for tyhpdef/slevomat-coding-standard. Require tyhpdef/slevomat-coding-standard, not this package."
+2026-10-05T19:06:48Z,tyhpdef/slim-psr7,1.8.0,,Tyhp type definitions for slim/psr7 1.8.0.
+2026-10-05T19:06:59Z,tyhpdef/slim-psr7-impl,1.8.0.0,,"Implementation package for tyhpdef/slim-psr7. Require tyhpdef/slim-psr7, not this package."
+2026-10-05T19:07:16Z,tyhpdef/spatie-backtrace,1.8.2,,Tyhp type definitions for spatie/backtrace 1.8.2.
+2026-10-05T19:07:27Z,tyhpdef/spatie-backtrace-impl,1.8.2.0,,"Implementation package for tyhpdef/spatie-backtrace. Require tyhpdef/spatie-backtrace, not this package."
+2026-10-05T19:07:43Z,tyhpdef/spatie-error-solutions,2.0.5,,Tyhp type definitions for spatie/error-solutions 2.0.5.
+2026-10-05T19:07:53Z,tyhpdef/spatie-error-solutions-impl,2.0.5.0,,"Implementation package for tyhpdef/spatie-error-solutions. Require tyhpdef/spatie-error-solutions, not this package."
+2026-10-05T19:08:31Z,tyhpdef/spatie-flare-client-php,3.5.1,,Tyhp type definitions for spatie/flare-client-php 3.5.1.
+2026-10-05T19:08:42Z,tyhpdef/spatie-flare-client-php-impl,3.5.1.0,,"Implementation package for tyhpdef/spatie-flare-client-php. Require tyhpdef/spatie-flare-client-php, not this package."
+2026-10-05T19:09:41Z,tyhpdef/spatie-ignition,1.16.0,,Tyhp type definitions for spatie/ignition 1.16.0.
+2026-10-05T19:09:52Z,tyhpdef/spatie-ignition-impl,1.16.0.0,,"Implementation package for tyhpdef/spatie-ignition. Require tyhpdef/spatie-ignition, not this package."
+2026-10-05T19:10:11Z,tyhpdef/spatie-image,3.9.6,,Tyhp type definitions for spatie/image 3.9.6.
+2026-10-05T19:10:22Z,tyhpdef/spatie-image-impl,3.9.6.0,,"Implementation package for tyhpdef/spatie-image. Require tyhpdef/spatie-image, not this package."
+2026-10-05T19:10:39Z,tyhpdef/spatie-laravel-activitylog,5.1.1,,Tyhp type definitions for spatie/laravel-activitylog 5.1.1.
+2026-10-05T19:10:49Z,tyhpdef/spatie-laravel-activitylog-impl,5.1.1.0,,"Implementation package for tyhpdef/spatie-laravel-activitylog. Require tyhpdef/spatie-laravel-activitylog, not this package."
+2026-10-05T19:11:07Z,tyhpdef/spatie-laravel-backup,10.3.3,,Tyhp type definitions for spatie/laravel-backup 10.3.3.
+2026-10-05T19:11:17Z,tyhpdef/spatie-laravel-backup-impl,10.3.3.0,,"Implementation package for tyhpdef/spatie-laravel-backup. Require tyhpdef/spatie-laravel-backup, not this package."
+2026-10-05T19:11:34Z,tyhpdef/spatie-laravel-data,4.23.0,,Tyhp type definitions for spatie/laravel-data 4.23.0.
+2026-10-05T19:11:44Z,tyhpdef/spatie-laravel-data-impl,4.23.0.0,,"Implementation package for tyhpdef/spatie-laravel-data. Require tyhpdef/spatie-laravel-data, not this package."
+2026-10-05T19:12:02Z,tyhpdef/spatie-laravel-error-share,1.0.10,,Tyhp type definitions for spatie/laravel-error-share 1.0.10.
+2026-10-05T19:12:13Z,tyhpdef/spatie-laravel-error-share-impl,1.0.10.0,,"Implementation package for tyhpdef/spatie-laravel-error-share. Require tyhpdef/spatie-laravel-error-share, not this package."
+2026-10-05T19:12:30Z,tyhpdef/spatie-laravel-flare,2.8.0,,Tyhp type definitions for spatie/laravel-flare 2.8.0.
+2026-10-05T19:12:40Z,tyhpdef/spatie-laravel-flare-impl,2.8.0.0,,"Implementation package for tyhpdef/spatie-laravel-flare. Require tyhpdef/spatie-laravel-flare, not this package."
+2026-10-05T19:13:18Z,tyhpdef/spatie-laravel-ignition,2.12.0,,Tyhp type definitions for spatie/laravel-ignition 2.12.0.
+2026-10-05T19:13:29Z,tyhpdef/spatie-laravel-ignition-impl,2.12.0.0,,"Implementation package for tyhpdef/spatie-laravel-ignition. Require tyhpdef/spatie-laravel-ignition, not this package."
+2026-10-05T19:13:33Z,volkmann-design-code/kirby-dev-login,0.1.0,Enzo Volkmann,"One-click login buttons on the Panel login, for local development"
+2026-10-05T19:13:45Z,ecuafact/sdk,v1.0.0-beta1,Ecuanexus,Cliente oficial en PHP del API publico de facturacion electronica Ecuafact (contrato v1).
+2026-10-05T19:13:46Z,tyhpdef/spatie-laravel-medialibrary,11.23.8,,Tyhp type definitions for spatie/laravel-medialibrary 11.23.8.
+2026-10-05T19:13:48Z,sytxlabs/laravel-webmcp,1.0.0,Shaun Lüdeke,Expose laravel/mcp tools and resources as WebMCP tools (document.modelContext) in the browser.
+2026-10-05T19:13:56Z,tyhpdef/spatie-laravel-medialibrary-impl,11.23.8.0,,"Implementation package for tyhpdef/spatie-laravel-medialibrary. Require tyhpdef/spatie-laravel-medialibrary, not this package."
+2026-10-05T19:14:14Z,tyhpdef/spatie-laravel-package-tools,1.93.2,,Tyhp type definitions for spatie/laravel-package-tools 1.93.2.
+2026-10-05T19:14:24Z,tyhpdef/spatie-laravel-package-tools-impl,1.93.2.0,,"Implementation package for tyhpdef/spatie-laravel-package-tools. Require tyhpdef/spatie-laravel-package-tools, not this package."
+2026-10-05T19:14:41Z,tyhpdef/spatie-laravel-permission,8.3.0,,Tyhp type definitions for spatie/laravel-permission 8.3.0.
+2026-10-05T19:14:51Z,tyhpdef/spatie-laravel-permission-impl,8.3.0.0,,"Implementation package for tyhpdef/spatie-laravel-permission. Require tyhpdef/spatie-laravel-permission, not this package."
+2026-10-05T19:15:07Z,tyhpdef/spatie-laravel-query-builder,7.3.5,,Tyhp type definitions for spatie/laravel-query-builder 7.3.5.
+2026-10-05T19:15:18Z,tyhpdef/spatie-laravel-query-builder-impl,7.3.5.0,,"Implementation package for tyhpdef/spatie-laravel-query-builder. Require tyhpdef/spatie-laravel-query-builder, not this package."
+2026-10-05T19:15:34Z,tyhpdef/spiral-roadrunner-http,4.1.0,,Tyhp type definitions for spiral/roadrunner-http 4.1.0.
+2026-10-05T19:15:44Z,tyhpdef/spiral-roadrunner-http-impl,4.1.0.0,,"Implementation package for tyhpdef/spiral-roadrunner-http. Require tyhpdef/spiral-roadrunner-http, not this package."
+2026-10-05T19:16:01Z,tyhpdef/spiral-roadrunner-worker,3.6.2,,Tyhp type definitions for spiral/roadrunner-worker 3.6.2.
+2026-10-05T19:16:11Z,tyhpdef/spiral-roadrunner-worker-impl,3.6.2.0,,"Implementation package for tyhpdef/spiral-roadrunner-worker. Require tyhpdef/spiral-roadrunner-worker, not this package."
+2026-10-05T19:16:27Z,tyhpdef/squizlabs-php_codesniffer,4.0.4,,Tyhp type definitions for squizlabs/php_codesniffer 4.0.4.
+2026-10-05T19:16:38Z,tyhpdef/squizlabs-php_codesniffer-impl,4.0.4.0,,"Implementation package for tyhpdef/squizlabs-php_codesniffer. Require tyhpdef/squizlabs-php_codesniffer, not this package."
+2026-10-05T19:17:16Z,tyhpdef/staudenmeir-belongs-to-through,2.18,,Tyhp type definitions for staudenmeir/belongs-to-through 2.18.
+2026-10-05T19:17:26Z,tyhpdef/staudenmeir-belongs-to-through-impl,2.18.0,,"Implementation package for tyhpdef/staudenmeir-belongs-to-through. Require tyhpdef/staudenmeir-belongs-to-through, not this package."
+2026-10-05T19:17:44Z,tyhpdef/stripe-stripe-php,21.3.2,,Tyhp type definitions for stripe/stripe-php 21.3.2.
+2026-10-05T19:17:54Z,tyhpdef/stripe-stripe-php-impl,21.3.2.0,,"Implementation package for tyhpdef/stripe-stripe-php. Require tyhpdef/stripe-stripe-php, not this package."
+2026-10-05T19:18:11Z,tyhpdef/symfony-browser-kit,7.4.17,,Tyhp type definitions for symfony/browser-kit 7.4.17.
+2026-10-05T19:18:22Z,tyhpdef/symfony-browser-kit-impl,7.4.17.0,,"Implementation package for tyhpdef/symfony-browser-kit. Require tyhpdef/symfony-browser-kit, not this package."
+2026-10-05T19:18:40Z,tyhpdef/symfony-cache-contracts,3.7.1,,Tyhp type definitions for symfony/cache-contracts 3.7.1.
+2026-10-05T19:18:51Z,tyhpdef/symfony-cache-contracts-impl,3.7.1.0,,"Implementation package for tyhpdef/symfony-cache-contracts. Require tyhpdef/symfony-cache-contracts, not this package."
+2026-10-05T19:19:07Z,tyhpdef/symfony-cache,7.4.19,,Tyhp type definitions for symfony/cache 7.4.19.
+2026-10-05T19:19:17Z,tyhpdef/symfony-cache-impl,7.4.19.0,,"Implementation package for tyhpdef/symfony-cache. Require tyhpdef/symfony-cache, not this package."
+2026-10-05T19:19:34Z,tyhpdef/symfony-clock,8.1.0,,Tyhp type definitions for symfony/clock 8.1.0.
+2026-10-05T19:19:45Z,tyhpdef/symfony-clock-impl,8.1.0.0,,"Implementation package for tyhpdef/symfony-clock. Require tyhpdef/symfony-clock, not this package."
+2026-10-05T19:20:24Z,tyhpdef/symfony-config,7.4.17,,Tyhp type definitions for symfony/config 7.4.17.
+2026-10-05T19:20:34Z,tyhpdef/symfony-config-impl,7.4.17.0,,"Implementation package for tyhpdef/symfony-config. Require tyhpdef/symfony-config, not this package."
+2026-10-05T19:20:51Z,tyhpdef/symfony-console,8.1.7,,Tyhp type definitions for symfony/console 8.1.7.
+2026-10-05T19:21:02Z,tyhpdef/symfony-console-impl,8.1.7.0,,"Implementation package for tyhpdef/symfony-console. Require tyhpdef/symfony-console, not this package."
+2026-10-05T19:21:41Z,tyhpdef/symfony-css-selector,7.4.18,,Tyhp type definitions for symfony/css-selector 7.4.18.
+2026-10-05T19:21:51Z,tyhpdef/symfony-css-selector-impl,7.4.18.0,,"Implementation package for tyhpdef/symfony-css-selector. Require tyhpdef/symfony-css-selector, not this package."
