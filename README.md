@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 02:21 UTC
+## Latest list — 2026-10-05 03:21 UTC
 
-New packages created between 2026-10-05 01:19 UTC and 2026-10-05 02:21 UTC.
+New packages created between 2026-10-05 02:21 UTC and 2026-10-05 03:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-05T02-21-27-542303Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-05T03-21-57-739976Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-05 01:27:19 | [mage2kishan/module-testimonials](https://www.nuget.org/packages/mage2kishan%2Fmodule-testimonials) | 1.2.10 |  | Advanced Testimonials module with slider, individual pages, categories, SEO, an… |
-| 2026-10-05 01:46:24 | [dirthara/queue-database](https://www.nuget.org/packages/dirthara%2Fqueue-database) | 0.1.0 | Dirthara | Database queue driver for the Dirthara framework |
-| 2026-10-05 01:58:12 | [contenir/contenir-workflow](https://www.nuget.org/packages/contenir%2Fcontenir-workflow) | v0.1.0 | Contenir | Database-driven workflow system for Mezzio that generates routes and navigation… |
+| 2026-10-05 02:34:12 | [mage2kishan/module-hero-slider](https://www.nuget.org/packages/mage2kishan%2Fmodule-hero-slider) | 1.1.5 | Kishan Savaliya | Hero / homepage carousel for Magento 2 (Hyva + Luma). Center-focused 3-up Splid… |
+| 2026-10-05 03:00:31 | [mage2kishan/module-structured-data](https://www.nuget.org/packages/mage2kishan%2Fmodule-structured-data) | 1.3.3 | Kishan Savaliya | Panth Structured Data — JSON-LD schemas for Magento 2: Product, Breadcrumb, Org… |
 
 ## Data source
 
