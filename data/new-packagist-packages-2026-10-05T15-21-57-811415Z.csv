@@ -1,0 +1,248 @@
+created_at,package,version,author,description
+2026-10-05T14:22:23Z,tyhpdef/php-ext-tidy,0.1,,Tyhp type definitions for the PHP tidy extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:22:37Z,tyhpdef/php-ext-tokenizer,0.1,,Tyhp type definitions for the PHP tokenizer extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:22:51Z,tyhpdef/php-ext-uri,0.1,,Tyhp type definitions for the PHP uri extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5). The uri extension itself is PHP 8.5+.
+2026-10-05T14:23:06Z,tyhpdef/php-ext-xml,0.1,,Tyhp type definitions for the PHP xml extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:23:20Z,tyhpdef/php-ext-xmlreader,0.1,,Tyhp type definitions for the PHP xmlreader extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:23:35Z,tyhpdef/php-ext-xmlwriter,0.1,,Tyhp type definitions for the PHP xmlwriter extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:23:49Z,tyhpdef/php-ext-xsl,0.1,,Tyhp type definitions for the PHP xsl extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:24:02Z,tyhpdef/php-ext-zip,0.1,,Tyhp type definitions for the PHP zip extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:24:17Z,tyhpdef/php-ext-zlib,0.1,,Tyhp type definitions for the PHP zlib extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:24:46Z,tyhpdef/api-platform-core,4.4.0,,Tyhp type definitions for api-platform/core 4.4.0.
+2026-10-05T14:24:56Z,tyhpdef/api-platform-core-impl,4.4.0.0,,"Implementation package for tyhpdef/api-platform-core. Require tyhpdef/api-platform-core, not this package."
+2026-10-05T14:25:14Z,tyhpdef/async-aws-core,1.30.0,,Tyhp type definitions for async-aws/core 1.30.0.
+2026-10-05T14:25:25Z,tyhpdef/async-aws-core-impl,1.30.0.0,,"Implementation package for tyhpdef/async-aws-core. Require tyhpdef/async-aws-core, not this package."
+2026-10-05T14:25:42Z,tyhpdef/async-aws-s3,3.5.0,,Tyhp type definitions for async-aws/s3 3.5.0.
+2026-10-05T14:25:54Z,tyhpdef/async-aws-s3-impl,3.5.0.0,,"Implementation package for tyhpdef/async-aws-s3. Require tyhpdef/async-aws-s3, not this package."
+2026-10-05T14:26:11Z,tyhpdef/aws-aws-sdk-php,3.395.3,,Tyhp type definitions for aws/aws-sdk-php 3.395.3.
+2026-10-05T14:26:22Z,tyhpdef/aws-aws-sdk-php-impl,3.395.3.0,,"Implementation package for tyhpdef/aws-aws-sdk-php. Require tyhpdef/aws-aws-sdk-php, not this package."
+2026-10-05T14:26:39Z,tyhpdef/bacon-bacon-qr-code,3.1.1,,Tyhp type definitions for bacon/bacon-qr-code 3.1.1.
+2026-10-05T14:26:50Z,tyhpdef/bacon-bacon-qr-code-impl,3.1.1.0,,"Implementation package for tyhpdef/bacon-bacon-qr-code. Require tyhpdef/bacon-bacon-qr-code, not this package."
+2026-10-05T14:27:07Z,tyhpdef/barryvdh-laravel-ide-helper,3.7.0,,Tyhp type definitions for barryvdh/laravel-ide-helper 3.7.0.
+2026-10-05T14:27:18Z,tyhpdef/barryvdh-laravel-ide-helper-impl,3.7.0.0,,"Implementation package for tyhpdef/barryvdh-laravel-ide-helper. Require tyhpdef/barryvdh-laravel-ide-helper, not this package."
+2026-10-05T14:27:35Z,tyhpdef/behat-behat,3.33.0,,Tyhp type definitions for behat/behat 3.33.0.
+2026-10-05T14:27:46Z,tyhpdef/behat-behat-impl,3.33.0.0,,"Implementation package for tyhpdef/behat-behat. Require tyhpdef/behat-behat, not this package."
+2026-10-05T14:28:03Z,tyhpdef/behat-gherkin,4.17.0,,Tyhp type definitions for behat/gherkin 4.17.0.
+2026-10-05T14:28:14Z,tyhpdef/behat-gherkin-impl,4.17.0.0,,"Implementation package for tyhpdef/behat-gherkin. Require tyhpdef/behat-gherkin, not this package."
+2026-10-05T14:28:31Z,tyhpdef/brianium-paratest,7.24.1,,Tyhp type definitions for brianium/paratest 7.24.1.
+2026-10-05T14:28:41Z,tyhpdef/brianium-paratest-impl,7.24.1.0,,"Implementation package for tyhpdef/brianium-paratest. Require tyhpdef/brianium-paratest, not this package."
+2026-10-05T14:28:58Z,tyhpdef/brick-math,1.0.0,,Tyhp type definitions for brick/math 1.0.0.
+2026-10-05T14:29:09Z,tyhpdef/brick-math-impl,1.0.0.0,,"Implementation package for tyhpdef/brick-math. Require tyhpdef/brick-math, not this package."
+2026-10-05T14:29:47Z,tyhpdef/cakephp-chronos,3.5.1,,Tyhp type definitions for cakephp/chronos 3.5.1.
+2026-10-05T14:29:58Z,tyhpdef/cakephp-chronos-impl,3.5.1.0,,"Implementation package for tyhpdef/cakephp-chronos. Require tyhpdef/cakephp-chronos, not this package."
+2026-10-05T14:30:16Z,tyhpdef/chillerlan-php-qrcode,5.0.5,,Tyhp type definitions for chillerlan/php-qrcode 5.0.5.
+2026-10-05T14:30:27Z,tyhpdef/chillerlan-php-qrcode-impl,5.0.5.0,,"Implementation package for tyhpdef/chillerlan-php-qrcode. Require tyhpdef/chillerlan-php-qrcode, not this package."
+2026-10-05T14:30:44Z,tyhpdef/chillerlan-php-settings-container,3.3.0,,Tyhp type definitions for chillerlan/php-settings-container 3.3.0.
+2026-10-05T14:30:55Z,tyhpdef/chillerlan-php-settings-container-impl,3.3.0.0,,"Implementation package for tyhpdef/chillerlan-php-settings-container. Require tyhpdef/chillerlan-php-settings-container, not this package."
+2026-10-05T14:31:12Z,tyhpdef/codeception-codeception,5.3.5,,Tyhp type definitions for codeception/codeception 5.3.5.
+2026-10-05T14:31:24Z,tyhpdef/codeception-codeception-impl,5.3.5.0,,"Implementation package for tyhpdef/codeception-codeception. Require tyhpdef/codeception-codeception, not this package."
+2026-10-05T14:31:41Z,tyhpdef/composer-class-map-generator,1.7.3,,Tyhp type definitions for composer/class-map-generator 1.7.3.
+2026-10-05T14:31:52Z,tyhpdef/composer-class-map-generator-impl,1.7.3.0,,"Implementation package for tyhpdef/composer-class-map-generator. Require tyhpdef/composer-class-map-generator, not this package."
+2026-10-05T14:32:12Z,tyhpdef/composer-composer,2.10.3,,Tyhp type definitions for composer/composer 2.10.3.
+2026-10-05T14:32:24Z,tyhpdef/composer-composer-impl,2.10.3.0,,"Implementation package for tyhpdef/composer-composer. Require tyhpdef/composer-composer, not this package."
+2026-10-05T14:32:42Z,tyhpdef/composer-pcre,3.4.0,,Tyhp type definitions for composer/pcre 3.4.0.
+2026-10-05T14:32:53Z,tyhpdef/composer-pcre-impl,3.4.0.0,,"Implementation package for tyhpdef/composer-pcre. Require tyhpdef/composer-pcre, not this package."
+2026-10-05T14:33:11Z,tyhpdef/composer-semver,3.4.4,,Tyhp type definitions for composer/semver 3.4.4.
+2026-10-05T14:33:22Z,tyhpdef/composer-semver-impl,3.4.4.0,,"Implementation package for tyhpdef/composer-semver. Require tyhpdef/composer-semver, not this package."
+2026-10-05T14:33:40Z,tyhpdef/danharrin-livewire-rate-limiting,2.3.0,,Tyhp type definitions for danharrin/livewire-rate-limiting 2.3.0.
+2026-10-05T14:33:51Z,tyhpdef/danharrin-livewire-rate-limiting-impl,2.3.0.0,,"Implementation package for tyhpdef/danharrin-livewire-rate-limiting. Require tyhpdef/danharrin-livewire-rate-limiting, not this package."
+2026-10-05T14:34:09Z,tyhpdef/dasprid-enum,1.0.7,,Tyhp type definitions for dasprid/enum 1.0.7.
+2026-10-05T14:34:20Z,tyhpdef/dasprid-enum-impl,1.0.7.0,,"Implementation package for tyhpdef/dasprid-enum. Require tyhpdef/dasprid-enum, not this package."
+2026-10-05T14:34:38Z,tyhpdef/defuse-php-encryption,2.4.0,,Tyhp type definitions for defuse/php-encryption 2.4.0.
+2026-10-05T14:34:48Z,tyhpdef/defuse-php-encryption-impl,2.4.0.0,,"Implementation package for tyhpdef/defuse-php-encryption. Require tyhpdef/defuse-php-encryption, not this package."
+2026-10-05T14:35:06Z,tyhpdef/dflydev-dot-access-data,3.0.3,,Tyhp type definitions for dflydev/dot-access-data 3.0.3.
+2026-10-05T14:35:17Z,tyhpdef/dflydev-dot-access-data-impl,3.0.3.0,,"Implementation package for tyhpdef/dflydev-dot-access-data. Require tyhpdef/dflydev-dot-access-data, not this package."
+2026-10-05T14:35:34Z,tyhpdef/doctrine-annotations,2.0.2,,Tyhp type definitions for doctrine/annotations 2.0.2.
+2026-10-05T14:35:45Z,tyhpdef/doctrine-annotations-impl,2.0.2.0,,"Implementation package for tyhpdef/doctrine-annotations. Require tyhpdef/doctrine-annotations, not this package."
+2026-10-05T14:36:02Z,tyhpdef/doctrine-collections,3.1.0,,Tyhp type definitions for doctrine/collections 3.1.0.
+2026-10-05T14:36:13Z,tyhpdef/doctrine-collections-impl,3.1.0.0,,"Implementation package for tyhpdef/doctrine-collections. Require tyhpdef/doctrine-collections, not this package."
+2026-10-05T14:36:31Z,tyhpdef/doctrine-dbal,4.4.4,,Tyhp type definitions for doctrine/dbal 4.4.4.
+2026-10-05T14:36:44Z,tyhpdef/doctrine-dbal-impl,4.4.4.0,,"Implementation package for tyhpdef/doctrine-dbal. Require tyhpdef/doctrine-dbal, not this package."
+2026-10-05T14:37:02Z,tyhpdef/doctrine-deprecations,1.1.6,,Tyhp type definitions for doctrine/deprecations 1.1.6.
+2026-10-05T14:37:13Z,tyhpdef/doctrine-deprecations-impl,1.1.6.0,,"Implementation package for tyhpdef/doctrine-deprecations. Require tyhpdef/doctrine-deprecations, not this package."
+2026-10-05T14:37:30Z,tyhpdef/doctrine-doctrine-bundle,3.3.2,,Tyhp type definitions for doctrine/doctrine-bundle 3.3.2.
+2026-10-05T14:37:41Z,tyhpdef/doctrine-doctrine-bundle-impl,3.3.2.0,,"Implementation package for tyhpdef/doctrine-doctrine-bundle. Require tyhpdef/doctrine-doctrine-bundle, not this package."
+2026-10-05T14:37:58Z,tyhpdef/doctrine-event-manager,2.1.1,,Tyhp type definitions for doctrine/event-manager 2.1.1.
+2026-10-05T14:38:10Z,tyhpdef/doctrine-event-manager-impl,2.1.1.0,,"Implementation package for tyhpdef/doctrine-event-manager. Require tyhpdef/doctrine-event-manager, not this package."
+2026-10-05T14:38:28Z,tyhpdef/doctrine-inflector,2.1.0,,Tyhp type definitions for doctrine/inflector 2.1.0.
+2026-10-05T14:38:39Z,tyhpdef/doctrine-inflector-impl,2.1.0.0,,"Implementation package for tyhpdef/doctrine-inflector. Require tyhpdef/doctrine-inflector, not this package."
+2026-10-05T14:38:55Z,tyhpdef/doctrine-lexer,3.0.1,,Tyhp type definitions for doctrine/lexer 3.0.1.
+2026-10-05T14:39:06Z,tyhpdef/doctrine-lexer-impl,3.0.1.0,,"Implementation package for tyhpdef/doctrine-lexer. Require tyhpdef/doctrine-lexer, not this package."
+2026-10-05T14:39:24Z,tyhpdef/doctrine-migrations,3.9.7,,Tyhp type definitions for doctrine/migrations 3.9.7.
+2026-10-05T14:39:35Z,tyhpdef/doctrine-migrations-impl,3.9.7.0,,"Implementation package for tyhpdef/doctrine-migrations. Require tyhpdef/doctrine-migrations, not this package."
+2026-10-05T14:39:52Z,tyhpdef/doctrine-orm,3.7.1,,Tyhp type definitions for doctrine/orm 3.7.1.
+2026-10-05T14:40:03Z,tyhpdef/doctrine-orm-impl,3.7.1.0,,"Implementation package for tyhpdef/doctrine-orm. Require tyhpdef/doctrine-orm, not this package."
+2026-10-05T14:40:21Z,tyhpdef/doctrine-persistence,4.2.0,,Tyhp type definitions for doctrine/persistence 4.2.0.
+2026-10-05T14:40:32Z,tyhpdef/doctrine-persistence-impl,4.2.0.0,,"Implementation package for tyhpdef/doctrine-persistence. Require tyhpdef/doctrine-persistence, not this package."
+2026-10-05T14:40:50Z,tyhpdef/dompdf-dompdf,3.1.6,,Tyhp type definitions for dompdf/dompdf 3.1.6.
+2026-10-05T14:41:02Z,tyhpdef/dompdf-dompdf-impl,3.1.6.0,,"Implementation package for tyhpdef/dompdf-dompdf. Require tyhpdef/dompdf-dompdf, not this package."
+2026-10-05T14:41:20Z,tyhpdef/dragonmantank-cron-expression,3.6.0,,Tyhp type definitions for dragonmantank/cron-expression 3.6.0.
+2026-10-05T14:41:31Z,tyhpdef/dragonmantank-cron-expression-impl,3.6.0.0,,"Implementation package for tyhpdef/dragonmantank-cron-expression. Require tyhpdef/dragonmantank-cron-expression, not this package."
+2026-10-05T14:41:49Z,tyhpdef/driftingly-rector-laravel,2.6.2,,Tyhp type definitions for driftingly/rector-laravel 2.6.2.
+2026-10-05T14:41:59Z,tyhpdef/driftingly-rector-laravel-impl,2.6.2.0,,"Implementation package for tyhpdef/driftingly-rector-laravel. Require tyhpdef/driftingly-rector-laravel, not this package."
+2026-10-05T14:42:18Z,tyhpdef/egulias-email-validator,4.0.4,,Tyhp type definitions for egulias/email-validator 4.0.4.
+2026-10-05T14:42:28Z,tyhpdef/egulias-email-validator-impl,4.0.4.0,,"Implementation package for tyhpdef/egulias-email-validator. Require tyhpdef/egulias-email-validator, not this package."
+2026-10-05T14:42:45Z,tyhpdef/elastic-transport,9.0.1,,Tyhp type definitions for elastic/transport 9.0.1.
+2026-10-05T14:42:56Z,tyhpdef/elastic-transport-impl,9.0.1.0,,"Implementation package for tyhpdef/elastic-transport. Require tyhpdef/elastic-transport, not this package."
+2026-10-05T14:43:14Z,tyhpdef/elasticsearch-elasticsearch,9.5.0,,Tyhp type definitions for elasticsearch/elasticsearch 9.5.0.
+2026-10-05T14:43:25Z,tyhpdef/elasticsearch-elasticsearch-impl,9.5.0.0,,"Implementation package for tyhpdef/elasticsearch-elasticsearch. Require tyhpdef/elasticsearch-elasticsearch, not this package."
+2026-10-05T14:43:42Z,tyhpdef/erusev-parsedown,1.8.0,,Tyhp type definitions for erusev/parsedown 1.8.0.
+2026-10-05T14:43:53Z,tyhpdef/erusev-parsedown-impl,1.8.0.0,,"Implementation package for tyhpdef/erusev-parsedown. Require tyhpdef/erusev-parsedown, not this package."
+2026-10-05T14:44:10Z,tyhpdef/ezyang-htmlpurifier,4.19.1,,Tyhp type definitions for ezyang/htmlpurifier 4.19.1.
+2026-10-05T14:44:21Z,tyhpdef/ezyang-htmlpurifier-impl,4.19.1.0,,"Implementation package for tyhpdef/ezyang-htmlpurifier. Require tyhpdef/ezyang-htmlpurifier, not this package."
+2026-10-05T14:44:39Z,tyhpdef/fakerphp-faker,1.24.1,,Tyhp type definitions for fakerphp/faker 1.24.1.
+2026-10-05T14:44:51Z,tyhpdef/fakerphp-faker-impl,1.24.1.0,,"Implementation package for tyhpdef/fakerphp-faker. Require tyhpdef/fakerphp-faker, not this package."
+2026-10-05T14:45:08Z,tyhpdef/felixfbecker-language-server-protocol,1.5.3,,Tyhp type definitions for felixfbecker/language-server-protocol 1.5.3.
+2026-10-05T14:45:19Z,tyhpdef/felixfbecker-language-server-protocol-impl,1.5.3.0,,"Implementation package for tyhpdef/felixfbecker-language-server-protocol. Require tyhpdef/felixfbecker-language-server-protocol, not this package."
+2026-10-05T14:45:37Z,tyhpdef/fig-http-message-util,1.1.5,,Tyhp type definitions for fig/http-message-util 1.1.5.
+2026-10-05T14:45:47Z,tyhpdef/fig-http-message-util-impl,1.1.5.0,,"Implementation package for tyhpdef/fig-http-message-util. Require tyhpdef/fig-http-message-util, not this package."
+2026-10-05T14:46:04Z,tyhpdef/filament-actions,5.8.2,,Tyhp type definitions for filament/actions 5.8.2.
+2026-10-05T14:46:15Z,tyhpdef/filament-actions-impl,5.8.2.0,,"Implementation package for tyhpdef/filament-actions. Require tyhpdef/filament-actions, not this package."
+2026-10-05T14:46:33Z,tyhpdef/filament-filament,5.8.2,,Tyhp type definitions for filament/filament 5.8.2.
+2026-10-05T14:46:43Z,tyhpdef/filament-filament-impl,5.8.2.0,,"Implementation package for tyhpdef/filament-filament. Require tyhpdef/filament-filament, not this package."
+2026-10-05T14:47:00Z,tyhpdef/filament-forms,5.8.2,,Tyhp type definitions for filament/forms 5.8.2.
+2026-10-05T14:47:11Z,tyhpdef/filament-forms-impl,5.8.2.0,,"Implementation package for tyhpdef/filament-forms. Require tyhpdef/filament-forms, not this package."
+2026-10-05T14:47:28Z,tyhpdef/filament-infolists,5.8.2,,Tyhp type definitions for filament/infolists 5.8.2.
+2026-10-05T14:47:39Z,tyhpdef/filament-infolists-impl,5.8.2.0,,"Implementation package for tyhpdef/filament-infolists. Require tyhpdef/filament-infolists, not this package."
+2026-10-05T14:47:56Z,tyhpdef/filament-notifications,5.8.2,,Tyhp type definitions for filament/notifications 5.8.2.
+2026-10-05T14:48:08Z,tyhpdef/filament-notifications-impl,5.8.2.0,,"Implementation package for tyhpdef/filament-notifications. Require tyhpdef/filament-notifications, not this package."
+2026-10-05T14:48:25Z,tyhpdef/filament-schemas,5.8.2,,Tyhp type definitions for filament/schemas 5.8.2.
+2026-10-05T14:48:36Z,tyhpdef/filament-schemas-impl,5.8.2.0,,"Implementation package for tyhpdef/filament-schemas. Require tyhpdef/filament-schemas, not this package."
+2026-10-05T14:48:53Z,tyhpdef/filament-support,5.8.2,,Tyhp type definitions for filament/support 5.8.2.
+2026-10-05T14:49:04Z,tyhpdef/filament-support-impl,5.8.2.0,,"Implementation package for tyhpdef/filament-support. Require tyhpdef/filament-support, not this package."
+2026-10-05T14:49:21Z,tyhpdef/filament-tables,5.8.2,,Tyhp type definitions for filament/tables 5.8.2.
+2026-10-05T14:49:32Z,tyhpdef/filament-tables-impl,5.8.2.0,,"Implementation package for tyhpdef/filament-tables. Require tyhpdef/filament-tables, not this package."
+2026-10-05T14:49:49Z,tyhpdef/filament-widgets,5.8.2,,Tyhp type definitions for filament/widgets 5.8.2.
+2026-10-05T14:50:00Z,tyhpdef/filament-widgets-impl,5.8.2.0,,"Implementation package for tyhpdef/filament-widgets. Require tyhpdef/filament-widgets, not this package."
+2026-10-05T14:50:19Z,tyhpdef/filp-whoops,2.18.4,,Tyhp type definitions for filp/whoops 2.18.4.
+2026-10-05T14:50:30Z,tyhpdef/filp-whoops-impl,2.18.4.0,,"Implementation package for tyhpdef/filp-whoops. Require tyhpdef/filp-whoops, not this package."
+2026-10-05T14:50:47Z,tyhpdef/firebase-php-jwt,7.1.1,,Tyhp type definitions for firebase/php-jwt 7.1.1.
+2026-10-05T14:50:58Z,tyhpdef/firebase-php-jwt-impl,7.1.1.0,,"Implementation package for tyhpdef/firebase-php-jwt. Require tyhpdef/firebase-php-jwt, not this package."
+2026-10-05T14:51:16Z,tyhpdef/friendsofphp-php-cs-fixer,3.95.25,,Tyhp type definitions for friendsofphp/php-cs-fixer 3.95.25.
+2026-10-05T14:51:27Z,tyhpdef/friendsofphp-php-cs-fixer-impl,3.95.25.0,,"Implementation package for tyhpdef/friendsofphp-php-cs-fixer. Require tyhpdef/friendsofphp-php-cs-fixer, not this package."
+2026-10-05T14:51:45Z,tyhpdef/fruitcake-laravel-debugbar,4.4.3,,Tyhp type definitions for fruitcake/laravel-debugbar 4.4.3.
+2026-10-05T14:51:56Z,tyhpdef/fruitcake-laravel-debugbar-impl,4.4.3.0,,"Implementation package for tyhpdef/fruitcake-laravel-debugbar. Require tyhpdef/fruitcake-laravel-debugbar, not this package."
+2026-10-05T14:52:11Z,flarum/font-awesome,7.3.1,"Fonticons, Inc.","A slim redistribution of Font Awesome Free, containing only the CSS and web fonts Flarum needs. Auto-synced to upstream releases."
+2026-10-05T14:52:17Z,tyhpdef/fruitcake-php-cors,1.4.0,,Tyhp type definitions for fruitcake/php-cors 1.4.0.
+2026-10-05T14:52:28Z,tyhpdef/fruitcake-php-cors-impl,1.4.0.0,,"Implementation package for tyhpdef/fruitcake-php-cors. Require tyhpdef/fruitcake-php-cors, not this package."
+2026-10-05T14:52:46Z,tyhpdef/giggsey-libphonenumber-for-php,9.0.39,,Tyhp type definitions for giggsey/libphonenumber-for-php 9.0.39.
+2026-10-05T14:52:58Z,tyhpdef/giggsey-libphonenumber-for-php-impl,9.0.39.0,,"Implementation package for tyhpdef/giggsey-libphonenumber-for-php. Require tyhpdef/giggsey-libphonenumber-for-php, not this package."
+2026-10-05T14:53:17Z,tyhpdef/giggsey-locale,2.9.0,,Tyhp type definitions for giggsey/locale 2.9.0.
+2026-10-05T14:53:29Z,tyhpdef/giggsey-locale-impl,2.9.0.0,,"Implementation package for tyhpdef/giggsey-locale. Require tyhpdef/giggsey-locale, not this package."
+2026-10-05T14:53:46Z,tyhpdef/google-apiclient-services-abusiveexperiencereport,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T14:53:58Z,tyhpdef/google-apiclient-services-abusiveexperiencereport-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-abusiveexperiencereport. Require tyhpdef/google-apiclient-services-abusiveexperiencereport, not this package."
+2026-10-05T14:54:18Z,tyhpdef/google-apiclient-services-acceleratedmobilepageurl,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T14:54:30Z,tyhpdef/google-apiclient-services-acceleratedmobilepageurl-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-acceleratedmobilepageurl. Require tyhpdef/google-apiclient-services-acceleratedmobilepageurl, not this package."
+2026-10-05T14:54:49Z,tyhpdef/google-apiclient-services-accessapproval,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T14:55:00Z,tyhpdef/google-apiclient-services-accessapproval-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-accessapproval. Require tyhpdef/google-apiclient-services-accessapproval, not this package."
+2026-10-05T14:55:19Z,tyhpdef/google-apiclient-services-accesscontextmanager,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T14:55:30Z,tyhpdef/google-apiclient-services-accesscontextmanager-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-accesscontextmanager. Require tyhpdef/google-apiclient-services-accesscontextmanager, not this package."
+2026-10-05T14:55:47Z,tyhpdef/google-apiclient-services-acmedns,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T14:55:58Z,tyhpdef/google-apiclient-services-acmedns-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-acmedns. Require tyhpdef/google-apiclient-services-acmedns, not this package."
+2026-10-05T14:56:17Z,mage2kishan/module-product-attachments,1.1.5,,"Product Attachments module for Magento 2 - attach files, links, and documents to products, categories, and CMS pages with Luma and Hyva theme support."
+2026-10-05T14:56:20Z,tyhpdef/google-apiclient-services-addressvalidation,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T14:56:32Z,tyhpdef/google-apiclient-services-addressvalidation-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-addressvalidation. Require tyhpdef/google-apiclient-services-addressvalidation, not this package."
+2026-10-05T14:56:51Z,tyhpdef/google-apiclient-services-adexchangebuyer,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T14:56:52Z,opotopo/laravel-seller-api,v1.0.0,,Синхронизация каталога сайта на Laravel с площадкой ОПОТОПО через Seller API
+2026-10-05T14:57:02Z,tyhpdef/google-apiclient-services-adexchangebuyer-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-adexchangebuyer. Require tyhpdef/google-apiclient-services-adexchangebuyer, not this package."
+2026-10-05T14:57:20Z,tyhpdef/google-apiclient-services-adexchangebuyerii,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T14:57:31Z,tyhpdef/google-apiclient-services-adexchangebuyerii-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-adexchangebuyerii. Require tyhpdef/google-apiclient-services-adexchangebuyerii, not this package."
+2026-10-05T14:57:49Z,tyhpdef/google-apiclient-services-adexperiencereport,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T14:58:00Z,tyhpdef/google-apiclient-services-adexperiencereport-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-adexperiencereport. Require tyhpdef/google-apiclient-services-adexperiencereport, not this package."
+2026-10-05T14:58:18Z,tyhpdef/google-apiclient-services-admob,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T14:58:28Z,tyhpdef/google-apiclient-services-admob-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-admob. Require tyhpdef/google-apiclient-services-admob, not this package."
+2026-10-05T14:58:46Z,tyhpdef/google-apiclient-services-adsense,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T14:58:58Z,tyhpdef/google-apiclient-services-adsense-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-adsense. Require tyhpdef/google-apiclient-services-adsense, not this package."
+2026-10-05T14:59:16Z,tyhpdef/google-apiclient-services-adsensehost,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T14:59:28Z,tyhpdef/google-apiclient-services-adsensehost-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-adsensehost. Require tyhpdef/google-apiclient-services-adsensehost, not this package."
+2026-10-05T14:59:43Z,ianfoxdev/decline-codes,v0.1.0,Anatoly Pankratyev,"Payment decline codes normalized across card networks and PSPs, and a retry policy that follows the networks' reattempt rules, with a source for every rule."
+2026-10-05T14:59:45Z,tyhpdef/google-apiclient-services-adsenseplatform,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T14:59:57Z,tyhpdef/google-apiclient-services-adsenseplatform-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-adsenseplatform. Require tyhpdef/google-apiclient-services-adsenseplatform, not this package."
+2026-10-05T15:00:15Z,tyhpdef/google-apiclient-services-advisorynotifications,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:00:26Z,tyhpdef/google-apiclient-services-advisorynotifications-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-advisorynotifications. Require tyhpdef/google-apiclient-services-advisorynotifications, not this package."
+2026-10-05T15:00:44Z,tyhpdef/google-apiclient-services-agenciesandbrands,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:00:54Z,tyhpdef/google-apiclient-services-agenciesandbrands-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-agenciesandbrands. Require tyhpdef/google-apiclient-services-agenciesandbrands, not this package."
+2026-10-05T15:01:12Z,tyhpdef/google-apiclient-services-agentidentity,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:01:23Z,tyhpdef/google-apiclient-services-agentidentity-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-agentidentity. Require tyhpdef/google-apiclient-services-agentidentity, not this package."
+2026-10-05T15:01:40Z,tyhpdef/google-apiclient-services-agentidentitycredentials,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:01:51Z,tyhpdef/google-apiclient-services-agentidentitycredentials-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-agentidentitycredentials. Require tyhpdef/google-apiclient-services-agentidentitycredentials, not this package."
+2026-10-05T15:02:09Z,tyhpdef/google-apiclient-services-agentregistry,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:02:21Z,tyhpdef/google-apiclient-services-agentregistry-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-agentregistry. Require tyhpdef/google-apiclient-services-agentregistry, not this package."
+2026-10-05T15:02:39Z,tyhpdef/google-apiclient-services-aiplatform,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:02:50Z,tyhpdef/google-apiclient-services-aiplatform-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-aiplatform. Require tyhpdef/google-apiclient-services-aiplatform, not this package."
+2026-10-05T15:03:08Z,tyhpdef/google-apiclient-services-aiplatformnotebooks,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:03:19Z,tyhpdef/google-apiclient-services-aiplatformnotebooks-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-aiplatformnotebooks. Require tyhpdef/google-apiclient-services-aiplatformnotebooks, not this package."
+2026-10-05T15:03:37Z,tyhpdef/google-apiclient-services-airquality,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:03:47Z,tyhpdef/google-apiclient-services-airquality-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-airquality. Require tyhpdef/google-apiclient-services-airquality, not this package."
+2026-10-05T15:04:05Z,tyhpdef/google-apiclient-services-alertcenter,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:04:16Z,tyhpdef/google-apiclient-services-alertcenter-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-alertcenter. Require tyhpdef/google-apiclient-services-alertcenter, not this package."
+2026-10-05T15:04:33Z,tyhpdef/google-apiclient-services-analytics,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:04:44Z,tyhpdef/google-apiclient-services-analytics-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-analytics. Require tyhpdef/google-apiclient-services-analytics, not this package."
+2026-10-05T15:05:01Z,tyhpdef/google-apiclient-services-analyticsdata,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:05:12Z,tyhpdef/google-apiclient-services-analyticsdata-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-analyticsdata. Require tyhpdef/google-apiclient-services-analyticsdata, not this package."
+2026-10-05T15:05:30Z,tyhpdef/google-apiclient-services-analyticshub,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:05:41Z,tyhpdef/google-apiclient-services-analyticshub-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-analyticshub. Require tyhpdef/google-apiclient-services-analyticshub, not this package."
+2026-10-05T15:05:58Z,tyhpdef/google-apiclient-services-analyticsreporting,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:06:09Z,tyhpdef/google-apiclient-services-analyticsreporting-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-analyticsreporting. Require tyhpdef/google-apiclient-services-analyticsreporting, not this package."
+2026-10-05T15:06:27Z,tyhpdef/google-apiclient-services-androiddeveloperidstatus,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:06:38Z,tyhpdef/google-apiclient-services-androiddeveloperidstatus-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-androiddeveloperidstatus. Require tyhpdef/google-apiclient-services-androiddeveloperidstatus, not this package."
+2026-10-05T15:06:55Z,tyhpdef/google-apiclient-services-androidenterprise,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:07:06Z,tyhpdef/google-apiclient-services-androidenterprise-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-androidenterprise. Require tyhpdef/google-apiclient-services-androidenterprise, not this package."
+2026-10-05T15:07:24Z,tyhpdef/google-apiclient-services-androidmanagement,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:07:35Z,tyhpdef/google-apiclient-services-androidmanagement-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-androidmanagement. Require tyhpdef/google-apiclient-services-androidmanagement, not this package."
+2026-10-05T15:07:52Z,tyhpdef/google-apiclient-services-androidprovisioningpartner,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:08:03Z,tyhpdef/google-apiclient-services-androidprovisioningpartner-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-androidprovisioningpartner. Require tyhpdef/google-apiclient-services-androidprovisioningpartner, not this package."
+2026-10-05T15:08:22Z,tyhpdef/google-apiclient-services-androidpublisher,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:08:34Z,tyhpdef/google-apiclient-services-androidpublisher-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-androidpublisher. Require tyhpdef/google-apiclient-services-androidpublisher, not this package."
+2026-10-05T15:08:52Z,tyhpdef/google-apiclient-services-apigateway,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:09:04Z,tyhpdef/google-apiclient-services-apigateway-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-apigateway. Require tyhpdef/google-apiclient-services-apigateway, not this package."
+2026-10-05T15:09:23Z,tyhpdef/google-apiclient-services-apigee,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:09:34Z,tyhpdef/google-apiclient-services-apigee-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-apigee. Require tyhpdef/google-apiclient-services-apigee, not this package."
+2026-10-05T15:09:53Z,tyhpdef/google-apiclient-services-apigeeregistry,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:10:05Z,tyhpdef/google-apiclient-services-apigeeregistry-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-apigeeregistry. Require tyhpdef/google-apiclient-services-apigeeregistry, not this package."
+2026-10-05T15:10:24Z,tyhpdef/google-apiclient-services-apihub,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:10:36Z,tyhpdef/google-apiclient-services-apihub-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-apihub. Require tyhpdef/google-apiclient-services-apihub, not this package."
+2026-10-05T15:10:55Z,tyhpdef/google-apiclient-services-apikeysservice,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:11:06Z,tyhpdef/google-apiclient-services-apikeysservice-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-apikeysservice. Require tyhpdef/google-apiclient-services-apikeysservice, not this package."
+2026-10-05T15:11:25Z,tyhpdef/google-apiclient-services-apimanagement,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:11:36Z,tyhpdef/google-apiclient-services-apimanagement-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-apimanagement. Require tyhpdef/google-apiclient-services-apimanagement, not this package."
+2026-10-05T15:11:55Z,tyhpdef/google-apiclient-services-appengine,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:12:06Z,tyhpdef/google-apiclient-services-appengine-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-appengine. Require tyhpdef/google-apiclient-services-appengine, not this package."
+2026-10-05T15:12:24Z,tyhpdef/google-apiclient-services-apphub,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:12:35Z,tyhpdef/google-apiclient-services-apphub-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-apphub. Require tyhpdef/google-apiclient-services-apphub, not this package."
+2026-10-05T15:12:53Z,tyhpdef/google-apiclient-services-area120tables,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:13:04Z,tyhpdef/google-apiclient-services-area120tables-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-area120tables. Require tyhpdef/google-apiclient-services-area120tables, not this package."
+2026-10-05T15:13:22Z,tyhpdef/google-apiclient-services-areainsights,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:13:33Z,tyhpdef/google-apiclient-services-areainsights-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-areainsights. Require tyhpdef/google-apiclient-services-areainsights, not this package."
+2026-10-05T15:13:52Z,tyhpdef/google-apiclient-services-artifactregistry,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:14:02Z,tyhpdef/google-apiclient-services-artifactregistry-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-artifactregistry. Require tyhpdef/google-apiclient-services-artifactregistry, not this package."
+2026-10-05T15:14:19Z,tyhpdef/google-apiclient-services-assuredworkloads,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:14:31Z,tyhpdef/google-apiclient-services-assuredworkloads-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-assuredworkloads. Require tyhpdef/google-apiclient-services-assuredworkloads, not this package."
+2026-10-05T15:14:51Z,tyhpdef/google-apiclient-services-authorizedbuyersmarketplace,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:15:02Z,tyhpdef/google-apiclient-services-authorizedbuyersmarketplace-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-authorizedbuyersmarketplace. Require tyhpdef/google-apiclient-services-authorizedbuyersmarketplace, not this package."
+2026-10-05T15:15:21Z,tyhpdef/google-apiclient-services-backupdr,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:15:32Z,tyhpdef/google-apiclient-services-backupdr-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-backupdr. Require tyhpdef/google-apiclient-services-backupdr, not this package."
+2026-10-05T15:15:51Z,tyhpdef/google-apiclient-services-backupforgke,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:16:02Z,tyhpdef/google-apiclient-services-backupforgke-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-backupforgke. Require tyhpdef/google-apiclient-services-backupforgke, not this package."
+2026-10-05T15:16:20Z,tyhpdef/google-apiclient-services-baremetalsolution,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:16:32Z,tyhpdef/google-apiclient-services-baremetalsolution-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-baremetalsolution. Require tyhpdef/google-apiclient-services-baremetalsolution, not this package."
+2026-10-05T15:16:49Z,tyhpdef/google-apiclient-services-batch,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:17:00Z,tyhpdef/google-apiclient-services-batch-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-batch. Require tyhpdef/google-apiclient-services-batch, not this package."
+2026-10-05T15:17:17Z,tyhpdef/google-apiclient-services-beyondcorp,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:17:28Z,tyhpdef/google-apiclient-services-beyondcorp-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-beyondcorp. Require tyhpdef/google-apiclient-services-beyondcorp, not this package."
+2026-10-05T15:17:48Z,tyhpdef/google-apiclient-services-biglakeservice,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:18:00Z,tyhpdef/google-apiclient-services-biglakeservice-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-biglakeservice. Require tyhpdef/google-apiclient-services-biglakeservice, not this package."
+2026-10-05T15:18:18Z,tyhpdef/google-apiclient-services-bigquery,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:18:29Z,tyhpdef/google-apiclient-services-bigquery-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-bigquery. Require tyhpdef/google-apiclient-services-bigquery, not this package."
+2026-10-05T15:18:47Z,tyhpdef/google-apiclient-services-bigqueryconnectionservice,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:18:58Z,tyhpdef/google-apiclient-services-bigqueryconnectionservice-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-bigqueryconnectionservice. Require tyhpdef/google-apiclient-services-bigqueryconnectionservice, not this package."
+2026-10-05T15:19:15Z,tyhpdef/google-apiclient-services-bigquerydatapolicyservice,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:19:25Z,tyhpdef/google-apiclient-services-bigquerydatapolicyservice-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-bigquerydatapolicyservice. Require tyhpdef/google-apiclient-services-bigquerydatapolicyservice, not this package."
+2026-10-05T15:19:43Z,tyhpdef/google-apiclient-services-bigquerydatatransfer,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:19:54Z,tyhpdef/google-apiclient-services-bigquerydatatransfer-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-bigquerydatatransfer. Require tyhpdef/google-apiclient-services-bigquerydatatransfer, not this package."
+2026-10-05T15:20:11Z,tyhpdef/google-apiclient-services-bigqueryreservation,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:20:23Z,tyhpdef/google-apiclient-services-bigqueryreservation-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-bigqueryreservation. Require tyhpdef/google-apiclient-services-bigqueryreservation, not this package."
+2026-10-05T15:20:40Z,tyhpdef/google-apiclient-services-bigtableadmin,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:20:50Z,tyhpdef/google-apiclient-services-bigtableadmin-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-bigtableadmin. Require tyhpdef/google-apiclient-services-bigtableadmin, not this package."
+2026-10-05T15:21:08Z,tyhpdef/google-apiclient-services-binaryauthorization,0.459.0,,Tyhp type definitions for google/apiclient-services 0.459.0.
+2026-10-05T15:21:18Z,tyhpdef/google-apiclient-services-binaryauthorization-impl,0.459.0.0,,"Implementation package for tyhpdef/google-apiclient-services-binaryauthorization. Require tyhpdef/google-apiclient-services-binaryauthorization, not this package."
