@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-05T00:26:24Z,mage2kishan/module-smart-badge,1.1.8,,Smart Product Badge & Label System - Automatically displays beautiful badges on products to increase urgency and conversions
+2026-10-05T00:29:46Z,boysfromthefactory/groundhog,v0.1.0,Balazs Sebesteny,Declarative recurring Eloquent models backed by RFC 5545 rules.
+2026-10-05T01:10:34Z,atlas-auth/atlas-php,v0.1.0,,Official PHP backend SDK for Atlas — the secret-key Backend API client plus session-token/JWT verification.

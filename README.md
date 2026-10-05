@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 00:19 UTC
+## Latest list — 2026-10-05 01:19 UTC
 
-New packages created between 2026-10-04 23:19 UTC and 2026-10-05 00:19 UTC.
+New packages created between 2026-10-05 00:19 UTC and 2026-10-05 01:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-05T00-19-38-614447Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-05T01-19-11-817668Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-04 23:21:23 | [edulazaro/larablog](https://www.nuget.org/packages/edulazaro%2Flarablog) | 1.0.0 | Edu Lazaro | Markdown blogs for Laravel in several languages, each with its own URL: one fol… |
-| 2026-10-04 23:33:49 | [mage2kishan/module-llms-txt](https://www.nuget.org/packages/mage2kishan%2Fmodule-llms-txt) | 1.5.5 | Kishan Savaliya | Panth LLMs.txt — AI Indexing Engine for Magento 2. Serves structured /llms.txt,… |
-| 2026-10-04 23:35:30 | [sattorware/elephant](https://www.nuget.org/packages/sattorware%2Felephant) | v1.0.0 | sattorware | Async PHP on fibers: write concurrent code that reads like plain PHP — tasks, t… |
-| 2026-10-05 00:12:51 | [foxws/laravel-media](https://www.nuget.org/packages/foxws%2Flaravel-media) | 0.1.0 | foxws | Probe, encode, package and stream media in Laravel with ffmpeg. |
+| 2026-10-05 00:26:24 | [mage2kishan/module-smart-badge](https://www.nuget.org/packages/mage2kishan%2Fmodule-smart-badge) | 1.1.8 |  | Smart Product Badge & Label System - Automatically displays beautiful badges on… |
+| 2026-10-05 00:29:46 | [boysfromthefactory/groundhog](https://www.nuget.org/packages/boysfromthefactory%2Fgroundhog) | v0.1.0 | Balazs Sebesteny | Declarative recurring Eloquent models backed by RFC 5545 rules. |
+| 2026-10-05 01:10:34 | [atlas-auth/atlas-php](https://www.nuget.org/packages/atlas-auth%2Fatlas-php) | v0.1.0 |  | Official PHP backend SDK for Atlas — the secret-key Backend API client plus ses… |
 
 ## Data source
 
