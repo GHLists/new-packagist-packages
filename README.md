@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 22:22 UTC
+## Latest list — 2026-10-05 23:20 UTC
 
-New packages created between 2026-10-05 21:20 UTC and 2026-10-05 22:22 UTC.
+New packages created between 2026-10-05 22:22 UTC and 2026-10-05 23:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-05T22-22-00-826932Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-05T23-20-18-223292Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-05 22:07:33 | [artisanpack-ui/ecommerce](https://www.nuget.org/packages/artisanpack-ui%2Fecommerce) | v1.0.0 | Jacob Martella | Ecommerce package for the ArtisanPack UI ecosystem. |
+| 2026-10-05 22:33:34 | [bkubicki/rabbitmq-playground](https://www.nuget.org/packages/bkubicki%2Frabbitmq-playground) | 1.0 |  | Module testing rabbitmq implemention |
+| 2026-10-05 22:38:49 | [skylive/lienzo](https://www.nuget.org/packages/skylive%2Flienzo) | v0.1.1 | Skylive LLC | Landing page builder for Laravel: a visual editor, a validated document format… |
 
 ## Data source
 
