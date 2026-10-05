@@ -1,0 +1,14 @@
+created_at,package,version,author,description
+2026-10-05T09:19:41Z,oktocode/sham-cash-laravel,v1.0.0,,Laravel bridge for the ShamCash PHP SDK.
+2026-10-05T09:32:00Z,flairuk/good-till-system,v1.0.0,Phil Graham,"A Laravel client for the Goodtill EPOS API, with automatic token management."
+2026-10-05T09:32:02Z,ijeffro/laravel-aircrafts,v1.0.0,Phil Graham,"IATA aircraft type codes for Laravel: an in-memory lookup API, validation rule and optional database table."
+2026-10-05T09:32:03Z,ijeffro/laravel-airlines,v1.0.0,Phil Graham,"IATA airline codes for Laravel: an in-memory lookup API, validation rule and optional database table."
+2026-10-05T09:32:05Z,ijeffro/laravel-airports,v1.0.0,Phil Graham,"IATA airport codes for Laravel: an in-memory lookup API, validation rule and optional database table."
+2026-10-05T09:32:07Z,ijeffro/laravel-cities,v1.0.0,Phil Graham,"IATA city codes for Laravel: an in-memory lookup API, validation rule and optional database table."
+2026-10-05T09:32:09Z,flairuk/laravel-countries,v1.0.0,Phil Graham,"ISO 3166 countries for Laravel: codes, currencies, calling codes, regions, EEA membership and flags, with a lookup API, validation rule and optional database table."
+2026-10-05T09:35:09Z,kommandhub/click-and-pick-sw,0.10.0,Kommandhub Limited,"Click and collect for Shopware 6: pickup-location selection in checkout, a self-pickup shipping method and a pay-on-pickup payment method, with pickup-ready order state and mail automation."
+2026-10-05T09:43:17Z,flairuk/laravel-world,v1.0.0,Phil Graham,"Countries, cities, airports, airlines and aircraft for Laravel, joined up: one facade over the FLAIRUK data packages."
+2026-10-05T09:53:42Z,mage2kishan/module-filter-seo,1.1.6,Kishan Savaliya,Panth Filter SEO — clean path-based URLs for layered navigation filters + dynamic meta title/description on filtered category pages.
+2026-10-05T09:56:20Z,gingerminds/symfony-media-manager,0.1.0,Gingerminds,"Media library, file library and image processing for Gingerminds Symfony projects"
+2026-10-05T09:58:59Z,maiobarbero/laravel-aftercare,v0.1.0,Matteo Barbero,"An opinionated starting configuration for Laravel, with Pint, PHPStan, Rector, and customizable application defaults."
+2026-10-05T10:02:03Z,kreatiflabs/laravel-bank-guard,v1.0,Kreatiflabs,"Indonesian Bank Master Data, Account Number Sanitizer & Precision Validation Guard for Laravel"
