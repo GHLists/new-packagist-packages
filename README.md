@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 04:22 UTC
+## Latest list — 2026-10-05 05:21 UTC
 
-New packages created between 2026-10-05 03:21 UTC and 2026-10-05 04:22 UTC.
+New packages created between 2026-10-05 04:22 UTC and 2026-10-05 05:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-05T04-22-00-385229Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-05T05-21-46-775876Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-05 03:34:03 | [mage2kishan/module-error-monitor](https://www.nuget.org/packages/mage2kishan%2Fmodule-error-monitor) | 1.6.4 | Kishan Savaliya | Panth Error Monitor - smart, secure error management for Magento 2. Captures PH… |
-| 2026-10-05 04:10:22 | [zhandos717/moonshine-monitoring](https://www.nuget.org/packages/zhandos717%2Fmoonshine-monitoring) | v1.3.0 | Zhandos | Server monitoring for MoonShine with real-time resource usage tracking |
+| 2026-10-05 05:06:15 | [wentthefox/services_libravatar](https://www.nuget.org/packages/wentthefox%2Fservices_libravatar) | v1.0.3 | Melissa Draper; Christian Wei… | API interfacing class for libravatar.org |
+| 2026-10-05 05:16:40 | [mage2kishan/module-advanced-product-grid](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-product-grid) | 1.0.11 | Kishan Savaliya | Advanced Product Grid for Magento 2 admin - inline edit every column (text, sel… |
 
 ## Data source
 
