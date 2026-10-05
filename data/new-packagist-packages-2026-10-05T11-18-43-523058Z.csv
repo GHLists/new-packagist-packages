@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-10-05T10:23:06Z,mage-os/module-faq,v1.0.0,Mark Rees,"FAQ entries with an admin manager, a widget and a Page Builder content type, and matching FAQPage structured data"
+2026-10-05T10:25:41Z,sartajgit/laravel-query-xray,v1.0.0-beta,,"Real-time N+1, slow query, duplicate query and unoptimized query detection dashboard for Laravel."
+2026-10-05T10:29:31Z,vtinnovations/contao-security-suite,v1.0.0,V&T Innovations Team,"Contao-Erweiterung zur zentralen Analyse, Überwachung und Behebung sicherheitsrelevanter Konfigurationen, Anmeldeaktivitäten, HTTP-Header, CSP, Dateien, Benutzerrechte und Erweiterungen."
+2026-10-05T10:33:20Z,sorge-it/phpunit-pest-html-assertions,v1.0.0,Stefan Sorge,"HTML assertions for PHPUnit and Pest: check rendered HTML with CSS selectors, never as a string. With a PHPStan rule and a Rector rule."
+2026-10-05T10:35:00Z,mage2kishan/module-xml-sitemap,1.2.7,Kishan Savaliya,"Panth XML Sitemap — sharded XML sitemap generator for Magento 2: per-store profile CRUD, product/category/CMS/landing-page/blog/video/image/additional-link contributors, hreflang tags, image + video tags, auto-split at 50,000 URLs or 50 MB, optional gzip compression, changefreq and priority, XSL st…"
+2026-10-05T10:40:40Z,arvelov/product-description-ai,v1.0.0,,Framework-agnostic PHP package for AI product descriptions via DeepSeek Vision API
+2026-10-05T10:45:50Z,flairuk/laravel-square,v1.0.0,Phil Graham,"Square payments for Laravel: the official Square PHP SDK, configured, plus webhooks, idempotency keys, money helpers, OAuth and a Web Payments card form."
+2026-10-05T10:48:00Z,flairuk/laravel-booking-com,v0.1.0,Phil Graham,"A Laravel client for the Booking.com Demand API: search, availability, property content, orders and car rentals."
+2026-10-05T10:54:31Z,flairuk/laravel-sumup,v1.0.0,Phil Graham,"SumUp payments for Laravel: online checkouts, the Payment Widget, refunds, customers, Cloud API card readers, OAuth and verified webhooks, built on SumUp's official PHP SDK."
+2026-10-05T11:07:27Z,ianfoxdev/payout-split,v0.1.0,Anatoly Pankratyev,"Splits a pool of money between partners by weights: the shares always add up to the pool, and recalculating a closed period gives the same result."
+2026-10-05T11:07:58Z,raoh/notation-199x,v0.2.0,,"The rules for reading text that Raoh and Souther share: Unicode 18.0.0 case conversion and normalization, White_Space, scalar values, temporal text and the pattern language, answered alike whatever Unicode version PHP was built with"

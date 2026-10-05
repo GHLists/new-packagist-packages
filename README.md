@@ -15,27 +15,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 10:21 UTC
+## Latest list — 2026-10-05 11:18 UTC
 
-New packages created between 2026-10-05 09:19 UTC and 2026-10-05 10:21 UTC.
+New packages created between 2026-10-05 10:21 UTC and 2026-10-05 11:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-05T10-21-45-63793Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-05T11-18-43-523058Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-05 09:19:41 | [oktocode/sham-cash-laravel](https://www.nuget.org/packages/oktocode%2Fsham-cash-laravel) | v1.0.0 |  | Laravel bridge for the ShamCash PHP SDK. |
-| 2026-10-05 09:32:00 | [flairuk/good-till-system](https://www.nuget.org/packages/flairuk%2Fgood-till-system) | v1.0.0 | Phil Graham | A Laravel client for the Goodtill EPOS API, with automatic token management. |
-| 2026-10-05 09:32:02 | [ijeffro/laravel-aircrafts](https://www.nuget.org/packages/ijeffro%2Flaravel-aircrafts) | v1.0.0 | Phil Graham | IATA aircraft type codes for Laravel: an in-memory lookup API, validation rule… |
-| 2026-10-05 09:32:03 | [ijeffro/laravel-airlines](https://www.nuget.org/packages/ijeffro%2Flaravel-airlines) | v1.0.0 | Phil Graham | IATA airline codes for Laravel: an in-memory lookup API, validation rule and op… |
-| 2026-10-05 09:32:05 | [ijeffro/laravel-airports](https://www.nuget.org/packages/ijeffro%2Flaravel-airports) | v1.0.0 | Phil Graham | IATA airport codes for Laravel: an in-memory lookup API, validation rule and op… |
-| 2026-10-05 09:32:07 | [ijeffro/laravel-cities](https://www.nuget.org/packages/ijeffro%2Flaravel-cities) | v1.0.0 | Phil Graham | IATA city codes for Laravel: an in-memory lookup API, validation rule and optio… |
-| 2026-10-05 09:32:09 | [flairuk/laravel-countries](https://www.nuget.org/packages/flairuk%2Flaravel-countries) | v1.0.0 | Phil Graham | ISO 3166 countries for Laravel: codes, currencies, calling codes, regions, EEA… |
-| 2026-10-05 09:35:09 | [kommandhub/click-and-pick-sw](https://www.nuget.org/packages/kommandhub%2Fclick-and-pick-sw) | 0.10.0 | Kommandhub Limited | Click and collect for Shopware 6: pickup-location selection in checkout, a self… |
-| 2026-10-05 09:43:17 | [flairuk/laravel-world](https://www.nuget.org/packages/flairuk%2Flaravel-world) | v1.0.0 | Phil Graham | Countries, cities, airports, airlines and aircraft for Laravel, joined up: one… |
-| 2026-10-05 09:53:42 | [mage2kishan/module-filter-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-filter-seo) | 1.1.6 | Kishan Savaliya | Panth Filter SEO — clean path-based URLs for layered navigation filters + dynam… |
-| 2026-10-05 09:56:20 | [gingerminds/symfony-media-manager](https://www.nuget.org/packages/gingerminds%2Fsymfony-media-manager) | 0.1.0 | Gingerminds | Media library, file library and image processing for Gingerminds Symfony projec… |
-| 2026-10-05 09:58:59 | [maiobarbero/laravel-aftercare](https://www.nuget.org/packages/maiobarbero%2Flaravel-aftercare) | v0.1.0 | Matteo Barbero | An opinionated starting configuration for Laravel, with Pint, PHPStan, Rector,… |
-| 2026-10-05 10:02:03 | [kreatiflabs/laravel-bank-guard](https://www.nuget.org/packages/kreatiflabs%2Flaravel-bank-guard) | v1.0 | Kreatiflabs | Indonesian Bank Master Data, Account Number Sanitizer & Precision Validation Gu… |
+| 2026-10-05 10:23:06 | [mage-os/module-faq](https://www.nuget.org/packages/mage-os%2Fmodule-faq) | v1.0.0 | Mark Rees | FAQ entries with an admin manager, a widget and a Page Builder content type, an… |
+| 2026-10-05 10:25:41 | [sartajgit/laravel-query-xray](https://www.nuget.org/packages/sartajgit%2Flaravel-query-xray) | v1.0.0-beta |  | Real-time N+1, slow query, duplicate query and unoptimized query detection dash… |
+| 2026-10-05 10:29:31 | [vtinnovations/contao-security-suite](https://www.nuget.org/packages/vtinnovations%2Fcontao-security-suite) | v1.0.0 | V&T Innovations Team | Contao-Erweiterung zur zentralen Analyse, Überwachung und Behebung sicherheitsr… |
+| 2026-10-05 10:33:20 | [sorge-it/phpunit-pest-html-assertions](https://www.nuget.org/packages/sorge-it%2Fphpunit-pest-html-assertions) | v1.0.0 | Stefan Sorge | HTML assertions for PHPUnit and Pest: check rendered HTML with CSS selectors, n… |
+| 2026-10-05 10:35:00 | [mage2kishan/module-xml-sitemap](https://www.nuget.org/packages/mage2kishan%2Fmodule-xml-sitemap) | 1.2.7 | Kishan Savaliya | Panth XML Sitemap — sharded XML sitemap generator for Magento 2: per-store prof… |
+| 2026-10-05 10:40:40 | [arvelov/product-description-ai](https://www.nuget.org/packages/arvelov%2Fproduct-description-ai) | v1.0.0 |  | Framework-agnostic PHP package for AI product descriptions via DeepSeek Vision… |
+| 2026-10-05 10:45:50 | [flairuk/laravel-square](https://www.nuget.org/packages/flairuk%2Flaravel-square) | v1.0.0 | Phil Graham | Square payments for Laravel: the official Square PHP SDK, configured, plus webh… |
+| 2026-10-05 10:48:00 | [flairuk/laravel-booking-com](https://www.nuget.org/packages/flairuk%2Flaravel-booking-com) | v0.1.0 | Phil Graham | A Laravel client for the Booking.com Demand API: search, availability, property… |
+| 2026-10-05 10:54:31 | [flairuk/laravel-sumup](https://www.nuget.org/packages/flairuk%2Flaravel-sumup) | v1.0.0 | Phil Graham | SumUp payments for Laravel: online checkouts, the Payment Widget, refunds, cust… |
+| 2026-10-05 11:07:27 | [ianfoxdev/payout-split](https://www.nuget.org/packages/ianfoxdev%2Fpayout-split) | v0.1.0 | Anatoly Pankratyev | Splits a pool of money between partners by weights: the shares always add up to… |
+| 2026-10-05 11:07:58 | [raoh/notation-199x](https://www.nuget.org/packages/raoh%2Fnotation-199x) | v0.2.0 |  | The rules for reading text that Raoh and Souther share: Unicode 18.0.0 case con… |
 
 ## Data source
 
