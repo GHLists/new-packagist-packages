@@ -1,0 +1,63 @@
+created_at,package,version,author,description
+2026-10-05T13:27:12Z,errata/errata,0.1.0,Woody Gilk,Exceptional error handler for JSON APIs
+2026-10-05T13:28:15Z,softcreatr/saloon-json-payload-contract,1.0.0,Sascha Greuel,Validate and normalize Saloon responses with JSON Payload Contract
+2026-10-05T13:40:20Z,ianfoxdev/ledger,v0.1.0,Anatoly Pankratyev,"Double-entry ledger for PHP that runs inside your database transaction: balances derived from postings, idempotent transactions, holds and expiring credits."
+2026-10-05T13:42:24Z,sahicheck/sahicheck-laravel,v0.1.0,SahiCheck,Official Laravel integration for the SahiCheck verification API
+2026-10-05T13:52:57Z,mage2kishan/module-pagebuilder-ai,1.2.28,Kishan Savaliya,"Adds an AI Content button to the Magento PageBuilder toolbar and inline AI buttons to every text/textarea field in PageBuilder edit panels. Uses the Panth_AdvancedSEO AI backend (soft dependency) to generate full-page HTML layouts, section content, and field-level copy from configurable prompts — w…"
+2026-10-05T13:53:53Z,aviato/laravel,v0.1.0,,"Extend an Aviato agent with custom actions, computed fields, hooks, segments, search and charts from your Laravel application."
+2026-10-05T13:53:53Z,getaviato/laravel,v0.1.1,,"Extend an Aviato agent with custom actions, computed fields, hooks, segments, search and charts from your Laravel application."
+2026-10-05T13:57:34Z,vankosoft/swoole-websocket-bundle,v1.0.0,Ivan I. Atanasov,Swoole Websocket for Symfony
+2026-10-05T14:08:53Z,tyhp/compiler,805.1.0,,PHP shim for the Tyhp native compiler CLI (vendor/bin/tyhp)
+2026-10-05T14:09:45Z,tyhpdef/php-ext-apcu,0.1,,Tyhp type definitions for the PECL apcu extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:09:58Z,tyhpdef/php-ext-bcmath,0.1,,Tyhp type definitions for the PHP bcmath extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:10:12Z,tyhpdef/php-ext-bz2,0.1,,Tyhp type definitions for the PHP bz2 extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:10:27Z,tyhpdef/php-ext-calendar,0.1,,Tyhp type definitions for the PHP calendar extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:10:41Z,tyhpdef/php-ext-csv,0.1,,Tyhp type definitions for the PHP csv extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5). The csv extension itself is PHP 8.5+.
+2026-10-05T14:10:55Z,tyhpdef/php-ext-ctype,0.1,,Tyhp type definitions for the PHP ctype extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:11:10Z,tyhpdef/php-ext-curl,0.1,,Tyhp type definitions for the PHP curl extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:11:24Z,tyhpdef/php-ext-dba,0.1,,Tyhp type definitions for the PHP dba extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:11:38Z,tyhpdef/php-ext-decimal,0.1,,"Tyhp type definitions for the PECL decimal extension (php-decimal / mpdecimal, 8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5)."
+2026-10-05T14:11:53Z,tyhpdef/php-ext-dom,0.1,,Tyhp type definitions for the PHP dom extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:12:07Z,tyhpdef/php-ext-exif,0.1,,Tyhp type definitions for the PHP exif extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:12:21Z,tyhpdef/php-ext-ffi,0.1,,Tyhp type definitions for the PHP FFI extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:12:35Z,tyhpdef/php-ext-fileinfo,0.1,,Tyhp type definitions for the PHP fileinfo extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:12:49Z,tyhpdef/php-ext-ftp,0.1,,Tyhp type definitions for the PHP ftp extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:13:02Z,tyhpdef/php-ext-gd,0.1,,Tyhp type definitions for the PHP gd extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:13:18Z,tyhpdef/php-ext-gettext,0.1,,Tyhp type definitions for the PHP gettext extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:13:32Z,tyhpdef/php-ext-gmp,0.1,,Tyhp type definitions for the PHP gmp extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:13:46Z,tyhpdef/php-ext-iconv,0.1,,Tyhp type definitions for the PHP iconv extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:14:00Z,tyhpdef/php-ext-imagick,0.1,,Tyhp type definitions for the PECL imagick extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:14:15Z,tyhpdef/php-ext-intl,0.1,,Tyhp type definitions for the PHP intl extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:14:29Z,tyhpdef/php-ext-ldap,0.1,,Tyhp type definitions for the PHP ldap extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:14:44Z,tyhpdef/php-ext-lexbor,0.1,,Tyhp type definitions for the PHP lexbor extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5). The lexbor extension itself is PHP 8.5+.
+2026-10-05T14:14:59Z,tyhpdef/php-ext-mbstring,0.1,,Tyhp type definitions for the PHP mbstring extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:15:16Z,tyhpdef/php-ext-memcached,0.1,,Tyhp type definitions for the PECL memcached extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:15:31Z,tyhpdef/php-ext-mongodb,0.1,,Tyhp type definitions for the PECL mongodb extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:15:45Z,tyhpdef/php-ext-mysqli,0.1,,Tyhp type definitions for the PHP mysqli extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:15:59Z,tyhpdef/php-ext-mysqlnd,0.1,,Tyhp type definitions for the PHP mysqlnd extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:16:13Z,tyhpdef/php-ext-odbc,0.1,,Tyhp type definitions for the PHP odbc extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:16:27Z,tyhpdef/php-ext-opcache,0.1,,Tyhp type definitions for the PHP Zend OPcache extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:16:42Z,tyhpdef/php-ext-openssl,0.1,,Tyhp type definitions for the PHP openssl extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:16:57Z,tyhpdef/php-ext-pcntl,0.1,,Tyhp type definitions for the PHP pcntl extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:17:11Z,tyhpdef/php-ext-pdo_dblib,0.1,,Tyhp type definitions for the PHP pdo_dblib extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:17:25Z,tyhpdef/php-ext-pdo_mysql,0.1,,Tyhp type definitions for the PHP pdo_mysql extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:17:38Z,tyhpdef/php-ext-pdo_odbc,0.1,,Tyhp type definitions for the PHP pdo_odbc extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:17:52Z,tyhpdef/php-ext-pdo_pgsql,0.1,,Tyhp type definitions for the PHP pdo_pgsql extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:18:06Z,tyhpdef/php-ext-pdo_sqlite,0.1,,Tyhp type definitions for the PHP pdo_sqlite extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:18:21Z,tyhpdef/php-ext-pdo,0.1,,Tyhp type definitions for the PHP PDO extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:18:35Z,tyhpdef/php-ext-pgsql,0.1,,Tyhp type definitions for the PHP pgsql extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:18:50Z,tyhpdef/php-ext-phar,0.1,,Tyhp type definitions for the PHP Phar extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:19:04Z,tyhpdef/php-ext-posix,0.1,,Tyhp type definitions for the PHP posix extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:19:18Z,tyhpdef/php-ext-readline,0.1,,Tyhp type definitions for the PHP readline extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:19:32Z,tyhpdef/php-ext-redis,0.1,,Tyhp type definitions for the PECL redis extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:19:47Z,tyhpdef/php-ext-session,0.1,,Tyhp type definitions for the PHP session extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:20:01Z,tyhpdef/php-ext-shmop,0.1,,Tyhp type definitions for the PHP shmop extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:20:15Z,tyhpdef/php-ext-simplexml,0.1,,Tyhp type definitions for the PHP simplexml extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:20:30Z,tyhpdef/php-ext-snmp,0.1,,Tyhp type definitions for the PHP snmp extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:20:45Z,tyhpdef/php-ext-soap,0.1,,Tyhp type definitions for the PHP soap extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:20:58Z,tyhpdef/php-ext-sockets,0.1,,Tyhp type definitions for the PHP sockets extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:21:12Z,tyhpdef/php-ext-sodium,0.1,,Tyhp type definitions for the PHP sodium extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:21:27Z,tyhpdef/php-ext-sqlite3,0.1,,Tyhp type definitions for the PHP sqlite3 extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:21:41Z,tyhpdef/php-ext-sysvmsg,0.1,,Tyhp type definitions for the PHP sysvmsg extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:21:55Z,tyhpdef/php-ext-sysvsem,0.1,,Tyhp type definitions for the PHP sysvsem extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
+2026-10-05T14:22:09Z,tyhpdef/php-ext-sysvshm,0.1,,Tyhp type definitions for the PHP sysvshm extension (8.2+). Version-specific APIs are gated via declare(php=…) / #[\Tyhp\Php] (Story 20.5).
