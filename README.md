@@ -15,19 +15,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 12:19 UTC
+## Latest list — 2026-10-05 13:22 UTC
 
-New packages created between 2026-10-05 11:18 UTC and 2026-10-05 12:19 UTC.
+New packages created between 2026-10-05 12:19 UTC and 2026-10-05 13:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-05T12-19-11-131487Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-05T13-22-13-218439Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-05 11:34:22 | [mage2kishan/module-extra-fee](https://www.nuget.org/packages/mage2kishan%2Fmodule-extra-fee) | 1.1.7 | Kishan Savaliya | Panth Extra Fee — add configurable extra fees and surcharges to Magento 2 check… |
-| 2026-10-05 11:35:12 | [silarhi/llms-txt-bundle](https://www.nuget.org/packages/silarhi%2Fllms-txt-bundle) | v1.1.1 | Guillaume Sainthillier | Build, dump and serve an llms.txt file from your Symfony application, the Prest… |
-| 2026-10-05 11:57:14 | [abdelhmed/sentinel-ai](https://www.nuget.org/packages/abdelhmed%2Fsentinel-ai) | v1.0.1 | Abdelhamed Fathy | AI-powered error dashboard for Laravel: captures exceptions, explains them with… |
-| 2026-10-05 12:10:31 | [limegreentangerine/aws_hosting](https://www.nuget.org/packages/limegreentangerine%2Faws_hosting) | 1.0.0 | Lee Jones | ConcreteCMS tools for AWS hosted deployments |
-| 2026-10-05 12:15:25 | [mage2kishan/magento2-claude-ai](https://www.nuget.org/packages/mage2kishan%2Fmagento2-claude-ai) | 1.9.3 | Kishan Savaliya | Magento 2 Automation with Claude AI - natural-language store management. Update… |
+| 2026-10-05 12:30:18 | [skynettechnologies/craft-skyneta11ypdfremediation](https://www.nuget.org/packages/skynettechnologies%2Fcraft-skyneta11ypdfremediation) | 1.0.1 | Skynet Technologies USA LLC | AI-powered PDF accessibility remediation - upload PDFs, scan website PDFs, and… |
+| 2026-10-05 12:31:58 | [limegreentangerine/aws_storage](https://www.nuget.org/packages/limegreentangerine%2Faws_storage) | 1.0.0 | Lee Jones | Adds S3 storage options to Concrete CMS |
+| 2026-10-05 12:35:36 | [stackshield/scanner](https://www.nuget.org/packages/stackshield%2Fscanner) | v1.0.0 | StackShield | Run Laravel security posture checks locally from inside your application. Confi… |
+| 2026-10-05 12:38:50 | [hanshs474/veida](https://www.nuget.org/packages/hanshs474%2Fveida) | v0.1.0 | Veida | Generate images from PHP with no API key and no account, via the free tier of v… |
+| 2026-10-05 12:45:33 | [mage-os/module-aeo](https://www.nuget.org/packages/mage-os%2Fmodule-aeo) | v1.0.0 | Mark Rees | AI discoverability: llms.txt, llms-full.txt and llms.jsonl feeds, and AI crawle… |
+| 2026-10-05 12:52:55 | [hipdevteam/ion-mu](https://www.nuget.org/packages/hipdevteam%2Fion-mu) | v3.3.0 | ION | ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Inte… |
+| 2026-10-05 12:53:18 | [hanshs474/saymaker](https://www.nuget.org/packages/hanshs474%2Fsaymaker) | v0.1.0 | SayMaker | Generate images and video from PHP on SayMaker: Veo 3.1, Kling 3.0, Seedance 2.… |
+| 2026-10-05 12:57:52 | [systopic/system](https://www.nuget.org/packages/systopic%2Fsystem) | v1.0.0 |  | The systopic framework: panels, sessions and rights, nodes, media, tags - the b… |
+| 2026-10-05 12:59:59 | [mindtwo/laravel-ai-spark](https://www.nuget.org/packages/mindtwo%2Flaravel-ai-spark) | v1.0 | mindtwo GmbH | Laravel AI SDK driver for self-hosted, OpenAI-compatible vLLM servers such as t… |
+| 2026-10-05 13:01:21 | [kfoobar/laravel-seo-tools](https://www.nuget.org/packages/kfoobar%2Flaravel-seo-tools) | v1.0.1 | David | Breadcrumbs, robots.txt, and sitemaps for Laravel — a companion to laravel/head |
+| 2026-10-05 13:12:57 | [open-dxp/test-foundation](https://www.nuget.org/packages/open-dxp%2Ftest-foundation) | v1.0.0 |  | Everything a bundle or a project needs to have tests against OpenDXP. |
+| 2026-10-05 13:17:16 | [mage2kishan/module-faq](https://www.nuget.org/packages/mage2kishan%2Fmodule-faq) | 1.3.9 | Kishan Savaliya | Advanced FAQ Module with multi-level assignment capabilities |
 
 ## Data source
 
