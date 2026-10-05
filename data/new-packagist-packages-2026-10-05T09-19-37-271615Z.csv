@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-05T08:32:14Z,amirkateb/payment-core-client,v1.0.0,,Secure Laravel client SDK for AvazTek Payment Platform
+2026-10-05T08:45:19Z,justpush/prestashop-module-notify,v1.0.0,JustPush,"Push notifications from PrestaShop through JustPush Studio: orders, payments, refunds, customers, messages, low stock and admin logins."
+2026-10-05T08:46:03Z,cetera-labs/library,13.0.0,Roman Romanov,"Сторонние JS-библиотеки старого back-office Fastsite CMS 3.x: ExtJS 4.2, ace, js-beautify, cropper, html-minifier, плагин youtube для CKEditor"
+2026-10-05T08:52:09Z,aimeos/ai-admin-mcp,2026.10.1,,Framework-neutral MCP tools for Aimeos administration
+2026-10-05T08:55:02Z,mage2kishan/module-malware-scanner,1.3.7,Kishan Savaliya,"Active malware prevention + on-disk scanner for Magento 2. Three real-time guards (REST API, universal upload, custom-options) block PolyShell webshells, polyglot files and PHP-object-injection payloads BEFORE they touch disk. A nightly recursive scanner finds anything that slipped through, auto-qu…"
+2026-10-05T08:55:50Z,max-dernovyi/netsuite-php,v2025.2.0,Ryan Winchester (fungku); Max Dernovyi,NetSuite PHP API wrapper
