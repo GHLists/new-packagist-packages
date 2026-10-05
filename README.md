@@ -15,22 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 06:19 UTC
+## Latest list — 2026-10-05 07:20 UTC
 
-New packages created between 2026-10-05 05:21 UTC and 2026-10-05 06:19 UTC.
+New packages created between 2026-10-05 06:19 UTC and 2026-10-05 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-05T06-19-17-204158Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-05T07-20-35-280974Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-05 05:25:27 | [contenir/errors-mezzio](https://www.nuget.org/packages/contenir%2Ferrors-mezzio) | v0.1.0 |  | Mezzio (PSR-15) adapter for contenir/errors — renders admin-authored per-status… |
-| 2026-10-05 05:26:17 | [wentthefox/services_libravatar](https://www.nuget.org/packages/wentthefox%2Fservices_libravatar) | v1.0.5 | Melissa Draper; Christian Wei… | API interfacing class for libravatar.org |
-| 2026-10-05 05:42:53 | [patterns/unit](https://www.nuget.org/packages/patterns%2Funit) | v1.0.0 |  | Unit pattern - a named, versioned identity for code that produces data, so ever… |
-| 2026-10-05 05:50:28 | [contenir/contenir-db-model-tools](https://www.nuget.org/packages/contenir%2Fcontenir-db-model-tools) | v1.0.0-rc1 |  | Command-line tools for contenir-db-model: generate entities from live tables, u… |
-| 2026-10-05 05:50:58 | [mage2kishan/module-sale-filter](https://www.nuget.org/packages/mage2kishan%2Fmodule-sale-filter) | 1.1.5 | Kishan Savaliya | Panth Sale Filter — "On Sale" layered navigation filter for Magento 2, backed b… |
-| 2026-10-05 05:58:50 | [units/logger](https://www.nuget.org/packages/units%2Flogger) | v1.0.0 |  | Log unit - a versioned logging identity that writes through an injected adapter… |
-| 2026-10-05 06:05:43 | [stubbedev/jenkins-mcp](https://www.nuget.org/packages/stubbedev%2Fjenkins-mcp) | v0.2.6 |  | MCP server for Jenkins build status and logs (Go, distributed as a prebuilt bin… |
-| 2026-10-05 06:07:29 | [stubbedev/sentry-mcp](https://www.nuget.org/packages/stubbedev%2Fsentry-mcp) | v0.2.8 |  | MCP server for self-hosted Sentry (Go, distributed as a prebuilt binary) |
+| 2026-10-05 06:20:35 | [stubbedev/atlassian-mcp](https://www.nuget.org/packages/stubbedev%2Fatlassian-mcp) | v0.5.24 |  | MCP server for self-hosted Jira and Bitbucket (Go, distributed as a prebuilt bi… |
+| 2026-10-05 06:22:17 | [cyllene-digital/sylius-tarteaucitron-plugin](https://www.nuget.org/packages/cyllene-digital%2Fsylius-tarteaucitron-plugin) | v1.0.0 |  | tarteaucitron.js cookie consent manager for Sylius. |
+| 2026-10-05 06:26:22 | [ianfoxdev/money-lint](https://www.nuget.org/packages/ianfoxdev%2Fmoney-lint) | v0.1.0 | Anatoly Pankratyev | PHPStan rules for code that moves money: floats in amounts, HTTP calls inside d… |
+| 2026-10-05 06:48:00 | [openemail/sdk](https://www.nuget.org/packages/openemail%2Fsdk) | v0.0.1 | OpenEmail | The official PHP SDK for the OpenEmail API. Send email and broadcasts, work wit… |
+| 2026-10-05 06:50:44 | [joydeep-bhowmik/quire](https://www.nuget.org/packages/joydeep-bhowmik%2Fquire) | v0.1.1 | Joydeep Bhowmik | File-based page router for plain PHP: every .php or .blade.php file is a route,… |
+| 2026-10-05 06:51:57 | [russelcruz28/filament-demo-mode](https://www.nuget.org/packages/russelcruz28%2Ffilament-demo-mode) | v0.1.0 | Russelcruz28 | Persistent SQLite demo sandboxes, role switching, and production-data isolation… |
+| 2026-10-05 06:52:49 | [mage2kishan/module-redirects](https://www.nuget.org/packages/mage2kishan%2Fmodule-redirects) | 1.2.6 |  | Redirects and 404 management for Magento 2 (Hyva + Luma). Manual + auto redirec… |
+| 2026-10-05 06:56:36 | [mohan-devstack/magento2-guest-order-to-customer](https://www.nuget.org/packages/mohan-devstack%2Fmagento2-guest-order-to-customer) | 1.0.0 | Mohan Prabhu | Map Magento 2 guest orders to an existing customer account with the same email,… |
+| 2026-10-05 07:00:51 | [stubbedev/ds-mcp](https://www.nuget.org/packages/stubbedev%2Fds-mcp) | v0.3.15 |  | DataStore MCP — one MCP server for MySQL/MariaDB, PostgreSQL, SQLite, DuckDB, S… |
+| 2026-10-05 07:05:58 | [janprikryl/revolutx](https://www.nuget.org/packages/janprikryl%2Frevolutx) | 0.0.6 | Jan Přikryl | PHP SDK for the Revolut X Crypto Exchange REST API (v1.0) |
 
 ## Data source
 
