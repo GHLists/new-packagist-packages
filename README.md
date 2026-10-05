@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 01:19 UTC
+## Latest list — 2026-10-05 02:21 UTC
 
-New packages created between 2026-10-05 00:19 UTC and 2026-10-05 01:19 UTC.
+New packages created between 2026-10-05 01:19 UTC and 2026-10-05 02:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-05T01-19-11-817668Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-05T02-21-27-542303Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-05 00:26:24 | [mage2kishan/module-smart-badge](https://www.nuget.org/packages/mage2kishan%2Fmodule-smart-badge) | 1.1.8 |  | Smart Product Badge & Label System - Automatically displays beautiful badges on… |
-| 2026-10-05 00:29:46 | [boysfromthefactory/groundhog](https://www.nuget.org/packages/boysfromthefactory%2Fgroundhog) | v0.1.0 | Balazs Sebesteny | Declarative recurring Eloquent models backed by RFC 5545 rules. |
-| 2026-10-05 01:10:34 | [atlas-auth/atlas-php](https://www.nuget.org/packages/atlas-auth%2Fatlas-php) | v0.1.0 |  | Official PHP backend SDK for Atlas — the secret-key Backend API client plus ses… |
+| 2026-10-05 01:27:19 | [mage2kishan/module-testimonials](https://www.nuget.org/packages/mage2kishan%2Fmodule-testimonials) | 1.2.10 |  | Advanced Testimonials module with slider, individual pages, categories, SEO, an… |
+| 2026-10-05 01:46:24 | [dirthara/queue-database](https://www.nuget.org/packages/dirthara%2Fqueue-database) | 0.1.0 | Dirthara | Database queue driver for the Dirthara framework |
+| 2026-10-05 01:58:12 | [contenir/contenir-workflow](https://www.nuget.org/packages/contenir%2Fcontenir-workflow) | v0.1.0 | Contenir | Database-driven workflow system for Mezzio that generates routes and navigation… |
 
 ## Data source
 
