@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-05T11:34:22Z,mage2kishan/module-extra-fee,1.1.7,Kishan Savaliya,"Panth Extra Fee — add configurable extra fees and surcharges to Magento 2 checkout based on payment method, customer group, country/region, products, categories, order amount, and more. Fixed, percentage, or combined fee calculation with full tax and refund support."
+2026-10-05T11:35:12Z,silarhi/llms-txt-bundle,v1.1.1,Guillaume Sainthillier,"Build, dump and serve an llms.txt file from your Symfony application, the PrestaSitemapBundle way."
+2026-10-05T11:57:14Z,abdelhmed/sentinel-ai,v1.0.1,Abdelhamed Fathy,"AI-powered error dashboard for Laravel: captures exceptions, explains them with Gemini and generates tests on demand."
+2026-10-05T12:10:31Z,limegreentangerine/aws_hosting,1.0.0,Lee Jones,ConcreteCMS tools for AWS hosted deployments
+2026-10-05T12:15:25Z,mage2kishan/magento2-claude-ai,1.9.3,Kishan Savaliya,"Magento 2 Automation with Claude AI - natural-language store management. Update prices, query catalog, surface insights, all by asking in plain English. Powered by Anthropic's Claude API with tool use."

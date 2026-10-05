@@ -15,25 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 11:18 UTC
+## Latest list — 2026-10-05 12:19 UTC
 
-New packages created between 2026-10-05 10:21 UTC and 2026-10-05 11:18 UTC.
+New packages created between 2026-10-05 11:18 UTC and 2026-10-05 12:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-05T11-18-43-523058Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-05T12-19-11-131487Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-05 10:23:06 | [mage-os/module-faq](https://www.nuget.org/packages/mage-os%2Fmodule-faq) | v1.0.0 | Mark Rees | FAQ entries with an admin manager, a widget and a Page Builder content type, an… |
-| 2026-10-05 10:25:41 | [sartajgit/laravel-query-xray](https://www.nuget.org/packages/sartajgit%2Flaravel-query-xray) | v1.0.0-beta |  | Real-time N+1, slow query, duplicate query and unoptimized query detection dash… |
-| 2026-10-05 10:29:31 | [vtinnovations/contao-security-suite](https://www.nuget.org/packages/vtinnovations%2Fcontao-security-suite) | v1.0.0 | V&T Innovations Team | Contao-Erweiterung zur zentralen Analyse, Überwachung und Behebung sicherheitsr… |
-| 2026-10-05 10:33:20 | [sorge-it/phpunit-pest-html-assertions](https://www.nuget.org/packages/sorge-it%2Fphpunit-pest-html-assertions) | v1.0.0 | Stefan Sorge | HTML assertions for PHPUnit and Pest: check rendered HTML with CSS selectors, n… |
-| 2026-10-05 10:35:00 | [mage2kishan/module-xml-sitemap](https://www.nuget.org/packages/mage2kishan%2Fmodule-xml-sitemap) | 1.2.7 | Kishan Savaliya | Panth XML Sitemap — sharded XML sitemap generator for Magento 2: per-store prof… |
-| 2026-10-05 10:40:40 | [arvelov/product-description-ai](https://www.nuget.org/packages/arvelov%2Fproduct-description-ai) | v1.0.0 |  | Framework-agnostic PHP package for AI product descriptions via DeepSeek Vision… |
-| 2026-10-05 10:45:50 | [flairuk/laravel-square](https://www.nuget.org/packages/flairuk%2Flaravel-square) | v1.0.0 | Phil Graham | Square payments for Laravel: the official Square PHP SDK, configured, plus webh… |
-| 2026-10-05 10:48:00 | [flairuk/laravel-booking-com](https://www.nuget.org/packages/flairuk%2Flaravel-booking-com) | v0.1.0 | Phil Graham | A Laravel client for the Booking.com Demand API: search, availability, property… |
-| 2026-10-05 10:54:31 | [flairuk/laravel-sumup](https://www.nuget.org/packages/flairuk%2Flaravel-sumup) | v1.0.0 | Phil Graham | SumUp payments for Laravel: online checkouts, the Payment Widget, refunds, cust… |
-| 2026-10-05 11:07:27 | [ianfoxdev/payout-split](https://www.nuget.org/packages/ianfoxdev%2Fpayout-split) | v0.1.0 | Anatoly Pankratyev | Splits a pool of money between partners by weights: the shares always add up to… |
-| 2026-10-05 11:07:58 | [raoh/notation-199x](https://www.nuget.org/packages/raoh%2Fnotation-199x) | v0.2.0 |  | The rules for reading text that Raoh and Souther share: Unicode 18.0.0 case con… |
+| 2026-10-05 11:34:22 | [mage2kishan/module-extra-fee](https://www.nuget.org/packages/mage2kishan%2Fmodule-extra-fee) | 1.1.7 | Kishan Savaliya | Panth Extra Fee — add configurable extra fees and surcharges to Magento 2 check… |
+| 2026-10-05 11:35:12 | [silarhi/llms-txt-bundle](https://www.nuget.org/packages/silarhi%2Fllms-txt-bundle) | v1.1.1 | Guillaume Sainthillier | Build, dump and serve an llms.txt file from your Symfony application, the Prest… |
+| 2026-10-05 11:57:14 | [abdelhmed/sentinel-ai](https://www.nuget.org/packages/abdelhmed%2Fsentinel-ai) | v1.0.1 | Abdelhamed Fathy | AI-powered error dashboard for Laravel: captures exceptions, explains them with… |
+| 2026-10-05 12:10:31 | [limegreentangerine/aws_hosting](https://www.nuget.org/packages/limegreentangerine%2Faws_hosting) | 1.0.0 | Lee Jones | ConcreteCMS tools for AWS hosted deployments |
+| 2026-10-05 12:15:25 | [mage2kishan/magento2-claude-ai](https://www.nuget.org/packages/mage2kishan%2Fmagento2-claude-ai) | 1.9.3 | Kishan Savaliya | Magento 2 Automation with Claude AI - natural-language store management. Update… |
 
 ## Data source
 
