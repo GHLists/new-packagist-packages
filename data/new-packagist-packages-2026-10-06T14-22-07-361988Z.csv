@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-06T13:23:45Z,mage2kishan/module-notification-bar,1.0.21,Kishan Savaliya,"Panth Notification Bar — display customizable notification bars, promo banners, countdown timers, and announcement strips on your Magento 2 storefront. Multiple bars with scheduling, page targeting, customer group targeting, geo-targeting, CTA buttons, and dismissible with cookie memory. Hyva + Lum…"
+2026-10-06T13:30:26Z,mage2kishan/module-advanced-contact-us,1.1.11,,"Advanced Contact Us Page - Custom fields, bot protection, submission management, email notifications"
+2026-10-06T13:34:11Z,nadeemkhan/atlas-self-scan,v1.0.0,,"Install AtlasScope into a Laravel application and it maps that application: its own routes, controllers, models and tables, in 3D, at /atlas. No upload, no configuration."
+2026-10-06T13:35:27Z,mage2kishan/module-producttabs,1.1.7,Kishan Savaliya,"Product detail page tab customization for Magento 2. Supports horizontal/vertical tab styles, fade/slide/none animations, and mobile accordion. Compatible with Hyva and Luma themes."
+2026-10-06T13:40:28Z,mage2kishan/theme-frontend-panth-infotech,1.0.16,Kishan Savaliya,"Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent theme."
+2026-10-06T14:02:44Z,neomasterr/barcoder,v1.0.0,neomasterr,Barcode utils
+2026-10-06T14:04:21Z,mage2kishan/module-theme-customizer,1.1.13,,"Hyva Theme Customizer - Backend-driven theme configuration with CSS custom properties, color management, typography, and Tailwind CSS integration."
