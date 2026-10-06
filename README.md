@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 01:20 UTC
+## Latest list — 2026-10-06 02:20 UTC
 
-New packages created between 2026-10-06 00:20 UTC and 2026-10-06 01:20 UTC.
+New packages created between 2026-10-06 01:20 UTC and 2026-10-06 02:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-06T01-20-15-636146Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-06T02-20-10-318253Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-06 00:21:10 | [rohang27/thesportsdb-client](https://www.nuget.org/packages/rohang27%2Fthesportsdb-client) | v0.1.0 | RohanG27 | PHP client for TheSportsDB API v1 and v2: typed models, rate limiting, retries,… |
-| 2026-10-06 01:12:42 | [pushinbr/pam-native-charts](https://www.nuget.org/packages/pushinbr%2Fpam-native-charts) | v0.1.0 |  | Native charts for PAM Native: line, area, bar, donut, sparkline and progress ri… |
+| 2026-10-06 01:29:28 | [contenir/contenir-resource-laminas-mvc](https://www.nuget.org/packages/contenir%2Fcontenir-resource-laminas-mvc) | v2.0.0-RC1 |  | laminas-mvc adapter for contenir/contenir-resource: workflow routing and naviga… |
+| 2026-10-06 01:30:22 | [servicem8/servicem8-php](https://www.nuget.org/packages/servicem8%2Fservicem8-php) | v1.3.0 |  | PHP SDK for the ServiceM8 API |
+| 2026-10-06 01:45:37 | [siberfx/netgsm](https://www.nuget.org/packages/siberfx%2Fnetgsm) | 5.1.0 | Selim Görmüş | NetGsm SMS, OTP, reporting, balance and IYS integration for Laravel |
 
 ## Data source
 
