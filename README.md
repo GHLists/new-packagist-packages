@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 20:20 UTC
+## Latest list — 2026-10-06 21:21 UTC
 
-New packages created between 2026-10-06 19:20 UTC and 2026-10-06 20:20 UTC.
+New packages created between 2026-10-06 20:20 UTC and 2026-10-06 21:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-06T20-20-20-695896Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-06T21-21-58-227754Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-06 19:30:31 | [indianos/alt-dto](https://www.nuget.org/packages/indianos%2Falt-dto) | 1.0.0 |  | Framework-agnostic DTO hydration and serialization library |
-| 2026-10-06 19:41:10 | [dirthara/cache](https://www.nuget.org/packages/dirthara%2Fcache) | 0.1.0 | Dirthara | PSR-6 and PSR-16 caching for PHP and the Dirthara framework |
-| 2026-10-06 19:43:01 | [letkode/config-publisher](https://www.nuget.org/packages/letkode%2Fconfig-publisher) | 1.0.0 |  | Publishes the example config files that letkode/* packages ship, with a single… |
-| 2026-10-06 19:49:52 | [freepeace13/inertia-live-laravel](https://www.nuget.org/packages/freepeace13%2Finertia-live-laravel) | v0.1.0 |  | Live Inertia pages driven by Spatie Event Sourcing projections. |
+| 2026-10-06 20:29:00 | [letkode/config-publisher-bundle](https://www.nuget.org/packages/letkode%2Fconfig-publisher-bundle) | 1.0.0 |  | Publishes the example config files that letkode/* packages ship, with a single… |
+| 2026-10-06 20:34:56 | [clarilens/parser](https://www.nuget.org/packages/clarilens%2Fparser) | 0.0.1 | Farkhat Sakibaev | Extract evidence-backed facts from HTML, XML, and PDF sources. |
+| 2026-10-06 20:44:08 | [debuss-a/server-request-factory](https://www.nuget.org/packages/debuss-a%2Fserver-request-factory) | 1.0.0 | Alexandre Debusschère | Creates PSR-7 server requests from globals or arrays, with any PSR-17 implement… |
+| 2026-10-06 21:01:11 | [dionisiy13/confluent-schema-registry-api](https://www.nuget.org/packages/dionisiy13%2Fconfluent-schema-registry-api) | 8.2.1 | Thomas Ploch; Denys Kurasov | Fork of flix-tech/confluent-schema-registry-api with PHP 8.5 support. A PHP 8.1… |
+| 2026-10-06 21:01:45 | [kkhay/kkhay](https://www.nuget.org/packages/kkhay%2Fkkhay) | v1.0.0 | K Khay | Official PHP SDK for K Khay Sovereign Crypto Payment Gateway |
 
 ## Data source
 

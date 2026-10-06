@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-06T20:29:00Z,letkode/config-publisher-bundle,1.0.0,,"Publishes the example config files that letkode/* packages ship, with a single command (bin/console letkode:config:publish)"
+2026-10-06T20:34:56Z,clarilens/parser,0.0.1,Farkhat Sakibaev,"Extract evidence-backed facts from HTML, XML, and PDF sources."
+2026-10-06T20:44:08Z,debuss-a/server-request-factory,1.0.0,Alexandre Debusschère,"Creates PSR-7 server requests from globals or arrays, with any PSR-17 implementation."
+2026-10-06T21:01:11Z,dionisiy13/confluent-schema-registry-api,8.2.1,Thomas Ploch; Denys Kurasov,Fork of flix-tech/confluent-schema-registry-api with PHP 8.5 support. A PHP 8.1+ library to consume the Confluent Schema Registry REST API.
+2026-10-06T21:01:45Z,kkhay/kkhay,v1.0.0,K Khay,Official PHP SDK for K Khay Sovereign Crypto Payment Gateway
