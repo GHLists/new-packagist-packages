@@ -15,19 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 21:21 UTC
+## Latest list — 2026-10-06 22:21 UTC
 
-New packages created between 2026-10-06 20:20 UTC and 2026-10-06 21:21 UTC.
+New packages created between 2026-10-06 21:21 UTC and 2026-10-06 22:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-06T21-21-58-227754Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-06T22-21-14-273151Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-06 20:29:00 | [letkode/config-publisher-bundle](https://www.nuget.org/packages/letkode%2Fconfig-publisher-bundle) | 1.0.0 |  | Publishes the example config files that letkode/* packages ship, with a single… |
-| 2026-10-06 20:34:56 | [clarilens/parser](https://www.nuget.org/packages/clarilens%2Fparser) | 0.0.1 | Farkhat Sakibaev | Extract evidence-backed facts from HTML, XML, and PDF sources. |
-| 2026-10-06 20:44:08 | [debuss-a/server-request-factory](https://www.nuget.org/packages/debuss-a%2Fserver-request-factory) | 1.0.0 | Alexandre Debusschère | Creates PSR-7 server requests from globals or arrays, with any PSR-17 implement… |
-| 2026-10-06 21:01:11 | [dionisiy13/confluent-schema-registry-api](https://www.nuget.org/packages/dionisiy13%2Fconfluent-schema-registry-api) | 8.2.1 | Thomas Ploch; Denys Kurasov | Fork of flix-tech/confluent-schema-registry-api with PHP 8.5 support. A PHP 8.1… |
-| 2026-10-06 21:01:45 | [kkhay/kkhay](https://www.nuget.org/packages/kkhay%2Fkkhay) | v1.0.0 | K Khay | Official PHP SDK for K Khay Sovereign Crypto Payment Gateway |
+| 2026-10-06 21:35:16 | [anode/cast-framework](https://www.nuget.org/packages/anode%2Fcast-framework) | v0.1.0 | arnoldduo2 | CastFramework: a small PHP MVC framework with an SPA-ready view layer, built on… |
+| 2026-10-06 21:54:28 | [terragamingmedia/laravel-ads](https://www.nuget.org/packages/terragamingmedia%2Flaravel-ads) | v0.1.0 |  | TerraGaming Media ads for Laravel: Blade components for the site tag and ad uni… |
+| 2026-10-06 21:56:45 | [id-sign/business-registers](https://www.nuget.org/packages/id-sign%2Fbusiness-registers) | v0.1.0 |  | Typed PHP client for Czech business registers: ARES, VAT register (ADIS) and VI… |
 
 ## Data source
 
