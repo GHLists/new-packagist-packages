@@ -15,18 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 18:20 UTC
+## Latest list — 2026-10-06 19:20 UTC
 
-New packages created between 2026-10-06 17:21 UTC and 2026-10-06 18:20 UTC.
+New packages created between 2026-10-06 18:20 UTC and 2026-10-06 19:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-06T18-20-58-249521Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-06T19-20-31-455204Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-06 17:32:22 | [jairojeffersont/easy-api](https://www.nuget.org/packages/jairojeffersont%2Feasy-api) | v1.0.0 | Jairo Jefferson Teixeira Dos… | Aplicação PHP de exemplo de uma API com autenticação |
-| 2026-10-06 17:32:44 | [onetracepro/onetrace-php](https://www.nuget.org/packages/onetracepro%2Fonetrace-php) | v1.0.0 |  | PHP client for the OneTrace.pro customer data platform API: events, profiles, p… |
-| 2026-10-06 17:54:55 | [fosseva/laravel-web-mcp](https://www.nuget.org/packages/fosseva%2Flaravel-web-mcp) | v0.1.0-alpha.1 |  | Expose Laravel AI SDK tools in Blade through browser-native WebMCP. |
-| 2026-10-06 17:59:37 | [troccoli/laravel-queue-monitor-flux](https://www.nuget.org/packages/troccoli%2Flaravel-queue-monitor-flux) | v0.0.1 | Giulio Troccoli-Allard | This is my package laravel-queue-monitor-flux |
+| 2026-10-06 18:25:31 | [sumvee/drupalens](https://www.nuget.org/packages/sumvee%2Fdrupalens) | v0.1.1 | Sumit Vig | A lens on your Drupal site's health: security, support status, and hygiene from… |
+| 2026-10-06 18:43:36 | [caiquebispo/focus-nfe](https://www.nuget.org/packages/caiquebispo%2Ffocus-nfe) | v1.0.0 | Caique Bispo | PHP SDK para a API Focus NFe com suporte multi-CNPJ - Emissão de NFe, NFCe, NFS… |
+| 2026-10-06 18:50:18 | [arnoldduo2/cast-template-engine](https://www.nuget.org/packages/arnoldduo2%2Fcast-template-engine) | 1.0.0 | arnoldduo2 | CastTemplateEngine: React-style components (tags, props, children, slots) on to… |
+| 2026-10-06 18:50:29 | [florentingarnier/spam-protection](https://www.nuget.org/packages/florentingarnier%2Fspam-protection) | v0.1.0 | Florentin Garnier | Invisible CAPTCHA alternative: honeypot, single-use timed tokens, proof of work… |
+| 2026-10-06 18:56:25 | [florentingarnier/spam-protection-bundle](https://www.nuget.org/packages/florentingarnier%2Fspam-protection-bundle) | v0.1.0 | Florentin Garnier | Symfony integration of florentingarnier/spam-protection: a form type, its JavaS… |
+| 2026-10-06 18:58:19 | [devable/shopware6-sitemap-domain-filter](https://www.nuget.org/packages/devable%2Fshopware6-sitemap-domain-filter) | 7.0.0-rc1 | Jan Matthiesen | Symfony bundle that excludes configured domains from the Shopware 6 sitemap gen… |
+| 2026-10-06 19:08:31 | [osintcat/osintcat-php](https://www.nuget.org/packages/osintcat%2Fosintcat-php) | v1.0.0 | OsintCat | Official SDK for the OsintCat API |
 
 ## Data source
 

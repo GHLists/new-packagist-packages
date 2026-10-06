@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-06T18:25:31Z,sumvee/drupalens,v0.1.1,Sumit Vig,"A lens on your Drupal site's health: security, support status, and hygiene from the command line."
+2026-10-06T18:43:36Z,caiquebispo/focus-nfe,v1.0.0,Caique Bispo,"PHP SDK para a API Focus NFe com suporte multi-CNPJ - Emissão de NFe, NFCe, NFSe, CTe, MDFe e mais"
+2026-10-06T18:50:18Z,arnoldduo2/cast-template-engine,1.0.0,arnoldduo2,"CastTemplateEngine: React-style components (tags, props, children, slots) on top of native PHP templates."
+2026-10-06T18:50:29Z,florentingarnier/spam-protection,v0.1.0,Florentin Garnier,"Invisible CAPTCHA alternative: honeypot, single-use timed tokens, proof of work, rate limiting, IP reputation and gibberish detection."
+2026-10-06T18:56:25Z,florentingarnier/spam-protection-bundle,v0.1.0,Florentin Garnier,"Symfony integration of florentingarnier/spam-protection: a form type, its JavaScript solver and the IP list refresh command."
+2026-10-06T18:58:19Z,devable/shopware6-sitemap-domain-filter,7.0.0-rc1,Jan Matthiesen,Symfony bundle that excludes configured domains from the Shopware 6 sitemap generation
+2026-10-06T19:08:31Z,osintcat/osintcat-php,v1.0.0,OsintCat,Official SDK for the OsintCat API
