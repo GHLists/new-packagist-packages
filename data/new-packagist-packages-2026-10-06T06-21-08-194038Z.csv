@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-06T05:23:30Z,zactonz/zactonz-php,v0.1.0,Zactonz Technologies,"Official PHP client for the Zactonz REST APIs: QR codes, barcodes, screenshots and PDFs, social card images, image conversion, link previews, web page to Markdown, DNS, SSL, WHOIS, email checks and translation."
+2026-10-06T05:34:15Z,khaled110/launchpoint,v1.0.1,,Laravel Starter Kit for API
+2026-10-06T05:41:11Z,felixkerser/laravel-shopify-filestorage,v0.0.1,Kyrylo Malovanyi,Fluent Laravel SDK for Shopify's staged file upload pipeline and CDN image transforms.
+2026-10-06T05:42:59Z,mage2kishan/module-eu-withdrawal,1.1.11,Kishan Savaliya,"Panth EU Withdrawal Button - a clear, accessible digital withdrawal (cancellation) function for Magento 2 and Adobe Commerce that complies with Directive (EU) 2023/2673 (effective 19 June 2026). Guest-capable two-step withdrawal flow, durable-medium email proof, withdrawal link in order emails, con…"

@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 05:21 UTC
+## Latest list — 2026-10-06 06:21 UTC
 
-New packages created between 2026-10-06 04:19 UTC and 2026-10-06 05:21 UTC.
+New packages created between 2026-10-06 05:21 UTC and 2026-10-06 06:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-06T05-21-52-065846Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-06T06-21-08-194038Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-06 04:32:15 | [mahmoudtr/snowflake-for-laravel](https://www.nuget.org/packages/mahmoudtr%2Fsnowflake-for-laravel) | v1.0.0 | Mahmoud Mahmoud | Distributed, time-sortable 64-bit Snowflake IDs for Laravel with Redis coordina… |
-| 2026-10-06 04:52:17 | [envless/env](https://www.nuget.org/packages/envless%2Fenv) | v0.0.1 | Envless | The Envless runtime for PHP. Loads your environment from Envless when your app… |
-| 2026-10-06 04:56:01 | [risqid/laravel-attendance-engine](https://www.nuget.org/packages/risqid%2Flaravel-attendance-engine) | v1.0.0 |  | Reusable Laravel attendance engine with stateless dynamic QR challenges. |
-| 2026-10-06 05:11:12 | [unwahas/error-managements](https://www.nuget.org/packages/unwahas%2Ferror-managements) | v1.0.2 | Brian | Error logging and protected error-log API for Laravel applications |
-| 2026-10-06 05:16:26 | [languaojs/zap](https://www.nuget.org/packages/languaojs%2Fzap) | 1.0.0 | Zainurrahman | A mini, lightweight, secure PHP framework |
+| 2026-10-06 05:23:30 | [zactonz/zactonz-php](https://www.nuget.org/packages/zactonz%2Fzactonz-php) | v0.1.0 | Zactonz Technologies | Official PHP client for the Zactonz REST APIs: QR codes, barcodes, screenshots… |
+| 2026-10-06 05:34:15 | [khaled110/launchpoint](https://www.nuget.org/packages/khaled110%2Flaunchpoint) | v1.0.1 |  | Laravel Starter Kit for API |
+| 2026-10-06 05:41:11 | [felixkerser/laravel-shopify-filestorage](https://www.nuget.org/packages/felixkerser%2Flaravel-shopify-filestorage) | v0.0.1 | Kyrylo Malovanyi | Fluent Laravel SDK for Shopify's staged file upload pipeline and CDN image tran… |
+| 2026-10-06 05:42:59 | [mage2kishan/module-eu-withdrawal](https://www.nuget.org/packages/mage2kishan%2Fmodule-eu-withdrawal) | 1.1.11 | Kishan Savaliya | Panth EU Withdrawal Button - a clear, accessible digital withdrawal (cancellati… |
 
 ## Data source
 
