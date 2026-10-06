@@ -15,23 +15,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 15:21 UTC
+## Latest list — 2026-10-06 16:19 UTC
 
-New packages created between 2026-10-06 14:22 UTC and 2026-10-06 15:21 UTC.
+New packages created between 2026-10-06 15:21 UTC and 2026-10-06 16:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-06T15-21-52-473265Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-06T16-19-42-537945Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-06 14:25:11 | [vortech/laravel-stash](https://www.nuget.org/packages/vortech%2Flaravel-stash) | v1.0.0 | Mate Papp | Store and retrieve loose, non-sensitive values in a file, a database or any cus… |
-| 2026-10-06 14:26:37 | [bartollo/pipeline-kit](https://www.nuget.org/packages/bartollo%2Fpipeline-kit) | v1.0.0 |  | Artisan command that installs/merges the Claude Code + Sloppy + Laravel Boost q… |
-| 2026-10-06 15:00:24 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.14 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
-| 2026-10-06 15:06:03 | [mage2kishan/module-advanced-contact-us](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-contact-us) | 1.1.12 |  | Advanced Contact Us Page - Custom fields, bot protection, submission management… |
-| 2026-10-06 15:10:05 | [se7enxweb/sevenx_authentication_2fa](https://www.nuget.org/packages/se7enxweb%2Fsevenx_authentication_2fa) | v1.0.2 | 7x | Two-factor authentication (TOTP / email OTP) and OAuth social-login handler ske… |
-| 2026-10-06 15:10:18 | [ernestdefoe/manticore](https://www.nuget.org/packages/ernestdefoe%2Fmanticore) | 0.1.0 | Ernest Defoe | Light, typo-tolerant Manticore Search driver for Flarum 2 — free and MIT. |
-| 2026-10-06 15:10:58 | [mage2kishan/module-dynamic-forms](https://www.nuget.org/packages/mage2kishan%2Fmodule-dynamic-forms) | 1.2.10 |  | Dynamic Forms module for Magento 2 - Create and manage custom forms with drag-a… |
-| 2026-10-06 15:11:27 | [ernestdefoe/sonic](https://www.nuget.org/packages/ernestdefoe%2Fsonic) | 0.1.0 | Ernest Defoe | A light search driver for Flarum 2, backed by Sonic, the tiny Rust search backe… |
-| 2026-10-06 15:17:34 | [mage2kishan/module-blog](https://www.nuget.org/packages/mage2kishan%2Fmodule-blog) | 1.3.13 | Kishan Savaliya | Panth_Blog - SEO-grade blog module for Magento 2 with first-class AEO/AIO suppo… |
+| 2026-10-06 15:23:08 | [mage2kishan/module-faq](https://www.nuget.org/packages/mage2kishan%2Fmodule-faq) | 1.3.11 | Kishan Savaliya | Advanced FAQ Module with multi-level assignment capabilities |
+| 2026-10-06 15:24:21 | [korozcolt/ai-gateway](https://www.nuget.org/packages/korozcolt%2Fai-gateway) | v0.1.0 | Korozcolt | A multi-provider AI gateway for Laravel: provider connections and encrypted API… |
+| 2026-10-06 15:25:45 | [scottoffen/wp-github-updater](https://www.nuget.org/packages/scottoffen%2Fwp-github-updater) | v0.1.0 | Scott Offen | Update WordPress plugins and themes from GitHub releases, including private rep… |
+| 2026-10-06 15:39:03 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.17 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
+| 2026-10-06 15:45:37 | [flagmint/laravel](https://www.nuget.org/packages/flagmint%2Flaravel) | v0.1.0 | Flagmint | Flagmint Laravel SDK — service provider, facade, Blade, middleware |
+| 2026-10-06 15:47:03 | [mage2kishan/module-price-drop-alert](https://www.nuget.org/packages/mage2kishan%2Fmodule-price-drop-alert) | 1.1.7 |  | Price Drop Alert module for Magento 2 - Allows customers to subscribe to price… |
+| 2026-10-06 15:51:52 | [mage2kishan/module-low-stock-notification](https://www.nuget.org/packages/mage2kishan%2Fmodule-low-stock-notification) | 1.1.9 |  | Magento 2 Low Stock Notification module - allows customers to subscribe for bac… |
+| 2026-10-06 15:55:23 | [jairojeffersont/appfoundry](https://www.nuget.org/packages/jairojeffersont%2Fappfoundry) | v1.0.0 | Jairo Jefferson Teixeira Dos… | Esqueleto básico de uma aplicação PHP desenvolvida com Slim Framework, Twig e E… |
+| 2026-10-06 15:55:34 | [yetidevworks/yetipdf](https://www.nuget.org/packages/yetidevworks%2Fyetipdf) | 1.0.0 | Yetidevworks | Fast, dependency-free PDF text extraction for PHP, built for search indexing |
+| 2026-10-06 15:57:29 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.15 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
+| 2026-10-06 16:02:02 | [farysasyraf/laravel-saved-routes](https://www.nuget.org/packages/farysasyraf%2Flaravel-saved-routes) | v1.0.0 | farysasyraf | Add routes to a Laravel app from a page in the app: each one stored in the data… |
 
 ## Data source
 
