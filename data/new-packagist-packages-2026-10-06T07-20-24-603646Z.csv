@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-06T06:42:22Z,themusicdev/edge-cache,v1.0.0,TheMusicDev,"CakePHP 5 plugin: cache headers for CDN-fronted sites (public pages cached at the edge, forms and everything else never), cookie guard, ETag, Cloudflare purge"
+2026-10-06T06:42:23Z,calisero/calisero-symfony,1.0.1,Calisero,Symfony bundle for sending SMS through the Calisero API
+2026-10-06T06:43:24Z,helsingborg-stad/wpmu-noindex-by-config,0.1.2,Thor Brink,Disables indexing for the all sites based on configuration.
+2026-10-06T06:45:37Z,weijukeji/laravel-ekp-org-sync,v1.0.0,,Reusable EKP organization synchronization into the optional Laravel IAM directory
+2026-10-06T07:01:36Z,digicademy/typo3-sentry-transaction-handler,1.0.0,Frodo Podschwadek,Opens a Sentry transaction per TYPO3 request so traces_sample_rate actually produces performance data.

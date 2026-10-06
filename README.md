@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 06:21 UTC
+## Latest list — 2026-10-06 07:20 UTC
 
-New packages created between 2026-10-06 05:21 UTC and 2026-10-06 06:21 UTC.
+New packages created between 2026-10-06 06:21 UTC and 2026-10-06 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-06T06-21-08-194038Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-06T07-20-24-603646Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-06 05:23:30 | [zactonz/zactonz-php](https://www.nuget.org/packages/zactonz%2Fzactonz-php) | v0.1.0 | Zactonz Technologies | Official PHP client for the Zactonz REST APIs: QR codes, barcodes, screenshots… |
-| 2026-10-06 05:34:15 | [khaled110/launchpoint](https://www.nuget.org/packages/khaled110%2Flaunchpoint) | v1.0.1 |  | Laravel Starter Kit for API |
-| 2026-10-06 05:41:11 | [felixkerser/laravel-shopify-filestorage](https://www.nuget.org/packages/felixkerser%2Flaravel-shopify-filestorage) | v0.0.1 | Kyrylo Malovanyi | Fluent Laravel SDK for Shopify's staged file upload pipeline and CDN image tran… |
-| 2026-10-06 05:42:59 | [mage2kishan/module-eu-withdrawal](https://www.nuget.org/packages/mage2kishan%2Fmodule-eu-withdrawal) | 1.1.11 | Kishan Savaliya | Panth EU Withdrawal Button - a clear, accessible digital withdrawal (cancellati… |
+| 2026-10-06 06:42:22 | [themusicdev/edge-cache](https://www.nuget.org/packages/themusicdev%2Fedge-cache) | v1.0.0 | TheMusicDev | CakePHP 5 plugin: cache headers for CDN-fronted sites (public pages cached at t… |
+| 2026-10-06 06:42:23 | [calisero/calisero-symfony](https://www.nuget.org/packages/calisero%2Fcalisero-symfony) | 1.0.1 | Calisero | Symfony bundle for sending SMS through the Calisero API |
+| 2026-10-06 06:43:24 | [helsingborg-stad/wpmu-noindex-by-config](https://www.nuget.org/packages/helsingborg-stad%2Fwpmu-noindex-by-config) | 0.1.2 | Thor Brink | Disables indexing for the all sites based on configuration. |
+| 2026-10-06 06:45:37 | [weijukeji/laravel-ekp-org-sync](https://www.nuget.org/packages/weijukeji%2Flaravel-ekp-org-sync) | v1.0.0 |  | Reusable EKP organization synchronization into the optional Laravel IAM directo… |
+| 2026-10-06 07:01:36 | [digicademy/typo3-sentry-transaction-handler](https://www.nuget.org/packages/digicademy%2Ftypo3-sentry-transaction-handler) | 1.0.0 | Frodo Podschwadek | Opens a Sentry transaction per TYPO3 request so traces_sample_rate actually pro… |
 
 ## Data source
 
