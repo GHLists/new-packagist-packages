@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-06T04:32:15Z,mahmoudtr/snowflake-for-laravel,v1.0.0,Mahmoud Mahmoud,"Distributed, time-sortable 64-bit Snowflake IDs for Laravel with Redis coordination and Eloquent integration."
+2026-10-06T04:52:17Z,envless/env,v0.0.1,Envless,"The Envless runtime for PHP. Loads your environment from Envless when your app starts, decrypts it on the machine that runs it, and hands it to your code typed, without writing plaintext to disk."
+2026-10-06T04:56:01Z,risqid/laravel-attendance-engine,v1.0.0,,Reusable Laravel attendance engine with stateless dynamic QR challenges.
+2026-10-06T05:11:12Z,unwahas/error-managements,v1.0.2,Brian,Error logging and protected error-log API for Laravel applications
+2026-10-06T05:16:26Z,languaojs/zap,1.0.0,Zainurrahman,"A mini, lightweight, secure PHP framework"
