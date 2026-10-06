@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-05T23:23:49Z,miraiportal/afterglow,1.0.0,,
+2026-10-05T23:28:38Z,rafalmasiarek/dashboard-kit-addon-mail-tracking,v0.1.1,,"Open-tracking pixel addon for dashboard-kit outgoing email — decorates MailerInterface to append a pixel to every message, independent of which controller sends it."
+2026-10-05T23:29:21Z,rosvit/module-cms-content-sync,1.0.0,Rosvit,Export and import CMS Pages and Blocks between environments as JSON.
+2026-10-05T23:37:02Z,contenir/contenir-asset-mezzio,v2.0.0,,"Mezzio adapter for Contenir assets — keyed, profile-driven responsive image variants (incl. WebP/AVIF) backed by contenir/contenir-storage."
+2026-10-05T23:37:41Z,upturnstudio/module-google-feed,1.0.0,Brideo,"Google Merchant Center product feeds with configurable attribute mapping, ad-click capture on orders, and a REST API for spend-vs-sales attribution."
+2026-10-05T23:59:41Z,toreador/flarum-job-queue,v1.0.5,Toreador,"List, inspect, requeue and auto-requeue failed database queue jobs from the Flarum admin panel."
+2026-10-06T00:11:44Z,contenir/contenir-resource-mezzio,v2.0.0-RC1,,"Mezzio adapter for contenir/contenir-resource: workflow routing and navigation for Contenir resources, a middleware that resolves the routed resource and its page metadata, resource URLs and optional laminas-view helpers."
+2026-10-06T00:12:08Z,avdeb/qr-php,v0.1.0,AVDEB,Simple PHP library for generating QR codes.
