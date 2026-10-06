@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-06T17:32:22Z,jairojeffersont/easy-api,v1.0.0,Jairo Jefferson Teixeira Dos Santos,Aplicação PHP de exemplo de uma API com autenticação
+2026-10-06T17:32:44Z,onetracepro/onetrace-php,v1.0.0,,"PHP client for the OneTrace.pro customer data platform API: events, profiles, products, recommendations, segments, journeys and campaigns."
+2026-10-06T17:54:55Z,fosseva/laravel-web-mcp,v0.1.0-alpha.1,,Expose Laravel AI SDK tools in Blade through browser-native WebMCP.
+2026-10-06T17:59:37Z,troccoli/laravel-queue-monitor-flux,v0.0.1,Giulio Troccoli-Allard,This is my package laravel-queue-monitor-flux

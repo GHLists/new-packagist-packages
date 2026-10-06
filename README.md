@@ -15,23 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 17:21 UTC
+## Latest list — 2026-10-06 18:20 UTC
 
-New packages created between 2026-10-06 16:19 UTC and 2026-10-06 17:21 UTC.
+New packages created between 2026-10-06 17:21 UTC and 2026-10-06 18:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-06T17-21-02-813385Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-06T18-20-58-249521Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-06 16:30:27 | [haithammaznai7/form-stepper](https://www.nuget.org/packages/haithammaznai7%2Fform-stepper) | 1.0.1 | Haitham Maznai | Persistent, option-driven single-step and stepper forms for Laravel with reques… |
-| 2026-10-06 16:49:40 | [youwilllikeit/silverstripe-gridfield-toolkit](https://www.nuget.org/packages/youwilllikeit%2Fsilverstripe-gridfield-toolkit) | 1.0.0 |  | Advanced UX/UI components for the Silverstripe CMS GridField: inline editing, u… |
-| 2026-10-06 16:54:50 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.16 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
-| 2026-10-06 16:56:50 | [ipscanner.io/sdk](https://www.nuget.org/packages/ipscanner.io%2Fsdk) | v0.1.0 | IPScanner | Official PHP client for the IPScanner API: IP lookups, VPN and proxy detection,… |
-| 2026-10-06 16:58:32 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.18 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
-| 2026-10-06 16:59:38 | [vespula/remember-me](https://www.nuget.org/packages/vespula%2Fremember-me) | 0.1.1 | Jon Elofson | A simple PHP package for managing persistent 'remember me' authentication using… |
-| 2026-10-06 17:15:21 | [laravel-tipi/translations](https://www.nuget.org/packages/laravel-tipi%2Ftranslations) | v0.1.0 | Irakli | Flexible Eloquent model translations for Laravel with dedicated-table, shared-t… |
-| 2026-10-06 17:15:57 | [getoutbox/outbox-php](https://www.nuget.org/packages/getoutbox%2Foutbox-php) | v0.1.0 |  | Outbox Stack PHP client for transactional email |
-| 2026-10-06 17:16:02 | [getoutbox/outbox-laravel](https://www.nuget.org/packages/getoutbox%2Foutbox-laravel) | v0.1.0 |  | Outbox Stack mail driver and webhooks for Laravel |
+| 2026-10-06 17:32:22 | [jairojeffersont/easy-api](https://www.nuget.org/packages/jairojeffersont%2Feasy-api) | v1.0.0 | Jairo Jefferson Teixeira Dos… | Aplicação PHP de exemplo de uma API com autenticação |
+| 2026-10-06 17:32:44 | [onetracepro/onetrace-php](https://www.nuget.org/packages/onetracepro%2Fonetrace-php) | v1.0.0 |  | PHP client for the OneTrace.pro customer data platform API: events, profiles, p… |
+| 2026-10-06 17:54:55 | [fosseva/laravel-web-mcp](https://www.nuget.org/packages/fosseva%2Flaravel-web-mcp) | v0.1.0-alpha.1 |  | Expose Laravel AI SDK tools in Blade through browser-native WebMCP. |
+| 2026-10-06 17:59:37 | [troccoli/laravel-queue-monitor-flux](https://www.nuget.org/packages/troccoli%2Flaravel-queue-monitor-flux) | v0.0.1 | Giulio Troccoli-Allard | This is my package laravel-queue-monitor-flux |
 
 ## Data source
 
