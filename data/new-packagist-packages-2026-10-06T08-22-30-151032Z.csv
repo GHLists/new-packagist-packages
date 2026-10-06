@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-10-06T07:26:14Z,mage2kishan/module-mage-pos,1.0.16,Kishan Savaliya,"Panth MagePos - a full point of sale (POS) for Magento 2. Standalone touch-friendly terminal with cashier authentication and PIN lock, register sessions with cash management and X/Z reports, barcode scanning, quick keys, multi-cart hold/retrieve, discounts with per-role caps, custom sale lines, spl…"
+2026-10-06T07:32:05Z,nadeemkhan/atlas-scope,v1.0.1,,"Scan a Laravel, C++, C# or Python project and explore it as a 3D map of routes, classes, models, namespaces and database tables."
+2026-10-06T07:44:23Z,maikschneider/scheduler-as-code,0.1.0,Maik Schneider,"Manage TYPO3 scheduler tasks as YAML files in version control: export existing tasks, sync them into the database on deployment, and mark file-managed tasks in the Scheduler module."
+2026-10-06T07:46:43Z,naiuz/sdk,v0.1.0,,The official PHP client for the NeuronAI API.
+2026-10-06T07:57:30Z,mage2kishan/module-low-stock-notification,1.1.7,,Magento 2 Low Stock Notification module - allows customers to subscribe for back-in-stock email alerts on out-of-stock products. Compatible with Luma and Hyva themes.
+2026-10-06T08:01:12Z,mage2kishan/module-product-attachments,1.1.6,,"Product Attachments module for Magento 2 - attach files, links, and documents to products, categories, and CMS pages with Luma and Hyva theme support."
+2026-10-06T08:04:26Z,qt897/skiff,v0.1.0,Quoc Ta,Control Ubuntu/Debian VPS over SSH.
+2026-10-06T08:04:40Z,coderemon24/lkms,v1.0.0,Ahmed Emon,"Zero-configuration, drop-in software licensing client with RSA-2048 verification and tamper protection"
+2026-10-06T08:07:14Z,maarsson/agent-guidelines,1.0.0,VMaarsson,"Reusable, opinionated guidelines and skills for AI coding agents."
+2026-10-06T08:09:37Z,ianfoxdev/inbox,v0.1.0,Anatoly Pankratyev,"Consumer-side deduplication for PHP: the message key is written in the same database transaction as the change it causes, so a redelivered message is skipped. Works with outbox's CloudEvents headers, Symfony Messenger and Laravel Queue."
+2026-10-06T08:13:38Z,vortech/laravel-fuse,v1.0.0,Mate Papp,Track and enforce temporary code and technical debt in Laravel applications.
+2026-10-06T08:19:14Z,se7enxweb/exp_adminui,v1.0.0.0,7x,"Exponential Admin UI: the Admin UI look and layout (ported from Netgen Admin UI) for the Exponential administration, served by its own adminui siteaccess on top of the admin4l design"

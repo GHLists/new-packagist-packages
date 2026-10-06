@@ -15,19 +15,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 07:20 UTC
+## Latest list — 2026-10-06 08:22 UTC
 
-New packages created between 2026-10-06 06:21 UTC and 2026-10-06 07:20 UTC.
+New packages created between 2026-10-06 07:20 UTC and 2026-10-06 08:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-06T07-20-24-603646Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-06T08-22-30-151032Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-06 06:42:22 | [themusicdev/edge-cache](https://www.nuget.org/packages/themusicdev%2Fedge-cache) | v1.0.0 | TheMusicDev | CakePHP 5 plugin: cache headers for CDN-fronted sites (public pages cached at t… |
-| 2026-10-06 06:42:23 | [calisero/calisero-symfony](https://www.nuget.org/packages/calisero%2Fcalisero-symfony) | 1.0.1 | Calisero | Symfony bundle for sending SMS through the Calisero API |
-| 2026-10-06 06:43:24 | [helsingborg-stad/wpmu-noindex-by-config](https://www.nuget.org/packages/helsingborg-stad%2Fwpmu-noindex-by-config) | 0.1.2 | Thor Brink | Disables indexing for the all sites based on configuration. |
-| 2026-10-06 06:45:37 | [weijukeji/laravel-ekp-org-sync](https://www.nuget.org/packages/weijukeji%2Flaravel-ekp-org-sync) | v1.0.0 |  | Reusable EKP organization synchronization into the optional Laravel IAM directo… |
-| 2026-10-06 07:01:36 | [digicademy/typo3-sentry-transaction-handler](https://www.nuget.org/packages/digicademy%2Ftypo3-sentry-transaction-handler) | 1.0.0 | Frodo Podschwadek | Opens a Sentry transaction per TYPO3 request so traces_sample_rate actually pro… |
+| 2026-10-06 07:26:14 | [mage2kishan/module-mage-pos](https://www.nuget.org/packages/mage2kishan%2Fmodule-mage-pos) | 1.0.16 | Kishan Savaliya | Panth MagePos - a full point of sale (POS) for Magento 2. Standalone touch-frie… |
+| 2026-10-06 07:32:05 | [nadeemkhan/atlas-scope](https://www.nuget.org/packages/nadeemkhan%2Fatlas-scope) | v1.0.1 |  | Scan a Laravel, C++, C# or Python project and explore it as a 3D map of routes,… |
+| 2026-10-06 07:44:23 | [maikschneider/scheduler-as-code](https://www.nuget.org/packages/maikschneider%2Fscheduler-as-code) | 0.1.0 | Maik Schneider | Manage TYPO3 scheduler tasks as YAML files in version control: export existing… |
+| 2026-10-06 07:46:43 | [naiuz/sdk](https://www.nuget.org/packages/naiuz%2Fsdk) | v0.1.0 |  | The official PHP client for the NeuronAI API. |
+| 2026-10-06 07:57:30 | [mage2kishan/module-low-stock-notification](https://www.nuget.org/packages/mage2kishan%2Fmodule-low-stock-notification) | 1.1.7 |  | Magento 2 Low Stock Notification module - allows customers to subscribe for bac… |
+| 2026-10-06 08:01:12 | [mage2kishan/module-product-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-attachments) | 1.1.6 |  | Product Attachments module for Magento 2 - attach files, links, and documents t… |
+| 2026-10-06 08:04:26 | [qt897/skiff](https://www.nuget.org/packages/qt897%2Fskiff) | v0.1.0 | Quoc Ta | Control Ubuntu/Debian VPS over SSH. |
+| 2026-10-06 08:04:40 | [coderemon24/lkms](https://www.nuget.org/packages/coderemon24%2Flkms) | v1.0.0 | Ahmed Emon | Zero-configuration, drop-in software licensing client with RSA-2048 verificatio… |
+| 2026-10-06 08:07:14 | [maarsson/agent-guidelines](https://www.nuget.org/packages/maarsson%2Fagent-guidelines) | 1.0.0 | VMaarsson | Reusable, opinionated guidelines and skills for AI coding agents. |
+| 2026-10-06 08:09:37 | [ianfoxdev/inbox](https://www.nuget.org/packages/ianfoxdev%2Finbox) | v0.1.0 | Anatoly Pankratyev | Consumer-side deduplication for PHP: the message key is written in the same dat… |
+| 2026-10-06 08:13:38 | [vortech/laravel-fuse](https://www.nuget.org/packages/vortech%2Flaravel-fuse) | v1.0.0 | Mate Papp | Track and enforce temporary code and technical debt in Laravel applications. |
+| 2026-10-06 08:19:14 | [se7enxweb/exp_adminui](https://www.nuget.org/packages/se7enxweb%2Fexp_adminui) | v1.0.0.0 | 7x | Exponential Admin UI: the Admin UI look and layout (ported from Netgen Admin UI… |
 
 ## Data source
 
