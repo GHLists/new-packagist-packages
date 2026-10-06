@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-06T09:33:36Z,stanislas-poisson/kmark,1.0.0,Stanislas Poisson,A Markdown-like text to HTML converter that lets you set an id and CSS classes on every element.
+2026-10-06T09:42:16Z,maxcode/module-sitemap-exclude-cms,v1.0.2,,EN: Adds an “Exclude from XML sitemap” checkbox to the SEO tab of each Magento 2 CMS page: ticked pages are left out of the generated sitemaps. FR : Ajoute une case « Exclure du plan de site XML » dans l'onglet SEO de chaque page CMS Magento 2 : les pages cochées sont retirées des plans de site gén…
+2026-10-06T09:44:13Z,anis-ly/partners,v1.0.0,Aniscom for Technical Services (Anis),"The PHP SDK for the Anis Partner API — signed requests, verified responses, typed operations."
+2026-10-06T09:51:12Z,mage2kishan/module-order-attachments,1.1.8,,Allows customers to attach files to order items
+2026-10-06T09:57:37Z,vivutio/touring-module,v0.1.0,Ezekiel Mjema,"Tours for vivutio: itineraries day by day through the destinations, where each night is spent, and what the parks charge a party."
+2026-10-06T10:00:05Z,lintkit/mago-config,1.0.0,Mike Street,Liquid Light base configuration for Mago
+2026-10-06T10:01:54Z,pphp/pphp,v1.0.1,Junior Nyemeck,"Un préprocesseur PHP avec typage statique obligatoire, exécuté à la volée."
+2026-10-06T10:12:17Z,volkmann-design-code/kirby-upload-images,0.1.0,Enzo Volkmann,"Uploaded images made web-ready: HEIC converted, big photos shrunk without running out of memory, EXIF kept as file fields"
+2026-10-06T10:17:28Z,crushjs/mini-pdf,v1.0.0,Crushjs,A lightweight PDF generator for Laravel with built-in Khmer (Unicode) support
