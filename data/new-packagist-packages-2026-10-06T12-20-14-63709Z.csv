@@ -1,0 +1,17 @@
+created_at,package,version,author,description
+2026-10-06T11:21:49Z,cuongcds/open-ses-php,v0.1.0,,PHP client and examples for sending email via Open SES / AWS SES
+2026-10-06T11:24:22Z,raaabdullah1/meta-graph-errors,v0.1.0,,"Classify Meta Graph API, Instagram, Messenger and WhatsApp error codes into category, retryability and recovery action."
+2026-10-06T11:24:27Z,offsetwp/local-environment,1.0.0,Jérôme Wohlschlegel,"The local server of an OffsetWP project, on Docker: Caddy, PHP 8.5 by default, MariaDB or MySQL, and Mailpit"
+2026-10-06T11:47:30Z,mage2kishan/module-notification-bar,1.0.20,Kishan Savaliya,"Panth Notification Bar — display customizable notification bars, promo banners, countdown timers, and announcement strips on your Magento 2 storefront. Multiple bars with scheduling, page targeting, customer group targeting, geo-targeting, CTA buttons, and dismissible with cookie memory. Hyva + Lum…"
+2026-10-06T11:48:47Z,felipearnold/laravel-health-digest,v0.1.1,Felipe Arnold,"Logs slow queries and slow requests and groups them, together with application errors, into a ranked JSON digest."
+2026-10-06T11:51:25Z,mage2kishan/module-live-activity,1.0.16,Kishan Savaliya,"Live Activity & Social Proof notifications for Magento 2. Shows real-time customer activity (purchases, cart adds, wishlists) to create urgency and social proof. Supports configurable fake names, locations, featured products, animation styles, and mobile responsiveness. Compatible with Luma and Hyv…"
+2026-10-06T11:55:34Z,mage2kishan/module-whatsapp,1.0.18,Kishan Savaliya,"WhatsApp Integration for Magento 2 — floating chat button, product page inquiry button, and category page assistance banner. Supports Hyva and Luma themes with CSS variable-based styling."
+2026-10-06T12:01:28Z,mage2kishan/module-product-attachments,1.1.7,,"Product Attachments module for Magento 2 - attach files, links, and documents to products, categories, and CMS pages with Luma and Hyva theme support."
+2026-10-06T12:06:32Z,surfacerelay/laravel,v0.1.0-alpha.1,,Experimental Laravel reference runtime for SurfaceRelay.
+2026-10-06T12:07:40Z,humanmade/schema-org-validator,v0.1.0,,Validate schema.org JSON-LD graphs against the full vocabulary and optional rule profiles such as Google rich results.
+2026-10-06T12:07:47Z,vortech/laravel-quarantine,v1.0.0,Mate Papp,Queue-native dependency failure isolation for Laravel.
+2026-10-06T12:12:04Z,mage2kishan/module-theme-customizer,1.1.12,,"Hyva Theme Customizer - Backend-driven theme configuration with CSS custom properties, color management, typography, and Tailwind CSS integration."
+2026-10-06T12:12:55Z,jimmyverburgt/vellum-core,v0.8.0,Jimmy Verburgt,"The content engine behind Vellum: Markdown, navigation, versions and search for Laravel docs"
+2026-10-06T12:14:09Z,ianfoxdev/slo-kit,v0.1.0,Anatoly Pankratyev,"SLOs for PHP services, measured right: latency histograms with a bucket at every SLO threshold, route templates, an explicit definition of an error, a check of /metrics against the SLO file, and a Sloth spec for burn-rate alerts."
+2026-10-06T12:18:16Z,nowo-tech/generative-seo-kit-bundle,v1.1.0,Héctor Franco Aceituno; Nowo.tech,"Symfony Generative Engine Optimization kit (not geolocation): AI crawler robots policy via SeoKit, llms.txt, citation index and audit for FrankenPHP, php-fpm and Nginx."
+2026-10-06T12:18:45Z,mage2kishan/theme-frontend-panth-infotech,1.0.15,Kishan Savaliya,"Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent theme."
