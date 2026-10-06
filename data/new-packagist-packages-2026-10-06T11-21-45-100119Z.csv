@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-06T10:43:20Z,scbudgetweb/laravel-cookie-consent,v1.0.0,,"A simple, compliant cookie consent banner for Laravel: Accept, Reject and Customise, with functional, analytics and marketing categories and automatic cookie discovery."
+2026-10-06T10:53:19Z,sachin-cloee/pterodactyl-sso,v1.0.0,,"Pterodactyl 2.x panel extension that signs customers in from a Paymenter billing installation using signed, single-use login links."
+2026-10-06T10:56:59Z,crushjs/aba-payway,v1.0.0,Crushjs,Pay as You Wish in Cambodia - ABA PayWay payment gateway client for PHP and Laravel
