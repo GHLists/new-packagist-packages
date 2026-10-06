@@ -15,30 +15,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 12:20 UTC
+## Latest list — 2026-10-06 13:22 UTC
 
-New packages created between 2026-10-06 11:21 UTC and 2026-10-06 12:20 UTC.
+New packages created between 2026-10-06 12:20 UTC and 2026-10-06 13:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-06T12-20-14-63709Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-06T13-22-15-636434Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-06 11:21:49 | [cuongcds/open-ses-php](https://www.nuget.org/packages/cuongcds%2Fopen-ses-php) | v0.1.0 |  | PHP client and examples for sending email via Open SES / AWS SES |
-| 2026-10-06 11:24:22 | [raaabdullah1/meta-graph-errors](https://www.nuget.org/packages/raaabdullah1%2Fmeta-graph-errors) | v0.1.0 |  | Classify Meta Graph API, Instagram, Messenger and WhatsApp error codes into cat… |
-| 2026-10-06 11:24:27 | [offsetwp/local-environment](https://www.nuget.org/packages/offsetwp%2Flocal-environment) | 1.0.0 | Jérôme Wohlschlegel | The local server of an OffsetWP project, on Docker: Caddy, PHP 8.5 by default,… |
-| 2026-10-06 11:47:30 | [mage2kishan/module-notification-bar](https://www.nuget.org/packages/mage2kishan%2Fmodule-notification-bar) | 1.0.20 | Kishan Savaliya | Panth Notification Bar — display customizable notification bars, promo banners,… |
-| 2026-10-06 11:48:47 | [felipearnold/laravel-health-digest](https://www.nuget.org/packages/felipearnold%2Flaravel-health-digest) | v0.1.1 | Felipe Arnold | Logs slow queries and slow requests and groups them, together with application… |
-| 2026-10-06 11:51:25 | [mage2kishan/module-live-activity](https://www.nuget.org/packages/mage2kishan%2Fmodule-live-activity) | 1.0.16 | Kishan Savaliya | Live Activity & Social Proof notifications for Magento 2. Shows real-time custo… |
-| 2026-10-06 11:55:34 | [mage2kishan/module-whatsapp](https://www.nuget.org/packages/mage2kishan%2Fmodule-whatsapp) | 1.0.18 | Kishan Savaliya | WhatsApp Integration for Magento 2 — floating chat button, product page inquiry… |
-| 2026-10-06 12:01:28 | [mage2kishan/module-product-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-attachments) | 1.1.7 |  | Product Attachments module for Magento 2 - attach files, links, and documents t… |
-| 2026-10-06 12:06:32 | [surfacerelay/laravel](https://www.nuget.org/packages/surfacerelay%2Flaravel) | v0.1.0-alpha.1 |  | Experimental Laravel reference runtime for SurfaceRelay. |
-| 2026-10-06 12:07:40 | [humanmade/schema-org-validator](https://www.nuget.org/packages/humanmade%2Fschema-org-validator) | v0.1.0 |  | Validate schema.org JSON-LD graphs against the full vocabulary and optional rul… |
-| 2026-10-06 12:07:47 | [vortech/laravel-quarantine](https://www.nuget.org/packages/vortech%2Flaravel-quarantine) | v1.0.0 | Mate Papp | Queue-native dependency failure isolation for Laravel. |
-| 2026-10-06 12:12:04 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.12 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
-| 2026-10-06 12:12:55 | [jimmyverburgt/vellum-core](https://www.nuget.org/packages/jimmyverburgt%2Fvellum-core) | v0.8.0 | Jimmy Verburgt | The content engine behind Vellum: Markdown, navigation, versions and search for… |
-| 2026-10-06 12:14:09 | [ianfoxdev/slo-kit](https://www.nuget.org/packages/ianfoxdev%2Fslo-kit) | v0.1.0 | Anatoly Pankratyev | SLOs for PHP services, measured right: latency histograms with a bucket at ever… |
-| 2026-10-06 12:18:16 | [nowo-tech/generative-seo-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fgenerative-seo-kit-bundle) | v1.1.0 | Héctor Franco Aceituno; Nowo.… | Symfony Generative Engine Optimization kit (not geolocation): AI crawler robots… |
-| 2026-10-06 12:18:45 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.15 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
+| 2026-10-06 12:34:14 | [rafalmasiarek/mailer](https://www.nuget.org/packages/rafalmasiarek%2Fmailer) | v0.1.0 |  | From-scratch SMTP client + MIME builder (no PHPMailer dependency) with native P… |
+| 2026-10-06 12:35:42 | [mage2kishan/module-price-drop-alert](https://www.nuget.org/packages/mage2kishan%2Fmodule-price-drop-alert) | 1.1.6 |  | Price Drop Alert module for Magento 2 - Allows customers to subscribe to price… |
+| 2026-10-06 12:40:02 | [djessy/nl-tools](https://www.nuget.org/packages/djessy%2Fnl-tools) | v1.0.0 | Djessy van Drunen | A PHP Composer package with useful utilities for Dutch developers. |
+| 2026-10-06 12:40:10 | [skynettechnologies/typo3-cookiesregtech](https://www.nuget.org/packages/skynettechnologies%2Ftypo3-cookiesregtech) | 1.0.0 | SKYNET TECHNOLOGIES USA LLC | CookiesRegTech cookie consent: guided connect, consent banner with automatic tr… |
+| 2026-10-06 12:40:28 | [upmind/provision-provider-ssl](https://www.nuget.org/packages/upmind%2Fprovision-provider-ssl) | v1.0.0 | Harry Lewis | This provision category contains the common functions used in provisioning flow… |
+| 2026-10-06 12:41:42 | [mage2kishan/module-low-stock-notification](https://www.nuget.org/packages/mage2kishan%2Fmodule-low-stock-notification) | 1.1.8 |  | Magento 2 Low Stock Notification module - allows customers to subscribe for bac… |
+| 2026-10-06 12:46:59 | [mage2kishan/module-faq](https://www.nuget.org/packages/mage2kishan%2Fmodule-faq) | 1.3.10 | Kishan Savaliya | Advanced FAQ Module with multi-level assignment capabilities |
+| 2026-10-06 12:56:00 | [mage2kishan/module-smart-badge](https://www.nuget.org/packages/mage2kishan%2Fmodule-smart-badge) | 1.1.9 |  | Smart Product Badge & Label System - Automatically displays beautiful badges on… |
+| 2026-10-06 12:58:35 | [boss/laravel-district-access](https://www.nuget.org/packages/boss%2Flaravel-district-access) | v1.0.0 | Boss | Configurable district-based query scoping and access control for Laravel applic… |
+| 2026-10-06 13:08:24 | [vortech/laravel-unit-conversions](https://www.nuget.org/packages/vortech%2Flaravel-unit-conversions) | v1.0.0 | Mate Papp | Fluent, immutable unit conversions for Laravel. |
+| 2026-10-06 13:11:50 | [majistar/module-product-labels](https://www.nuget.org/packages/majistar%2Fmodule-product-labels) | 1.0.0 | Majistar | Text and image product labels for Magento 2 and Mage-OS with a Hyvä storefront:… |
+| 2026-10-06 13:18:15 | [mage2kishan/module-whatsapp](https://www.nuget.org/packages/mage2kishan%2Fmodule-whatsapp) | 1.0.19 | Kishan Savaliya | WhatsApp Integration for Magento 2 — floating chat button, product page inquiry… |
 
 ## Data source
 

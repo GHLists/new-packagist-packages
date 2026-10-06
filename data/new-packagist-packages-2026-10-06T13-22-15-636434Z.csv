@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-10-06T12:34:14Z,rafalmasiarek/mailer,v0.1.0,,From-scratch SMTP client + MIME builder (no PHPMailer dependency) with native PGP/MIME body support and structured PSR-3 SMTP diagnostics.
+2026-10-06T12:35:42Z,mage2kishan/module-price-drop-alert,1.1.6,,Price Drop Alert module for Magento 2 - Allows customers to subscribe to price drop notifications on products.
+2026-10-06T12:40:02Z,djessy/nl-tools,v1.0.0,Djessy van Drunen,A PHP Composer package with useful utilities for Dutch developers.
+2026-10-06T12:40:10Z,skynettechnologies/typo3-cookiesregtech,1.0.0,SKYNET TECHNOLOGIES USA LLC,"CookiesRegTech cookie consent: guided connect, consent banner with automatic tracker blocking, Google Consent Mode, cookie scanner, and consent log."
+2026-10-06T12:40:28Z,upmind/provision-provider-ssl,v1.0.0,Harry Lewis,This provision category contains the common functions used in provisioning flows for SSL/TLS certificates on various certificate authority and reseller platforms.
+2026-10-06T12:41:42Z,mage2kishan/module-low-stock-notification,1.1.8,,Magento 2 Low Stock Notification module - allows customers to subscribe for back-in-stock email alerts on out-of-stock products. Compatible with Luma and Hyva themes.
+2026-10-06T12:46:59Z,mage2kishan/module-faq,1.3.10,Kishan Savaliya,Advanced FAQ Module with multi-level assignment capabilities
+2026-10-06T12:56:00Z,mage2kishan/module-smart-badge,1.1.9,,Smart Product Badge & Label System - Automatically displays beautiful badges on products to increase urgency and conversions
+2026-10-06T12:58:35Z,boss/laravel-district-access,v1.0.0,Boss,Configurable district-based query scoping and access control for Laravel applications.
+2026-10-06T13:08:24Z,vortech/laravel-unit-conversions,v1.0.0,Mate Papp,"Fluent, immutable unit conversions for Laravel."
+2026-10-06T13:11:50Z,majistar/module-product-labels,1.0.0,Majistar,"Text and image product labels for Magento 2 and Mage-OS with a Hyvä storefront: product page, listings, cart, mini-cart and checkout."
+2026-10-06T13:18:15Z,mage2kishan/module-whatsapp,1.0.19,Kishan Savaliya,"WhatsApp Integration for Magento 2 — floating chat button, product page inquiry button, and category page assistance banner. Supports Hyva and Luma themes with CSS variable-based styling."
