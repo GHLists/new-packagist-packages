@@ -15,25 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 16:19 UTC
+## Latest list — 2026-10-06 17:21 UTC
 
-New packages created between 2026-10-06 15:21 UTC and 2026-10-06 16:19 UTC.
+New packages created between 2026-10-06 16:19 UTC and 2026-10-06 17:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-06T16-19-42-537945Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-06T17-21-02-813385Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-06 15:23:08 | [mage2kishan/module-faq](https://www.nuget.org/packages/mage2kishan%2Fmodule-faq) | 1.3.11 | Kishan Savaliya | Advanced FAQ Module with multi-level assignment capabilities |
-| 2026-10-06 15:24:21 | [korozcolt/ai-gateway](https://www.nuget.org/packages/korozcolt%2Fai-gateway) | v0.1.0 | Korozcolt | A multi-provider AI gateway for Laravel: provider connections and encrypted API… |
-| 2026-10-06 15:25:45 | [scottoffen/wp-github-updater](https://www.nuget.org/packages/scottoffen%2Fwp-github-updater) | v0.1.0 | Scott Offen | Update WordPress plugins and themes from GitHub releases, including private rep… |
-| 2026-10-06 15:39:03 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.17 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
-| 2026-10-06 15:45:37 | [flagmint/laravel](https://www.nuget.org/packages/flagmint%2Flaravel) | v0.1.0 | Flagmint | Flagmint Laravel SDK — service provider, facade, Blade, middleware |
-| 2026-10-06 15:47:03 | [mage2kishan/module-price-drop-alert](https://www.nuget.org/packages/mage2kishan%2Fmodule-price-drop-alert) | 1.1.7 |  | Price Drop Alert module for Magento 2 - Allows customers to subscribe to price… |
-| 2026-10-06 15:51:52 | [mage2kishan/module-low-stock-notification](https://www.nuget.org/packages/mage2kishan%2Fmodule-low-stock-notification) | 1.1.9 |  | Magento 2 Low Stock Notification module - allows customers to subscribe for bac… |
-| 2026-10-06 15:55:23 | [jairojeffersont/appfoundry](https://www.nuget.org/packages/jairojeffersont%2Fappfoundry) | v1.0.0 | Jairo Jefferson Teixeira Dos… | Esqueleto básico de uma aplicação PHP desenvolvida com Slim Framework, Twig e E… |
-| 2026-10-06 15:55:34 | [yetidevworks/yetipdf](https://www.nuget.org/packages/yetidevworks%2Fyetipdf) | 1.0.0 | Yetidevworks | Fast, dependency-free PDF text extraction for PHP, built for search indexing |
-| 2026-10-06 15:57:29 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.15 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
-| 2026-10-06 16:02:02 | [farysasyraf/laravel-saved-routes](https://www.nuget.org/packages/farysasyraf%2Flaravel-saved-routes) | v1.0.0 | farysasyraf | Add routes to a Laravel app from a page in the app: each one stored in the data… |
+| 2026-10-06 16:30:27 | [haithammaznai7/form-stepper](https://www.nuget.org/packages/haithammaznai7%2Fform-stepper) | 1.0.1 | Haitham Maznai | Persistent, option-driven single-step and stepper forms for Laravel with reques… |
+| 2026-10-06 16:49:40 | [youwilllikeit/silverstripe-gridfield-toolkit](https://www.nuget.org/packages/youwilllikeit%2Fsilverstripe-gridfield-toolkit) | 1.0.0 |  | Advanced UX/UI components for the Silverstripe CMS GridField: inline editing, u… |
+| 2026-10-06 16:54:50 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.16 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
+| 2026-10-06 16:56:50 | [ipscanner.io/sdk](https://www.nuget.org/packages/ipscanner.io%2Fsdk) | v0.1.0 | IPScanner | Official PHP client for the IPScanner API: IP lookups, VPN and proxy detection,… |
+| 2026-10-06 16:58:32 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.18 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
+| 2026-10-06 16:59:38 | [vespula/remember-me](https://www.nuget.org/packages/vespula%2Fremember-me) | 0.1.1 | Jon Elofson | A simple PHP package for managing persistent 'remember me' authentication using… |
+| 2026-10-06 17:15:21 | [laravel-tipi/translations](https://www.nuget.org/packages/laravel-tipi%2Ftranslations) | v0.1.0 | Irakli | Flexible Eloquent model translations for Laravel with dedicated-table, shared-t… |
+| 2026-10-06 17:15:57 | [getoutbox/outbox-php](https://www.nuget.org/packages/getoutbox%2Foutbox-php) | v0.1.0 |  | Outbox Stack PHP client for transactional email |
+| 2026-10-06 17:16:02 | [getoutbox/outbox-laravel](https://www.nuget.org/packages/getoutbox%2Foutbox-laravel) | v0.1.0 |  | Outbox Stack mail driver and webhooks for Laravel |
 
 ## Data source
 
