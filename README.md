@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 22:21 UTC
+## Latest list — 2026-10-06 23:20 UTC
 
-New packages created between 2026-10-06 21:21 UTC and 2026-10-06 22:21 UTC.
+New packages created between 2026-10-06 22:21 UTC and 2026-10-06 23:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-06T22-21-14-273151Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-06T23-20-51-801108Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-06 21:35:16 | [anode/cast-framework](https://www.nuget.org/packages/anode%2Fcast-framework) | v0.1.0 | arnoldduo2 | CastFramework: a small PHP MVC framework with an SPA-ready view layer, built on… |
-| 2026-10-06 21:54:28 | [terragamingmedia/laravel-ads](https://www.nuget.org/packages/terragamingmedia%2Flaravel-ads) | v0.1.0 |  | TerraGaming Media ads for Laravel: Blade components for the site tag and ad uni… |
-| 2026-10-06 21:56:45 | [id-sign/business-registers](https://www.nuget.org/packages/id-sign%2Fbusiness-registers) | v0.1.0 |  | Typed PHP client for Czech business registers: ARES, VAT register (ADIS) and VI… |
+| 2026-10-06 23:18:41 | [ioc-interop/impl](https://www.nuget.org/packages/ioc-interop%2Fimpl) | 1.0.0-beta1 | Paul M. Jones | Reference implementations of Ioc-Interop. |
 
 ## Data source
 
