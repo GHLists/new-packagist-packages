@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 02:20 UTC
+## Latest list — 2026-10-06 04:19 UTC
 
-New packages created between 2026-10-06 01:20 UTC and 2026-10-06 02:20 UTC.
+New packages created between 2026-10-06 03:20 UTC and 2026-10-06 04:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-06T02-20-10-318253Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-06T04-19-28-407681Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-06 01:29:28 | [contenir/contenir-resource-laminas-mvc](https://www.nuget.org/packages/contenir%2Fcontenir-resource-laminas-mvc) | v2.0.0-RC1 |  | laminas-mvc adapter for contenir/contenir-resource: workflow routing and naviga… |
-| 2026-10-06 01:30:22 | [servicem8/servicem8-php](https://www.nuget.org/packages/servicem8%2Fservicem8-php) | v1.3.0 |  | PHP SDK for the ServiceM8 API |
-| 2026-10-06 01:45:37 | [siberfx/netgsm](https://www.nuget.org/packages/siberfx%2Fnetgsm) | 5.1.0 | Selim Görmüş | NetGsm SMS, OTP, reporting, balance and IYS integration for Laravel |
+| 2026-10-06 04:00:40 | [mage2kishan/module-advancedcart](https://www.nuget.org/packages/mage2kishan%2Fmodule-advancedcart) | 1.0.17 |  | Advanced Cart Page Enhancements - Free shipping bar, qty buttons, trust badges,… |
 
 ## Data source
 
