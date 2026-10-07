@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-07T17:23:10Z,mdakashhossain1/arknox-monitor,v1.1.0,,"Usage tracking, billing and payment enforcement for Laravel sites (requests, Cloudflare R2, Redis)."
+2026-10-07T18:01:45Z,fusio/adapter-ftp,v0.1.0,Christoph Kappestein,Adapter to serve files via FTP
+2026-10-07T18:02:24Z,dereuromark/cakephp-passkeys,0.1.0,Mark Scherer,Public-quality passkey / WebAuthn authentication plugin for CakePHP 5
+2026-10-07T18:06:12Z,mammaaddeveloper/laravel-flex-settings,v0.1.0,mammaadDeveloper,A lovely package for managing Laravel settings.
+2026-10-07T18:06:28Z,crawlora/fotmob,v0.1.4,,FotMob client for the Crawlora hosted API
+2026-10-07T18:06:34Z,crawlora/youtube,v0.1.4,,YouTube client for the Crawlora hosted API
+2026-10-07T18:08:54Z,crawlora/sofascore,v0.2.0,,SofaScore client for the Crawlora hosted API
+2026-10-07T18:09:24Z,crawlora/flashscore,v0.2.0,,Flashscore client for the Crawlora hosted API

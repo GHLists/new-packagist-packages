@@ -15,17 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 17:21 UTC
+## Latest list — 2026-10-07 18:21 UTC
 
-New packages created between 2026-10-07 16:23 UTC and 2026-10-07 17:21 UTC.
+New packages created between 2026-10-07 17:21 UTC and 2026-10-07 18:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T17-21-50-965813Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T18-21-58-121722Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 17:01:26 | [adeguntoro/j2fakit](https://www.nuget.org/packages/adeguntoro%2Fj2fakit) | v1.0.0 | adeguntoro | 2FA gate package: by default every route requires login+2FA, whitelist via conf… |
-| 2026-10-07 17:01:40 | [malevich/malevich](https://www.nuget.org/packages/malevich%2Fmalevich) | 1.0.0 | chipslays | Variant-driven Blade components: declare class maps, render them with @ui. |
-| 2026-10-07 17:13:47 | [jeffersongoncalves/filament-saml2](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-saml2) | 3.0.0 | Jefferson Gonçalves | Filament 5 plugin for SAML2 single sign-on with multi-tenant Identity Providers… |
+| 2026-10-07 17:23:10 | [mdakashhossain1/arknox-monitor](https://www.nuget.org/packages/mdakashhossain1%2Farknox-monitor) | v1.1.0 |  | Usage tracking, billing and payment enforcement for Laravel sites (requests, Cl… |
+| 2026-10-07 18:01:45 | [fusio/adapter-ftp](https://www.nuget.org/packages/fusio%2Fadapter-ftp) | v0.1.0 | Christoph Kappestein | Adapter to serve files via FTP |
+| 2026-10-07 18:02:24 | [dereuromark/cakephp-passkeys](https://www.nuget.org/packages/dereuromark%2Fcakephp-passkeys) | 0.1.0 | Mark Scherer | Public-quality passkey / WebAuthn authentication plugin for CakePHP 5 |
+| 2026-10-07 18:06:12 | [mammaaddeveloper/laravel-flex-settings](https://www.nuget.org/packages/mammaaddeveloper%2Flaravel-flex-settings) | v0.1.0 | mammaadDeveloper | A lovely package for managing Laravel settings. |
+| 2026-10-07 18:06:28 | [crawlora/fotmob](https://www.nuget.org/packages/crawlora%2Ffotmob) | v0.1.4 |  | FotMob client for the Crawlora hosted API |
+| 2026-10-07 18:06:34 | [crawlora/youtube](https://www.nuget.org/packages/crawlora%2Fyoutube) | v0.1.4 |  | YouTube client for the Crawlora hosted API |
+| 2026-10-07 18:08:54 | [crawlora/sofascore](https://www.nuget.org/packages/crawlora%2Fsofascore) | v0.2.0 |  | SofaScore client for the Crawlora hosted API |
+| 2026-10-07 18:09:24 | [crawlora/flashscore](https://www.nuget.org/packages/crawlora%2Fflashscore) | v0.2.0 |  | Flashscore client for the Crawlora hosted API |
 
 ## Data source
 
