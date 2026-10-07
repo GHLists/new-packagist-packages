@@ -15,23 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 07:20 UTC
+## Latest list — 2026-10-07 08:20 UTC
 
-New packages created between 2026-10-07 06:22 UTC and 2026-10-07 07:20 UTC.
+New packages created between 2026-10-07 07:20 UTC and 2026-10-07 08:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T07-20-52-767359Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T08-20-00-780059Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 06:28:50 | [mathsgod/light-oauth2](https://www.nuget.org/packages/mathsgod%2Flight-oauth2) | v1.0.0 |  | OAuth 2.0 integration for the Light framework |
-| 2026-10-07 06:40:09 | [dolismartmaker/dolinews-client](https://www.nuget.org/packages/dolismartmaker%2Fdolinews-client) | v1.0.0 |  | Command line client to submit Dolibarr module announcements and project sheets… |
-| 2026-10-07 06:48:41 | [mage2kishan/module-quickview](https://www.nuget.org/packages/mage2kishan%2Fmodule-quickview) | 1.0.22 | Kishan Savaliya | Smart Quick View & Compare module for Magento 2 with Hyva theme support. Featur… |
-| 2026-10-07 06:52:42 | [mage2kishan/module-eu-withdrawal](https://www.nuget.org/packages/mage2kishan%2Fmodule-eu-withdrawal) | 1.1.12 | Kishan Savaliya | Panth EU Withdrawal Button - a clear, accessible digital withdrawal (cancellati… |
-| 2026-10-07 06:56:23 | [mage2kishan/module-html-sitemap](https://www.nuget.org/packages/mage2kishan%2Fmodule-html-sitemap) | 1.0.19 |  | Theme-agnostic HTML sitemap page for Magento 2 (Hyva + Luma). Renders categorie… |
-| 2026-10-07 07:00:01 | [mage2kishan/module-producttabs](https://www.nuget.org/packages/mage2kishan%2Fmodule-producttabs) | 1.1.8 | Kishan Savaliya | Product detail page tab customization for Magento 2. Supports horizontal/vertic… |
-| 2026-10-07 07:03:42 | [mage2kishan/module-productgallery](https://www.nuget.org/packages/mage2kishan%2Fmodule-productgallery) | 1.0.16 | Kishan Savaliya | Custom product image gallery for Magento 2 product detail pages. Features confi… |
-| 2026-10-07 07:08:01 | [mage2kishan/module-product-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-attachments) | 1.1.9 |  | Product Attachments module for Magento 2 - attach files, links, and documents t… |
-| 2026-10-07 07:18:07 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.18 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
+| 2026-10-07 07:22:53 | [derrickob/laravel-nuxt-shadcn](https://www.nuget.org/packages/derrickob%2Flaravel-nuxt-shadcn) | v0.1.1 | Derrick Obedgiu | A Laravel starter kit with Vue, Inertia and Nuxt UI. |
+| 2026-10-07 07:25:43 | [useyona/einvoice-php](https://www.nuget.org/packages/useyona%2Feinvoice-php) | v0.1.0 | Yona | Official PHP SDK for the Yona e-invoicing API — what an API key may call: invoi… |
+| 2026-10-07 07:28:20 | [mage2kishan/module-checkout-extended](https://www.nuget.org/packages/mage2kishan%2Fmodule-checkout-extended) | 1.1.11 | Kishan Savaliya | Enhanced one-page checkout for Magento 2 with configurable multi-column layouts… |
+| 2026-10-07 08:05:07 | [mage2kishan/module-product-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-attachments) | 1.1.10 |  | Product Attachments module for Magento 2 - attach files, links, and documents t… |
+| 2026-10-07 08:08:49 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.19 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
+| 2026-10-07 08:12:30 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.20 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
 
 ## Data source
 

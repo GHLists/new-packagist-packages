@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-07T07:22:53Z,derrickob/laravel-nuxt-shadcn,v0.1.1,Derrick Obedgiu,"A Laravel starter kit with Vue, Inertia and Nuxt UI."
+2026-10-07T07:25:43Z,useyona/einvoice-php,v0.1.0,Yona,"Official PHP SDK for the Yona e-invoicing API — what an API key may call: invoicing, submissions to the tax authority, buyers, items, received invoices, billing reads and webhooks"
+2026-10-07T07:28:20Z,mage2kishan/module-checkout-extended,1.1.11,Kishan Savaliya,"Enhanced one-page checkout for Magento 2 with configurable multi-column layouts (1/2/3 columns), sticky sidebar, newsletter subscription at checkout, quantity increment controls, coupon code in sidebar, sidebar place-order button, custom CSS/JS injection, and modern card-style UI options. Fully adm…"
+2026-10-07T08:05:07Z,mage2kishan/module-product-attachments,1.1.10,,"Product Attachments module for Magento 2 - attach files, links, and documents to products, categories, and CMS pages with Luma and Hyva theme support."
+2026-10-07T08:08:49Z,mage2kishan/module-theme-customizer,1.1.19,,"Hyva Theme Customizer - Backend-driven theme configuration with CSS custom properties, color management, typography, and Tailwind CSS integration."
+2026-10-07T08:12:30Z,mage2kishan/theme-frontend-panth-infotech,1.0.20,Kishan Savaliya,"Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent theme."
