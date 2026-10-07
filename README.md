@@ -15,15 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 02:22 UTC
+## Latest list — 2026-10-07 03:21 UTC
 
-New packages created between 2026-10-07 01:18 UTC and 2026-10-07 02:22 UTC.
+New packages created between 2026-10-07 02:22 UTC and 2026-10-07 03:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T02-22-41-676109Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T03-21-56-869323Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 01:27:59 | [alleyinteractive/wp-openapi-generator](https://www.nuget.org/packages/alleyinteractive%2Fwp-openapi-generator) | v0.1.0 | Sean Fisher | Generate an OpenAPI document for the WordPress REST API and browse it with Swag… |
+| 2026-10-07 02:25:34 | [edulazaro/laradomains](https://www.nuget.org/packages/edulazaro%2Flaradomains) | 1.1.0 | Edu Lazaro | Everything you can learn about a domain without visiting it: parsing with the P… |
+| 2026-10-07 02:43:26 | [wacafla/subscriber-verify-client](https://www.nuget.org/packages/wacafla%2Fsubscriber-verify-client) | v1.0.0 |  | PHP 8 client for the documented SubscriberVerify API |
+| 2026-10-07 02:46:35 | [mage2kishan/module-quickview](https://www.nuget.org/packages/mage2kishan%2Fmodule-quickview) | 1.0.21 | Kishan Savaliya | Smart Quick View & Compare module for Magento 2 with Hyva theme support. Featur… |
+| 2026-10-07 03:08:17 | [spiggle/filawarden-core](https://www.nuget.org/packages/spiggle%2Ffilawarden-core) | v1.0.0 | Spiggle | Laravel Operations Intelligence Platform for Filament - Core Edition |
 
 ## Data source
 

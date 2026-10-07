@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-07T02:25:34Z,edulazaro/laradomains,1.1.0,Edu Lazaro,"Everything you can learn about a domain without visiting it: parsing with the Public Suffix List, RDAP registration data, age, DNS over HTTPS and malware or adult screening"
+2026-10-07T02:43:26Z,wacafla/subscriber-verify-client,v1.0.0,,PHP 8 client for the documented SubscriberVerify API
+2026-10-07T02:46:35Z,mage2kishan/module-quickview,1.0.21,Kishan Savaliya,"Smart Quick View & Compare module for Magento 2 with Hyva theme support. Features: Quick View Modal, Product Comparison, Recently Viewed Products"
+2026-10-07T03:08:17Z,spiggle/filawarden-core,v1.0.0,Spiggle,Laravel Operations Intelligence Platform for Filament - Core Edition
