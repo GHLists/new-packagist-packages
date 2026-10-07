@@ -15,19 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 16:23 UTC
+## Latest list — 2026-10-07 17:21 UTC
 
-New packages created between 2026-10-07 15:19 UTC and 2026-10-07 16:23 UTC.
+New packages created between 2026-10-07 16:23 UTC and 2026-10-07 17:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T16-23-18-48853Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T17-21-50-965813Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 15:21:20 | [ramir1/laravel-planner](https://www.nuget.org/packages/ramir1%2Flaravel-planner) | v0.1.0 | Vadim Trofimov | Database-backed planner of one-off deferred tasks for Laravel: schedule a task… |
-| 2026-10-07 15:26:26 | [wexample/symfony-dev-ds](https://www.nuget.org/packages/wexample%2Fsymfony-dev-ds) | 2.0.0 | weeger | Design-system side of symfony-dev: the development menu entry reloading the dem… |
-| 2026-10-07 15:28:48 | [alphabalex/payment-made-easy](https://www.nuget.org/packages/alphabalex%2Fpayment-made-easy) | v1.0.0 | Balogun Abdulquddus | A Laravel package for handling payments with multiple gateways (Paystack, Flutt… |
-| 2026-10-07 15:46:20 | [skeeks/cms-mobile](https://www.nuget.org/packages/skeeks%2Fcms-mobile) | 0.1.1 |  | Интеграция SkeekS CMS с мобильными приложениями: устройства и push-уведомления |
-| 2026-10-07 15:50:09 | [wasil/integrations](https://www.nuget.org/packages/wasil%2Fintegrations) | 0.1.0 |  | Server-side PHP SDK for Wasil delivery integrations |
+| 2026-10-07 17:01:26 | [adeguntoro/j2fakit](https://www.nuget.org/packages/adeguntoro%2Fj2fakit) | v1.0.0 | adeguntoro | 2FA gate package: by default every route requires login+2FA, whitelist via conf… |
+| 2026-10-07 17:01:40 | [malevich/malevich](https://www.nuget.org/packages/malevich%2Fmalevich) | 1.0.0 | chipslays | Variant-driven Blade components: declare class maps, render them with @ui. |
+| 2026-10-07 17:13:47 | [jeffersongoncalves/filament-saml2](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-saml2) | 3.0.0 | Jefferson Gonçalves | Filament 5 plugin for SAML2 single sign-on with multi-tenant Identity Providers… |
 
 ## Data source
 

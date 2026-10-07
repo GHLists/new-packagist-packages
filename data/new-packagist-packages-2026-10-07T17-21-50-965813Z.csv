@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-07T17:01:26Z,adeguntoro/j2fakit,v1.0.0,adeguntoro,"2FA gate package: by default every route requires login+2FA, whitelist via config/path/exempt, safe JSON 401/403 for API/XHR."
+2026-10-07T17:01:40Z,malevich/malevich,1.0.0,chipslays,"Variant-driven Blade components: declare class maps, render them with @ui."
+2026-10-07T17:13:47Z,jeffersongoncalves/filament-saml2,3.0.0,Jefferson Gonçalves,"Filament 5 plugin for SAML2 single sign-on with multi-tenant Identity Providers, powered by jeffersongoncalves/laravel-saml2."
