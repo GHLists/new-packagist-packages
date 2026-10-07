@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 01:18 UTC
+## Latest list — 2026-10-07 02:22 UTC
 
-New packages created between 2026-10-07 00:19 UTC and 2026-10-07 01:18 UTC.
+New packages created between 2026-10-07 01:18 UTC and 2026-10-07 02:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T01-18-45-45434Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T02-22-41-676109Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 00:19:50 | [jeffersongoncalves/filament-mail-editor](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-mail-editor) | 1.0.0 |  | Visual email template builder for Filament v3 with drag-and-drop blocks, live p… |
+| 2026-10-07 01:27:59 | [alleyinteractive/wp-openapi-generator](https://www.nuget.org/packages/alleyinteractive%2Fwp-openapi-generator) | v0.1.0 | Sean Fisher | Generate an OpenAPI document for the WordPress REST API and browse it with Swag… |
 
 ## Data source
 
