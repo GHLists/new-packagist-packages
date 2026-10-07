@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-07T11:47:01Z,ak279642/laravel-infrastructure,v1.1.0,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."
+2026-10-07T11:53:55Z,cyllene-digital/sylius-advanced-taxon-plugin,v1.0.0,Cyllene,"Turns Sylius taxons into merchandising pages: branding, featured content, media zones, universe pages, advanced filters, conditional taxons and a mega menu."
+2026-10-07T12:03:38Z,kareylo/laravel-entity-routing,v0.1.0,Kareylo,"Entity routing for Laravel: fill every route placeholder from a single model, array or object."
+2026-10-07T12:11:36Z,wexample/symfony-charts-demo,1.0.1,,
+2026-10-07T12:12:19Z,wexample/symfony-charts-ds,1.0.1,,
+2026-10-07T12:15:25Z,kefyusuf/laravel-guarded-tools,v0.1.0,Yusuf Kef,"Guarded tools and assurance tests for Laravel AI agents: workspace isolation, honest failures and evidence on every tool call."
