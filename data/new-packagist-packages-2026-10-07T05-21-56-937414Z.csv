@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-07T04:31:59Z,patterns/filesystem,v1.0.0,,"Filesystem pattern - the seven operations every storage backend can honour, plus an opt-in capability for the ones that can describe a path."

@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 04:20 UTC
+## Latest list — 2026-10-07 05:21 UTC
 
-New packages created between 2026-10-07 03:21 UTC and 2026-10-07 04:20 UTC.
+New packages created between 2026-10-07 04:20 UTC and 2026-10-07 05:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T04-20-31-112952Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T05-21-56-937414Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 03:47:03 | [cloud-castle/click-house](https://www.nuget.org/packages/cloud-castle%2Fclick-house) | v0.1.0 | CloudCastle | Production-ready PHP 8.1+ package (CloudCastle ClickHouse). |
-| 2026-10-07 03:49:32 | [kipchak/middleware-auth-hmac](https://www.nuget.org/packages/kipchak%2Fmiddleware-auth-hmac) | 1.1 |  | The Official HMAC Request Signing Middleware for the Kipchak API Development Ki… |
-| 2026-10-07 03:53:38 | [adeguntoro/j2fakit](https://www.nuget.org/packages/adeguntoro%2Fj2fakit) | v1.0.0 | adeguntoro | 2FA gate package: by default every route requires login+2FA, whitelist via conf… |
+| 2026-10-07 04:31:59 | [patterns/filesystem](https://www.nuget.org/packages/patterns%2Ffilesystem) | v1.0.0 |  | Filesystem pattern - the seven operations every storage backend can honour, plu… |
 
 ## Data source
 
