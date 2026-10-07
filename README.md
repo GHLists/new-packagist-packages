@@ -15,25 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 06:22 UTC
+## Latest list — 2026-10-07 07:20 UTC
 
-New packages created between 2026-10-07 05:21 UTC and 2026-10-07 06:22 UTC.
+New packages created between 2026-10-07 06:22 UTC and 2026-10-07 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T06-22-21-216177Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T07-20-52-767359Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 05:36:15 | [mage2kishan/module-search-autocomplete](https://www.nuget.org/packages/mage2kishan%2Fmodule-search-autocomplete) | 1.1.7 | Kishan Savaliya | Engine-agnostic, bot-hardened, cached search autocomplete for Magento 2 and Hyv… |
-| 2026-10-07 05:40:02 | [mage2kishan/module-checkout-extended](https://www.nuget.org/packages/mage2kishan%2Fmodule-checkout-extended) | 1.1.10 | Kishan Savaliya | Enhanced one-page checkout for Magento 2 with configurable multi-column layouts… |
-| 2026-10-07 05:43:29 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.17 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
-| 2026-10-07 05:46:27 | [medigital-dev/excel-handler](https://www.nuget.org/packages/medigital-dev%2Fexcel-handler) | v1.0.0 | Muhammad Said Latif Ghofari | Library untuk menulis dan membaca excel |
-| 2026-10-07 05:47:02 | [mage2kishan/module-sale-filter](https://www.nuget.org/packages/mage2kishan%2Fmodule-sale-filter) | 1.1.6 | Kishan Savaliya | Panth Sale Filter — "On Sale" layered navigation filter for Magento 2, backed b… |
-| 2026-10-07 05:49:32 | [bfocus/monitor](https://www.nuget.org/packages/bfocus%2Fmonitor) | v0.1.0 | Berni Software | Monitoramento de erros do bFocus para PHP: captura os erros não tratados e mand… |
-| 2026-10-07 05:50:02 | [cipi/sdk](https://www.nuget.org/packages/cipi%2Fsdk) | 1.0 |  | PHP SDK for the Cipi panel API. Call every cipi.sh REST endpoint from PHP, Lara… |
-| 2026-10-07 05:51:02 | [mage2kishan/module-mega-menu](https://www.nuget.org/packages/mage2kishan%2Fmodule-mega-menu) | 1.0.22 | Kishan Savaliya | Advanced mega menu for Magento 2 — works on Hyva and Luma. Drag-and-drop tree b… |
-| 2026-10-07 05:56:55 | [mage2kishan/module-advanced-seo](https://www.nuget.org/packages/mage2kishan%2Fmodule-advanced-seo) | 1.8.10 | Kishan Savaliya | Panth Advanced SEO — enterprise-grade SEO suite for Magento 2: SEO dashboard, m… |
-| 2026-10-07 06:01:06 | [mage2kishan/module-product-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-attachments) | 1.1.8 |  | Product Attachments module for Magento 2 - attach files, links, and documents t… |
-| 2026-10-07 06:04:30 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.19 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
+| 2026-10-07 06:28:50 | [mathsgod/light-oauth2](https://www.nuget.org/packages/mathsgod%2Flight-oauth2) | v1.0.0 |  | OAuth 2.0 integration for the Light framework |
+| 2026-10-07 06:40:09 | [dolismartmaker/dolinews-client](https://www.nuget.org/packages/dolismartmaker%2Fdolinews-client) | v1.0.0 |  | Command line client to submit Dolibarr module announcements and project sheets… |
+| 2026-10-07 06:48:41 | [mage2kishan/module-quickview](https://www.nuget.org/packages/mage2kishan%2Fmodule-quickview) | 1.0.22 | Kishan Savaliya | Smart Quick View & Compare module for Magento 2 with Hyva theme support. Featur… |
+| 2026-10-07 06:52:42 | [mage2kishan/module-eu-withdrawal](https://www.nuget.org/packages/mage2kishan%2Fmodule-eu-withdrawal) | 1.1.12 | Kishan Savaliya | Panth EU Withdrawal Button - a clear, accessible digital withdrawal (cancellati… |
+| 2026-10-07 06:56:23 | [mage2kishan/module-html-sitemap](https://www.nuget.org/packages/mage2kishan%2Fmodule-html-sitemap) | 1.0.19 |  | Theme-agnostic HTML sitemap page for Magento 2 (Hyva + Luma). Renders categorie… |
+| 2026-10-07 07:00:01 | [mage2kishan/module-producttabs](https://www.nuget.org/packages/mage2kishan%2Fmodule-producttabs) | 1.1.8 | Kishan Savaliya | Product detail page tab customization for Magento 2. Supports horizontal/vertic… |
+| 2026-10-07 07:03:42 | [mage2kishan/module-productgallery](https://www.nuget.org/packages/mage2kishan%2Fmodule-productgallery) | 1.0.16 | Kishan Savaliya | Custom product image gallery for Magento 2 product detail pages. Features confi… |
+| 2026-10-07 07:08:01 | [mage2kishan/module-product-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-attachments) | 1.1.9 |  | Product Attachments module for Magento 2 - attach files, links, and documents t… |
+| 2026-10-07 07:18:07 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.18 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
 
 ## Data source
 
