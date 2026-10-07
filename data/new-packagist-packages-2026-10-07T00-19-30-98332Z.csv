@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-06T23:28:18Z,laravel-tipi/support,v1.0.0,Irakli,Shared support utilities for Laravel Tipi packages
+2026-10-06T23:28:20Z,laravel-tipi/filament-support,v1.0.2,Irakli,Shared Filament support utilities for Laravel Tipi packages
+2026-10-06T23:34:06Z,monsieurbiz/healthcheck-bundle,v1.0.0,,Symfony bundle providing a /healthcheck endpoint running tagged DoCheckInterface checks.
+2026-10-07T00:12:19Z,laravel-tipi/filament-translations,v0.1.0,Irakli,Filament integration for laravel-tipi/translations
