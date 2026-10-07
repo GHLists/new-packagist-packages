@@ -15,22 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 13:20 UTC
+## Latest list — 2026-10-07 14:19 UTC
 
-New packages created between 2026-10-07 12:18 UTC and 2026-10-07 13:20 UTC.
+New packages created between 2026-10-07 13:20 UTC and 2026-10-07 14:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T13-20-57-951616Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T14-19-21-332539Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 12:29:34 | [citomni/upload](https://www.nuget.org/packages/citomni%2Fupload) | v1.0.0.0 | Lars Grove Mortensen | File intake and storage for CitOmni apps: validated uploads, local public/priva… |
-| 2026-10-07 12:44:04 | [omega-mvc/framework](https://www.nuget.org/packages/omega-mvc%2Fframework) | 1.0.0 | Adriano Giovannini | OmegaFramework is a lightweight and modular PHP framework designed for building… |
-| 2026-10-07 12:48:11 | [xddesigners/silverstripe-better-forms](https://www.nuget.org/packages/xddesigners%2Fsilverstripe-better-forms) | 1.0.0 | Remy Vaartjes | Nicer CMS forms: a Bootstrap grid layout field, help tooltips after labels, and… |
-| 2026-10-07 12:57:11 | [andydefer/php-locationiq](https://www.nuget.org/packages/andydefer%2Fphp-locationiq) | v0.1.0 | Andy Kani | PHP SDK for LocationIQ and Nominatim APIs: balance, timezone, directions, and r… |
-| 2026-10-07 13:00:12 | [wexample/symfony-activity](https://www.nuget.org/packages/wexample%2Fsymfony-activity) | 1.0.1 |  |  |
-| 2026-10-07 13:03:22 | [wexample/symfony-activity-ds](https://www.nuget.org/packages/wexample%2Fsymfony-activity-ds) | 1.0.1 |  |  |
-| 2026-10-07 13:07:18 | [abdulkadiragoliya/asset-guardian](https://www.nuget.org/packages/abdulkadiragoliya%2Fasset-guardian) | 1.0.0 | Abdulkadir Agoliya | Asset Health & Safe Cleanup for Craft CMS. Know what's safe to review before yo… |
-| 2026-10-07 13:12:39 | [khaledabdalbasit/launchpoint](https://www.nuget.org/packages/khaledabdalbasit%2Flaunchpoint) | v1.0.6 |  | Laravel Starter Kit for API |
+| 2026-10-07 13:38:55 | [chirpstack/chirpstack-api](https://www.nuget.org/packages/chirpstack%2Fchirpstack-api) | 4.19.2 |  | Chirpstack PHP API |
+| 2026-10-07 13:40:58 | [cloud-castle/ocr](https://www.nuget.org/packages/cloud-castle%2Focr) | v0.1.0 | CloudCastle | Production-ready PHP 8.1+ package (CloudCastle OCR). |
+| 2026-10-07 13:46:50 | [sympress/base-mu-plugin](https://www.nuget.org/packages/sympress%2Fbase-mu-plugin) | v1.0.0 |  | Shared WordPress must-use bootstrap and development utilities for SymPress webs… |
+| 2026-10-07 13:56:04 | [achedon12/golem](https://www.nuget.org/packages/achedon12%2Fgolem) | v0 |  |  |
+| 2026-10-07 13:57:32 | [ai-soft/laravel-scheduled-sequence](https://www.nuget.org/packages/ai-soft%2Flaravel-scheduled-sequence) | v0.1.0 | Goran Savkic | Persistent, state-aware scheduling sequences with irregular timing for Laravel… |
+| 2026-10-07 13:57:39 | [andydefer/laravel-locationiq](https://www.nuget.org/packages/andydefer%2Flaravel-locationiq) | v0.1.0 | andydefer | Laravel SDK for integrating LocationIQ and Nominatim geospatial services (balan… |
+| 2026-10-07 14:04:30 | [ontec/discrete-window-throttling](https://www.nuget.org/packages/ontec%2Fdiscrete-window-throttling) | v0.1.0 | EligiusSantori | Strict rate limiter with reasonable speed and memory usage for Redis 7+. |
+| 2026-10-07 14:06:53 | [omega-mvc/gettext](https://www.nuget.org/packages/omega-mvc%2Fgettext) | 1.0.0 | Adriano Giovannini | GNU gettext-based localization and translation support for the Omega ecosystem,… |
+| 2026-10-07 14:12:28 | [jeffersongoncalves/laravel-saml2](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-saml2) | v1.0.0 | Jefferson Gonçalves | Multi-tenant SAML2 Service Provider for Laravel. Connect any number of Identity… |
 
 ## Data source
 
