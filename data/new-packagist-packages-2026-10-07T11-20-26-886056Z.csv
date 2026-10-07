@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-07T10:21:39Z,ferrox/ferrox-php-auth,v1.1.0,,Ferrox PHP Auth module
+2026-10-07T10:21:39Z,ferrox/ferrox-php-broadcasting,v1.1.0,,Ferrox PHP Broadcasting module
+2026-10-07T10:21:39Z,ferrox/ferrox-php-cli,v1.1.0,,Ferrox PHP Cli module
+2026-10-07T10:47:53Z,peter9x/laravel-mail-listeners,v0.0.2,Peter,"Read mailboxes (Microsoft Graph, IMAP) and turn every new email into Laravel events handled by queued listeners"
+2026-10-07T11:04:51Z,arout/rhapsody-forms,v1.0.2,,"Forms for Rhapsody: code-defined forms, spam protection, a submissions inbox and email notifications."
+2026-10-07T11:06:15Z,kipchak/identity,1.0,,"Consumer and tenant identity for the Kipchak API Development Kit (ADK): who a request is from, read from API keys, verified tokens, request attributes or headers, defined once and shared by metering and quotas."

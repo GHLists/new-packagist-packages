@@ -15,25 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 10:21 UTC
+## Latest list — 2026-10-07 11:20 UTC
 
-New packages created between 2026-10-07 09:21 UTC and 2026-10-07 10:21 UTC.
+New packages created between 2026-10-07 10:21 UTC and 2026-10-07 11:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T10-21-06-736765Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T11-20-26-886056Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 09:53:24 | [vadage/presigned-uploader-bundle](https://www.nuget.org/packages/vadage%2Fpresigned-uploader-bundle) | v0.1.0 | vadage | Presigned direct-to-storage uploads for Symfony, with entity mapping, validatio… |
-| 2026-10-07 09:56:37 | [anis-ly/partners](https://www.nuget.org/packages/anis-ly%2Fpartners) | v1.1.0 | Aniscom for Technical Service… | The PHP SDK for the Anis Partner API — signed requests, verified responses, typ… |
-| 2026-10-07 09:58:18 | [iperstudio/site-sync](https://www.nuget.org/packages/iperstudio%2Fsite-sync) | v0.2.0 |  | Interactive rsync CLI for synchronizing project content and accounts over SSH. |
-| 2026-10-07 10:01:30 | [offline-agency/spid-laravel-trentino](https://www.nuget.org/packages/offline-agency%2Fspid-laravel-trentino) | v2.0.0 | Offline Agency | SPID authentication for Laravel through AAC Trentino (OpenID Connect with PKCE) |
-| 2026-10-07 10:01:52 | [ferrox/ferrox-php-config](https://www.nuget.org/packages/ferrox%2Fferrox-php-config) | v1.1.0 |  | Strongly-typed environment loader for Ferrox PHP |
-| 2026-10-07 10:01:52 | [ferrox/ferrox-php-core](https://www.nuget.org/packages/ferrox%2Fferrox-php-core) | v1.1.0 |  | Core DI and Bootstrap for Ferrox PHP |
-| 2026-10-07 10:01:52 | [ferrox/ferrox-php-cqrs](https://www.nuget.org/packages/ferrox%2Fferrox-php-cqrs) | v1.1.0 |  | CQRS CommandBus & QueryBus for Ferrox PHP |
-| 2026-10-07 10:01:52 | [ferrox/ferrox-php-crud-gen](https://www.nuget.org/packages/ferrox%2Fferrox-php-crud-gen) | v1.1.0 |  | Metaprogramming and Attribute-based CRUD generation for Ferrox PHP |
-| 2026-10-07 10:01:52 | [ferrox/ferrox-php-data](https://www.nuget.org/packages/ferrox%2Fferrox-php-data) | v1.1.0 |  | Singleflight and Persistence for Ferrox PHP |
-| 2026-10-07 10:01:52 | [ferrox/ferrox-php-database-core](https://www.nuget.org/packages/ferrox%2Fferrox-php-database-core) | v1.1.0 |  | Abstract Repository trait and generic persistence contracts for Ferrox PHP |
-| 2026-10-07 10:01:52 | [ferrox/ferrox-php-events](https://www.nuget.org/packages/ferrox%2Fferrox-php-events) | v1.1.0 |  | Strongly-typed DomainEvent dispatcher and Pub/Sub bus for Ferrox PHP |
+| 2026-10-07 10:21:39 | [ferrox/ferrox-php-auth](https://www.nuget.org/packages/ferrox%2Fferrox-php-auth) | v1.1.0 |  | Ferrox PHP Auth module |
+| 2026-10-07 10:21:39 | [ferrox/ferrox-php-broadcasting](https://www.nuget.org/packages/ferrox%2Fferrox-php-broadcasting) | v1.1.0 |  | Ferrox PHP Broadcasting module |
+| 2026-10-07 10:21:39 | [ferrox/ferrox-php-cli](https://www.nuget.org/packages/ferrox%2Fferrox-php-cli) | v1.1.0 |  | Ferrox PHP Cli module |
+| 2026-10-07 10:47:53 | [peter9x/laravel-mail-listeners](https://www.nuget.org/packages/peter9x%2Flaravel-mail-listeners) | v0.0.2 | Peter | Read mailboxes (Microsoft Graph, IMAP) and turn every new email into Laravel ev… |
+| 2026-10-07 11:04:51 | [arout/rhapsody-forms](https://www.nuget.org/packages/arout%2Frhapsody-forms) | v1.0.2 |  | Forms for Rhapsody: code-defined forms, spam protection, a submissions inbox an… |
+| 2026-10-07 11:06:15 | [kipchak/identity](https://www.nuget.org/packages/kipchak%2Fidentity) | 1.0 |  | Consumer and tenant identity for the Kipchak API Development Kit (ADK): who a r… |
 
 ## Data source
 
