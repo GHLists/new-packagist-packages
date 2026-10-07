@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 22:21 UTC
+## Latest list — 2026-10-07 23:20 UTC
 
-New packages created between 2026-10-07 21:19 UTC and 2026-10-07 22:21 UTC.
+New packages created between 2026-10-07 22:21 UTC and 2026-10-07 23:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T22-21-49-70477Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T23-20-06-16127Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 21:21:19 | [larasell-dev/chronicle](https://www.nuget.org/packages/larasell-dev%2Fchronicle) | 0.1.0 |  | Simple structured request logging for Laravel. |
-| 2026-10-07 21:40:32 | [laravel-tipi/filament-localization](https://www.nuget.org/packages/laravel-tipi%2Ffilament-localization) | v0.1.0 | Irakli | Filament integration for laravel-tipi/localization |
+| 2026-10-07 22:46:16 | [soft-tech-mx/laravel-made](https://www.nuget.org/packages/soft-tech-mx%2Flaravel-made) | v1.0.2 | Bayron Vazquez | Conjunto base de dependencias y configuración inicial que SoftTechMX usa en tod… |
 
 ## Data source
 
