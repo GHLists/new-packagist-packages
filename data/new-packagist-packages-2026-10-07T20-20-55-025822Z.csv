@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-07T19:47:31Z,hydrakit/image,v0.31.0,William Hleucka,"Image variants for Hydra: a picture resized to the widths a page needs, as WebP, upright and without metadata."

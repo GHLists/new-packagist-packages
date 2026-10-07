@@ -15,19 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 19:20 UTC
+## Latest list — 2026-10-07 20:20 UTC
 
-New packages created between 2026-10-07 18:21 UTC and 2026-10-07 19:20 UTC.
+New packages created between 2026-10-07 19:20 UTC and 2026-10-07 20:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T19-20-53-160319Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T20-20-55-025822Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 18:22:37 | [larasell-dev/cushion](https://www.nuget.org/packages/larasell-dev%2Fcushion) | 0.1.1 |  | Form draft persistence for Laravel: server-backed auto-save for Inertia forms. |
-| 2026-10-07 18:39:04 | [iamtime/uzpay](https://www.nuget.org/packages/iamtime%2Fuzpay) | v0.1.0 |  | Payme, Click, Uzum, Paynet and Octo (Visa, Mastercard) for Uzbekistan shops: me… |
-| 2026-10-07 18:49:10 | [emerson-pombo/idempotency-linter](https://www.nuget.org/packages/emerson-pombo%2Fidempotency-linter) | v0.1.0 | Emerson Pombo | Analisador estático que identifica jobs de fila Laravel sem proteção contra ree… |
-| 2026-10-07 18:56:13 | [jauhar/captcha-generator](https://www.nuget.org/packages/jauhar%2Fcaptcha-generator) | v1.0 | jauharimtikhan | Captcha Generator PHP |
-| 2026-10-07 19:07:30 | [rafalmasiarek/captcha](https://www.nuget.org/packages/rafalmasiarek%2Fcaptcha) | v1.0.0 |  | Universal CAPTCHA verification for PHP: Google reCAPTCHA (v2/v3), Cloudflare Tu… |
+| 2026-10-07 19:47:31 | [hydrakit/image](https://www.nuget.org/packages/hydrakit%2Fimage) | v0.31.0 | William Hleucka | Image variants for Hydra: a picture resized to the widths a page needs, as WebP… |
 
 ## Data source
 
