@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-07T15:21:20Z,ramir1/laravel-planner,v0.1.0,Vadim Trofimov,"Database-backed planner of one-off deferred tasks for Laravel: schedule a task for a given time, group, cancel and inspect it."
+2026-10-07T15:26:26Z,wexample/symfony-dev-ds,2.0.0,weeger,Design-system side of symfony-dev: the development menu entry reloading the demonstration data
+2026-10-07T15:28:48Z,alphabalex/payment-made-easy,v1.0.0,Balogun Abdulquddus,"A Laravel package for handling payments with multiple gateways (Paystack, Flutterwave, Stripe, Seerbit, etc.)"
+2026-10-07T15:46:20Z,skeeks/cms-mobile,0.1.1,,Интеграция SkeekS CMS с мобильными приложениями: устройства и push-уведомления
+2026-10-07T15:50:09Z,wasil/integrations,0.1.0,,Server-side PHP SDK for Wasil delivery integrations

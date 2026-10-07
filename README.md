@@ -15,21 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 15:19 UTC
+## Latest list — 2026-10-07 16:23 UTC
 
-New packages created between 2026-10-07 14:19 UTC and 2026-10-07 15:19 UTC.
+New packages created between 2026-10-07 15:19 UTC and 2026-10-07 16:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T15-19-32-096986Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T16-23-18-48853Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 14:25:49 | [folklore/laravel-image](https://www.nuget.org/packages/folklore%2Flaravel-image) | v1.1.0 | Folklore; David Mongeau-Petit… | URL-based image manipulation for Laravel, built on Imagine |
-| 2026-10-07 14:45:31 | [jothamlec/laravel-offsite-backup](https://www.nuget.org/packages/jothamlec%2Flaravel-offsite-backup) | v0.1.0 | Jotham Lim | A Deployer recipe and hardened preset for spatie/laravel-backup, with pre-fligh… |
-| 2026-10-07 14:45:54 | [brewless/cli](https://www.nuget.org/packages/brewless%2Fcli) | v0.1.1 | Coding Agency | The command line client of Brewless: sign in, connect a project and deploy it t… |
-| 2026-10-07 14:45:58 | [brewless/laravel](https://www.nuget.org/packages/brewless%2Flaravel) | v0.1.0 | Coding Agency | What a Laravel application needs to run on Brewless: the release, schedule and… |
-| 2026-10-07 14:57:05 | [atwx/silverstripe-htmlfield-cleaner](https://www.nuget.org/packages/atwx%2Fsilverstripe-htmlfield-cleaner) | v6.2.0 |  | Cleans HTML fields (tags, attributes, inline styles) of DataObjects before writ… |
-| 2026-10-07 15:01:29 | [rmb32/kevin](https://www.nuget.org/packages/rmb32%2Fkevin) | v1.0.0 | Roger Barnfather | An easy bulk filesystem manipulation utility for your PHP files — find files, r… |
-| 2026-10-07 15:02:55 | [collection/collection](https://www.nuget.org/packages/collection%2Fcollection) | 1.0.0 | chipslays | Laravel-compatible PHP collection with dot-notation and wildcard paths in every… |
+| 2026-10-07 15:21:20 | [ramir1/laravel-planner](https://www.nuget.org/packages/ramir1%2Flaravel-planner) | v0.1.0 | Vadim Trofimov | Database-backed planner of one-off deferred tasks for Laravel: schedule a task… |
+| 2026-10-07 15:26:26 | [wexample/symfony-dev-ds](https://www.nuget.org/packages/wexample%2Fsymfony-dev-ds) | 2.0.0 | weeger | Design-system side of symfony-dev: the development menu entry reloading the dem… |
+| 2026-10-07 15:28:48 | [alphabalex/payment-made-easy](https://www.nuget.org/packages/alphabalex%2Fpayment-made-easy) | v1.0.0 | Balogun Abdulquddus | A Laravel package for handling payments with multiple gateways (Paystack, Flutt… |
+| 2026-10-07 15:46:20 | [skeeks/cms-mobile](https://www.nuget.org/packages/skeeks%2Fcms-mobile) | 0.1.1 |  | Интеграция SkeekS CMS с мобильными приложениями: устройства и push-уведомления |
+| 2026-10-07 15:50:09 | [wasil/integrations](https://www.nuget.org/packages/wasil%2Fintegrations) | 0.1.0 |  | Server-side PHP SDK for Wasil delivery integrations |
 
 ## Data source
 
