@@ -15,20 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 08:20 UTC
+## Latest list — 2026-10-07 09:21 UTC
 
-New packages created between 2026-10-07 07:20 UTC and 2026-10-07 08:20 UTC.
+New packages created between 2026-10-07 08:20 UTC and 2026-10-07 09:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T08-20-00-780059Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T09-21-05-22015Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 07:22:53 | [derrickob/laravel-nuxt-shadcn](https://www.nuget.org/packages/derrickob%2Flaravel-nuxt-shadcn) | v0.1.1 | Derrick Obedgiu | A Laravel starter kit with Vue, Inertia and Nuxt UI. |
-| 2026-10-07 07:25:43 | [useyona/einvoice-php](https://www.nuget.org/packages/useyona%2Feinvoice-php) | v0.1.0 | Yona | Official PHP SDK for the Yona e-invoicing API — what an API key may call: invoi… |
-| 2026-10-07 07:28:20 | [mage2kishan/module-checkout-extended](https://www.nuget.org/packages/mage2kishan%2Fmodule-checkout-extended) | 1.1.11 | Kishan Savaliya | Enhanced one-page checkout for Magento 2 with configurable multi-column layouts… |
-| 2026-10-07 08:05:07 | [mage2kishan/module-product-attachments](https://www.nuget.org/packages/mage2kishan%2Fmodule-product-attachments) | 1.1.10 |  | Product Attachments module for Magento 2 - attach files, links, and documents t… |
-| 2026-10-07 08:08:49 | [mage2kishan/module-theme-customizer](https://www.nuget.org/packages/mage2kishan%2Fmodule-theme-customizer) | 1.1.19 |  | Hyva Theme Customizer - Backend-driven theme configuration with CSS custom prop… |
-| 2026-10-07 08:12:30 | [mage2kishan/theme-frontend-panth-infotech](https://www.nuget.org/packages/mage2kishan%2Ftheme-frontend-panth-infotech) | 1.0.20 | Kishan Savaliya | Hyva child theme Panth/Infotech for Magento 2, based on the Hyva/default parent… |
+| 2026-10-07 08:44:01 | [abdulwahhabkhan/laravel-react-starter-kit](https://www.nuget.org/packages/abdulwahhabkhan%2Flaravel-react-starter-kit) | v0.0.2 |  | Laravel React starter kit with opinionated configuration. |
+| 2026-10-07 08:44:42 | [wazum/fluid-blocks](https://www.nuget.org/packages/wazum%2Ffluid-blocks) | 1.0.0 | Wolfgang Klinger | Send HTML from content element and plugin templates to named slots in the page… |
+| 2026-10-07 08:52:29 | [osd84/aurox](https://www.nuget.org/packages/osd84%2Faurox) | 1.0.0 | osd84.fr | Lib for build web app |
+| 2026-10-07 09:02:29 | [peppol-sh/sdk](https://www.nuget.org/packages/peppol-sh%2Fsdk) | v0.1.0 |  | Official PHP SDK for the peppol.sh Peppol API: Peppol e-invoicing (UBL, EN 1693… |
+| 2026-10-07 09:08:40 | [msahidurr/laravel-error-notifier](https://www.nuget.org/packages/msahidurr%2Flaravel-error-notifier) | v1.0.0 | msahidurr | Send Laravel exception reports to Telegram and other channels. |
+| 2026-10-07 09:15:03 | [gecka/spamfilter](https://www.nuget.org/packages/gecka%2Fspamfilter) | v1.0.0 | Laurent Dinclaux | Statistical spam filter for short user-submitted texts (contact forms, comments… |
+| 2026-10-07 09:15:09 | [byte8/module-migration-forecast](https://www.nuget.org/packages/byte8%2Fmodule-migration-forecast) | 0.1.0 | Byte8 Ltd | Forecast what setup:upgrade will do to your Magento 2 database before you run i… |
 
 ## Data source
 

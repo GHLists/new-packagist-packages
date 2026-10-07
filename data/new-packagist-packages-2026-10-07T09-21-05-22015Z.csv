@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-07T08:44:01Z,abdulwahhabkhan/laravel-react-starter-kit,v0.0.2,,Laravel React starter kit with opinionated configuration.
+2026-10-07T08:44:42Z,wazum/fluid-blocks,1.0.0,Wolfgang Klinger,"Send HTML from content element and plugin templates to named slots in the page template, in any render order"
+2026-10-07T08:52:29Z,osd84/aurox,1.0.0,osd84.fr,Lib for build web app
+2026-10-07T09:02:29Z,peppol-sh/sdk,v0.1.0,,"Official PHP SDK for the peppol.sh Peppol API: Peppol e-invoicing (UBL, EN 16931) for PHP and Laravel."
+2026-10-07T09:08:40Z,msahidurr/laravel-error-notifier,v1.0.0,msahidurr,Send Laravel exception reports to Telegram and other channels.
+2026-10-07T09:15:03Z,gecka/spamfilter,v1.0.0,Laurent Dinclaux,"Statistical spam filter for short user-submitted texts (contact forms, comments), pure PHP"
+2026-10-07T09:15:09Z,byte8/module-migration-forecast,0.1.0,Byte8 Ltd,Forecast what setup:upgrade will do to your Magento 2 database before you run it — pending DDL classified against MySQL's online-DDL matrix and costed by live row counts.
