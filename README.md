@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 21:19 UTC
+## Latest list — 2026-10-07 22:21 UTC
 
-New packages created between 2026-10-07 20:20 UTC and 2026-10-07 21:19 UTC.
+New packages created between 2026-10-07 21:19 UTC and 2026-10-07 22:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T21-19-13-451494Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T22-21-49-70477Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 20:43:14 | [ephraitech/ci4-auth](https://www.nuget.org/packages/ephraitech%2Fci4-auth) | v0.9.0 | Ephraitech Unified Solutions | DB-backed authentication (session + opaque token) and role/permission authoriza… |
-| 2026-10-07 20:56:21 | [tsara/tsara-php](https://www.nuget.org/packages/tsara%2Ftsara-php) | v0.1.0 |  | Official server-side PHP SDK for Tsara. |
-| 2026-10-07 21:04:30 | [azymuthia/turnstile-bundle](https://www.nuget.org/packages/azymuthia%2Fturnstile-bundle) | v0.1.0 | Bartosz Piotr Pazoła | Strict Cloudflare Turnstile verification for Symfony firewalls and forms, refus… |
+| 2026-10-07 21:21:19 | [larasell-dev/chronicle](https://www.nuget.org/packages/larasell-dev%2Fchronicle) | 0.1.0 |  | Simple structured request logging for Laravel. |
+| 2026-10-07 21:40:32 | [laravel-tipi/filament-localization](https://www.nuget.org/packages/laravel-tipi%2Ffilament-localization) | v0.1.0 | Irakli | Filament integration for laravel-tipi/localization |
 
 ## Data source
 

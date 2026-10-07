@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-07T21:21:19Z,larasell-dev/chronicle,0.1.0,,Simple structured request logging for Laravel.
+2026-10-07T21:40:32Z,laravel-tipi/filament-localization,v0.1.0,Irakli,Filament integration for laravel-tipi/localization
