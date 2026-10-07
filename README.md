@@ -15,21 +15,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 09:21 UTC
+## Latest list — 2026-10-07 10:21 UTC
 
-New packages created between 2026-10-07 08:20 UTC and 2026-10-07 09:21 UTC.
+New packages created between 2026-10-07 09:21 UTC and 2026-10-07 10:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T09-21-05-22015Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T10-21-06-736765Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 08:44:01 | [abdulwahhabkhan/laravel-react-starter-kit](https://www.nuget.org/packages/abdulwahhabkhan%2Flaravel-react-starter-kit) | v0.0.2 |  | Laravel React starter kit with opinionated configuration. |
-| 2026-10-07 08:44:42 | [wazum/fluid-blocks](https://www.nuget.org/packages/wazum%2Ffluid-blocks) | 1.0.0 | Wolfgang Klinger | Send HTML from content element and plugin templates to named slots in the page… |
-| 2026-10-07 08:52:29 | [osd84/aurox](https://www.nuget.org/packages/osd84%2Faurox) | 1.0.0 | osd84.fr | Lib for build web app |
-| 2026-10-07 09:02:29 | [peppol-sh/sdk](https://www.nuget.org/packages/peppol-sh%2Fsdk) | v0.1.0 |  | Official PHP SDK for the peppol.sh Peppol API: Peppol e-invoicing (UBL, EN 1693… |
-| 2026-10-07 09:08:40 | [msahidurr/laravel-error-notifier](https://www.nuget.org/packages/msahidurr%2Flaravel-error-notifier) | v1.0.0 | msahidurr | Send Laravel exception reports to Telegram and other channels. |
-| 2026-10-07 09:15:03 | [gecka/spamfilter](https://www.nuget.org/packages/gecka%2Fspamfilter) | v1.0.0 | Laurent Dinclaux | Statistical spam filter for short user-submitted texts (contact forms, comments… |
-| 2026-10-07 09:15:09 | [byte8/module-migration-forecast](https://www.nuget.org/packages/byte8%2Fmodule-migration-forecast) | 0.1.0 | Byte8 Ltd | Forecast what setup:upgrade will do to your Magento 2 database before you run i… |
+| 2026-10-07 09:53:24 | [vadage/presigned-uploader-bundle](https://www.nuget.org/packages/vadage%2Fpresigned-uploader-bundle) | v0.1.0 | vadage | Presigned direct-to-storage uploads for Symfony, with entity mapping, validatio… |
+| 2026-10-07 09:56:37 | [anis-ly/partners](https://www.nuget.org/packages/anis-ly%2Fpartners) | v1.1.0 | Aniscom for Technical Service… | The PHP SDK for the Anis Partner API — signed requests, verified responses, typ… |
+| 2026-10-07 09:58:18 | [iperstudio/site-sync](https://www.nuget.org/packages/iperstudio%2Fsite-sync) | v0.2.0 |  | Interactive rsync CLI for synchronizing project content and accounts over SSH. |
+| 2026-10-07 10:01:30 | [offline-agency/spid-laravel-trentino](https://www.nuget.org/packages/offline-agency%2Fspid-laravel-trentino) | v2.0.0 | Offline Agency | SPID authentication for Laravel through AAC Trentino (OpenID Connect with PKCE) |
+| 2026-10-07 10:01:52 | [ferrox/ferrox-php-config](https://www.nuget.org/packages/ferrox%2Fferrox-php-config) | v1.1.0 |  | Strongly-typed environment loader for Ferrox PHP |
+| 2026-10-07 10:01:52 | [ferrox/ferrox-php-core](https://www.nuget.org/packages/ferrox%2Fferrox-php-core) | v1.1.0 |  | Core DI and Bootstrap for Ferrox PHP |
+| 2026-10-07 10:01:52 | [ferrox/ferrox-php-cqrs](https://www.nuget.org/packages/ferrox%2Fferrox-php-cqrs) | v1.1.0 |  | CQRS CommandBus & QueryBus for Ferrox PHP |
+| 2026-10-07 10:01:52 | [ferrox/ferrox-php-crud-gen](https://www.nuget.org/packages/ferrox%2Fferrox-php-crud-gen) | v1.1.0 |  | Metaprogramming and Attribute-based CRUD generation for Ferrox PHP |
+| 2026-10-07 10:01:52 | [ferrox/ferrox-php-data](https://www.nuget.org/packages/ferrox%2Fferrox-php-data) | v1.1.0 |  | Singleflight and Persistence for Ferrox PHP |
+| 2026-10-07 10:01:52 | [ferrox/ferrox-php-database-core](https://www.nuget.org/packages/ferrox%2Fferrox-php-database-core) | v1.1.0 |  | Abstract Repository trait and generic persistence contracts for Ferrox PHP |
+| 2026-10-07 10:01:52 | [ferrox/ferrox-php-events](https://www.nuget.org/packages/ferrox%2Fferrox-php-events) | v1.1.0 |  | Strongly-typed DomainEvent dispatcher and Pub/Sub bus for Ferrox PHP |
 
 ## Data source
 

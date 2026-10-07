@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-10-07T09:53:24Z,vadage/presigned-uploader-bundle,v0.1.0,vadage,"Presigned direct-to-storage uploads for Symfony, with entity mapping, validation and webhooks"
+2026-10-07T09:56:37Z,anis-ly/partners,v1.1.0,Aniscom for Technical Services (Anis),"The PHP SDK for the Anis Partner API — signed requests, verified responses, typed operations."
+2026-10-07T09:58:18Z,iperstudio/site-sync,v0.2.0,,Interactive rsync CLI for synchronizing project content and accounts over SSH.
+2026-10-07T10:01:30Z,offline-agency/spid-laravel-trentino,v2.0.0,Offline Agency,SPID authentication for Laravel through AAC Trentino (OpenID Connect with PKCE)
+2026-10-07T10:01:52Z,ferrox/ferrox-php-config,v1.1.0,,Strongly-typed environment loader for Ferrox PHP
+2026-10-07T10:01:52Z,ferrox/ferrox-php-core,v1.1.0,,Core DI and Bootstrap for Ferrox PHP
+2026-10-07T10:01:52Z,ferrox/ferrox-php-cqrs,v1.1.0,,CQRS CommandBus & QueryBus for Ferrox PHP
+2026-10-07T10:01:52Z,ferrox/ferrox-php-crud-gen,v1.1.0,,Metaprogramming and Attribute-based CRUD generation for Ferrox PHP
+2026-10-07T10:01:52Z,ferrox/ferrox-php-data,v1.1.0,,Singleflight and Persistence for Ferrox PHP
+2026-10-07T10:01:52Z,ferrox/ferrox-php-database-core,v1.1.0,,Abstract Repository trait and generic persistence contracts for Ferrox PHP
+2026-10-07T10:01:52Z,ferrox/ferrox-php-events,v1.1.0,,Strongly-typed DomainEvent dispatcher and Pub/Sub bus for Ferrox PHP
