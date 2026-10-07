@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-07T12:29:34Z,citomni/upload,v1.0.0.0,Lars Grove Mortensen,"File intake and storage for CitOmni apps: validated uploads, local public/private storage, and image outputs delegated to citomni/image."
+2026-10-07T12:44:04Z,omega-mvc/framework,1.0.0,Adriano Giovannini,"OmegaFramework is a lightweight and modular PHP framework designed for building modern web applications following the MVC architecture. It is optimized for PHP 8.4+ and provides a simple, extensible foundation for rapid application development."
+2026-10-07T12:48:11Z,xddesigners/silverstripe-better-forms,1.0.0,Remy Vaartjes,"Nicer CMS forms: a Bootstrap grid layout field, help tooltips after labels, and per-field colour/outline styling."
+2026-10-07T12:57:11Z,andydefer/php-locationiq,v0.1.0,Andy Kani,"PHP SDK for LocationIQ and Nominatim APIs: balance, timezone, directions, and reverse geocoding with typed requests, responses, and data objects"
+2026-10-07T13:00:12Z,wexample/symfony-activity,1.0.1,,
+2026-10-07T13:03:22Z,wexample/symfony-activity-ds,1.0.1,,
+2026-10-07T13:07:18Z,abdulkadiragoliya/asset-guardian,1.0.0,Abdulkadir Agoliya,Asset Health & Safe Cleanup for Craft CMS. Know what's safe to review before you clean.
+2026-10-07T13:12:39Z,khaledabdalbasit/launchpoint,v1.0.6,,Laravel Starter Kit for API

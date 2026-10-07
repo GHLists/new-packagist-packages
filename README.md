@@ -15,20 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 12:18 UTC
+## Latest list — 2026-10-07 13:20 UTC
 
-New packages created between 2026-10-07 11:20 UTC and 2026-10-07 12:18 UTC.
+New packages created between 2026-10-07 12:18 UTC and 2026-10-07 13:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T12-18-56-185383Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T13-20-57-951616Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 11:47:01 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.1.0 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
-| 2026-10-07 11:53:55 | [cyllene-digital/sylius-advanced-taxon-plugin](https://www.nuget.org/packages/cyllene-digital%2Fsylius-advanced-taxon-plugin) | v1.0.0 | Cyllene | Turns Sylius taxons into merchandising pages: branding, featured content, media… |
-| 2026-10-07 12:03:38 | [kareylo/laravel-entity-routing](https://www.nuget.org/packages/kareylo%2Flaravel-entity-routing) | v0.1.0 | Kareylo | Entity routing for Laravel: fill every route placeholder from a single model, a… |
-| 2026-10-07 12:11:36 | [wexample/symfony-charts-demo](https://www.nuget.org/packages/wexample%2Fsymfony-charts-demo) | 1.0.1 |  |  |
-| 2026-10-07 12:12:19 | [wexample/symfony-charts-ds](https://www.nuget.org/packages/wexample%2Fsymfony-charts-ds) | 1.0.1 |  |  |
-| 2026-10-07 12:15:25 | [kefyusuf/laravel-guarded-tools](https://www.nuget.org/packages/kefyusuf%2Flaravel-guarded-tools) | v0.1.0 | Yusuf Kef | Guarded tools and assurance tests for Laravel AI agents: workspace isolation, h… |
+| 2026-10-07 12:29:34 | [citomni/upload](https://www.nuget.org/packages/citomni%2Fupload) | v1.0.0.0 | Lars Grove Mortensen | File intake and storage for CitOmni apps: validated uploads, local public/priva… |
+| 2026-10-07 12:44:04 | [omega-mvc/framework](https://www.nuget.org/packages/omega-mvc%2Fframework) | 1.0.0 | Adriano Giovannini | OmegaFramework is a lightweight and modular PHP framework designed for building… |
+| 2026-10-07 12:48:11 | [xddesigners/silverstripe-better-forms](https://www.nuget.org/packages/xddesigners%2Fsilverstripe-better-forms) | 1.0.0 | Remy Vaartjes | Nicer CMS forms: a Bootstrap grid layout field, help tooltips after labels, and… |
+| 2026-10-07 12:57:11 | [andydefer/php-locationiq](https://www.nuget.org/packages/andydefer%2Fphp-locationiq) | v0.1.0 | Andy Kani | PHP SDK for LocationIQ and Nominatim APIs: balance, timezone, directions, and r… |
+| 2026-10-07 13:00:12 | [wexample/symfony-activity](https://www.nuget.org/packages/wexample%2Fsymfony-activity) | 1.0.1 |  |  |
+| 2026-10-07 13:03:22 | [wexample/symfony-activity-ds](https://www.nuget.org/packages/wexample%2Fsymfony-activity-ds) | 1.0.1 |  |  |
+| 2026-10-07 13:07:18 | [abdulkadiragoliya/asset-guardian](https://www.nuget.org/packages/abdulkadiragoliya%2Fasset-guardian) | 1.0.0 | Abdulkadir Agoliya | Asset Health & Safe Cleanup for Craft CMS. Know what's safe to review before yo… |
+| 2026-10-07 13:12:39 | [khaledabdalbasit/launchpoint](https://www.nuget.org/packages/khaledabdalbasit%2Flaunchpoint) | v1.0.6 |  | Laravel Starter Kit for API |
 
 ## Data source
 
