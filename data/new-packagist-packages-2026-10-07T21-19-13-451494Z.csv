@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-07T20:43:14Z,ephraitech/ci4-auth,v0.9.0,Ephraitech Unified Solutions,"DB-backed authentication (session + opaque token) and role/permission authorization for CodeIgniter 4, with multi-tenant support."
+2026-10-07T20:56:21Z,tsara/tsara-php,v0.1.0,,Official server-side PHP SDK for Tsara.
+2026-10-07T21:04:30Z,azymuthia/turnstile-bundle,v0.1.0,Bartosz Piotr Pazoła,"Strict Cloudflare Turnstile verification for Symfony firewalls and forms, refusing whenever it cannot verify."
