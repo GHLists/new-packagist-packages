@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-07T14:25:49Z,folklore/laravel-image,v1.1.0,Folklore; David Mongeau-Petitpas,"URL-based image manipulation for Laravel, built on Imagine"
+2026-10-07T14:45:31Z,jothamlec/laravel-offsite-backup,v0.1.0,Jotham Lim,"A Deployer recipe and hardened preset for spatie/laravel-backup, with pre-flight checks and off-server restore drills."
+2026-10-07T14:45:54Z,brewless/cli,v0.1.1,Coding Agency,"The command line client of Brewless: sign in, connect a project and deploy it to your own European cloud account."
+2026-10-07T14:45:58Z,brewless/laravel,v0.1.0,Coding Agency,"What a Laravel application needs to run on Brewless: the release, schedule and queue routes its own containers answer on, and trust in the edge in front of it."
+2026-10-07T14:57:05Z,atwx/silverstripe-htmlfield-cleaner,v6.2.0,,"Cleans HTML fields (tags, attributes, inline styles) of DataObjects before writing, configurable via YAML"
+2026-10-07T15:01:29Z,rmb32/kevin,v1.0.0,Roger Barnfather,"An easy bulk filesystem manipulation utility for your PHP files — find files, rename files, replace in filenames, replace in file content, move files and directories, and correct namespaces to conform to PSR-4, all from the command line."
+2026-10-07T15:02:55Z,collection/collection,1.0.0,chipslays,Laravel-compatible PHP collection with dot-notation and wildcard paths in every method. Zero dependencies.

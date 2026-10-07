@@ -15,23 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 14:19 UTC
+## Latest list — 2026-10-07 15:19 UTC
 
-New packages created between 2026-10-07 13:20 UTC and 2026-10-07 14:19 UTC.
+New packages created between 2026-10-07 14:19 UTC and 2026-10-07 15:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T14-19-21-332539Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T15-19-32-096986Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 13:38:55 | [chirpstack/chirpstack-api](https://www.nuget.org/packages/chirpstack%2Fchirpstack-api) | 4.19.2 |  | Chirpstack PHP API |
-| 2026-10-07 13:40:58 | [cloud-castle/ocr](https://www.nuget.org/packages/cloud-castle%2Focr) | v0.1.0 | CloudCastle | Production-ready PHP 8.1+ package (CloudCastle OCR). |
-| 2026-10-07 13:46:50 | [sympress/base-mu-plugin](https://www.nuget.org/packages/sympress%2Fbase-mu-plugin) | v1.0.0 |  | Shared WordPress must-use bootstrap and development utilities for SymPress webs… |
-| 2026-10-07 13:56:04 | [achedon12/golem](https://www.nuget.org/packages/achedon12%2Fgolem) | v0 |  |  |
-| 2026-10-07 13:57:32 | [ai-soft/laravel-scheduled-sequence](https://www.nuget.org/packages/ai-soft%2Flaravel-scheduled-sequence) | v0.1.0 | Goran Savkic | Persistent, state-aware scheduling sequences with irregular timing for Laravel… |
-| 2026-10-07 13:57:39 | [andydefer/laravel-locationiq](https://www.nuget.org/packages/andydefer%2Flaravel-locationiq) | v0.1.0 | andydefer | Laravel SDK for integrating LocationIQ and Nominatim geospatial services (balan… |
-| 2026-10-07 14:04:30 | [ontec/discrete-window-throttling](https://www.nuget.org/packages/ontec%2Fdiscrete-window-throttling) | v0.1.0 | EligiusSantori | Strict rate limiter with reasonable speed and memory usage for Redis 7+. |
-| 2026-10-07 14:06:53 | [omega-mvc/gettext](https://www.nuget.org/packages/omega-mvc%2Fgettext) | 1.0.0 | Adriano Giovannini | GNU gettext-based localization and translation support for the Omega ecosystem,… |
-| 2026-10-07 14:12:28 | [jeffersongoncalves/laravel-saml2](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-saml2) | v1.0.0 | Jefferson Gonçalves | Multi-tenant SAML2 Service Provider for Laravel. Connect any number of Identity… |
+| 2026-10-07 14:25:49 | [folklore/laravel-image](https://www.nuget.org/packages/folklore%2Flaravel-image) | v1.1.0 | Folklore; David Mongeau-Petit… | URL-based image manipulation for Laravel, built on Imagine |
+| 2026-10-07 14:45:31 | [jothamlec/laravel-offsite-backup](https://www.nuget.org/packages/jothamlec%2Flaravel-offsite-backup) | v0.1.0 | Jotham Lim | A Deployer recipe and hardened preset for spatie/laravel-backup, with pre-fligh… |
+| 2026-10-07 14:45:54 | [brewless/cli](https://www.nuget.org/packages/brewless%2Fcli) | v0.1.1 | Coding Agency | The command line client of Brewless: sign in, connect a project and deploy it t… |
+| 2026-10-07 14:45:58 | [brewless/laravel](https://www.nuget.org/packages/brewless%2Flaravel) | v0.1.0 | Coding Agency | What a Laravel application needs to run on Brewless: the release, schedule and… |
+| 2026-10-07 14:57:05 | [atwx/silverstripe-htmlfield-cleaner](https://www.nuget.org/packages/atwx%2Fsilverstripe-htmlfield-cleaner) | v6.2.0 |  | Cleans HTML fields (tags, attributes, inline styles) of DataObjects before writ… |
+| 2026-10-07 15:01:29 | [rmb32/kevin](https://www.nuget.org/packages/rmb32%2Fkevin) | v1.0.0 | Roger Barnfather | An easy bulk filesystem manipulation utility for your PHP files — find files, r… |
+| 2026-10-07 15:02:55 | [collection/collection](https://www.nuget.org/packages/collection%2Fcollection) | 1.0.0 | chipslays | Laravel-compatible PHP collection with dot-notation and wildcard paths in every… |
 
 ## Data source
 
