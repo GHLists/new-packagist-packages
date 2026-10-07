@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 03:21 UTC
+## Latest list — 2026-10-07 04:20 UTC
 
-New packages created between 2026-10-07 02:22 UTC and 2026-10-07 03:21 UTC.
+New packages created between 2026-10-07 03:21 UTC and 2026-10-07 04:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T03-21-56-869323Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T04-20-31-112952Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 02:25:34 | [edulazaro/laradomains](https://www.nuget.org/packages/edulazaro%2Flaradomains) | 1.1.0 | Edu Lazaro | Everything you can learn about a domain without visiting it: parsing with the P… |
-| 2026-10-07 02:43:26 | [wacafla/subscriber-verify-client](https://www.nuget.org/packages/wacafla%2Fsubscriber-verify-client) | v1.0.0 |  | PHP 8 client for the documented SubscriberVerify API |
-| 2026-10-07 02:46:35 | [mage2kishan/module-quickview](https://www.nuget.org/packages/mage2kishan%2Fmodule-quickview) | 1.0.21 | Kishan Savaliya | Smart Quick View & Compare module for Magento 2 with Hyva theme support. Featur… |
-| 2026-10-07 03:08:17 | [spiggle/filawarden-core](https://www.nuget.org/packages/spiggle%2Ffilawarden-core) | v1.0.0 | Spiggle | Laravel Operations Intelligence Platform for Filament - Core Edition |
+| 2026-10-07 03:47:03 | [cloud-castle/click-house](https://www.nuget.org/packages/cloud-castle%2Fclick-house) | v0.1.0 | CloudCastle | Production-ready PHP 8.1+ package (CloudCastle ClickHouse). |
+| 2026-10-07 03:49:32 | [kipchak/middleware-auth-hmac](https://www.nuget.org/packages/kipchak%2Fmiddleware-auth-hmac) | 1.1 |  | The Official HMAC Request Signing Middleware for the Kipchak API Development Ki… |
+| 2026-10-07 03:53:38 | [adeguntoro/j2fakit](https://www.nuget.org/packages/adeguntoro%2Fj2fakit) | v1.0.0 | adeguntoro | 2FA gate package: by default every route requires login+2FA, whitelist via conf… |
 
 ## Data source
 

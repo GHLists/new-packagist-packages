@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-07T03:47:03Z,cloud-castle/click-house,v0.1.0,CloudCastle,Production-ready PHP 8.1+ package (CloudCastle ClickHouse).
+2026-10-07T03:49:32Z,kipchak/middleware-auth-hmac,1.1,,The Official HMAC Request Signing Middleware for the Kipchak API Development Kit (ADK). Verifies signed requests and webhooks with replay protection.
+2026-10-07T03:53:38Z,adeguntoro/j2fakit,v1.0.0,adeguntoro,"2FA gate package: by default every route requires login+2FA, whitelist via config/path/exempt, safe JSON 401/403 for API/XHR."
