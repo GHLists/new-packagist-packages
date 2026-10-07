@@ -15,22 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 18:21 UTC
+## Latest list — 2026-10-07 19:20 UTC
 
-New packages created between 2026-10-07 17:21 UTC and 2026-10-07 18:21 UTC.
+New packages created between 2026-10-07 18:21 UTC and 2026-10-07 19:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T18-21-58-121722Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-07T19-20-53-160319Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 17:23:10 | [mdakashhossain1/arknox-monitor](https://www.nuget.org/packages/mdakashhossain1%2Farknox-monitor) | v1.1.0 |  | Usage tracking, billing and payment enforcement for Laravel sites (requests, Cl… |
-| 2026-10-07 18:01:45 | [fusio/adapter-ftp](https://www.nuget.org/packages/fusio%2Fadapter-ftp) | v0.1.0 | Christoph Kappestein | Adapter to serve files via FTP |
-| 2026-10-07 18:02:24 | [dereuromark/cakephp-passkeys](https://www.nuget.org/packages/dereuromark%2Fcakephp-passkeys) | 0.1.0 | Mark Scherer | Public-quality passkey / WebAuthn authentication plugin for CakePHP 5 |
-| 2026-10-07 18:06:12 | [mammaaddeveloper/laravel-flex-settings](https://www.nuget.org/packages/mammaaddeveloper%2Flaravel-flex-settings) | v0.1.0 | mammaadDeveloper | A lovely package for managing Laravel settings. |
-| 2026-10-07 18:06:28 | [crawlora/fotmob](https://www.nuget.org/packages/crawlora%2Ffotmob) | v0.1.4 |  | FotMob client for the Crawlora hosted API |
-| 2026-10-07 18:06:34 | [crawlora/youtube](https://www.nuget.org/packages/crawlora%2Fyoutube) | v0.1.4 |  | YouTube client for the Crawlora hosted API |
-| 2026-10-07 18:08:54 | [crawlora/sofascore](https://www.nuget.org/packages/crawlora%2Fsofascore) | v0.2.0 |  | SofaScore client for the Crawlora hosted API |
-| 2026-10-07 18:09:24 | [crawlora/flashscore](https://www.nuget.org/packages/crawlora%2Fflashscore) | v0.2.0 |  | Flashscore client for the Crawlora hosted API |
+| 2026-10-07 18:22:37 | [larasell-dev/cushion](https://www.nuget.org/packages/larasell-dev%2Fcushion) | 0.1.1 |  | Form draft persistence for Laravel: server-backed auto-save for Inertia forms. |
+| 2026-10-07 18:39:04 | [iamtime/uzpay](https://www.nuget.org/packages/iamtime%2Fuzpay) | v0.1.0 |  | Payme, Click, Uzum, Paynet and Octo (Visa, Mastercard) for Uzbekistan shops: me… |
+| 2026-10-07 18:49:10 | [emerson-pombo/idempotency-linter](https://www.nuget.org/packages/emerson-pombo%2Fidempotency-linter) | v0.1.0 | Emerson Pombo | Analisador estático que identifica jobs de fila Laravel sem proteção contra ree… |
+| 2026-10-07 18:56:13 | [jauhar/captcha-generator](https://www.nuget.org/packages/jauhar%2Fcaptcha-generator) | v1.0 | jauharimtikhan | Captcha Generator PHP |
+| 2026-10-07 19:07:30 | [rafalmasiarek/captcha](https://www.nuget.org/packages/rafalmasiarek%2Fcaptcha) | v1.0.0 |  | Universal CAPTCHA verification for PHP: Google reCAPTCHA (v2/v3), Cloudflare Tu… |
 
 ## Data source
 

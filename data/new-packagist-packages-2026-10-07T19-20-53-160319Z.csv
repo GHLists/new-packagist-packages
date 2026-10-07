@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-07T18:22:37Z,larasell-dev/cushion,0.1.1,,Form draft persistence for Laravel: server-backed auto-save for Inertia forms.
+2026-10-07T18:39:04Z,iamtime/uzpay,v0.1.0,,"Payme, Click, Uzum, Paynet and Octo (Visa, Mastercard) for Uzbekistan shops: merchant callbacks, Payme saved cards and recurring payments (Subscribe API), checkout links, fiscal receipt lines, a sandbox emulator."
+2026-10-07T18:49:10Z,emerson-pombo/idempotency-linter,v0.1.0,Emerson Pombo,Analisador estático que identifica jobs de fila Laravel sem proteção contra reexecução (idempotência) antes que virem incidentes de produção.
+2026-10-07T18:56:13Z,jauhar/captcha-generator,v1.0,jauharimtikhan,Captcha Generator PHP
+2026-10-07T19:07:30Z,rafalmasiarek/captcha,v1.0.0,,"Universal CAPTCHA verification for PHP: Google reCAPTCHA (v2/v3), Cloudflare Turnstile, and hCaptcha behind one Strategy-pattern facade. Built on rafalmasiarek/http-client."
