@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 20:22 UTC
+## Latest list — 2026-10-08 21:21 UTC
 
-New packages created between 2026-10-08 19:19 UTC and 2026-10-08 20:22 UTC.
+New packages created between 2026-10-08 20:22 UTC and 2026-10-08 21:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T20-22-52-636773Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T21-21-26-812126Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 19:24:30 | [jsonficator/jsonficator](https://www.nuget.org/packages/jsonficator%2Fjsonficator) | v1.0.0 | geckon01 | Framework-agnostic PHP library that converts natural language into structured d… |
-| 2026-10-08 19:53:18 | [4oh3/drupal-dev-live-files](https://www.nuget.org/packages/4oh3%2Fdrupal-dev-live-files) | 1.0.1 |  | Serves images (and optionally other public files) from the live site instead of… |
-| 2026-10-08 19:57:31 | [sereny/postgrest](https://www.nuget.org/packages/sereny%2Fpostgrest) | v0.1.0 | Sereny | A PostgREST connection driver that lets Laravel Eloquent models talk to a Postg… |
+| 2026-10-08 20:32:08 | [d9-technologies/matcher](https://www.nuget.org/packages/d9-technologies%2Fmatcher) | v1.0.0 | Ethan Elshyeb; James Haynes | levenshtein example |
+| 2026-10-08 20:32:20 | [d9-technologies/textract](https://www.nuget.org/packages/d9-technologies%2Ftextract) | v1.0.0 | Ethan Elshyeb; James Haynes |  |
+| 2026-10-08 20:50:39 | [4oh3/live-files](https://www.nuget.org/packages/4oh3%2Flive-files) | 1.0.0 |  | Serves images (and optionally other public files) from the live site instead of… |
 
 ## Data source
 
