@@ -1,0 +1,15 @@
+created_at,package,version,author,description
+2026-10-08T16:22:53Z,lindor03/project-memory,1.3.0,,Local-first project memory and code intelligence for Laravel applications.
+2026-10-08T16:25:48Z,arnipay/sdk-php,1.6.1,,SDK for integrating with the Arnipay payment processing system
+2026-10-08T16:25:48Z,geekwalletsrl/arnipay-sdk,1.6.1,,SDK for integrating with the Arnipay payment processing system
+2026-10-08T16:30:48Z,tsi/rtly-kit,v0.1.1,Ehsan Enaloo,"RTLY-Kit: the definitive RTL kit for PHP — Jalali, Hijri, Hebrew calendars, Iranian validations, numbers, text, holidays and prayer times."
+2026-10-08T16:37:45Z,dasformt/kirby-consent,v1.0.1,dasformt,Einwilligung mit Platzhalter für externe Dienste in Kirby
+2026-10-08T16:37:45Z,dasformt/kirby-favicons,v1.0.0,dasformt,"Favicons, Apple Touch Icon und Webmanifest aus dem Kirby-Panel"
+2026-10-08T16:42:16Z,crawlora/bbb,v0.1.0,,Better Business Bureau client for the Crawlora hosted API
+2026-10-08T16:52:17Z,janalis/custos,v0.1.0,,"Fast PHP inspector and fixer (178 inspections with quick-fixes), shipped as a prebuilt binary."
+2026-10-08T17:00:32Z,wexample/symfony-notification,1.0.1,,
+2026-10-08T17:00:59Z,wexample/symfony-notification-ds,1.0.1,,
+2026-10-08T17:01:25Z,wexample/symfony-notification-demo,1.0.1,,
+2026-10-08T17:01:51Z,wexample/symfony-signature,1.0.1,,
+2026-10-08T17:02:16Z,wexample/symfony-signature-ds,1.0.1,,
+2026-10-08T17:02:42Z,wexample/symfony-signature-demo,1.0.1,,
