@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-08T21:21:58Z,tey/mod,v0.1.0,Jasper Tey,"Lightweight toolkit for modular development in Laravel. Choose or extend common layouts like DDD and modular monoliths, or create your own."
+2026-10-08T21:38:38Z,hoceineel/filament-quick-action-dock,v0.2.0,Hoceine El Idrissi,"A floating launcher for the Filament actions people reach for most, on every page of a panel."
+2026-10-08T21:38:53Z,hoceineel/filament-undo-toast,v0.2.0,Hoceine El Idrissi,"Gmail-style undo toasts for Filament delete, restore, edit and detach actions, with a countdown and mod+z."
+2026-10-08T21:39:03Z,hoceineel/filament-keyboard-shortcuts,v0.2.0,Hoceine El Idrissi,"A ? cheat sheet, Gmail-style navigation chords and keyboard table navigation for Filament panels, generated from the live page."
+2026-10-08T21:40:04Z,daggerhartlab/daglab_paragraphs,1.0.0,Jonathan Daggerhart,Drupal module with reports and cleanup tools for paragraphs.
+2026-10-08T22:07:47Z,signlphp/laravel-valkyrie,v0.9.0,Kim Eric Helle,"Roles and abilities for Laravel — scoped grants, ownership rules, forbids that always win, and optional multi-tenancy."

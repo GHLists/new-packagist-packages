@@ -15,17 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 21:21 UTC
+## Latest list — 2026-10-08 22:20 UTC
 
-New packages created between 2026-10-08 20:22 UTC and 2026-10-08 21:21 UTC.
+New packages created between 2026-10-08 21:21 UTC and 2026-10-08 22:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T21-21-26-812126Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T22-20-03-175624Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 20:32:08 | [d9-technologies/matcher](https://www.nuget.org/packages/d9-technologies%2Fmatcher) | v1.0.0 | Ethan Elshyeb; James Haynes | levenshtein example |
-| 2026-10-08 20:32:20 | [d9-technologies/textract](https://www.nuget.org/packages/d9-technologies%2Ftextract) | v1.0.0 | Ethan Elshyeb; James Haynes |  |
-| 2026-10-08 20:50:39 | [4oh3/live-files](https://www.nuget.org/packages/4oh3%2Flive-files) | 1.0.0 |  | Serves images (and optionally other public files) from the live site instead of… |
+| 2026-10-08 21:21:58 | [tey/mod](https://www.nuget.org/packages/tey%2Fmod) | v0.1.0 | Jasper Tey | Lightweight toolkit for modular development in Laravel. Choose or extend common… |
+| 2026-10-08 21:38:38 | [hoceineel/filament-quick-action-dock](https://www.nuget.org/packages/hoceineel%2Ffilament-quick-action-dock) | v0.2.0 | Hoceine El Idrissi | A floating launcher for the Filament actions people reach for most, on every pa… |
+| 2026-10-08 21:38:53 | [hoceineel/filament-undo-toast](https://www.nuget.org/packages/hoceineel%2Ffilament-undo-toast) | v0.2.0 | Hoceine El Idrissi | Gmail-style undo toasts for Filament delete, restore, edit and detach actions,… |
+| 2026-10-08 21:39:03 | [hoceineel/filament-keyboard-shortcuts](https://www.nuget.org/packages/hoceineel%2Ffilament-keyboard-shortcuts) | v0.2.0 | Hoceine El Idrissi | A ? cheat sheet, Gmail-style navigation chords and keyboard table navigation fo… |
+| 2026-10-08 21:40:04 | [daggerhartlab/daglab_paragraphs](https://www.nuget.org/packages/daggerhartlab%2Fdaglab_paragraphs) | 1.0.0 | Jonathan Daggerhart | Drupal module with reports and cleanup tools for paragraphs. |
+| 2026-10-08 22:07:47 | [signlphp/laravel-valkyrie](https://www.nuget.org/packages/signlphp%2Flaravel-valkyrie) | v0.9.0 | Kim Eric Helle | Roles and abilities for Laravel — scoped grants, ownership rules, forbids that… |
 
 ## Data source
 
