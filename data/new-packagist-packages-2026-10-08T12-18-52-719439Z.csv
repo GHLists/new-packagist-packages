@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-08T11:29:09Z,connetation/t3wtk-quickstart-shell,3.1.1,Connetation Web Engineering GmbH,"DDEV quickstart for TYPO3 14 projects built on the Connetation TYPO3 Web Toolkit (base, elements, sitepackage)"
+2026-10-08T11:44:04Z,jevo/jrelations,1.0.2,,Двосторонні зв’язки між ресурсами для Evolution CMS
+2026-10-08T11:45:22Z,laranex/laravel-money,v4.0.0-alpha.1,Nay Thu Khant,"Money for Laravel: exact, currency-aware amounts with arithmetic, percentages, allocation, formatting and Eloquent casts."
+2026-10-08T11:45:44Z,laranex/php-myanmar-payments,v4.0.0-alpha.1,Nay Thu Khant,"PHP SDK for Myanmar payment gateways: KBZ Pay, Wave Money, AYA Pay, Yoma MMQR and CyberSource. Framework-agnostic, typed requests and results, works with any PSR-18 HTTP client."
+2026-10-08T11:51:28Z,stougeiro/view,v1.0.0,stougeiro,"A light, engine-agnostic view layer for PHP. It resolves view identifiers (dot notation and aliases) into file paths, merges shared and local data, and renders templates through a swappable engine. No global helpers, no hidden state, no cache: pure dependency injection."
+2026-10-08T11:54:15Z,onkud/data-structures,v1.0.0,Onur Kudret,"Stack, Queue, and LinkedList implementations with Laravel and Symfony support"
+2026-10-08T12:08:14Z,jobmetric/laravel-post,v1.0.1,Majid Mohammadian,This is a post management package for Laravel that you can use in your projects.
