@@ -15,20 +15,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 22:20 UTC
+## Latest list — 2026-10-08 23:19 UTC
 
-New packages created between 2026-10-08 21:21 UTC and 2026-10-08 22:20 UTC.
+New packages created between 2026-10-08 22:20 UTC and 2026-10-08 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T22-20-03-175624Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T23-19-46-009607Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 21:21:58 | [tey/mod](https://www.nuget.org/packages/tey%2Fmod) | v0.1.0 | Jasper Tey | Lightweight toolkit for modular development in Laravel. Choose or extend common… |
-| 2026-10-08 21:38:38 | [hoceineel/filament-quick-action-dock](https://www.nuget.org/packages/hoceineel%2Ffilament-quick-action-dock) | v0.2.0 | Hoceine El Idrissi | A floating launcher for the Filament actions people reach for most, on every pa… |
-| 2026-10-08 21:38:53 | [hoceineel/filament-undo-toast](https://www.nuget.org/packages/hoceineel%2Ffilament-undo-toast) | v0.2.0 | Hoceine El Idrissi | Gmail-style undo toasts for Filament delete, restore, edit and detach actions,… |
-| 2026-10-08 21:39:03 | [hoceineel/filament-keyboard-shortcuts](https://www.nuget.org/packages/hoceineel%2Ffilament-keyboard-shortcuts) | v0.2.0 | Hoceine El Idrissi | A ? cheat sheet, Gmail-style navigation chords and keyboard table navigation fo… |
-| 2026-10-08 21:40:04 | [daggerhartlab/daglab_paragraphs](https://www.nuget.org/packages/daggerhartlab%2Fdaglab_paragraphs) | 1.0.0 | Jonathan Daggerhart | Drupal module with reports and cleanup tools for paragraphs. |
-| 2026-10-08 22:07:47 | [signlphp/laravel-valkyrie](https://www.nuget.org/packages/signlphp%2Flaravel-valkyrie) | v0.9.0 | Kim Eric Helle | Roles and abilities for Laravel — scoped grants, ownership rules, forbids that… |
+| 2026-10-08 22:56:20 | [jeffersongoncalves/laravel-cloudflare-web-analytics](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-cloudflare-web-analytics) | 1.0.0 | Jefferson Gonçalves | Cloudflare Web Analytics for Laravel: inject the tracking script in your Blade… |
+| 2026-10-08 22:56:57 | [jeffersongoncalves/laravel-simple-analytics](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-simple-analytics) | 1.0.0 | Jefferson Gonçalves | Simple Analytics for Laravel: inject the tracking script in your Blade layouts,… |
+| 2026-10-08 22:57:27 | [jeffersongoncalves/laravel-goatcounter](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-goatcounter) | 1.0.0 | Jefferson Gonçalves | GoatCounter for Laravel: inject the tracking script in your Blade layouts, with… |
+| 2026-10-08 22:57:35 | [jeffersongoncalves/laravel-pirsch](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-pirsch) | 1.0.0 | Jefferson Gonçalves | Pirsch for Laravel: inject the tracking script in your Blade layouts, with the… |
+| 2026-10-08 22:58:04 | [jeffersongoncalves/laravel-crisp](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-crisp) | 1.0.0 | Jefferson Gonçalves | Crisp for Laravel: render the live chat widget in your Blade layouts, with the… |
+| 2026-10-08 22:58:42 | [jeffersongoncalves/laravel-tawk-to](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-tawk-to) | 1.0.0 | Jefferson Gonçalves | Tawk.to for Laravel: render the live chat widget in your Blade layouts, with th… |
+| 2026-10-08 22:59:23 | [jeffersongoncalves/filament-cloudflare-web-analytics](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-cloudflare-web-analytics) | 3.0.0 | Jefferson Gonçalves | Filament plugin for Cloudflare Web Analytics: injects the tracking script into… |
+| 2026-10-08 23:02:21 | [jeffersongoncalves/filament-simple-analytics](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-simple-analytics) | 3.0.0 | Jefferson Gonçalves | Filament plugin for Simple Analytics: injects the tracking script into your pan… |
+| 2026-10-08 23:02:46 | [jeffersongoncalves/filament-pirsch](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-pirsch) | 3.0.0 | Jefferson Gonçalves | Filament plugin for Pirsch: injects the tracking script into your panels and ad… |
+| 2026-10-08 23:03:18 | [jeffersongoncalves/filament-goatcounter](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-goatcounter) | 3.0.0 | Jefferson Gonçalves | Filament plugin for GoatCounter: injects the tracking script into your panels a… |
+| 2026-10-08 23:03:59 | [jeffersongoncalves/filament-crisp](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-crisp) | 3.0.0 | Jefferson Gonçalves | Filament plugin for Crisp: renders the live chat widget in your panels and adds… |
+| 2026-10-08 23:05:12 | [jeffersongoncalves/filament-tawk-to](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-tawk-to) | 3.0.0 | Jefferson Gonçalves | Filament plugin for Tawk.to: renders the live chat widget in your panels and ad… |
 
 ## Data source
 
