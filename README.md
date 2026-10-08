@@ -15,21 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 12:18 UTC
+## Latest list — 2026-10-08 13:21 UTC
 
-New packages created between 2026-10-08 11:18 UTC and 2026-10-08 12:18 UTC.
+New packages created between 2026-10-08 12:18 UTC and 2026-10-08 13:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T12-18-52-719439Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T13-21-12-0538Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 11:29:09 | [connetation/t3wtk-quickstart-shell](https://www.nuget.org/packages/connetation%2Ft3wtk-quickstart-shell) | 3.1.1 | Connetation Web Engineering G… | DDEV quickstart for TYPO3 14 projects built on the Connetation TYPO3 Web Toolki… |
-| 2026-10-08 11:44:04 | [jevo/jrelations](https://www.nuget.org/packages/jevo%2Fjrelations) | 1.0.2 |  | Двосторонні зв’язки між ресурсами для Evolution CMS |
-| 2026-10-08 11:45:22 | [laranex/laravel-money](https://www.nuget.org/packages/laranex%2Flaravel-money) | v4.0.0-alpha.1 | Nay Thu Khant | Money for Laravel: exact, currency-aware amounts with arithmetic, percentages,… |
-| 2026-10-08 11:45:44 | [laranex/php-myanmar-payments](https://www.nuget.org/packages/laranex%2Fphp-myanmar-payments) | v4.0.0-alpha.1 | Nay Thu Khant | PHP SDK for Myanmar payment gateways: KBZ Pay, Wave Money, AYA Pay, Yoma MMQR a… |
-| 2026-10-08 11:51:28 | [stougeiro/view](https://www.nuget.org/packages/stougeiro%2Fview) | v1.0.0 | stougeiro | A light, engine-agnostic view layer for PHP. It resolves view identifiers (dot… |
-| 2026-10-08 11:54:15 | [onkud/data-structures](https://www.nuget.org/packages/onkud%2Fdata-structures) | v1.0.0 | Onur Kudret | Stack, Queue, and LinkedList implementations with Laravel and Symfony support |
-| 2026-10-08 12:08:14 | [jobmetric/laravel-post](https://www.nuget.org/packages/jobmetric%2Flaravel-post) | v1.0.1 | Majid Mohammadian | This is a post management package for Laravel that you can use in your projects. |
+| 2026-10-08 12:21:13 | [lekoala/kaly-forms](https://www.nuget.org/packages/lekoala%2Fkaly-forms) | 0.1.0 | Thomas | Small framework-independent server-first forms DSL with progressive enhancement… |
+| 2026-10-08 12:39:35 | [codalaya/php-project-install-wizard](https://www.nuget.org/packages/codalaya%2Fphp-project-install-wizard) | v1.0.1 | Rajesh Chaurasiya | Web installer for Laravel products: requirements, permissions, database, option… |
+| 2026-10-08 12:39:43 | [wmd/craft-design-field](https://www.nuget.org/packages/wmd%2Fcraft-design-field) | 1.0.1 | WMD | One field for every design option of a block: tone, spacing, layout, columns an… |
+| 2026-10-08 12:42:04 | [tilscn/laravel-starter](https://www.nuget.org/packages/tilscn%2Flaravel-starter) | 12.0.0 | tilscn | A Laravel package for various utilities and features. |
+| 2026-10-08 12:51:12 | [wexample/symfony-media](https://www.nuget.org/packages/wexample%2Fsymfony-media) | 1.0.1 |  |  |
+| 2026-10-08 12:52:01 | [wexample/symfony-media-ds](https://www.nuget.org/packages/wexample%2Fsymfony-media-ds) | 1.0.1 |  |  |
+| 2026-10-08 12:52:53 | [youmad/endurance-fit-repair](https://www.nuget.org/packages/youmad%2Fendurance-fit-repair) | v0.1.0 |  | Preserving FIT activity repair with JSON audit reports |
+| 2026-10-08 12:53:07 | [wexample/symfony-media-demo](https://www.nuget.org/packages/wexample%2Fsymfony-media-demo) | 1.0.1 |  |  |
+| 2026-10-08 13:04:54 | [nodexstudiovn/installer](https://www.nuget.org/packages/nodexstudiovn%2Finstaller) | 1.0.2 | Nguyễn Anh Kiệt | The official CLI project installer for NodeX Studio Framework v1.1.0. |
+| 2026-10-08 13:04:54 | [rishadblack/wire-bootstrap](https://www.nuget.org/packages/rishadblack%2Fwire-bootstrap) | 1.0.0 | S M Rishad | Livewire-native Bootstrap 5.3 UI: one artisan command sets up Bootstrap, Vite a… |
 
 ## Data source
 

@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-08T12:21:13Z,lekoala/kaly-forms,0.1.0,Thomas,Small framework-independent server-first forms DSL with progressive enhancement metadata
+2026-10-08T12:39:35Z,codalaya/php-project-install-wizard,v1.0.1,Rajesh Chaurasiya,"Web installer for Laravel products: requirements, permissions, database, optional purchase-code step and admin account. Records the installation in the database and locks itself afterwards."
+2026-10-08T12:39:43Z,wmd/craft-design-field,1.0.1,WMD,"One field for every design option of a block: tone, spacing, layout, columns and more, picked from named choices you define once. Swatches, picture tiles, sliders and position grids; options that only show when they apply."
+2026-10-08T12:42:04Z,tilscn/laravel-starter,12.0.0,tilscn,A Laravel package for various utilities and features.
+2026-10-08T12:51:12Z,wexample/symfony-media,1.0.1,,
+2026-10-08T12:52:01Z,wexample/symfony-media-ds,1.0.1,,
+2026-10-08T12:52:53Z,youmad/endurance-fit-repair,v0.1.0,,Preserving FIT activity repair with JSON audit reports
+2026-10-08T12:53:07Z,wexample/symfony-media-demo,1.0.1,,
+2026-10-08T13:04:54Z,nodexstudiovn/installer,1.0.2,Nguyễn Anh Kiệt,The official CLI project installer for NodeX Studio Framework v1.1.0.
+2026-10-08T13:04:54Z,rishadblack/wire-bootstrap,1.0.0,S M Rishad,"Livewire-native Bootstrap 5.3 UI: one artisan command sets up Bootstrap, Vite and a base layout, and every form field is a single Blade tag with its own label, wire:model binding, validation errors and loading states."
