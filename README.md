@@ -15,18 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 18:23 UTC
+## Latest list — 2026-10-08 19:19 UTC
 
-New packages created between 2026-10-08 17:22 UTC and 2026-10-08 18:23 UTC.
+New packages created between 2026-10-08 18:23 UTC and 2026-10-08 19:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T18-23-23-334025Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T19-19-17-266549Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 17:57:56 | [coffeemail/coffeemail-php](https://www.nuget.org/packages/coffeemail%2Fcoffeemail-php) | v0.1.0 | CoffeeMail Team | SDK oficial do CoffeeMail para PHP moderno (8.2+). Envio transacional de e-mail… |
-| 2026-10-08 17:58:04 | [coffeemail/coffeemail-laravel](https://www.nuget.org/packages/coffeemail%2Fcoffeemail-laravel) | v0.1.0 | CoffeeMail Team | Driver oficial do CoffeeMail para Laravel Mailer, notificações e webhooks, com… |
-| 2026-10-08 18:05:35 | [wotz/socialite-zenith](https://www.nuget.org/packages/wotz%2Fsocialite-zenith) | v0.1.0 |  | Laravel Socialite provider for Zenith, the WOTZ OAuth2 server |
-| 2026-10-08 18:13:47 | [semitexa/crud](https://www.nuget.org/packages/semitexa%2Fcrud) | 2026.10.08.0620 | Semitexa | Semitexa CRUD: admin screens declared in one class — a list with its live feed,… |
+| 2026-10-08 18:26:51 | [rmb32/barn](https://www.nuget.org/packages/rmb32%2Fbarn) | v1.0.0 | Roger Barnfather | Build a barn: a PHP project with its story map (Barnspec) and its architecture… |
+| 2026-10-08 18:26:51 | [rmb32/barn-layout](https://www.nuget.org/packages/rmb32%2Fbarn-layout) | v1.0.0 | Roger Barnfather | Finds a barn (the nearest .barn/barn.json) and says where each tool's files liv… |
+| 2026-10-08 18:27:15 | [joetjen/cooper](https://www.nuget.org/packages/joetjen%2Fcooper) | v0.1.0 | Jan Oetjen | Loads CASC config files -- a hierarchical, extensible config language with impo… |
+| 2026-10-08 18:34:23 | [joetjen/cooper-config](https://www.nuget.org/packages/joetjen%2Fcooper-config) | v0.1.0 | Jan Oetjen | Loads an application's CASC configuration once, at startup, with joetjen/cooper… |
+| 2026-10-08 18:39:03 | [joetjen/cooper-symfony](https://www.nuget.org/packages/joetjen%2Fcooper-symfony) | v0.1.0 | Jan Oetjen | Symfony integration of Cooper: bundle configuration and container parameters fr… |
+| 2026-10-08 18:44:12 | [joetjen/cooper-laravel](https://www.nuget.org/packages/joetjen%2Fcooper-laravel) | v0.1.0 | Jan Oetjen | Laravel integration of Cooper: the configuration repository filled from a CASC… |
+| 2026-10-08 18:46:07 | [adeildo-jr/http-logs-laravel](https://www.nuget.org/packages/adeildo-jr%2Fhttp-logs-laravel) | v1.0.0 | Adeildo Amorim | Configurable database logging for outgoing Laravel HTTP client requests. |
+| 2026-10-08 19:04:05 | [onetracepro/onetrace-magento2](https://www.nuget.org/packages/onetracepro%2Fonetrace-magento2) | v1.0.0 |  | Magento 2 / Adobe Commerce module for the OneTrace.pro customer data platform:… |
 
 ## Data source
 

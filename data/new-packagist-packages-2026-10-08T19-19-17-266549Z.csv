@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-08T18:26:51Z,rmb32/barn,v1.0.0,Roger Barnfather,"Build a barn: a PHP project with its story map (Barnspec) and its architecture (Barnark) under one roof, one CLI and one browser UI"
+2026-10-08T18:26:51Z,rmb32/barn-layout,v1.0.0,Roger Barnfather,Finds a barn (the nearest .barn/barn.json) and says where each tool's files live inside it
+2026-10-08T18:27:15Z,joetjen/cooper,v0.1.0,Jan Oetjen,"Loads CASC config files -- a hierarchical, extensible config language with imports, variables, interpolation, loops, and consumer-registered resolvers/tags -- into native PHP values, secrets redacted by default."
+2026-10-08T18:34:23Z,joetjen/cooper-config,v0.1.0,Jan Oetjen,"Loads an application's CASC configuration once, at startup, with joetjen/cooper -- converted into plain PHP values, secrets handled by a per-application policy, compiled to an opcache-friendly PHP file between requests."
+2026-10-08T18:39:03Z,joetjen/cooper-symfony,v0.1.0,Jan Oetjen,"Symfony integration of Cooper: bundle configuration and container parameters from a CASC document, ${NAME} kept a runtime %env()% placeholder, .env files read by Cooper."
+2026-10-08T18:44:12Z,joetjen/cooper-laravel,v0.1.0,Jan Oetjen,"Laravel integration of Cooper: the configuration repository filled from a CASC document, .env files read by Cooper, and cooper:import to move config/*.php into CASC."
+2026-10-08T18:46:07Z,adeildo-jr/http-logs-laravel,v1.0.0,Adeildo Amorim,Configurable database logging for outgoing Laravel HTTP client requests.
+2026-10-08T19:04:05Z,onetracepro/onetrace-magento2,v1.0.0,,"Magento 2 / Adobe Commerce module for the OneTrace.pro customer data platform: server-side orders, customers and newsletter consents, the website tracker, product catalog sync, recommendation widgets and Web Push."
