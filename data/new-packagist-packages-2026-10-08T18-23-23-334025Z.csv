@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-08T17:57:56Z,coffeemail/coffeemail-php,v0.1.0,CoffeeMail Team,"SDK oficial do CoffeeMail para PHP moderno (8.2+). Envio transacional de e-mails, templates, domínios e webhooks com tipagem estrita e retorno seguro."
+2026-10-08T17:58:04Z,coffeemail/coffeemail-laravel,v0.1.0,CoffeeMail Team,"Driver oficial do CoffeeMail para Laravel Mailer, notificações e webhooks, com integração Symfony Mailer e suporte nativo a filas assíncronas."
+2026-10-08T18:05:35Z,wotz/socialite-zenith,v0.1.0,,"Laravel Socialite provider for Zenith, the WOTZ OAuth2 server"
+2026-10-08T18:13:47Z,semitexa/crud,2026.10.08.0620,Semitexa,"Semitexa CRUD: admin screens declared in one class — a list with its live feed, forms and actions (#[AsCrud]), settings pages (#[AsSettingsPage]), dashboard widgets for screens, field-driven collection feeds (#[AsCollectionFeed])."
