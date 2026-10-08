@@ -15,22 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 14:22 UTC
+## Latest list — 2026-10-08 15:21 UTC
 
-New packages created between 2026-10-08 13:21 UTC and 2026-10-08 14:22 UTC.
+New packages created between 2026-10-08 14:22 UTC and 2026-10-08 15:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T14-22-19-495561Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T15-21-22-526536Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 13:24:29 | [appolodev/form-builder-bundle](https://www.nuget.org/packages/appolodev%2Fform-builder-bundle) | v1.0.0 | Fredxd | Moteur de formulaires personnalisés pour Symfony : structure, rendu, réponses e… |
-| 2026-10-08 13:26:05 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.2.4 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
-| 2026-10-08 13:26:29 | [novay/minios](https://www.nuget.org/packages/novay%2Fminios) | 0.0.2 | Noviyanto Rahmadi | MiniOS Desktop Environment for Laravel |
-| 2026-10-08 13:44:37 | [obj63mc/silverstripe-forager-elasticsearch](https://www.nuget.org/packages/obj63mc%2Fsilverstripe-forager-elasticsearch) | 0.0.1 | Joe Madden | Elasticsearch provider for silverstripe/silverstripe-forager, using the officia… |
-| 2026-10-08 13:55:38 | [wexample/symfony-bpmn](https://www.nuget.org/packages/wexample%2Fsymfony-bpmn) | 1.0.1 |  |  |
-| 2026-10-08 13:56:20 | [wexample/symfony-bpmn-ds](https://www.nuget.org/packages/wexample%2Fsymfony-bpmn-ds) | 1.0.1 |  |  |
-| 2026-10-08 13:57:09 | [wexample/symfony-bpmn-demo](https://www.nuget.org/packages/wexample%2Fsymfony-bpmn-demo) | 1.0.1 |  |  |
-| 2026-10-08 13:57:57 | [wexample/php-bpmn](https://www.nuget.org/packages/wexample%2Fphp-bpmn) | 1.0.1 |  |  |
+| 2026-10-08 14:22:42 | [itxshakil/cpanel-whm](https://www.nuget.org/packages/itxshakil%2Fcpanel-whm) | v0.1.0 | Shakil Alam | A typed, token-only, fakeable cPanel WHM API 1 client for Laravel, with UAPI th… |
+| 2026-10-08 14:32:01 | [ymwl/think8-mcp](https://www.nuget.org/packages/ymwl%2Fthink8-mcp) | v1.0.0 | ymwl | MCP (Model Context Protocol) server for ThinkPHP 8.x — let AI tools (Claude Cod… |
+| 2026-10-08 14:39:02 | [fomvasss/laravel-notification-channel-gronosync](https://www.nuget.org/packages/fomvasss%2Flaravel-notification-channel-gronosync) | 0.1.1 | Fomin Vasil | Laravel notification channel for GronoSync — send messages via Telegram, WhatsA… |
+| 2026-10-08 14:40:53 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.4.2 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
+| 2026-10-08 14:40:53 | [astral-php/astral-extend-orm](https://www.nuget.org/packages/astral-php%2Fastral-extend-orm) | 0.1.1 | astral-php | Extension ORM pour Astral — Fillable, Casts, Accessors, Hidden, Relations décla… |
+| 2026-10-08 14:42:57 | [astral-php/astral-debug](https://www.nuget.org/packages/astral-php%2Fastral-debug) | 0.1.0 | astral-php | Barre de debug Astral — temps, mémoire, SQL, messages (dev uniquement) |
+| 2026-10-08 14:45:24 | [astral-php/astral-payment](https://www.nuget.org/packages/astral-php%2Fastral-payment) | 0.1.1 | astral-php | Intégration Stripe pour Astral — PaymentIntent, webhooks, events, remboursements |
+| 2026-10-08 14:49:18 | [novay/minios](https://www.nuget.org/packages/novay%2Fminios) | 0.0.5 | Noviyanto Rahmadi | MiniOS Desktop Environment for Laravel |
+| 2026-10-08 14:56:04 | [dniccum/linear-sdk](https://www.nuget.org/packages/dniccum%2Flinear-sdk) | v0.2.1 | Doug Niccum | A Laravel SDK for creating Linear issues from Eloquent models, with an optional… |
+| 2026-10-08 15:04:01 | [floxum/spam-prevention](https://www.nuget.org/packages/floxum%2Fspam-prevention) | 0.1.2 | Team Floxum | Spam prevention for your Flarum community. |
 
 ## Data source
 

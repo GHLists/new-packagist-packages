@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-08T14:22:42Z,itxshakil/cpanel-whm,v0.1.0,Shakil Alam,"A typed, token-only, fakeable cPanel WHM API 1 client for Laravel, with UAPI through WHM, a whm:doctor connection check and Artisan commands for everyday account work."
+2026-10-08T14:32:01Z,ymwl/think8-mcp,v1.0.0,ymwl,"MCP (Model Context Protocol) server for ThinkPHP 8.x — let AI tools (Claude Code, Cursor, Windsurf) understand and operate your project."
+2026-10-08T14:39:02Z,fomvasss/laravel-notification-channel-gronosync,0.1.1,Fomin Vasil,"Laravel notification channel for GronoSync — send messages via Telegram, WhatsApp, Instagram, Facebook, Viber, SMS, email and other channels through the GronoSync platform."
+2026-10-08T14:40:53Z,ak279642/laravel-infrastructure,v1.4.2,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."
+2026-10-08T14:40:53Z,astral-php/astral-extend-orm,0.1.1,astral-php,"Extension ORM pour Astral — Fillable, Casts, Accessors, Hidden, Relations déclaratives"
+2026-10-08T14:42:57Z,astral-php/astral-debug,0.1.0,astral-php,"Barre de debug Astral — temps, mémoire, SQL, messages (dev uniquement)"
+2026-10-08T14:45:24Z,astral-php/astral-payment,0.1.1,astral-php,"Intégration Stripe pour Astral — PaymentIntent, webhooks, events, remboursements"
+2026-10-08T14:49:18Z,novay/minios,0.0.5,Noviyanto Rahmadi,MiniOS Desktop Environment for Laravel
+2026-10-08T14:56:04Z,dniccum/linear-sdk,v0.2.1,Doug Niccum,"A Laravel SDK for creating Linear issues from Eloquent models, with an optional branded configuration page."
+2026-10-08T15:04:01Z,floxum/spam-prevention,0.1.2,Team Floxum,Spam prevention for your Flarum community.
