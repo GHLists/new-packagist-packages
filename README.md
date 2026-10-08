@@ -15,22 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 19:19 UTC
+## Latest list — 2026-10-08 20:22 UTC
 
-New packages created between 2026-10-08 18:23 UTC and 2026-10-08 19:19 UTC.
+New packages created between 2026-10-08 19:19 UTC and 2026-10-08 20:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T19-19-17-266549Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T20-22-52-636773Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 18:26:51 | [rmb32/barn](https://www.nuget.org/packages/rmb32%2Fbarn) | v1.0.0 | Roger Barnfather | Build a barn: a PHP project with its story map (Barnspec) and its architecture… |
-| 2026-10-08 18:26:51 | [rmb32/barn-layout](https://www.nuget.org/packages/rmb32%2Fbarn-layout) | v1.0.0 | Roger Barnfather | Finds a barn (the nearest .barn/barn.json) and says where each tool's files liv… |
-| 2026-10-08 18:27:15 | [joetjen/cooper](https://www.nuget.org/packages/joetjen%2Fcooper) | v0.1.0 | Jan Oetjen | Loads CASC config files -- a hierarchical, extensible config language with impo… |
-| 2026-10-08 18:34:23 | [joetjen/cooper-config](https://www.nuget.org/packages/joetjen%2Fcooper-config) | v0.1.0 | Jan Oetjen | Loads an application's CASC configuration once, at startup, with joetjen/cooper… |
-| 2026-10-08 18:39:03 | [joetjen/cooper-symfony](https://www.nuget.org/packages/joetjen%2Fcooper-symfony) | v0.1.0 | Jan Oetjen | Symfony integration of Cooper: bundle configuration and container parameters fr… |
-| 2026-10-08 18:44:12 | [joetjen/cooper-laravel](https://www.nuget.org/packages/joetjen%2Fcooper-laravel) | v0.1.0 | Jan Oetjen | Laravel integration of Cooper: the configuration repository filled from a CASC… |
-| 2026-10-08 18:46:07 | [adeildo-jr/http-logs-laravel](https://www.nuget.org/packages/adeildo-jr%2Fhttp-logs-laravel) | v1.0.0 | Adeildo Amorim | Configurable database logging for outgoing Laravel HTTP client requests. |
-| 2026-10-08 19:04:05 | [onetracepro/onetrace-magento2](https://www.nuget.org/packages/onetracepro%2Fonetrace-magento2) | v1.0.0 |  | Magento 2 / Adobe Commerce module for the OneTrace.pro customer data platform:… |
+| 2026-10-08 19:24:30 | [jsonficator/jsonficator](https://www.nuget.org/packages/jsonficator%2Fjsonficator) | v1.0.0 | geckon01 | Framework-agnostic PHP library that converts natural language into structured d… |
+| 2026-10-08 19:53:18 | [4oh3/drupal-dev-live-files](https://www.nuget.org/packages/4oh3%2Fdrupal-dev-live-files) | 1.0.1 |  | Serves images (and optionally other public files) from the live site instead of… |
+| 2026-10-08 19:57:31 | [sereny/postgrest](https://www.nuget.org/packages/sereny%2Fpostgrest) | v0.1.0 | Sereny | A PostgREST connection driver that lets Laravel Eloquent models talk to a Postg… |
 
 ## Data source
 

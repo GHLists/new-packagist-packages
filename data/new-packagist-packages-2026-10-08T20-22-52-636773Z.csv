@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-08T19:24:30Z,jsonficator/jsonficator,v1.0.0,geckon01,"Framework-agnostic PHP library that converts natural language into structured data (arrays or PHP models) according to a schema, using LLM providers (OpenAI-compatible)."
+2026-10-08T19:53:18Z,4oh3/drupal-dev-live-files,1.0.1,,Serves images (and optionally other public files) from the live site instead of the local files directory. Intended for local development only.
+2026-10-08T19:57:31Z,sereny/postgrest,v0.1.0,Sereny,A PostgREST connection driver that lets Laravel Eloquent models talk to a PostgREST server over HTTP.
