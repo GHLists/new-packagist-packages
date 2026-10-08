@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 09:20 UTC
+## Latest list — 2026-10-08 10:19 UTC
 
-New packages created between 2026-10-08 08:22 UTC and 2026-10-08 09:20 UTC.
+New packages created between 2026-10-08 09:20 UTC and 2026-10-08 10:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T09-20-51-892813Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T10-19-28-032608Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 08:23:17 | [andronewille/sluis](https://www.nuget.org/packages/andronewille%2Fsluis) | v0.1.0 |  | Masks personal data in Dutch text on its way into an AI system, and puts it bac… |
-| 2026-10-08 08:23:17 | [andronewille/sluis-onnx](https://www.nuget.org/packages/andronewille%2Fsluis-onnx) | v0.1.0 |  | A local ONNX model as a Sluis recogniser: the names, streets and towns that no… |
-| 2026-10-08 08:27:26 | [hwkdo/llama-parse-laravel](https://www.nuget.org/packages/hwkdo%2Fllama-parse-laravel) | v0.1.0 | hwkdo | LlamaParse-Client für Laravel |
-| 2026-10-08 09:06:05 | [wpstarter/o-workbench](https://www.nuget.org/packages/wpstarter%2Fo-workbench) | v2.0 |  | Workbench Companion for Laravel Packages Development |
-| 2026-10-08 09:08:10 | [webatvantage/guzzle-log-middleware](https://www.nuget.org/packages/webatvantage%2Fguzzle-log-middleware) | 2.3.1 | George Mponos; Webatvantage | A Guzzle middleware to log request and responses automatically |
-| 2026-10-08 09:11:13 | [parisek/lint-kit](https://www.nuget.org/packages/parisek%2Flint-kit) | v0.1.0 |  | Twig and PHPStan lint rules for WordPress and Drupal projects: a CMS-neutral co… |
+| 2026-10-08 09:31:05 | [muhmd/laravel-autoseed](https://www.nuget.org/packages/muhmd%2Flaravel-autoseed) | v1.0.0 | Muhmdhamed | Scan the database schema and fill every table with realistic dummy data, respec… |
+| 2026-10-08 09:32:39 | [curtisjackson/bim-core](https://www.nuget.org/packages/curtisjackson%2Fbim-core) | 1.1.7 | Stanislav Semenov; Sergey Ans… | Bitrix db migration core libs |
+| 2026-10-08 09:56:09 | [networkteam/oauth2-server](https://www.nuget.org/packages/networkteam%2Foauth2-server) | v1.0.0 | Alex Bilbie; Andy Millington | Fork of league/oauth2-server 9.4.1 with support for PSR-7 1.1 and 2.0. |
+| 2026-10-08 10:01:51 | [cam5/domoarigato](https://www.nuget.org/packages/cam5%2Fdomoarigato) | v0.1.0 | Cameron Hurd | Build HTML in PHP with elements and attributes as objects: escaped by default,… |
+| 2026-10-08 10:04:57 | [nowo-tech/altcha-type-bundle](https://www.nuget.org/packages/nowo-tech%2Faltcha-type-bundle) | v1.0.0 | Nowo.tech | Symfony FormType for ALTCHA — privacy-friendly, self-hosted proof-of-work CAPTC… |
 
 ## Data source
 
