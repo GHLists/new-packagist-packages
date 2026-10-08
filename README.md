@@ -15,24 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 15:21 UTC
+## Latest list — 2026-10-08 16:19 UTC
 
-New packages created between 2026-10-08 14:22 UTC and 2026-10-08 15:21 UTC.
+New packages created between 2026-10-08 15:21 UTC and 2026-10-08 16:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T15-21-22-526536Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T16-19-51-338225Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 14:22:42 | [itxshakil/cpanel-whm](https://www.nuget.org/packages/itxshakil%2Fcpanel-whm) | v0.1.0 | Shakil Alam | A typed, token-only, fakeable cPanel WHM API 1 client for Laravel, with UAPI th… |
-| 2026-10-08 14:32:01 | [ymwl/think8-mcp](https://www.nuget.org/packages/ymwl%2Fthink8-mcp) | v1.0.0 | ymwl | MCP (Model Context Protocol) server for ThinkPHP 8.x — let AI tools (Claude Cod… |
-| 2026-10-08 14:39:02 | [fomvasss/laravel-notification-channel-gronosync](https://www.nuget.org/packages/fomvasss%2Flaravel-notification-channel-gronosync) | 0.1.1 | Fomin Vasil | Laravel notification channel for GronoSync — send messages via Telegram, WhatsA… |
-| 2026-10-08 14:40:53 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.4.2 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
-| 2026-10-08 14:40:53 | [astral-php/astral-extend-orm](https://www.nuget.org/packages/astral-php%2Fastral-extend-orm) | 0.1.1 | astral-php | Extension ORM pour Astral — Fillable, Casts, Accessors, Hidden, Relations décla… |
-| 2026-10-08 14:42:57 | [astral-php/astral-debug](https://www.nuget.org/packages/astral-php%2Fastral-debug) | 0.1.0 | astral-php | Barre de debug Astral — temps, mémoire, SQL, messages (dev uniquement) |
-| 2026-10-08 14:45:24 | [astral-php/astral-payment](https://www.nuget.org/packages/astral-php%2Fastral-payment) | 0.1.1 | astral-php | Intégration Stripe pour Astral — PaymentIntent, webhooks, events, remboursements |
-| 2026-10-08 14:49:18 | [novay/minios](https://www.nuget.org/packages/novay%2Fminios) | 0.0.5 | Noviyanto Rahmadi | MiniOS Desktop Environment for Laravel |
-| 2026-10-08 14:56:04 | [dniccum/linear-sdk](https://www.nuget.org/packages/dniccum%2Flinear-sdk) | v0.2.1 | Doug Niccum | A Laravel SDK for creating Linear issues from Eloquent models, with an optional… |
-| 2026-10-08 15:04:01 | [floxum/spam-prevention](https://www.nuget.org/packages/floxum%2Fspam-prevention) | 0.1.2 | Team Floxum | Spam prevention for your Flarum community. |
+| 2026-10-08 15:32:18 | [bahricanli/eyazisma](https://www.nuget.org/packages/bahricanli%2Feyazisma) | v0.1.0 | Bahri Meriç Canlı | e-Yazışma Paketi (EYP 2.x) oluşturma, okuma ve doğrulama; Laravel desteğiyle |
+| 2026-10-08 15:38:08 | [anjan-talukdar/laravel-api-mail](https://www.nuget.org/packages/anjan-talukdar%2Flaravel-api-mail) | v1.0.0 | Anjan Talukdar | Multi-provider HTTP API Mail driver and fluent message builder for Laravel (Hos… |
+| 2026-10-08 15:40:19 | [vipertecpro/pausewall-usage](https://www.nuget.org/packages/vipertecpro%2Fpausewall-usage) | v1.0.0 | Vipul Walia (vipertecpro) | Read-only app usage for NativePHP: how long each app was used today or over the… |
+| 2026-10-08 15:50:18 | [amphibee/meiliscout](https://www.nuget.org/packages/amphibee%2Fmeiliscout) | 2.0.0 | AmphiBee | Intégration de Meilisearch dans WordPress avec une approche modulaire et expres… |
+| 2026-10-08 16:08:13 | [goletter/hyperf-card](https://www.nuget.org/packages/goletter%2Fhyperf-card) | v1.0.0 | goletter | Hyperf 多平台发卡 SDK（Airwallex / Slash / Lampay / Photonpay / Wasabi），含 Factory、Bun… |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-08T15:32:18Z,bahricanli/eyazisma,v0.1.0,Bahri Meriç Canlı,"e-Yazışma Paketi (EYP 2.x) oluşturma, okuma ve doğrulama; Laravel desteğiyle"
+2026-10-08T15:38:08Z,anjan-talukdar/laravel-api-mail,v1.0.0,Anjan Talukdar,Multi-provider HTTP API Mail driver and fluent message builder for Laravel (Hostinger Mail API integration with automated mailbox resolution).
+2026-10-08T15:40:19Z,vipertecpro/pausewall-usage,v1.0.0,Vipul Walia (vipertecpro),"Read-only app usage for NativePHP: how long each app was used today or over the last 7 days, from PHP. A free, tiny companion to Pausewall for NativePHP. Android only; iOS reports unsupported."
+2026-10-08T15:50:18Z,amphibee/meiliscout,2.0.0,AmphiBee,Intégration de Meilisearch dans WordPress avec une approche modulaire et expressive.
+2026-10-08T16:08:13Z,goletter/hyperf-card,v1.0.0,goletter,Hyperf 多平台发卡 SDK（Airwallex / Slash / Lampay / Photonpay / Wasabi），含 Factory、Bundle 与可选统一适配层
