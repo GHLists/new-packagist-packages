@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-08T01:55:00Z,ramir1/laravel-planner,v0.1.1,Vadim Trofimov,"Database-backed planner of one-off deferred artisan commands for Laravel: schedule a command for a given time, group, cancel and inspect it."

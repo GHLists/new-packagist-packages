@@ -15,18 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 01:20 UTC
+## Latest list — 2026-10-08 02:18 UTC
 
-New packages created between 2026-10-08 00:21 UTC and 2026-10-08 01:20 UTC.
+New packages created between 2026-10-08 01:20 UTC and 2026-10-08 02:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T01-20-08-779321Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T02-18-47-877205Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 00:28:22 | [tamarackdb/tamarackdb-php](https://www.nuget.org/packages/tamarackdb%2Ftamarackdb-php) | v0.1.0 |  | PHP client for TamarackDB, an event store compliant with the DCB specification. |
-| 2026-10-08 00:43:55 | [jeffersongoncalves/filament-open-hours](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-open-hours) | 3.0.0 | Jefferson Gonçalves | Opening hours for Filament: manage the weekly schedule, holidays, special dates… |
-| 2026-10-08 00:43:55 | [jeffersongoncalves/laravel-open-hours](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-open-hours) | 1.0.0 | Jefferson Gonçalves | Business opening hours for Laravel, stored with spatie/laravel-settings: weekly… |
-| 2026-10-08 00:56:54 | [jeffersongoncalves/filament-editorial-theme](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-editorial-theme) | 1.0.0 | Jefferson Gonçalves | Editorial Terminal: a paper + terminal theme for Filament 5. Fraunces / DM Sans… |
+| 2026-10-08 01:55:00 | [ramir1/laravel-planner](https://www.nuget.org/packages/ramir1%2Flaravel-planner) | v0.1.1 | Vadim Trofimov | Database-backed planner of one-off deferred artisan commands for Laravel: sched… |
 
 ## Data source
 
