@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-08T05:19:34Z,basaltic-sh/sdk-php,v0.1.3,,Official PHP SDK for the Basaltic cloud platform
+2026-10-08T05:37:11Z,antevemus/aspecification,v1.4.3,Heliton Junior - CTO @ Antevemus Soluções Inovadoras em TI Ltda.,"Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Pattern, SQL Query Visitor, Adianti TCriteria, DAG Repositories)"
+2026-10-08T05:41:40Z,hipdevteam/ion-mu,v3.3.1,ION,ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Intelligence
+2026-10-08T05:53:23Z,antlerslabs/ziggy-db,v0.1.0,eXeis-ixt,"Secure, read-only production database pulls for local development with industry-standard guardrails."
+2026-10-08T06:07:54Z,patrickfischer/deltat,1.0.3,Patrick Fischer,"DeltaT lookup, sourced from https://maia.usno.navy.mil or fallback"

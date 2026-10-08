@@ -15,17 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 05:19 UTC
+## Latest list — 2026-10-08 06:20 UTC
 
-New packages created between 2026-10-08 04:20 UTC and 2026-10-08 05:19 UTC.
+New packages created between 2026-10-08 05:19 UTC and 2026-10-08 06:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T05-19-06-981686Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T06-20-32-173777Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 04:23:41 | [inovartecnologia/ofx-simple-parser](https://www.nuget.org/packages/inovartecnologia%2Fofx-simple-parser) | v1.0.0 |  | Leitor OFX 1.x para extratos de conta corrente |
-| 2026-10-08 04:51:45 | [mochipay/php-sdk](https://www.nuget.org/packages/mochipay%2Fphp-sdk) | v1.0.0 |  | PHP client for the MochiPay crypto payment order API. |
-| 2026-10-08 05:09:29 | [habeuk/habeuk_static_page](https://www.nuget.org/packages/habeuk%2Fhabeuk_static_page) | 1.0.0 | kouwa stephane | Pour les pages static principalement de promotion. |
+| 2026-10-08 05:19:34 | [basaltic-sh/sdk-php](https://www.nuget.org/packages/basaltic-sh%2Fsdk-php) | v0.1.3 |  | Official PHP SDK for the Basaltic cloud platform |
+| 2026-10-08 05:37:11 | [antevemus/aspecification](https://www.nuget.org/packages/antevemus%2Faspecification) | v1.4.3 | Heliton Junior - CTO @ Anteve… | Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Patt… |
+| 2026-10-08 05:41:40 | [hipdevteam/ion-mu](https://www.nuget.org/packages/hipdevteam%2Fion-mu) | v3.3.1 | ION | ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Inte… |
+| 2026-10-08 05:53:23 | [antlerslabs/ziggy-db](https://www.nuget.org/packages/antlerslabs%2Fziggy-db) | v0.1.0 | eXeis-ixt | Secure, read-only production database pulls for local development with industry… |
+| 2026-10-08 06:07:54 | [patrickfischer/deltat](https://www.nuget.org/packages/patrickfischer%2Fdeltat) | 1.0.3 | Patrick Fischer | DeltaT lookup, sourced from https://maia.usno.navy.mil or fallback |
 
 ## Data source
 
