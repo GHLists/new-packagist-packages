@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-08T08:23:17Z,andronewille/sluis,v0.1.0,,"Masks personal data in Dutch text on its way into an AI system, and puts it back on the way out. Offline, no dependency."
+2026-10-08T08:23:17Z,andronewille/sluis-onnx,v0.1.0,,"A local ONNX model as a Sluis recogniser: the names, streets and towns that no pattern and no list can find."
+2026-10-08T08:27:26Z,hwkdo/llama-parse-laravel,v0.1.0,hwkdo,LlamaParse-Client für Laravel
+2026-10-08T09:06:05Z,wpstarter/o-workbench,v2.0,,Workbench Companion for Laravel Packages Development
+2026-10-08T09:08:10Z,webatvantage/guzzle-log-middleware,2.3.1,George Mponos; Webatvantage,A Guzzle middleware to log request and responses automatically
+2026-10-08T09:11:13Z,parisek/lint-kit,v0.1.0,,Twig and PHPStan lint rules for WordPress and Drupal projects: a CMS-neutral core and one opt-in rule set per CMS.

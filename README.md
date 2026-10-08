@@ -15,20 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 08:22 UTC
+## Latest list — 2026-10-08 09:20 UTC
 
-New packages created between 2026-10-08 07:19 UTC and 2026-10-08 08:22 UTC.
+New packages created between 2026-10-08 08:22 UTC and 2026-10-08 09:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T08-22-57-972074Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T09-20-51-892813Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 07:21:20 | [kybdev/laravel-redis-read-cache](https://www.nuget.org/packages/kybdev%2Flaravel-redis-read-cache) | v1.0.1 |  | Transparent Redis read-through caching for Laravel applications. |
-| 2026-10-08 07:32:09 | [evilmartians/lefthook](https://www.nuget.org/packages/evilmartians%2Flefthook) | v2.2.0 | Evil Martians | Lefthook Git hooks manager, installable via Composer. |
-| 2026-10-08 07:38:05 | [patrickfischer/monolog-slack-safe](https://www.nuget.org/packages/patrickfischer%2Fmonolog-slack-safe) | 1.0.4 | Patrick Fischer | A non fatal version of the Monolog SlackWebhookHandler |
-| 2026-10-08 07:40:25 | [nguoingulanh/cashier-connect](https://www.nuget.org/packages/nguoingulanh%2Fcashier-connect) | v0.1.0 |  |  |
-| 2026-10-08 07:59:55 | [b4moss/crudian](https://www.nuget.org/packages/b4moss%2Fcrudian) | v0.12.0 | Kohki SHIKATA | CRUD abstraction for DDD repositories (PDO + libSQL preview) |
-| 2026-10-08 08:04:13 | [wpstarter/o-canvas](https://www.nuget.org/packages/wpstarter%2Fo-canvas) | v2.0 |  | Code Generators for Laravel Applications and Packages |
+| 2026-10-08 08:23:17 | [andronewille/sluis](https://www.nuget.org/packages/andronewille%2Fsluis) | v0.1.0 |  | Masks personal data in Dutch text on its way into an AI system, and puts it bac… |
+| 2026-10-08 08:23:17 | [andronewille/sluis-onnx](https://www.nuget.org/packages/andronewille%2Fsluis-onnx) | v0.1.0 |  | A local ONNX model as a Sluis recogniser: the names, streets and towns that no… |
+| 2026-10-08 08:27:26 | [hwkdo/llama-parse-laravel](https://www.nuget.org/packages/hwkdo%2Fllama-parse-laravel) | v0.1.0 | hwkdo | LlamaParse-Client für Laravel |
+| 2026-10-08 09:06:05 | [wpstarter/o-workbench](https://www.nuget.org/packages/wpstarter%2Fo-workbench) | v2.0 |  | Workbench Companion for Laravel Packages Development |
+| 2026-10-08 09:08:10 | [webatvantage/guzzle-log-middleware](https://www.nuget.org/packages/webatvantage%2Fguzzle-log-middleware) | 2.3.1 | George Mponos; Webatvantage | A Guzzle middleware to log request and responses automatically |
+| 2026-10-08 09:11:13 | [parisek/lint-kit](https://www.nuget.org/packages/parisek%2Flint-kit) | v0.1.0 |  | Twig and PHPStan lint rules for WordPress and Drupal projects: a CMS-neutral co… |
 
 ## Data source
 
