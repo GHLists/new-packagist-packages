@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 03:19 UTC
+## Latest list — 2026-10-08 05:19 UTC
 
-New packages created between 2026-10-08 02:18 UTC and 2026-10-08 03:19 UTC.
+New packages created between 2026-10-08 04:20 UTC and 2026-10-08 05:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T03-19-36-015818Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T05-19-06-981686Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 02:20:03 | [ramir1/laravel-planner](https://www.nuget.org/packages/ramir1%2Flaravel-planner) | v0.1.0 | Vadim Trofimov | Database-backed planner of one-off deferred artisan commands for Laravel: sched… |
-| 2026-10-08 02:23:32 | [contenir/contenir-mail](https://www.nuget.org/packages/contenir%2Fcontenir-mail) | 0.1.0 |  | Compose, parse, store and send text and MIME-compliant multipart e-mail message… |
-| 2026-10-08 02:31:30 | [ichynul/tpext-daisyui](https://www.nuget.org/packages/ichynul%2Ftpext-daisyui) | 5.0.1 | ichynul | tpext-builder UI library with Tailwind CSS + DaisyUI + Alpine.js (standalone re… |
-| 2026-10-08 02:45:53 | [reynotech/laravel-query-builder-custom](https://www.nuget.org/packages/reynotech%2Flaravel-query-builder-custom) | v0.0.1 | Samuel Casas | custom |
+| 2026-10-08 04:23:41 | [inovartecnologia/ofx-simple-parser](https://www.nuget.org/packages/inovartecnologia%2Fofx-simple-parser) | v1.0.0 |  | Leitor OFX 1.x para extratos de conta corrente |
+| 2026-10-08 04:51:45 | [mochipay/php-sdk](https://www.nuget.org/packages/mochipay%2Fphp-sdk) | v1.0.0 |  | PHP client for the MochiPay crypto payment order API. |
+| 2026-10-08 05:09:29 | [habeuk/habeuk_static_page](https://www.nuget.org/packages/habeuk%2Fhabeuk_static_page) | 1.0.0 | kouwa stephane | Pour les pages static principalement de promotion. |
 
 ## Data source
 

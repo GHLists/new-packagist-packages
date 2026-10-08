@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-08T04:23:41Z,inovartecnologia/ofx-simple-parser,v1.0.0,,Leitor OFX 1.x para extratos de conta corrente
+2026-10-08T04:51:45Z,mochipay/php-sdk,v1.0.0,,PHP client for the MochiPay crypto payment order API.
+2026-10-08T05:09:29Z,habeuk/habeuk_static_page,1.0.0,kouwa stephane,Pour les pages static principalement de promotion.
