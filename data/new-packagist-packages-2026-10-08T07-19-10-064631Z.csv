@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-08T06:26:34Z,venusian/build,0.10.1,Angel Gonzalez,Compiles a Venusian app into a native executable. Installed by venusian install:sdk.
+2026-10-08T06:30:46Z,gecka/wp-admin-menu,v1.0.0,Laurent Dinclaux,"A top-level WordPress admin menu several plugins share: pages made of tabs each plugin brings, rendered in one layout."
+2026-10-08T07:01:15Z,wpstarter/o-canvas-core,v2.0,,Code Generators Builder for Laravel Applications and Packages
+2026-10-08T07:06:50Z,drakelid/librenms-ups-battery,v1.0.0,,"LibreNMS plugin: rank devices by a selected sensor class (UPS runtime, load, charge ...)"

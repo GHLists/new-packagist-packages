@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 06:20 UTC
+## Latest list — 2026-10-08 07:19 UTC
 
-New packages created between 2026-10-08 05:19 UTC and 2026-10-08 06:20 UTC.
+New packages created between 2026-10-08 06:20 UTC and 2026-10-08 07:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T06-20-32-173777Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T07-19-10-064631Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 05:19:34 | [basaltic-sh/sdk-php](https://www.nuget.org/packages/basaltic-sh%2Fsdk-php) | v0.1.3 |  | Official PHP SDK for the Basaltic cloud platform |
-| 2026-10-08 05:37:11 | [antevemus/aspecification](https://www.nuget.org/packages/antevemus%2Faspecification) | v1.4.3 | Heliton Junior - CTO @ Anteve… | Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Patt… |
-| 2026-10-08 05:41:40 | [hipdevteam/ion-mu](https://www.nuget.org/packages/hipdevteam%2Fion-mu) | v3.3.1 | ION | ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Inte… |
-| 2026-10-08 05:53:23 | [antlerslabs/ziggy-db](https://www.nuget.org/packages/antlerslabs%2Fziggy-db) | v0.1.0 | eXeis-ixt | Secure, read-only production database pulls for local development with industry… |
-| 2026-10-08 06:07:54 | [patrickfischer/deltat](https://www.nuget.org/packages/patrickfischer%2Fdeltat) | 1.0.3 | Patrick Fischer | DeltaT lookup, sourced from https://maia.usno.navy.mil or fallback |
+| 2026-10-08 06:26:34 | [venusian/build](https://www.nuget.org/packages/venusian%2Fbuild) | 0.10.1 | Angel Gonzalez | Compiles a Venusian app into a native executable. Installed by venusian install… |
+| 2026-10-08 06:30:46 | [gecka/wp-admin-menu](https://www.nuget.org/packages/gecka%2Fwp-admin-menu) | v1.0.0 | Laurent Dinclaux | A top-level WordPress admin menu several plugins share: pages made of tabs each… |
+| 2026-10-08 07:01:15 | [wpstarter/o-canvas-core](https://www.nuget.org/packages/wpstarter%2Fo-canvas-core) | v2.0 |  | Code Generators Builder for Laravel Applications and Packages |
+| 2026-10-08 07:06:50 | [drakelid/librenms-ups-battery](https://www.nuget.org/packages/drakelid%2Flibrenms-ups-battery) | v1.0.0 |  | LibreNMS plugin: rank devices by a selected sensor class (UPS runtime, load, ch… |
 
 ## Data source
 
