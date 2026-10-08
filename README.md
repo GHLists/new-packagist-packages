@@ -15,18 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 07:19 UTC
+## Latest list — 2026-10-08 08:22 UTC
 
-New packages created between 2026-10-08 06:20 UTC and 2026-10-08 07:19 UTC.
+New packages created between 2026-10-08 07:19 UTC and 2026-10-08 08:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T07-19-10-064631Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T08-22-57-972074Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 06:26:34 | [venusian/build](https://www.nuget.org/packages/venusian%2Fbuild) | 0.10.1 | Angel Gonzalez | Compiles a Venusian app into a native executable. Installed by venusian install… |
-| 2026-10-08 06:30:46 | [gecka/wp-admin-menu](https://www.nuget.org/packages/gecka%2Fwp-admin-menu) | v1.0.0 | Laurent Dinclaux | A top-level WordPress admin menu several plugins share: pages made of tabs each… |
-| 2026-10-08 07:01:15 | [wpstarter/o-canvas-core](https://www.nuget.org/packages/wpstarter%2Fo-canvas-core) | v2.0 |  | Code Generators Builder for Laravel Applications and Packages |
-| 2026-10-08 07:06:50 | [drakelid/librenms-ups-battery](https://www.nuget.org/packages/drakelid%2Flibrenms-ups-battery) | v1.0.0 |  | LibreNMS plugin: rank devices by a selected sensor class (UPS runtime, load, ch… |
+| 2026-10-08 07:21:20 | [kybdev/laravel-redis-read-cache](https://www.nuget.org/packages/kybdev%2Flaravel-redis-read-cache) | v1.0.1 |  | Transparent Redis read-through caching for Laravel applications. |
+| 2026-10-08 07:32:09 | [evilmartians/lefthook](https://www.nuget.org/packages/evilmartians%2Flefthook) | v2.2.0 | Evil Martians | Lefthook Git hooks manager, installable via Composer. |
+| 2026-10-08 07:38:05 | [patrickfischer/monolog-slack-safe](https://www.nuget.org/packages/patrickfischer%2Fmonolog-slack-safe) | 1.0.4 | Patrick Fischer | A non fatal version of the Monolog SlackWebhookHandler |
+| 2026-10-08 07:40:25 | [nguoingulanh/cashier-connect](https://www.nuget.org/packages/nguoingulanh%2Fcashier-connect) | v0.1.0 |  |  |
+| 2026-10-08 07:59:55 | [b4moss/crudian](https://www.nuget.org/packages/b4moss%2Fcrudian) | v0.12.0 | Kohki SHIKATA | CRUD abstraction for DDD repositories (PDO + libSQL preview) |
+| 2026-10-08 08:04:13 | [wpstarter/o-canvas](https://www.nuget.org/packages/wpstarter%2Fo-canvas) | v2.0 |  | Code Generators for Laravel Applications and Packages |
 
 ## Data source
 

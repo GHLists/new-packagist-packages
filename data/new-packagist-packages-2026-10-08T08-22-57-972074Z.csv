@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-08T07:21:20Z,kybdev/laravel-redis-read-cache,v1.0.1,,Transparent Redis read-through caching for Laravel applications.
+2026-10-08T07:32:09Z,evilmartians/lefthook,v2.2.0,Evil Martians,"Lefthook Git hooks manager, installable via Composer."
+2026-10-08T07:38:05Z,patrickfischer/monolog-slack-safe,1.0.4,Patrick Fischer,A non fatal version of the Monolog SlackWebhookHandler
+2026-10-08T07:40:25Z,nguoingulanh/cashier-connect,v0.1.0,,
+2026-10-08T07:59:55Z,b4moss/crudian,v0.12.0,Kohki SHIKATA,CRUD abstraction for DDD repositories (PDO + libSQL preview)
+2026-10-08T08:04:13Z,wpstarter/o-canvas,v2.0,,Code Generators for Laravel Applications and Packages
