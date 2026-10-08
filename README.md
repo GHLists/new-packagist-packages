@@ -15,24 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 13:21 UTC
+## Latest list — 2026-10-08 14:22 UTC
 
-New packages created between 2026-10-08 12:18 UTC and 2026-10-08 13:21 UTC.
+New packages created between 2026-10-08 13:21 UTC and 2026-10-08 14:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T13-21-12-0538Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T14-22-19-495561Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 12:21:13 | [lekoala/kaly-forms](https://www.nuget.org/packages/lekoala%2Fkaly-forms) | 0.1.0 | Thomas | Small framework-independent server-first forms DSL with progressive enhancement… |
-| 2026-10-08 12:39:35 | [codalaya/php-project-install-wizard](https://www.nuget.org/packages/codalaya%2Fphp-project-install-wizard) | v1.0.1 | Rajesh Chaurasiya | Web installer for Laravel products: requirements, permissions, database, option… |
-| 2026-10-08 12:39:43 | [wmd/craft-design-field](https://www.nuget.org/packages/wmd%2Fcraft-design-field) | 1.0.1 | WMD | One field for every design option of a block: tone, spacing, layout, columns an… |
-| 2026-10-08 12:42:04 | [tilscn/laravel-starter](https://www.nuget.org/packages/tilscn%2Flaravel-starter) | 12.0.0 | tilscn | A Laravel package for various utilities and features. |
-| 2026-10-08 12:51:12 | [wexample/symfony-media](https://www.nuget.org/packages/wexample%2Fsymfony-media) | 1.0.1 |  |  |
-| 2026-10-08 12:52:01 | [wexample/symfony-media-ds](https://www.nuget.org/packages/wexample%2Fsymfony-media-ds) | 1.0.1 |  |  |
-| 2026-10-08 12:52:53 | [youmad/endurance-fit-repair](https://www.nuget.org/packages/youmad%2Fendurance-fit-repair) | v0.1.0 |  | Preserving FIT activity repair with JSON audit reports |
-| 2026-10-08 12:53:07 | [wexample/symfony-media-demo](https://www.nuget.org/packages/wexample%2Fsymfony-media-demo) | 1.0.1 |  |  |
-| 2026-10-08 13:04:54 | [nodexstudiovn/installer](https://www.nuget.org/packages/nodexstudiovn%2Finstaller) | 1.0.2 | Nguyễn Anh Kiệt | The official CLI project installer for NodeX Studio Framework v1.1.0. |
-| 2026-10-08 13:04:54 | [rishadblack/wire-bootstrap](https://www.nuget.org/packages/rishadblack%2Fwire-bootstrap) | 1.0.0 | S M Rishad | Livewire-native Bootstrap 5.3 UI: one artisan command sets up Bootstrap, Vite a… |
+| 2026-10-08 13:24:29 | [appolodev/form-builder-bundle](https://www.nuget.org/packages/appolodev%2Fform-builder-bundle) | v1.0.0 | Fredxd | Moteur de formulaires personnalisés pour Symfony : structure, rendu, réponses e… |
+| 2026-10-08 13:26:05 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.2.4 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
+| 2026-10-08 13:26:29 | [novay/minios](https://www.nuget.org/packages/novay%2Fminios) | 0.0.2 | Noviyanto Rahmadi | MiniOS Desktop Environment for Laravel |
+| 2026-10-08 13:44:37 | [obj63mc/silverstripe-forager-elasticsearch](https://www.nuget.org/packages/obj63mc%2Fsilverstripe-forager-elasticsearch) | 0.0.1 | Joe Madden | Elasticsearch provider for silverstripe/silverstripe-forager, using the officia… |
+| 2026-10-08 13:55:38 | [wexample/symfony-bpmn](https://www.nuget.org/packages/wexample%2Fsymfony-bpmn) | 1.0.1 |  |  |
+| 2026-10-08 13:56:20 | [wexample/symfony-bpmn-ds](https://www.nuget.org/packages/wexample%2Fsymfony-bpmn-ds) | 1.0.1 |  |  |
+| 2026-10-08 13:57:09 | [wexample/symfony-bpmn-demo](https://www.nuget.org/packages/wexample%2Fsymfony-bpmn-demo) | 1.0.1 |  |  |
+| 2026-10-08 13:57:57 | [wexample/php-bpmn](https://www.nuget.org/packages/wexample%2Fphp-bpmn) | 1.0.1 |  |  |
 
 ## Data source
 
