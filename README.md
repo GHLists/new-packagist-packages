@@ -15,15 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 23:20 UTC
+## Latest list — 2026-10-08 00:21 UTC
 
-New packages created between 2026-10-07 22:21 UTC and 2026-10-07 23:20 UTC.
+New packages created between 2026-10-07 23:20 UTC and 2026-10-08 00:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-07T23-20-06-16127Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T00-21-55-124986Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 22:46:16 | [soft-tech-mx/laravel-made](https://www.nuget.org/packages/soft-tech-mx%2Flaravel-made) | v1.0.2 | Bayron Vazquez | Conjunto base de dependencias y configuración inicial que SoftTechMX usa en tod… |
+| 2026-10-07 23:29:35 | [skunkwerkx/hypertabular](https://www.nuget.org/packages/skunkwerkx%2Fhypertabular) | v0.7.0 | Brian Buvinghausen | Delimited text (CSV, TSV) and workbooks (XLSX, ODS) read a batch at a time into… |
+| 2026-10-07 23:53:30 | [opensolr/chat-bot-client](https://www.nuget.org/packages/opensolr%2Fchat-bot-client) | v0.1.3 |  | A chatbot for any website whose content is in an Opensolr Index: mounted on one… |
+| 2026-10-08 00:19:34 | [jeffersongoncalves/filament-translation-manager](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-translation-manager) | 3.0.0 | Jefferson Gonçalves | Translation manager for Filament: edit app, JSON and vendor package translation… |
+| 2026-10-08 00:19:34 | [jeffersongoncalves/laravel-translation-manager](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-translation-manager) | 1.0.0 | Jefferson Gonçalves | Database overrides for Laravel translations: edit any key - app, JSON or vendor… |
 
 ## Data source
 
