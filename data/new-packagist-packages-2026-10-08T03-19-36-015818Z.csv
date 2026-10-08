@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-08T02:20:03Z,ramir1/laravel-planner,v0.1.0,Vadim Trofimov,"Database-backed planner of one-off deferred artisan commands for Laravel: schedule a command for a given time, group, cancel and inspect it."
+2026-10-08T02:23:32Z,contenir/contenir-mail,0.1.0,,"Compose, parse, store and send text and MIME-compliant multipart e-mail messages. A maintained continuation of laminas/laminas-mail and laminas/laminas-mime."
+2026-10-08T02:31:30Z,ichynul/tpext-daisyui,5.0.1,ichynul,tpext-builder UI library with Tailwind CSS + DaisyUI + Alpine.js (standalone replacement)
+2026-10-08T02:45:53Z,reynotech/laravel-query-builder-custom,v0.0.1,Samuel Casas,custom

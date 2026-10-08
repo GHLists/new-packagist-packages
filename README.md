@@ -15,15 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 02:18 UTC
+## Latest list — 2026-10-08 03:19 UTC
 
-New packages created between 2026-10-08 01:20 UTC and 2026-10-08 02:18 UTC.
+New packages created between 2026-10-08 02:18 UTC and 2026-10-08 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T02-18-47-877205Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T03-19-36-015818Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-08 01:55:00 | [ramir1/laravel-planner](https://www.nuget.org/packages/ramir1%2Flaravel-planner) | v0.1.1 | Vadim Trofimov | Database-backed planner of one-off deferred artisan commands for Laravel: sched… |
+| 2026-10-08 02:20:03 | [ramir1/laravel-planner](https://www.nuget.org/packages/ramir1%2Flaravel-planner) | v0.1.0 | Vadim Trofimov | Database-backed planner of one-off deferred artisan commands for Laravel: sched… |
+| 2026-10-08 02:23:32 | [contenir/contenir-mail](https://www.nuget.org/packages/contenir%2Fcontenir-mail) | 0.1.0 |  | Compose, parse, store and send text and MIME-compliant multipart e-mail message… |
+| 2026-10-08 02:31:30 | [ichynul/tpext-daisyui](https://www.nuget.org/packages/ichynul%2Ftpext-daisyui) | 5.0.1 | ichynul | tpext-builder UI library with Tailwind CSS + DaisyUI + Alpine.js (standalone re… |
+| 2026-10-08 02:45:53 | [reynotech/laravel-query-builder-custom](https://www.nuget.org/packages/reynotech%2Flaravel-query-builder-custom) | v0.0.1 | Samuel Casas | custom |
 
 ## Data source
 
