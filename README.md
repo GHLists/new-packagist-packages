@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 00:21 UTC
+## Latest list — 2026-10-08 01:20 UTC
 
-New packages created between 2026-10-07 23:20 UTC and 2026-10-08 00:21 UTC.
+New packages created between 2026-10-08 00:21 UTC and 2026-10-08 01:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-08T00-21-55-124986Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-08T01-20-08-779321Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-07 23:29:35 | [skunkwerkx/hypertabular](https://www.nuget.org/packages/skunkwerkx%2Fhypertabular) | v0.7.0 | Brian Buvinghausen | Delimited text (CSV, TSV) and workbooks (XLSX, ODS) read a batch at a time into… |
-| 2026-10-07 23:53:30 | [opensolr/chat-bot-client](https://www.nuget.org/packages/opensolr%2Fchat-bot-client) | v0.1.3 |  | A chatbot for any website whose content is in an Opensolr Index: mounted on one… |
-| 2026-10-08 00:19:34 | [jeffersongoncalves/filament-translation-manager](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-translation-manager) | 3.0.0 | Jefferson Gonçalves | Translation manager for Filament: edit app, JSON and vendor package translation… |
-| 2026-10-08 00:19:34 | [jeffersongoncalves/laravel-translation-manager](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-translation-manager) | 1.0.0 | Jefferson Gonçalves | Database overrides for Laravel translations: edit any key - app, JSON or vendor… |
+| 2026-10-08 00:28:22 | [tamarackdb/tamarackdb-php](https://www.nuget.org/packages/tamarackdb%2Ftamarackdb-php) | v0.1.0 |  | PHP client for TamarackDB, an event store compliant with the DCB specification. |
+| 2026-10-08 00:43:55 | [jeffersongoncalves/filament-open-hours](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-open-hours) | 3.0.0 | Jefferson Gonçalves | Opening hours for Filament: manage the weekly schedule, holidays, special dates… |
+| 2026-10-08 00:43:55 | [jeffersongoncalves/laravel-open-hours](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-open-hours) | 1.0.0 | Jefferson Gonçalves | Business opening hours for Laravel, stored with spatie/laravel-settings: weekly… |
+| 2026-10-08 00:56:54 | [jeffersongoncalves/filament-editorial-theme](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-editorial-theme) | 1.0.0 | Jefferson Gonçalves | Editorial Terminal: a paper + terminal theme for Filament 5. Fraunces / DM Sans… |
 
 ## Data source
 

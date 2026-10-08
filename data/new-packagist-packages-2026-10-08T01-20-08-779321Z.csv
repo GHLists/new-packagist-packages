@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-08T00:28:22Z,tamarackdb/tamarackdb-php,v0.1.0,,"PHP client for TamarackDB, an event store compliant with the DCB specification."
+2026-10-08T00:43:55Z,jeffersongoncalves/filament-open-hours,3.0.0,Jefferson Gonçalves,"Opening hours for Filament: manage the weekly schedule, holidays, special dates and timezone from a settings page and show an open/closed status widget, powered by laravel-open-hours."
+2026-10-08T00:43:55Z,jeffersongoncalves/laravel-open-hours,1.0.0,Jefferson Gonçalves,"Business opening hours for Laravel, stored with spatie/laravel-settings: weekly schedule, holidays and special dates, timezone, isOpen/nextOpen helpers, a Blade directive and a status component."
+2026-10-08T00:56:54Z,jeffersongoncalves/filament-editorial-theme,1.0.0,Jefferson Gonçalves,"Editorial Terminal: a paper + terminal theme for Filament 5. Fraunces / DM Sans / JetBrains Mono typography, amber palette, light and dark schemes, sidebar layout fixes, footer and status partials and an optional terminal-style login."
