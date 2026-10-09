@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-09T06:26:33Z,taldres/laravel-immutable-attributes,v1.0.0,Dennis Petersmann,Guard Eloquent model attributes against changes once a row exists: declare them with #[Immutable] and every save that would alter them throws.
+2026-10-09T06:31:35Z,crawlora/reddit,v0.1.1,,Reddit client for the Crawlora hosted API
+2026-10-09T06:31:54Z,crawlora/amazon,v0.1.1,,Amazon client for the Crawlora hosted API
+2026-10-09T06:32:27Z,crawlora/imdb,v0.1.1,,IMDb client for the Crawlora hosted API
+2026-10-09T06:37:37Z,crawlora/tiktok,v0.1.1,,TikTok client for the Crawlora hosted API
+2026-10-09T06:42:49Z,omroepgelderland/php-coding-standard,0.1.0,Remy Glaser,PHP coding standard used by Omroep Gelderland.
+2026-10-09T07:03:06Z,digit7s/laravel-audit-toolkit,v0.1.0,Digit7s,"A Laravel-native, privacy-conscious audit event recorder and read API."
+2026-10-09T07:03:07Z,digit7s/filament-audit-toolkit,v0.1.0,Digit7s,A read-only Filament 5 explorer and record history for Digit7s Laravel audit events.

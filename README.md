@@ -15,16 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 05:19 UTC
+## Latest list — 2026-10-09 07:19 UTC
 
-New packages created between 2026-10-09 04:19 UTC and 2026-10-09 05:19 UTC.
+New packages created between 2026-10-09 06:20 UTC and 2026-10-09 07:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T05-19-57-769097Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T07-19-33-175628Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 04:27:55 | [max-messenger-bot/max-bot-sender-php](https://www.nuget.org/packages/max-messenger-bot%2Fmax-bot-sender-php) | 1.0.0 | Eugene Makhaev | PHP library for sending messages via the Max Messenger Bot API |
-| 2026-10-09 04:33:26 | [klyp/wordpress](https://www.nuget.org/packages/klyp%2Fwordpress) | 7.1.2 |  |  |
+| 2026-10-09 06:26:33 | [taldres/laravel-immutable-attributes](https://www.nuget.org/packages/taldres%2Flaravel-immutable-attributes) | v1.0.0 | Dennis Petersmann | Guard Eloquent model attributes against changes once a row exists: declare them… |
+| 2026-10-09 06:31:35 | [crawlora/reddit](https://www.nuget.org/packages/crawlora%2Freddit) | v0.1.1 |  | Reddit client for the Crawlora hosted API |
+| 2026-10-09 06:31:54 | [crawlora/amazon](https://www.nuget.org/packages/crawlora%2Famazon) | v0.1.1 |  | Amazon client for the Crawlora hosted API |
+| 2026-10-09 06:32:27 | [crawlora/imdb](https://www.nuget.org/packages/crawlora%2Fimdb) | v0.1.1 |  | IMDb client for the Crawlora hosted API |
+| 2026-10-09 06:37:37 | [crawlora/tiktok](https://www.nuget.org/packages/crawlora%2Ftiktok) | v0.1.1 |  | TikTok client for the Crawlora hosted API |
+| 2026-10-09 06:42:49 | [omroepgelderland/php-coding-standard](https://www.nuget.org/packages/omroepgelderland%2Fphp-coding-standard) | 0.1.0 | Remy Glaser | PHP coding standard used by Omroep Gelderland. |
+| 2026-10-09 07:03:06 | [digit7s/laravel-audit-toolkit](https://www.nuget.org/packages/digit7s%2Flaravel-audit-toolkit) | v0.1.0 | Digit7s | A Laravel-native, privacy-conscious audit event recorder and read API. |
+| 2026-10-09 07:03:07 | [digit7s/filament-audit-toolkit](https://www.nuget.org/packages/digit7s%2Ffilament-audit-toolkit) | v0.1.0 | Digit7s | A read-only Filament 5 explorer and record history for Digit7s Laravel audit ev… |
 
 ## Data source
 
