@@ -15,16 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 18:19 UTC
+## Latest list — 2026-10-09 19:21 UTC
 
-New packages created between 2026-10-09 17:21 UTC and 2026-10-09 18:19 UTC.
+New packages created between 2026-10-09 18:19 UTC and 2026-10-09 19:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T18-19-56-731421Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T19-21-41-431871Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 17:37:19 | [oniichann/cheap-sql-scheme](https://www.nuget.org/packages/oniichann%2Fcheap-sql-scheme) | v1.0.0 | Oniichann | Визуальный редактор схем БД для Laravel: таблицы, колонки и связи на холсте, им… |
-| 2026-10-09 17:39:18 | [reactll/connect](https://www.nuget.org/packages/reactll%2Fconnect) | v1.0.0 | Reactor Technology | Reactll Connect for Laravel: visits, clicks, form leads and site health for you… |
+| 2026-10-09 18:26:39 | [camindo/cms](https://www.nuget.org/packages/camindo%2Fcms) | v9.0.0 |  | camindo CMS - multi-site, multilingual content management in PHP. Installed int… |
+| 2026-10-09 18:26:39 | [camindo/project](https://www.nuget.org/packages/camindo%2Fproject) | v9.0.0 |  | camindo CMS project skeleton: composer create-project camindo/project mysite |
+| 2026-10-09 18:28:56 | [iranimij/module-base](https://www.nuget.org/packages/iranimij%2Fmodule-base) | v1.0.0 | Iman Aboheydary | Tiny shared base module for Iranimij Magento 2 extensions: a config tab, an ins… |
+| 2026-10-09 18:30:23 | [matgro/dify-sdk](https://www.nuget.org/packages/matgro%2Fdify-sdk) | v0.1.0 |  | PHP SDK for the Dify datasets and documents API. |
+| 2026-10-09 18:41:30 | [everysize/checkout-oxid](https://www.nuget.org/packages/everysize%2Fcheckout-oxid) | 1.1.3 | everysize GmbH | everysize Checkout – Modul für OXID eShop 7 |
+| 2026-10-09 18:41:42 | [hubmais/h-checkout-onboarding](https://www.nuget.org/packages/hubmais%2Fh-checkout-onboarding) | 1.0.1 |  | Plugin to onboarding for HUBMAIS |
 
 ## Data source
 
