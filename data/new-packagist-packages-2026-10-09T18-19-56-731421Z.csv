@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-09T17:37:19Z,oniichann/cheap-sql-scheme,v1.0.0,Oniichann,"Визуальный редактор схем БД для Laravel: таблицы, колонки и связи на холсте, импорт из SQL-дампа или миграций, экспорт в миграции Laravel и .sql для MySQL, PostgreSQL и SQLite."
+2026-10-09T17:39:18Z,reactll/connect,v1.0.0,Reactor Technology,"Reactll Connect for Laravel: visits, clicks, form leads and site health for your Reactll dashboard."
