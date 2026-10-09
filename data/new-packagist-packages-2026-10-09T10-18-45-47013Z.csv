@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-09T09:32:11Z,vadimermolenko8787/scanner-trap,0.1.0,Vadym Yermolenko,"Blacklists vulnerability scanners on their first probe of a decoy path such as /.env. File, Redis or APCu storage, optional central database for several servers."
+2026-10-09T09:35:41Z,soderlind/ps-last-updated,1.0.0,Per Soderlind,Adds a sortable Last Updated column to public post type admin lists.
+2026-10-09T09:36:41Z,tombroucke/acorn-wpml-livewire-fix,1.0.0,Tom Broucke,"Prevents WPML from appending the language path to home_url() when Acorn sets the Laravel root URL, fixing broken Livewire asset and update URLs on translated pages."
+2026-10-09T09:50:55Z,sitepark/oparl-client,1.0.0,Felix Becker,"Client for OParl 1.0 and 1.1, the standard interface of German council information systems"
