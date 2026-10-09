@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-09T22:23:05Z,usamamuneerchaudhary/laravel-slipway,1.2,Usama Muneer Chaudhary,"Define your CI/CD pipeline once in config/slipway.php and compile it to GitHub Actions, Bitbucket Pipelines and GitLab CI."
+2026-10-09T22:39:07Z,toreador/flarum-mail-audit,v1.0.1,Toreador,"Records every outgoing Flarum email in the database and lets admins inspect recipients, subject, HTML/text bodies and headers from the admin panel."
+2026-10-09T22:56:27Z,scottoffen/markdown-converter,v1.0.0,Scott Offen,"Converts Markdown to safe HTML, with GitHub-style tables, images, and alerts."
+2026-10-09T23:03:20Z,fbpkg/laravel-guards,v0.1.0,Farzad Sharifi,Authentication guards and session management for Laravel.

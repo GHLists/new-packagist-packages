@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 22:21 UTC
+## Latest list — 2026-10-09 23:20 UTC
 
-New packages created between 2026-10-09 21:20 UTC and 2026-10-09 22:21 UTC.
+New packages created between 2026-10-09 22:21 UTC and 2026-10-09 23:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T22-21-23-734562Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T23-20-40-813334Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 21:26:11 | [camindo/module-pdf](https://www.nuget.org/packages/camindo%2Fmodule-pdf) | v1.0.0 |  | camindo CMS module: PDF documents from frontend templates (CMS:PDF_* commands)… |
-| 2026-10-09 21:35:17 | [nhanaz/libregrsp](https://www.nuget.org/packages/nhanaz%2Flibregrsp) | v1.0.5 |  | Resource pack compiler and registrar for Axolotl-PM plugins |
-| 2026-10-09 21:36:21 | [onetracepro/onetrace-bitrix](https://www.nuget.org/packages/onetracepro%2Fonetrace-bitrix) | v1.1.0 |  | 1C-Bitrix module for the OneTrace.pro customer data platform: server-side order… |
-| 2026-10-09 21:40:20 | [angrychimp/php-dkim](https://www.nuget.org/packages/angrychimp%2Fphp-dkim) | 0.4.0 | Randall Kahler | Finally, a PHP5 class for not just signing, but _verifying_ DKIM signatures. |
-| 2026-10-09 21:48:23 | [polaris/passkey](https://www.nuget.org/packages/polaris%2Fpasskey) | v0.8.0 | 2am.tech | Passkeys for Polaris for PHP: WebAuthn registration and discoverable sign-in wi… |
-| 2026-10-09 21:48:23 | [polaris/social](https://www.nuget.org/packages/polaris%2Fsocial) | v0.8.0 | 2am.tech | Social sign-in for Polaris for PHP: OAuth 2.0 and OpenID Connect providers (Goo… |
+| 2026-10-09 22:23:05 | [usamamuneerchaudhary/laravel-slipway](https://www.nuget.org/packages/usamamuneerchaudhary%2Flaravel-slipway) | 1.2 | Usama Muneer Chaudhary | Define your CI/CD pipeline once in config/slipway.php and compile it to GitHub… |
+| 2026-10-09 22:39:07 | [toreador/flarum-mail-audit](https://www.nuget.org/packages/toreador%2Fflarum-mail-audit) | v1.0.1 | Toreador | Records every outgoing Flarum email in the database and lets admins inspect rec… |
+| 2026-10-09 22:56:27 | [scottoffen/markdown-converter](https://www.nuget.org/packages/scottoffen%2Fmarkdown-converter) | v1.0.0 | Scott Offen | Converts Markdown to safe HTML, with GitHub-style tables, images, and alerts. |
+| 2026-10-09 23:03:20 | [fbpkg/laravel-guards](https://www.nuget.org/packages/fbpkg%2Flaravel-guards) | v0.1.0 | Farzad Sharifi | Authentication guards and session management for Laravel. |
 
 ## Data source
 
