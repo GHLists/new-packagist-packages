@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-10-09T14:21:20Z,ak279642/laravel-infrastructure,v1.4.8,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."
+2026-10-09T14:31:38Z,survos/workflow-async-bundle,2.36.0,,Queued native Symfony workflow transitions through Messenger
+2026-10-09T14:31:44Z,survos/workflow-extras-bundle,2.36.0,,Metadata conveniences and next-transition selection for native Symfony workflows
+2026-10-09T14:33:45Z,spits-online/laravel-options,V1.0.0,Spits,Cached database options for Laravel
+2026-10-09T14:34:28Z,afaztech/reactor-broadcast,v0.1.0,Abolfazl Majidi (Afaz),Broadcast (send / copy / forward) with progress statistics for Reactor bots.
+2026-10-09T14:36:14Z,webx-ui/themes,v0.66.0,WebX UI,"Site themes as layers: a local theme over a packaged one over the modules, resolved into one view order, one token vocabulary and one set of assets."
+2026-10-09T14:53:51Z,webx-ui/widgets,v0.66.0,WebX UI,"The interactive pieces every site repeats — menus, dialogs, tabs, accordions, cookie consent and, next, sliders, video and maps — with their logic and accessibility done and their look left to the theme, loaded only on the pages that use them."
+2026-10-09T14:54:28Z,medienreaktor/neos-api-mcp,0.1.0,,"An MCP server for Neos 9 on top of the Neos API: Claude and other MCP clients work with your content, signed in as a Neos user."
+2026-10-09T14:54:34Z,webx-ui/theme-default,v0.66.0,WebX UI,"The theme every new WebX UI site stands on: a value for every site token, the page shell and the typography of prose — a neutral starting point, written to be overridden."
+2026-10-09T14:57:28Z,rafathomas/laravel-architecture-guard,v0.1.0,,AST-based architectural dependency checks for Laravel and PHP projects.
+2026-10-09T14:57:32Z,jengo/search,v0.1.0,Ian Ochieng,"Enterprise-grade, multi-driver full-text and semantic search engine subsystem for CodeIgniter 4 and the Jengo Framework."
+2026-10-09T15:19:25Z,osw3/wp-feat-analytics,0.0.1,OSW3,.

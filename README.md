@@ -15,29 +15,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 14:19 UTC
+## Latest list — 2026-10-09 15:23 UTC
 
-New packages created between 2026-10-09 13:18 UTC and 2026-10-09 14:19 UTC.
+New packages created between 2026-10-09 14:19 UTC and 2026-10-09 15:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T14-19-58-225768Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T15-23-14-899962Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 13:23:29 | [incognito-coder/ic-telegram-bot](https://www.nuget.org/packages/incognito-coder%2Fic-telegram-bot) | 2.0.0 | Incognito Coder | Lightweight, zero-dependency PHP Telegram Bot library based on the official Tel… |
-| 2026-10-09 13:26:07 | [pinkcrab/action-scheduler_stubs](https://www.nuget.org/packages/pinkcrab%2Faction-scheduler_stubs) | 4.2.0 |  | Action Scheduler stubs for static analysis. |
-| 2026-10-09 13:28:11 | [wexample/symfony-cart-ds](https://www.nuget.org/packages/wexample%2Fsymfony-cart-ds) | 1.0.1 |  |  |
-| 2026-10-09 13:29:09 | [pinkcrab/wordpress-seo_stubs](https://www.nuget.org/packages/pinkcrab%2Fwordpress-seo_stubs) | 28.5 |  | Yoast SEO stubs for static analysis. |
-| 2026-10-09 13:29:42 | [wexample/symfony-cart-demo](https://www.nuget.org/packages/wexample%2Fsymfony-cart-demo) | 1.0.1 |  |  |
-| 2026-10-09 13:30:51 | [dave-liddament/phpstan-effect-system](https://www.nuget.org/packages/dave-liddament%2Fphpstan-effect-system) | 0.2.0 | Dave | PHPStan extension implementing a lightweight effect system: declare effects at… |
-| 2026-10-09 13:31:54 | [shamimsofte/laravel-universal-editor](https://www.nuget.org/packages/shamimsofte%2Flaravel-universal-editor) | 1.0.0 | shamimSoftE | Enterprise Laravel integration package for Universal Rich Text Editor |
-| 2026-10-09 13:33:57 | [alibabacloud/airegistry](https://www.nuget.org/packages/alibabacloud%2Fairegistry) | 1.8.2346 | Alibaba Cloud SDK | Alibaba Cloud AIRegistry SDK for PHP |
-| 2026-10-09 13:37:54 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.4.7 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
-| 2026-10-09 13:40:52 | [se7enxweb/exp_oe_tiptap](https://www.nuget.org/packages/se7enxweb%2Fexp_oe_tiptap) | v0.1.0 | 7x | A Tiptap based online editor for ezxmltext fields in Exponential 6, switchable… |
-| 2026-10-09 13:42:14 | [gisostallenberg/heartbeat-monitoring](https://www.nuget.org/packages/gisostallenberg%2Fheartbeat-monitoring) | v0.1.0 |  | Adapter-based, DSN-driven heartbeat / cron-job / dead-man's-switch monitoring f… |
-| 2026-10-09 13:44:47 | [leancaptain/lara-email](https://www.nuget.org/packages/leancaptain%2Flara-email) | v0.1.0 | Mahmudul Hasan | Minimal Laravel validation that rejects example and disposable email domains an… |
-| 2026-10-09 13:59:43 | [sendermaster/laravel](https://www.nuget.org/packages/sendermaster%2Flaravel) | v0.1.2 |  | SenderMaster server APIs and durable Laravel delivery |
-| 2026-10-09 14:01:31 | [pinkcrab/polylang_stubs](https://www.nuget.org/packages/pinkcrab%2Fpolylang_stubs) | 3.8.10 |  | Polylang stubs for static analysis. |
-| 2026-10-09 14:04:10 | [pinkcrab/translatepress-multilingual_stubs](https://www.nuget.org/packages/pinkcrab%2Ftranslatepress-multilingual_stubs) | 3.3.7 |  | TranslatePress - Multilingual stubs for static analysis. |
+| 2026-10-09 14:21:20 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.4.8 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
+| 2026-10-09 14:31:38 | [survos/workflow-async-bundle](https://www.nuget.org/packages/survos%2Fworkflow-async-bundle) | 2.36.0 |  | Queued native Symfony workflow transitions through Messenger |
+| 2026-10-09 14:31:44 | [survos/workflow-extras-bundle](https://www.nuget.org/packages/survos%2Fworkflow-extras-bundle) | 2.36.0 |  | Metadata conveniences and next-transition selection for native Symfony workflows |
+| 2026-10-09 14:33:45 | [spits-online/laravel-options](https://www.nuget.org/packages/spits-online%2Flaravel-options) | V1.0.0 | Spits | Cached database options for Laravel |
+| 2026-10-09 14:34:28 | [afaztech/reactor-broadcast](https://www.nuget.org/packages/afaztech%2Freactor-broadcast) | v0.1.0 | Abolfazl Majidi (Afaz) | Broadcast (send / copy / forward) with progress statistics for Reactor bots. |
+| 2026-10-09 14:36:14 | [webx-ui/themes](https://www.nuget.org/packages/webx-ui%2Fthemes) | v0.66.0 | WebX UI | Site themes as layers: a local theme over a packaged one over the modules, reso… |
+| 2026-10-09 14:53:51 | [webx-ui/widgets](https://www.nuget.org/packages/webx-ui%2Fwidgets) | v0.66.0 | WebX UI | The interactive pieces every site repeats — menus, dialogs, tabs, accordions, c… |
+| 2026-10-09 14:54:28 | [medienreaktor/neos-api-mcp](https://www.nuget.org/packages/medienreaktor%2Fneos-api-mcp) | 0.1.0 |  | An MCP server for Neos 9 on top of the Neos API: Claude and other MCP clients w… |
+| 2026-10-09 14:54:34 | [webx-ui/theme-default](https://www.nuget.org/packages/webx-ui%2Ftheme-default) | v0.66.0 | WebX UI | The theme every new WebX UI site stands on: a value for every site token, the p… |
+| 2026-10-09 14:57:28 | [rafathomas/laravel-architecture-guard](https://www.nuget.org/packages/rafathomas%2Flaravel-architecture-guard) | v0.1.0 |  | AST-based architectural dependency checks for Laravel and PHP projects. |
+| 2026-10-09 14:57:32 | [jengo/search](https://www.nuget.org/packages/jengo%2Fsearch) | v0.1.0 | Ian Ochieng | Enterprise-grade, multi-driver full-text and semantic search engine subsystem f… |
+| 2026-10-09 15:19:25 | [osw3/wp-feat-analytics](https://www.nuget.org/packages/osw3%2Fwp-feat-analytics) | 0.0.1 | OSW3 | . |
 
 ## Data source
 
