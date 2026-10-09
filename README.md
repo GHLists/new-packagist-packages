@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 04:19 UTC
+## Latest list — 2026-10-09 05:19 UTC
 
-New packages created between 2026-10-09 03:18 UTC and 2026-10-09 04:19 UTC.
+New packages created between 2026-10-09 04:19 UTC and 2026-10-09 05:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T04-19-51-358749Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T05-19-57-769097Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 03:40:52 | [teerex/laravel-fair-queue](https://www.nuget.org/packages/teerex%2Flaravel-fair-queue) | v0.1.0 |  | Redis-backed fair queue scheduling for multi-tenant Laravel applications |
-| 2026-10-09 04:12:10 | [max-messenger-bot/max-bot-sender-php](https://www.nuget.org/packages/max-messenger-bot%2Fmax-bot-sender-php) | 1.0.0 | Eugene Makhaev | PHP library for sending messages via the Max Messenger Bot API |
+| 2026-10-09 04:27:55 | [max-messenger-bot/max-bot-sender-php](https://www.nuget.org/packages/max-messenger-bot%2Fmax-bot-sender-php) | 1.0.0 | Eugene Makhaev | PHP library for sending messages via the Max Messenger Bot API |
+| 2026-10-09 04:33:26 | [klyp/wordpress](https://www.nuget.org/packages/klyp%2Fwordpress) | 7.1.2 |  |  |
 
 ## Data source
 
