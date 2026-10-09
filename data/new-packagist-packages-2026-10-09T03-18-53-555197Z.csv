@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-09T02:42:41Z,jeffersongoncalves/filament-security-headers,3.0.0,Jefferson Gonçalves,"Filament settings page for laravel-security-headers: edit the Content Security Policy, response headers and HSTS from the panel, with a report-only mode to try a policy before enforcing it."
+2026-10-09T02:48:17Z,phpgo/hyperf-logging,v0.1.0,,Hyperf 3.1 adapters for execution-scoped structured logging.
+2026-10-09T02:48:17Z,phpgo/logging,v0.1.0,,Execution-scoped structured logging for PHP and Monolog.
+2026-10-09T02:57:56Z,pivotphp/skeleton,v1.1.0,PivotPHP Team,Skeleton project for PivotPHP v2.2.0 - The evolutionary PHP microframework

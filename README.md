@@ -15,15 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 02:19 UTC
+## Latest list — 2026-10-09 03:18 UTC
 
-New packages created between 2026-10-09 01:20 UTC and 2026-10-09 02:19 UTC.
+New packages created between 2026-10-09 02:19 UTC and 2026-10-09 03:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T02-19-21-448211Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T03-18-53-555197Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 02:11:34 | [antevemus/alinq-collection](https://www.nuget.org/packages/antevemus%2Falinq-collection) | v1.3.0 | Heliton Junior - CTO @ Anteve… | Enterprise LINQ-Style Collection Framework for PHP 8.4+ (Fluent API, Native Arr… |
+| 2026-10-09 02:42:41 | [jeffersongoncalves/filament-security-headers](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-security-headers) | 3.0.0 | Jefferson Gonçalves | Filament settings page for laravel-security-headers: edit the Content Security… |
+| 2026-10-09 02:48:17 | [phpgo/hyperf-logging](https://www.nuget.org/packages/phpgo%2Fhyperf-logging) | v0.1.0 |  | Hyperf 3.1 adapters for execution-scoped structured logging. |
+| 2026-10-09 02:48:17 | [phpgo/logging](https://www.nuget.org/packages/phpgo%2Flogging) | v0.1.0 |  | Execution-scoped structured logging for PHP and Monolog. |
+| 2026-10-09 02:57:56 | [pivotphp/skeleton](https://www.nuget.org/packages/pivotphp%2Fskeleton) | v1.1.0 | PivotPHP Team | Skeleton project for PivotPHP v2.2.0 - The evolutionary PHP microframework |
 
 ## Data source
 
