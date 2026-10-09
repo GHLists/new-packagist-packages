@@ -15,18 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 10:18 UTC
+## Latest list — 2026-10-09 11:21 UTC
 
-New packages created between 2026-10-09 09:20 UTC and 2026-10-09 10:18 UTC.
+New packages created between 2026-10-09 10:18 UTC and 2026-10-09 11:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T10-18-45-47013Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T11-21-39-933051Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 09:32:11 | [vadimermolenko8787/scanner-trap](https://www.nuget.org/packages/vadimermolenko8787%2Fscanner-trap) | 0.1.0 | Vadym Yermolenko | Blacklists vulnerability scanners on their first probe of a decoy path such as… |
-| 2026-10-09 09:35:41 | [soderlind/ps-last-updated](https://www.nuget.org/packages/soderlind%2Fps-last-updated) | 1.0.0 | Per Soderlind | Adds a sortable Last Updated column to public post type admin lists. |
-| 2026-10-09 09:36:41 | [tombroucke/acorn-wpml-livewire-fix](https://www.nuget.org/packages/tombroucke%2Facorn-wpml-livewire-fix) | 1.0.0 | Tom Broucke | Prevents WPML from appending the language path to home_url() when Acorn sets th… |
-| 2026-10-09 09:50:55 | [sitepark/oparl-client](https://www.nuget.org/packages/sitepark%2Foparl-client) | 1.0.0 | Felix Becker | Client for OParl 1.0 and 1.1, the standard interface of German council informat… |
+| 2026-10-09 10:26:58 | [osw3/wp-site-core](https://www.nuget.org/packages/osw3%2Fwp-site-core) | 0.0.1 | OSW3 | . |
+| 2026-10-09 10:36:09 | [oguzhanbayirli/laravel-turkiye](https://www.nuget.org/packages/oguzhanbayirli%2Flaravel-turkiye) | v1.0.0 | Oğuzhan Bayırlı | Turkish identity number (TCKN), tax number (VKN) and IBAN validation, amounts i… |
+| 2026-10-09 10:44:45 | [abdulkadiragoliya/content-intelligence](https://www.nuget.org/packages/abdulkadiragoliya%2Fcontent-intelligence) | 1.0.0 | Abdulkadir Agoliya | AI-powered Content & SEO Intelligence for Craft CMS. Audits, scoring, semantic… |
+| 2026-10-09 10:59:43 | [merkushin/wpplugin](https://www.nuget.org/packages/merkushin%2Fwpplugin) | v1.0.0 | Dmitry Merkushin | Template for a new WordPress plugin |
+| 2026-10-09 11:02:50 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.4.4 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
+| 2026-10-09 11:06:56 | [limegreentangerine/theme_kit](https://www.nuget.org/packages/limegreentangerine%2Ftheme_kit) | 1.0.0 | Lee Jones | Theme building tools. |
 
 ## Data source
 

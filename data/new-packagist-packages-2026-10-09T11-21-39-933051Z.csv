@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-09T10:26:58Z,osw3/wp-site-core,0.0.1,OSW3,.
+2026-10-09T10:36:09Z,oguzhanbayirli/laravel-turkiye,v1.0.0,Oğuzhan Bayırlı,"Turkish identity number (TCKN), tax number (VKN) and IBAN validation, amounts in Turkish words, and TCMB exchange rates for Laravel."
+2026-10-09T10:44:45Z,abdulkadiragoliya/content-intelligence,1.0.0,Abdulkadir Agoliya,"AI-powered Content & SEO Intelligence for Craft CMS. Audits, scoring, semantic search, and RAG knowledge assistant."
+2026-10-09T10:59:43Z,merkushin/wpplugin,v1.0.0,Dmitry Merkushin,Template for a new WordPress plugin
+2026-10-09T11:02:50Z,ak279642/laravel-infrastructure,v1.4.4,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."
+2026-10-09T11:06:56Z,limegreentangerine/theme_kit,1.0.0,Lee Jones,Theme building tools.
