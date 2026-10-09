@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 03:18 UTC
+## Latest list — 2026-10-09 04:19 UTC
 
-New packages created between 2026-10-09 02:19 UTC and 2026-10-09 03:18 UTC.
+New packages created between 2026-10-09 03:18 UTC and 2026-10-09 04:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T03-18-53-555197Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T04-19-51-358749Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 02:42:41 | [jeffersongoncalves/filament-security-headers](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-security-headers) | 3.0.0 | Jefferson Gonçalves | Filament settings page for laravel-security-headers: edit the Content Security… |
-| 2026-10-09 02:48:17 | [phpgo/hyperf-logging](https://www.nuget.org/packages/phpgo%2Fhyperf-logging) | v0.1.0 |  | Hyperf 3.1 adapters for execution-scoped structured logging. |
-| 2026-10-09 02:48:17 | [phpgo/logging](https://www.nuget.org/packages/phpgo%2Flogging) | v0.1.0 |  | Execution-scoped structured logging for PHP and Monolog. |
-| 2026-10-09 02:57:56 | [pivotphp/skeleton](https://www.nuget.org/packages/pivotphp%2Fskeleton) | v1.1.0 | PivotPHP Team | Skeleton project for PivotPHP v2.2.0 - The evolutionary PHP microframework |
+| 2026-10-09 03:40:52 | [teerex/laravel-fair-queue](https://www.nuget.org/packages/teerex%2Flaravel-fair-queue) | v0.1.0 |  | Redis-backed fair queue scheduling for multi-tenant Laravel applications |
+| 2026-10-09 04:12:10 | [max-messenger-bot/max-bot-sender-php](https://www.nuget.org/packages/max-messenger-bot%2Fmax-bot-sender-php) | 1.0.0 | Eugene Makhaev | PHP library for sending messages via the Max Messenger Bot API |
 
 ## Data source
 

@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-09T03:40:52Z,teerex/laravel-fair-queue,v0.1.0,,Redis-backed fair queue scheduling for multi-tenant Laravel applications
+2026-10-09T04:12:10Z,max-messenger-bot/max-bot-sender-php,1.0.0,Eugene Makhaev,PHP library for sending messages via the Max Messenger Bot API
