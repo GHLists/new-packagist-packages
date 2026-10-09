@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-09T07:27:24Z,pharaonic/php-smart-enum,8.5.1,Moamen Eltouny (Raggi),"Smart, lightweight helpers for native PHP enums."
+2026-10-09T07:49:36Z,ghijk/mailroom,v1.0.0,,A private development and staging email inbox in the Statamic Control Panel.
