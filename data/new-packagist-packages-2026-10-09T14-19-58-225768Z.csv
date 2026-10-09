@@ -1,0 +1,16 @@
+created_at,package,version,author,description
+2026-10-09T13:23:29Z,incognito-coder/ic-telegram-bot,2.0.0,Incognito Coder,"Lightweight, zero-dependency PHP Telegram Bot library based on the official Telegram Bot API (supporting Bot API 7.x - 8.3+)"
+2026-10-09T13:26:07Z,pinkcrab/action-scheduler_stubs,4.2.0,,Action Scheduler stubs for static analysis.
+2026-10-09T13:28:11Z,wexample/symfony-cart-ds,1.0.1,,
+2026-10-09T13:29:09Z,pinkcrab/wordpress-seo_stubs,28.5,,Yoast SEO stubs for static analysis.
+2026-10-09T13:29:42Z,wexample/symfony-cart-demo,1.0.1,,
+2026-10-09T13:30:51Z,dave-liddament/phpstan-effect-system,0.2.0,Dave,"PHPStan extension implementing a lightweight effect system: declare effects at the source, infer transitive propagation, enforce effect-free boundaries."
+2026-10-09T13:31:54Z,shamimsofte/laravel-universal-editor,1.0.0,shamimSoftE,Enterprise Laravel integration package for Universal Rich Text Editor
+2026-10-09T13:33:57Z,alibabacloud/airegistry,1.8.2346,Alibaba Cloud SDK,Alibaba Cloud AIRegistry SDK for PHP
+2026-10-09T13:37:54Z,ak279642/laravel-infrastructure,v1.4.7,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."
+2026-10-09T13:40:52Z,se7enxweb/exp_oe_tiptap,v0.1.0,7x,"A Tiptap based online editor for ezxmltext fields in Exponential 6, switchable on the fly with the Online Editor (ezoe), with provider-agnostic AI hooks"
+2026-10-09T13:42:14Z,gisostallenberg/heartbeat-monitoring,v0.1.0,,"Adapter-based, DSN-driven heartbeat / cron-job / dead-man's-switch monitoring for healthchecks.io, Uptime Kuma, Pulsetic, Cronitor and Sentry."
+2026-10-09T13:44:47Z,leancaptain/lara-email,v0.1.0,Mahmudul Hasan,Minimal Laravel validation that rejects example and disposable email domains and requires usable MX records.
+2026-10-09T13:59:43Z,sendermaster/laravel,v0.1.2,,SenderMaster server APIs and durable Laravel delivery
+2026-10-09T14:01:31Z,pinkcrab/polylang_stubs,3.8.10,,Polylang stubs for static analysis.
+2026-10-09T14:04:10Z,pinkcrab/translatepress-multilingual_stubs,3.3.7,,TranslatePress - Multilingual stubs for static analysis.

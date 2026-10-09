@@ -15,23 +15,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 13:18 UTC
+## Latest list — 2026-10-09 14:19 UTC
 
-New packages created between 2026-10-09 12:20 UTC and 2026-10-09 13:18 UTC.
+New packages created between 2026-10-09 13:18 UTC and 2026-10-09 14:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T13-18-55-511583Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T14-19-58-225768Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 12:31:11 | [wexample/symfony-payment-ds](https://www.nuget.org/packages/wexample%2Fsymfony-payment-ds) | 1.0.1 |  |  |
-| 2026-10-09 12:32:03 | [wexample/symfony-payment-demo](https://www.nuget.org/packages/wexample%2Fsymfony-payment-demo) | 1.0.1 |  |  |
-| 2026-10-09 12:35:51 | [mazdel/dayravel](https://www.nuget.org/packages/mazdel%2Fdayravel) | v1.0.0 |  | Laravel module scaffolding commands with automatic module route discovery. |
-| 2026-10-09 12:36:01 | [iyzico/kolai-php](https://www.nuget.org/packages/iyzico%2Fkolai-php) | v1.0.0 | iyzico and contributors | Kolai e-ticaret entegrasyonlari icin platformdan bagimsiz cekirdek: HMAC auth,… |
-| 2026-10-09 12:42:35 | [jengo/pesa](https://www.nuget.org/packages/jengo%2Fpesa) | v0.1.0 | Ian Ochieng | Unified multi-gateway payment processing subsystem for CodeIgniter 4 and the Je… |
-| 2026-10-09 12:47:09 | [pollora/debugbar](https://www.nuget.org/packages/pollora%2Fdebugbar) | v1.0.0 | Amphibee | Laravel Debugbar for Pollora: WordPress queries, hooks, the template hierarchy… |
-| 2026-10-09 12:51:55 | [zofe/theme-desk](https://www.nuget.org/packages/zofe%2Ftheme-desk) | v0.1.0 |  | Desk theme for rapyd-admin: the classic admin look (blue sidebar, off-white con… |
-| 2026-10-09 13:02:36 | [semitexa/laravel-ai-verify](https://www.nuget.org/packages/semitexa%2Flaravel-ai-verify) | v0.2.0 | Semitexa | Diff-aware verification for AI coding agents in Laravel: one Artisan command pl… |
-| 2026-10-09 13:06:38 | [erfanvahabpour/laravel-jalali-schedule](https://www.nuget.org/packages/erfanvahabpour%2Flaravel-jalali-schedule) | v1.0.0 | Erfan Vahabpour | Seamless Jalali (Solar Hijri) scheduling macros for Laravel tasks and console c… |
+| 2026-10-09 13:23:29 | [incognito-coder/ic-telegram-bot](https://www.nuget.org/packages/incognito-coder%2Fic-telegram-bot) | 2.0.0 | Incognito Coder | Lightweight, zero-dependency PHP Telegram Bot library based on the official Tel… |
+| 2026-10-09 13:26:07 | [pinkcrab/action-scheduler_stubs](https://www.nuget.org/packages/pinkcrab%2Faction-scheduler_stubs) | 4.2.0 |  | Action Scheduler stubs for static analysis. |
+| 2026-10-09 13:28:11 | [wexample/symfony-cart-ds](https://www.nuget.org/packages/wexample%2Fsymfony-cart-ds) | 1.0.1 |  |  |
+| 2026-10-09 13:29:09 | [pinkcrab/wordpress-seo_stubs](https://www.nuget.org/packages/pinkcrab%2Fwordpress-seo_stubs) | 28.5 |  | Yoast SEO stubs for static analysis. |
+| 2026-10-09 13:29:42 | [wexample/symfony-cart-demo](https://www.nuget.org/packages/wexample%2Fsymfony-cart-demo) | 1.0.1 |  |  |
+| 2026-10-09 13:30:51 | [dave-liddament/phpstan-effect-system](https://www.nuget.org/packages/dave-liddament%2Fphpstan-effect-system) | 0.2.0 | Dave | PHPStan extension implementing a lightweight effect system: declare effects at… |
+| 2026-10-09 13:31:54 | [shamimsofte/laravel-universal-editor](https://www.nuget.org/packages/shamimsofte%2Flaravel-universal-editor) | 1.0.0 | shamimSoftE | Enterprise Laravel integration package for Universal Rich Text Editor |
+| 2026-10-09 13:33:57 | [alibabacloud/airegistry](https://www.nuget.org/packages/alibabacloud%2Fairegistry) | 1.8.2346 | Alibaba Cloud SDK | Alibaba Cloud AIRegistry SDK for PHP |
+| 2026-10-09 13:37:54 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.4.7 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
+| 2026-10-09 13:40:52 | [se7enxweb/exp_oe_tiptap](https://www.nuget.org/packages/se7enxweb%2Fexp_oe_tiptap) | v0.1.0 | 7x | A Tiptap based online editor for ezxmltext fields in Exponential 6, switchable… |
+| 2026-10-09 13:42:14 | [gisostallenberg/heartbeat-monitoring](https://www.nuget.org/packages/gisostallenberg%2Fheartbeat-monitoring) | v0.1.0 |  | Adapter-based, DSN-driven heartbeat / cron-job / dead-man's-switch monitoring f… |
+| 2026-10-09 13:44:47 | [leancaptain/lara-email](https://www.nuget.org/packages/leancaptain%2Flara-email) | v0.1.0 | Mahmudul Hasan | Minimal Laravel validation that rejects example and disposable email domains an… |
+| 2026-10-09 13:59:43 | [sendermaster/laravel](https://www.nuget.org/packages/sendermaster%2Flaravel) | v0.1.2 |  | SenderMaster server APIs and durable Laravel delivery |
+| 2026-10-09 14:01:31 | [pinkcrab/polylang_stubs](https://www.nuget.org/packages/pinkcrab%2Fpolylang_stubs) | 3.8.10 |  | Polylang stubs for static analysis. |
+| 2026-10-09 14:04:10 | [pinkcrab/translatepress-multilingual_stubs](https://www.nuget.org/packages/pinkcrab%2Ftranslatepress-multilingual_stubs) | 3.3.7 |  | TranslatePress - Multilingual stubs for static analysis. |
 
 ## Data source
 
