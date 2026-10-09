@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-09T08:19:18Z,bibilka/yandex-speechkit-php,v1.0.0,Igor Sazonov,"PHP SDK for Yandex SpeechKit API with Laravel support. Async speech recognition, speaker labeling, speech analysis."
+2026-10-09T08:26:56Z,wexample/symfony-stage-demo,1.0.1,,
+2026-10-09T08:43:50Z,webdados/wp-github-updates,1.0.0,Webdados,"Updates for private or public WordPress plugins and themes from GitHub releases, with the access token kept out of the code."
+2026-10-09T08:48:08Z,mago-assistant/magento2-mago,v1.0.0,,"AI-powered admin assistant for Magento 2. Chat with your store using Anthropic, OpenAI, Gemini, Ollama and more."
+2026-10-09T08:55:08Z,ak279642/laravel-infrastructure,v1.4.3,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."
+2026-10-09T08:56:40Z,dseguy/php-package-visibility,v0.9.0,Damien Seguy,"Namespace-scoped visibility (private/protected/public) for PHP classes, interfaces, traits, and enums."
+2026-10-09T08:59:56Z,b44x/ksef-php,v0.2.0,Michell Hoduń,"Framework-agnostic PHP SDK for the Polish National e-Invoice System (KSeF) API 2.0: authentication, FA(3) invoices, online sessions, status polling and UPO retrieval."
+2026-10-09T09:06:31Z,thijsdezoete/tinify-statamic,v1.0.0,Thijs de Zoete,"Automatic image optimization, conversion and thumbnails powered by TinyPNG"
+2026-10-09T09:14:41Z,zfbase/zend1-bootstrap5,v1.0.0,,Twitter Bootstrap v.5 Forms for Zend Framework v.1
