@@ -15,20 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 21:20 UTC
+## Latest list — 2026-10-09 22:21 UTC
 
-New packages created between 2026-10-09 20:20 UTC and 2026-10-09 21:20 UTC.
+New packages created between 2026-10-09 21:20 UTC and 2026-10-09 22:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T21-20-34-099018Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T22-21-23-734562Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 20:35:11 | [b44x/edoreczenia](https://www.nuget.org/packages/b44x%2Fedoreczenia) | v0.1.0 | Michell Hoduń | Unofficial, framework-agnostic PHP SDK for the Polish e-Doręczenia (e-Delivery)… |
-| 2026-10-09 20:39:13 | [asignua/filament-image-annotations](https://www.nuget.org/packages/asignua%2Ffilament-image-annotations) | v1.1.0 | Mykhailo Hladchenko | Non-destructive vector annotations for Filament 5: arrows, rectangles, ellipses… |
-| 2026-10-09 20:45:22 | [abangateway/abangateway-php-package](https://www.nuget.org/packages/abangateway%2Fabangateway-php-package) | v1.0.0 | AbanGateway | AbanGateway card-to-card payment gateway for PHP and Laravel: invoices with aut… |
-| 2026-10-09 20:46:35 | [romanfedorskij/cron](https://www.nuget.org/packages/romanfedorskij%2Fcron) | v0.1.0-rc.1 | Roman Fedorskij | Non-blocking cron scheduler with forked PHP workers |
-| 2026-10-09 20:50:40 | [evopixel/socialiteproviders-minecraft-evopixel](https://www.nuget.org/packages/evopixel%2Fsocialiteproviders-minecraft-evopixel) | 1.0.0 | EvoPixel | Minecraft EvoPixel OAuth2 provider for Laravel Socialite |
-| 2026-10-09 21:08:02 | [nhanaz/blockdata](https://www.nuget.org/packages/nhanaz%2Fblockdata) | v1.0.1 |  | A virion for persistent JSON data attached to blocks on Axolotl-PM |
+| 2026-10-09 21:26:11 | [camindo/module-pdf](https://www.nuget.org/packages/camindo%2Fmodule-pdf) | v1.0.0 |  | camindo CMS module: PDF documents from frontend templates (CMS:PDF_* commands)… |
+| 2026-10-09 21:35:17 | [nhanaz/libregrsp](https://www.nuget.org/packages/nhanaz%2Flibregrsp) | v1.0.5 |  | Resource pack compiler and registrar for Axolotl-PM plugins |
+| 2026-10-09 21:36:21 | [onetracepro/onetrace-bitrix](https://www.nuget.org/packages/onetracepro%2Fonetrace-bitrix) | v1.1.0 |  | 1C-Bitrix module for the OneTrace.pro customer data platform: server-side order… |
+| 2026-10-09 21:40:20 | [angrychimp/php-dkim](https://www.nuget.org/packages/angrychimp%2Fphp-dkim) | 0.4.0 | Randall Kahler | Finally, a PHP5 class for not just signing, but _verifying_ DKIM signatures. |
+| 2026-10-09 21:48:23 | [polaris/passkey](https://www.nuget.org/packages/polaris%2Fpasskey) | v0.8.0 | 2am.tech | Passkeys for Polaris for PHP: WebAuthn registration and discoverable sign-in wi… |
+| 2026-10-09 21:48:23 | [polaris/social](https://www.nuget.org/packages/polaris%2Fsocial) | v0.8.0 | 2am.tech | Social sign-in for Polaris for PHP: OAuth 2.0 and OpenID Connect providers (Goo… |
 
 ## Data source
 

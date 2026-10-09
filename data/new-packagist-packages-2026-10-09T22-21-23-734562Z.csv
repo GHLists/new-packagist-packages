@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-09T21:26:11Z,camindo/module-pdf,v1.0.0,,camindo CMS module: PDF documents from frontend templates (CMS:PDF_* commands) based on tc-lib-pdf
+2026-10-09T21:35:17Z,nhanaz/libregrsp,v1.0.5,,Resource pack compiler and registrar for Axolotl-PM plugins
+2026-10-09T21:36:21Z,onetracepro/onetrace-bitrix,v1.1.0,,"1C-Bitrix module for the OneTrace.pro customer data platform: server-side orders, customers and consents, the website tracker, product catalog sync, recommendation widgets and Web Push."
+2026-10-09T21:40:20Z,angrychimp/php-dkim,0.4.0,Randall Kahler,"Finally, a PHP5 class for not just signing, but _verifying_ DKIM signatures."
+2026-10-09T21:48:23Z,polaris/passkey,v0.8.0,2am.tech,"Passkeys for Polaris for PHP: WebAuthn registration and discoverable sign-in with conditional UI, a passkey as a core MFA factor, naming and removal"
+2026-10-09T21:48:23Z,polaris/social,v0.8.0,2am.tech,"Social sign-in for Polaris for PHP: OAuth 2.0 and OpenID Connect providers (Google, Apple, Microsoft, GitHub and sixteen more, or any OAuth 2 server), account linking, Google One Tap, provider tokens on the user's behalf, an OAuth proxy for preview origins"
