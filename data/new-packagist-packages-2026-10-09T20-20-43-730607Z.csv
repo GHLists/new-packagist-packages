@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-09T19:35:26Z,polaris/anonymous,v0.7.0,2am.tech,"Anonymous sign-in for Polaris for PHP: guest sessions, an explicit conversion into a real account through a host hook, pruning of the guests nobody converted"
+2026-10-09T19:35:26Z,polaris/multi-session,v0.7.0,2am.tech,"Multi-session for Polaris for PHP: several signed-in accounts on one device, switching between them without signing in again, revoking one, and the last sign-in method for the client to pre-select"
+2026-10-09T19:35:26Z,polaris/passwordless,v0.7.0,2am.tech,"Passwordless sign-in for Polaris for PHP: magic links, email one-time codes (sign-in, email verification, password reset), phone codes for a verified second contact, one-time tokens for session transfer"
+2026-10-09T19:35:26Z,polaris/username,v0.7.0,2am.tech,"Username for Polaris for PHP: sign in with a username or an email through core's password path, case-insensitive unique usernames with a display form, validation rules from configuration"
+2026-10-09T19:38:03Z,ernestdefoe/millwright-bridge,v0.1.0,Ernest Defoe,"Upgrade a Flarum 1.8 forum to Flarum 2.0 from the admin page: checks every extension, builds Flarum 2 beside the live forum, swaps it in, and puts everything back if anything fails."
+2026-10-09T19:42:14Z,avelto/avelto-php,v0.2.0,,"The official PHP SDK for Avelto, the email API for developers who want it to just work."
+2026-10-09T20:11:26Z,acrnogor/audit-api-bundle,v0.7.3,Ante Crnogorac,Symfony bundle providing an API interface for damienharper/auditor-bundle audits.

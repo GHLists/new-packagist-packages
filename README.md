@@ -15,20 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 19:21 UTC
+## Latest list — 2026-10-09 20:20 UTC
 
-New packages created between 2026-10-09 18:19 UTC and 2026-10-09 19:21 UTC.
+New packages created between 2026-10-09 19:21 UTC and 2026-10-09 20:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T19-21-41-431871Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T20-20-43-730607Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 18:26:39 | [camindo/cms](https://www.nuget.org/packages/camindo%2Fcms) | v9.0.0 |  | camindo CMS - multi-site, multilingual content management in PHP. Installed int… |
-| 2026-10-09 18:26:39 | [camindo/project](https://www.nuget.org/packages/camindo%2Fproject) | v9.0.0 |  | camindo CMS project skeleton: composer create-project camindo/project mysite |
-| 2026-10-09 18:28:56 | [iranimij/module-base](https://www.nuget.org/packages/iranimij%2Fmodule-base) | v1.0.0 | Iman Aboheydary | Tiny shared base module for Iranimij Magento 2 extensions: a config tab, an ins… |
-| 2026-10-09 18:30:23 | [matgro/dify-sdk](https://www.nuget.org/packages/matgro%2Fdify-sdk) | v0.1.0 |  | PHP SDK for the Dify datasets and documents API. |
-| 2026-10-09 18:41:30 | [everysize/checkout-oxid](https://www.nuget.org/packages/everysize%2Fcheckout-oxid) | 1.1.3 | everysize GmbH | everysize Checkout – Modul für OXID eShop 7 |
-| 2026-10-09 18:41:42 | [hubmais/h-checkout-onboarding](https://www.nuget.org/packages/hubmais%2Fh-checkout-onboarding) | 1.0.1 |  | Plugin to onboarding for HUBMAIS |
+| 2026-10-09 19:35:26 | [polaris/anonymous](https://www.nuget.org/packages/polaris%2Fanonymous) | v0.7.0 | 2am.tech | Anonymous sign-in for Polaris for PHP: guest sessions, an explicit conversion i… |
+| 2026-10-09 19:35:26 | [polaris/multi-session](https://www.nuget.org/packages/polaris%2Fmulti-session) | v0.7.0 | 2am.tech | Multi-session for Polaris for PHP: several signed-in accounts on one device, sw… |
+| 2026-10-09 19:35:26 | [polaris/passwordless](https://www.nuget.org/packages/polaris%2Fpasswordless) | v0.7.0 | 2am.tech | Passwordless sign-in for Polaris for PHP: magic links, email one-time codes (si… |
+| 2026-10-09 19:35:26 | [polaris/username](https://www.nuget.org/packages/polaris%2Fusername) | v0.7.0 | 2am.tech | Username for Polaris for PHP: sign in with a username or an email through core'… |
+| 2026-10-09 19:38:03 | [ernestdefoe/millwright-bridge](https://www.nuget.org/packages/ernestdefoe%2Fmillwright-bridge) | v0.1.0 | Ernest Defoe | Upgrade a Flarum 1.8 forum to Flarum 2.0 from the admin page: checks every exte… |
+| 2026-10-09 19:42:14 | [avelto/avelto-php](https://www.nuget.org/packages/avelto%2Favelto-php) | v0.2.0 |  | The official PHP SDK for Avelto, the email API for developers who want it to ju… |
+| 2026-10-09 20:11:26 | [acrnogor/audit-api-bundle](https://www.nuget.org/packages/acrnogor%2Faudit-api-bundle) | v0.7.3 | Ante Crnogorac | Symfony bundle providing an API interface for damienharper/auditor-bundle audit… |
 
 ## Data source
 
