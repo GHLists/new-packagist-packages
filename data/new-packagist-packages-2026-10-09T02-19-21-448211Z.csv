@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-09T02:11:34Z,antevemus/alinq-collection,v1.3.0,Heliton Junior - CTO @ Antevemus Soluções Inovadoras em TI Ltda.,"Enterprise LINQ-Style Collection Framework for PHP 8.4+ (Fluent API, Native Array Primitives, Query Builder, Set Operations, Dot-Notation Property Access)"
