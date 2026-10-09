@@ -15,20 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 11:21 UTC
+## Latest list — 2026-10-09 12:20 UTC
 
-New packages created between 2026-10-09 10:18 UTC and 2026-10-09 11:21 UTC.
+New packages created between 2026-10-09 11:21 UTC and 2026-10-09 12:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T11-21-39-933051Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T12-20-37-871549Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 10:26:58 | [osw3/wp-site-core](https://www.nuget.org/packages/osw3%2Fwp-site-core) | 0.0.1 | OSW3 | . |
-| 2026-10-09 10:36:09 | [oguzhanbayirli/laravel-turkiye](https://www.nuget.org/packages/oguzhanbayirli%2Flaravel-turkiye) | v1.0.0 | Oğuzhan Bayırlı | Turkish identity number (TCKN), tax number (VKN) and IBAN validation, amounts i… |
-| 2026-10-09 10:44:45 | [abdulkadiragoliya/content-intelligence](https://www.nuget.org/packages/abdulkadiragoliya%2Fcontent-intelligence) | 1.0.0 | Abdulkadir Agoliya | AI-powered Content & SEO Intelligence for Craft CMS. Audits, scoring, semantic… |
-| 2026-10-09 10:59:43 | [merkushin/wpplugin](https://www.nuget.org/packages/merkushin%2Fwpplugin) | v1.0.0 | Dmitry Merkushin | Template for a new WordPress plugin |
-| 2026-10-09 11:02:50 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.4.4 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
-| 2026-10-09 11:06:56 | [limegreentangerine/theme_kit](https://www.nuget.org/packages/limegreentangerine%2Ftheme_kit) | 1.0.0 | Lee Jones | Theme building tools. |
+| 2026-10-09 11:35:29 | [wckd123/us-postal-codes](https://www.nuget.org/packages/wckd123%2Fus-postal-codes) | v1.0.0 |  | Offline US ZIP code lookup (ZIP to state and city) plus US state and territory… |
+| 2026-10-09 11:41:50 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.4.6 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
 
 ## Data source
 
