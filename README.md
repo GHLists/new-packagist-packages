@@ -15,26 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 15:23 UTC
+## Latest list — 2026-10-09 16:20 UTC
 
-New packages created between 2026-10-09 14:19 UTC and 2026-10-09 15:23 UTC.
+New packages created between 2026-10-09 15:23 UTC and 2026-10-09 16:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T15-23-14-899962Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T16-20-57-398649Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 14:21:20 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.4.8 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
-| 2026-10-09 14:31:38 | [survos/workflow-async-bundle](https://www.nuget.org/packages/survos%2Fworkflow-async-bundle) | 2.36.0 |  | Queued native Symfony workflow transitions through Messenger |
-| 2026-10-09 14:31:44 | [survos/workflow-extras-bundle](https://www.nuget.org/packages/survos%2Fworkflow-extras-bundle) | 2.36.0 |  | Metadata conveniences and next-transition selection for native Symfony workflows |
-| 2026-10-09 14:33:45 | [spits-online/laravel-options](https://www.nuget.org/packages/spits-online%2Flaravel-options) | V1.0.0 | Spits | Cached database options for Laravel |
-| 2026-10-09 14:34:28 | [afaztech/reactor-broadcast](https://www.nuget.org/packages/afaztech%2Freactor-broadcast) | v0.1.0 | Abolfazl Majidi (Afaz) | Broadcast (send / copy / forward) with progress statistics for Reactor bots. |
-| 2026-10-09 14:36:14 | [webx-ui/themes](https://www.nuget.org/packages/webx-ui%2Fthemes) | v0.66.0 | WebX UI | Site themes as layers: a local theme over a packaged one over the modules, reso… |
-| 2026-10-09 14:53:51 | [webx-ui/widgets](https://www.nuget.org/packages/webx-ui%2Fwidgets) | v0.66.0 | WebX UI | The interactive pieces every site repeats — menus, dialogs, tabs, accordions, c… |
-| 2026-10-09 14:54:28 | [medienreaktor/neos-api-mcp](https://www.nuget.org/packages/medienreaktor%2Fneos-api-mcp) | 0.1.0 |  | An MCP server for Neos 9 on top of the Neos API: Claude and other MCP clients w… |
-| 2026-10-09 14:54:34 | [webx-ui/theme-default](https://www.nuget.org/packages/webx-ui%2Ftheme-default) | v0.66.0 | WebX UI | The theme every new WebX UI site stands on: a value for every site token, the p… |
-| 2026-10-09 14:57:28 | [rafathomas/laravel-architecture-guard](https://www.nuget.org/packages/rafathomas%2Flaravel-architecture-guard) | v0.1.0 |  | AST-based architectural dependency checks for Laravel and PHP projects. |
-| 2026-10-09 14:57:32 | [jengo/search](https://www.nuget.org/packages/jengo%2Fsearch) | v0.1.0 | Ian Ochieng | Enterprise-grade, multi-driver full-text and semantic search engine subsystem f… |
-| 2026-10-09 15:19:25 | [osw3/wp-feat-analytics](https://www.nuget.org/packages/osw3%2Fwp-feat-analytics) | 0.0.1 | OSW3 | . |
+| 2026-10-09 15:27:39 | [saola/compiler](https://www.nuget.org/packages/saola%2Fcompiler) | v1.0.2 | SaoLabs | Saola Compiler - biên dịch .sao sang Blade (SSR) và JavaScript (CSR) |
+| 2026-10-09 15:27:39 | [saola/core](https://www.nuget.org/packages/saola%2Fcore) | v1.0.2 | SaoLabs Team | Saola — Laravel Core Library for building reactive full-stack applications |
+| 2026-10-09 15:38:00 | [litetable/litetable](https://www.nuget.org/packages/litetable%2Flitetable) | v1.0.0 | Ortiz | Lightweight, high-performance database access for PHP using native PDO and asso… |
+| 2026-10-09 15:39:28 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.4.9 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
+| 2026-10-09 15:55:39 | [verifyblind/verifyblind-php](https://www.nuget.org/packages/verifyblind%2Fverifyblind-php) | v1.0.0 |  | Server-side verification of VerifyBlind result tokens and webhooks (RSA-PSS SHA… |
+| 2026-10-09 15:56:08 | [ml-solutions/nova-logs-view](https://www.nuget.org/packages/ml-solutions%2Fnova-logs-view) | v1.1.0 |  | Read-only Laravel Nova log explorer with filtering, recurring diagnostics and s… |
+| 2026-10-09 16:01:25 | [coercive/ajax](https://www.nuget.org/packages/coercive%2Fajax) | 1.0.0 | Anthony Moral | Coercive Ajax |
+| 2026-10-09 16:02:17 | [netresearch/nr-http-guard](https://www.nuget.org/packages/netresearch%2Fnr-http-guard) | v0.1.0 | Netresearch DTT GmbH | HTTP Guard - Controlled outbound HTTP protection for qualified TYPO3 client com… |
 
 ## Data source
 

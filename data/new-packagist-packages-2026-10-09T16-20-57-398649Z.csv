@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-09T15:27:39Z,saola/compiler,v1.0.2,SaoLabs,Saola Compiler - biên dịch .sao sang Blade (SSR) và JavaScript (CSR)
+2026-10-09T15:27:39Z,saola/core,v1.0.2,SaoLabs Team,Saola — Laravel Core Library for building reactive full-stack applications
+2026-10-09T15:38:00Z,litetable/litetable,v1.0.0,Ortiz,"Lightweight, high-performance database access for PHP using native PDO and associative arrays."
+2026-10-09T15:39:28Z,ak279642/laravel-infrastructure,v1.4.9,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."
+2026-10-09T15:55:39Z,verifyblind/verifyblind-php,v1.0.0,,"Server-side verification of VerifyBlind result tokens and webhooks (RSA-PSS SHA-256, salt 32) for PHP."
+2026-10-09T15:56:08Z,ml-solutions/nova-logs-view,v1.1.0,,"Read-only Laravel Nova log explorer with filtering, recurring diagnostics and sanitized details."
+2026-10-09T16:01:25Z,coercive/ajax,1.0.0,Anthony Moral,Coercive Ajax
+2026-10-09T16:02:17Z,netresearch/nr-http-guard,v0.1.0,Netresearch DTT GmbH,HTTP Guard - Controlled outbound HTTP protection for qualified TYPO3 client combinations - by Netresearch
