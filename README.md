@@ -15,16 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 12:20 UTC
+## Latest list — 2026-10-09 13:18 UTC
 
-New packages created between 2026-10-09 11:21 UTC and 2026-10-09 12:20 UTC.
+New packages created between 2026-10-09 12:20 UTC and 2026-10-09 13:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T12-20-37-871549Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T13-18-55-511583Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 11:35:29 | [wckd123/us-postal-codes](https://www.nuget.org/packages/wckd123%2Fus-postal-codes) | v1.0.0 |  | Offline US ZIP code lookup (ZIP to state and city) plus US state and territory… |
-| 2026-10-09 11:41:50 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.4.6 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
+| 2026-10-09 12:31:11 | [wexample/symfony-payment-ds](https://www.nuget.org/packages/wexample%2Fsymfony-payment-ds) | 1.0.1 |  |  |
+| 2026-10-09 12:32:03 | [wexample/symfony-payment-demo](https://www.nuget.org/packages/wexample%2Fsymfony-payment-demo) | 1.0.1 |  |  |
+| 2026-10-09 12:35:51 | [mazdel/dayravel](https://www.nuget.org/packages/mazdel%2Fdayravel) | v1.0.0 |  | Laravel module scaffolding commands with automatic module route discovery. |
+| 2026-10-09 12:36:01 | [iyzico/kolai-php](https://www.nuget.org/packages/iyzico%2Fkolai-php) | v1.0.0 | iyzico and contributors | Kolai e-ticaret entegrasyonlari icin platformdan bagimsiz cekirdek: HMAC auth,… |
+| 2026-10-09 12:42:35 | [jengo/pesa](https://www.nuget.org/packages/jengo%2Fpesa) | v0.1.0 | Ian Ochieng | Unified multi-gateway payment processing subsystem for CodeIgniter 4 and the Je… |
+| 2026-10-09 12:47:09 | [pollora/debugbar](https://www.nuget.org/packages/pollora%2Fdebugbar) | v1.0.0 | Amphibee | Laravel Debugbar for Pollora: WordPress queries, hooks, the template hierarchy… |
+| 2026-10-09 12:51:55 | [zofe/theme-desk](https://www.nuget.org/packages/zofe%2Ftheme-desk) | v0.1.0 |  | Desk theme for rapyd-admin: the classic admin look (blue sidebar, off-white con… |
+| 2026-10-09 13:02:36 | [semitexa/laravel-ai-verify](https://www.nuget.org/packages/semitexa%2Flaravel-ai-verify) | v0.2.0 | Semitexa | Diff-aware verification for AI coding agents in Laravel: one Artisan command pl… |
+| 2026-10-09 13:06:38 | [erfanvahabpour/laravel-jalali-schedule](https://www.nuget.org/packages/erfanvahabpour%2Flaravel-jalali-schedule) | v1.0.0 | Erfan Vahabpour | Seamless Jalali (Solar Hijri) scheduling macros for Laravel tasks and console c… |
 
 ## Data source
 

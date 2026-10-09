@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-09T12:31:11Z,wexample/symfony-payment-ds,1.0.1,,
+2026-10-09T12:32:03Z,wexample/symfony-payment-demo,1.0.1,,
+2026-10-09T12:35:51Z,mazdel/dayravel,v1.0.0,,Laravel module scaffolding commands with automatic module route discovery.
+2026-10-09T12:36:01Z,iyzico/kolai-php,v1.0.0,iyzico and contributors,"Kolai e-ticaret entegrasyonlari icin platformdan bagimsiz cekirdek: HMAC auth, yanit protokolu, adres/urun/yorum eslemesi, sozlesme sablonlari, iyzico iade/iptal."
+2026-10-09T12:42:35Z,jengo/pesa,v0.1.0,Ian Ochieng,"Unified multi-gateway payment processing subsystem for CodeIgniter 4 and the Jengo Framework with M-Pesa Daraja 3.0, Pesapal v3, Stripe, and Flutterwave support."
+2026-10-09T12:47:09Z,pollora/debugbar,v1.0.0,Amphibee,"Laravel Debugbar for Pollora: WordPress queries, hooks, the template hierarchy and Pollora's internals in the debug bar"
+2026-10-09T12:51:55Z,zofe/theme-desk,v0.1.0,,"Desk theme for rapyd-admin: the classic admin look (blue sidebar, off-white content) on the bundled layout."
+2026-10-09T13:02:36Z,semitexa/laravel-ai-verify,v0.2.0,Semitexa,Diff-aware verification for AI coding agents in Laravel: one Artisan command plans and runs the minimal relevant checks for a change set and returns a machine-readable verdict. A port of Semitexa's ai:verify.
+2026-10-09T13:06:38Z,erfanvahabpour/laravel-jalali-schedule,v1.0.0,Erfan Vahabpour,Seamless Jalali (Solar Hijri) scheduling macros for Laravel tasks and console commands.
