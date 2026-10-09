@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-09T00:20:37Z,edulazaro/php-pop3,1.1.0,Edu Lazaro,"A POP3 client in plain PHP: SSL or STARTTLS, certificate checks you control, password, APOP or OAuth sign-in, unique ids, headers or whole messages, and deletion only when asked. No extensions, no dependencies."
+2026-10-09T00:36:57Z,jgamboa/laravel-aurora-dsql,v0.1.1,Joaquín Gamboa,"Laravel driver for Amazon Aurora DSQL: IAM token auth, DSQL-compatible schema builder (inline PK/FK, ASYNC indexes, identity) and migration helpers."
+2026-10-09T01:09:51Z,units/hasher,v1.0.0,,"Hashing unit - native digests, HMAC and timing-safe comparison, on the patterns/unit contract."
+2026-10-09T01:10:36Z,units/password,v1.0.0,,"Password-hashing unit - Argon2id, Argon2i and bcrypt via PHP's password_* functions, on the patterns/unit contract."
