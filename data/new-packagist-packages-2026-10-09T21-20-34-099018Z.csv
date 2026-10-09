@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-09T20:35:11Z,b44x/edoreczenia,v0.1.0,Michell Hoduń,"Unofficial, framework-agnostic PHP SDK for the Polish e-Doręczenia (e-Delivery) APIs: signed-JWT system authentication and Search Engine API v4."
+2026-10-09T20:39:13Z,asignua/filament-image-annotations,v1.1.0,Mykhailo Hladchenko,"Non-destructive vector annotations for Filament 5: arrows, rectangles, ellipses, lines, a pen, a highlighter and text drawn over an image as a separate JSON layer, with an editor, a read-only viewer and an Annotate button for uploads. The original file is never modified."
+2026-10-09T20:45:22Z,abangateway/abangateway-php-package,v1.0.0,AbanGateway,"AbanGateway card-to-card payment gateway for PHP and Laravel: invoices with automatic confirmation, signed webhooks."
+2026-10-09T20:46:35Z,romanfedorskij/cron,v0.1.0-rc.1,Roman Fedorskij,Non-blocking cron scheduler with forked PHP workers
+2026-10-09T20:50:40Z,evopixel/socialiteproviders-minecraft-evopixel,1.0.0,EvoPixel,Minecraft EvoPixel OAuth2 provider for Laravel Socialite
+2026-10-09T21:08:02Z,nhanaz/blockdata,v1.0.1,,A virion for persistent JSON data attached to blocks on Axolotl-PM

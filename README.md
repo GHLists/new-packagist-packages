@@ -15,21 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 20:20 UTC
+## Latest list — 2026-10-09 21:20 UTC
 
-New packages created between 2026-10-09 19:21 UTC and 2026-10-09 20:20 UTC.
+New packages created between 2026-10-09 20:20 UTC and 2026-10-09 21:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T20-20-43-730607Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T21-20-34-099018Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 19:35:26 | [polaris/anonymous](https://www.nuget.org/packages/polaris%2Fanonymous) | v0.7.0 | 2am.tech | Anonymous sign-in for Polaris for PHP: guest sessions, an explicit conversion i… |
-| 2026-10-09 19:35:26 | [polaris/multi-session](https://www.nuget.org/packages/polaris%2Fmulti-session) | v0.7.0 | 2am.tech | Multi-session for Polaris for PHP: several signed-in accounts on one device, sw… |
-| 2026-10-09 19:35:26 | [polaris/passwordless](https://www.nuget.org/packages/polaris%2Fpasswordless) | v0.7.0 | 2am.tech | Passwordless sign-in for Polaris for PHP: magic links, email one-time codes (si… |
-| 2026-10-09 19:35:26 | [polaris/username](https://www.nuget.org/packages/polaris%2Fusername) | v0.7.0 | 2am.tech | Username for Polaris for PHP: sign in with a username or an email through core'… |
-| 2026-10-09 19:38:03 | [ernestdefoe/millwright-bridge](https://www.nuget.org/packages/ernestdefoe%2Fmillwright-bridge) | v0.1.0 | Ernest Defoe | Upgrade a Flarum 1.8 forum to Flarum 2.0 from the admin page: checks every exte… |
-| 2026-10-09 19:42:14 | [avelto/avelto-php](https://www.nuget.org/packages/avelto%2Favelto-php) | v0.2.0 |  | The official PHP SDK for Avelto, the email API for developers who want it to ju… |
-| 2026-10-09 20:11:26 | [acrnogor/audit-api-bundle](https://www.nuget.org/packages/acrnogor%2Faudit-api-bundle) | v0.7.3 | Ante Crnogorac | Symfony bundle providing an API interface for damienharper/auditor-bundle audit… |
+| 2026-10-09 20:35:11 | [b44x/edoreczenia](https://www.nuget.org/packages/b44x%2Fedoreczenia) | v0.1.0 | Michell Hoduń | Unofficial, framework-agnostic PHP SDK for the Polish e-Doręczenia (e-Delivery)… |
+| 2026-10-09 20:39:13 | [asignua/filament-image-annotations](https://www.nuget.org/packages/asignua%2Ffilament-image-annotations) | v1.1.0 | Mykhailo Hladchenko | Non-destructive vector annotations for Filament 5: arrows, rectangles, ellipses… |
+| 2026-10-09 20:45:22 | [abangateway/abangateway-php-package](https://www.nuget.org/packages/abangateway%2Fabangateway-php-package) | v1.0.0 | AbanGateway | AbanGateway card-to-card payment gateway for PHP and Laravel: invoices with aut… |
+| 2026-10-09 20:46:35 | [romanfedorskij/cron](https://www.nuget.org/packages/romanfedorskij%2Fcron) | v0.1.0-rc.1 | Roman Fedorskij | Non-blocking cron scheduler with forked PHP workers |
+| 2026-10-09 20:50:40 | [evopixel/socialiteproviders-minecraft-evopixel](https://www.nuget.org/packages/evopixel%2Fsocialiteproviders-minecraft-evopixel) | 1.0.0 | EvoPixel | Minecraft EvoPixel OAuth2 provider for Laravel Socialite |
+| 2026-10-09 21:08:02 | [nhanaz/blockdata](https://www.nuget.org/packages/nhanaz%2Fblockdata) | v1.0.1 |  | A virion for persistent JSON data attached to blocks on Axolotl-PM |
 
 ## Data source
 
