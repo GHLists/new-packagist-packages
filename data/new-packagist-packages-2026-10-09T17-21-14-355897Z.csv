@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-09T16:22:06Z,fostercommerce/commerce-net-terms,1.0.0,Foster Commerce,"Net Terms is a Craft Commerce payment gateway that bills orders on net terms, tracks what each buyer owes, and applies recorded payments to invoices or orders."
+2026-10-09T16:22:18Z,aybarsm/apache-apisix-admin-api,v0.1.0,Murat Aybars,"Framework-agnostic, typed, resource-oriented PHP client for the Apache APISIX Admin REST API."
+2026-10-09T16:33:38Z,ojessecruz/resend-inbox,v0.1.0,jessecruz,"Framework-agnostic core of a Resend-powered shared inbox: webhook parsing, conversation threading, reply headers and auto-reply detection."
+2026-10-09T16:34:07Z,ojessecruz/laravel-resend-inbox,v0.1.0,jessecruz,"A shared inbox for your Laravel admin on top of Resend inbound email: conversations, replies, delivery status and Livewire screens."
+2026-10-09T16:36:16Z,pixelfix/installer,v0.1.0,,Global CLI installer for PixelFix applications
+2026-10-09T16:40:53Z,naf/flow,v0.1.0,Flo Knapp,"Reactive JavaScript components and HTML updates for NAF, automatically integrated with naf/view."
+2026-10-09T16:59:15Z,humanmade/hm-facet-blocks,v0.1.0,Human Made,Blocks for filtering content already on the page by facets
+2026-10-09T17:07:35Z,duva-mail/laravel,v0.1.0,9573-4562 Québec inc.,"Laravel mail transport for Duva, the transactional email API hosted in Canada."

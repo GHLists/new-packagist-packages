@@ -15,22 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 16:20 UTC
+## Latest list — 2026-10-09 17:21 UTC
 
-New packages created between 2026-10-09 15:23 UTC and 2026-10-09 16:20 UTC.
+New packages created between 2026-10-09 16:20 UTC and 2026-10-09 17:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T16-20-57-398649Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-09T17-21-14-355897Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 15:27:39 | [saola/compiler](https://www.nuget.org/packages/saola%2Fcompiler) | v1.0.2 | SaoLabs | Saola Compiler - biên dịch .sao sang Blade (SSR) và JavaScript (CSR) |
-| 2026-10-09 15:27:39 | [saola/core](https://www.nuget.org/packages/saola%2Fcore) | v1.0.2 | SaoLabs Team | Saola — Laravel Core Library for building reactive full-stack applications |
-| 2026-10-09 15:38:00 | [litetable/litetable](https://www.nuget.org/packages/litetable%2Flitetable) | v1.0.0 | Ortiz | Lightweight, high-performance database access for PHP using native PDO and asso… |
-| 2026-10-09 15:39:28 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.4.9 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
-| 2026-10-09 15:55:39 | [verifyblind/verifyblind-php](https://www.nuget.org/packages/verifyblind%2Fverifyblind-php) | v1.0.0 |  | Server-side verification of VerifyBlind result tokens and webhooks (RSA-PSS SHA… |
-| 2026-10-09 15:56:08 | [ml-solutions/nova-logs-view](https://www.nuget.org/packages/ml-solutions%2Fnova-logs-view) | v1.1.0 |  | Read-only Laravel Nova log explorer with filtering, recurring diagnostics and s… |
-| 2026-10-09 16:01:25 | [coercive/ajax](https://www.nuget.org/packages/coercive%2Fajax) | 1.0.0 | Anthony Moral | Coercive Ajax |
-| 2026-10-09 16:02:17 | [netresearch/nr-http-guard](https://www.nuget.org/packages/netresearch%2Fnr-http-guard) | v0.1.0 | Netresearch DTT GmbH | HTTP Guard - Controlled outbound HTTP protection for qualified TYPO3 client com… |
+| 2026-10-09 16:22:06 | [fostercommerce/commerce-net-terms](https://www.nuget.org/packages/fostercommerce%2Fcommerce-net-terms) | 1.0.0 | Foster Commerce | Net Terms is a Craft Commerce payment gateway that bills orders on net terms, t… |
+| 2026-10-09 16:22:18 | [aybarsm/apache-apisix-admin-api](https://www.nuget.org/packages/aybarsm%2Fapache-apisix-admin-api) | v0.1.0 | Murat Aybars | Framework-agnostic, typed, resource-oriented PHP client for the Apache APISIX A… |
+| 2026-10-09 16:33:38 | [ojessecruz/resend-inbox](https://www.nuget.org/packages/ojessecruz%2Fresend-inbox) | v0.1.0 | jessecruz | Framework-agnostic core of a Resend-powered shared inbox: webhook parsing, conv… |
+| 2026-10-09 16:34:07 | [ojessecruz/laravel-resend-inbox](https://www.nuget.org/packages/ojessecruz%2Flaravel-resend-inbox) | v0.1.0 | jessecruz | A shared inbox for your Laravel admin on top of Resend inbound email: conversat… |
+| 2026-10-09 16:36:16 | [pixelfix/installer](https://www.nuget.org/packages/pixelfix%2Finstaller) | v0.1.0 |  | Global CLI installer for PixelFix applications |
+| 2026-10-09 16:40:53 | [naf/flow](https://www.nuget.org/packages/naf%2Fflow) | v0.1.0 | Flo Knapp | Reactive JavaScript components and HTML updates for NAF, automatically integrat… |
+| 2026-10-09 16:59:15 | [humanmade/hm-facet-blocks](https://www.nuget.org/packages/humanmade%2Fhm-facet-blocks) | v0.1.0 | Human Made | Blocks for filtering content already on the page by facets |
+| 2026-10-09 17:07:35 | [duva-mail/laravel](https://www.nuget.org/packages/duva-mail%2Flaravel) | v0.1.0 | 9573-4562 Québec inc. | Laravel mail transport for Duva, the transactional email API hosted in Canada. |
 
 ## Data source
 
