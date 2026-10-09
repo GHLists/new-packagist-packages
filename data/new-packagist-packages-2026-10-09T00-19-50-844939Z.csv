@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-09T00:04:34Z,jeffersongoncalves/filament-page-cache,3.0.0,Jefferson Gonçalves,"Filament page to watch and control the laravel-page-cache full-page cache: hit ratio, flush everything, forget one URL, pause and resume."
+2026-10-09T00:06:49Z,anantrp/laravel-refract,v0.1.0,Anant Parmar,OpenTelemetry exports for the Laravel AI SDK with pluggable observability adapters.
