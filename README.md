@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 02:21 UTC
+## Latest list — 2026-10-10 03:19 UTC
 
-New packages created between 2026-10-10 01:20 UTC and 2026-10-10 02:21 UTC.
+New packages created between 2026-10-10 02:21 UTC and 2026-10-10 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T02-21-53-904765Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T03-19-23-46139Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 01:36:30 | [kingofpanda/module-card-scanner](https://www.nuget.org/packages/kingofpanda%2Fmodule-card-scanner) | v1.0.0 | Rodrigo Cardoso | Magento 2: escaneie o cartão pela câmera no checkout e preencha os campos de qu… |
+| 2026-10-10 03:00:12 | [jbflores24/framework](https://www.nuget.org/packages/jbflores24%2Fframework) | v1.0.0 |  | Miniframework PHP 8.2 para APIs REST. |
+| 2026-10-10 03:00:12 | [jbflores24/skeleton](https://www.nuget.org/packages/jbflores24%2Fskeleton) | v1.0.0 |  | Proyecto base para APIs REST con JB Framework. |
+| 2026-10-10 03:17:53 | [canebaycomputers/valorpay](https://www.nuget.org/packages/canebaycomputers%2Fvalorpay) | v0.1.0 | Cane Bay Computers | Laravel client for ValorPay: hosted payment pages, transaction lookups, card to… |
 
 ## Data source
 

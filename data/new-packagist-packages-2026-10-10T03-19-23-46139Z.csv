@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-10T03:00:12Z,jbflores24/framework,v1.0.0,,Miniframework PHP 8.2 para APIs REST.
+2026-10-10T03:00:12Z,jbflores24/skeleton,v1.0.0,,Proyecto base para APIs REST con JB Framework.
+2026-10-10T03:17:53Z,canebaycomputers/valorpay,v0.1.0,Cane Bay Computers,"Laravel client for ValorPay: hosted payment pages, transaction lookups, card tokens, subscriptions and webhook hints."
