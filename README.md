@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 00:19 UTC
+## Latest list — 2026-10-10 01:20 UTC
 
-New packages created between 2026-10-09 23:20 UTC and 2026-10-10 00:19 UTC.
+New packages created between 2026-10-10 00:19 UTC and 2026-10-10 01:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T00-19-18-599893Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T01-20-03-157756Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 00:05:07 | [3neti/truth-qr](https://www.nuget.org/packages/3neti%2Ftruth-qr) | v0.1.0 |  | Offline-verifiable QR records with versioned domain profiles |
-| 2026-10-10 00:09:53 | [liufencn/flarum-short-slug](https://www.nuget.org/packages/liufencn%2Fflarum-short-slug) | v1.0.0 | LiuFenCN | Shorten discussion URLs in Flarum 2.x: /d/{id} instead of /d/{id}-pinyin-slug.… |
+| 2026-10-10 00:53:16 | [anun333/oe-module-staff-worklist](https://www.nuget.org/packages/anun333%2Foe-module-staff-worklist) | v0.1.0 | anun333 | One queue of outstanding staff work across patients for OpenEMR: unsigned resul… |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-10T00:53:16Z,anun333/oe-module-staff-worklist,v0.1.0,anun333,"One queue of outstanding staff work across patients for OpenEMR: unsigned results, orders with no result, referrals with no reply, and care gaps for upcoming visits"
