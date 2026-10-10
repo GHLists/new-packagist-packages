@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-10T06:40:01Z,novora/kaizen-bundle,v1.0.0,Novora Labs,Lean continuous improvement for Symfony applications
+2026-10-10T07:00:59Z,keenthekeen/oauth-helper,v0.1.0,,OAuth 2.0 / OpenID Connect helpers for Laravel apps (internal use)
+2026-10-10T07:10:52Z,naf/alexa,v0.1.0,Flo Knapp,"Alexa+ MCP integration, OAuth setup and diagnostics for NAF."
+2026-10-10T07:11:09Z,vondry/bolt-skills,v1.0.0,Tomáš Vondráček,"Collection of AI agent skills, workflows, and runbooks for Bolt CMS"

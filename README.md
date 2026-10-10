@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 06:20 UTC
+## Latest list — 2026-10-10 07:18 UTC
 
-New packages created between 2026-10-10 05:20 UTC and 2026-10-10 06:20 UTC.
+New packages created between 2026-10-10 06:20 UTC and 2026-10-10 07:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T06-20-36-475687Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T07-18-53-335369Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 05:36:06 | [suvera/winter-modules](https://www.nuget.org/packages/suvera%2Fwinter-modules) | 2.1.6 | Suvera | Winter Boot modules |
-| 2026-10-10 06:17:26 | [caiyun/sms](https://www.nuget.org/packages/caiyun%2Fsms) | v1.0.0 |  | Multi-driver SMS package for Laravel supporting Aliyun, Tencent, Huawei, Volcen… |
+| 2026-10-10 06:40:01 | [novora/kaizen-bundle](https://www.nuget.org/packages/novora%2Fkaizen-bundle) | v1.0.0 | Novora Labs | Lean continuous improvement for Symfony applications |
+| 2026-10-10 07:00:59 | [keenthekeen/oauth-helper](https://www.nuget.org/packages/keenthekeen%2Foauth-helper) | v0.1.0 |  | OAuth 2.0 / OpenID Connect helpers for Laravel apps (internal use) |
+| 2026-10-10 07:10:52 | [naf/alexa](https://www.nuget.org/packages/naf%2Falexa) | v0.1.0 | Flo Knapp | Alexa+ MCP integration, OAuth setup and diagnostics for NAF. |
+| 2026-10-10 07:11:09 | [vondry/bolt-skills](https://www.nuget.org/packages/vondry%2Fbolt-skills) | v1.0.0 | Tomáš Vondráček | Collection of AI agent skills, workflows, and runbooks for Bolt CMS |
 
 ## Data source
 
