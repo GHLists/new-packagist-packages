@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-10T14:27:41Z,sewlore/measurement-calculators,v1.0.0,,"Local fabric stretch and recovery, button-centre spacing, and length conversion calculators for Drupal 11."
+2026-10-10T14:36:33Z,burhan15/office-pack,v0.1.0,,Universal Office Document SDK (PHP) — first-party engines
+2026-10-10T14:40:42Z,astrophp/trail,v0.1.0,Melih Ucar,"Tracing, cost tracking, and an observability dashboard for the Laravel AI SDK."
+2026-10-10T14:53:45Z,pivotphp/security,v0.1.0,Caio Alberto Fernandes,"Security middlewares for PivotPHP and any PSR-15 pipeline: CORS, trusted proxies, security headers, CSRF, JWT and rate limiting"
+2026-10-10T15:02:51Z,jotham-lec/statamic-penang,v1.0.0,,
+2026-10-10T15:17:27Z,agusedyc/yii-admin,v0.1.0,Agus Dyc,RBAC admin panel and authorization helpers for Yii3. Non-backward-compatible port of agusedyc/yii2-mimin built on yiisoft/rbac.
