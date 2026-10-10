@@ -15,18 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 20:20 UTC
+## Latest list — 2026-10-10 21:19 UTC
 
-New packages created between 2026-10-10 19:20 UTC and 2026-10-10 20:20 UTC.
+New packages created between 2026-10-10 20:20 UTC and 2026-10-10 21:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T20-20-25-621191Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T21-19-38-067718Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 19:23:06 | [mrfabulous/laravel-shibboleth](https://www.nuget.org/packages/mrfabulous%2Flaravel-shibboleth) | 1.0.2 | Christopher Maio; Michael Sch… | Enable basic Shibboleth support for Laravel. Forked from razorbacks/laravel-shi… |
-| 2026-10-10 19:36:33 | [tmonier/sylius-command-palette-plugin](https://www.nuget.org/packages/tmonier%2Fsylius-command-palette-plugin) | v1.0.0 | Thibaut Monier | Command palette (Ctrl+K / Cmd+K global search) for the Sylius 2 admin panel: or… |
-| 2026-10-10 19:41:57 | [tamarackdb/tamarackdb-php](https://www.nuget.org/packages/tamarackdb%2Ftamarackdb-php) | v0.3.0 |  | PHP client for TamarackDB, an event store compliant with the DCB specification. |
-| 2026-10-10 19:59:59 | [roadrunner/jobs](https://www.nuget.org/packages/roadrunner%2Fjobs) | 4.9.0 | Anton Titov; Pavel Buchnev; A… | PHP API for the RoadRunner Jobs (queues) plugin: manage pipelines, push tasks a… |
+| 2026-10-10 20:20:52 | [danielm/laravel-simple-audit](https://www.nuget.org/packages/danielm%2Flaravel-simple-audit) | v0.1.0 | Daniel Morales | Scalable, queueable audit event logging for Laravel apps, with a fluent builder… |
+| 2026-10-10 20:21:06 | [chuckbe/ponto-connect-laravel-sdk](https://www.nuget.org/packages/chuckbe%2Fponto-connect-laravel-sdk) | v1.0.0 | Karel Brijs | Laravel SDK for the Ponto Connect API v2 (Isabel Group / Ibanity) |
+| 2026-10-10 20:21:22 | [singraworks/br-fields](https://www.nuget.org/packages/singraworks%2Fbr-fields) | v1.0.0 | Lucas Vasconcelos | Validate, format, and redact Brazilian CPF and CNPJ numbers. Pure PHP, no Compo… |
+| 2026-10-10 20:27:18 | [roadrunner/centrifugo](https://www.nuget.org/packages/roadrunner%2Fcentrifugo) | 2.5.0 | Anton Titov; Pavel Buchnev; A… | Centrifugo bridge for RoadRunner: handle Centrifugo proxy events in PHP workers… |
+| 2026-10-10 20:44:37 | [nitro/nitro](https://www.nuget.org/packages/nitro%2Fnitro) | v2.0.0 | Zeeshan Ali | A full-stack framework for Laravel. Write components in PHP and Blade; Nitro co… |
+| 2026-10-10 20:55:24 | [singraworks/laravel-br-fields](https://www.nuget.org/packages/singraworks%2Flaravel-br-fields) | v1.0.0 | Lucas Vasconcelos | Laravel validation rules and Eloquent casts for Brazilian CPF and CNPJ numbers,… |
+| 2026-10-10 20:56:08 | [astromool/astromool-php](https://www.nuget.org/packages/astromool%2Fastromool-php) | v1.0.0 | AstroMool | Official client for the AstroMool Vedic astrology API (Swiss Ephemeris charts,… |
 
 ## Data source
 

@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-10T20:20:52Z,danielm/laravel-simple-audit,v0.1.0,Daniel Morales,"Scalable, queueable audit event logging for Laravel apps, with a fluent builder API."
+2026-10-10T20:21:06Z,chuckbe/ponto-connect-laravel-sdk,v1.0.0,Karel Brijs,Laravel SDK for the Ponto Connect API v2 (Isabel Group / Ibanity)
+2026-10-10T20:21:22Z,singraworks/br-fields,v1.0.0,Lucas Vasconcelos,"Validate, format, and redact Brazilian CPF and CNPJ numbers. Pure PHP, no Composer dependencies."
+2026-10-10T20:27:18Z,roadrunner/centrifugo,2.5.0,Anton Titov; Pavel Buchnev; Aleksei Gagarin; Maksim Smakouz; Kirill Nesmeyanov; RoadRunner Community,Centrifugo bridge for RoadRunner: handle Centrifugo proxy events in PHP workers and call the Centrifugo server API over RPC
+2026-10-10T20:44:37Z,nitro/nitro,v2.0.0,Zeeshan Ali,"A full-stack framework for Laravel. Write components in PHP and Blade; Nitro compiles them to JavaScript that runs in the browser, and calls the server only when you ask it to."
+2026-10-10T20:55:24Z,singraworks/laravel-br-fields,v1.0.0,Lucas Vasconcelos,"Laravel validation rules and Eloquent casts for Brazilian CPF and CNPJ numbers, on top of singraworks/br-fields."
+2026-10-10T20:56:08Z,astromool/astromool-php,v1.0.0,AstroMool,"Official client for the AstroMool Vedic astrology API (Swiss Ephemeris charts, 90 calculators, PDF reports)."
