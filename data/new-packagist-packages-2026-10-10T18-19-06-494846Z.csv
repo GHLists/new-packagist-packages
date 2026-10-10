@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-10T17:20:23Z,novay/minios,0.1.0,Noviyanto Rahmadi,MiniOS Desktop Environment for Laravel
+2026-10-10T17:55:41Z,rasuvaeff/context-http,v0.1.0,Victor Razuvaev,PSR HTTP adapters for rasuvaeff/context
+2026-10-10T17:57:50Z,tmonier/sylius-gpsr-plugin,v1.0.0,Thibaut Monier,"EU General Product Safety Regulation (GPSR, Regulation (EU) 2023/988, Art. 19) product safety information for Sylius 2"
+2026-10-10T17:58:58Z,antevemus/aspecification,v1.6.1,Heliton Junior - CTO @ Antevemus Soluções Inovadoras em TI Ltda.,"Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Pattern, SQL Query Visitor, Adianti TCriteria, DAG Repositories)"
+2026-10-10T17:59:17Z,antevemus/alinq-collection,v1.4.1,Heliton Junior - CTO @ Antevemus Soluções Inovadoras em TI Ltda.,"Enterprise LINQ-Style Collection Framework for PHP 8.4+ (Fluent API, Native Array Primitives, Query Builder, Set Operations, Dot-Notation Property Access)"
+2026-10-10T18:08:52Z,rasuvaeff/context,v0.1.0,Victor Razuvaev,"Deadline, cancellation and request-scoped values for PHP"

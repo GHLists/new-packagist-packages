@@ -15,23 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 17:20 UTC
+## Latest list — 2026-10-10 18:19 UTC
 
-New packages created between 2026-10-10 16:20 UTC and 2026-10-10 17:20 UTC.
+New packages created between 2026-10-10 17:20 UTC and 2026-10-10 18:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T17-20-04-446919Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T18-19-06-494846Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 16:21:29 | [roadrunner/symfony-lock-driver](https://www.nuget.org/packages/roadrunner%2Fsymfony-lock-driver) | 1.3.0 | Pavel Buchnev; Alexander Stri… | Symfony Lock store backed by the RoadRunner lock plugin: use RoadRunner distrib… |
-| 2026-10-10 16:23:19 | [pivotphp/core-routing](https://www.nuget.org/packages/pivotphp%2Fcore-routing) | v2.2.1 | Caio Alberto Fernandes | Simple, focused routing engine for PivotPHP - Express.js-inspired API (PSR-7) |
-| 2026-10-10 16:24:33 | [roadrunner/tcp](https://www.nuget.org/packages/roadrunner%2Ftcp) | 4.3.0 | Anton Titov; Pavel Buchnev; A… | PHP worker for the RoadRunner TCP plugin: handle raw TCP connection events and… |
-| 2026-10-10 16:26:04 | [runlight/runlight](https://www.nuget.org/packages/runlight%2Frunlight) | v0.1.0 |  | Privacy friendly web analytics that lives inside your PHP app. Mount a route, a… |
-| 2026-10-10 16:36:05 | [reinfyteam/discordwebhookapi](https://www.nuget.org/packages/reinfyteam%2Fdiscordwebhookapi) | 2.0.0 |  | A PocketMine-MP Virion to easily send messages via Discord Webhooks |
-| 2026-10-10 16:41:53 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.5.5 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
-| 2026-10-10 16:54:05 | [itxshakil/aadhaar-offline](https://www.nuget.org/packages/itxshakil%2Faadhaar-offline) | v0.1.0 | Shakil Alam | Read and verify Aadhaar Offline e-KYC (share-code ZIP / signed XML) and Secure… |
-| 2026-10-10 16:56:00 | [b44x/edoreczenia](https://www.nuget.org/packages/b44x%2Fedoreczenia) | v0.2.1 | Michell Hoduń | Unofficial, framework-agnostic PHP SDK for the Polish e-Doręczenia (e-Delivery)… |
-| 2026-10-10 17:13:27 | [rasuvaeff/schema](https://www.nuget.org/packages/rasuvaeff%2Fschema) | v0.1.0 | Victor Razuvaev | Schema-as-code combinators: runtime validation, property-based generators and J… |
+| 2026-10-10 17:20:23 | [novay/minios](https://www.nuget.org/packages/novay%2Fminios) | 0.1.0 | Noviyanto Rahmadi | MiniOS Desktop Environment for Laravel |
+| 2026-10-10 17:55:41 | [rasuvaeff/context-http](https://www.nuget.org/packages/rasuvaeff%2Fcontext-http) | v0.1.0 | Victor Razuvaev | PSR HTTP adapters for rasuvaeff/context |
+| 2026-10-10 17:57:50 | [tmonier/sylius-gpsr-plugin](https://www.nuget.org/packages/tmonier%2Fsylius-gpsr-plugin) | v1.0.0 | Thibaut Monier | EU General Product Safety Regulation (GPSR, Regulation (EU) 2023/988, Art. 19)… |
+| 2026-10-10 17:58:58 | [antevemus/aspecification](https://www.nuget.org/packages/antevemus%2Faspecification) | v1.6.1 | Heliton Junior - CTO @ Anteve… | Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Patt… |
+| 2026-10-10 17:59:17 | [antevemus/alinq-collection](https://www.nuget.org/packages/antevemus%2Falinq-collection) | v1.4.1 | Heliton Junior - CTO @ Anteve… | Enterprise LINQ-Style Collection Framework for PHP 8.4+ (Fluent API, Native Arr… |
+| 2026-10-10 18:08:52 | [rasuvaeff/context](https://www.nuget.org/packages/rasuvaeff%2Fcontext) | v0.1.0 | Victor Razuvaev | Deadline, cancellation and request-scoped values for PHP |
 
 ## Data source
 
