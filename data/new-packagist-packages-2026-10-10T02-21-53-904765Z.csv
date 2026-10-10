@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-10T01:36:30Z,kingofpanda/module-card-scanner,v1.0.0,Rodrigo Cardoso,Magento 2: escaneie o cartão pela câmera no checkout e preencha os campos de qualquer método de pagamento. OCR 100% no navegador (Tesseract.js).

@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 01:20 UTC
+## Latest list — 2026-10-10 02:21 UTC
 
-New packages created between 2026-10-10 00:19 UTC and 2026-10-10 01:20 UTC.
+New packages created between 2026-10-10 01:20 UTC and 2026-10-10 02:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T01-20-03-157756Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T02-21-53-904765Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 00:53:16 | [anun333/oe-module-staff-worklist](https://www.nuget.org/packages/anun333%2Foe-module-staff-worklist) | v0.1.0 | anun333 | One queue of outstanding staff work across patients for OpenEMR: unsigned resul… |
+| 2026-10-10 01:36:30 | [kingofpanda/module-card-scanner](https://www.nuget.org/packages/kingofpanda%2Fmodule-card-scanner) | v1.0.0 | Rodrigo Cardoso | Magento 2: escaneie o cartão pela câmera no checkout e preencha os campos de qu… |
 
 ## Data source
 
