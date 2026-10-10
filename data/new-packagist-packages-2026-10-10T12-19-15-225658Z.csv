@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-10T11:53:22Z,ak279642/laravel-infrastructure,v1.5.2,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."
+2026-10-10T12:00:45Z,cecil/theme-docsearch,1.0.0,,Cecil component theme DocSearch
+2026-10-10T12:09:36Z,manzadey/larasentry-client,v0.1.0,,A lightweight exception tracker client for Laravel.

@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 11:21 UTC
+## Latest list — 2026-10-10 12:19 UTC
 
-New packages created between 2026-10-10 10:20 UTC and 2026-10-10 11:21 UTC.
+New packages created between 2026-10-10 11:21 UTC and 2026-10-10 12:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T11-21-48-331151Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T12-19-15-225658Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 10:28:54 | [jamesforsyth/laravel-uk-kyb-edge](https://www.nuget.org/packages/jamesforsyth%2Flaravel-uk-kyb-edge) | v1.0.0 | James Forsyth | Sub-20ms UK Companies House address sanitization, geocoding, and director KYB f… |
-| 2026-10-10 10:34:45 | [duva-mail/symfony-mailer](https://www.nuget.org/packages/duva-mail%2Fsymfony-mailer) | v0.1.0 | 9573-4562 Québec inc. | Symfony Mailer transport for Duva, the transactional email API hosted in Canada. |
-| 2026-10-10 10:58:12 | [codeconjure/foxpost](https://www.nuget.org/packages/codeconjure%2Ffoxpost) | 0.1.0 |  | FoxPost WebAPI protokoll-kliens — keretrendszer-független, PSR-18 alapon. |
-| 2026-10-10 11:04:09 | [codeconjure/foxpost-sylius-plugin](https://www.nuget.org/packages/codeconjure%2Ffoxpost-sylius-plugin) | 0.1.0 |  | FoxPost szállítási integráció Syliushoz: csomagfeladás, címke, nyomkövetés. |
+| 2026-10-10 11:53:22 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.5.2 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
+| 2026-10-10 12:00:45 | [cecil/theme-docsearch](https://www.nuget.org/packages/cecil%2Ftheme-docsearch) | 1.0.0 |  | Cecil component theme DocSearch |
+| 2026-10-10 12:09:36 | [manzadey/larasentry-client](https://www.nuget.org/packages/manzadey%2Flarasentry-client) | v0.1.0 |  | A lightweight exception tracker client for Laravel. |
 
 ## Data source
 
