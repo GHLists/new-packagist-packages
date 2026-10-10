@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-10T22:29:44Z,antevemus/aspecification,v1.8.0,Heliton Junior - CTO @ Antevemus Soluções Inovadoras em TI Ltda.,"Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Pattern, SQL Query Visitor, Adianti TCriteria, DAG Repositories)"
+2026-10-10T22:29:55Z,joust/joust,0.1.0,Woody Gilk,Just another JSON API kit
+2026-10-10T22:31:53Z,tueen/database,v1.0.0-alpha.1,Tueen Ecosystem Team,"The zero-config, high-throughput relational database engine engineered for Telegram bots and the Tueen ecosystem."
+2026-10-10T22:45:58Z,quadcompanies/quadpayment,v0.1.0,,Tokenized Payload (v2) card payments for Laravel with built-in card-testing defenses.
+2026-10-10T22:52:56Z,jeffersongoncalves/laravel-telegram-logger,1.0.0,Jefferson Gonçalves,"Send Laravel logs to a Telegram chat with deduplication, configurable error grouping, rate limiting, async delivery, forum topics and a graceful no-op when the bot is not configured."

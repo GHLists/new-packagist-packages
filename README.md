@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 22:21 UTC
+## Latest list — 2026-10-10 23:20 UTC
 
-New packages created between 2026-10-10 21:19 UTC and 2026-10-10 22:21 UTC.
+New packages created between 2026-10-10 22:21 UTC and 2026-10-10 23:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T22-21-09-446775Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T23-20-16-536038Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 21:34:59 | [nanayawkumi/nyk-db-sync](https://www.nuget.org/packages/nanayawkumi%2Fnyk-db-sync) | 1.0.0 | Nana Yaw Kumi | Bidirectional MySQL and PostgreSQL schema translation, row sync, dual-write, an… |
-| 2026-10-10 21:39:09 | [invisnet/phpstan-compose-shapes](https://www.nuget.org/packages/invisnet%2Fphpstan-compose-shapes) | 1.0.0 | Charles Lecklider | PHPStan extension providing compose-shapes<A, B, ...> to merge sealed array sha… |
-| 2026-10-10 21:55:35 | [magicoli/kick-inside](https://www.nuget.org/packages/magicoli%2Fkick-inside) | 0.1.0 | Olivier van Helden | Pure PHP UPnP IGD port mapping (miniupnpc-like) without CLI dependencies. |
-| 2026-10-10 21:56:17 | [shahriar/laravel-filemanager](https://www.nuget.org/packages/shahriar%2Flaravel-filemanager) | v1.0.0 |  | Project-scoped Laravel file manager: no storage:link, folders, password-protect… |
+| 2026-10-10 22:29:44 | [antevemus/aspecification](https://www.nuget.org/packages/antevemus%2Faspecification) | v1.8.0 | Heliton Junior - CTO @ Anteve… | Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Patt… |
+| 2026-10-10 22:29:55 | [joust/joust](https://www.nuget.org/packages/joust%2Fjoust) | 0.1.0 | Woody Gilk | Just another JSON API kit |
+| 2026-10-10 22:31:53 | [tueen/database](https://www.nuget.org/packages/tueen%2Fdatabase) | v1.0.0-alpha.1 | Tueen Ecosystem Team | The zero-config, high-throughput relational database engine engineered for Tele… |
+| 2026-10-10 22:45:58 | [quadcompanies/quadpayment](https://www.nuget.org/packages/quadcompanies%2Fquadpayment) | v0.1.0 |  | Tokenized Payload (v2) card payments for Laravel with built-in card-testing def… |
+| 2026-10-10 22:52:56 | [jeffersongoncalves/laravel-telegram-logger](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-telegram-logger) | 1.0.0 | Jefferson Gonçalves | Send Laravel logs to a Telegram chat with deduplication, configurable error gro… |
 
 ## Data source
 
