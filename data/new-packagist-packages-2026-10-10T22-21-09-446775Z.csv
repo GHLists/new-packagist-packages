@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-10T21:34:59Z,nanayawkumi/nyk-db-sync,1.0.0,Nana Yaw Kumi,"Bidirectional MySQL and PostgreSQL schema translation, row sync, dual-write, and cutover for Laravel"
+2026-10-10T21:39:09Z,invisnet/phpstan-compose-shapes,1.0.0,Charles Lecklider,"PHPStan extension providing compose-shapes<A, B, ...> to merge sealed array shapes"
+2026-10-10T21:55:35Z,magicoli/kick-inside,0.1.0,Olivier van Helden,Pure PHP UPnP IGD port mapping (miniupnpc-like) without CLI dependencies.
+2026-10-10T21:56:17Z,shahriar/laravel-filemanager,v1.0.0,,"Project-scoped Laravel file manager: no storage:link, folders, password-protected files, Tailwind 4 UI."
