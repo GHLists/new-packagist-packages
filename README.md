@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 05:20 UTC
+## Latest list — 2026-10-10 06:20 UTC
 
-New packages created between 2026-10-10 04:22 UTC and 2026-10-10 05:20 UTC.
+New packages created between 2026-10-10 05:20 UTC and 2026-10-10 06:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T05-20-03-498887Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T06-20-36-475687Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 05:16:27 | [thebigcrafter/commando](https://www.nuget.org/packages/thebigcrafter%2Fcommando) | 3.3.0 |  | A command framework virion for PocketMine-MP |
+| 2026-10-10 05:36:06 | [suvera/winter-modules](https://www.nuget.org/packages/suvera%2Fwinter-modules) | 2.1.6 | Suvera | Winter Boot modules |
+| 2026-10-10 06:17:26 | [caiyun/sms](https://www.nuget.org/packages/caiyun%2Fsms) | v1.0.0 |  | Multi-driver SMS package for Laravel supporting Aliyun, Tencent, Huawei, Volcen… |
 
 ## Data source
 
