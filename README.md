@@ -15,18 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 07:18 UTC
+## Latest list — 2026-10-10 08:19 UTC
 
-New packages created between 2026-10-10 06:20 UTC and 2026-10-10 07:18 UTC.
+New packages created between 2026-10-10 07:18 UTC and 2026-10-10 08:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T07-18-53-335369Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T08-19-20-066463Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 06:40:01 | [novora/kaizen-bundle](https://www.nuget.org/packages/novora%2Fkaizen-bundle) | v1.0.0 | Novora Labs | Lean continuous improvement for Symfony applications |
-| 2026-10-10 07:00:59 | [keenthekeen/oauth-helper](https://www.nuget.org/packages/keenthekeen%2Foauth-helper) | v0.1.0 |  | OAuth 2.0 / OpenID Connect helpers for Laravel apps (internal use) |
-| 2026-10-10 07:10:52 | [naf/alexa](https://www.nuget.org/packages/naf%2Falexa) | v0.1.0 | Flo Knapp | Alexa+ MCP integration, OAuth setup and diagnostics for NAF. |
-| 2026-10-10 07:11:09 | [vondry/bolt-skills](https://www.nuget.org/packages/vondry%2Fbolt-skills) | v1.0.0 | Tomáš Vondráček | Collection of AI agent skills, workflows, and runbooks for Bolt CMS |
+| 2026-10-10 07:39:05 | [the14thsky/filament-sidebar-coscroll](https://www.nuget.org/packages/the14thsky%2Ffilament-sidebar-coscroll) | v1.0.0 | the14thsky | Makes the Filament panel sidebar scroll together with the page |
+| 2026-10-10 08:02:08 | [hyperf-apex/apex](https://www.nuget.org/packages/hyperf-apex%2Fapex) | v1.0.0 | lbg-sys | Apex generic infrastructure, API engine and components for Hyperf (Metapackage) |
+| 2026-10-10 08:06:50 | [online-efd/online-efd](https://www.nuget.org/packages/online-efd%2Fonline-efd) | v0.0.2 |  | Reusable Laravel package for TRA (Tanzania) VFD/EFD integration: per-tenant cer… |
+| 2026-10-10 08:11:12 | [hyperf-apex/metrics](https://www.nuget.org/packages/hyperf-apex%2Fmetrics) | v1.0.0 | lbg-sys | Apex Prometheus metrics and monitoring on Swoole Table for Hyperf |
+| 2026-10-10 08:11:12 | [hyperf-apex/websocket](https://www.nuget.org/packages/hyperf-apex%2Fwebsocket) | v1.0.0 | lbg-sys | Apex WebSocket gateway and push service for Hyperf |
+| 2026-10-10 08:11:13 | [hyperf-apex/apidoc](https://www.nuget.org/packages/hyperf-apex%2Fapidoc) | v1.0.0 | lbg-sys | Apex OpenAPI 3.1 & Apifox documentation generator for Hyperf |
+| 2026-10-10 08:11:13 | [hyperf-apex/core](https://www.nuget.org/packages/hyperf-apex%2Fcore) | v1.0.0 | lbg-sys | Apex generic infrastructure foundation, HTTP engine and security for Hyperf |
+| 2026-10-10 08:11:13 | [hyperf-apex/reliability](https://www.nuget.org/packages/hyperf-apex%2Freliability) | v1.0.0 | lbg-sys | Apex reliability suite (RateLimit, Idempotency, Outbox, Notify, Outbound) for H… |
 
 ## Data source
 

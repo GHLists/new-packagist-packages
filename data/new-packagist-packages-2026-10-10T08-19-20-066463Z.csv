@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-10T07:39:05Z,the14thsky/filament-sidebar-coscroll,v1.0.0,the14thsky,Makes the Filament panel sidebar scroll together with the page
+2026-10-10T08:02:08Z,hyperf-apex/apex,v1.0.0,lbg-sys,"Apex generic infrastructure, API engine and components for Hyperf (Metapackage)"
+2026-10-10T08:06:50Z,online-efd/online-efd,v0.0.2,,"Reusable Laravel package for TRA (Tanzania) VFD/EFD integration: per-tenant certificates & credentials, registration, receipts and Z-reports. Plain PHP/JSON API, no UI."
+2026-10-10T08:11:12Z,hyperf-apex/metrics,v1.0.0,lbg-sys,Apex Prometheus metrics and monitoring on Swoole Table for Hyperf
+2026-10-10T08:11:12Z,hyperf-apex/websocket,v1.0.0,lbg-sys,Apex WebSocket gateway and push service for Hyperf
+2026-10-10T08:11:13Z,hyperf-apex/apidoc,v1.0.0,lbg-sys,Apex OpenAPI 3.1 & Apifox documentation generator for Hyperf
+2026-10-10T08:11:13Z,hyperf-apex/core,v1.0.0,lbg-sys,"Apex generic infrastructure foundation, HTTP engine and security for Hyperf"
+2026-10-10T08:11:13Z,hyperf-apex/reliability,v1.0.0,lbg-sys,"Apex reliability suite (RateLimit, Idempotency, Outbox, Notify, Outbound) for Hyperf"
