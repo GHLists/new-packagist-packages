@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-10T03:33:53Z,pantosource/magento,1.2.7,,"PantoSource event tracking for Magento — canonical ingestion payloads, attribution, queue/retry, admin debug."
+2026-10-10T03:40:55Z,mmuqiitf/filament-qr-code,v0.1.0,Muhammad Muqiit Faturrahman,"A powerful, modern QR code package for Filament v5 supporting generation, camera reading, sequential fields, and hardware scanners."
+2026-10-10T03:43:12Z,polaris/api-keys,v0.9.0,2am.tech,"API keys for Polaris for PHP: keys owned by users and organizations with a permission subset, rate limit, expiry and rotation, accepted as a principal on every Polaris route"
+2026-10-10T03:43:12Z,polaris/oauth-provider,v0.9.0,2am.tech,"Polaris for PHP as an OAuth 2.1 and OpenID Connect provider: authorization code with PKCE, refresh rotation, client credentials, device flow, CIBA, token exchange, DPoP, dynamic registration and client ID metadata documents, discovery"
+2026-10-10T03:51:03Z,ak279642/laravel-infrastructure,v1.5.0,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."
