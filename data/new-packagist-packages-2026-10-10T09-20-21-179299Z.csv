@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-10T08:21:15Z,itxshakil/laravel-aadhaar-offline,v0.1.0,Shakil Alam,"Read and verify Aadhaar Offline e-KYC (share-code ZIP / signed XML) locally in Laravel: UIDAI signature checks, mobile/email hash matching, freshness rules and privacy-safe defaults."
+2026-10-10T08:22:27Z,jodeveloper/secure-share,v1.0.0,,Passcode-encrypted secret + attachment sharing for Laravel/Filament
+2026-10-10T08:46:14Z,surlinio/easycaptchas,v1.0.0,Surlinio B.V.,"A lightweight, self-hosted and privacy-friendly CAPTCHA solution for PHP forms."
+2026-10-10T08:47:53Z,kwasii/laravel-sql-parser,v0.1.0,Kwasi Sakyi Baidoo,Fast SQL Parser for PHP Laravel
+2026-10-10T09:08:56Z,elyar/laravel-service-tokens,v0.1.0,Elyar,"Token authentication for service-to-service calls between Laravel apps, with per-route permissions and an interactive manager."

@@ -15,22 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 08:19 UTC
+## Latest list — 2026-10-10 09:20 UTC
 
-New packages created between 2026-10-10 07:18 UTC and 2026-10-10 08:19 UTC.
+New packages created between 2026-10-10 08:19 UTC and 2026-10-10 09:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T08-19-20-066463Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T09-20-21-179299Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 07:39:05 | [the14thsky/filament-sidebar-coscroll](https://www.nuget.org/packages/the14thsky%2Ffilament-sidebar-coscroll) | v1.0.0 | the14thsky | Makes the Filament panel sidebar scroll together with the page |
-| 2026-10-10 08:02:08 | [hyperf-apex/apex](https://www.nuget.org/packages/hyperf-apex%2Fapex) | v1.0.0 | lbg-sys | Apex generic infrastructure, API engine and components for Hyperf (Metapackage) |
-| 2026-10-10 08:06:50 | [online-efd/online-efd](https://www.nuget.org/packages/online-efd%2Fonline-efd) | v0.0.2 |  | Reusable Laravel package for TRA (Tanzania) VFD/EFD integration: per-tenant cer… |
-| 2026-10-10 08:11:12 | [hyperf-apex/metrics](https://www.nuget.org/packages/hyperf-apex%2Fmetrics) | v1.0.0 | lbg-sys | Apex Prometheus metrics and monitoring on Swoole Table for Hyperf |
-| 2026-10-10 08:11:12 | [hyperf-apex/websocket](https://www.nuget.org/packages/hyperf-apex%2Fwebsocket) | v1.0.0 | lbg-sys | Apex WebSocket gateway and push service for Hyperf |
-| 2026-10-10 08:11:13 | [hyperf-apex/apidoc](https://www.nuget.org/packages/hyperf-apex%2Fapidoc) | v1.0.0 | lbg-sys | Apex OpenAPI 3.1 & Apifox documentation generator for Hyperf |
-| 2026-10-10 08:11:13 | [hyperf-apex/core](https://www.nuget.org/packages/hyperf-apex%2Fcore) | v1.0.0 | lbg-sys | Apex generic infrastructure foundation, HTTP engine and security for Hyperf |
-| 2026-10-10 08:11:13 | [hyperf-apex/reliability](https://www.nuget.org/packages/hyperf-apex%2Freliability) | v1.0.0 | lbg-sys | Apex reliability suite (RateLimit, Idempotency, Outbox, Notify, Outbound) for H… |
+| 2026-10-10 08:21:15 | [itxshakil/laravel-aadhaar-offline](https://www.nuget.org/packages/itxshakil%2Flaravel-aadhaar-offline) | v0.1.0 | Shakil Alam | Read and verify Aadhaar Offline e-KYC (share-code ZIP / signed XML) locally in… |
+| 2026-10-10 08:22:27 | [jodeveloper/secure-share](https://www.nuget.org/packages/jodeveloper%2Fsecure-share) | v1.0.0 |  | Passcode-encrypted secret + attachment sharing for Laravel/Filament |
+| 2026-10-10 08:46:14 | [surlinio/easycaptchas](https://www.nuget.org/packages/surlinio%2Feasycaptchas) | v1.0.0 | Surlinio B.V. | A lightweight, self-hosted and privacy-friendly CAPTCHA solution for PHP forms. |
+| 2026-10-10 08:47:53 | [kwasii/laravel-sql-parser](https://www.nuget.org/packages/kwasii%2Flaravel-sql-parser) | v0.1.0 | Kwasi Sakyi Baidoo | Fast SQL Parser for PHP Laravel |
+| 2026-10-10 09:08:56 | [elyar/laravel-service-tokens](https://www.nuget.org/packages/elyar%2Flaravel-service-tokens) | v0.1.0 | Elyar | Token authentication for service-to-service calls between Laravel apps, with pe… |
 
 ## Data source
 
