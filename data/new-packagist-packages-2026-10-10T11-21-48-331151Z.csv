@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-10T10:28:54Z,jamesforsyth/laravel-uk-kyb-edge,v1.0.0,James Forsyth,"Sub-20ms UK Companies House address sanitization, geocoding, and director KYB for Laravel."
+2026-10-10T10:34:45Z,duva-mail/symfony-mailer,v0.1.0,9573-4562 Québec inc.,"Symfony Mailer transport for Duva, the transactional email API hosted in Canada."
+2026-10-10T10:58:12Z,codeconjure/foxpost,0.1.0,,"FoxPost WebAPI protokoll-kliens — keretrendszer-független, PSR-18 alapon."
+2026-10-10T11:04:09Z,codeconjure/foxpost-sylius-plugin,0.1.0,,"FoxPost szállítási integráció Syliushoz: csomagfeladás, címke, nyomkövetés."
