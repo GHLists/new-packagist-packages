@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 23:20 UTC
+## Latest list — 2026-10-10 00:19 UTC
 
-New packages created between 2026-10-09 22:21 UTC and 2026-10-09 23:20 UTC.
+New packages created between 2026-10-09 23:20 UTC and 2026-10-10 00:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-09T23-20-40-813334Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T00-19-18-599893Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-09 22:23:05 | [usamamuneerchaudhary/laravel-slipway](https://www.nuget.org/packages/usamamuneerchaudhary%2Flaravel-slipway) | 1.2 | Usama Muneer Chaudhary | Define your CI/CD pipeline once in config/slipway.php and compile it to GitHub… |
-| 2026-10-09 22:39:07 | [toreador/flarum-mail-audit](https://www.nuget.org/packages/toreador%2Fflarum-mail-audit) | v1.0.1 | Toreador | Records every outgoing Flarum email in the database and lets admins inspect rec… |
-| 2026-10-09 22:56:27 | [scottoffen/markdown-converter](https://www.nuget.org/packages/scottoffen%2Fmarkdown-converter) | v1.0.0 | Scott Offen | Converts Markdown to safe HTML, with GitHub-style tables, images, and alerts. |
-| 2026-10-09 23:03:20 | [fbpkg/laravel-guards](https://www.nuget.org/packages/fbpkg%2Flaravel-guards) | v0.1.0 | Farzad Sharifi | Authentication guards and session management for Laravel. |
+| 2026-10-10 00:05:07 | [3neti/truth-qr](https://www.nuget.org/packages/3neti%2Ftruth-qr) | v0.1.0 |  | Offline-verifiable QR records with versioned domain profiles |
+| 2026-10-10 00:09:53 | [liufencn/flarum-short-slug](https://www.nuget.org/packages/liufencn%2Fflarum-short-slug) | v1.0.0 | LiuFenCN | Shorten discussion URLs in Flarum 2.x: /d/{id} instead of /d/{id}-pinyin-slug.… |
 
 ## Data source
 

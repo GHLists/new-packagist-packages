@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-10T00:05:07Z,3neti/truth-qr,v0.1.0,,Offline-verifiable QR records with versioned domain profiles
+2026-10-10T00:09:53Z,liufencn/flarum-short-slug,v1.0.0,LiuFenCN,"Shorten discussion URLs in Flarum 2.x: /d/{id} instead of /d/{id}-pinyin-slug. Comes with an admin toggle, optional custom slugs and CLI tools to clean up existing discussions."
