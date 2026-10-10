@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 19:20 UTC
+## Latest list — 2026-10-10 20:20 UTC
 
-New packages created between 2026-10-10 18:19 UTC and 2026-10-10 19:20 UTC.
+New packages created between 2026-10-10 19:20 UTC and 2026-10-10 20:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T19-20-06-292133Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T20-20-25-621191Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 18:19:47 | [ernadoo/boxtal](https://www.nuget.org/packages/ernadoo%2Fboxtal) | v0.1.0 | Erwan Nader | Boxtal API client: quotes (v1), shipping orders, labels, tracking, parcel point… |
-| 2026-10-10 18:27:40 | [spaanproductions/laravel-ai-usage](https://www.nuget.org/packages/spaanproductions%2Flaravel-ai-usage) | v0.1.0 | Spaan Productions | Tracks the tokens and cost of every laravel/ai call, with a filterable Livewire… |
-| 2026-10-10 18:47:09 | [zeusi/ganesha-apcu-adapter](https://www.nuget.org/packages/zeusi%2Fganesha-apcu-adapter) | 0.1.0 |  | APCu storage adapter for Ganesha implementing the sliding time window Rate stra… |
-| 2026-10-10 18:47:22 | [antevemus/aspecification](https://www.nuget.org/packages/antevemus%2Faspecification) | v1.7.0 | Heliton Junior - CTO @ Anteve… | Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Patt… |
-| 2026-10-10 18:49:45 | [lottevo/lottevo-php](https://www.nuget.org/packages/lottevo%2Flottevo-php) | v0.1.0 | Lottevo | A thin PHP client for the Lottevo lottery data API. |
+| 2026-10-10 19:23:06 | [mrfabulous/laravel-shibboleth](https://www.nuget.org/packages/mrfabulous%2Flaravel-shibboleth) | 1.0.2 | Christopher Maio; Michael Sch… | Enable basic Shibboleth support for Laravel. Forked from razorbacks/laravel-shi… |
+| 2026-10-10 19:36:33 | [tmonier/sylius-command-palette-plugin](https://www.nuget.org/packages/tmonier%2Fsylius-command-palette-plugin) | v1.0.0 | Thibaut Monier | Command palette (Ctrl+K / Cmd+K global search) for the Sylius 2 admin panel: or… |
+| 2026-10-10 19:41:57 | [tamarackdb/tamarackdb-php](https://www.nuget.org/packages/tamarackdb%2Ftamarackdb-php) | v0.3.0 |  | PHP client for TamarackDB, an event store compliant with the DCB specification. |
+| 2026-10-10 19:59:59 | [roadrunner/jobs](https://www.nuget.org/packages/roadrunner%2Fjobs) | 4.9.0 | Anton Titov; Pavel Buchnev; A… | PHP API for the RoadRunner Jobs (queues) plugin: manage pipelines, push tasks a… |
 
 ## Data source
 

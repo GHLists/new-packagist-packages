@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-10T19:23:06Z,mrfabulous/laravel-shibboleth,1.0.2,Christopher Maio; Michael Schuett; Taylor Donald Harvey Smith; Jeff Puckett; Daniel Paz-Horta,Enable basic Shibboleth support for Laravel. Forked from razorbacks/laravel-shibboleth.
+2026-10-10T19:36:33Z,tmonier/sylius-command-palette-plugin,v1.0.0,Thibaut Monier,"Command palette (Ctrl+K / Cmd+K global search) for the Sylius 2 admin panel: orders, customers, products, promotions and admin pages"
+2026-10-10T19:41:57Z,tamarackdb/tamarackdb-php,v0.3.0,,"PHP client for TamarackDB, an event store compliant with the DCB specification."
+2026-10-10T19:59:59Z,roadrunner/jobs,4.9.0,Anton Titov; Pavel Buchnev; Aleksei Gagarin; Maksim Smakouz; Kirill Nesmeyanov; RoadRunner Community,"PHP API for the RoadRunner Jobs (queues) plugin: manage pipelines, push tasks and consume them in workers"
