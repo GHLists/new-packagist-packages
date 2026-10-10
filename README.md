@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 09:20 UTC
+## Latest list — 2026-10-10 10:20 UTC
 
-New packages created between 2026-10-10 08:19 UTC and 2026-10-10 09:20 UTC.
+New packages created between 2026-10-10 09:20 UTC and 2026-10-10 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T09-20-21-179299Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T10-20-22-322088Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 08:21:15 | [itxshakil/laravel-aadhaar-offline](https://www.nuget.org/packages/itxshakil%2Flaravel-aadhaar-offline) | v0.1.0 | Shakil Alam | Read and verify Aadhaar Offline e-KYC (share-code ZIP / signed XML) locally in… |
-| 2026-10-10 08:22:27 | [jodeveloper/secure-share](https://www.nuget.org/packages/jodeveloper%2Fsecure-share) | v1.0.0 |  | Passcode-encrypted secret + attachment sharing for Laravel/Filament |
-| 2026-10-10 08:46:14 | [surlinio/easycaptchas](https://www.nuget.org/packages/surlinio%2Feasycaptchas) | v1.0.0 | Surlinio B.V. | A lightweight, self-hosted and privacy-friendly CAPTCHA solution for PHP forms. |
-| 2026-10-10 08:47:53 | [kwasii/laravel-sql-parser](https://www.nuget.org/packages/kwasii%2Flaravel-sql-parser) | v0.1.0 | Kwasi Sakyi Baidoo | Fast SQL Parser for PHP Laravel |
-| 2026-10-10 09:08:56 | [elyar/laravel-service-tokens](https://www.nuget.org/packages/elyar%2Flaravel-service-tokens) | v0.1.0 | Elyar | Token authentication for service-to-service calls between Laravel apps, with pe… |
+| 2026-10-10 09:27:46 | [hyperf-apex/apidoc-apifox](https://www.nuget.org/packages/hyperf-apex%2Fapidoc-apifox) | v2.0.0 | lbg-sys | Apex Apifox native document export for WebSocket contracts (Hyperf) |
+| 2026-10-10 09:33:02 | [puffinmail/module-lifecycle](https://www.nuget.org/packages/puffinmail%2Fmodule-lifecycle) | v1.1.1 |  | PuffinMail for Magento 2: syncs customers, newsletter subscribers, orders, aban… |
+| 2026-10-10 09:33:51 | [phattarachai/files-backup-laravel](https://www.nuget.org/packages/phattarachai%2Ffiles-backup-laravel) | v0.1.1 | Phattarachai Chaimongkol | Incremental off-site backup of a Laravel app's content files (uploads, media li… |
+| 2026-10-10 09:42:25 | [pulseline/jalali-events](https://www.nuget.org/packages/pulseline%2Fjalali-events) | v1.0.0 | Farzin Bidokhti | A Laravel package for Iranian Jalali calendar events, official holidays, date r… |
+| 2026-10-10 09:56:26 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.5.1 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
 
 ## Data source
 

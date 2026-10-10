@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-10T09:27:46Z,hyperf-apex/apidoc-apifox,v2.0.0,lbg-sys,Apex Apifox native document export for WebSocket contracts (Hyperf)
+2026-10-10T09:33:02Z,puffinmail/module-lifecycle,v1.1.1,,"PuffinMail for Magento 2: syncs customers, newsletter subscribers, orders, abandoned carts, products and birthdays to PuffinMail, email marketing for online stores."
+2026-10-10T09:33:51Z,phattarachai/files-backup-laravel,v0.1.1,Phattarachai Chaimongkol,"Incremental off-site backup of a Laravel app's content files (uploads, media library) through rclone or any Flysystem disk — versioned overwrites and deletes, staleness events and restore drills. The files sibling of phattarachai/db-snapshot-sync-laravel."
+2026-10-10T09:42:25Z,pulseline/jalali-events,v1.0.0,Farzin Bidokhti,"A Laravel package for Iranian Jalali calendar events, official holidays, date ranges, and automatic calendar synchronization."
+2026-10-10T09:56:26Z,ak279642/laravel-infrastructure,v1.5.1,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."
