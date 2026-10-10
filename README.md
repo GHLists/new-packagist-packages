@@ -15,20 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 15:19 UTC
+## Latest list — 2026-10-10 16:20 UTC
 
-New packages created between 2026-10-10 14:22 UTC and 2026-10-10 15:19 UTC.
+New packages created between 2026-10-10 15:19 UTC and 2026-10-10 16:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T15-19-44-851501Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T16-20-09-962314Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 14:27:41 | [sewlore/measurement-calculators](https://www.nuget.org/packages/sewlore%2Fmeasurement-calculators) | v1.0.0 |  | Local fabric stretch and recovery, button-centre spacing, and length conversion… |
-| 2026-10-10 14:36:33 | [burhan15/office-pack](https://www.nuget.org/packages/burhan15%2Foffice-pack) | v0.1.0 |  | Universal Office Document SDK (PHP) — first-party engines |
-| 2026-10-10 14:40:42 | [astrophp/trail](https://www.nuget.org/packages/astrophp%2Ftrail) | v0.1.0 | Melih Ucar | Tracing, cost tracking, and an observability dashboard for the Laravel AI SDK. |
-| 2026-10-10 14:53:45 | [pivotphp/security](https://www.nuget.org/packages/pivotphp%2Fsecurity) | v0.1.0 | Caio Alberto Fernandes | Security middlewares for PivotPHP and any PSR-15 pipeline: CORS, trusted proxie… |
-| 2026-10-10 15:02:51 | [jotham-lec/statamic-penang](https://www.nuget.org/packages/jotham-lec%2Fstatamic-penang) | v1.0.0 |  |  |
-| 2026-10-10 15:17:27 | [agusedyc/yii-admin](https://www.nuget.org/packages/agusedyc%2Fyii-admin) | v0.1.0 | Agus Dyc | RBAC admin panel and authorization helpers for Yii3. Non-backward-compatible po… |
+| 2026-10-10 15:35:27 | [neophp-package/neo-admin](https://www.nuget.org/packages/neophp-package%2Fneo-admin) | v1.0.1 |  | Modular administration area for NeoPHP |
 
 ## Data source
 
