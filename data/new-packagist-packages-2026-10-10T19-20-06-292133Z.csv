@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-10T18:19:47Z,ernadoo/boxtal,v0.1.0,Erwan Nader,"Boxtal API client: quotes (v1), shipping orders, labels, tracking, parcel points and webhooks (v3). Framework-agnostic."
+2026-10-10T18:27:40Z,spaanproductions/laravel-ai-usage,v0.1.0,Spaan Productions,"Tracks the tokens and cost of every laravel/ai call, with a filterable Livewire dashboard, budgets and a synced AI model price list."
+2026-10-10T18:47:09Z,zeusi/ganesha-apcu-adapter,0.1.0,,APCu storage adapter for Ganesha implementing the sliding time window Rate strategy
+2026-10-10T18:47:22Z,antevemus/aspecification,v1.7.0,Heliton Junior - CTO @ Antevemus Soluções Inovadoras em TI Ltda.,"Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Pattern, SQL Query Visitor, Adianti TCriteria, DAG Repositories)"
+2026-10-10T18:49:45Z,lottevo/lottevo-php,v0.1.0,Lottevo,A thin PHP client for the Lottevo lottery data API.

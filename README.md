@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 18:19 UTC
+## Latest list — 2026-10-10 19:20 UTC
 
-New packages created between 2026-10-10 17:20 UTC and 2026-10-10 18:19 UTC.
+New packages created between 2026-10-10 18:19 UTC and 2026-10-10 19:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T18-19-06-494846Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T19-20-06-292133Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 17:20:23 | [novay/minios](https://www.nuget.org/packages/novay%2Fminios) | 0.1.0 | Noviyanto Rahmadi | MiniOS Desktop Environment for Laravel |
-| 2026-10-10 17:55:41 | [rasuvaeff/context-http](https://www.nuget.org/packages/rasuvaeff%2Fcontext-http) | v0.1.0 | Victor Razuvaev | PSR HTTP adapters for rasuvaeff/context |
-| 2026-10-10 17:57:50 | [tmonier/sylius-gpsr-plugin](https://www.nuget.org/packages/tmonier%2Fsylius-gpsr-plugin) | v1.0.0 | Thibaut Monier | EU General Product Safety Regulation (GPSR, Regulation (EU) 2023/988, Art. 19)… |
-| 2026-10-10 17:58:58 | [antevemus/aspecification](https://www.nuget.org/packages/antevemus%2Faspecification) | v1.6.1 | Heliton Junior - CTO @ Anteve… | Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Patt… |
-| 2026-10-10 17:59:17 | [antevemus/alinq-collection](https://www.nuget.org/packages/antevemus%2Falinq-collection) | v1.4.1 | Heliton Junior - CTO @ Anteve… | Enterprise LINQ-Style Collection Framework for PHP 8.4+ (Fluent API, Native Arr… |
-| 2026-10-10 18:08:52 | [rasuvaeff/context](https://www.nuget.org/packages/rasuvaeff%2Fcontext) | v0.1.0 | Victor Razuvaev | Deadline, cancellation and request-scoped values for PHP |
+| 2026-10-10 18:19:47 | [ernadoo/boxtal](https://www.nuget.org/packages/ernadoo%2Fboxtal) | v0.1.0 | Erwan Nader | Boxtal API client: quotes (v1), shipping orders, labels, tracking, parcel point… |
+| 2026-10-10 18:27:40 | [spaanproductions/laravel-ai-usage](https://www.nuget.org/packages/spaanproductions%2Flaravel-ai-usage) | v0.1.0 | Spaan Productions | Tracks the tokens and cost of every laravel/ai call, with a filterable Livewire… |
+| 2026-10-10 18:47:09 | [zeusi/ganesha-apcu-adapter](https://www.nuget.org/packages/zeusi%2Fganesha-apcu-adapter) | 0.1.0 |  | APCu storage adapter for Ganesha implementing the sliding time window Rate stra… |
+| 2026-10-10 18:47:22 | [antevemus/aspecification](https://www.nuget.org/packages/antevemus%2Faspecification) | v1.7.0 | Heliton Junior - CTO @ Anteve… | Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Patt… |
+| 2026-10-10 18:49:45 | [lottevo/lottevo-php](https://www.nuget.org/packages/lottevo%2Flottevo-php) | v0.1.0 | Lottevo | A thin PHP client for the Lottevo lottery data API. |
 
 ## Data source
 
