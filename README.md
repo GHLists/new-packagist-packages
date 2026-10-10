@@ -15,29 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 13:19 UTC
+## Latest list — 2026-10-10 14:22 UTC
 
-New packages created between 2026-10-10 12:19 UTC and 2026-10-10 13:19 UTC.
+New packages created between 2026-10-10 13:19 UTC and 2026-10-10 14:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T13-19-28-675373Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T14-22-07-426371Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 12:23:18 | [roadrunner/goridge](https://www.nuget.org/packages/roadrunner%2Fgoridge) | 4.5.0 | Anton Titov; Valery Piashchyn… | High-performance PHP-to-Go IPC bridge: the RPC transport between PHP workers an… |
-| 2026-10-10 12:26:21 | [esanj/discount-client](https://www.nuget.org/packages/esanj%2Fdiscount-client) | v1.0.0 | Esanj | Laravel client package for the Esanj Discount Microservice (coupons & gift card… |
-| 2026-10-10 12:35:30 | [trk/sulu-block-suite-bundle](https://www.nuget.org/packages/trk%2Fsulu-block-suite-bundle) | v1.0.0 | Iskender TOTOGLU | Component block props, visual presets, reusable global blocks, and template lay… |
-| 2026-10-10 12:40:38 | [kmerhosting/sdk](https://www.nuget.org/packages/kmerhosting%2Fsdk) | v0.3.1 |  | Official PHP SDK for the KmerHosting API. |
-| 2026-10-10 12:47:42 | [roadrunner/api-dto](https://www.nuget.org/packages/roadrunner%2Fapi-dto) | v2.1.0 | Pavel Buchnev; Aleksei Gagari… | Pre-generated PHP DTOs for the RoadRunner API protocol buffers, used to make RP… |
-| 2026-10-10 12:47:53 | [davidewastaken/packer](https://www.nuget.org/packages/davidewastaken%2Fpacker) | v0.5.0 |  | Fast 3D cuboid packing with a bundled native engine: boxes, stock, weight, rota… |
-| 2026-10-10 12:50:10 | [amarenkov/laravel-mutable-content-daisyui](https://www.nuget.org/packages/amarenkov%2Flaravel-mutable-content-daisyui) | v0.1.0 | Alexey Marenkov | Server-rendered Blade, Livewire and daisyUI screens for laravel-mutable-content… |
-| 2026-10-10 12:53:13 | [roadrunner/worker](https://www.nuget.org/packages/roadrunner%2Fworker) | v3.8.0 | Anton Titov; Valery Piashchyn… | Base PHP worker for the RoadRunner application server: receives payloads over G… |
-| 2026-10-10 12:59:57 | [roadrunner/http](https://www.nuget.org/packages/roadrunner%2Fhttp) | v4.2.0 | Anton Titov; Valery Piashchyn… | PSR-7 HTTP worker for the RoadRunner application server |
-| 2026-10-10 13:00:11 | [sirius/ui](https://www.nuget.org/packages/sirius%2Fui) | v0.1.0 | Sirius: Code; Fathul Husnan | Reusable Laravel Blade and Livewire UI components styled with Tailwind CSS. |
-| 2026-10-10 13:02:42 | [roadrunner/metrics](https://www.nuget.org/packages/roadrunner%2Fmetrics) | 3.4.0 | Anton Titov; Pavel Buchnev; A… | Prometheus metrics for PHP workers: declare and update metrics in the RoadRunne… |
-| 2026-10-10 13:06:10 | [roadrunner/app-logger](https://www.nuget.org/packages/roadrunner%2Fapp-logger) | 1.3.0 | Kirill Astakhov; RoadRunner C… | Send log messages from PHP workers to the RoadRunner app logger plugin over RPC |
-| 2026-10-10 13:07:13 | [roadrunner/version-checker](https://www.nuget.org/packages/roadrunner%2Fversion-checker) | v1.4.0 | Maksim Smakouz; Aleksei Gagar… | Checks that the installed RoadRunner binary matches the version required by the… |
-| 2026-10-10 13:13:51 | [roadrunner/services](https://www.nuget.org/packages/roadrunner%2Fservices) | 2.4.0 | Pavel Buchnev; Aleksei Gagari… | Manage RoadRunner services from PHP: create, start, stop and inspect processes… |
-| 2026-10-10 13:16:11 | [roadrunner/kv](https://www.nuget.org/packages/roadrunner%2Fkv) | v4.5.0 | Anton Titov; Pavel Buchnev; A… | PSR-16 cache on top of the RoadRunner Key-Value plugin storages (memory, boltdb… |
+| 2026-10-10 13:32:21 | [hasan-deeba/larasaas](https://www.nuget.org/packages/hasan-deeba%2Flarasaas) | v1.0.0 |  | Drop-in SaaS engine for Laravel + React: Stripe billing (Cashier), config-drive… |
+| 2026-10-10 13:33:53 | [avando/ave](https://www.nuget.org/packages/avando%2Fave) | 1.0.0 | Ulrich Braun | Avando AVE — theme framework for Contao 5.7 LTS and Contao 6 |
+| 2026-10-10 13:42:07 | [trk/sulu-preline-blocks-bundle](https://www.nuget.org/packages/trk%2Fsulu-preline-blocks-bundle) | 1.0.0 | Iskender TOTOGLU | Preline UI component blocks and responsive templates for Sulu CMS |
+| 2026-10-10 13:50:39 | [maxcuso/flarum-roleplay](https://www.nuget.org/packages/maxcuso%2Fflarum-roleplay) | v0.1.0 | maxcuso | Roleplaying characters and character applications for Flarum |
+| 2026-10-10 13:53:19 | [tobento/app-backup](https://www.nuget.org/packages/tobento%2Fapp-backup) | 2.0 | Tobias Strub | A flexible backup and restore system with a web interface for Tobento applicati… |
+| 2026-10-10 14:03:36 | [pivotphp/http](https://www.nuget.org/packages/pivotphp%2Fhttp) | v1.0.0 | Caio Alberto Fernandes | HTTP foundation for PivotPHP - PSR-7/PSR-17 messages built on nyholm/psr7 with… |
+| 2026-10-10 14:05:23 | [roadrunner/lock](https://www.nuget.org/packages/roadrunner%2Flock) | 1.2.0 | Anton Titov; Pavel Buchnev; A… | Distributed locks for PHP applications backed by the RoadRunner lock plugin: ac… |
+| 2026-10-10 14:08:17 | [roadrunner/grpc](https://www.nuget.org/packages/roadrunner%2Fgrpc) | 3.8.0 | Anton Titov; Pavel Buchnev; A… | gRPC server for PHP: serve gRPC services from RoadRunner PHP workers |
 
 ## Data source
 

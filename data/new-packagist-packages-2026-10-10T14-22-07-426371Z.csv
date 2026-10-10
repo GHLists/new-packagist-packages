@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-10T13:32:21Z,hasan-deeba/larasaas,v1.0.0,,"Drop-in SaaS engine for Laravel + React: Stripe billing (Cashier), config-driven pricing tables, scheduled announcements and Pennant feature flags — plugged into YOUR User model."
+2026-10-10T13:33:53Z,avando/ave,1.0.0,Ulrich Braun,Avando AVE — theme framework for Contao 5.7 LTS and Contao 6
+2026-10-10T13:42:07Z,trk/sulu-preline-blocks-bundle,1.0.0,Iskender TOTOGLU,Preline UI component blocks and responsive templates for Sulu CMS
+2026-10-10T13:50:39Z,maxcuso/flarum-roleplay,v0.1.0,maxcuso,Roleplaying characters and character applications for Flarum
+2026-10-10T13:53:19Z,tobento/app-backup,2.0,Tobias Strub,A flexible backup and restore system with a web interface for Tobento applications.
+2026-10-10T14:03:36Z,pivotphp/http,v1.0.0,Caio Alberto Fernandes,HTTP foundation for PivotPHP - PSR-7/PSR-17 messages built on nyholm/psr7 with Express.js-inspired helpers
+2026-10-10T14:05:23Z,roadrunner/lock,1.2.0,Anton Titov; Pavel Buchnev; Aleksei Gagarin; Maksim Smakouz; RoadRunner Community,"Distributed locks for PHP applications backed by the RoadRunner lock plugin: acquire, release, extend and inspect read and write locks over RPC"
+2026-10-10T14:08:17Z,roadrunner/grpc,3.8.0,Anton Titov; Pavel Buchnev; Aleksei Gagarin; Maksim Smakouz; RoadRunner Community,gRPC server for PHP: serve gRPC services from RoadRunner PHP workers
