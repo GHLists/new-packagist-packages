@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-10T16:21:29Z,roadrunner/symfony-lock-driver,1.3.0,Pavel Buchnev; Alexander Strizhak,Symfony Lock store backed by the RoadRunner lock plugin: use RoadRunner distributed locks through the symfony/lock API
+2026-10-10T16:23:19Z,pivotphp/core-routing,v2.2.1,Caio Alberto Fernandes,"Simple, focused routing engine for PivotPHP - Express.js-inspired API (PSR-7)"
+2026-10-10T16:24:33Z,roadrunner/tcp,4.3.0,Anton Titov; Pavel Buchnev; Aleksei Gagarin; Maksim Smakouz; RoadRunner Community,PHP worker for the RoadRunner TCP plugin: handle raw TCP connection events and data in RoadRunner workers
+2026-10-10T16:26:04Z,runlight/runlight,v0.1.0,,"Privacy friendly web analytics that lives inside your PHP app. Mount a route, add a script tag, read your stats at /runlight."
+2026-10-10T16:36:05Z,reinfyteam/discordwebhookapi,2.0.0,,A PocketMine-MP Virion to easily send messages via Discord Webhooks
+2026-10-10T16:41:53Z,ak279642/laravel-infrastructure,v1.5.5,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."
+2026-10-10T16:54:05Z,itxshakil/aadhaar-offline,v0.1.0,Shakil Alam,"Read and verify Aadhaar Offline e-KYC (share-code ZIP / signed XML) and Secure QR codes in any PHP app: UIDAI signature checks against pinned certificates, mobile/email hash matching, freshness rules and privacy-safe defaults. No framework required."
+2026-10-10T16:56:00Z,b44x/edoreczenia,v0.2.1,Michell Hoduń,"Unofficial, framework-agnostic PHP SDK for the Polish e-Doręczenia (e-Delivery) APIs: signed-JWT system authentication, Search Engine API v4 and read-only User Agent API v3."
+2026-10-10T17:13:27Z,rasuvaeff/schema,v0.1.0,Victor Razuvaev,"Schema-as-code combinators: runtime validation, property-based generators and JSON Schema export from one definition"

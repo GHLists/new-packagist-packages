@@ -15,15 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 16:20 UTC
+## Latest list — 2026-10-10 17:20 UTC
 
-New packages created between 2026-10-10 15:19 UTC and 2026-10-10 16:20 UTC.
+New packages created between 2026-10-10 16:20 UTC and 2026-10-10 17:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-10T16-20-09-962314Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-10T17-20-04-446919Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 15:35:27 | [neophp-package/neo-admin](https://www.nuget.org/packages/neophp-package%2Fneo-admin) | v1.0.1 |  | Modular administration area for NeoPHP |
+| 2026-10-10 16:21:29 | [roadrunner/symfony-lock-driver](https://www.nuget.org/packages/roadrunner%2Fsymfony-lock-driver) | 1.3.0 | Pavel Buchnev; Alexander Stri… | Symfony Lock store backed by the RoadRunner lock plugin: use RoadRunner distrib… |
+| 2026-10-10 16:23:19 | [pivotphp/core-routing](https://www.nuget.org/packages/pivotphp%2Fcore-routing) | v2.2.1 | Caio Alberto Fernandes | Simple, focused routing engine for PivotPHP - Express.js-inspired API (PSR-7) |
+| 2026-10-10 16:24:33 | [roadrunner/tcp](https://www.nuget.org/packages/roadrunner%2Ftcp) | 4.3.0 | Anton Titov; Pavel Buchnev; A… | PHP worker for the RoadRunner TCP plugin: handle raw TCP connection events and… |
+| 2026-10-10 16:26:04 | [runlight/runlight](https://www.nuget.org/packages/runlight%2Frunlight) | v0.1.0 |  | Privacy friendly web analytics that lives inside your PHP app. Mount a route, a… |
+| 2026-10-10 16:36:05 | [reinfyteam/discordwebhookapi](https://www.nuget.org/packages/reinfyteam%2Fdiscordwebhookapi) | 2.0.0 |  | A PocketMine-MP Virion to easily send messages via Discord Webhooks |
+| 2026-10-10 16:41:53 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.5.5 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
+| 2026-10-10 16:54:05 | [itxshakil/aadhaar-offline](https://www.nuget.org/packages/itxshakil%2Faadhaar-offline) | v0.1.0 | Shakil Alam | Read and verify Aadhaar Offline e-KYC (share-code ZIP / signed XML) and Secure… |
+| 2026-10-10 16:56:00 | [b44x/edoreczenia](https://www.nuget.org/packages/b44x%2Fedoreczenia) | v0.2.1 | Michell Hoduń | Unofficial, framework-agnostic PHP SDK for the Polish e-Doręczenia (e-Delivery)… |
+| 2026-10-10 17:13:27 | [rasuvaeff/schema](https://www.nuget.org/packages/rasuvaeff%2Fschema) | v0.1.0 | Victor Razuvaev | Schema-as-code combinators: runtime validation, property-based generators and J… |
 
 ## Data source
 
