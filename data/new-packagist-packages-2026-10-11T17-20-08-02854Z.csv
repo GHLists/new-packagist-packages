@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-11T16:51:23Z,vivutio/operator-pack,v0.1.0,Ezekiel Mjema,"What a tour operator of vivutio installs: the tours it sells, and the rooms it requests from the camps it trades with."
+2026-10-11T16:51:23Z,vivutio/supplier-pack,v0.1.0,Ezekiel Mjema,"What a supplier of vivutio installs: the camps, lodges and hotels it runs, and their bookings."
+2026-10-11T17:09:57Z,tenma/stubs,0.1,Lento Leisenfeld,"Stubs of Tenma's PHP API (Tenma::serve(), Tenma\Http, Tenma\Fs, ...) for IDEs and PHPStan"
+2026-10-11T17:11:52Z,alibabacloud/epg-20260715,1.0.0,Alibaba Cloud SDK,Alibaba Cloud EPG (20260715) SDK Library for PHP

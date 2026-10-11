@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 16:19 UTC
+## Latest list — 2026-10-11 17:20 UTC
 
-New packages created between 2026-10-11 15:21 UTC and 2026-10-11 16:19 UTC.
+New packages created between 2026-10-11 16:19 UTC and 2026-10-11 17:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-11T16-19-50-248411Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-11T17-20-08-02854Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-11 15:22:28 | [hershel-theodore-layton/hack-compiler](https://www.nuget.org/packages/hershel-theodore-layton%2Fhack-compiler) | v0.0.0 |  | Hack Compiler |
-| 2026-10-11 15:36:47 | [bhekor/paymish-php](https://www.nuget.org/packages/bhekor%2Fpaymish-php) | v1.0.0 | Ibidapo Adeolu | Official-style PHP SDK for the Paymish payment gateway API |
-| 2026-10-11 15:41:12 | [dereuromark/cakephp-i18n-lint](https://www.nuget.org/packages/dereuromark%2Fcakephp-i18n-lint) | 0.1.0 | Mark Scherer | Keeps CakePHP translation catalogs honest: POT drift check, PO sync and PO lint… |
-| 2026-10-11 15:55:30 | [jeffersongoncalves/pest-plugin-database-migrations](https://www.nuget.org/packages/jeffersongoncalves%2Fpest-plugin-database-migrations) | 1.0.0 | Jefferson Gonçalves | Load a package's migrations in tests in the exact order declared by its spatie/… |
-| 2026-10-11 16:02:11 | [easyswoole/ip-access](https://www.nuget.org/packages/easyswoole%2Fip-access) | 1.0.1 |  | a simple white/black access manager |
-| 2026-10-11 16:14:30 | [mageenv/module-dynamic-cart-progress-hyva](https://www.nuget.org/packages/mageenv%2Fmodule-dynamic-cart-progress-hyva) | 1.0.0 |  | Hyva storefront integration for MageEnv Dynamic Cart Progress - Alpine.js Mini… |
+| 2026-10-11 16:51:23 | [vivutio/operator-pack](https://www.nuget.org/packages/vivutio%2Foperator-pack) | v0.1.0 | Ezekiel Mjema | What a tour operator of vivutio installs: the tours it sells, and the rooms it… |
+| 2026-10-11 16:51:23 | [vivutio/supplier-pack](https://www.nuget.org/packages/vivutio%2Fsupplier-pack) | v0.1.0 | Ezekiel Mjema | What a supplier of vivutio installs: the camps, lodges and hotels it runs, and… |
+| 2026-10-11 17:09:57 | [tenma/stubs](https://www.nuget.org/packages/tenma%2Fstubs) | 0.1 | Lento Leisenfeld | Stubs of Tenma's PHP API (Tenma::serve(), Tenma\Http, Tenma\Fs, ...) for IDEs a… |
+| 2026-10-11 17:11:52 | [alibabacloud/epg-20260715](https://www.nuget.org/packages/alibabacloud%2Fepg-20260715) | 1.0.0 | Alibaba Cloud SDK | Alibaba Cloud EPG (20260715) SDK Library for PHP |
 
 ## Data source
 
