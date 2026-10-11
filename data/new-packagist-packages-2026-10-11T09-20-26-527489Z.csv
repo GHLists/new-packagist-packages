@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-11T08:50:28Z,cysquale/plays-games-widget,1.1.2,Cysquale,"Plays Games Widget - TikTok-style HTML5 game feed with player scores, leaderboards and personal rankings for TYPO3."
+2026-10-11T09:05:36Z,antevemus/aspecification,v1.10.0,Heliton Junior - CTO @ Antevemus Soluções Inovadoras em TI Ltda.,"Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Pattern, SQL Query Visitor, Adianti TCriteria, DAG Repositories)"
+2026-10-11T09:07:41Z,antevemus/alinq-collection,v1.5.1,Heliton Junior - CTO @ Antevemus Soluções Inovadoras em TI Ltda.,"Enterprise LINQ-Style Collection Framework for PHP 8.4+ (Fluent API, Native Array Primitives, Query Builder, Set Operations, Dot-Notation Property Access)"
+2026-10-11T09:08:14Z,units/ai,v1.0.1,,"AI unit - ask, chat and tool calling over an injected provider, on the patterns/unit contract."
