@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 22:19 UTC
+## Latest list — 2026-10-11 23:20 UTC
 
-New packages created between 2026-10-11 21:19 UTC and 2026-10-11 22:19 UTC.
+New packages created between 2026-10-11 22:19 UTC and 2026-10-11 23:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-11T22-19-20-998514Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-11T23-20-18-705321Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-11 21:50:07 | [mhstudio/filament-booking-engine](https://www.nuget.org/packages/mhstudio%2Ffilament-booking-engine) | v0.1.0 | MH Studio | A correctness-focused, Filament-native booking & appointments engine — free cor… |
+| 2026-10-11 22:35:25 | [debuss-a/flora](https://www.nuget.org/packages/debuss-a%2Fflora) | 0.1.0 | Alexandre Debusschère | A FaunaDB-like document store on PostgreSQL, MySQL, MariaDB and SQLite: JSON do… |
+| 2026-10-11 22:55:16 | [wilycode/router](https://www.nuget.org/packages/wilycode%2Frouter) | v0.1.1 | Simon Piter | PSR-7/PSR-15 router with named routes, typed rules, middleware and URL generati… |
 
 ## Data source
 

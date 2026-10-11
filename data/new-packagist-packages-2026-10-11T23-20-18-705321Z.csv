@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-11T22:35:25Z,debuss-a/flora,0.1.0,Alexandre Debusschère,"A FaunaDB-like document store on PostgreSQL, MySQL, MariaDB and SQLite: JSON documents, indexes, sets, history and FQL-style queries in PHP."
+2026-10-11T22:55:16Z,wilycode/router,v0.1.1,Simon Piter,"PSR-7/PSR-15 router with named routes, typed rules, middleware and URL generation."
