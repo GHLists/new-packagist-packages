@@ -15,23 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 20:18 UTC
+## Latest list — 2026-10-11 21:19 UTC
 
-New packages created between 2026-10-11 19:20 UTC and 2026-10-11 20:18 UTC.
+New packages created between 2026-10-11 20:18 UTC and 2026-10-11 21:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-11T20-18-45-037033Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-11T21-19-04-679357Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-11 19:20:20 | [padosoft/askmydocs-connector-zendesk](https://www.nuget.org/packages/padosoft%2Faskmydocs-connector-zendesk) | v1.0.0 | Padosoft | Zendesk connector for AskMyDocs: resumable ingestion of Support tickets, commen… |
-| 2026-10-11 19:42:35 | [mohannadelemary/laravel-console-streams](https://www.nuget.org/packages/mohannadelemary%2Flaravel-console-streams) | v0.1.0 | Mohannad Elemary | Opt-in Artisan trait that keeps machine data on STDOUT and sends console compon… |
-| 2026-10-11 19:43:28 | [t3s/vars](https://www.nuget.org/packages/t3s%2Fvars) | v1.0.0 | Helmut Hackbarth | Global variables for TYPO3 v14: maintain company, address, phone, email etc. on… |
-| 2026-10-11 20:00:55 | [trollbus/symfony-messenger-bridge](https://www.nuget.org/packages/trollbus%2Fsymfony-messenger-bridge) | 0.1.0 | Kenny1911 |  |
-| 2026-10-11 20:03:41 | [antevemus/aspecification](https://www.nuget.org/packages/antevemus%2Faspecification) | v1.13.0 | Heliton Junior - CTO @ Anteve… | Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Patt… |
-| 2026-10-11 20:06:58 | [zenky/exceptions](https://www.nuget.org/packages/zenky%2Fexceptions) | v2.1.0 | tzurbaev | Exceptions Package |
-| 2026-10-11 20:10:29 | [zenky/infrastructure](https://www.nuget.org/packages/zenky%2Finfrastructure) | v6.0.0 | tzurbaev | Zenky Infrastructure |
-| 2026-10-11 20:12:26 | [zenky/loyalty-microservice](https://www.nuget.org/packages/zenky%2Floyalty-microservice) | v4.0.0 | tzurbaev | Loyalty Microservice Package |
-| 2026-10-11 20:14:34 | [zenky/model-settings](https://www.nuget.org/packages/zenky%2Fmodel-settings) | v1.0.0 | tzurbaev | Zenky Model Settings |
+| 2026-10-11 20:20:06 | [zenky/undermine-frontpad](https://www.nuget.org/packages/zenky%2Fundermine-frontpad) | v3.0.0 | tzurbaev | Undermine Frontpad SDK Package |
+| 2026-10-11 20:26:14 | [kusikusicms/admin](https://www.nuget.org/packages/kusikusicms%2Fadmin) | v13.0.1 |  | Admin UI for managing content in KusikusiCMS. |
+| 2026-10-11 20:26:20 | [kusikusicms/media](https://www.nuget.org/packages/kusikusicms%2Fmedia) | v13.0.1 |  | Media manager for KusikusiCMS. |
+| 2026-10-11 20:26:21 | [kusikusicms/models](https://www.nuget.org/packages/kusikusicms%2Fmodels) | v13.0.1 |  | Core Eloquent models for KusikusiCMS. |
+| 2026-10-11 20:26:24 | [kusikusicms/website](https://www.nuget.org/packages/kusikusicms%2Fwebsite) | v13.0.1 |  | Website/router manager for KusikusiCMS. |
+| 2026-10-11 20:35:17 | [cable8mm/portone-php](https://www.nuget.org/packages/cable8mm%2Fportone-php) | v0.1.0 |  | PortOne V2 server SDK for PHP. |
+| 2026-10-11 20:37:00 | [robyajo/pasak](https://www.nuget.org/packages/robyajo%2Fpasak) | v1.2.4 | Roby | Pasak - enterprise-grade headless self-hosted WAF, threat detection engine, zer… |
+| 2026-10-11 20:55:27 | [vivutio/payment-module](https://www.nuget.org/packages/vivutio%2Fpayment-module) | v0.1.0 | Ezekiel Mjema | Payments for vivutio: what the organization is owed for its bookings and ticket… |
+| 2026-10-11 21:00:30 | [afaztech/reactor-force-join](https://www.nuget.org/packages/afaztech%2Freactor-force-join) | v0.1.0 | Abolfazl Majidi (Afaz) | Force-join (mandatory channel subscription) middleware for Reactor bots. |
 
 ## Data source
 

@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-11T20:20:06Z,zenky/undermine-frontpad,v3.0.0,tzurbaev,Undermine Frontpad SDK Package
+2026-10-11T20:26:14Z,kusikusicms/admin,v13.0.1,,Admin UI for managing content in KusikusiCMS.
+2026-10-11T20:26:20Z,kusikusicms/media,v13.0.1,,Media manager for KusikusiCMS.
+2026-10-11T20:26:21Z,kusikusicms/models,v13.0.1,,Core Eloquent models for KusikusiCMS.
+2026-10-11T20:26:24Z,kusikusicms/website,v13.0.1,,Website/router manager for KusikusiCMS.
+2026-10-11T20:35:17Z,cable8mm/portone-php,v0.1.0,,PortOne V2 server SDK for PHP.
+2026-10-11T20:37:00Z,robyajo/pasak,v1.2.4,Roby,"Pasak - enterprise-grade headless self-hosted WAF, threat detection engine, zero-tolerance blocking, stepped login lockout, and security auditing toolkit for Laravel."
+2026-10-11T20:55:27Z,vivutio/payment-module,v0.1.0,Ezekiel Mjema,"Payments for vivutio: what the organization is owed for its bookings and tickets, gathered from every module, and the payments received against it, recorded by hand."
+2026-10-11T21:00:30Z,afaztech/reactor-force-join,v0.1.0,Abolfazl Majidi (Afaz),Force-join (mandatory channel subscription) middleware for Reactor bots.
