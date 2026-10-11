@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-11T09:21:17Z,inupress/theme-default,v0.1.0,,The default Inupress theme: a clean starting point built on Tailwind CSS and Alpine.js
+2026-10-11T09:47:54Z,robyajo/pasak,v1.0.2,Roby,"Pasak - enterprise-grade headless self-hosted WAF, threat detection engine, zero-tolerance blocking, stepped login lockout, and security auditing toolkit for Laravel."
+2026-10-11T09:51:39Z,planafolio/finanzrechner,1.0.0,Planafolio,"Free German finance calculators (ETF savings plan, compound interest, capital gains tax, Vorabpauschale, pension gap and more) from Planafolio as a content element, with two-click privacy mode."

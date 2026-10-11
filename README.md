@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 09:20 UTC
+## Latest list — 2026-10-11 10:21 UTC
 
-New packages created between 2026-10-11 08:22 UTC and 2026-10-11 09:20 UTC.
+New packages created between 2026-10-11 09:20 UTC and 2026-10-11 10:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-11T09-20-26-527489Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-11T10-21-48-761978Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-11 08:50:28 | [cysquale/plays-games-widget](https://www.nuget.org/packages/cysquale%2Fplays-games-widget) | 1.1.2 | Cysquale | Plays Games Widget - TikTok-style HTML5 game feed with player scores, leaderboa… |
-| 2026-10-11 09:05:36 | [antevemus/aspecification](https://www.nuget.org/packages/antevemus%2Faspecification) | v1.10.0 | Heliton Junior - CTO @ Anteve… | Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Patt… |
-| 2026-10-11 09:07:41 | [antevemus/alinq-collection](https://www.nuget.org/packages/antevemus%2Falinq-collection) | v1.5.1 | Heliton Junior - CTO @ Anteve… | Enterprise LINQ-Style Collection Framework for PHP 8.4+ (Fluent API, Native Arr… |
-| 2026-10-11 09:08:14 | [units/ai](https://www.nuget.org/packages/units%2Fai) | v1.0.1 |  | AI unit - ask, chat and tool calling over an injected provider, on the patterns… |
+| 2026-10-11 09:21:17 | [inupress/theme-default](https://www.nuget.org/packages/inupress%2Ftheme-default) | v0.1.0 |  | The default Inupress theme: a clean starting point built on Tailwind CSS and Al… |
+| 2026-10-11 09:47:54 | [robyajo/pasak](https://www.nuget.org/packages/robyajo%2Fpasak) | v1.0.2 | Roby | Pasak - enterprise-grade headless self-hosted WAF, threat detection engine, zer… |
+| 2026-10-11 09:51:39 | [planafolio/finanzrechner](https://www.nuget.org/packages/planafolio%2Ffinanzrechner) | 1.0.0 | Planafolio | Free German finance calculators (ETF savings plan, compound interest, capital g… |
 
 ## Data source
 
