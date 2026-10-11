@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 03:19 UTC
+## Latest list — 2026-10-11 05:19 UTC
 
-New packages created between 2026-10-11 02:18 UTC and 2026-10-11 03:19 UTC.
+New packages created between 2026-10-11 04:18 UTC and 2026-10-11 05:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-11T03-19-38-253527Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-11T05-19-59-054734Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-11 02:33:04 | [aichouchm/magento2-module-attribute-import](https://www.nuget.org/packages/aichouchm%2Fmagento2-module-attribute-import) | v1.0.0 | Mehdi Aichouch | Magento 2 module for bulk importing product attribute options from CSV files vi… |
-| 2026-10-11 02:39:13 | [hotkv/client](https://www.nuget.org/packages/hotkv%2Fclient) | v1.0.0 | HotKV Ltd | A high-performance PHP client for HotKV, a RESP2/RESP3-compatible in-memory dat… |
-| 2026-10-11 03:01:49 | [nicklambourne/slackblocks](https://www.nuget.org/packages/nicklambourne%2Fslackblocks) | v2.7.0 |  | Native, validated Slack Block Kit values for PHP |
+| 2026-10-11 04:30:07 | [antevemus/alinq-collection](https://www.nuget.org/packages/antevemus%2Falinq-collection) | v1.4.3 | Heliton Junior - CTO @ Anteve… | Enterprise LINQ-Style Collection Framework for PHP 8.4+ (Fluent API, Native Arr… |
+| 2026-10-11 04:35:37 | [coretsia/platform-redaction](https://www.nuget.org/packages/coretsia%2Fplatform-redaction) | v0.8.0 | Vladyslav Mudrichenko | Coretsia sensitive-data redaction runtime package: deterministic classification… |
+| 2026-10-11 04:45:07 | [msahidurr/laravel-deploy-notifier](https://www.nuget.org/packages/msahidurr%2Flaravel-deploy-notifier) | v1.0.0 | Sahidur Rahman | Git and deployment lifecycle notifications for Laravel, delivered to Telegram |
+| 2026-10-11 04:55:55 | [patterns/event-channel](https://www.nuget.org/packages/patterns%2Fevent-channel) | v1.0.0 |  | Event Channel pattern - a transport-agnostic contract for publishing and subscr… |
 
 ## Data source
 
