@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 10:21 UTC
+## Latest list — 2026-10-11 11:20 UTC
 
-New packages created between 2026-10-11 09:20 UTC and 2026-10-11 10:21 UTC.
+New packages created between 2026-10-11 10:21 UTC and 2026-10-11 11:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-11T10-21-48-761978Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-11T11-20-39-881138Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-11 09:21:17 | [inupress/theme-default](https://www.nuget.org/packages/inupress%2Ftheme-default) | v0.1.0 |  | The default Inupress theme: a clean starting point built on Tailwind CSS and Al… |
-| 2026-10-11 09:47:54 | [robyajo/pasak](https://www.nuget.org/packages/robyajo%2Fpasak) | v1.0.2 | Roby | Pasak - enterprise-grade headless self-hosted WAF, threat detection engine, zer… |
-| 2026-10-11 09:51:39 | [planafolio/finanzrechner](https://www.nuget.org/packages/planafolio%2Ffinanzrechner) | 1.0.0 | Planafolio | Free German finance calculators (ETF savings plan, compound interest, capital g… |
+| 2026-10-11 10:31:10 | [heyjorgedev/qstash-laravel](https://www.nuget.org/packages/heyjorgedev%2Fqstash-laravel) | v0.1.0 | Jorge Lapa | A Laravel queue driver for Upstash QStash |
+| 2026-10-11 10:56:57 | [inupress/seo](https://www.nuget.org/packages/inupress%2Fseo) | v0.1.0 |  | Search engine basics for Inupress: canonical and Open Graph tags, sitemap.xml a… |
 
 ## Data source
 

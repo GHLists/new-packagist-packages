@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-11T10:31:10Z,heyjorgedev/qstash-laravel,v0.1.0,Jorge Lapa,A Laravel queue driver for Upstash QStash
+2026-10-11T10:56:57Z,inupress/seo,v0.1.0,,"Search engine basics for Inupress: canonical and Open Graph tags, sitemap.xml and robots.txt"
