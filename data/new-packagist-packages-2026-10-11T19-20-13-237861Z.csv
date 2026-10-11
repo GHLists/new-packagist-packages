@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-11T18:27:03Z,bkubicki/declarative-queue,1.0,,"Explicit, declarative queue arguments for Magento's MessageQueue framework"
+2026-10-11T18:30:07Z,morivasaraki/mormap,v1.0.0,Morteza VASARAKI,MorMap: image-based port anchors and editable orthogonal cable maps inside LibreNMS
+2026-10-11T18:38:46Z,vivutio/agency-pack,v0.1.0,Ezekiel Mjema,"What a travel agency of vivutio installs: the tickets it buys from carriers for travellers, and the rooms it requests from the camps it trades with."
+2026-10-11T18:48:15Z,jeffersongoncalves/laravel-brazil-holidays,1.0.0,Jefferson Gonçalves,"Brazilian national holidays for Laravel: holiday list per year, holiday and business day checks, and business day arithmetic."
