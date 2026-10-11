@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-11T17:20:10Z,tenma/psr,v0.1.1,,"Runs any PSR-15 app under Tenma: PSR-7 requests in, Tenma responses out, WebSockets and streams included."
+2026-10-11T17:21:53Z,taldres/laravel-waitlist,v0.1.0,Dennis Petersmann,"Privacy-first, headless waitlist package for Laravel: subscription cycles with versioned consent records, atomic state changes, data access and erasure APIs, reporting that survives an erasure, double opt-in, events and CSV export. No dashboard, no mail delivery."
+2026-10-11T17:34:05Z,tmonier/sylius-admin-order-creation-plugin,v1.0.0,Thibaut Monier,Create orders on behalf of customers (phone and back-office orders) from the Sylius 2 admin panel
+2026-10-11T17:41:13Z,dockcodes/dock-ray-magento,1.0.0,Jacek Sultan,"Magento 2 / Adobe Commerce module reporting PHP errors, exceptions, request timings, JavaScript errors and vulnerable software to DockRay"
+2026-10-11T17:44:13Z,systonia/waypoint-export,v1.0.0,,"Table downloads for Waypoint: return a Sheet from a route and get CSV, JSON Lines, HTML, XML, XLSX or ODS, streamed row by row."
+2026-10-11T17:45:09Z,systonia/waypoint-export-fixed,v1.0.0,,"Fixed-width record files for waypoint-export: #[Fixed] column layouts, Windows-1252 or EBCDIC, for legacy-system interfaces."
+2026-10-11T17:46:13Z,se7enxweb/expqueue,v0.1.0,7x,"The Exponential job queue: a generic, database-backed job queue with priority classes, fair scheduling, per-resource concurrency limits, leases, retries, a dead letter, idempotency, CLI/cron/systemd workers and an admin dashboard"
+2026-10-11T17:47:09Z,systonia/waypoint-live,v0.1.0,,"Live components for Waypoint under Tenma: server-side PHP components, events and renders over one WebSocket, services called directly."
+2026-10-11T17:50:10Z,tmonier/sylius-ai-catalog-copilot-plugin,v1.0.0,Thibaut Monier,"AI catalog copilot for the Sylius 2 admin: reviewable product description, meta and translation suggestions through Symfony AI"
+2026-10-11T17:51:30Z,systonia/waypoint-charts,v1.0.0,,"Server-rendered SVG charts for Waypoint: bar and line charts with a data table, legend and accessible markup, tooltips as a progressive enhancement."
