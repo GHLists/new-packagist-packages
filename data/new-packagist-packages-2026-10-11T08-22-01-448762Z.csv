@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-11T07:21:45Z,selli/ticketing,v1.0.0,Sellinnate,"The headless, multi-tenant help-desk engine for Laravel: tickets on any model, workflow, SLA, routing, email & widget channels, AI with human hand-over, knowledge base, KPIs, MCP and RAG."
+2026-10-11T07:28:58Z,tmonier/sylius-bulk-actions-plugin,v1.0.0,Thibaut Monier,"Bulk actions for the Sylius 2 admin grids: enable/disable, taxons and channels for products, cancel orders, mark payments as paid, ship shipments, customer groups"
+2026-10-11T07:34:15Z,tmonier/sylius-facturx-plugin,v1.0.0,Thibaut Monier,Factur-X / ZUGFeRD (EN 16931) electronic invoices for the Sylius 2 Invoicing Plugin: PDF/A-3 with embedded CII XML
+2026-10-11T07:35:03Z,tmonier/sylius-audit-log-plugin,v1.0.0,Thibaut Monier,"Audit log of admin changes (who changed what, when) for the Sylius 2 admin panel"
+2026-10-11T07:41:36Z,endthink/part-xpay,v1.0.0,endthink,ET微信小程序虚拟支付插件
+2026-10-11T07:51:22Z,abdulkadir/seo-redirect-manager,1.0.1,Abdulkadir Agoliya,"Enterprise SEO Redirect Manager for Craft CMS 5. High-performance exact and regex matching, 404 monitoring, automated URI change redirects, CSV import/export, redirect chain and loop detection, and short links."
+2026-10-11T08:00:41Z,iamankitthapar/laravel-data-retention,v1.0.0,,"A Laravel-first, policy-driven data retention engine."
+2026-10-11T08:03:26Z,3neti/election-ceremonies,v0.1.0,,Offline election ceremonies and signed election bundle verification
+2026-10-11T08:03:26Z,3neti/election-ph,v0.1.0,,Philippine election profile and registry builder for election ceremonies
