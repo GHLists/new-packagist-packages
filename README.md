@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 02:18 UTC
+## Latest list — 2026-10-11 03:19 UTC
 
-New packages created between 2026-10-11 01:19 UTC and 2026-10-11 02:18 UTC.
+New packages created between 2026-10-11 02:18 UTC and 2026-10-11 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-11T02-18-42-068851Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-11T03-19-38-253527Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-11 01:43:56 | [mainmoney/mm-aggr-wordpress](https://www.nuget.org/packages/mainmoney%2Fmm-aggr-wordpress) | v0.1.0 | MainMoney SARL | WordPress plugin for MainMoney aggregator payments |
-| 2026-10-11 01:44:06 | [mainmoney/mm-aggr-woocommerce](https://www.nuget.org/packages/mainmoney%2Fmm-aggr-woocommerce) | v0.1.0 | MainMoney SARL | WooCommerce payment gateway for MainMoney aggregator |
-| 2026-10-11 01:44:55 | [kuma-develop/level](https://www.nuget.org/packages/kuma-develop%2Flevel) | 1.0.0 | kuma-develop | EXP and level system for Flarum 2.0 / Hệ thống EXP và cấp độ cho Flarum 2.0 |
+| 2026-10-11 02:33:04 | [aichouchm/magento2-module-attribute-import](https://www.nuget.org/packages/aichouchm%2Fmagento2-module-attribute-import) | v1.0.0 | Mehdi Aichouch | Magento 2 module for bulk importing product attribute options from CSV files vi… |
+| 2026-10-11 02:39:13 | [hotkv/client](https://www.nuget.org/packages/hotkv%2Fclient) | v1.0.0 | HotKV Ltd | A high-performance PHP client for HotKV, a RESP2/RESP3-compatible in-memory dat… |
+| 2026-10-11 03:01:49 | [nicklambourne/slackblocks](https://www.nuget.org/packages/nicklambourne%2Fslackblocks) | v2.7.0 |  | Native, validated Slack Block Kit values for PHP |
 
 ## Data source
 

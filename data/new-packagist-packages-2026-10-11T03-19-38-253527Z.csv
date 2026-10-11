@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-11T02:33:04Z,aichouchm/magento2-module-attribute-import,v1.0.0,Mehdi Aichouch,Magento 2 module for bulk importing product attribute options from CSV files via the admin panel
+2026-10-11T02:39:13Z,hotkv/client,v1.0.0,HotKV Ltd,"A high-performance PHP client for HotKV, a RESP2/RESP3-compatible in-memory data store with built-in AI and LLM-serving features."
+2026-10-11T03:01:49Z,nicklambourne/slackblocks,v2.7.0,,"Native, validated Slack Block Kit values for PHP"
