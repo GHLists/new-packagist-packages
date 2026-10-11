@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-11T19:20:20Z,padosoft/askmydocs-connector-zendesk,v1.0.0,Padosoft,"Zendesk connector for AskMyDocs: resumable ingestion of Support tickets, comments, attachments, customers, organizations and Help Center articles, plus read-only live tools for the chat."
+2026-10-11T19:42:35Z,mohannadelemary/laravel-console-streams,v0.1.0,Mohannad Elemary,"Opt-in Artisan trait that keeps machine data on STDOUT and sends console components, line(), info() and other diagnostics to STDERR, so `artisan foo --json | jq` just works."
+2026-10-11T19:43:28Z,t3s/vars,v1.0.0,Helmut Hackbarth,"Global variables for TYPO3 v14: maintain company, address, phone, email etc. once as site settings and use them as {{placeholders}} in RTE, Fluid and TypoScript. CKEditor 5 dropdown, automatic tel/mailto/URL links and an ""Address"" content element with schema.org markup and optional Google Maps (rou…"
+2026-10-11T20:00:55Z,trollbus/symfony-messenger-bridge,0.1.0,Kenny1911,
+2026-10-11T20:03:41Z,antevemus/aspecification,v1.13.0,Heliton Junior - CTO @ Antevemus Soluções Inovadoras em TI Ltda.,"Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Pattern, SQL Query Visitor, Adianti TCriteria, DAG Repositories)"
+2026-10-11T20:06:58Z,zenky/exceptions,v2.1.0,tzurbaev,Exceptions Package
+2026-10-11T20:10:29Z,zenky/infrastructure,v6.0.0,tzurbaev,Zenky Infrastructure
+2026-10-11T20:12:26Z,zenky/loyalty-microservice,v4.0.0,tzurbaev,Loyalty Microservice Package
+2026-10-11T20:14:34Z,zenky/model-settings,v1.0.0,tzurbaev,Zenky Model Settings
