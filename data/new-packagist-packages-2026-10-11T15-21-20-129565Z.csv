@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-11T14:57:02Z,tobiasnagel/flux-breadcrumbs,v1.0.0,,Route-driven breadcrumbs for Laravel applications rendered with Flux UI.
+2026-10-11T15:07:32Z,neos/contentgraph-doctrinedbaladapter-compatibility,9.2.0,,Forward compatibility layer to allow smooth upgrades to Neos version which provide a new content graph implementation.
+2026-10-11T15:07:32Z,neos/contentgraph-doctrinedbaladapter-forward-compatibility,9.2.0,,Forward compatibility layer to allow smooth upgrades to Neos version which provide a new content graph implementation.
+2026-10-11T15:10:24Z,survos/otio-bundle,2.36.5,,Symfony integration scaffold for the Survos OpenTimelineIO library.
+2026-10-11T15:10:27Z,survos/otio,2.36.5,,"Planned PHP OpenTimelineIO subset for editorial documents, timing and playback projections."
+2026-10-11T15:11:49Z,hoceineel/filament-sidebar-editor,v0.1.0,Hoceine El Idrissi,"Let each tenant, user or panel hide, show and reorder Filament navigation groups and pages, with drag and drop and a live preview."

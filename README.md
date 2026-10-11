@@ -15,20 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 14:19 UTC
+## Latest list — 2026-10-11 15:21 UTC
 
-New packages created between 2026-10-11 13:21 UTC and 2026-10-11 14:19 UTC.
+New packages created between 2026-10-11 14:19 UTC and 2026-10-11 15:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-11T14-19-05-398903Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-11T15-21-20-129565Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-11 13:21:53 | [malzariey/filament-ga4-analytics](https://www.nuget.org/packages/malzariey%2Ffilament-ga4-analytics) | v1.0.1 | Majid Al-Zariey | A Google Analytics 4 reports page for Filament panels: live visitors, KPIs, fun… |
-| 2026-10-11 13:59:49 | [snipershady/queue-bridge](https://www.nuget.org/packages/snipershady%2Fqueue-bridge) | v1.0.0 | snipershady | Backend-agnostic PHP 8.3+ message queue: one typed API for Redis Streams and Ra… |
-| 2026-10-11 14:04:48 | [small/swoole-events](https://www.nuget.org/packages/small%2Fswoole-events) | 2.0.0 |  | Native Swoole event bus with fluent pipelines, coroutine synchronization and Sm… |
-| 2026-10-11 14:09:25 | [antevemus/aspecification](https://www.nuget.org/packages/antevemus%2Faspecification) | v1.12.0 | Heliton Junior - CTO @ Anteve… | Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Patt… |
-| 2026-10-11 14:12:28 | [selldatatoai/selldatatoai](https://www.nuget.org/packages/selldatatoai%2Fselldatatoai) | v1.0.0 | Alpha Quantum | PHP client for the Data Asset Score API from selldatatoai.com: score company do… |
-| 2026-10-11 14:18:27 | [ripplesanalytics/ripples-php](https://www.nuget.org/packages/ripplesanalytics%2Fripples-php) | v0.1.10 | Ripples Metrics | Official PHP SDK for Ripples Metrics (ripples.sh): server-side event tracking |
+| 2026-10-11 14:57:02 | [tobiasnagel/flux-breadcrumbs](https://www.nuget.org/packages/tobiasnagel%2Fflux-breadcrumbs) | v1.0.0 |  | Route-driven breadcrumbs for Laravel applications rendered with Flux UI. |
+| 2026-10-11 15:07:32 | [neos/contentgraph-doctrinedbaladapter-compatibility](https://www.nuget.org/packages/neos%2Fcontentgraph-doctrinedbaladapter-compatibility) | 9.2.0 |  | Forward compatibility layer to allow smooth upgrades to Neos version which prov… |
+| 2026-10-11 15:07:32 | [neos/contentgraph-doctrinedbaladapter-forward-compatibility](https://www.nuget.org/packages/neos%2Fcontentgraph-doctrinedbaladapter-forward-compatibility) | 9.2.0 |  | Forward compatibility layer to allow smooth upgrades to Neos version which prov… |
+| 2026-10-11 15:10:24 | [survos/otio-bundle](https://www.nuget.org/packages/survos%2Fotio-bundle) | 2.36.5 |  | Symfony integration scaffold for the Survos OpenTimelineIO library. |
+| 2026-10-11 15:10:27 | [survos/otio](https://www.nuget.org/packages/survos%2Fotio) | 2.36.5 |  | Planned PHP OpenTimelineIO subset for editorial documents, timing and playback… |
+| 2026-10-11 15:11:49 | [hoceineel/filament-sidebar-editor](https://www.nuget.org/packages/hoceineel%2Ffilament-sidebar-editor) | v0.1.0 | Hoceine El Idrissi | Let each tenant, user or panel hide, show and reorder Filament navigation group… |
 
 ## Data source
 
