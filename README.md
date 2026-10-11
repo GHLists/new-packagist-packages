@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 12:22 UTC
+## Latest list — 2026-10-11 13:21 UTC
 
-New packages created between 2026-10-11 11:20 UTC and 2026-10-11 12:22 UTC.
+New packages created between 2026-10-11 12:22 UTC and 2026-10-11 13:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-11T12-22-29-867613Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-11T13-21-01-78801Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-11 11:45:15 | [siberfx/x-autopost](https://www.nuget.org/packages/siberfx%2Fx-autopost) | 1.0.1 | Selim Görmüş | Connect one X account to your Laravel app and share models to X automatically w… |
-| 2026-10-11 11:45:38 | [siberfx/facebook-autopost](https://www.nuget.org/packages/siberfx%2Ffacebook-autopost) | 1.0.0 | Selim Görmüş | Connect one Facebook Page to your Laravel app and share your models to it autom… |
-| 2026-10-11 12:04:29 | [boldminded/dexter-statamic](https://www.nuget.org/packages/boldminded%2Fdexter-statamic) | 1.0.0 | Brian Litzinger | Algolia and Meilisearch indexing for Statamic, with nested field extraction, do… |
-| 2026-10-11 12:04:58 | [siberfx/social-autopost](https://www.nuget.org/packages/siberfx%2Fsocial-autopost) | 1.0.0 | Selim Görmüş | Share your Laravel models to LinkedIn, X and Facebook, each switched on or off,… |
+| 2026-10-11 12:25:19 | [keyvanarasteh/laravel-bones](https://www.nuget.org/packages/keyvanarasteh%2Flaravel-bones) | 1.1.1 | Keyvan Arasteh | An X-ray for your Laravel application: explore its routes, view nodes and packa… |
+| 2026-10-11 12:49:29 | [ascariodev/sereno-laravel](https://www.nuget.org/packages/ascariodev%2Fsereno-laravel) | v0.2.1 |  | Sends Laravel logs to Sereno project channels. |
+| 2026-10-11 13:18:19 | [clarilens/type-locale](https://www.nuget.org/packages/clarilens%2Ftype-locale) | 0.0.1 | Farkhat Sakibaev |  |
 
 ## Data source
 

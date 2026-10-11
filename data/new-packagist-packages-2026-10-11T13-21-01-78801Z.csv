@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-11T12:25:19Z,keyvanarasteh/laravel-bones,1.1.1,Keyvan Arasteh,"An X-ray for your Laravel application: explore its routes, view nodes and package skeleton in one clean dashboard."
+2026-10-11T12:49:29Z,ascariodev/sereno-laravel,v0.2.1,,Sends Laravel logs to Sereno project channels.
+2026-10-11T13:18:19Z,clarilens/type-locale,0.0.1,Farkhat Sakibaev,
