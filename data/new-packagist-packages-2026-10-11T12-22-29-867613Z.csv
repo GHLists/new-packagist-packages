@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-11T11:45:15Z,siberfx/x-autopost,1.0.1,Selim Görmüş,"Connect one X account to your Laravel app and share models to X automatically when they go live, through the Posts API."
+2026-10-11T11:45:38Z,siberfx/facebook-autopost,1.0.0,Selim Görmüş,"Connect one Facebook Page to your Laravel app and share your models to it automatically when they go live, through the Graph API."
+2026-10-11T12:04:29Z,boldminded/dexter-statamic,1.0.0,Brian Litzinger,"Algolia and Meilisearch indexing for Statamic, with nested field extraction, document parsing, and AI enrichment."
+2026-10-11T12:04:58Z,siberfx/social-autopost,1.0.0,Selim Görmüş,"Share your Laravel models to LinkedIn, X and Facebook, each switched on or off, and add more networks later."

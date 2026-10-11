@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 11:20 UTC
+## Latest list — 2026-10-11 12:22 UTC
 
-New packages created between 2026-10-11 10:21 UTC and 2026-10-11 11:20 UTC.
+New packages created between 2026-10-11 11:20 UTC and 2026-10-11 12:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-11T11-20-39-881138Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-11T12-22-29-867613Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-11 10:31:10 | [heyjorgedev/qstash-laravel](https://www.nuget.org/packages/heyjorgedev%2Fqstash-laravel) | v0.1.0 | Jorge Lapa | A Laravel queue driver for Upstash QStash |
-| 2026-10-11 10:56:57 | [inupress/seo](https://www.nuget.org/packages/inupress%2Fseo) | v0.1.0 |  | Search engine basics for Inupress: canonical and Open Graph tags, sitemap.xml a… |
+| 2026-10-11 11:45:15 | [siberfx/x-autopost](https://www.nuget.org/packages/siberfx%2Fx-autopost) | 1.0.1 | Selim Görmüş | Connect one X account to your Laravel app and share models to X automatically w… |
+| 2026-10-11 11:45:38 | [siberfx/facebook-autopost](https://www.nuget.org/packages/siberfx%2Ffacebook-autopost) | 1.0.0 | Selim Görmüş | Connect one Facebook Page to your Laravel app and share your models to it autom… |
+| 2026-10-11 12:04:29 | [boldminded/dexter-statamic](https://www.nuget.org/packages/boldminded%2Fdexter-statamic) | 1.0.0 | Brian Litzinger | Algolia and Meilisearch indexing for Statamic, with nested field extraction, do… |
+| 2026-10-11 12:04:58 | [siberfx/social-autopost](https://www.nuget.org/packages/siberfx%2Fsocial-autopost) | 1.0.0 | Selim Görmüş | Share your Laravel models to LinkedIn, X and Facebook, each switched on or off,… |
 
 ## Data source
 
