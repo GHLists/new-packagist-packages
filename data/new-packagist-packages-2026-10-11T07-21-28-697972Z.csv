@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-11T06:28:16Z,smaily/module-connect-hyva,3.0.0-rc11,Smaily,"Hyvä theme compatibility for Smaily Connect (Smaily_Connect): framework-free browse tracker and attribution scripts, Tailwind storefront templates"
+2026-10-11T06:56:56Z,php-concept/skeleton-2,v1.0.1,,"FormSite-level starter for PHP Concept 2 — thin Core, opt-in Extensions, explicit ConceptStack"
+2026-10-11T07:13:29Z,astral-php/astral-shipping,0.1.0,astral-php,"Frais de port multi-options pour Astral : forfait, barèmes poids/pays, Colissimo, Mondial Relay, retrait boutique, API agrégateur (Sendcloud)"

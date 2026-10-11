@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 06:19 UTC
+## Latest list — 2026-10-11 07:21 UTC
 
-New packages created between 2026-10-11 05:19 UTC and 2026-10-11 06:19 UTC.
+New packages created between 2026-10-11 06:19 UTC and 2026-10-11 07:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-11T06-19-12-128295Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-11T07-21-28-697972Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-11 05:30:08 | [fortpesa/fortpesa-php](https://www.nuget.org/packages/fortpesa%2Ffortpesa-php) | v1.0.0 |  | PHP client for the Fortpesa M-Pesa API: STK Push, transaction status, wallet ba… |
+| 2026-10-11 06:28:16 | [smaily/module-connect-hyva](https://www.nuget.org/packages/smaily%2Fmodule-connect-hyva) | 3.0.0-rc11 | Smaily | Hyvä theme compatibility for Smaily Connect (Smaily_Connect): framework-free br… |
+| 2026-10-11 06:56:56 | [php-concept/skeleton-2](https://www.nuget.org/packages/php-concept%2Fskeleton-2) | v1.0.1 |  | FormSite-level starter for PHP Concept 2 — thin Core, opt-in Extensions, explic… |
+| 2026-10-11 07:13:29 | [astral-php/astral-shipping](https://www.nuget.org/packages/astral-php%2Fastral-shipping) | 0.1.0 | astral-php | Frais de port multi-options pour Astral : forfait, barèmes poids/pays, Colissim… |
 
 ## Data source
 
