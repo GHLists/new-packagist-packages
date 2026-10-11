@@ -15,18 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 05:19 UTC
+## Latest list — 2026-10-11 06:19 UTC
 
-New packages created between 2026-10-11 04:18 UTC and 2026-10-11 05:19 UTC.
+New packages created between 2026-10-11 05:19 UTC and 2026-10-11 06:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-11T05-19-59-054734Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-11T06-19-12-128295Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-11 04:30:07 | [antevemus/alinq-collection](https://www.nuget.org/packages/antevemus%2Falinq-collection) | v1.4.3 | Heliton Junior - CTO @ Anteve… | Enterprise LINQ-Style Collection Framework for PHP 8.4+ (Fluent API, Native Arr… |
-| 2026-10-11 04:35:37 | [coretsia/platform-redaction](https://www.nuget.org/packages/coretsia%2Fplatform-redaction) | v0.8.0 | Vladyslav Mudrichenko | Coretsia sensitive-data redaction runtime package: deterministic classification… |
-| 2026-10-11 04:45:07 | [msahidurr/laravel-deploy-notifier](https://www.nuget.org/packages/msahidurr%2Flaravel-deploy-notifier) | v1.0.0 | Sahidur Rahman | Git and deployment lifecycle notifications for Laravel, delivered to Telegram |
-| 2026-10-11 04:55:55 | [patterns/event-channel](https://www.nuget.org/packages/patterns%2Fevent-channel) | v1.0.0 |  | Event Channel pattern - a transport-agnostic contract for publishing and subscr… |
+| 2026-10-11 05:30:08 | [fortpesa/fortpesa-php](https://www.nuget.org/packages/fortpesa%2Ffortpesa-php) | v1.0.0 |  | PHP client for the Fortpesa M-Pesa API: STK Push, transaction status, wallet ba… |
 
 ## Data source
 
