@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-11T13:21:53Z,malzariey/filament-ga4-analytics,v1.0.1,Majid Al-Zariey,"A Google Analytics 4 reports page for Filament panels: live visitors, KPIs, funnel, events, breakdowns and traffic sources, read through the GA4 Data API with a read-only service account."
+2026-10-11T13:59:49Z,snipershady/queue-bridge,v1.0.0,snipershady,"Backend-agnostic PHP 8.3+ message queue: one typed API for Redis Streams and RabbitMQ, with retries, DLQ, delayed messages and automatic Redis version detection."
+2026-10-11T14:04:48Z,small/swoole-events,2.0.0,,"Native Swoole event bus with fluent pipelines, coroutine synchronization and Small Collection-backed queues."
+2026-10-11T14:09:25Z,antevemus/aspecification,v1.12.0,Heliton Junior - CTO @ Antevemus Soluções Inovadoras em TI Ltda.,"Enterprise Specification Pattern Framework for PHP 8.2+ (DDD, Notification Pattern, SQL Query Visitor, Adianti TCriteria, DAG Repositories)"
+2026-10-11T14:12:28Z,selldatatoai/selldatatoai,v1.0.0,Alpha Quantum,"PHP client for the Data Asset Score API from selldatatoai.com: score company domains 0 to 100 for the data AI buyers want, singly or in batches of 100."
+2026-10-11T14:18:27Z,ripplesanalytics/ripples-php,v0.1.10,Ripples Metrics,Official PHP SDK for Ripples Metrics (ripples.sh): server-side event tracking
