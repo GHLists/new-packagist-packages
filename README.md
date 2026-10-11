@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 00:22 UTC
+## Latest list — 2026-10-11 02:18 UTC
 
-New packages created between 2026-10-10 23:20 UTC and 2026-10-11 00:22 UTC.
+New packages created between 2026-10-11 01:19 UTC and 2026-10-11 02:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-11T00-22-03-88475Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-11T02-18-42-068851Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-10 23:33:32 | [elephentity/codegen-tsquid](https://www.nuget.org/packages/elephentity%2Fcodegen-tsquid) | v0.1.0 |  | Tsquid manifest builder and standalone PHP initial-data integration. |
-| 2026-10-10 23:51:56 | [tusk-framework/framework](https://www.nuget.org/packages/tusk-framework%2Fframework) | v0.3.2 |  | The Tusk Framework - Domain-first PHP application framework |
+| 2026-10-11 01:43:56 | [mainmoney/mm-aggr-wordpress](https://www.nuget.org/packages/mainmoney%2Fmm-aggr-wordpress) | v0.1.0 | MainMoney SARL | WordPress plugin for MainMoney aggregator payments |
+| 2026-10-11 01:44:06 | [mainmoney/mm-aggr-woocommerce](https://www.nuget.org/packages/mainmoney%2Fmm-aggr-woocommerce) | v0.1.0 | MainMoney SARL | WooCommerce payment gateway for MainMoney aggregator |
+| 2026-10-11 01:44:55 | [kuma-develop/level](https://www.nuget.org/packages/kuma-develop%2Flevel) | 1.0.0 | kuma-develop | EXP and level system for Flarum 2.0 / Hệ thống EXP và cấp độ cho Flarum 2.0 |
 
 ## Data source
 
