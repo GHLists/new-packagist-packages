@@ -15,20 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 15:21 UTC
+## Latest list — 2026-10-11 16:19 UTC
 
-New packages created between 2026-10-11 14:19 UTC and 2026-10-11 15:21 UTC.
+New packages created between 2026-10-11 15:21 UTC and 2026-10-11 16:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-11T15-21-20-129565Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-11T16-19-50-248411Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-11 14:57:02 | [tobiasnagel/flux-breadcrumbs](https://www.nuget.org/packages/tobiasnagel%2Fflux-breadcrumbs) | v1.0.0 |  | Route-driven breadcrumbs for Laravel applications rendered with Flux UI. |
-| 2026-10-11 15:07:32 | [neos/contentgraph-doctrinedbaladapter-compatibility](https://www.nuget.org/packages/neos%2Fcontentgraph-doctrinedbaladapter-compatibility) | 9.2.0 |  | Forward compatibility layer to allow smooth upgrades to Neos version which prov… |
-| 2026-10-11 15:07:32 | [neos/contentgraph-doctrinedbaladapter-forward-compatibility](https://www.nuget.org/packages/neos%2Fcontentgraph-doctrinedbaladapter-forward-compatibility) | 9.2.0 |  | Forward compatibility layer to allow smooth upgrades to Neos version which prov… |
-| 2026-10-11 15:10:24 | [survos/otio-bundle](https://www.nuget.org/packages/survos%2Fotio-bundle) | 2.36.5 |  | Symfony integration scaffold for the Survos OpenTimelineIO library. |
-| 2026-10-11 15:10:27 | [survos/otio](https://www.nuget.org/packages/survos%2Fotio) | 2.36.5 |  | Planned PHP OpenTimelineIO subset for editorial documents, timing and playback… |
-| 2026-10-11 15:11:49 | [hoceineel/filament-sidebar-editor](https://www.nuget.org/packages/hoceineel%2Ffilament-sidebar-editor) | v0.1.0 | Hoceine El Idrissi | Let each tenant, user or panel hide, show and reorder Filament navigation group… |
+| 2026-10-11 15:22:28 | [hershel-theodore-layton/hack-compiler](https://www.nuget.org/packages/hershel-theodore-layton%2Fhack-compiler) | v0.0.0 |  | Hack Compiler |
+| 2026-10-11 15:36:47 | [bhekor/paymish-php](https://www.nuget.org/packages/bhekor%2Fpaymish-php) | v1.0.0 | Ibidapo Adeolu | Official-style PHP SDK for the Paymish payment gateway API |
+| 2026-10-11 15:41:12 | [dereuromark/cakephp-i18n-lint](https://www.nuget.org/packages/dereuromark%2Fcakephp-i18n-lint) | 0.1.0 | Mark Scherer | Keeps CakePHP translation catalogs honest: POT drift check, PO sync and PO lint… |
+| 2026-10-11 15:55:30 | [jeffersongoncalves/pest-plugin-database-migrations](https://www.nuget.org/packages/jeffersongoncalves%2Fpest-plugin-database-migrations) | 1.0.0 | Jefferson Gonçalves | Load a package's migrations in tests in the exact order declared by its spatie/… |
+| 2026-10-11 16:02:11 | [easyswoole/ip-access](https://www.nuget.org/packages/easyswoole%2Fip-access) | 1.0.1 |  | a simple white/black access manager |
+| 2026-10-11 16:14:30 | [mageenv/module-dynamic-cart-progress-hyva](https://www.nuget.org/packages/mageenv%2Fmodule-dynamic-cart-progress-hyva) | 1.0.0 |  | Hyva storefront integration for MageEnv Dynamic Cart Progress - Alpine.js Mini… |
 
 ## Data source
 

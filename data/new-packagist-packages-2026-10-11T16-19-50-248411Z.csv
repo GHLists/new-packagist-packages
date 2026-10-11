@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-11T15:22:28Z,hershel-theodore-layton/hack-compiler,v0.0.0,,Hack Compiler
+2026-10-11T15:36:47Z,bhekor/paymish-php,v1.0.0,Ibidapo Adeolu,Official-style PHP SDK for the Paymish payment gateway API
+2026-10-11T15:41:12Z,dereuromark/cakephp-i18n-lint,0.1.0,Mark Scherer,"Keeps CakePHP translation catalogs honest: POT drift check, PO sync and PO linting for plugins and apps."
+2026-10-11T15:55:30Z,jeffersongoncalves/pest-plugin-database-migrations,1.0.0,Jefferson Gonçalves,Load a package's migrations in tests in the exact order declared by its spatie/laravel-package-tools ServiceProvider
+2026-10-11T16:02:11Z,easyswoole/ip-access,1.0.1,,a simple white/black access manager
+2026-10-11T16:14:30Z,mageenv/module-dynamic-cart-progress-hyva,1.0.0,,Hyva storefront integration for MageEnv Dynamic Cart Progress - Alpine.js Mini Cart and Cart Page components consuming the shared progress payload. No business logic.
