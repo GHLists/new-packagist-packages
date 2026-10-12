@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-12T07:29:19Z,cymdeveloppement/roundcube-gdrive-attachments,v1.0.0,Yann Challet,"Uploads attachments larger than the message size limit to a Google shared drive with a service account, and inserts a download link in the message"
+2026-10-12T07:36:42Z,tancky/upscale-calculator,v1.0.0,Tancky AI,"Dependency-free PHP helpers for image upscaling math: scaled dimensions, the smallest upscale factor for a target size, and print sizes at a given DPI."
+2026-10-12T07:39:15Z,jnana/jnana,v1.0.2,,Project skeleton for the Jnana framework. Run `composer create-project jnana/jnana my-app` to get a working app with a welcome page out of the box.
+2026-10-12T07:47:06Z,alengo/sulu-content-assistant-bundle,0.1,Alexander Huber-De Monte,"Sulu 3 admin assistant: create pages, articles and snippets from content templates (edit with live preview, optionally with Sulu AI), including a template management."
+2026-10-12T07:56:48Z,irondome/mail-canon,v0.1.0,,"Bounded, provider-aware email normalization"
+2026-10-12T08:15:07Z,saeedmohsenii/laravel-atlasm-sms,v1.0.0,Saeed Mohseni,Laravel package for sending SMS and checking credit / delivery status through the Atlasm SOAP SMS panel.
