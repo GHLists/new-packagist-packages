@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-12T11:54:55Z,yourbureau/api-client,v1.0.1,indual,PHP client for the yourBureau REST API v3
+2026-10-12T11:56:25Z,ontob/moonwatch-laravel,v0.1.0,,Reports a Laravel application's errors to Moonwatch.
+2026-10-12T12:17:09Z,zeimoto/icons,v0.1.0,zeimoto,Shared icons for the Kirby Panel.

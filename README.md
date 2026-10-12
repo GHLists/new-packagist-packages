@@ -15,21 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 11:18 UTC
+## Latest list — 2026-10-12 12:21 UTC
 
-New packages created between 2026-10-12 10:21 UTC and 2026-10-12 11:18 UTC.
+New packages created between 2026-10-12 11:18 UTC and 2026-10-12 12:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T11-18-53-17237Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-12T12-21-30-171626Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-12 10:27:29 | [ssekyanzijackson/laravel-agent-web-search](https://www.nuget.org/packages/ssekyanzijackson%2Flaravel-agent-web-search) | v0.1.0 | Jackson Mwesigwa | Keyless web search and read tools for any Laravel AI agent: measured deadlines,… |
-| 2026-10-12 10:27:47 | [invoicexml/zugferd-xrechnung](https://www.nuget.org/packages/invoicexml%2Fzugferd-xrechnung) | v1.0.0 | InvoiceXML | PHP client for ZUGFeRD and XRechnung e-invoices: create, validate, embed, rende… |
-| 2026-10-12 10:27:50 | [invoicexml/facturx](https://www.nuget.org/packages/invoicexml%2Ffacturx) | v1.0.0 | InvoiceXML | PHP client for Factur-X e-invoices: create, validate, embed and extract EN 1693… |
-| 2026-10-12 10:32:09 | [echo-fusion/databasemanager](https://www.nuget.org/packages/echo-fusion%2Fdatabasemanager) | v1.0.0 | Amir Shadanfar | A small, replaceable database layer for EchoFusion: a PDO connection, a query b… |
-| 2026-10-12 10:44:49 | [stejac/guarded-chat-bundle](https://www.nuget.org/packages/stejac%2Fguarded-chat-bundle) | v1.0.1 | Stefan Jacomeit | Guardrails for public AI chats in Symfony apps: prompt versioning, injection pr… |
-| 2026-10-12 10:52:17 | [echo-fusion/authmanager](https://www.nuget.org/packages/echo-fusion%2Fauthmanager) | v1.0.0 | Amir Shadanfar | Authentication for EchoFusion: session and token guards, pluggable user provide… |
-| 2026-10-12 11:08:42 | [ravenrelay/php](https://www.nuget.org/packages/ravenrelay%2Fphp) | v0.1.0 |  | Server-side PHP SDK for the RavenRelay email API |
+| 2026-10-12 11:54:55 | [yourbureau/api-client](https://www.nuget.org/packages/yourbureau%2Fapi-client) | v1.0.1 | indual | PHP client for the yourBureau REST API v3 |
+| 2026-10-12 11:56:25 | [ontob/moonwatch-laravel](https://www.nuget.org/packages/ontob%2Fmoonwatch-laravel) | v0.1.0 |  | Reports a Laravel application's errors to Moonwatch. |
+| 2026-10-12 12:17:09 | [zeimoto/icons](https://www.nuget.org/packages/zeimoto%2Ficons) | v0.1.0 | zeimoto | Shared icons for the Kirby Panel. |
 
 ## Data source
 
