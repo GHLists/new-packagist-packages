@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-10-12T17:33:48Z,wexample/symfony-remote-peppol,1.0.1,,
+2026-10-12T17:34:48Z,tmonier/sylius-purchase-approval-plugin,v1.0.1,Thibaut Monier,"Purchase approval for Sylius 2 B2B company accounts: order and approval limits per member, pending orders held until a company approver approves them (no payment, shipment or invoice before), acknowledgement e-mail, expiry, shop, admin and API"
+2026-10-12T17:35:42Z,woit/si-llms-txt,1.0.3,Siva,LLMs.txt & Markdown for AI
+2026-10-12T17:39:34Z,se7enxweb/expai,v0.0.1.0,7x,Exponential Intelligence (Powered by Claude from Anthropic): a writing assistant for the Exponential 6 administration interface that writes drafts as the editor and never publishes on its own
+2026-10-12T17:40:26Z,zcwilt/forumkit-logs,v0.1.0,,Email logs for ForumKit.
+2026-10-12T17:45:56Z,wexample/symfony-accounting-ds,1.0.1,,
+2026-10-12T17:46:59Z,wexample/symfony-accounting-demo,1.0.1,,
+2026-10-12T17:49:55Z,pharaonic/php-fingerprint,8.0.0,Moamen Eltouny (Raggi),"Deterministic fingerprints and ordered signatures for PHP data: canonical map ordering, configurable list semantics, path-aware normalization, hashing, HMAC and protocol-safe field signing."
+2026-10-12T17:54:12Z,wexample/symfony-remote-ecb,1.0.1,,
+2026-10-12T18:01:55Z,sezer/monolith-modular,v1.0.2,Hussien Attia,Modular monolith scaffolding and Artisan generators for Laravel
+2026-10-12T18:08:01Z,phpmystic/typic,v0.1.0,,"Modern, code-first, attribute-driven GraphQL framework for PHP"
