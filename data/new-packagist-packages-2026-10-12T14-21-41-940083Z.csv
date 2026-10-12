@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-12T13:31:39Z,zcwilt/forumkit-forums,v0.1.0,,"Forums for ForumKit: forum groups, forums, threads and posts, visibility and posting rules, and moderation, as a Filament plugin."
+2026-10-12T13:31:56Z,ichinya/laratesto-rector,0.1.0,Ichi,Rector rules to migrate Laravel PHPUnit test suites to Laratesto.
+2026-10-12T13:38:04Z,momh/shroud,v0.1.0,bricebou,"Deterministic, CMS-agnostic pseudonymisation of a relational database: consistent fake identities, reversible ids, shape-preserving text replacement, verifiable coverage."
+2026-10-12T13:58:33Z,mdoq/infrastructure,1.0.0,,MDOQ infrastructure module for MAP integration
+2026-10-12T14:02:29Z,zero1/request-limiter,1.0.0,,Request limiter for Magento 2
