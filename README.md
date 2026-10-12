@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 08:21 UTC
+## Latest list — 2026-10-12 09:23 UTC
 
-New packages created between 2026-10-12 07:23 UTC and 2026-10-12 08:21 UTC.
+New packages created between 2026-10-12 08:21 UTC and 2026-10-12 09:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T08-21-03-438924Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-12T09-23-09-616739Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-12 07:29:19 | [cymdeveloppement/roundcube-gdrive-attachments](https://www.nuget.org/packages/cymdeveloppement%2Froundcube-gdrive-attachments) | v1.0.0 | Yann Challet | Uploads attachments larger than the message size limit to a Google shared drive… |
-| 2026-10-12 07:36:42 | [tancky/upscale-calculator](https://www.nuget.org/packages/tancky%2Fupscale-calculator) | v1.0.0 | Tancky AI | Dependency-free PHP helpers for image upscaling math: scaled dimensions, the sm… |
-| 2026-10-12 07:39:15 | [jnana/jnana](https://www.nuget.org/packages/jnana%2Fjnana) | v1.0.2 |  | Project skeleton for the Jnana framework. Run `composer create-project jnana/jn… |
-| 2026-10-12 07:47:06 | [alengo/sulu-content-assistant-bundle](https://www.nuget.org/packages/alengo%2Fsulu-content-assistant-bundle) | 0.1 | Alexander Huber-De Monte | Sulu 3 admin assistant: create pages, articles and snippets from content templa… |
-| 2026-10-12 07:56:48 | [irondome/mail-canon](https://www.nuget.org/packages/irondome%2Fmail-canon) | v0.1.0 |  | Bounded, provider-aware email normalization |
-| 2026-10-12 08:15:07 | [saeedmohsenii/laravel-atlasm-sms](https://www.nuget.org/packages/saeedmohsenii%2Flaravel-atlasm-sms) | v1.0.0 | Saeed Mohseni | Laravel package for sending SMS and checking credit / delivery status through t… |
+| 2026-10-12 08:50:23 | [oceancodex/wpsp-lite](https://www.nuget.org/packages/oceancodex%2Fwpsp-lite) | 13.1.61 | OceanCodex | WPSP Framework - WordPress Starter Plugin - Lite |
+| 2026-10-12 08:52:01 | [oceancodex/wpsp-core-lite](https://www.nuget.org/packages/oceancodex%2Fwpsp-core-lite) | 13.1.61 | OceanCodex | WPSP Framework - WordPress Starter Plugin - Core - Lite |
+| 2026-10-12 08:56:35 | [mabioca/jalali-calendar](https://www.nuget.org/packages/mabioca%2Fjalali-calendar) | v1.0.0 |  | Jalali calendar and Persian numeral support for Flarum. |
+| 2026-10-12 09:08:56 | [silarhi/qif-library](https://www.nuget.org/packages/silarhi%2Fqif-library) | 1.0.0 | SILARHI | A PHP library to parse and write QIF (Quicken Interchange Format) files |
 
 ## Data source
 

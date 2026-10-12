@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-12T08:50:23Z,oceancodex/wpsp-lite,13.1.61,OceanCodex,WPSP Framework - WordPress Starter Plugin - Lite
+2026-10-12T08:52:01Z,oceancodex/wpsp-core-lite,13.1.61,OceanCodex,WPSP Framework - WordPress Starter Plugin - Core - Lite
+2026-10-12T08:56:35Z,mabioca/jalali-calendar,v1.0.0,,Jalali calendar and Persian numeral support for Flarum.
+2026-10-12T09:08:56Z,silarhi/qif-library,1.0.0,SILARHI,A PHP library to parse and write QIF (Quicken Interchange Format) files
