@@ -1,0 +1,24 @@
+created_at,package,version,author,description
+2026-10-12T06:20:57Z,jnana/framework,v1.0.1,Sujeet Kahar,"Jnana — a lightweight PHP framework (routing, DI, HTTP, middleware, templating, security) framework."
+2026-10-12T06:21:32Z,mrstroz/yii2-query-monitoring,1.0.0,Mariusz Stróż,"Production query monitoring for Yii 2: every MySQL, PostgreSQL and MongoDB query of a request, console command or queue job, with its time, normalised text and caller."
+2026-10-12T06:21:38Z,ak279642/laravel-infrastructure,v1.5.7,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."
+2026-10-12T06:27:16Z,slash197/etransport,v0.1.0,Levi Szocs,"PHP client, message builder and local validator for ANAF's RO e-Transport system"
+2026-10-12T06:28:57Z,tmonier/sylius-tier-pricing-plugin,v1.0.0,Thibaut Monier,"Volume (tier) pricing for Sylius 2: quantity price breaks per channel, customer group, product or variant, applied in the cart, shown on product pages and in the cart as conditional prices, CSV import/export and API"
+2026-10-12T06:30:53Z,eii/laravel-email-tester,1.0.0,,Command-line email delivery tester for Laravel applications.
+2026-10-12T06:34:47Z,tmonier/sylius-quick-order-plugin,v1.0.0,Thibaut Monier,"B2B quick order for Sylius 2: paste SKU;quantity lines or upload a CSV, preview, add up to hundreds of lines to the cart in one pass, reorder past orders, bulk add through the shop API"
+2026-10-12T06:43:04Z,balpom/storage,v0.1.0,Mikhail (Balpom),Abstract storage for abstract data.
+2026-10-12T06:46:49Z,php-concept/brick-casting-valinor,v1.0.0,,Concept stack brick: casting (Valinor)
+2026-10-12T06:46:49Z,php-concept/brick-components,v1.0.0,,Concept stack brick: components
+2026-10-12T06:46:49Z,php-concept/brick-console-symfony,v1.0.0,,Concept stack brick: console (Symfony)
+2026-10-12T06:46:49Z,php-concept/brick-data-masker,v1.0.0,,Concept stack brick: data masker
+2026-10-12T06:46:49Z,php-concept/brick-database-eloquent,v1.0.0,,Concept stack brick: database (Eloquent)
+2026-10-12T06:46:49Z,php-concept/brick-error-handler-whoops,v1.0.0,,Concept stack brick: error handling (Whoops)
+2026-10-12T06:46:49Z,php-concept/brick-event,v1.0.0,,Concept stack brick: events
+2026-10-12T06:46:49Z,php-concept/brick-http,v1.0.0,,Concept stack brick: HTTP
+2026-10-12T06:46:49Z,php-concept/brick-logger-monolog,v1.0.0,,Concept stack brick: logging (Monolog)
+2026-10-12T06:46:49Z,php-concept/brick-session-symfony,v1.0.0,,Concept stack brick: session (Symfony)
+2026-10-12T06:46:49Z,php-concept/brick-telemetry,v1.0.0,,Concept stack brick: telemetry
+2026-10-12T06:46:49Z,php-concept/brick-validation-rakit,v1.0.0,,Concept stack brick: validation (Rakit)
+2026-10-12T06:46:49Z,php-concept/brick-view,v1.0.0,,Concept stack brick: view (Twig / Plates)
+2026-10-12T06:54:29Z,flexacms/laravel,v0.1.0,,"Laravel client for the Flexa headless CMS: fluent queries, caching and typed entries."
+2026-10-12T07:04:45Z,slash197/etransport-laravel,v0.1.0,Levi Szocs,"Laravel bridge for slash197/etransport, the PHP client for ANAF's RO e-Transport system"
