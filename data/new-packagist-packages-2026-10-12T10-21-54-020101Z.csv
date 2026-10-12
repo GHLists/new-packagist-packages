@@ -1,0 +1,18 @@
+created_at,package,version,author,description
+2026-10-12T09:24:33Z,sdjgroup/mail-proxy-php,v1.0.0,sdjgroup,"Framework-agnostic PHP SDK for the mail proxy service: hand a mail with many recipients and attachments to the proxy in a few lines, with typed errors and zero dependencies."
+2026-10-12T09:26:28Z,gnnpls/wp-kit,v0.3.1,Nikos Giannopoulos,"Declare a WordPress feature once and expose it as a REST route, a WP-CLI command and a WordPress Ability from the same definition."
+2026-10-12T09:28:10Z,echo-fusion/configmanager,v1.0.0,Amir Shadanfar,"Immutable, deeply merged application configuration with dot-notation access for the EchoFusion framework."
+2026-10-12T09:36:01Z,echo-fusion/sessionmanager,v1.0.0,Amir Shadanfar,"Session handling for the EchoFusion framework: native and in-memory sessions with flash messages, plus a PSR-15 middleware that starts the session."
+2026-10-12T09:39:34Z,hyperf-apex/apex,v0.1.0,lbg-sys,"Apex generic infrastructure, API engine and components for Hyperf (Metapackage)"
+2026-10-12T09:41:00Z,echo-fusion/responsemanager,v1.0.0,Amir Shadanfar,"PSR-7 HTML, JSON, XML and redirect response classes for the EchoFusion framework."
+2026-10-12T09:51:18Z,pollora/discovery,v0.1.0,Amphibee,"Find the PHP classes that carry attributes in themes, plugins and modules, and hand them to the code that registers them. Runs with or without Laravel."
+2026-10-12T09:51:24Z,smartness/laravel-logging,v0.1.2,,"Structured JSON logging for Laravel with bounded normalization, redaction and request/job correlation"
+2026-10-12T09:51:36Z,silarhi/tabler-ux-components,v0.1.0,Guillaume Sainthillier,"Tabler-flavored Twig UX components for Symfony, following the shadcn composition pattern."
+2026-10-12T09:51:38Z,wexample/symfony-builder,1.0.2,,
+2026-10-12T09:52:34Z,wexample/symfony-remote-pdf-factory,1.0.1,,
+2026-10-12T09:52:36Z,echo-fusion/modulemanager,v1.0.0,Amir Shadanfar,"Module registry for the EchoFusion framework: modules declare their config, service providers, routes and templates as data."
+2026-10-12T10:04:43Z,ongudidan/laravel-multi-2fa,v1.0.0,Ongudidan,"Unified Multi-Method Two-Factor Authentication for Laravel: Email OTP, Authenticator App (TOTP via Fortify), and Passkeys (WebAuthn)."
+2026-10-12T10:06:39Z,framesnpictures/el-code-format,0.1,Chris Cynarski,Custom PHP-CS-Fixer rules
+2026-10-12T10:14:36Z,shopwell/conflicts,0.6.4,,Shopwell 6 conflicting packages
+2026-10-12T10:17:17Z,ongudidan/vscu-php-sdk,v1.0.0,Ongudidan,PHP SDK for VSCU eTIMS API
+2026-10-12T10:18:44Z,echo-fusion/templatemanager,v1.0.0,Amir Shadanfar,"Framework-independent template manager for EchoFusion: a built-in Twig/Smarty-style template language, plain PHP templates, and pluggable engines such as Twig through configuration."
