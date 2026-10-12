@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-11T23:43:03Z,wilycode/router-attribute,v0.1.0,Simon Piter,PHP 8.4 attribute-based route discovery and caching for WilyCode Router.
+2026-10-11T23:43:44Z,aldemeery/refined,v0.1.0,Osama Aldemeery,Immutable wrapper types for PHP that enforce value constraints at construction
+2026-10-11T23:48:59Z,hanssuite/hanscrypt,v1.0.1,Nusantara Innovation Technology,"Framework-agnostic AES-256-GCM ID/URL obfuscation, with first-class Laravel and Symfony integrations and a generic PSR-11 factory."
+2026-10-12T00:05:55Z,singraworks/laravel-asaas,v0.1.0,Lucas Vasconcelos,Typed Laravel SDK for the Asaas payments API.
