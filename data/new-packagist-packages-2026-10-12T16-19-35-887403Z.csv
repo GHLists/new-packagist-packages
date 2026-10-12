@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-12T15:27:26Z,tmonier/sylius-container-fill-plugin,v1.0.0,Thibaut Monier,"Pallet & Truckload Builder for Sylius 2: container types, logistics data per variant, a load planner (pallet places, payload, volume) with a fill gauge in the cart, B2B fill rules enforced at checkout (shop and API), per-container shipping"
+2026-10-12T15:27:26Z,wazum/visual-permissions,v0.1.1,Wolfgang Klinger,Edit TYPO3 backend group permissions directly on the relevant screens.
+2026-10-12T15:29:04Z,tmonier/sylius-company-accounts-plugin,v1.0.0,Thibaut Monier,"B2B company accounts for Sylius 2: companies with members and roles (admin, buyer, approver), company area in the customer account (members, company orders), admin CRUD, shop and admin API, voters, events, and an optional account owner bridge for the order-hold kernel"
+2026-10-12T15:40:15Z,inupress/editor-ckeditor,v0.1.0,,CKEditor 5 for the Inupress admin: replaces the built-in editor in every content field
+2026-10-12T15:41:58Z,gatovel/queue,v1.0.0,,Sistema de filas e processamento de jobs para aplicações PHP.
+2026-10-12T15:59:16Z,johnykvsky/quidam,v0.0.1,Johny Kvsky,"Dummy / fake data generator for PHP 8.4+ - DummyGenerator architecture (container, interfaces, strategies, language packs) without magic"
+2026-10-12T15:59:45Z,trisnawan/php-rss-client,1.0.0,Trisnawan,Ambil dan posting artikel dari RSS

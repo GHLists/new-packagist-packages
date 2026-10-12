@@ -15,19 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 15:22 UTC
+## Latest list — 2026-10-12 16:19 UTC
 
-New packages created between 2026-10-12 14:21 UTC and 2026-10-12 15:22 UTC.
+New packages created between 2026-10-12 15:22 UTC and 2026-10-12 16:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T15-22-01-00992Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-12T16-19-35-887403Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-12 14:37:38 | [echo-fusion/framework](https://www.nuget.org/packages/echo-fusion%2Fframework) | v1.2.1 | Amir Shadanfar | The EchoFusion framework: a kernel that boots configuration, modules, service p… |
-| 2026-10-12 14:45:37 | [cosmira/nginx-pushstream-broadcaster](https://www.nuget.org/packages/cosmira%2Fnginx-pushstream-broadcaster) | v1.0.0 | Alexandr Chernyaev | Laravel broadcast driver and HTTP publisher for nginx Push Stream. |
-| 2026-10-12 14:51:14 | [echo-fusion/echo-fusion](https://www.nuget.org/packages/echo-fusion%2Fecho-fusion) | v1.1.0 | Amir Shadanfar | The EchoFusion application skeleton. Start a project with: composer create-proj… |
-| 2026-10-12 14:51:18 | [r-portal/t-field](https://www.nuget.org/packages/r-portal%2Ft-field) | v1.0.0 | rochev yakov | Common contracts for the fields |
-| 2026-10-12 14:59:58 | [pollora/attributes](https://www.nuget.org/packages/pollora%2Fattributes) | v0.1.0 | Amphibee | PHP attributes to declare WordPress post types, taxonomies, hooks, REST routes,… |
+| 2026-10-12 15:27:26 | [tmonier/sylius-container-fill-plugin](https://www.nuget.org/packages/tmonier%2Fsylius-container-fill-plugin) | v1.0.0 | Thibaut Monier | Pallet & Truckload Builder for Sylius 2: container types, logistics data per va… |
+| 2026-10-12 15:27:26 | [wazum/visual-permissions](https://www.nuget.org/packages/wazum%2Fvisual-permissions) | v0.1.1 | Wolfgang Klinger | Edit TYPO3 backend group permissions directly on the relevant screens. |
+| 2026-10-12 15:29:04 | [tmonier/sylius-company-accounts-plugin](https://www.nuget.org/packages/tmonier%2Fsylius-company-accounts-plugin) | v1.0.0 | Thibaut Monier | B2B company accounts for Sylius 2: companies with members and roles (admin, buy… |
+| 2026-10-12 15:40:15 | [inupress/editor-ckeditor](https://www.nuget.org/packages/inupress%2Feditor-ckeditor) | v0.1.0 |  | CKEditor 5 for the Inupress admin: replaces the built-in editor in every conten… |
+| 2026-10-12 15:41:58 | [gatovel/queue](https://www.nuget.org/packages/gatovel%2Fqueue) | v1.0.0 |  | Sistema de filas e processamento de jobs para aplicações PHP. |
+| 2026-10-12 15:59:16 | [johnykvsky/quidam](https://www.nuget.org/packages/johnykvsky%2Fquidam) | v0.0.1 | Johny Kvsky | Dummy / fake data generator for PHP 8.4+ - DummyGenerator architecture (contain… |
+| 2026-10-12 15:59:45 | [trisnawan/php-rss-client](https://www.nuget.org/packages/trisnawan%2Fphp-rss-client) | 1.0.0 | Trisnawan | Ambil dan posting artikel dari RSS |
 
 ## Data source
 
