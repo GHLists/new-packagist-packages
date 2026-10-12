@@ -15,21 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 16:19 UTC
+## Latest list — 2026-10-12 17:19 UTC
 
-New packages created between 2026-10-12 15:22 UTC and 2026-10-12 16:19 UTC.
+New packages created between 2026-10-12 16:19 UTC and 2026-10-12 17:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T16-19-35-887403Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-12T17-19-38-531284Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-12 15:27:26 | [tmonier/sylius-container-fill-plugin](https://www.nuget.org/packages/tmonier%2Fsylius-container-fill-plugin) | v1.0.0 | Thibaut Monier | Pallet & Truckload Builder for Sylius 2: container types, logistics data per va… |
-| 2026-10-12 15:27:26 | [wazum/visual-permissions](https://www.nuget.org/packages/wazum%2Fvisual-permissions) | v0.1.1 | Wolfgang Klinger | Edit TYPO3 backend group permissions directly on the relevant screens. |
-| 2026-10-12 15:29:04 | [tmonier/sylius-company-accounts-plugin](https://www.nuget.org/packages/tmonier%2Fsylius-company-accounts-plugin) | v1.0.0 | Thibaut Monier | B2B company accounts for Sylius 2: companies with members and roles (admin, buy… |
-| 2026-10-12 15:40:15 | [inupress/editor-ckeditor](https://www.nuget.org/packages/inupress%2Feditor-ckeditor) | v0.1.0 |  | CKEditor 5 for the Inupress admin: replaces the built-in editor in every conten… |
-| 2026-10-12 15:41:58 | [gatovel/queue](https://www.nuget.org/packages/gatovel%2Fqueue) | v1.0.0 |  | Sistema de filas e processamento de jobs para aplicações PHP. |
-| 2026-10-12 15:59:16 | [johnykvsky/quidam](https://www.nuget.org/packages/johnykvsky%2Fquidam) | v0.0.1 | Johny Kvsky | Dummy / fake data generator for PHP 8.4+ - DummyGenerator architecture (contain… |
-| 2026-10-12 15:59:45 | [trisnawan/php-rss-client](https://www.nuget.org/packages/trisnawan%2Fphp-rss-client) | 1.0.0 | Trisnawan | Ambil dan posting artikel dari RSS |
+| 2026-10-12 16:41:21 | [png/laravel-sync-engine](https://www.nuget.org/packages/png%2Flaravel-sync-engine) | v1.0.0 |  | Offline-first bidirectional sync engine for Laravel |
+| 2026-10-12 16:46:51 | [laravel-monitor/laravel-monitor](https://www.nuget.org/packages/laravel-monitor%2Flaravel-monitor) | v1.0.0 |  | Laravel Application Monitoring Package — sends non-sensitive health metadata to… |
+| 2026-10-12 16:50:14 | [r-portal/t-rule](https://www.nuget.org/packages/r-portal%2Ft-rule) | v1.0.1 | rochev yakov | Common contracts for the template rule |
+| 2026-10-12 16:58:18 | [polaris/agent](https://www.nuget.org/packages/polaris%2Fagent) | v0.10.0 | 2am.tech | The PHP agent SDK for Polaris for PHP: discover a Polaris server, register or e… |
+| 2026-10-12 16:58:18 | [polaris/agents](https://www.nuget.org/packages/polaris%2Fagents) | v0.10.0 | 2am.tech | AI agents as principals for Polaris for PHP: registration and host enrolment, d… |
+| 2026-10-12 16:58:18 | [polaris/mcp](https://www.nuget.org/packages/polaris%2Fmcp) | v0.10.0 | 2am.tech | Polaris for PHP and the Model Context Protocol: protect any PHP MCP server with… |
+| 2026-10-12 17:15:54 | [curentis/openfga-php](https://www.nuget.org/packages/curentis%2Fopenfga-php) | v1.0.0 |  | PHP SDK for OpenFGA — fine-grained, relationship-based authorization (Zanzibar-… |
 
 ## Data source
 

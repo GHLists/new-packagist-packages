@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-12T16:41:21Z,png/laravel-sync-engine,v1.0.0,,Offline-first bidirectional sync engine for Laravel
+2026-10-12T16:46:51Z,laravel-monitor/laravel-monitor,v1.0.0,,Laravel Application Monitoring Package — sends non-sensitive health metadata to a centralized monitoring API.
+2026-10-12T16:50:14Z,r-portal/t-rule,v1.0.1,rochev yakov,Common contracts for the template rule
+2026-10-12T16:58:18Z,polaris/agent,v0.10.0,2am.tech,"The PHP agent SDK for Polaris for PHP: discover a Polaris server, register or enrol an agent, request grants and poll approvals, sign request JWTs, call capabilities and verify receipts"
+2026-10-12T16:58:18Z,polaris/agents,v0.10.0,2am.tech,"AI agents as principals for Polaris for PHP: registration and host enrolment, delegated and autonomous agents over OAuth (token exchange with act, client credentials, private_key_jwt), signed request JWTs, capability grants with constraints and budgets, approvals, signed receipt chains and a kill s…"
+2026-10-12T16:58:18Z,polaris/mcp,v0.10.0,2am.tech,"Polaris for PHP and the Model Context Protocol: protect any PHP MCP server with Polaris-issued tokens (RFC 9728, DPoP), and serve every Polaris endpoint and CLI command as an MCP tool under the caller's own permissions"
+2026-10-12T17:15:54Z,curentis/openfga-php,v1.0.0,,"PHP SDK for OpenFGA — fine-grained, relationship-based authorization (Zanzibar-style)."
