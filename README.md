@@ -15,25 +15,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 18:18 UTC
+## Latest list — 2026-10-12 19:19 UTC
 
-New packages created between 2026-10-12 17:19 UTC and 2026-10-12 18:18 UTC.
+New packages created between 2026-10-12 18:18 UTC and 2026-10-12 19:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T18-18-57-833306Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-12T19-19-29-863467Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-12 17:33:48 | [wexample/symfony-remote-peppol](https://www.nuget.org/packages/wexample%2Fsymfony-remote-peppol) | 1.0.1 |  |  |
-| 2026-10-12 17:34:48 | [tmonier/sylius-purchase-approval-plugin](https://www.nuget.org/packages/tmonier%2Fsylius-purchase-approval-plugin) | v1.0.1 | Thibaut Monier | Purchase approval for Sylius 2 B2B company accounts: order and approval limits… |
-| 2026-10-12 17:35:42 | [woit/si-llms-txt](https://www.nuget.org/packages/woit%2Fsi-llms-txt) | 1.0.3 | Siva | LLMs.txt & Markdown for AI |
-| 2026-10-12 17:39:34 | [se7enxweb/expai](https://www.nuget.org/packages/se7enxweb%2Fexpai) | v0.0.1.0 | 7x | Exponential Intelligence (Powered by Claude from Anthropic): a writing assistan… |
-| 2026-10-12 17:40:26 | [zcwilt/forumkit-logs](https://www.nuget.org/packages/zcwilt%2Fforumkit-logs) | v0.1.0 |  | Email logs for ForumKit. |
-| 2026-10-12 17:45:56 | [wexample/symfony-accounting-ds](https://www.nuget.org/packages/wexample%2Fsymfony-accounting-ds) | 1.0.1 |  |  |
-| 2026-10-12 17:46:59 | [wexample/symfony-accounting-demo](https://www.nuget.org/packages/wexample%2Fsymfony-accounting-demo) | 1.0.1 |  |  |
-| 2026-10-12 17:49:55 | [pharaonic/php-fingerprint](https://www.nuget.org/packages/pharaonic%2Fphp-fingerprint) | 8.0.0 | Moamen Eltouny (Raggi) | Deterministic fingerprints and ordered signatures for PHP data: canonical map o… |
-| 2026-10-12 17:54:12 | [wexample/symfony-remote-ecb](https://www.nuget.org/packages/wexample%2Fsymfony-remote-ecb) | 1.0.1 |  |  |
-| 2026-10-12 18:01:55 | [sezer/monolith-modular](https://www.nuget.org/packages/sezer%2Fmonolith-modular) | v1.0.2 | Hussien Attia | Modular monolith scaffolding and Artisan generators for Laravel |
-| 2026-10-12 18:08:01 | [phpmystic/typic](https://www.nuget.org/packages/phpmystic%2Ftypic) | v0.1.0 |  | Modern, code-first, attribute-driven GraphQL framework for PHP |
+| 2026-10-12 18:19:16 | [adaa/shipping](https://www.nuget.org/packages/adaa%2Fshipping) | v0.1.0 | AdaaSystem | Framework-agnostic multi-carrier shipping library for PHP with optional Laravel… |
+| 2026-10-12 18:21:45 | [adaa/shipping-filament](https://www.nuget.org/packages/adaa%2Fshipping-filament) | v0.2.0 | AdaaSystem | Optional Filament admin UI for adaa/shipping: manage platform and merchant ship… |
+| 2026-10-12 18:39:28 | [wilycode/profiler](https://www.nuget.org/packages/wilycode%2Fprofiler) | v0.1.0 | Simon Piter | Framework-independent profiling contracts and value objects for PHP. |
+| 2026-10-12 18:55:57 | [manuxi/sulu-glossary-bundle](https://www.nuget.org/packages/manuxi%2Fsulu-glossary-bundle) | v1.0.0 | Manuxi | Glossary bundle for Sulu CMS: abbreviations, acronyms and terms with draft/live… |
+| 2026-10-12 18:59:25 | [wilycode/profiler-php](https://www.nuget.org/packages/wilycode%2Fprofiler-php) | v0.1.0 | Simon Piter | Framework-independent PHP profiler with aggregated metrics, traces and Server-T… |
+| 2026-10-12 19:03:30 | [reagordi/package-template](https://www.nuget.org/packages/reagordi%2Fpackage-template) | 1.0 |  | Package template for creating repositories |
+| 2026-10-12 19:05:05 | [php-io-extensions/box2d](https://www.nuget.org/packages/php-io-extensions%2Fbox2d) | v0.10.5 | Project Saturn Studios, LLC | 1:1 PHP bindings of Box2D 3.1.1, with the library compiled into the extension |
+| 2026-10-12 19:07:45 | [khush/india-pincodes](https://www.nuget.org/packages/khush%2Findia-pincodes) | v1.0.0 | Khush | Offline India PIN code lookup: every post office for a PIN with its type, deliv… |
+| 2026-10-12 19:09:47 | [stuttter/wp-term-colors](https://www.nuget.org/packages/stuttter%2Fwp-term-colors) | 2.0.0 | John James Jacoby | Pretty colors for categories, tags, and other taxonomy terms |
+| 2026-10-12 19:13:26 | [automattic/jetpack-woocommerce-stats](https://www.nuget.org/packages/automattic%2Fjetpack-woocommerce-stats) | v0.1.0 |  | WooCommerce: the WooCommerce section of the Premium Analytics dashboard. |
+| 2026-10-12 19:14:10 | [wilycode/router-profiler](https://www.nuget.org/packages/wilycode%2Frouter-profiler) | v0.1.0 | Simon Piter | Optional routing and controller performance diagnostics for WilyCode Router. |
 
 ## Data source
 

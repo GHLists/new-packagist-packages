@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-10-12T18:19:16Z,adaa/shipping,v0.1.0,AdaaSystem,"Framework-agnostic multi-carrier shipping library for PHP with optional Laravel integration. Platform-owned and merchant-owned connections, normalized statuses, idempotent shipments."
+2026-10-12T18:21:45Z,adaa/shipping-filament,v0.2.0,AdaaSystem,Optional Filament admin UI for adaa/shipping: manage platform and merchant shipping connections and shipments.
+2026-10-12T18:39:28Z,wilycode/profiler,v0.1.0,Simon Piter,Framework-independent profiling contracts and value objects for PHP.
+2026-10-12T18:55:57Z,manuxi/sulu-glossary-bundle,v1.0.0,Manuxi,"Glossary bundle for Sulu CMS: abbreviations, acronyms and terms with draft/live publishing"
+2026-10-12T18:59:25Z,wilycode/profiler-php,v0.1.0,Simon Piter,"Framework-independent PHP profiler with aggregated metrics, traces and Server-Timing support."
+2026-10-12T19:03:30Z,reagordi/package-template,1.0,,Package template for creating repositories
+2026-10-12T19:05:05Z,php-io-extensions/box2d,v0.10.5,"Project Saturn Studios, LLC","1:1 PHP bindings of Box2D 3.1.1, with the library compiled into the extension"
+2026-10-12T19:07:45Z,khush/india-pincodes,v1.0.0,Khush,"Offline India PIN code lookup: every post office for a PIN with its type, delivery status, district and state, plus the list of Indian states and union territories."
+2026-10-12T19:09:47Z,stuttter/wp-term-colors,2.0.0,John James Jacoby,"Pretty colors for categories, tags, and other taxonomy terms"
+2026-10-12T19:13:26Z,automattic/jetpack-woocommerce-stats,v0.1.0,,WooCommerce: the WooCommerce section of the Premium Analytics dashboard.
+2026-10-12T19:14:10Z,wilycode/router-profiler,v0.1.0,Simon Piter,Optional routing and controller performance diagnostics for WilyCode Router.
