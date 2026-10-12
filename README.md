@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 14:21 UTC
+## Latest list — 2026-10-12 15:22 UTC
 
-New packages created between 2026-10-12 13:18 UTC and 2026-10-12 14:21 UTC.
+New packages created between 2026-10-12 14:21 UTC and 2026-10-12 15:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T14-21-41-940083Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-12T15-22-01-00992Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-12 13:31:39 | [zcwilt/forumkit-forums](https://www.nuget.org/packages/zcwilt%2Fforumkit-forums) | v0.1.0 |  | Forums for ForumKit: forum groups, forums, threads and posts, visibility and po… |
-| 2026-10-12 13:31:56 | [ichinya/laratesto-rector](https://www.nuget.org/packages/ichinya%2Flaratesto-rector) | 0.1.0 | Ichi | Rector rules to migrate Laravel PHPUnit test suites to Laratesto. |
-| 2026-10-12 13:38:04 | [momh/shroud](https://www.nuget.org/packages/momh%2Fshroud) | v0.1.0 | bricebou | Deterministic, CMS-agnostic pseudonymisation of a relational database: consiste… |
-| 2026-10-12 13:58:33 | [mdoq/infrastructure](https://www.nuget.org/packages/mdoq%2Finfrastructure) | 1.0.0 |  | MDOQ infrastructure module for MAP integration |
-| 2026-10-12 14:02:29 | [zero1/request-limiter](https://www.nuget.org/packages/zero1%2Frequest-limiter) | 1.0.0 |  | Request limiter for Magento 2 |
+| 2026-10-12 14:37:38 | [echo-fusion/framework](https://www.nuget.org/packages/echo-fusion%2Fframework) | v1.2.1 | Amir Shadanfar | The EchoFusion framework: a kernel that boots configuration, modules, service p… |
+| 2026-10-12 14:45:37 | [cosmira/nginx-pushstream-broadcaster](https://www.nuget.org/packages/cosmira%2Fnginx-pushstream-broadcaster) | v1.0.0 | Alexandr Chernyaev | Laravel broadcast driver and HTTP publisher for nginx Push Stream. |
+| 2026-10-12 14:51:14 | [echo-fusion/echo-fusion](https://www.nuget.org/packages/echo-fusion%2Fecho-fusion) | v1.1.0 | Amir Shadanfar | The EchoFusion application skeleton. Start a project with: composer create-proj… |
+| 2026-10-12 14:51:18 | [r-portal/t-field](https://www.nuget.org/packages/r-portal%2Ft-field) | v1.0.0 | rochev yakov | Common contracts for the fields |
+| 2026-10-12 14:59:58 | [pollora/attributes](https://www.nuget.org/packages/pollora%2Fattributes) | v0.1.0 | Amphibee | PHP attributes to declare WordPress post types, taxonomies, hooks, REST routes,… |
 
 ## Data source
 
