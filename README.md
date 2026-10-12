@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 04:20 UTC
+## Latest list — 2026-10-12 05:19 UTC
 
-New packages created between 2026-10-12 03:20 UTC and 2026-10-12 04:20 UTC.
+New packages created between 2026-10-12 04:20 UTC and 2026-10-12 05:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T04-20-21-917403Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-12T05-19-38-888621Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-12 03:50:51 | [sajjadhossainshohag/laravel-lang-cache](https://www.nuget.org/packages/sajjadhossainshohag%2Flaravel-lang-cache) | v1.0.0 | Sajjad Hossain Shohag | Compile Laravel translation files into a single cached PHP file with php artisa… |
-| 2026-10-12 03:54:30 | [projectsaturnstudios/forte](https://www.nuget.org/packages/projectsaturnstudios%2Fforte) | v0.10.0 | Angel Gonzalez; Taylor Otwell… | Drop-in replacement for Laravel Reverb on an epoll/kqueue event loop. |
+| 2026-10-12 04:45:02 | [cymdeveloppement/roundcube-announcement](https://www.nuget.org/packages/cymdeveloppement%2Froundcube-announcement) | v1.0.0 | Yann Challet | Shows HTML or Markdown announcements (dialog or banner) once per user when they… |
 
 ## Data source
 

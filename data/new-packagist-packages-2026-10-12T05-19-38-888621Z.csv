@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-12T04:45:02Z,cymdeveloppement/roundcube-announcement,v1.0.0,Yann Challet,Shows HTML or Markdown announcements (dialog or banner) once per user when they open their mailbox
