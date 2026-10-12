@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 05:19 UTC
+## Latest list — 2026-10-12 06:20 UTC
 
-New packages created between 2026-10-12 04:20 UTC and 2026-10-12 05:19 UTC.
+New packages created between 2026-10-12 05:19 UTC and 2026-10-12 06:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T05-19-38-888621Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-12T06-20-07-167812Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-12 04:45:02 | [cymdeveloppement/roundcube-announcement](https://www.nuget.org/packages/cymdeveloppement%2Froundcube-announcement) | v1.0.0 | Yann Challet | Shows HTML or Markdown announcements (dialog or banner) once per user when they… |
+| 2026-10-12 05:40:28 | [drevops/eddy-tooling](https://www.nuget.org/packages/drevops%2Feddy-tooling) | 1.0.0 | Alex Skrypnyk | Commands that build, run, test and deploy Drupal extensions created from Eddy. |
+| 2026-10-12 05:47:23 | [phattarachai/git-prompt](https://www.nuget.org/packages/phattarachai%2Fgit-prompt) | v1.0.1 | Phattarachai | A PHPStorm-style git branch popup for the terminal — search branches and action… |
+| 2026-10-12 05:54:05 | [apricot/shoutbox](https://www.nuget.org/packages/apricot%2Fshoutbox) | 0.5.0 | Alex Brindley | An example apricot extension. Tiny shoutbox that touches all basics |
 
 ## Data source
 
