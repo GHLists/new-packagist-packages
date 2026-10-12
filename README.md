@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 00:21 UTC
+## Latest list — 2026-10-12 01:19 UTC
 
-New packages created between 2026-10-11 23:20 UTC and 2026-10-12 00:21 UTC.
+New packages created between 2026-10-12 00:21 UTC and 2026-10-12 01:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T00-21-59-527312Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-12T01-19-43-054311Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-11 23:43:03 | [wilycode/router-attribute](https://www.nuget.org/packages/wilycode%2Frouter-attribute) | v0.1.0 | Simon Piter | PHP 8.4 attribute-based route discovery and caching for WilyCode Router. |
-| 2026-10-11 23:43:44 | [aldemeery/refined](https://www.nuget.org/packages/aldemeery%2Frefined) | v0.1.0 | Osama Aldemeery | Immutable wrapper types for PHP that enforce value constraints at construction |
-| 2026-10-11 23:48:59 | [hanssuite/hanscrypt](https://www.nuget.org/packages/hanssuite%2Fhanscrypt) | v1.0.1 | Nusantara Innovation Technolo… | Framework-agnostic AES-256-GCM ID/URL obfuscation, with first-class Laravel and… |
-| 2026-10-12 00:05:55 | [singraworks/laravel-asaas](https://www.nuget.org/packages/singraworks%2Flaravel-asaas) | v0.1.0 | Lucas Vasconcelos | Typed Laravel SDK for the Asaas payments API. |
+| 2026-10-12 00:35:34 | [scottoffen/wp-github-updater](https://www.nuget.org/packages/scottoffen%2Fwp-github-updater) | v0.1.0 | Scott Offen | Update WordPress plugins and themes from GitHub releases using both public and… |
+| 2026-10-12 00:52:06 | [linkfast/exengine-cli](https://www.nuget.org/packages/linkfast%2Fexengine-cli) | 1.0.0-a1 | Giancarlo A. Chiappe | exen: command line tool for the ExEngine microframework (new projects, dev serv… |
+| 2026-10-12 01:11:49 | [linkfast/exengine-roadrunner](https://www.nuget.org/packages/linkfast%2Fexengine-roadrunner) | 1.0.0-a1 | Giancarlo A. Chiappe | RoadRunner application server support for the ExEngine microframework: long-run… |
 
 ## Data source
 

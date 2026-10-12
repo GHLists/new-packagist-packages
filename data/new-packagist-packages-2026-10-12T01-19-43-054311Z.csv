@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-12T00:35:34Z,scottoffen/wp-github-updater,v0.1.0,Scott Offen,Update WordPress plugins and themes from GitHub releases using both public and private repositories.
+2026-10-12T00:52:06Z,linkfast/exengine-cli,1.0.0-a1,Giancarlo A. Chiappe,"exen: command line tool for the ExEngine microframework (new projects, dev server, generators, extensions)."
+2026-10-12T01:11:49Z,linkfast/exengine-roadrunner,1.0.0-a1,Giancarlo A. Chiappe,RoadRunner application server support for the ExEngine microframework: long-running HTTP workers.
