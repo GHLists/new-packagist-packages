@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-12T19:23:16Z,tmonier/sylius-b2b-mcp-plugin,v1.0.0,Thibaut Monier,"B2B tools for the official Sylius MCP server: signed-in buyers use Claude or ChatGPT to list and reorder their orders, quick order by SKU, request quotes and read their trade credit statement (OAuth 2.1 with PKCE, checkout handoff to the shop)"
+2026-10-12T19:31:50Z,roadrunner/cli,3.0.0,Anton Titov; RoadRunner Community,RoadRunner command-line tool: downloads the RoadRunner binary and generates its configuration
+2026-10-12T19:47:45Z,wilycode/container,v0.1.0,Simon Piter,Lightweight PSR-11 dependency injection container with explicit factories and constructor autowiring.
+2026-10-12T19:49:05Z,korioinc/laravel-expo-integrity,v1.0.0,korioinc,Verify Expo request HMAC signatures and prevent replay in Laravel with file or Redis cache
+2026-10-12T20:11:06Z,wilycode/cache-file,v0.1.0,Simon Piter,Lightweight PSR-16 file cache with atomic writes and TTL support.
+2026-10-12T20:14:19Z,tamarackdb/tamarackdb-php,v0.4.0,,"PHP client for TamarackDB, an event store compliant with the DCB specification."
