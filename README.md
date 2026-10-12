@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 22:19 UTC
+## Latest list — 2026-10-12 23:19 UTC
 
-New packages created between 2026-10-12 21:19 UTC and 2026-10-12 22:19 UTC.
+New packages created between 2026-10-12 22:19 UTC and 2026-10-12 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T22-19-30-606576Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-12T23-19-22-428785Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-12 21:26:36 | [wilycode/logger-file](https://www.nuget.org/packages/wilycode%2Flogger-file) | v0.1.0 | Simon Piter | Lightweight PSR-3 file logger with channels, level filtering, structured contex… |
-| 2026-10-12 21:40:38 | [wilycode/database-driver](https://www.nuget.org/packages/wilycode%2Fdatabase-driver) | v0.1.0 | Simon Piter | Database-agnostic connection, query, and transaction contracts for WilyCode PHP… |
-| 2026-10-12 21:43:05 | [besmartand-pro/bsap-sensor-client](https://www.nuget.org/packages/besmartand-pro%2Fbsap-sensor-client) | 1.0.0 | BeSmartAnd.Pro | Framework-independent PHP client for the BeSmartAnd.Pro Sensor API. |
-| 2026-10-12 22:02:31 | [besmartand-pro/bsap-sensor-bundle](https://www.nuget.org/packages/besmartand-pro%2Fbsap-sensor-bundle) | 1.0.0 | BeSmartAnd.Pro | Symfony integration for the BeSmartAnd.Pro Sensor PHP client. |
+| 2026-10-12 22:30:12 | [julioserpone/gig-economics](https://www.nuget.org/packages/julioserpone%2Fgig-economics) | v1.0.0 | Julio Serpone | Platform-agnostic, decoupled PHP library to measure fuel efficiency and the rea… |
+| 2026-10-12 22:31:22 | [wilycode/database-query](https://www.nuget.org/packages/wilycode%2Fdatabase-query) | v0.1.0 | Simon Piter | Lightweight SQL query builder, canonical compiled queries, and driver binding c… |
+| 2026-10-12 22:58:55 | [treehousetim/waffle](https://www.nuget.org/packages/treehousetim%2Fwaffle) | v0.1.0 | Tim Gallagher | Waffle Application Framework For Lazy Engineers: a test-first starting point fo… |
+| 2026-10-12 23:01:16 | [wilycode/database-driver-pdo](https://www.nuget.org/packages/wilycode%2Fdatabase-driver-pdo) | v0.1.0 | Simon Piter | PDO database driver implementing WilyCode database contracts, with a query para… |
 
 ## Data source
 

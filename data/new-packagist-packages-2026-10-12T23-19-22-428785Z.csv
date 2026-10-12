@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-12T22:30:12Z,julioserpone/gig-economics,v1.0.0,Julio Serpone,"Platform-agnostic, decoupled PHP library to measure fuel efficiency and the real profitability of a trip taken on Uber, DiDi, inDrive, Lyft or any ride-hailing platform."
+2026-10-12T22:31:22Z,wilycode/database-query,v0.1.0,Simon Piter,"Lightweight SQL query builder, canonical compiled queries, and driver binding contracts for PHP."
+2026-10-12T22:58:55Z,treehousetim/waffle,v0.1.0,Tim Gallagher,"Waffle Application Framework For Lazy Engineers: a test-first starting point for PHP 8.5 + Slim 4 + Vue 3 web apps, with Docker Compose, Doppler secrets and a one-server GitHub Actions deploy."
+2026-10-12T23:01:16Z,wilycode/database-driver-pdo,v0.1.0,Simon Piter,"PDO database driver implementing WilyCode database contracts, with a query parameter binder."
