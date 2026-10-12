@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-12T10:27:29Z,ssekyanzijackson/laravel-agent-web-search,v0.1.0,Jackson Mwesigwa,"Keyless web search and read tools for any Laravel AI agent: measured deadlines, batched reads, works on any provider."
+2026-10-12T10:27:47Z,invoicexml/zugferd-xrechnung,v1.0.0,InvoiceXML,"PHP client for ZUGFeRD and XRechnung e-invoices: create, validate, embed, render and extract EN 16931 invoices with the InvoiceXML API."
+2026-10-12T10:27:50Z,invoicexml/facturx,v1.0.0,InvoiceXML,"PHP client for Factur-X e-invoices: create, validate, embed and extract EN 16931 invoices with the InvoiceXML API."
+2026-10-12T10:32:09Z,echo-fusion/databasemanager,v1.0.0,Amir Shadanfar,"A small, replaceable database layer for EchoFusion: a PDO connection, a query builder, named connections and an optional Doctrine DBAL adapter, all behind one contract."
+2026-10-12T10:44:49Z,stejac/guarded-chat-bundle,v1.0.1,Stefan Jacomeit,"Guardrails for public AI chats in Symfony apps: prompt versioning, injection prefilter, kill switch, budget and rate limits, signed sessions, retention. Built on Symfony AI."
+2026-10-12T10:52:17Z,echo-fusion/authmanager,v1.0.0,Amir Shadanfar,"Authentication for EchoFusion: session and token guards, pluggable user providers and PSR-15 middleware. Depends only on echo-fusion/contracts and PSR interfaces."
+2026-10-12T11:08:42Z,ravenrelay/php,v0.1.0,,Server-side PHP SDK for the RavenRelay email API
