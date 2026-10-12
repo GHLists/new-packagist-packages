@@ -15,20 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 20:21 UTC
+## Latest list — 2026-10-12 21:19 UTC
 
-New packages created between 2026-10-12 19:19 UTC and 2026-10-12 20:21 UTC.
+New packages created between 2026-10-12 20:21 UTC and 2026-10-12 21:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T20-21-17-899336Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-12T21-19-52-475015Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-12 19:23:16 | [tmonier/sylius-b2b-mcp-plugin](https://www.nuget.org/packages/tmonier%2Fsylius-b2b-mcp-plugin) | v1.0.0 | Thibaut Monier | B2B tools for the official Sylius MCP server: signed-in buyers use Claude or Ch… |
-| 2026-10-12 19:31:50 | [roadrunner/cli](https://www.nuget.org/packages/roadrunner%2Fcli) | 3.0.0 | Anton Titov; RoadRunner Commu… | RoadRunner command-line tool: downloads the RoadRunner binary and generates its… |
-| 2026-10-12 19:47:45 | [wilycode/container](https://www.nuget.org/packages/wilycode%2Fcontainer) | v0.1.0 | Simon Piter | Lightweight PSR-11 dependency injection container with explicit factories and c… |
-| 2026-10-12 19:49:05 | [korioinc/laravel-expo-integrity](https://www.nuget.org/packages/korioinc%2Flaravel-expo-integrity) | v1.0.0 | korioinc | Verify Expo request HMAC signatures and prevent replay in Laravel with file or… |
-| 2026-10-12 20:11:06 | [wilycode/cache-file](https://www.nuget.org/packages/wilycode%2Fcache-file) | v0.1.0 | Simon Piter | Lightweight PSR-16 file cache with atomic writes and TTL support. |
-| 2026-10-12 20:14:19 | [tamarackdb/tamarackdb-php](https://www.nuget.org/packages/tamarackdb%2Ftamarackdb-php) | v0.4.0 |  | PHP client for TamarackDB, an event store compliant with the DCB specification. |
+| 2026-10-12 20:24:48 | [publicala/laravel-resilient-redis](https://www.nuget.org/packages/publicala%2Flaravel-resilient-redis) | v1.0.0 | publica.la | Retry transient phpredis connect failures in Laravel, and give Laravel 11 and 1… |
+| 2026-10-12 20:32:04 | [laranex/laravel-schema-viewer](https://www.nuget.org/packages/laranex%2Flaravel-schema-viewer) | v1.0.0 | Nay Thu Khant | Schema viewer for Laravel: an interactive diagram of your database tables and E… |
+| 2026-10-12 20:32:22 | [xproapi/xproapi-php](https://www.nuget.org/packages/xproapi%2Fxproapi-php) | v1.0.0.0 |  | PHP client for the Xproapi X (Twitter) data API: profiles, followers, following… |
+| 2026-10-12 20:46:21 | [wilycode/dotenv](https://www.nuget.org/packages/wilycode%2Fdotenv) | v0.1.0 | Simon Piter | Strict, lightweight .env file reader and loader for PHP. |
+| 2026-10-12 20:48:02 | [specia1z/points](https://www.nuget.org/packages/specia1z%2Fpoints) | 2.0.0 | Specia1z | A configurable points and rewards system for Flarum. |
+| 2026-10-12 20:50:14 | [alien1225/basisu](https://www.nuget.org/packages/alien1225%2Fbasisu) | v0.1.0 |  |  |
+| 2026-10-12 20:57:00 | [wilycode/session](https://www.nuget.org/packages/wilycode%2Fsession) | v0.1.0 | Simon Piter | Storage-agnostic session contract with namespace-scoped key/value access for PH… |
+| 2026-10-12 21:12:35 | [wilycode/session-php](https://www.nuget.org/packages/wilycode%2Fsession-php) | v0.1.0 | Simon Piter | Native PHP session adapter with namespaced storage for wilycode/session. |
 
 ## Data source
 

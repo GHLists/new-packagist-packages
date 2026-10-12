@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-12T20:24:48Z,publicala/laravel-resilient-redis,v1.0.0,publica.la,"Retry transient phpredis connect failures in Laravel, and give Laravel 11 and 12 the lost-connection handling Laravel 13 ships."
+2026-10-12T20:32:04Z,laranex/laravel-schema-viewer,v1.0.0,Nay Thu Khant,Schema viewer for Laravel: an interactive diagram of your database tables and Eloquent relationships.
+2026-10-12T20:32:22Z,xproapi/xproapi-php,v1.0.0.0,,"PHP client for the Xproapi X (Twitter) data API: profiles, followers, followings, tweets, search."
+2026-10-12T20:46:21Z,wilycode/dotenv,v0.1.0,Simon Piter,"Strict, lightweight .env file reader and loader for PHP."
+2026-10-12T20:48:02Z,specia1z/points,2.0.0,Specia1z,A configurable points and rewards system for Flarum.
+2026-10-12T20:50:14Z,alien1225/basisu,v0.1.0,,
+2026-10-12T20:57:00Z,wilycode/session,v0.1.0,Simon Piter,Storage-agnostic session contract with namespace-scoped key/value access for PHP.
+2026-10-12T21:12:35Z,wilycode/session-php,v0.1.0,Simon Piter,Native PHP session adapter with namespaced storage for wilycode/session.
