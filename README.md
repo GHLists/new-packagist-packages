@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 01:19 UTC
+## Latest list — 2026-10-12 02:20 UTC
 
-New packages created between 2026-10-12 00:21 UTC and 2026-10-12 01:19 UTC.
+New packages created between 2026-10-12 01:19 UTC and 2026-10-12 02:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T01-19-43-054311Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-12T02-20-21-86104Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-12 00:35:34 | [scottoffen/wp-github-updater](https://www.nuget.org/packages/scottoffen%2Fwp-github-updater) | v0.1.0 | Scott Offen | Update WordPress plugins and themes from GitHub releases using both public and… |
-| 2026-10-12 00:52:06 | [linkfast/exengine-cli](https://www.nuget.org/packages/linkfast%2Fexengine-cli) | 1.0.0-a1 | Giancarlo A. Chiappe | exen: command line tool for the ExEngine microframework (new projects, dev serv… |
-| 2026-10-12 01:11:49 | [linkfast/exengine-roadrunner](https://www.nuget.org/packages/linkfast%2Fexengine-roadrunner) | 1.0.0-a1 | Giancarlo A. Chiappe | RoadRunner application server support for the ExEngine microframework: long-run… |
+| 2026-10-12 01:30:46 | [syahrulzzadie/satu-sehat](https://www.nuget.org/packages/syahrulzzadie%2Fsatu-sehat) | 1.3.1 | Syahrul Adiguna Kurniawan | Syahrul JS RSUI Harapan Anda - Satu Sehat |
+| 2026-10-12 01:42:17 | [lensen/base-erp-sdk](https://www.nuget.org/packages/lensen%2Fbase-erp-sdk) | v1.0.0 | haiyong | A base-erp-sdk(Baselinker) component for lensen. |
+| 2026-10-12 02:07:56 | [josephcrowell/wn-gdpr-plugin](https://www.nuget.org/packages/josephcrowell%2Fwn-gdpr-plugin) | 2.3.1 | Tobias Kündig; Hounddd - Dami… | Winter CMS plugin to make websites GDPR and ePrivacy compliant |
 
 ## Data source
 
