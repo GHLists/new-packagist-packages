@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-12T12:24:17Z,davingm/laravel-runtime,v1.0.0,,Internal Composer plugin that installs the Laravel runtime directory.
+2026-10-12T12:27:26Z,straschek-io/typo3-backend-feedback,v1.1.0,Michael Straschek,"Backend toolbar button for editors to send feedback such as a missing permission, with the current view attached, by mail"
+2026-10-12T12:32:41Z,liquiddesign/eshop-doryo-admin,v0.1.0,,"Zápis do administrace e-shopu pro Doryo/Kolego — headless spouštění admin presenterů: gridy ke čtení, formuláře a akce s náhledem a tokenem, hromadné úpravy"
+2026-10-12T13:07:13Z,hostkurd/flocms-admin,v0.1.0,HostKurd,"Admin panel builder for FloCMS: resources declared in PHP, server-rendered CRUD pages, translatable fields and RTL support."

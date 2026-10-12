@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 12:21 UTC
+## Latest list — 2026-10-12 13:18 UTC
 
-New packages created between 2026-10-12 11:18 UTC and 2026-10-12 12:21 UTC.
+New packages created between 2026-10-12 12:21 UTC and 2026-10-12 13:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T12-21-30-171626Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-12T13-18-54-742846Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-12 11:54:55 | [yourbureau/api-client](https://www.nuget.org/packages/yourbureau%2Fapi-client) | v1.0.1 | indual | PHP client for the yourBureau REST API v3 |
-| 2026-10-12 11:56:25 | [ontob/moonwatch-laravel](https://www.nuget.org/packages/ontob%2Fmoonwatch-laravel) | v0.1.0 |  | Reports a Laravel application's errors to Moonwatch. |
-| 2026-10-12 12:17:09 | [zeimoto/icons](https://www.nuget.org/packages/zeimoto%2Ficons) | v0.1.0 | zeimoto | Shared icons for the Kirby Panel. |
+| 2026-10-12 12:24:17 | [davingm/laravel-runtime](https://www.nuget.org/packages/davingm%2Flaravel-runtime) | v1.0.0 |  | Internal Composer plugin that installs the Laravel runtime directory. |
+| 2026-10-12 12:27:26 | [straschek-io/typo3-backend-feedback](https://www.nuget.org/packages/straschek-io%2Ftypo3-backend-feedback) | v1.1.0 | Michael Straschek | Backend toolbar button for editors to send feedback such as a missing permissio… |
+| 2026-10-12 12:32:41 | [liquiddesign/eshop-doryo-admin](https://www.nuget.org/packages/liquiddesign%2Feshop-doryo-admin) | v0.1.0 |  | Zápis do administrace e-shopu pro Doryo/Kolego — headless spouštění admin prese… |
+| 2026-10-12 13:07:13 | [hostkurd/flocms-admin](https://www.nuget.org/packages/hostkurd%2Fflocms-admin) | v0.1.0 | HostKurd | Admin panel builder for FloCMS: resources declared in PHP, server-rendered CRUD… |
 
 ## Data source
 
