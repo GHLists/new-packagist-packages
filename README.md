@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 03:20 UTC
+## Latest list — 2026-10-12 04:20 UTC
 
-New packages created between 2026-10-12 02:20 UTC and 2026-10-12 03:20 UTC.
+New packages created between 2026-10-12 03:20 UTC and 2026-10-12 04:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T03-20-19-383404Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-12T04-20-21-917403Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-12 02:39:42 | [proesio/rutalo](https://www.nuget.org/packages/proesio%2Frutalo) | v1.0.0 | Juan Felipe Valencia Murillo | Rutalo - Enrutador en Español. |
-| 2026-10-12 02:41:25 | [jewei/app-attest-php](https://www.nuget.org/packages/jewei%2Fapp-attest-php) | v0.1.0 | Jewei Mak | Verify Apple App Attest attestations and assertions in PHP, with no dependencie… |
+| 2026-10-12 03:50:51 | [sajjadhossainshohag/laravel-lang-cache](https://www.nuget.org/packages/sajjadhossainshohag%2Flaravel-lang-cache) | v1.0.0 | Sajjad Hossain Shohag | Compile Laravel translation files into a single cached PHP file with php artisa… |
+| 2026-10-12 03:54:30 | [projectsaturnstudios/forte](https://www.nuget.org/packages/projectsaturnstudios%2Fforte) | v0.10.0 | Angel Gonzalez; Taylor Otwell… | Drop-in replacement for Laravel Reverb on an epoll/kqueue event loop. |
 
 ## Data source
 

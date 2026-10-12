@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-12T03:50:51Z,sajjadhossainshohag/laravel-lang-cache,v1.0.0,Sajjad Hossain Shohag,Compile Laravel translation files into a single cached PHP file with php artisan lang:cache.
+2026-10-12T03:54:30Z,projectsaturnstudios/forte,v0.10.0,Angel Gonzalez; Taylor Otwell; Joe Dixon,Drop-in replacement for Laravel Reverb on an epoll/kqueue event loop.
