@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-12T21:26:36Z,wilycode/logger-file,v0.1.0,Simon Piter,"Lightweight PSR-3 file logger with channels, level filtering, structured context and atomic appends."
+2026-10-12T21:40:38Z,wilycode/database-driver,v0.1.0,Simon Piter,"Database-agnostic connection, query, and transaction contracts for WilyCode PHP drivers."
+2026-10-12T21:43:05Z,besmartand-pro/bsap-sensor-client,1.0.0,BeSmartAnd.Pro,Framework-independent PHP client for the BeSmartAnd.Pro Sensor API.
+2026-10-12T22:02:31Z,besmartand-pro/bsap-sensor-bundle,1.0.0,BeSmartAnd.Pro,Symfony integration for the BeSmartAnd.Pro Sensor PHP client.
