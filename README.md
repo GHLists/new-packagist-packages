@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 02:20 UTC
+## Latest list — 2026-10-12 03:20 UTC
 
-New packages created between 2026-10-12 01:19 UTC and 2026-10-12 02:20 UTC.
+New packages created between 2026-10-12 02:20 UTC and 2026-10-12 03:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T02-20-21-86104Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-12T03-20-19-383404Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-12 01:30:46 | [syahrulzzadie/satu-sehat](https://www.nuget.org/packages/syahrulzzadie%2Fsatu-sehat) | 1.3.1 | Syahrul Adiguna Kurniawan | Syahrul JS RSUI Harapan Anda - Satu Sehat |
-| 2026-10-12 01:42:17 | [lensen/base-erp-sdk](https://www.nuget.org/packages/lensen%2Fbase-erp-sdk) | v1.0.0 | haiyong | A base-erp-sdk(Baselinker) component for lensen. |
-| 2026-10-12 02:07:56 | [josephcrowell/wn-gdpr-plugin](https://www.nuget.org/packages/josephcrowell%2Fwn-gdpr-plugin) | 2.3.1 | Tobias Kündig; Hounddd - Dami… | Winter CMS plugin to make websites GDPR and ePrivacy compliant |
+| 2026-10-12 02:39:42 | [proesio/rutalo](https://www.nuget.org/packages/proesio%2Frutalo) | v1.0.0 | Juan Felipe Valencia Murillo | Rutalo - Enrutador en Español. |
+| 2026-10-12 02:41:25 | [jewei/app-attest-php](https://www.nuget.org/packages/jewei%2Fapp-attest-php) | v0.1.0 | Jewei Mak | Verify Apple App Attest attestations and assertions in PHP, with no dependencie… |
 
 ## Data source
 
