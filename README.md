@@ -15,26 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 13:20 UTC
+## Latest list — 2026-10-13 14:20 UTC
 
-New packages created between 2026-10-13 12:19 UTC and 2026-10-13 13:20 UTC.
+New packages created between 2026-10-13 13:20 UTC and 2026-10-13 14:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-13T13-20-40-187586Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-13T14-20-22-041716Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-13 12:26:32 | [j87nl/laravel-mailbox](https://www.nuget.org/packages/j87nl%2Flaravel-mailbox) | 0.1.1 | Johan | Shared IMAP/SMTP mailboxes for Laravel: sync, folder actions, sending and an au… |
-| 2026-10-13 12:26:35 | [j87nl/laravel-vue-mailbox](https://www.nuget.org/packages/j87nl%2Flaravel-vue-mailbox) | 0.1.0 | Johan | A VueJS/Inertia shared mailbox UI for j87nl/laravel-mailbox, built on the FormB… |
-| 2026-10-13 12:35:06 | [slohmaier/roundcube_caldav_suite](https://www.nuget.org/packages/slohmaier%2Froundcube_caldav_suite) | v1.1.0 | Stefan Lohmaier | CalDAV Calendar & Tasks plugin for Roundcube - connects to any CalDAV server |
-| 2026-10-13 12:44:43 | [givanov95/laravel-shipping-boxnow](https://www.nuget.org/packages/givanov95%2Flaravel-shipping-boxnow) | v0.1.1 | Georgi Ivanov | BoxNow lockers as a delivery method of a Laravel shop: the API client and the a… |
-| 2026-10-13 12:44:43 | [givanov95/laravel-shipping-econt](https://www.nuget.org/packages/givanov95%2Flaravel-shipping-econt) | v0.1.0 | Georgi Ivanov | Econt as a delivery method of a Laravel shop: the API client and the adapter to… |
-| 2026-10-13 12:44:43 | [givanov95/laravel-shipping-speedy](https://www.nuget.org/packages/givanov95%2Flaravel-shipping-speedy) | v0.1.0 | Georgi Ivanov | Speedy as a delivery method of a Laravel shop: the API client and the adapter t… |
-| 2026-10-13 12:45:46 | [balpom/simple-cache](https://www.nuget.org/packages/balpom%2Fsimple-cache) | v0.1.1 | Mikhail (Balpom) | Simple realisation of simple PSR16 cache. |
-| 2026-10-13 12:50:52 | [mtubis/html-translator](https://www.nuget.org/packages/mtubis%2Fhtml-translator) | v0.4.0 | Magdalena Tubis | Translate HTML with LLMs (OpenAI, Anthropic, Gemini, Ollama, …) while preservin… |
-| 2026-10-13 12:50:55 | [artisan-build/wake-client](https://www.nuget.org/packages/artisan-build%2Fwake-client) | v0.1.0 |  | The Laravel log client for a self-hosted Wake server. |
-| 2026-10-13 12:50:58 | [artisan-build/wake-contracts](https://www.nuget.org/packages/artisan-build%2Fwake-contracts) | v0.1.0 |  | The versioned wire contracts shared by the Wake client and server. |
-| 2026-10-13 12:51:01 | [artisan-build/wake-server](https://www.nuget.org/packages/artisan-build%2Fwake-server) | v0.1.0 |  | The ingest, storage, and MCP server package for Wake. |
-| 2026-10-13 12:59:12 | [keychat/bots](https://www.nuget.org/packages/keychat%2Fbots) | v0.1.0 |  | Official PHP SDK for Key Chat bots |
+| 2026-10-13 13:23:48 | [forge/archive](https://www.nuget.org/packages/forge%2Farchive) | v0.1.0 |  | Archive extraction and creation for macOS |
+| 2026-10-13 13:42:54 | [mage-obsidian/module-inventory-in-store-pickup](https://www.nuget.org/packages/mage-obsidian%2Fmodule-inventory-in-store-pickup) | 4.1.0 |  | In-store pickup for the MageObsidian checkout: a delivery method selector and a… |
+| 2026-10-13 13:43:55 | [tranquil-tools/laravel-table-builder](https://www.nuget.org/packages/tranquil-tools%2Flaravel-table-builder) | 1.0.0 | ComfyCoders BV | Define Laravel tables in PHP: columns, filters, search, sorting, bulk and row a… |
+| 2026-10-13 13:44:14 | [stellarwp/banners](https://www.nuget.org/packages/stellarwp%2Fbanners) | 1.0.0 | StellarWP; Dimi | Marketing banners for WordPress admin pages, dismissed per user across every pl… |
+| 2026-10-13 13:47:03 | [kalp707/maho-razorpay](https://www.nuget.org/packages/kalp707%2Fmaho-razorpay) | 1.0.0 |  | Razorpay payment gateway module for Maho Commerce |
+| 2026-10-13 13:48:04 | [medienbaecker/kirby-editoria11y](https://www.nuget.org/packages/medienbaecker%2Fkirby-editoria11y) | 0.1.0 | Thomas Günther | Editoria11y accessibility checker for Kirby editors |
+| 2026-10-13 13:48:29 | [esfahanahan/phpstan-rules](https://www.nuget.org/packages/esfahanahan%2Fphpstan-rules) | v1.0.1 | EsfahanAhan | Custom PHPStan rules and extensions for EsfahanAhan. |
+| 2026-10-13 13:50:44 | [sitekit/docs](https://www.nuget.org/packages/sitekit%2Fdocs) | 1.0.0 | Sitekit | 编写文档：包括分类和文档，并支持前端浏览。 |
+| 2026-10-13 14:05:33 | [artisanpack-ui/ecommerce-storefront-livewire](https://www.nuget.org/packages/artisanpack-ui%2Fecommerce-storefront-livewire) | v1.0.0 | Jacob Martella | Livewire storefront for the ArtisanPack UI ecommerce engine. |
 
 ## Data source
 

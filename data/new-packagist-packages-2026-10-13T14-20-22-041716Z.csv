@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-13T13:23:48Z,forge/archive,v0.1.0,,Archive extraction and creation for macOS
+2026-10-13T13:42:54Z,mage-obsidian/module-inventory-in-store-pickup,4.1.0,,In-store pickup for the MageObsidian checkout: a delivery method selector and a pickup location finder over the Multi-Source Inventory pickup endpoints. Optional: stores without MSI do not install it.
+2026-10-13T13:43:55Z,tranquil-tools/laravel-table-builder,1.0.0,ComfyCoders BV,"Define Laravel tables in PHP: columns, filters, search, sorting, bulk and row actions, export and reordering, independent of any frontend"
+2026-10-13T13:44:14Z,stellarwp/banners,1.0.0,StellarWP; Dimi,"Marketing banners for WordPress admin pages, dismissed per user across every plugin that bundles them."
+2026-10-13T13:47:03Z,kalp707/maho-razorpay,1.0.0,,Razorpay payment gateway module for Maho Commerce
+2026-10-13T13:48:04Z,medienbaecker/kirby-editoria11y,0.1.0,Thomas Günther,Editoria11y accessibility checker for Kirby editors
+2026-10-13T13:48:29Z,esfahanahan/phpstan-rules,v1.0.1,EsfahanAhan,Custom PHPStan rules and extensions for EsfahanAhan.
+2026-10-13T13:50:44Z,sitekit/docs,1.0.0,Sitekit,编写文档：包括分类和文档，并支持前端浏览。
+2026-10-13T14:05:33Z,artisanpack-ui/ecommerce-storefront-livewire,v1.0.0,Jacob Martella,Livewire storefront for the ArtisanPack UI ecommerce engine.
