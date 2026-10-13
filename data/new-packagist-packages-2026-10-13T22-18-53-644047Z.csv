@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-13T21:36:09Z,gatovel/storage,v1.0.0,,Sistema modular e independente de gerenciamento de arquivos para aplicações PHP.
+2026-10-13T21:42:22Z,wilycode/translation-languages,v0.1.0,Simon Piter,Language pluralization rules and configurable locale formatting resources for WilyCode Translation.
+2026-10-13T21:42:48Z,koh/typo3-indexnow,v1.0.12,Kai Ole Hartwig,"IndexNow for TYPO3: tells search engines within minutes which pages were published, changed, scheduled or removed. Per-host keys without configuration, a hard stop for non-production hosts, a retrying queue."
+2026-10-13T21:44:28Z,firasarafah/laronclad,v0.1.0-alpha,Firas Arafah,Runtime monitoring and protection layer for Laravel applications.
+2026-10-13T21:59:51Z,fiber-interop/curl,v0.1.1,,"Cooperative curl_exec() for fiber-interop/api: async\curl\exec() and start() on any adapter, with native drivers where the runtime has one."
+2026-10-13T22:01:24Z,fiber-interop/guzzle,v0.1.1,,"Guzzle handler for fiber-interop/api: concurrent Guzzle requests in fibers on any adapter, via fiber-interop/curl."

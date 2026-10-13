@@ -15,22 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 21:23 UTC
+## Latest list — 2026-10-13 22:18 UTC
 
-New packages created between 2026-10-13 20:19 UTC and 2026-10-13 21:23 UTC.
+New packages created between 2026-10-13 21:23 UTC and 2026-10-13 22:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-13T21-23-46-852866Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-13T22-18-53-644047Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-13 20:26:26 | [artisan-toolbox/qztray](https://www.nuget.org/packages/artisan-toolbox%2Fqztray) | 1.0.0 | Allan Mariucci Carvalho | QZ Tray Connector bridges Laravel and your frontend through a unified abstracti… |
-| 2026-10-13 20:29:51 | [siratik/baseline](https://www.nuget.org/packages/siratik%2Fbaseline) | v0.1.0 | Built North | Baseline WordPress hardening, cleanup and mime-type support |
-| 2026-10-13 20:29:52 | [siratik/environment-indicator](https://www.nuget.org/packages/siratik%2Fenvironment-indicator) | v0.1.0 | Built North | Admin-bar indicator showing which environment a WordPress site is running in |
-| 2026-10-13 20:33:36 | [alantiller/auth](https://www.nuget.org/packages/alantiller%2Fauth) | v1.0.0 | Alan Tiller | The simple, secure and easy to use authentication library |
-| 2026-10-13 20:39:49 | [sabroan/http-emitter-interface](https://www.nuget.org/packages/sabroan%2Fhttp-emitter-interface) | 1.0.0.0 |  | A PHP interface for emitting PSR-7 HTTP responses |
-| 2026-10-13 20:40:18 | [filagora/filagora-cms](https://www.nuget.org/packages/filagora%2Ffilagora-cms) | v0.2.0 |  | Pages, blocks, navigations, media and a draft, version, schedule and preview wo… |
-| 2026-10-13 20:44:36 | [anis-ly/partners](https://www.nuget.org/packages/anis-ly%2Fpartners) | v2.0.1 | Aniscom for Technical Service… | The PHP SDK for the Anis Partner API — signed requests, verified responses, typ… |
-| 2026-10-13 21:00:45 | [wilycode/translation](https://www.nuget.org/packages/wilycode%2Ftranslation) | v0.1.0 | Simon Piter | Framework-agnostic translation, pluralization, and locale formatting contracts… |
+| 2026-10-13 21:36:09 | [gatovel/storage](https://www.nuget.org/packages/gatovel%2Fstorage) | v1.0.0 |  | Sistema modular e independente de gerenciamento de arquivos para aplicações PHP. |
+| 2026-10-13 21:42:22 | [wilycode/translation-languages](https://www.nuget.org/packages/wilycode%2Ftranslation-languages) | v0.1.0 | Simon Piter | Language pluralization rules and configurable locale formatting resources for W… |
+| 2026-10-13 21:42:48 | [koh/typo3-indexnow](https://www.nuget.org/packages/koh%2Ftypo3-indexnow) | v1.0.12 | Kai Ole Hartwig | IndexNow for TYPO3: tells search engines within minutes which pages were publis… |
+| 2026-10-13 21:44:28 | [firasarafah/laronclad](https://www.nuget.org/packages/firasarafah%2Flaronclad) | v0.1.0-alpha | Firas Arafah | Runtime monitoring and protection layer for Laravel applications. |
+| 2026-10-13 21:59:51 | [fiber-interop/curl](https://www.nuget.org/packages/fiber-interop%2Fcurl) | v0.1.1 |  | Cooperative curl_exec() for fiber-interop/api: async\curl\exec() and start() on… |
+| 2026-10-13 22:01:24 | [fiber-interop/guzzle](https://www.nuget.org/packages/fiber-interop%2Fguzzle) | v0.1.1 |  | Guzzle handler for fiber-interop/api: concurrent Guzzle requests in fibers on a… |
 
 ## Data source
 
