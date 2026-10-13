@@ -15,20 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 20:19 UTC
+## Latest list — 2026-10-13 21:23 UTC
 
-New packages created between 2026-10-13 19:21 UTC and 2026-10-13 20:19 UTC.
+New packages created between 2026-10-13 20:19 UTC and 2026-10-13 21:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-13T20-19-25-28109Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-13T21-23-46-852866Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-13 19:28:50 | [gavtaylor/sievefolders](https://www.nuget.org/packages/gavtaylor%2Fsievefolders) | v0.1.0 | Gavin Taylor | Keep Sieve filters pointing at the right folder when a folder is renamed or mov… |
-| 2026-10-13 19:29:16 | [setechsolutions/eloquent-sales-force](https://www.nuget.org/packages/setechsolutions%2Feloquent-sales-force) | v3.0.0-rc.1 | SETechSolutions; Robert Lester | Work with Salesforce objects as Eloquent models: an Eloquent driver for SOQL an… |
-| 2026-10-13 19:34:37 | [poletti/framework](https://www.nuget.org/packages/poletti%2Fframework) | v1.0.1 |  | A lightweight PHP framework |
-| 2026-10-13 19:58:55 | [eduardoribeirodev/filament-canvas](https://www.nuget.org/packages/eduardoribeirodev%2Ffilament-canvas) | 0.1.0 |  | Reusable visual document editor for Filament with pluggable persistence, assets… |
-| 2026-10-13 20:05:56 | [siratik/package-loader](https://www.nuget.org/packages/siratik%2Fpackage-loader) | v0.1.0 | Built North | Version coordinator for bundled WordPress packages. Ensures the newest copy of… |
-| 2026-10-13 20:10:32 | [tezmanian/utils-validate](https://www.nuget.org/packages/tezmanian%2Futils-validate) | v1.0.0 | René Halberstadt | Lightweight PHP validation toolkit: guard assertions, boolean rules, schema val… |
+| 2026-10-13 20:26:26 | [artisan-toolbox/qztray](https://www.nuget.org/packages/artisan-toolbox%2Fqztray) | 1.0.0 | Allan Mariucci Carvalho | QZ Tray Connector bridges Laravel and your frontend through a unified abstracti… |
+| 2026-10-13 20:29:51 | [siratik/baseline](https://www.nuget.org/packages/siratik%2Fbaseline) | v0.1.0 | Built North | Baseline WordPress hardening, cleanup and mime-type support |
+| 2026-10-13 20:29:52 | [siratik/environment-indicator](https://www.nuget.org/packages/siratik%2Fenvironment-indicator) | v0.1.0 | Built North | Admin-bar indicator showing which environment a WordPress site is running in |
+| 2026-10-13 20:33:36 | [alantiller/auth](https://www.nuget.org/packages/alantiller%2Fauth) | v1.0.0 | Alan Tiller | The simple, secure and easy to use authentication library |
+| 2026-10-13 20:39:49 | [sabroan/http-emitter-interface](https://www.nuget.org/packages/sabroan%2Fhttp-emitter-interface) | 1.0.0.0 |  | A PHP interface for emitting PSR-7 HTTP responses |
+| 2026-10-13 20:40:18 | [filagora/filagora-cms](https://www.nuget.org/packages/filagora%2Ffilagora-cms) | v0.2.0 |  | Pages, blocks, navigations, media and a draft, version, schedule and preview wo… |
+| 2026-10-13 20:44:36 | [anis-ly/partners](https://www.nuget.org/packages/anis-ly%2Fpartners) | v2.0.1 | Aniscom for Technical Service… | The PHP SDK for the Anis Partner API — signed requests, verified responses, typ… |
+| 2026-10-13 21:00:45 | [wilycode/translation](https://www.nuget.org/packages/wilycode%2Ftranslation) | v0.1.0 | Simon Piter | Framework-agnostic translation, pluralization, and locale formatting contracts… |
 
 ## Data source
 

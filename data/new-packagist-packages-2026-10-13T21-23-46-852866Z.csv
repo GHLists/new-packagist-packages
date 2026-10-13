@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-13T20:26:26Z,artisan-toolbox/qztray,1.0.0,Allan Mariucci Carvalho,QZ Tray Connector bridges Laravel and your frontend through a unified abstraction for QZ Tray integration.
+2026-10-13T20:29:51Z,siratik/baseline,v0.1.0,Built North,"Baseline WordPress hardening, cleanup and mime-type support"
+2026-10-13T20:29:52Z,siratik/environment-indicator,v0.1.0,Built North,Admin-bar indicator showing which environment a WordPress site is running in
+2026-10-13T20:33:36Z,alantiller/auth,v1.0.0,Alan Tiller,"The simple, secure and easy to use authentication library"
+2026-10-13T20:39:49Z,sabroan/http-emitter-interface,1.0.0.0,,A PHP interface for emitting PSR-7 HTTP responses
+2026-10-13T20:40:18Z,filagora/filagora-cms,v0.2.0,,"Pages, blocks, navigations, media and a draft, version, schedule and preview workflow for Filagora."
+2026-10-13T20:44:36Z,anis-ly/partners,v2.0.1,Aniscom for Technical Services (Anis),"The PHP SDK for the Anis Partner API — signed requests, verified responses, typed operations."
+2026-10-13T21:00:45Z,wilycode/translation,v0.1.0,Simon Piter,"Framework-agnostic translation, pluralization, and locale formatting contracts for PHP."
