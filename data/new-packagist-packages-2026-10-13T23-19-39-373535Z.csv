@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-13T22:24:14Z,hksagentur/kirby-fragments,0.1.1,Daniel Weidner,Serve snippets as HTML fragments for progressive enhancement in Kirby CMS
+2026-10-13T22:36:30Z,mtubis/html-translator-laravel,v0.1.0,Magdalena Tubis,"Laravel integration for mtubis/html-translator: translate HTML with LLMs (OpenAI, Anthropic, Gemini, Ollama, …) while preserving markup — config, facade, Artisan, cache, logging and a test fake."
+2026-10-13T22:37:08Z,tryhackx/flarum-homepage-blocks,2.8.2,TryHackX,"Customizable homepage blocks for tracker-style Flarum forums featuring dual statistics (internal & OpenTracker), advanced filters, and rate-limiting protection."
+2026-10-13T22:46:50Z,fiber-interop/pg,v0.1.0,,"Cooperative pg_query() for fiber-interop/api: async\pg\query(), query_params(), start() and connect() on any adapter, waiting on the libpq socket."
+2026-10-13T22:56:09Z,wilycode/translation-array,v0.1.0,Simon Piter,"Lazy PHP array translation provider with language fallback, pluralization, and resource mounts."
+2026-10-13T23:03:21Z,tamarackdb/tamarackdb-php,v0.5.0,,"PHP client for TamarackDB, an event store compliant with the DCB specification."
+2026-10-13T23:13:35Z,wilycode/translation-database,v0.1.0,Simon Piter,"Lazy database-backed PHP translation provider with pluralization, language fallback, and optional PSR-16 caching."
