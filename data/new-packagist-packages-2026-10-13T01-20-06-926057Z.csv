@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-13T00:35:35Z,wilycode/database-model,v0.1.0,Simon Piter,"Attribute-based PHP database models with metadata, JSON hydration, relationships and change tracking."
+2026-10-13T00:52:36Z,wilycode/database-repository,v0.1.0,Simon Piter,"Model repositories for PHP with eager loading, safe CRUD, relationship persistence, filters and pagination."
+2026-10-13T01:10:53Z,laravel-monitor-hue/laravel-monitor,v1.0.0,,Laravel Application Monitoring Package — sends non-sensitive health metadata to a centralized monitoring API.
