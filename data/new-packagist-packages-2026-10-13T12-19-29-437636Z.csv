@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-13T11:19:39Z,vinrish/laravel-modules-react-starter-kit,v1.0.1,,The skeleton application for the Laravel framework.
+2026-10-13T11:26:43Z,agrekom/customization-email-template,v1.0.0,,Customization for Magento email templates
+2026-10-13T11:36:32Z,givanov95/laravel-shipping,v0.1.0,Georgi Ivanov,"The delivery contract between a Laravel shop and its delivery methods: one interface for a courier, a flat rate or a pickup point"
+2026-10-13T11:52:36Z,hyperf-apex/wecom,v0.1.1,lbg-sys,"Apex WeCom (企业微信) toolkit for Hyperf: multi-corp account resolver, shared EasyWeChat application, access token cache and OAuth login"
+2026-10-13T12:03:08Z,darvis/supplydrive-api,v1.0.0,Arvid de Jong,"Laravel client for the Supplydrive Portal API: fetch the delivery status of PEPPOL invoices and other messages sent through Supplydrive, by invoice number, message id or debtor."
