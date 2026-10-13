@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-13T17:56:01Z,kodegrenade/mygra,v0.1.0,Temitope Ayotunde,"Config-driven data migration between MySQL, PostgreSQL, SQLite and SQL Server: transforms, validation, ID mapping, resume and verify"
+2026-10-13T18:14:51Z,dotswan/eagle-eye,v1.0.0-beta.1,Dotswan,"Driver-agnostic activity and audit logging for Laravel with automatic capture, privacy redaction, trace correlation, and database or Grafana Loki storage."
+2026-10-13T18:14:55Z,dotswan/eagle-eye-filament,v1.0.0-beta.1,Dotswan,"Filament 5 admin UI for dotswan/eagle-eye: activity explorer, trace timeline, overview dashboard and audit history, read through the driver-agnostic repository."
