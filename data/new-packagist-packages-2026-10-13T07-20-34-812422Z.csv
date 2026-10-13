@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-13T06:38:27Z,magna-cms/forms,v0.1.0,,"Forms for Magna: build, place, collect."
+2026-10-13T06:57:47Z,zeimoto/image,v0.1.0,zeimoto,Responsive image rendering with art direction and crop helpers.
+2026-10-13T06:59:54Z,zeimoto/writer,v0.1.0,zeimoto,An inline-only extension of the Kirby Writer field.
+2026-10-13T07:04:57Z,zeimoto/blocks,v0.1.0,zeimoto,Custom Kirby blocks with Panel editors and public rendering snippets.
+2026-10-13T07:17:48Z,zeimoto/branding,v0.1.0,zeimoto,"Site logo marks, color palettes, and a palette-backed Panel field."

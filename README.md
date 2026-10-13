@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 06:21 UTC
+## Latest list — 2026-10-13 07:20 UTC
 
-New packages created between 2026-10-13 05:21 UTC and 2026-10-13 06:21 UTC.
+New packages created between 2026-10-13 06:21 UTC and 2026-10-13 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-13T06-21-16-378267Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-13T07-20-34-812422Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-13 05:22:00 | [dbravoan/dbcms](https://www.nuget.org/packages/dbravoan%2Fdbcms) | v1.0.0 | David Bravo | High-Traffic Enterprise Multi-Market CMS with Dynamic Modules, Pageable Extensi… |
-| 2026-10-13 05:41:40 | [buting/cliapp-updater](https://www.nuget.org/packages/buting%2Fcliapp-updater) | v1.0.0 | BuTing | Framework-independent PHP updater for the apps.cli.cc release and licensing ser… |
-| 2026-10-13 05:57:24 | [davidhellmann/craft-orrery](https://www.nuget.org/packages/davidhellmann%2Fcraft-orrery) | 1.0.0 | David Hellmann | A live map of your Craft CMS content model: where content lives, what it’s made… |
-| 2026-10-13 06:02:56 | [astro-masters/dadata-bundle](https://www.nuget.org/packages/astro-masters%2Fdadata-bundle) | v1.0.1 | Velhron; Astro Masters | DaData bundle for Symfony 8 |
-| 2026-10-13 06:07:40 | [caturseptian/laravel-pennant-analytics](https://www.nuget.org/packages/caturseptian%2Flaravel-pennant-analytics) | v1.0.0 | Catur Septian | Impression & conversion analytics with statistical significance for Laravel Pen… |
+| 2026-10-13 06:38:27 | [magna-cms/forms](https://www.nuget.org/packages/magna-cms%2Fforms) | v0.1.0 |  | Forms for Magna: build, place, collect. |
+| 2026-10-13 06:57:47 | [zeimoto/image](https://www.nuget.org/packages/zeimoto%2Fimage) | v0.1.0 | zeimoto | Responsive image rendering with art direction and crop helpers. |
+| 2026-10-13 06:59:54 | [zeimoto/writer](https://www.nuget.org/packages/zeimoto%2Fwriter) | v0.1.0 | zeimoto | An inline-only extension of the Kirby Writer field. |
+| 2026-10-13 07:04:57 | [zeimoto/blocks](https://www.nuget.org/packages/zeimoto%2Fblocks) | v0.1.0 | zeimoto | Custom Kirby blocks with Panel editors and public rendering snippets. |
+| 2026-10-13 07:17:48 | [zeimoto/branding](https://www.nuget.org/packages/zeimoto%2Fbranding) | v0.1.0 | zeimoto | Site logo marks, color palettes, and a palette-backed Panel field. |
 
 ## Data source
 
