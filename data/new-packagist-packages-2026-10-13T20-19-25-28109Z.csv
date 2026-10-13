@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-13T19:28:50Z,gavtaylor/sievefolders,v0.1.0,Gavin Taylor,Keep Sieve filters pointing at the right folder when a folder is renamed or moved in Roundcube
+2026-10-13T19:29:16Z,setechsolutions/eloquent-sales-force,v3.0.0-rc.1,SETechSolutions; Robert Lester,Work with Salesforce objects as Eloquent models: an Eloquent driver for SOQL and the Salesforce REST API.
+2026-10-13T19:34:37Z,poletti/framework,v1.0.1,,A lightweight PHP framework
+2026-10-13T19:58:55Z,eduardoribeirodev/filament-canvas,0.1.0,,"Reusable visual document editor for Filament with pluggable persistence, assets and element types."
+2026-10-13T20:05:56Z,siratik/package-loader,v0.1.0,Built North,Version coordinator for bundled WordPress packages. Ensures the newest copy of a shared package wins when several plugins vendor their own.
+2026-10-13T20:10:32Z,tezmanian/utils-validate,v1.0.0,René Halberstadt,"Lightweight PHP validation toolkit: guard assertions, boolean rules, schema validation, strict type casting, composite predicates, and array-item validation — PHP 8.3+, no dependencies."
