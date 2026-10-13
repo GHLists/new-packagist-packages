@@ -1,0 +1,17 @@
+created_at,package,version,author,description
+2026-10-13T16:22:06Z,stackapi/stackapi-php,v1.0.0,Stack Technology Limited,"Official PHP SDK for StackApi: payments, payouts, messaging, identity, bills, virtual cards, logistics and more behind one key."
+2026-10-13T16:43:10Z,kschroeder/spaced-tracker,1.0.0,,Framework-agnostic PHP client for every Space-Track.org API controller and request class.
+2026-10-13T16:44:34Z,kschroeder/spaced-tracker-ai,1.0.0,,Adapters for PHP AI libraries and orbital analysis for kschroeder/spaced-tracker. SpaceXAI is the default model provider.
+2026-10-13T16:44:42Z,kschroeder/spaced-tracker-api,1.0.0,,"Embeddable HTTP API for kschroeder/spaced-tracker, with attribute routes and a PHP built-in-server entrypoint."
+2026-10-13T16:44:50Z,kschroeder/spaced-tracker-laravel,1.0.0,,"Laravel service provider, facade, and configuration for the Space-Track client."
+2026-10-13T16:44:58Z,kschroeder/spaced-tracker-symfony,1.0.0,,Symfony bundle for the Space-Track client.
+2026-10-13T16:45:43Z,kschroeder/spaced-tracker-ui,1.0.0,,"CRT catalog console for the Spaced Tracker API. Runs standalone, behind a web server, or on the PHP built-in server."
+2026-10-13T16:51:39Z,ernestdefoe/menu-control,v1.0.0,Ernest Defoe,"Arrange the forum sidebar: drag to reorder, hide, rename, re-icon and highlight any item, add your own links, and choose which groups see each one."
+2026-10-13T17:00:49Z,ak279642/laravel-infrastructure,v1.5.8,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."
+2026-10-13T17:06:53Z,sabroan/http-emitter-interface,1.0.0,,A PHP interface for emitting PSR-7 HTTP responses
+2026-10-13T17:11:37Z,laranex/laravel-schema-viewer,v1.3.1,Nay Thu Khant,Schema viewer for Laravel: an interactive diagram of your database tables and Eloquent relationships.
+2026-10-13T17:12:12Z,contentreactor/craft-traduco,1.0.0,ContentReactor,Plain Text and HTML field based text translator integrating online translation services.
+2026-10-13T17:14:12Z,hubmais/h-brasilapi,1.0.0,,Cliente PHP para BrasilAPI
+2026-10-13T17:15:46Z,cap-rel/bernard-client,v1.0.0,Eric Seigne,PHP client for the Bernard accounting suggestion API
+2026-10-13T17:17:21Z,contentreactor/craft-dynex,1.0.0,,"Build your own element exports in the Craft CMS control panel, mapping fields, native attributes and nested fields to columns."
+2026-10-13T17:19:06Z,contentreactor/craft-search,1.0.0,ContentReactor; ContentReactor Support,Find pages by everything they show
