@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-13T05:22:00Z,dbravoan/dbcms,v1.0.0,David Bravo,"High-Traffic Enterprise Multi-Market CMS with Dynamic Modules, Pageable Extensions, AI Content Studio, and Native MCP Server."
+2026-10-13T05:41:40Z,buting/cliapp-updater,v1.0.0,BuTing,Framework-independent PHP updater for the apps.cli.cc release and licensing service
+2026-10-13T05:57:24Z,davidhellmann/craft-orrery,1.0.0,David Hellmann,"A live map of your Craft CMS content model: where content lives, what it’s made of, and how it all connects."
+2026-10-13T06:02:56Z,astro-masters/dadata-bundle,v1.0.1,Velhron; Astro Masters,DaData bundle for Symfony 8
+2026-10-13T06:07:40Z,caturseptian/laravel-pennant-analytics,v1.0.0,Catur Septian,Impression & conversion analytics with statistical significance for Laravel Pennant feature flags.
