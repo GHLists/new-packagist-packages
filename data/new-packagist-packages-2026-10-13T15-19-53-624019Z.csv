@@ -1,0 +1,19 @@
+created_at,package,version,author,description
+2026-10-13T14:20:30Z,teufels/tt3-greetingcard,1.0.1,teufels GmbH,Greeting card service for the TYPO3 form framework with motif selection from a file storage folder and double opt-in.
+2026-10-13T14:29:52Z,pantono/subscriptions,1.0.4,Chris Burton,Subscriptions Module for pantono
+2026-10-13T14:30:54Z,fiber-interop/scope,v0.1.0,Frode Børli,"Scope: the identity of the operation (request, job) that code belongs to. PHP extension, with a userland polyfill when it is not loaded."
+2026-10-13T14:30:57Z,fiber-interop/api,v0.1.0,,"One surface for fiber-based concurrency: go, await, sleep, readable, writable on phasync, Revolt, AMPHP and ReactPHP."
+2026-10-13T14:31:01Z,fiber-interop/phasync,v0.1.0,,fiber-interop/api adapter for the phasync event loop.
+2026-10-13T14:31:04Z,fiber-interop/revolt,v0.1.0,,"Revolt event loop adapter for fiber-interop/api: go, await, sleep, readable, writable on Revolt (AMPHP v3, ReactPHP)."
+2026-10-13T14:31:08Z,fiber-interop/amp,v0.1.0,,"Native AMPHP v3 adapter for fiber-interop/api: go() returns an Amp\Future; await, sleep, readable, writable on Amp and Revolt."
+2026-10-13T14:31:10Z,fiber-interop/react,v0.1.0,,"ReactPHP adapter for fiber-interop/api: go, await, sleep, readable, writable on the React event loop."
+2026-10-13T14:31:13Z,fiber-interop/swoole,v0.1.1,,"Swoole coroutine adapter for fiber-interop/api: go, await, sleep, readable, writable on Swoole coroutines."
+2026-10-13T14:43:19Z,nesto/framework,v0.1.2,Hussein Alaa,"Nesto — a PHP framework: modules, dependency injection, guards, pipes, interceptors, filters, validation, an ORM and a Prisma-style client, OpenAPI, queues, scheduling and a CLI, all with attributes."
+2026-10-13T14:45:27Z,knppy/units,v0.1.0,Michael Beers,"PHP library to make working with units safer, easier, and fun!"
+2026-10-13T14:47:22Z,abdulkadiragoliya/commerce-sale-scheduler,1.0.0,Abdulkadir Agoliya,"Dynamic scheduled sales, category promotions, custom promotional tags, and countdown timers for Craft Commerce 5."
+2026-10-13T14:51:37Z,vos/nativephp-live-activities-free,v1.0.1,,"Free Live Activities and Live Updates for NativePHP Mobile, based on version 1.0.0."
+2026-10-13T14:56:51Z,aimanong/laravel,1.0.0,Aimanong,Aimanong 的 Laravel 12 驱动 —— Eloquent / Blade / 路由 / 认证 / 控制台 / MCP
+2026-10-13T15:03:27Z,anis-ly/partners,v2.0.0,Aniscom for Technical Services (Anis),"The PHP SDK for the Anis Partner API — signed requests, verified responses, typed operations."
+2026-10-13T15:07:11Z,gatovel/mail,v1.0.0,,Sistema modular e independente de envio de e-mails para aplicações PHP.
+2026-10-13T15:07:17Z,jacerider/neo_seo,1.0.0,Cyle Carlson (JaceRider),"A connected schema.org graph, head tags and on-page SEO for Neo sites."
+2026-10-13T15:07:40Z,rikochey/rikochey-php,1.2.1,,"Official PHP client for the Rikochey API: websites, forms, server-side submissions, JavaScript actions and API tokens."
