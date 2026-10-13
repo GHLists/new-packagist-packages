@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-13T03:28:26Z,s2j/webinar-service,v0.1.0,Koutarou ISHIKAWA,A pure PHP library for building a Webinar Request (WP-Independent)
+2026-10-13T03:55:54Z,tey/standards,v0.1.0,Tey Labs,"Deployment preflight and configured, rule-tagged architecture checks for Laravel applications."

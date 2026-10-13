@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 03:19 UTC
+## Latest list — 2026-10-13 04:20 UTC
 
-New packages created between 2026-10-13 02:20 UTC and 2026-10-13 03:19 UTC.
+New packages created between 2026-10-13 03:19 UTC and 2026-10-13 04:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-13T03-19-30-306877Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-13T04-20-18-181211Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-13 02:53:34 | [shimomo/autorace-news-collector](https://www.nuget.org/packages/shimomo%2Fautorace-news-collector) | 0.1.0 | shimomo | Collects the latest AutoRace news from official feeds and APIs. |
-| 2026-10-13 03:08:26 | [imagewize/woo-og-product-tags](https://www.nuget.org/packages/imagewize%2Fwoo-og-product-tags) | v1.0.0 | Imagewize | Prints the Open Graph product tags (product:price:amount, product:price:currenc… |
+| 2026-10-13 03:28:26 | [s2j/webinar-service](https://www.nuget.org/packages/s2j%2Fwebinar-service) | v0.1.0 | Koutarou ISHIKAWA | A pure PHP library for building a Webinar Request (WP-Independent) |
+| 2026-10-13 03:55:54 | [tey/standards](https://www.nuget.org/packages/tey%2Fstandards) | v0.1.0 | Tey Labs | Deployment preflight and configured, rule-tagged architecture checks for Larave… |
 
 ## Data source
 
