@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-13T10:34:12Z,qiangvei/magento2-module-scroll-top,1.0.0,,Magento 2 Scroll To Top Floating Button Module
+2026-10-13T10:36:20Z,tryhackx/flarum-topic-rating,2.5.0,TryHackX,"Interactive 5-star topic rating system for Flarum with half-star precision, live hover previews, real-time updates, per-device list styles, advanced per-tag permissions and an author-rating ""review mode""."
+2026-10-13T10:41:52Z,tiknil/backups,0.1.0,Giorgio Balduzzi,Custom backup management
+2026-10-13T10:46:36Z,tryhackx/flarum-thumb-sliders,2.1.7,TryHackX,"Extracts images automatically from the first post to display an animated, lazy-loaded thumbnail image slider in the Flarum discussion list using a shared modular layout structure."
+2026-10-13T10:46:53Z,mariopereira/fedex,v0.0.2,Mário Pereira,A PHP interface to the Fedex's APIs
+2026-10-13T10:51:59Z,tablekit/filament-tablekit,v5.0.0,,"Saved table views (filters, search, sort, columns, grouping) with a favorites bar for Filament v5 tables."
+2026-10-13T10:57:50Z,bckp/translator-neon,v1.0.0,Radovan Kepák,Versioned NEON translation source for bckp/translator-core 3
+2026-10-13T11:06:52Z,tcgunel/omnipay-odeal,v1.0.0,Tolga Can Günel; Omnipay Contributors,"Omnipay extension for Ödeal - 3D/Non-3D virtual POS payments, pay-by-link, cancel, refund and transaction queries"
+2026-10-13T11:08:55Z,shimomo/keirin-news-collector,0.1.0,shimomo,Collects the latest Keirin news from official feeds and APIs.
