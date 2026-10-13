@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-13T08:27:32Z,jonathandelacruz/yii2-user-management,v2.0.1,,Yii2 user management and RBAC with Bootstrap 5 and PHP 8.2-8.5
+2026-10-13T08:29:59Z,software-technologies-limited/stl-rich-text-editor,v3.0.0,Software Technologies Limited; 2amigOS! Consulting Group,"A standalone, framework-agnostic rich text editor for PHP applications."
+2026-10-13T08:31:55Z,plenta/plenta-casa-core-bundle,1.0.1,Plenta.io,
+2026-10-13T08:39:15Z,graystackit/laravel-dymo-printer,v1.2.0,Graystack,A Laravel package for DYMO LabelWriter integration with Alpine.js and Livewire support
+2026-10-13T08:40:49Z,networkrailbusinesssystems/directory-link,1.2.9,Anthony Edmonds,Resources for connecting to the Directory system
+2026-10-13T08:45:55Z,mmnewmedia/schematron-parser,1.0.0,Marcel Maaß,XPath expression parser and compiler for Schematron rule files
+2026-10-13T08:55:12Z,smpackbuilder/laravel-payammatni-sms,v1.0.0,payammatni,Laravel package for sending SMS and checking credit / delivery status through the Payammatni (payammatni.com) SOAP SMS panel.
+2026-10-13T08:56:52Z,ptadmin/core,v0.0.1,Zane,"PTAdmin core package with Admin, Addon, Schema and Core runtime."
+2026-10-13T09:08:26Z,cakewire/cakewire,v1.0.0,arbims,Live server-driven components for CakePHP powered by Alpine.js.

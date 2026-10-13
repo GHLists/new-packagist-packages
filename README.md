@@ -15,30 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 08:21 UTC
+## Latest list — 2026-10-13 09:20 UTC
 
-New packages created between 2026-10-13 07:20 UTC and 2026-10-13 08:21 UTC.
+New packages created between 2026-10-13 08:21 UTC and 2026-10-13 09:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-13T08-21-39-716847Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-13T09-20-01-021234Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-13 07:23:20 | [zeimoto/compute](https://www.nuget.org/packages/zeimoto%2Fcompute) | v0.1.0 | zeimoto | Model-bound metadata, identity, indexing, and PWA resolution. |
-| 2026-10-13 07:27:03 | [zeimoto/contact](https://www.nuget.org/packages/zeimoto%2Fcontact) | v0.1.0 | zeimoto | Contact form rendering, submission validation, and email delivery. |
-| 2026-10-13 07:30:10 | [wexample/symfony-workspace](https://www.nuget.org/packages/wexample%2Fsymfony-workspace) | 1.0.1 |  |  |
-| 2026-10-13 07:31:09 | [zeimoto/panel](https://www.nuget.org/packages/zeimoto%2Fpanel) | v0.1.0 | zeimoto | Content-language indicators and validation highlights for the Kirby Panel. |
-| 2026-10-13 07:31:30 | [wexample/symfony-workspace-demo](https://www.nuget.org/packages/wexample%2Fsymfony-workspace-demo) | 1.0.1 |  |  |
-| 2026-10-13 07:43:43 | [symfony/ux-inspector](https://www.nuget.org/packages/symfony%2Fux-inspector) | v3.6.0 | Simon André; Symfony Community | Browser inspector for Symfony UX components: Stimulus, LiveComponent and Turbo |
-| 2026-10-13 07:43:43 | [symfony/ux-router](https://www.nuget.org/packages/symfony%2Fux-router) | v3.6.0 | Hugo Alliaume; Symfony Commun… | Exposes Symfony Routes directly to JavaScript. |
-| 2026-10-13 07:45:37 | [caturseptian/laravel-indonesia-territory](https://www.nuget.org/packages/caturseptian%2Flaravel-indonesia-territory) | v1.0.1 | Catur Septian | Indonesian administrative regions (Kemendagri codes) for Laravel: provinces, re… |
-| 2026-10-13 07:50:20 | [software-technologies-limited/stl-date-picker-widget](https://www.nuget.org/packages/software-technologies-limited%2Fstl-date-picker-widget) | v2.0.1 | Software Technologies Limited… | Framework-agnostic PHP date picker and date range components. |
-| 2026-10-13 07:53:06 | [vortech/laravel-trace](https://www.nuget.org/packages/vortech%2Flaravel-trace) | v0.2.0 | Mate Papp | One-way, change-based synchronization of published Eloquent data between two La… |
-| 2026-10-13 07:54:42 | [nxi/factro-sdk](https://www.nuget.org/packages/nxi%2Ffactro-sdk) | 1.0.0 | NXI GmbH & Co. KG | Unofficial PHP SDK for the factro Core API, built on Symfony components |
-| 2026-10-13 08:01:39 | [silvershop/bundles](https://www.nuget.org/packages/silvershop%2Fbundles) | 1.0.0 | SilverShop Contributors | Bundle products for SilverShop: sell a product that groups other products and a… |
-| 2026-10-13 08:02:46 | [wexample/symfony-design-system-effects](https://www.nuget.org/packages/wexample%2Fsymfony-design-system-effects) | 1.0.1 |  |  |
-| 2026-10-13 08:03:32 | [software-technologies-limited/stl-editable-widget](https://www.nuget.org/packages/software-technologies-limited%2Fstl-editable-widget) | v2.0.0 | Software Technologies Limited… | Framework-agnostic inline editing components for PHP applications. |
-| 2026-10-13 08:04:51 | [pollora/wp-rest](https://www.nuget.org/packages/pollora%2Fwp-rest) | v0.1.0 | Amphibee | WordPress REST API routes declared with PHP attributes: a controller class, #[W… |
-| 2026-10-13 08:04:55 | [pollora/wp-cli](https://www.nuget.org/packages/pollora%2Fwp-cli) | v0.1.0 | Amphibee | WP-CLI commands declared with PHP attributes: a class with #[WpCli], subcommand… |
+| 2026-10-13 08:27:32 | [jonathandelacruz/yii2-user-management](https://www.nuget.org/packages/jonathandelacruz%2Fyii2-user-management) | v2.0.1 |  | Yii2 user management and RBAC with Bootstrap 5 and PHP 8.2-8.5 |
+| 2026-10-13 08:29:59 | [software-technologies-limited/stl-rich-text-editor](https://www.nuget.org/packages/software-technologies-limited%2Fstl-rich-text-editor) | v3.0.0 | Software Technologies Limited… | A standalone, framework-agnostic rich text editor for PHP applications. |
+| 2026-10-13 08:31:55 | [plenta/plenta-casa-core-bundle](https://www.nuget.org/packages/plenta%2Fplenta-casa-core-bundle) | 1.0.1 | Plenta.io |  |
+| 2026-10-13 08:39:15 | [graystackit/laravel-dymo-printer](https://www.nuget.org/packages/graystackit%2Flaravel-dymo-printer) | v1.2.0 | Graystack | A Laravel package for DYMO LabelWriter integration with Alpine.js and Livewire… |
+| 2026-10-13 08:40:49 | [networkrailbusinesssystems/directory-link](https://www.nuget.org/packages/networkrailbusinesssystems%2Fdirectory-link) | 1.2.9 | Anthony Edmonds | Resources for connecting to the Directory system |
+| 2026-10-13 08:45:55 | [mmnewmedia/schematron-parser](https://www.nuget.org/packages/mmnewmedia%2Fschematron-parser) | 1.0.0 | Marcel Maaß | XPath expression parser and compiler for Schematron rule files |
+| 2026-10-13 08:55:12 | [smpackbuilder/laravel-payammatni-sms](https://www.nuget.org/packages/smpackbuilder%2Flaravel-payammatni-sms) | v1.0.0 | payammatni | Laravel package for sending SMS and checking credit / delivery status through t… |
+| 2026-10-13 08:56:52 | [ptadmin/core](https://www.nuget.org/packages/ptadmin%2Fcore) | v0.0.1 | Zane | PTAdmin core package with Admin, Addon, Schema and Core runtime. |
+| 2026-10-13 09:08:26 | [cakewire/cakewire](https://www.nuget.org/packages/cakewire%2Fcakewire) | v1.0.0 | arbims | Live server-driven components for CakePHP powered by Alpine.js. |
 
 ## Data source
 
