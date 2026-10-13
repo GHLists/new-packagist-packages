@@ -1,0 +1,17 @@
+created_at,package,version,author,description
+2026-10-13T07:23:20Z,zeimoto/compute,v0.1.0,zeimoto,"Model-bound metadata, identity, indexing, and PWA resolution."
+2026-10-13T07:27:03Z,zeimoto/contact,v0.1.0,zeimoto,"Contact form rendering, submission validation, and email delivery."
+2026-10-13T07:30:10Z,wexample/symfony-workspace,1.0.1,,
+2026-10-13T07:31:09Z,zeimoto/panel,v0.1.0,zeimoto,Content-language indicators and validation highlights for the Kirby Panel.
+2026-10-13T07:31:30Z,wexample/symfony-workspace-demo,1.0.1,,
+2026-10-13T07:43:43Z,symfony/ux-inspector,v3.6.0,Simon André; Symfony Community,"Browser inspector for Symfony UX components: Stimulus, LiveComponent and Turbo"
+2026-10-13T07:43:43Z,symfony/ux-router,v3.6.0,Hugo Alliaume; Symfony Community,Exposes Symfony Routes directly to JavaScript.
+2026-10-13T07:45:37Z,caturseptian/laravel-indonesia-territory,v1.0.1,Catur Septian,"Indonesian administrative regions (Kemendagri codes) for Laravel: provinces, regencies, districts, villages, postal codes, coordinates, boundaries and islands. Install once, eject for zero runtime dependency."
+2026-10-13T07:50:20Z,software-technologies-limited/stl-date-picker-widget,v2.0.1,Software Technologies Limited; 2amigOS! Consulting Group,Framework-agnostic PHP date picker and date range components.
+2026-10-13T07:53:06Z,vortech/laravel-trace,v0.2.0,Mate Papp,"One-way, change-based synchronization of published Eloquent data between two Laravel applications: a source change feed and a remote pull engine."
+2026-10-13T07:54:42Z,nxi/factro-sdk,1.0.0,NXI GmbH & Co. KG,"Unofficial PHP SDK for the factro Core API, built on Symfony components"
+2026-10-13T08:01:39Z,silvershop/bundles,1.0.0,SilverShop Contributors,Bundle products for SilverShop: sell a product that groups other products and adjusts component stock on purchase.
+2026-10-13T08:02:46Z,wexample/symfony-design-system-effects,1.0.1,,
+2026-10-13T08:03:32Z,software-technologies-limited/stl-editable-widget,v2.0.0,Software Technologies Limited; 2amigOS! Consulting Group,Framework-agnostic inline editing components for PHP applications.
+2026-10-13T08:04:51Z,pollora/wp-rest,v0.1.0,Amphibee,"WordPress REST API routes declared with PHP attributes: a controller class, #[WpRestRoute] and #[Method], permissions as classes. Runs with or without Laravel."
+2026-10-13T08:04:55Z,pollora/wp-cli,v0.1.0,Amphibee,"WP-CLI commands declared with PHP attributes: a class with #[WpCli], subcommands with #[Command], synopsis, hooks and conditions as attributes. Runs with or without Laravel."
