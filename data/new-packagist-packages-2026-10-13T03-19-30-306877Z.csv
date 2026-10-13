@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-13T02:53:34Z,shimomo/autorace-news-collector,0.1.0,shimomo,Collects the latest AutoRace news from official feeds and APIs.
+2026-10-13T03:08:26Z,imagewize/woo-og-product-tags,v1.0.0,Imagewize,"Prints the Open Graph product tags (product:price:amount, product:price:currency, product:availability) on single WooCommerce product pages."

@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 01:20 UTC
+## Latest list — 2026-10-13 03:19 UTC
 
-New packages created between 2026-10-13 00:19 UTC and 2026-10-13 01:20 UTC.
+New packages created between 2026-10-13 02:20 UTC and 2026-10-13 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-13T01-20-06-926057Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-13T03-19-30-306877Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-13 00:35:35 | [wilycode/database-model](https://www.nuget.org/packages/wilycode%2Fdatabase-model) | v0.1.0 | Simon Piter | Attribute-based PHP database models with metadata, JSON hydration, relationship… |
-| 2026-10-13 00:52:36 | [wilycode/database-repository](https://www.nuget.org/packages/wilycode%2Fdatabase-repository) | v0.1.0 | Simon Piter | Model repositories for PHP with eager loading, safe CRUD, relationship persiste… |
-| 2026-10-13 01:10:53 | [laravel-monitor-hue/laravel-monitor](https://www.nuget.org/packages/laravel-monitor-hue%2Flaravel-monitor) | v1.0.0 |  | Laravel Application Monitoring Package — sends non-sensitive health metadata to… |
+| 2026-10-13 02:53:34 | [shimomo/autorace-news-collector](https://www.nuget.org/packages/shimomo%2Fautorace-news-collector) | 0.1.0 | shimomo | Collects the latest AutoRace news from official feeds and APIs. |
+| 2026-10-13 03:08:26 | [imagewize/woo-og-product-tags](https://www.nuget.org/packages/imagewize%2Fwoo-og-product-tags) | v1.0.0 | Imagewize | Prints the Open Graph product tags (product:price:amount, product:price:currenc… |
 
 ## Data source
 
