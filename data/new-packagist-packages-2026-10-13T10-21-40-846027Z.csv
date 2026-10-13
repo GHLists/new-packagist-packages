@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-13T09:28:19Z,wexample/symfony-remote-vies,1.0.1,,
+2026-10-13T09:30:10Z,claudiodekker/firewatch,v1.0.0,Claudio Dekker,Local Laravel Nightwatch telemetry for AI assistants over MCP.
+2026-10-13T09:32:19Z,kalp707/maho-sizechart,1.0.0,,Size Chart module for Maho Commerce
+2026-10-13T09:39:05Z,rikochey/rikochey-php,1.2.1,,"Official PHP client for the Rikochey API: websites, forms, server-side submissions, JavaScript actions and API tokens."
+2026-10-13T09:46:49Z,xdiego1st/wa-integration,v1.0.1,Rasyid Abdul Halim; PlatformCore Team,"Enterprise WhatsApp Gateway Client, Live Management Dashboard, and Multi-Tenant Integration for Laravel"
+2026-10-13T09:51:02Z,pollora/schedule,v0.1.0,Amphibee,"Scheduled and deferred tasks for WordPress: one engine, a fluent API and #[Schedule] attributes, WP-Cron as the default driver. Runs with or without Laravel."
+2026-10-13T09:53:45Z,schachbulle/contao-tiktok-bundle,1.0.0,Frank Hoppe,"Inhaltselement, das ein einzelnes TikTok-Video über den offiziellen Einbettungsplayer anzeigt. Es genügt der Link zum Video; ein API-Schlüssel ist nicht nötig."
+2026-10-13T09:53:47Z,schachbulle/contao-instagram-bundle,1.0.0,Frank Hoppe,"Inhaltselement, das einen einzelnen Instagram-Beitrag (Foto, Reel oder Video) über die offizielle Einbettung anzeigt. Es genügt der Link zum Beitrag; weder Facebook-App noch Zugriffsschlüssel sind nötig."
+2026-10-13T10:12:35Z,xpiston/openfga,v0.1.0,xPiston,"A PHP SDK for OpenFGA: checks, relationship tuples, authorization models and a real DSL parser, for Laravel, Symfony or no framework at all."
+2026-10-13T10:15:33Z,statikbe/craft-trinity,1.0.0-beta.1,Statik,"Row and column layouts for Craft CMS Matrix fields: a row of 1–3 columns with one nested entry per column, width-aware validation and field conditions"
