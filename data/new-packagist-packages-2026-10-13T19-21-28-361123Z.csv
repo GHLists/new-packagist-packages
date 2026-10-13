@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-13T18:49:51Z,gavtaylor/retentionpolicy,v0.1.0,Gavin Taylor,"Outlook-style per-folder retention policies: automatically delete or archive messages older than a set period, applied nightly on the Dovecot server"
+2026-10-13T19:16:25Z,mnapoli/backoffice-mcp,0.1.0,,"A read-only MCP server over a whitelist of Eloquent models, for the internal tools of a Laravel application"
+2026-10-13T19:17:13Z,phattarachai/remote-prompt,v1.0.0,Phattarachai,"A PHPStorm-style remote host panel for the terminal — pick a project's server, open a shell in its deploy path, browse, download and upload files over your own ssh config. One global command for every project."

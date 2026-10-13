@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 18:21 UTC
+## Latest list — 2026-10-13 19:21 UTC
 
-New packages created between 2026-10-13 17:21 UTC and 2026-10-13 18:21 UTC.
+New packages created between 2026-10-13 18:21 UTC and 2026-10-13 19:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-13T18-21-25-431803Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-13T19-21-28-361123Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-13 17:56:01 | [kodegrenade/mygra](https://www.nuget.org/packages/kodegrenade%2Fmygra) | v0.1.0 | Temitope Ayotunde | Config-driven data migration between MySQL, PostgreSQL, SQLite and SQL Server:… |
-| 2026-10-13 18:14:51 | [dotswan/eagle-eye](https://www.nuget.org/packages/dotswan%2Feagle-eye) | v1.0.0-beta.1 | Dotswan | Driver-agnostic activity and audit logging for Laravel with automatic capture,… |
-| 2026-10-13 18:14:55 | [dotswan/eagle-eye-filament](https://www.nuget.org/packages/dotswan%2Feagle-eye-filament) | v1.0.0-beta.1 | Dotswan | Filament 5 admin UI for dotswan/eagle-eye: activity explorer, trace timeline, o… |
+| 2026-10-13 18:49:51 | [gavtaylor/retentionpolicy](https://www.nuget.org/packages/gavtaylor%2Fretentionpolicy) | v0.1.0 | Gavin Taylor | Outlook-style per-folder retention policies: automatically delete or archive me… |
+| 2026-10-13 19:16:25 | [mnapoli/backoffice-mcp](https://www.nuget.org/packages/mnapoli%2Fbackoffice-mcp) | 0.1.0 |  | A read-only MCP server over a whitelist of Eloquent models, for the internal to… |
+| 2026-10-13 19:17:13 | [phattarachai/remote-prompt](https://www.nuget.org/packages/phattarachai%2Fremote-prompt) | v1.0.0 | Phattarachai | A PHPStorm-style remote host panel for the terminal — pick a project's server,… |
 
 ## Data source
 
