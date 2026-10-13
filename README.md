@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 23:19 UTC
+## Latest list — 2026-10-13 00:19 UTC
 
-New packages created between 2026-10-12 22:19 UTC and 2026-10-12 23:19 UTC.
+New packages created between 2026-10-12 23:19 UTC and 2026-10-13 00:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-12T23-19-22-428785Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-13T00-19-45-794675Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-12 22:30:12 | [julioserpone/gig-economics](https://www.nuget.org/packages/julioserpone%2Fgig-economics) | v1.0.0 | Julio Serpone | Platform-agnostic, decoupled PHP library to measure fuel efficiency and the rea… |
-| 2026-10-12 22:31:22 | [wilycode/database-query](https://www.nuget.org/packages/wilycode%2Fdatabase-query) | v0.1.0 | Simon Piter | Lightweight SQL query builder, canonical compiled queries, and driver binding c… |
-| 2026-10-12 22:58:55 | [treehousetim/waffle](https://www.nuget.org/packages/treehousetim%2Fwaffle) | v0.1.0 | Tim Gallagher | Waffle Application Framework For Lazy Engineers: a test-first starting point fo… |
-| 2026-10-12 23:01:16 | [wilycode/database-driver-pdo](https://www.nuget.org/packages/wilycode%2Fdatabase-driver-pdo) | v0.1.0 | Simon Piter | PDO database driver implementing WilyCode database contracts, with a query para… |
+| 2026-10-12 23:26:17 | [sifadi/core](https://www.nuget.org/packages/sifadi%2Fcore) | 1.0.0 | Sifadi | SDK PHP (framework-agnostic) para la API de Sifadi: timbra CFDI 4.0, cancela, d… |
+| 2026-10-12 23:26:24 | [sifadi/laravel](https://www.nuget.org/packages/sifadi%2Flaravel) | v1.0.0 | Sifadi | Integración de Sifadi para Laravel: ServiceProvider, Facade y config sobre el S… |
+| 2026-10-12 23:44:41 | [wilycode/database-query-executor](https://www.nuget.org/packages/wilycode%2Fdatabase-query-executor) | v0.1.0 | Simon Piter | Lightweight query execution layer connecting WilyCode SQL queries, binders and… |
+| 2026-10-12 23:46:45 | [mykholy/laravel-accessproof](https://www.nuget.org/packages/mykholy%2Flaravel-accessproof) | v1.0.1 | Ahmed El-Kholy | Catch Laravel authorization regressions, IDOR/BOLA, cross-tenant leaks and unau… |
+| 2026-10-13 00:01:52 | [wilycode/database-query-executor-cache](https://www.nuget.org/packages/wilycode%2Fdatabase-query-executor-cache) | v0.1.0 | Simon Piter | PSR-16 caching decorator for WilyCode database query executors with transaction… |
 
 ## Data source
 

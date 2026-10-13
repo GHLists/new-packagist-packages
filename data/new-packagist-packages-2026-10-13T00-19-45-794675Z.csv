@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-12T23:26:17Z,sifadi/core,1.0.0,Sifadi,"SDK PHP (framework-agnostic) para la API de Sifadi: timbra CFDI 4.0, cancela, descarga XML/PDF y consulta tu saldo de timbres."
+2026-10-12T23:26:24Z,sifadi/laravel,v1.0.0,Sifadi,"Integración de Sifadi para Laravel: ServiceProvider, Facade y config sobre el SDK sifadi/core (timbra CFDI 4.0 por API)."
+2026-10-12T23:44:41Z,wilycode/database-query-executor,v0.1.0,Simon Piter,"Lightweight query execution layer connecting WilyCode SQL queries, binders and database drivers."
+2026-10-12T23:46:45Z,mykholy/laravel-accessproof,v1.0.1,Ahmed El-Kholy,"Catch Laravel authorization regressions, IDOR/BOLA, cross-tenant leaks and unauthorized database writes in HTTP feature tests."
+2026-10-13T00:01:52Z,wilycode/database-query-executor-cache,v0.1.0,Simon Piter,PSR-16 caching decorator for WilyCode database query executors with transaction-aware invalidation.
