@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-10-13T12:26:32Z,j87nl/laravel-mailbox,0.1.1,Johan,"Shared IMAP/SMTP mailboxes for Laravel: sync, folder actions, sending and an audit trail, independent of any frontend"
+2026-10-13T12:26:35Z,j87nl/laravel-vue-mailbox,0.1.0,Johan,"A VueJS/Inertia shared mailbox UI for j87nl/laravel-mailbox, built on the FormBuilder and TableBuilder"
+2026-10-13T12:35:06Z,slohmaier/roundcube_caldav_suite,v1.1.0,Stefan Lohmaier,CalDAV Calendar & Tasks plugin for Roundcube - connects to any CalDAV server
+2026-10-13T12:44:43Z,givanov95/laravel-shipping-boxnow,v0.1.1,Georgi Ivanov,BoxNow lockers as a delivery method of a Laravel shop: the API client and the adapter to the contract of givanov95/laravel-shipping
+2026-10-13T12:44:43Z,givanov95/laravel-shipping-econt,v0.1.0,Georgi Ivanov,Econt as a delivery method of a Laravel shop: the API client and the adapter to the contract of givanov95/laravel-shipping
+2026-10-13T12:44:43Z,givanov95/laravel-shipping-speedy,v0.1.0,Georgi Ivanov,Speedy as a delivery method of a Laravel shop: the API client and the adapter to the contract of givanov95/laravel-shipping
+2026-10-13T12:45:46Z,balpom/simple-cache,v0.1.1,Mikhail (Balpom),Simple realisation of simple PSR16 cache.
+2026-10-13T12:50:52Z,mtubis/html-translator,v0.4.0,Magdalena Tubis,"Translate HTML with LLMs (OpenAI, Anthropic, Gemini, Ollama, …) while preserving markup, semantics and document validity."
+2026-10-13T12:50:55Z,artisan-build/wake-client,v0.1.0,,The Laravel log client for a self-hosted Wake server.
+2026-10-13T12:50:58Z,artisan-build/wake-contracts,v0.1.0,,The versioned wire contracts shared by the Wake client and server.
+2026-10-13T12:51:01Z,artisan-build/wake-server,v0.1.0,,"The ingest, storage, and MCP server package for Wake."
+2026-10-13T12:59:12Z,keychat/bots,v0.1.0,,Official PHP SDK for Key Chat bots
