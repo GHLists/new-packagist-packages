@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-14T03:38:11Z,caturseptian/laravel-sluggable,v1.0.0,Catur Septian; Freek Van der Herten,"Slug Eloquent yang paham bahasa Indonesia untuk Laravel 6–13, bisa di-eject agar tanpa ketergantungan"
+2026-10-14T03:50:51Z,expertsystemsau/trackto-laravel-client,v0.1.0,Mitchell Williams,Laravel integration for the track.to API
+2026-10-14T03:50:51Z,expertsystemsau/trackto-php-client,v0.1.0,Mitchell Williams,Framework-agnostic PHP client for the track.to API
+2026-10-14T03:54:27Z,caiyun/asr,v1.0.0,刘骏霖,彩云语音识别服务，统一封装腾讯云、科大讯飞、阿里云一句话识别
+2026-10-14T04:12:22Z,ogunsakin01/laravel-video-demos,v0.1.0,Damilola Ogunsakin,"Generate how-to videos of your Laravel app with Claude. Describe a flow, set a length, see the cost, and get a recorded walkthrough."

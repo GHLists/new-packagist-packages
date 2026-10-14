@@ -15,16 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 03:22 UTC
+## Latest list — 2026-10-14 04:21 UTC
 
-New packages created between 2026-10-14 02:19 UTC and 2026-10-14 03:22 UTC.
+New packages created between 2026-10-14 03:22 UTC and 2026-10-14 04:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T03-22-43-609701Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T04-21-46-238998Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 02:38:58 | [versawys/kernel](https://www.nuget.org/packages/versawys%2Fkernel) | v2.2.0 | Jorge Jara H. | Núcleo del framework versaWYS-PHP: enrutamiento, middlewares, sesión/JWT, Twig,… |
-| 2026-10-14 02:53:20 | [snebes/newrelic-zts](https://www.nuget.org/packages/snebes%2Fnewrelic-zts) | v12.6.0.34 |  | Unofficial ZTS (thread-safe) build of the New Relic PHP agent extension for Fra… |
+| 2026-10-14 03:38:11 | [caturseptian/laravel-sluggable](https://www.nuget.org/packages/caturseptian%2Flaravel-sluggable) | v1.0.0 | Catur Septian; Freek Van der… | Slug Eloquent yang paham bahasa Indonesia untuk Laravel 6–13, bisa di-eject aga… |
+| 2026-10-14 03:50:51 | [expertsystemsau/trackto-laravel-client](https://www.nuget.org/packages/expertsystemsau%2Ftrackto-laravel-client) | v0.1.0 | Mitchell Williams | Laravel integration for the track.to API |
+| 2026-10-14 03:50:51 | [expertsystemsau/trackto-php-client](https://www.nuget.org/packages/expertsystemsau%2Ftrackto-php-client) | v0.1.0 | Mitchell Williams | Framework-agnostic PHP client for the track.to API |
+| 2026-10-14 03:54:27 | [caiyun/asr](https://www.nuget.org/packages/caiyun%2Fasr) | v1.0.0 | 刘骏霖 | 彩云语音识别服务，统一封装腾讯云、科大讯飞、阿里云一句话识别 |
+| 2026-10-14 04:12:22 | [ogunsakin01/laravel-video-demos](https://www.nuget.org/packages/ogunsakin01%2Flaravel-video-demos) | v0.1.0 | Damilola Ogunsakin | Generate how-to videos of your Laravel app with Claude. Describe a flow, set a… |
 
 ## Data source
 
