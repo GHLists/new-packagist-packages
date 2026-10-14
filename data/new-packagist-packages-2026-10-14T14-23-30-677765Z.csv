@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-14T13:50:30Z,x-laravel/username,v1.0.0,Mehmet ÖĞMEN,"Configurable username validation, reserved-name checking and username generation for Laravel."
+2026-10-14T13:54:16Z,arout/rhapsody-app,v1.0.0,Andrew Rout,The skeleton application for the Rhapsody Framework
+2026-10-14T13:55:05Z,kitaris/environment-indicator,v1.0.0,Kitaris,"Shows which environment a WordPress site is running as (local, development, staging or production) in the admin bar."
+2026-10-14T14:13:03Z,mikhailmelnikov/laravel-jobs-monitor,v1.0.0,Mikhail Melnikov,"Admin-agnostic core for monitoring Laravel scheduled tasks and database queue jobs: list, run, retry, forget, flush."
+2026-10-14T14:13:21Z,vinkius/ai-connect-sdk-laravel,v0.1.0,Vinkius,Laravel integration for @vinkius/connect. Give every user of your AI app their own connectors and capabilities.
+2026-10-14T14:13:21Z,vinkius/connect-laravel,v0.1.0,Vinkius,Laravel integration for @vinkius/connect. Give every user of your AI app their own connectors and capabilities.

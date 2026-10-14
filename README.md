@@ -15,24 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 13:21 UTC
+## Latest list — 2026-10-14 14:23 UTC
 
-New packages created between 2026-10-14 12:21 UTC and 2026-10-14 13:21 UTC.
+New packages created between 2026-10-14 13:21 UTC and 2026-10-14 14:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T13-21-31-872014Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T14-23-30-677765Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 12:22:23 | [web-tp3/pdf](https://www.nuget.org/packages/web-tp3%2Fpdf) | 1.0.0 | Thomas Ruta | pdf renderings |
-| 2026-10-14 12:37:12 | [patrykgruszka/composer-dist-probe](https://www.nuget.org/packages/patrykgruszka%2Fcomposer-dist-probe) | 0.0.2 |  | Disposable probe: does Packagist honor a dist key in composer.json? Will be del… |
-| 2026-10-14 12:47:05 | [pdftoolkit/opentype](https://www.nuget.org/packages/pdftoolkit%2Fopentype) | v0.1.0 | Mathias STRASSER | Explicit OpenType font objects, bounded SFNT reading and glyph substitutions |
-| 2026-10-14 12:47:10 | [esigner/sdk](https://www.nuget.org/packages/esigner%2Fsdk) | v0.2.0 |  | Official PHP client for the esigner e-signing API: BankID, MitID and other eID… |
-| 2026-10-14 13:00:22 | [sivasakthi/jeephp](https://www.nuget.org/packages/sivasakthi%2Fjeephp) | v1.0.0 |  | A small, readable PHP framework with simple database helpers. |
-| 2026-10-14 13:01:36 | [fluidstan/typo3](https://www.nuget.org/packages/fluidstan%2Ftypo3) | 0.1.0 | Sascha Egerer | TYPO3 integration for FluidStan: boots TYPO3, registers its Fluid namespaces an… |
-| 2026-10-14 13:03:18 | [hawkforge/laravel-ai-blog](https://www.nuget.org/packages/hawkforge%2Flaravel-ai-blog) | v0.1.0 | Mr Hawk | The AI-native blog for Laravel. Headless by default, SEO built in, AI as your e… |
-| 2026-10-14 13:14:06 | [helsingborg-stad/wpmu-allow-sentry-agent](https://www.nuget.org/packages/helsingborg-stad%2Fwpmu-allow-sentry-agent) | 0.1.0 | Thor Brink | Allow connecting to a local Sentry agent. |
-| 2026-10-14 13:16:24 | [mykholy/laravel-flowguard](https://www.nuget.org/packages/mykholy%2Flaravel-flowguard) | v0.1.0-beta.1 | Ahmed El-Kholy | Fail-closed Laravel operations with idempotency, reconciliation, durable inbox/… |
-| 2026-10-14 13:17:35 | [mohemian/flink-sdk-php](https://www.nuget.org/packages/mohemian%2Fflink-sdk-php) | v0.1.0 |  | Verify FLINK's signed assertions (eID prefill, flow results) in a Laravel backe… |
+| 2026-10-14 13:50:30 | [x-laravel/username](https://www.nuget.org/packages/x-laravel%2Fusername) | v1.0.0 | Mehmet ÖĞMEN | Configurable username validation, reserved-name checking and username generatio… |
+| 2026-10-14 13:54:16 | [arout/rhapsody-app](https://www.nuget.org/packages/arout%2Frhapsody-app) | v1.0.0 | Andrew Rout | The skeleton application for the Rhapsody Framework |
+| 2026-10-14 13:55:05 | [kitaris/environment-indicator](https://www.nuget.org/packages/kitaris%2Fenvironment-indicator) | v1.0.0 | Kitaris | Shows which environment a WordPress site is running as (local, development, sta… |
+| 2026-10-14 14:13:03 | [mikhailmelnikov/laravel-jobs-monitor](https://www.nuget.org/packages/mikhailmelnikov%2Flaravel-jobs-monitor) | v1.0.0 | Mikhail Melnikov | Admin-agnostic core for monitoring Laravel scheduled tasks and database queue j… |
+| 2026-10-14 14:13:21 | [vinkius/ai-connect-sdk-laravel](https://www.nuget.org/packages/vinkius%2Fai-connect-sdk-laravel) | v0.1.0 | Vinkius | Laravel integration for @vinkius/connect. Give every user of your AI app their… |
+| 2026-10-14 14:13:21 | [vinkius/connect-laravel](https://www.nuget.org/packages/vinkius%2Fconnect-laravel) | v0.1.0 | Vinkius | Laravel integration for @vinkius/connect. Give every user of your AI app their… |
 
 ## Data source
 
