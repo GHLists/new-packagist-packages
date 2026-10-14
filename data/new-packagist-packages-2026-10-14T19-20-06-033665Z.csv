@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-14T18:25:52Z,myadion/sdk,v0.2.0,Adion,"Official PHP library for the Adion Cloud API: Adion Pay, SMS and every other endpoint."
+2026-10-14T18:41:21Z,pdftoolkit/pdf-to-html,v0.1.1,Mathias STRASSER,Explicit object-oriented derivation of tagged PDF to semantic HTML for PHP 8.3+
+2026-10-14T18:42:39Z,psbits/crafter,1.0.0,Daniel Ablass,Code and file generator for TYPO3 extensions
+2026-10-14T18:53:38Z,angeo/module-webmcp,1.0.0,,"WebMCP for Magento 2 — registers structured tools (product search, product details, add to cart, view cart, go to checkout) in the shopper's browser, so in-browser AI agents act on your store through named functions instead of clicking through pages. Works with Luma and Hyvä."
+2026-10-14T19:09:21Z,cloakwp/image-transformations,v0.1.0,,"Composable, PHP-configured image transformation pipelines for WordPress."
+2026-10-14T19:11:29Z,meil/meil-php,0.1.0,meil.ro,Official PHP client for the meil.ro email API: transactional email and newsletters.
