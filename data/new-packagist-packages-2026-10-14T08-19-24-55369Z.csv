@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-10-14T07:20:58Z,iptrust/sdk,v0.1.0,IP Trust,"Official PHP SDK for the IP Trust API: IP geolocation, ASN, company, hosting, bot, VPN, proxy and Tor detection."
+2026-10-14T07:29:11Z,software-technologies-limited/sms,v0.0.3,James Kabz,Laravel package for integrating sms notifications
+2026-10-14T07:38:33Z,websign-dev/sillbeam,v0.1.0,,"Modular architecture extension for Symfony applications, organized around Modules and optional Projects."
+2026-10-14T07:39:21Z,welcomattic/messenger-central,v0.1.0,Mathieu Santostefano,A terminal UI to drive Symfony Messenger workers during development
+2026-10-14T07:53:14Z,novwyatt/laravel-login-guard,v0.1.0,NovWyatt,"Brute-force login protection for Laravel: progressive lockouts per IP and username, allow and block lists, events, alerts by mail, Slack or Telegram, and an audit log."
+2026-10-14T07:57:07Z,sendkuy/sdk,v1.0.0,,"PHP SDK for the SendKuy API: send WhatsApp, SMS and email from your own code."
+2026-10-14T07:57:11Z,sabroan/psr-15,1.0.0,,A lightweight PSR-15 server handler
+2026-10-14T08:03:00Z,sendkuy/laravel,v1.0.0,,"SendKuy for Laravel: WhatsApp, SMS and email notifications, a facade, and signed webhooks."
+2026-10-14T08:07:24Z,sabroan/http-emitter-interface,1.0.0,,A PHP interface for emitting PSR-7 HTTP responses
+2026-10-14T08:07:36Z,ciphera/craft-pulse-analytics,v1.0.0,Ciphera,"Privacy-first web analytics for Craft CMS. No cookies, no personal data, and the script it adds to your pages is under 3 KB."
+2026-10-14T08:16:07Z,rewi.sh/craft-mcp,1.0.0,rewi.sh,"MCP - All in one. An MCP server for Craft CMS with content tools and a control panel for tokens, activity, and agent drafts."
