@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-14T21:22:17Z,kazistm/laravel-scoped-backup,v0.0.2,KaziSTM,"Laravel backup and recovery package for full-database backups and scoped Eloquent data exports and restores, with integrity verification, dry-run validation, retention policies, and health monitoring."
+2026-10-14T21:31:22Z,hometown/estimator,v2026.10.1,"Hometown Workforce, LLC","Price home-service jobs from text, photos or a conversation with the Hometown Estimate API."
+2026-10-14T21:41:58Z,iranimij/openimport,v1.0.0,Iman Aboheydary,"OpenImport: import and export for Magento 2 with profiles, column mapping, value transforms, a dry run that previews every change, schedules and remote sources (SFTP, FTP, URL). Built on Magento's own import engine. Free and MIT."
+2026-10-14T22:04:11Z,goldnead/statamic-community,v0.1.1,Adrian Goldner,"Community for Statamic: curated rooms, posts, comments and reactions, with a chronological feed and optional pre-moderation."
+2026-10-14T22:04:11Z,goldnead/statamic-directory,v0.1.1,Adrian Goldner,Site-scoped public choir directory profiles for Statamic.
+2026-10-14T22:04:11Z,goldnead/statamic-messaging,v0.1.1,Adrian Goldner,"Messaging for Statamic: conversations between people and teams, with anonymous requests, profile release and blocking."
+2026-10-14T22:09:11Z,filagora/filagora-compliance,v0.1.0,,"Cookie consent, policy versions and privacy requests (export and erasure) for Filagora."
+2026-10-14T22:10:00Z,marcelofecchio/safe2pay-api,v0.1.0,Marcelo Fecchio,"Componente PHP enxuto para a API da Safe2Pay: Pix, cartão de crédito (à vista ou parcelado), consulta, estorno e webhook."
