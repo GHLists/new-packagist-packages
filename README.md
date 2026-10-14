@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 06:21 UTC
+## Latest list — 2026-10-14 07:20 UTC
 
-New packages created between 2026-10-14 05:21 UTC and 2026-10-14 06:21 UTC.
+New packages created between 2026-10-14 06:21 UTC and 2026-10-14 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T06-21-23-837221Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T07-20-19-362637Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 05:25:25 | [asyntai/mautic-ai-chatbot](https://www.nuget.org/packages/asyntai%2Fmautic-ai-chatbot) | 1.0.0 | Asyntai | Asyntai AI Chatbot for Mautic: an AI chat assistant on your landing pages that… |
-| 2026-10-14 05:59:08 | [alifcoder/exportable](https://www.nuget.org/packages/alifcoder%2Fexportable) | v1.0.1 |  | Async document export (csv/xlsx) for Laravel with alifcoder/query-filter |
-| 2026-10-14 06:02:37 | [fiber-interop/process](https://www.nuget.org/packages/fiber-interop%2Fprocess) | v0.1.1 |  | Cooperative proc_open() for fiber-interop/api: async\process\run() and start()… |
-| 2026-10-14 06:04:46 | [zhongchuanhao/ex-webman-admin](https://www.nuget.org/packages/zhongchuanhao%2Fex-webman-admin) | v2.0.5 | rocky | Ex-Admin for webman 2.x：基于 Ant Design of Vue + webman 的后台系统构建工具（原 rockys/ex-adm… |
-| 2026-10-14 06:06:16 | [caiyun/meeting](https://www.nuget.org/packages/caiyun%2Fmeeting) | v1.0.0 | 刘骏霖 | 为 Laravel 提供统一的在线会议能力，支持腾讯会议、华为云会议、钉钉会议与飞书会议。 |
-| 2026-10-14 06:06:58 | [kaungsithu883/laravel-offline](https://www.nuget.org/packages/kaungsithu883%2Flaravel-offline) | v0.1.0 | Kaungsithu883 | Durable browser drafts and idempotent offline form synchronization for Laravel. |
+| 2026-10-14 06:25:42 | [vampyrian/monolog-debugbar](https://www.nuget.org/packages/vampyrian%2Fmonolog-debugbar) | 0.1.0-alpha | Žilvinas Mačius |  |
+| 2026-10-14 06:27:02 | [vikramsra/laravel-zeptomail](https://www.nuget.org/packages/vikramsra%2Flaravel-zeptomail) | v1.0.0 | Vikramjeet Singh Sra; Zoho Ma… | Zoho ZeptoMail mail transport for Laravel |
+| 2026-10-14 06:34:30 | [kybdev/laravel-chat-component](https://www.nuget.org/packages/kybdev%2Flaravel-chat-component) | v0.2.0 |  | Reusable Laravel chat package designed for multi-application integration. |
+| 2026-10-14 06:46:11 | [fiber-interop/dbal](https://www.nuget.org/packages/fiber-interop%2Fdbal) | v0.1.0 |  | Doctrine DBAL drivers that run queries through fiber-interop/mysqli and fiber-i… |
+| 2026-10-14 06:59:08 | [php-es-orm/es-orm](https://www.nuget.org/packages/php-es-orm%2Fes-orm) | v1.1.0 |  | An Eloquent-style, type-safe, production-ready Elasticsearch ORM for PHP, with… |
 
 ## Data source
 
