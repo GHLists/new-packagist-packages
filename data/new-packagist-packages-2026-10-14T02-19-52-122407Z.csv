@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-14T01:32:01Z,setechsolutions/php-whois,4.2.0,Sergey Sedyshev; SETechSolutions,"Drop-in replacement for io-developer/php-whois: parsed and raw domain lookups over RDAP with WHOIS fallback, plus ASN routes. PHP 7.2+ compatible"
+2026-10-14T01:36:54Z,jeffersongoncalves/filament-cnpj-field,3.0.0,Jefferson Gonçalves,"The Filament CNPJ Field is a custom input component for Brazilian company registrations (CNPJ), including the new alphanumeric format. It handles CNPJ formatting, check digit validation and automatic company lookup through the Minha Receita API."
+2026-10-14T02:00:52Z,digiemp/laravel-boost-command-code,v0.0.1,,Command Code agent for Laravel Boost.

@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 01:22 UTC
+## Latest list — 2026-10-14 02:19 UTC
 
-New packages created between 2026-10-14 00:22 UTC and 2026-10-14 01:22 UTC.
+New packages created between 2026-10-14 01:22 UTC and 2026-10-14 02:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T01-22-46-269317Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T02-19-52-122407Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 00:41:44 | [mykholy/laravel-leakproof](https://www.nuget.org/packages/mykholy%2Flaravel-leakproof) | v1.0.1 | Ahmed Elkholy | Catch sensitive data leaking into Laravel JSON API responses before deployment. |
-| 2026-10-14 01:09:25 | [jeffersongoncalves/laravel-cnpj](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-cnpj) | 1.0.0 | Jefferson Gonçalves | A simple and efficient Laravel package for querying Brazilian company registrat… |
+| 2026-10-14 01:32:01 | [setechsolutions/php-whois](https://www.nuget.org/packages/setechsolutions%2Fphp-whois) | 4.2.0 | Sergey Sedyshev; SETechSoluti… | Drop-in replacement for io-developer/php-whois: parsed and raw domain lookups o… |
+| 2026-10-14 01:36:54 | [jeffersongoncalves/filament-cnpj-field](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-cnpj-field) | 3.0.0 | Jefferson Gonçalves | The Filament CNPJ Field is a custom input component for Brazilian company regis… |
+| 2026-10-14 02:00:52 | [digiemp/laravel-boost-command-code](https://www.nuget.org/packages/digiemp%2Flaravel-boost-command-code) | v0.0.1 |  | Command Code agent for Laravel Boost. |
 
 ## Data source
 
