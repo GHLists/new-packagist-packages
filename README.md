@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 09:22 UTC
+## Latest list — 2026-10-14 10:21 UTC
 
-New packages created between 2026-10-14 08:19 UTC and 2026-10-14 09:22 UTC.
+New packages created between 2026-10-14 09:22 UTC and 2026-10-14 10:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T09-22-29-96086Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T10-21-18-226313Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 08:19:32 | [szenario/craft-embedded-posters](https://www.nuget.org/packages/szenario%2Fcraft-embedded-posters) | 1.0.0 |  | Local poster images for Embedded Assets embeds, so cookie-consent placeholders… |
-| 2026-10-14 08:21:09 | [dskripchenko/laravel-admin-oidc](https://www.nuget.org/packages/dskripchenko%2Flaravel-admin-oidc) | v0.1.0 | Denis Skripchenko | Sign in to dskripchenko/laravel-admin panels with OpenID Connect — Keycloak, Mi… |
-| 2026-10-14 08:35:52 | [tratto/email](https://www.nuget.org/packages/tratto%2Femail) | v1.0.0 |  | Official PHP SDK for the Tratto email API |
-| 2026-10-14 08:45:31 | [wamesk/laravel-nova-action-toolbar](https://www.nuget.org/packages/wamesk%2Flaravel-nova-action-toolbar) | 5.0.0 |  | Choose per Laravel Nova action how it is shown: a button, an icon or the ⋯ menu… |
-| 2026-10-14 08:51:18 | [cosmira/soda](https://www.nuget.org/packages/cosmira%2Fsoda) | v1.0.0 | Alexandr Chernyaev | Keep your PHP code clean and maintainable by enforcing quality rules based on m… |
+| 2026-10-14 09:34:47 | [wexample/symfony-organization](https://www.nuget.org/packages/wexample%2Fsymfony-organization) | 1.0.1 |  |  |
+| 2026-10-14 09:41:09 | [caiyun/micro](https://www.nuget.org/packages/caiyun%2Fmicro) | v1.0.0 | 刘骏霖 | Laravel microservice toolkit with pluggable service discovery and registration… |
+| 2026-10-14 09:52:17 | [artisan-build/reel-client](https://www.nuget.org/packages/artisan-build%2Freel-client) | v0.1.0 |  | Laravel client for customer-owned Reel session replay. |
+| 2026-10-14 09:56:33 | [wexample/symfony-organization-ds](https://www.nuget.org/packages/wexample%2Fsymfony-organization-ds) | 1.0.1 |  |  |
+| 2026-10-14 10:02:00 | [ntzrbtr/captainhook-phpstan](https://www.nuget.org/packages/ntzrbtr%2Fcaptainhook-phpstan) | v1.0.0 | Thomas Off | CaptainHook action that runs PHPStan on staged files covered by the project's P… |
 
 ## Data source
 
