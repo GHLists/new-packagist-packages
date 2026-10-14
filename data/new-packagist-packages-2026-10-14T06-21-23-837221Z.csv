@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-14T05:25:25Z,asyntai/mautic-ai-chatbot,1.0.0,Asyntai,Asyntai AI Chatbot for Mautic: an AI chat assistant on your landing pages that answers visitors around the clock and turns the email addresses and phone numbers they share into Mautic contacts.
+2026-10-14T05:59:08Z,alifcoder/exportable,v1.0.1,,Async document export (csv/xlsx) for Laravel with alifcoder/query-filter
+2026-10-14T06:02:37Z,fiber-interop/process,v0.1.1,,"Cooperative proc_open() for fiber-interop/api: async\process\run() and start() capture stdout/stderr, pipe stdin and wait for exit on any adapter."
+2026-10-14T06:04:46Z,zhongchuanhao/ex-webman-admin,v2.0.5,rocky,Ex-Admin for webman 2.x：基于 Ant Design of Vue + webman 的后台系统构建工具（原 rockys/ex-admin 停更后的 PHP 8.4 + webman 2.2 适配版）
+2026-10-14T06:06:16Z,caiyun/meeting,v1.0.0,刘骏霖,为 Laravel 提供统一的在线会议能力，支持腾讯会议、华为云会议、钉钉会议与飞书会议。
+2026-10-14T06:06:58Z,kaungsithu883/laravel-offline,v0.1.0,Kaungsithu883,Durable browser drafts and idempotent offline form synchronization for Laravel.
