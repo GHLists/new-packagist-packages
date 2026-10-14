@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-14T08:19:32Z,szenario/craft-embedded-posters,1.0.0,,"Local poster images for Embedded Assets embeds, so cookie-consent placeholders don't contact YouTube, Vimeo or SoundCloud."
+2026-10-14T08:21:09Z,dskripchenko/laravel-admin-oidc,v0.1.0,Denis Skripchenko,"Sign in to dskripchenko/laravel-admin panels with OpenID Connect — Keycloak, Microsoft Entra ID, ADFS, Authentik or any OIDC provider: account provisioning, role mapping, per-tenant providers."
+2026-10-14T08:35:52Z,tratto/email,v1.0.0,,Official PHP SDK for the Tratto email API
+2026-10-14T08:45:31Z,wamesk/laravel-nova-action-toolbar,5.0.0,,"Choose per Laravel Nova action how it is shown: a button, an icon or the ⋯ menu — on the index, in table rows and on the detail."
+2026-10-14T08:51:18Z,cosmira/soda,v1.0.0,Alexandr Chernyaev,Keep your PHP code clean and maintainable by enforcing quality rules based on metrics

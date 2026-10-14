@@ -15,25 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 08:19 UTC
+## Latest list — 2026-10-14 09:22 UTC
 
-New packages created between 2026-10-14 07:20 UTC and 2026-10-14 08:19 UTC.
+New packages created between 2026-10-14 08:19 UTC and 2026-10-14 09:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T08-19-24-55369Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T09-22-29-96086Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 07:20:58 | [iptrust/sdk](https://www.nuget.org/packages/iptrust%2Fsdk) | v0.1.0 | IP Trust | Official PHP SDK for the IP Trust API: IP geolocation, ASN, company, hosting, b… |
-| 2026-10-14 07:29:11 | [software-technologies-limited/sms](https://www.nuget.org/packages/software-technologies-limited%2Fsms) | v0.0.3 | James Kabz | Laravel package for integrating sms notifications |
-| 2026-10-14 07:38:33 | [websign-dev/sillbeam](https://www.nuget.org/packages/websign-dev%2Fsillbeam) | v0.1.0 |  | Modular architecture extension for Symfony applications, organized around Modul… |
-| 2026-10-14 07:39:21 | [welcomattic/messenger-central](https://www.nuget.org/packages/welcomattic%2Fmessenger-central) | v0.1.0 | Mathieu Santostefano | A terminal UI to drive Symfony Messenger workers during development |
-| 2026-10-14 07:53:14 | [novwyatt/laravel-login-guard](https://www.nuget.org/packages/novwyatt%2Flaravel-login-guard) | v0.1.0 | NovWyatt | Brute-force login protection for Laravel: progressive lockouts per IP and usern… |
-| 2026-10-14 07:57:07 | [sendkuy/sdk](https://www.nuget.org/packages/sendkuy%2Fsdk) | v1.0.0 |  | PHP SDK for the SendKuy API: send WhatsApp, SMS and email from your own code. |
-| 2026-10-14 07:57:11 | [sabroan/psr-15](https://www.nuget.org/packages/sabroan%2Fpsr-15) | 1.0.0 |  | A lightweight PSR-15 server handler |
-| 2026-10-14 08:03:00 | [sendkuy/laravel](https://www.nuget.org/packages/sendkuy%2Flaravel) | v1.0.0 |  | SendKuy for Laravel: WhatsApp, SMS and email notifications, a facade, and signe… |
-| 2026-10-14 08:07:24 | [sabroan/http-emitter-interface](https://www.nuget.org/packages/sabroan%2Fhttp-emitter-interface) | 1.0.0 |  | A PHP interface for emitting PSR-7 HTTP responses |
-| 2026-10-14 08:07:36 | [ciphera/craft-pulse-analytics](https://www.nuget.org/packages/ciphera%2Fcraft-pulse-analytics) | v1.0.0 | Ciphera | Privacy-first web analytics for Craft CMS. No cookies, no personal data, and th… |
-| 2026-10-14 08:16:07 | [rewi.sh/craft-mcp](https://www.nuget.org/packages/rewi.sh%2Fcraft-mcp) | 1.0.0 | rewi.sh | MCP - All in one. An MCP server for Craft CMS with content tools and a control… |
+| 2026-10-14 08:19:32 | [szenario/craft-embedded-posters](https://www.nuget.org/packages/szenario%2Fcraft-embedded-posters) | 1.0.0 |  | Local poster images for Embedded Assets embeds, so cookie-consent placeholders… |
+| 2026-10-14 08:21:09 | [dskripchenko/laravel-admin-oidc](https://www.nuget.org/packages/dskripchenko%2Flaravel-admin-oidc) | v0.1.0 | Denis Skripchenko | Sign in to dskripchenko/laravel-admin panels with OpenID Connect — Keycloak, Mi… |
+| 2026-10-14 08:35:52 | [tratto/email](https://www.nuget.org/packages/tratto%2Femail) | v1.0.0 |  | Official PHP SDK for the Tratto email API |
+| 2026-10-14 08:45:31 | [wamesk/laravel-nova-action-toolbar](https://www.nuget.org/packages/wamesk%2Flaravel-nova-action-toolbar) | 5.0.0 |  | Choose per Laravel Nova action how it is shown: a button, an icon or the ⋯ menu… |
+| 2026-10-14 08:51:18 | [cosmira/soda](https://www.nuget.org/packages/cosmira%2Fsoda) | v1.0.0 | Alexandr Chernyaev | Keep your PHP code clean and maintainable by enforcing quality rules based on m… |
 
 ## Data source
 
