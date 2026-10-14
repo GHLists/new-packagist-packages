@@ -15,22 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 22:22 UTC
+## Latest list — 2026-10-14 23:20 UTC
 
-New packages created between 2026-10-14 21:20 UTC and 2026-10-14 22:22 UTC.
+New packages created between 2026-10-14 22:22 UTC and 2026-10-14 23:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T22-22-15-132812Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T23-20-20-061028Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 21:22:17 | [kazistm/laravel-scoped-backup](https://www.nuget.org/packages/kazistm%2Flaravel-scoped-backup) | v0.0.2 | KaziSTM | Laravel backup and recovery package for full-database backups and scoped Eloque… |
-| 2026-10-14 21:31:22 | [hometown/estimator](https://www.nuget.org/packages/hometown%2Festimator) | v2026.10.1 | Hometown Workforce, LLC | Price home-service jobs from text, photos or a conversation with the Hometown E… |
-| 2026-10-14 21:41:58 | [iranimij/openimport](https://www.nuget.org/packages/iranimij%2Fopenimport) | v1.0.0 | Iman Aboheydary | OpenImport: import and export for Magento 2 with profiles, column mapping, valu… |
-| 2026-10-14 22:04:11 | [goldnead/statamic-community](https://www.nuget.org/packages/goldnead%2Fstatamic-community) | v0.1.1 | Adrian Goldner | Community for Statamic: curated rooms, posts, comments and reactions, with a ch… |
-| 2026-10-14 22:04:11 | [goldnead/statamic-directory](https://www.nuget.org/packages/goldnead%2Fstatamic-directory) | v0.1.1 | Adrian Goldner | Site-scoped public choir directory profiles for Statamic. |
-| 2026-10-14 22:04:11 | [goldnead/statamic-messaging](https://www.nuget.org/packages/goldnead%2Fstatamic-messaging) | v0.1.1 | Adrian Goldner | Messaging for Statamic: conversations between people and teams, with anonymous… |
-| 2026-10-14 22:09:11 | [filagora/filagora-compliance](https://www.nuget.org/packages/filagora%2Ffilagora-compliance) | v0.1.0 |  | Cookie consent, policy versions and privacy requests (export and erasure) for F… |
-| 2026-10-14 22:10:00 | [marcelofecchio/safe2pay-api](https://www.nuget.org/packages/marcelofecchio%2Fsafe2pay-api) | v0.1.0 | Marcelo Fecchio | Componente PHP enxuto para a API da Safe2Pay: Pix, cartão de crédito (à vista o… |
+| 2026-10-14 22:36:40 | [pushinbr/pam-native-svg](https://www.nuget.org/packages/pushinbr%2Fpam-native-svg) | v0.1.0 |  | Native SVG for PAM Native: retained vector nodes, gradients, dashes and render-… |
+| 2026-10-14 22:54:12 | [gosimple/rs-fiscal](https://www.nuget.org/packages/gosimple%2Frs-fiscal) | v0.1.0 | GoSimple | Serbian fiscal helpers for PHP: PIB (tax ID) validation and NBS IPS QR code gen… |
+| 2026-10-14 23:01:53 | [gosimple/tezga-laravel](https://www.nuget.org/packages/gosimple%2Ftezga-laravel) | v0.1.0 | GoSimple | Laravel integration for the Tezga Fiscal API: config, a Tezga facade, and a sig… |
+| 2026-10-14 23:11:56 | [paygate-to/paygate-php](https://www.nuget.org/packages/paygate-to%2Fpaygate-php) | v1.0.0 |  | PHP SDK for PayGate.to: card and crypto payments without KYC, instant payouts t… |
 
 ## Data source
 

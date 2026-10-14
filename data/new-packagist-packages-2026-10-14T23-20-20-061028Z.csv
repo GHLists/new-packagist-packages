@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-14T22:36:40Z,pushinbr/pam-native-svg,v0.1.0,,"Native SVG for PAM Native: retained vector nodes, gradients, dashes and render-thread animations on Android Canvas and Core Animation."
+2026-10-14T22:54:12Z,gosimple/rs-fiscal,v0.1.0,GoSimple,Serbian fiscal helpers for PHP: PIB (tax ID) validation and NBS IPS QR code generation. A GoSimple product.
+2026-10-14T23:01:53Z,gosimple/tezga-laravel,v0.1.0,GoSimple,"Laravel integration for the Tezga Fiscal API: config, a Tezga facade, and a signed webhook route. A GoSimple product."
+2026-10-14T23:11:56Z,paygate-to/paygate-php,v1.0.0,,"PHP SDK for PayGate.to: card and crypto payments without KYC, instant payouts to your own wallet, and signed callback verification."
