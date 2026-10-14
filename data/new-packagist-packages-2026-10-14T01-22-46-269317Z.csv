@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-14T00:41:44Z,mykholy/laravel-leakproof,v1.0.1,Ahmed Elkholy,Catch sensitive data leaking into Laravel JSON API responses before deployment.
+2026-10-14T01:09:25Z,jeffersongoncalves/laravel-cnpj,1.0.0,Jefferson Gonçalves,"A simple and efficient Laravel package for querying Brazilian company registrations (CNPJ), including the new alphanumeric format, through the Minha Receita API with local database caching."

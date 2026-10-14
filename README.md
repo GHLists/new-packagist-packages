@@ -15,21 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 23:19 UTC
+## Latest list — 2026-10-14 01:22 UTC
 
-New packages created between 2026-10-13 22:18 UTC and 2026-10-13 23:19 UTC.
+New packages created between 2026-10-14 00:22 UTC and 2026-10-14 01:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-13T23-19-39-373535Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T01-22-46-269317Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-13 22:24:14 | [hksagentur/kirby-fragments](https://www.nuget.org/packages/hksagentur%2Fkirby-fragments) | 0.1.1 | Daniel Weidner | Serve snippets as HTML fragments for progressive enhancement in Kirby CMS |
-| 2026-10-13 22:36:30 | [mtubis/html-translator-laravel](https://www.nuget.org/packages/mtubis%2Fhtml-translator-laravel) | v0.1.0 | Magdalena Tubis | Laravel integration for mtubis/html-translator: translate HTML with LLMs (OpenA… |
-| 2026-10-13 22:37:08 | [tryhackx/flarum-homepage-blocks](https://www.nuget.org/packages/tryhackx%2Fflarum-homepage-blocks) | 2.8.2 | TryHackX | Customizable homepage blocks for tracker-style Flarum forums featuring dual sta… |
-| 2026-10-13 22:46:50 | [fiber-interop/pg](https://www.nuget.org/packages/fiber-interop%2Fpg) | v0.1.0 |  | Cooperative pg_query() for fiber-interop/api: async\pg\query(), query_params(),… |
-| 2026-10-13 22:56:09 | [wilycode/translation-array](https://www.nuget.org/packages/wilycode%2Ftranslation-array) | v0.1.0 | Simon Piter | Lazy PHP array translation provider with language fallback, pluralization, and… |
-| 2026-10-13 23:03:21 | [tamarackdb/tamarackdb-php](https://www.nuget.org/packages/tamarackdb%2Ftamarackdb-php) | v0.5.0 |  | PHP client for TamarackDB, an event store compliant with the DCB specification. |
-| 2026-10-13 23:13:35 | [wilycode/translation-database](https://www.nuget.org/packages/wilycode%2Ftranslation-database) | v0.1.0 | Simon Piter | Lazy database-backed PHP translation provider with pluralization, language fall… |
+| 2026-10-14 00:41:44 | [mykholy/laravel-leakproof](https://www.nuget.org/packages/mykholy%2Flaravel-leakproof) | v1.0.1 | Ahmed Elkholy | Catch sensitive data leaking into Laravel JSON API responses before deployment. |
+| 2026-10-14 01:09:25 | [jeffersongoncalves/laravel-cnpj](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-cnpj) | 1.0.0 | Jefferson Gonçalves | A simple and efficient Laravel package for querying Brazilian company registrat… |
 
 ## Data source
 
