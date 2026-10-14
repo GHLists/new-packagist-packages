@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 10:21 UTC
+## Latest list — 2026-10-14 11:21 UTC
 
-New packages created between 2026-10-14 09:22 UTC and 2026-10-14 10:21 UTC.
+New packages created between 2026-10-14 10:21 UTC and 2026-10-14 11:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T10-21-18-226313Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T11-21-06-701125Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 09:34:47 | [wexample/symfony-organization](https://www.nuget.org/packages/wexample%2Fsymfony-organization) | 1.0.1 |  |  |
-| 2026-10-14 09:41:09 | [caiyun/micro](https://www.nuget.org/packages/caiyun%2Fmicro) | v1.0.0 | 刘骏霖 | Laravel microservice toolkit with pluggable service discovery and registration… |
-| 2026-10-14 09:52:17 | [artisan-build/reel-client](https://www.nuget.org/packages/artisan-build%2Freel-client) | v0.1.0 |  | Laravel client for customer-owned Reel session replay. |
-| 2026-10-14 09:56:33 | [wexample/symfony-organization-ds](https://www.nuget.org/packages/wexample%2Fsymfony-organization-ds) | 1.0.1 |  |  |
-| 2026-10-14 10:02:00 | [ntzrbtr/captainhook-phpstan](https://www.nuget.org/packages/ntzrbtr%2Fcaptainhook-phpstan) | v1.0.0 | Thomas Off | CaptainHook action that runs PHPStan on staged files covered by the project's P… |
+| 2026-10-14 10:49:18 | [webpatser/fledge-apm](https://www.nuget.org/packages/webpatser%2Ffledge-apm) | v0.1.0 | Christoph Kempen | Fiber-aware OpenTelemetry tracing for the Fledge framework, exported as OTLP to… |
+| 2026-10-14 10:52:54 | [deployecommerce/magento-community-patches](https://www.nuget.org/packages/deployecommerce%2Fmagento-community-patches) | 1.0.0 |  | Applies Adobe's official Magento Open Source security patches automatically on… |
+| 2026-10-14 11:02:19 | [webpatser/fledge-pulse](https://www.nuget.org/packages/webpatser%2Ffledge-pulse) | v1.8.1.0 | Taylor Otwell; Christoph Kemp… | Fiber-native fork of Laravel Pulse for the Fledge framework: a real-time applic… |
+| 2026-10-14 11:08:40 | [webpatser/fledge-pulse-elasticsearch](https://www.nuget.org/packages/webpatser%2Ffledge-pulse-elasticsearch) | v0.1.0 | Christoph Kempen | Elasticsearch storage driver for Fledge Pulse: entries in a data stream with IL… |
 
 ## Data source
 

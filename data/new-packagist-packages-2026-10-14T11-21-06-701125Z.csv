@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-14T10:49:18Z,webpatser/fledge-apm,v0.1.0,Christoph Kempen,"Fiber-aware OpenTelemetry tracing for the Fledge framework, exported as OTLP to Elastic APM or any OTel backend."
+2026-10-14T10:52:54Z,deployecommerce/magento-community-patches,1.0.0,,Applies Adobe's official Magento Open Source security patches automatically on composer install and update.
+2026-10-14T11:02:19Z,webpatser/fledge-pulse,v1.8.1.0,Taylor Otwell; Christoph Kempen,Fiber-native fork of Laravel Pulse for the Fledge framework: a real-time application performance monitoring tool and dashboard.
+2026-10-14T11:08:40Z,webpatser/fledge-pulse-elasticsearch,v0.1.0,Christoph Kempen,"Elasticsearch storage driver for Fledge Pulse: entries in a data stream with ILM retention, fiber-async reads and bulk writes."
