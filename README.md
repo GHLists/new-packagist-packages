@@ -15,22 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 12:21 UTC
+## Latest list — 2026-10-14 13:21 UTC
 
-New packages created between 2026-10-14 11:21 UTC and 2026-10-14 12:21 UTC.
+New packages created between 2026-10-14 12:21 UTC and 2026-10-14 13:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T12-21-26-052051Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T13-21-31-872014Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 11:29:19 | [oscaraccountant/sdk](https://www.nuget.org/packages/oscaraccountant%2Fsdk) | v0.1.0 | OscarAI OÜ | The PHP SDK of the Oscar accounting API. |
-| 2026-10-14 11:32:29 | [a-mazalov/kali-tools](https://www.nuget.org/packages/a-mazalov%2Fkali-tools) | v1.0.1 | a-mazalov | Utilities for a Laravel Project |
-| 2026-10-14 11:39:53 | [stejac/code-thresholds](https://www.nuget.org/packages/stejac%2Fcode-thresholds) | v1.0.0 | Stefan Jacomeit | Dependency-free size and complexity gate for PHP that checks only changed files… |
-| 2026-10-14 11:42:08 | [vendic/hyva-checkout-mirasvit-rewards](https://www.nuget.org/packages/vendic%2Fhyva-checkout-mirasvit-rewards) | 1.0.0 |  | Hyvä checkout compatibility module for Mirasvit Rewards. See: https://mirasvit.… |
-| 2026-10-14 11:58:01 | [pieceofcake2/e2e-test](https://www.nuget.org/packages/pieceofcake2%2Fe2e-test) | v1.0.0 |  | Browser end-to-end tests for CakePHP 2 applications with Symfony Panther and PH… |
-| 2026-10-14 12:00:16 | [irnoti/laravel-sms-panel-api](https://www.nuget.org/packages/irnoti%2Flaravel-sms-panel-api) | v1.0.0 | irnoti | Official Laravel SDK for the irnoti platform API — SMS (single, bulk, pattern,… |
-| 2026-10-14 12:02:02 | [koh/typo3-fal-s3](https://www.nuget.org/packages/koh%2Ftypo3-fal-s3) | v1.0.4 | Kai Ole Hartwig | TYPO3 FAL driver for Amazon S3: media without a FUSE mount, one IAM role per te… |
-| 2026-10-14 12:08:42 | [php-es-orm/es-orm](https://www.nuget.org/packages/php-es-orm%2Fes-orm) | v1.2.0 |  | An Eloquent-style, type-safe, production-ready Elasticsearch ORM for PHP, with… |
+| 2026-10-14 12:22:23 | [web-tp3/pdf](https://www.nuget.org/packages/web-tp3%2Fpdf) | 1.0.0 | Thomas Ruta | pdf renderings |
+| 2026-10-14 12:37:12 | [patrykgruszka/composer-dist-probe](https://www.nuget.org/packages/patrykgruszka%2Fcomposer-dist-probe) | 0.0.2 |  | Disposable probe: does Packagist honor a dist key in composer.json? Will be del… |
+| 2026-10-14 12:47:05 | [pdftoolkit/opentype](https://www.nuget.org/packages/pdftoolkit%2Fopentype) | v0.1.0 | Mathias STRASSER | Explicit OpenType font objects, bounded SFNT reading and glyph substitutions |
+| 2026-10-14 12:47:10 | [esigner/sdk](https://www.nuget.org/packages/esigner%2Fsdk) | v0.2.0 |  | Official PHP client for the esigner e-signing API: BankID, MitID and other eID… |
+| 2026-10-14 13:00:22 | [sivasakthi/jeephp](https://www.nuget.org/packages/sivasakthi%2Fjeephp) | v1.0.0 |  | A small, readable PHP framework with simple database helpers. |
+| 2026-10-14 13:01:36 | [fluidstan/typo3](https://www.nuget.org/packages/fluidstan%2Ftypo3) | 0.1.0 | Sascha Egerer | TYPO3 integration for FluidStan: boots TYPO3, registers its Fluid namespaces an… |
+| 2026-10-14 13:03:18 | [hawkforge/laravel-ai-blog](https://www.nuget.org/packages/hawkforge%2Flaravel-ai-blog) | v0.1.0 | Mr Hawk | The AI-native blog for Laravel. Headless by default, SEO built in, AI as your e… |
+| 2026-10-14 13:14:06 | [helsingborg-stad/wpmu-allow-sentry-agent](https://www.nuget.org/packages/helsingborg-stad%2Fwpmu-allow-sentry-agent) | 0.1.0 | Thor Brink | Allow connecting to a local Sentry agent. |
+| 2026-10-14 13:16:24 | [mykholy/laravel-flowguard](https://www.nuget.org/packages/mykholy%2Flaravel-flowguard) | v0.1.0-beta.1 | Ahmed El-Kholy | Fail-closed Laravel operations with idempotency, reconciliation, durable inbox/… |
+| 2026-10-14 13:17:35 | [mohemian/flink-sdk-php](https://www.nuget.org/packages/mohemian%2Fflink-sdk-php) | v0.1.0 |  | Verify FLINK's signed assertions (eID prefill, flow results) in a Laravel backe… |
 
 ## Data source
 

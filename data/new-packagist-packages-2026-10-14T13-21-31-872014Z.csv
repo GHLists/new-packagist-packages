@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-14T12:22:23Z,web-tp3/pdf,1.0.0,Thomas Ruta,pdf renderings
+2026-10-14T12:37:12Z,patrykgruszka/composer-dist-probe,0.0.2,,Disposable probe: does Packagist honor a dist key in composer.json? Will be deleted.
+2026-10-14T12:47:05Z,pdftoolkit/opentype,v0.1.0,Mathias STRASSER,"Explicit OpenType font objects, bounded SFNT reading and glyph substitutions"
+2026-10-14T12:47:10Z,esigner/sdk,v0.2.0,,"Official PHP client for the esigner e-signing API: BankID, MitID and other eID signature requests, signed PDFs and verified webhooks."
+2026-10-14T13:00:22Z,sivasakthi/jeephp,v1.0.0,,"A small, readable PHP framework with simple database helpers."
+2026-10-14T13:01:36Z,fluidstan/typo3,0.1.0,Sascha Egerer,"TYPO3 integration for FluidStan: boots TYPO3, registers its Fluid namespaces and resolves EXT: paths"
+2026-10-14T13:03:18Z,hawkforge/laravel-ai-blog,v0.1.0,Mr Hawk,"The AI-native blog for Laravel. Headless by default, SEO built in, AI as your editor, MCP so chat agents can write to it."
+2026-10-14T13:14:06Z,helsingborg-stad/wpmu-allow-sentry-agent,0.1.0,Thor Brink,Allow connecting to a local Sentry agent.
+2026-10-14T13:16:24Z,mykholy/laravel-flowguard,v0.1.0-beta.1,Ahmed El-Kholy,"Fail-closed Laravel operations with idempotency, reconciliation, durable inbox/outbox, and fenced delivery."
+2026-10-14T13:17:35Z,mohemian/flink-sdk-php,v0.1.0,,"Verify FLINK's signed assertions (eID prefill, flow results) in a Laravel backend."
