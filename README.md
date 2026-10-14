@@ -15,23 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 20:22 UTC
+## Latest list — 2026-10-14 21:20 UTC
 
-New packages created between 2026-10-14 19:20 UTC and 2026-10-14 20:22 UTC.
+New packages created between 2026-10-14 20:22 UTC and 2026-10-14 21:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T20-22-08-741517Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T21-20-59-516775Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 19:22:35 | [laraxgram/apiserver](https://www.nuget.org/packages/laraxgram%2Fapiserver) | v0.1.0 | AmirHossein | A Telegram Bot API server built on LaraGram MTProto. |
-| 2026-10-14 19:30:14 | [x-laravel/sluggable](https://www.nuget.org/packages/x-laravel%2Fsluggable) | v1.0.0 | Mehmet ÖĞMEN | Slugs for Eloquent models with Turkish-aware generation, race-safe uniqueness a… |
-| 2026-10-14 19:32:22 | [angeo/module-ucp-checkout](https://www.nuget.org/packages/angeo%2Fmodule-ucp-checkout) | 1.0.0 |  | UCP checkout for Magento 2 (dev.ucp.shopping.checkout + discount + fulfillment,… |
-| 2026-10-14 19:37:26 | [factusmart/sdk](https://www.nuget.org/packages/factusmart%2Fsdk) | v0.1.0 | FactuSmart | SDK oficial en PHP del API de facturación electrónica de FactuSmart (SUNAT, Per… |
-| 2026-10-14 19:41:29 | [x-laravel/username](https://www.nuget.org/packages/x-laravel%2Fusername) | v1.0.0 | Mehmet ÖĞMEN | Configurable username validation, reserved-name checking and username generatio… |
-| 2026-10-14 19:52:40 | [runomine/runomine-php](https://www.nuget.org/packages/runomine%2Frunomine-php) | v0.1.0 |  | Cookieless, server-side analytics for runomine: pageviews, business events and… |
-| 2026-10-14 20:10:02 | [disrex/magento-patch-installer](https://www.nuget.org/packages/disrex%2Fmagento-patch-installer) | 0.1.0 | Disrex | Applies Magento 2 / Adobe Commerce security patches, verifies they stay applied… |
-| 2026-10-14 20:10:19 | [gavtaylor/rememberme](https://www.nuget.org/packages/gavtaylor%2Frememberme) | v0.1.0 | Gavin Taylor | "Keep me logged in" for Roundcube: longer sessions only for browsers you choose… |
-| 2026-10-14 20:10:45 | [disrex/magento-security-patches](https://www.nuget.org/packages/disrex%2Fmagento-security-patches) | 0.1.0 | Disrex | Adobe's isolated and out-of-band security patches for Magento Open Source, Adob… |
+| 2026-10-14 20:28:59 | [directorytree/screenshot](https://www.nuget.org/packages/directorytree%2Fscreenshot) | v1.0.0 | Steve Bauman | Create browser screenshots with PHP and Laravel. |
+| 2026-10-14 20:52:38 | [projectsaturnstudios/starlight-inertia](https://www.nuget.org/packages/projectsaturnstudios%2Fstarlight-inertia) | 0.10.0 | Angel Gonzalez | A Starlight-shaped documentation theme for Laravel + Inertia (Vue): tokens, chr… |
+| 2026-10-14 21:01:39 | [yasser-elgammal/green-ai-assistant](https://www.nuget.org/packages/yasser-elgammal%2Fgreen-ai-assistant) | v1.0.0 | Yasser Elgammal | Green Framework AI Assistant Package |
 
 ## Data source
 

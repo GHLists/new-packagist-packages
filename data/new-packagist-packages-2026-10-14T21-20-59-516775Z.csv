@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-14T20:28:59Z,directorytree/screenshot,v1.0.0,Steve Bauman,Create browser screenshots with PHP and Laravel.
+2026-10-14T20:52:38Z,projectsaturnstudios/starlight-inertia,0.10.0,Angel Gonzalez,"A Starlight-shaped documentation theme for Laravel + Inertia (Vue): tokens, chrome, markdown styling and the markdown renderer that matches it."
+2026-10-14T21:01:39Z,yasser-elgammal/green-ai-assistant,v1.0.0,Yasser Elgammal,Green Framework AI Assistant Package
