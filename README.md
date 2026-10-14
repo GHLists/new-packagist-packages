@@ -15,20 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 14:23 UTC
+## Latest list — 2026-10-14 16:23 UTC
 
-New packages created between 2026-10-14 13:21 UTC and 2026-10-14 14:23 UTC.
+New packages created between 2026-10-14 14:23 UTC and 2026-10-14 16:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T14-23-30-677765Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T16-23-00-687779Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 13:50:30 | [x-laravel/username](https://www.nuget.org/packages/x-laravel%2Fusername) | v1.0.0 | Mehmet ÖĞMEN | Configurable username validation, reserved-name checking and username generatio… |
-| 2026-10-14 13:54:16 | [arout/rhapsody-app](https://www.nuget.org/packages/arout%2Frhapsody-app) | v1.0.0 | Andrew Rout | The skeleton application for the Rhapsody Framework |
-| 2026-10-14 13:55:05 | [kitaris/environment-indicator](https://www.nuget.org/packages/kitaris%2Fenvironment-indicator) | v1.0.0 | Kitaris | Shows which environment a WordPress site is running as (local, development, sta… |
-| 2026-10-14 14:13:03 | [mikhailmelnikov/laravel-jobs-monitor](https://www.nuget.org/packages/mikhailmelnikov%2Flaravel-jobs-monitor) | v1.0.0 | Mikhail Melnikov | Admin-agnostic core for monitoring Laravel scheduled tasks and database queue j… |
-| 2026-10-14 14:13:21 | [vinkius/ai-connect-sdk-laravel](https://www.nuget.org/packages/vinkius%2Fai-connect-sdk-laravel) | v0.1.0 | Vinkius | Laravel integration for @vinkius/connect. Give every user of your AI app their… |
-| 2026-10-14 14:13:21 | [vinkius/connect-laravel](https://www.nuget.org/packages/vinkius%2Fconnect-laravel) | v0.1.0 | Vinkius | Laravel integration for @vinkius/connect. Give every user of your AI app their… |
+| 2026-10-14 14:25:17 | [mikhailmelnikov/backpack-jobs-monitor](https://www.nuget.org/packages/mikhailmelnikov%2Fbackpack-jobs-monitor) | v1.0.1 | Mikhail Melnikov | Backpack for Laravel add-on: scheduler tasks and database queue jobs in the adm… |
+| 2026-10-14 14:40:59 | [diablomedia/address-formatter-php](https://www.nuget.org/packages/diablomedia%2Faddress-formatter-php) | 1.2.0 | PredictHQ; Robert Kern; Diabl… | Address formatter using country templates from https://github.com/OpenCageData/… |
+| 2026-10-14 14:41:18 | [hwkdo/intranet-app-maqual](https://www.nuget.org/packages/hwkdo%2Fintranet-app-maqual) | v0.1.1 | hwkdo | Verwaltung, Beantragung und Bewertung von Mitarbeiterqualifizierungen |
+| 2026-10-14 14:46:50 | [praveendias1180/a2a-laravel-starter](https://www.nuget.org/packages/praveendias1180%2Fa2a-laravel-starter) | v1.0.1 |  | A Laravel app that is already an A2A (Agent2Agent) agent. Clone it, run it, and… |
+| 2026-10-14 15:05:29 | [codetiv/upgates-php-sdk](https://www.nuget.org/packages/codetiv%2Fupgates-php-sdk) | v0.0.1 | Pavel Skrbel | Elegant SDK written in PHP to work with the Upgates API |
+| 2026-10-14 15:13:08 | [statikbe/craft-entry-anchors](https://www.nuget.org/packages/statikbe%2Fcraft-entry-anchors) | 1.0.0-beta.2 | Statik | Anchor titles for Craft CMS blocks, and an anchor dropdown on Link fields to li… |
+| 2026-10-14 15:21:53 | [miraiportal/laravel-kagero](https://www.nuget.org/packages/miraiportal%2Flaravel-kagero) | 1.0.0 |  |  |
+| 2026-10-14 15:25:15 | [ernestdefoe/backdrop](https://www.nuget.org/packages/ernestdefoe%2Fbackdrop) | 1.0.0 | Ernest Defoe | Profile covers for Flarum 2: upload, drag to frame, zoom. On profiles, hover ca… |
+| 2026-10-14 15:27:47 | [hussainweb/taarikh-picker](https://www.nuget.org/packages/hussainweb%2Ftaarikh-picker) | v0.1.0 | Hussain Abbas | Lightweight, accessible Hijri calendar date picker |
+| 2026-10-14 16:16:07 | [echoproof/laravel](https://www.nuget.org/packages/echoproof%2Flaravel) | v0.1.0 |  | Record real Laravel traffic as Echoproof snapshots, without a proxy |
 
 ## Data source
 

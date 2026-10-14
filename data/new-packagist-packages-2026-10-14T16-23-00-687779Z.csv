@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-14T14:25:17Z,mikhailmelnikov/backpack-jobs-monitor,v1.0.1,Mikhail Melnikov,"Backpack for Laravel add-on: scheduler tasks and database queue jobs in the admin panel — list, run, retry, forget, flush."
+2026-10-14T14:40:59Z,diablomedia/address-formatter-php,1.2.0,PredictHQ; Robert Kern; Diablo Media,Address formatter using country templates from https://github.com/OpenCageData/address-formatting
+2026-10-14T14:41:18Z,hwkdo/intranet-app-maqual,v0.1.1,hwkdo,"Verwaltung, Beantragung und Bewertung von Mitarbeiterqualifizierungen"
+2026-10-14T14:46:50Z,praveendias1180/a2a-laravel-starter,v1.0.1,,"A Laravel app that is already an A2A (Agent2Agent) agent. Clone it, run it, and replace the example agent with your own."
+2026-10-14T15:05:29Z,codetiv/upgates-php-sdk,v0.0.1,Pavel Skrbel,Elegant SDK written in PHP to work with the Upgates API
+2026-10-14T15:13:08Z,statikbe/craft-entry-anchors,1.0.0-beta.2,Statik,"Anchor titles for Craft CMS blocks, and an anchor dropdown on Link fields to link to a block on an entry"
+2026-10-14T15:21:53Z,miraiportal/laravel-kagero,1.0.0,,
+2026-10-14T15:25:15Z,ernestdefoe/backdrop,1.0.0,Ernest Defoe,"Profile covers for Flarum 2: upload, drag to frame, zoom. On profiles, hover cards and the member directory, without patching anything other extensions rely on."
+2026-10-14T15:27:47Z,hussainweb/taarikh-picker,v0.1.0,Hussain Abbas,"Lightweight, accessible Hijri calendar date picker"
+2026-10-14T16:16:07Z,echoproof/laravel,v0.1.0,,"Record real Laravel traffic as Echoproof snapshots, without a proxy"
