@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-14T02:38:58Z,versawys/kernel,v2.2.0,Jorge Jara H.,"Núcleo del framework versaWYS-PHP: enrutamiento, middlewares, sesión/JWT, Twig, CLI y VersaORM."
+2026-10-14T02:53:20Z,snebes/newrelic-zts,v12.6.0.34,,Unofficial ZTS (thread-safe) build of the New Relic PHP agent extension for FrankenPHP and other ZTS PHP runtimes

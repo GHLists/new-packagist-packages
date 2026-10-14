@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 02:19 UTC
+## Latest list — 2026-10-14 03:22 UTC
 
-New packages created between 2026-10-14 01:22 UTC and 2026-10-14 02:19 UTC.
+New packages created between 2026-10-14 02:19 UTC and 2026-10-14 03:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T02-19-52-122407Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T03-22-43-609701Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 01:32:01 | [setechsolutions/php-whois](https://www.nuget.org/packages/setechsolutions%2Fphp-whois) | 4.2.0 | Sergey Sedyshev; SETechSoluti… | Drop-in replacement for io-developer/php-whois: parsed and raw domain lookups o… |
-| 2026-10-14 01:36:54 | [jeffersongoncalves/filament-cnpj-field](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-cnpj-field) | 3.0.0 | Jefferson Gonçalves | The Filament CNPJ Field is a custom input component for Brazilian company regis… |
-| 2026-10-14 02:00:52 | [digiemp/laravel-boost-command-code](https://www.nuget.org/packages/digiemp%2Flaravel-boost-command-code) | v0.0.1 |  | Command Code agent for Laravel Boost. |
+| 2026-10-14 02:38:58 | [versawys/kernel](https://www.nuget.org/packages/versawys%2Fkernel) | v2.2.0 | Jorge Jara H. | Núcleo del framework versaWYS-PHP: enrutamiento, middlewares, sesión/JWT, Twig,… |
+| 2026-10-14 02:53:20 | [snebes/newrelic-zts](https://www.nuget.org/packages/snebes%2Fnewrelic-zts) | v12.6.0.34 |  | Unofficial ZTS (thread-safe) build of the New Relic PHP agent extension for Fra… |
 
 ## Data source
 
