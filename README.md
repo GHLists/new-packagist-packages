@@ -15,19 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 04:21 UTC
+## Latest list — 2026-10-14 05:21 UTC
 
-New packages created between 2026-10-14 03:22 UTC and 2026-10-14 04:21 UTC.
+New packages created between 2026-10-14 04:21 UTC and 2026-10-14 05:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T04-21-46-238998Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T05-21-48-837449Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 03:38:11 | [caturseptian/laravel-sluggable](https://www.nuget.org/packages/caturseptian%2Flaravel-sluggable) | v1.0.0 | Catur Septian; Freek Van der… | Slug Eloquent yang paham bahasa Indonesia untuk Laravel 6–13, bisa di-eject aga… |
-| 2026-10-14 03:50:51 | [expertsystemsau/trackto-laravel-client](https://www.nuget.org/packages/expertsystemsau%2Ftrackto-laravel-client) | v0.1.0 | Mitchell Williams | Laravel integration for the track.to API |
-| 2026-10-14 03:50:51 | [expertsystemsau/trackto-php-client](https://www.nuget.org/packages/expertsystemsau%2Ftrackto-php-client) | v0.1.0 | Mitchell Williams | Framework-agnostic PHP client for the track.to API |
-| 2026-10-14 03:54:27 | [caiyun/asr](https://www.nuget.org/packages/caiyun%2Fasr) | v1.0.0 | 刘骏霖 | 彩云语音识别服务，统一封装腾讯云、科大讯飞、阿里云一句话识别 |
-| 2026-10-14 04:12:22 | [ogunsakin01/laravel-video-demos](https://www.nuget.org/packages/ogunsakin01%2Flaravel-video-demos) | v0.1.0 | Damilola Ogunsakin | Generate how-to videos of your Laravel app with Claude. Describe a flow, set a… |
+| 2026-10-14 04:32:01 | [directorytree/screenshot](https://www.nuget.org/packages/directorytree%2Fscreenshot) | v1.1.0 | Steve Bauman | Create browser screenshots with PHP and Laravel. |
+| 2026-10-14 04:48:03 | [freepeace13/laraversine](https://www.nuget.org/packages/freepeace13%2Flaraversine) | v1.0.0 | Kin Basco | Find the nearest locations in Laravel with Eloquent using the haversine formula… |
+| 2026-10-14 05:02:17 | [itools/svgsecuritycheck](https://www.nuget.org/packages/itools%2Fsvgsecuritycheck) | v1.0.0 | interactivetools.com | Allowlist check for uploaded SVG files: rejects any that could run script, load… |
 
 ## Data source
 

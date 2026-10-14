@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-14T04:32:01Z,directorytree/screenshot,v1.1.0,Steve Bauman,Create browser screenshots with PHP and Laravel.
+2026-10-14T04:48:03Z,freepeace13/laraversine,v1.0.0,Kin Basco,"Find the nearest locations in Laravel with Eloquent using the haversine formula. Radius search and distance sorting on MySQL, PostgreSQL and SQLite."
+2026-10-14T05:02:17Z,itools/svgsecuritycheck,v1.0.0,interactivetools.com,"Allowlist check for uploaded SVG files: rejects any that could run script, load an outside resource, or hang a renderer, even when opened outside an <img> tag, and never rewrites a file it accepts"
