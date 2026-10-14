@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-14T11:29:19Z,oscaraccountant/sdk,v0.1.0,OscarAI OÜ,The PHP SDK of the Oscar accounting API.
+2026-10-14T11:32:29Z,a-mazalov/kali-tools,v1.0.1,a-mazalov,Utilities for a Laravel Project
+2026-10-14T11:39:53Z,stejac/code-thresholds,v1.0.0,Stefan Jacomeit,"Dependency-free size and complexity gate for PHP that checks only changed files: method count, parameters, returns, function length, nesting depth, unused variables."
+2026-10-14T11:42:08Z,vendic/hyva-checkout-mirasvit-rewards,1.0.0,,Hyvä checkout compatibility module for Mirasvit Rewards. See: https://mirasvit.com/magento-2-extensions/reward-points-referral-program.html
+2026-10-14T11:58:01Z,pieceofcake2/e2e-test,v1.0.0,,Browser end-to-end tests for CakePHP 2 applications with Symfony Panther and PHPUnit
+2026-10-14T12:00:16Z,irnoti/laravel-sms-panel-api,v1.0.0,irnoti,"Official Laravel SDK for the irnoti platform API — SMS (single, bulk, pattern, scheduled, gradual, SOS), provider services, phonebook, link tracker, number banks, verify, bots and VoIP, with a typed fluent client and webhook verification."
+2026-10-14T12:02:02Z,koh/typo3-fal-s3,v1.0.4,Kai Ole Hartwig,"TYPO3 FAL driver for Amazon S3: media without a FUSE mount, one IAM role per tenant via web identity, public URLs unchanged, a persistent metadata cache so S3 is asked once."
+2026-10-14T12:08:42Z,php-es-orm/es-orm,v1.2.0,,"An Eloquent-style, type-safe, production-ready Elasticsearch ORM for PHP, with full Query DSL, Aggregations, Search After, PIT, Bulk, Alias and Reindex support."
