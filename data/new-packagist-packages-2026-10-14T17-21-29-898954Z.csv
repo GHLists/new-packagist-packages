@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-14T16:44:53Z,x-laravel/username,v1.0.0,Mehmet ÖĞMEN,"Configurable username validation, reserved-name checking and username generation for Laravel."
+2026-10-14T16:52:02Z,kechankrisna/php_wing,v1.0.0,kechankrisna,"Wing Bank online payment (Web SDK v2) client for PHP: authorize payments, open Wing's payment page, inquire transactions, and decrypt callbacks."
