@@ -15,20 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 19:20 UTC
+## Latest list — 2026-10-14 20:22 UTC
 
-New packages created between 2026-10-14 18:20 UTC and 2026-10-14 19:20 UTC.
+New packages created between 2026-10-14 19:20 UTC and 2026-10-14 20:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T19-20-06-033665Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T20-22-08-741517Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 18:25:52 | [myadion/sdk](https://www.nuget.org/packages/myadion%2Fsdk) | v0.2.0 | Adion | Official PHP library for the Adion Cloud API: Adion Pay, SMS and every other en… |
-| 2026-10-14 18:41:21 | [pdftoolkit/pdf-to-html](https://www.nuget.org/packages/pdftoolkit%2Fpdf-to-html) | v0.1.1 | Mathias STRASSER | Explicit object-oriented derivation of tagged PDF to semantic HTML for PHP 8.3+ |
-| 2026-10-14 18:42:39 | [psbits/crafter](https://www.nuget.org/packages/psbits%2Fcrafter) | 1.0.0 | Daniel Ablass | Code and file generator for TYPO3 extensions |
-| 2026-10-14 18:53:38 | [angeo/module-webmcp](https://www.nuget.org/packages/angeo%2Fmodule-webmcp) | 1.0.0 |  | WebMCP for Magento 2 — registers structured tools (product search, product deta… |
-| 2026-10-14 19:09:21 | [cloakwp/image-transformations](https://www.nuget.org/packages/cloakwp%2Fimage-transformations) | v0.1.0 |  | Composable, PHP-configured image transformation pipelines for WordPress. |
-| 2026-10-14 19:11:29 | [meil/meil-php](https://www.nuget.org/packages/meil%2Fmeil-php) | 0.1.0 | meil.ro | Official PHP client for the meil.ro email API: transactional email and newslett… |
+| 2026-10-14 19:22:35 | [laraxgram/apiserver](https://www.nuget.org/packages/laraxgram%2Fapiserver) | v0.1.0 | AmirHossein | A Telegram Bot API server built on LaraGram MTProto. |
+| 2026-10-14 19:30:14 | [x-laravel/sluggable](https://www.nuget.org/packages/x-laravel%2Fsluggable) | v1.0.0 | Mehmet ÖĞMEN | Slugs for Eloquent models with Turkish-aware generation, race-safe uniqueness a… |
+| 2026-10-14 19:32:22 | [angeo/module-ucp-checkout](https://www.nuget.org/packages/angeo%2Fmodule-ucp-checkout) | 1.0.0 |  | UCP checkout for Magento 2 (dev.ucp.shopping.checkout + discount + fulfillment,… |
+| 2026-10-14 19:37:26 | [factusmart/sdk](https://www.nuget.org/packages/factusmart%2Fsdk) | v0.1.0 | FactuSmart | SDK oficial en PHP del API de facturación electrónica de FactuSmart (SUNAT, Per… |
+| 2026-10-14 19:41:29 | [x-laravel/username](https://www.nuget.org/packages/x-laravel%2Fusername) | v1.0.0 | Mehmet ÖĞMEN | Configurable username validation, reserved-name checking and username generatio… |
+| 2026-10-14 19:52:40 | [runomine/runomine-php](https://www.nuget.org/packages/runomine%2Frunomine-php) | v0.1.0 |  | Cookieless, server-side analytics for runomine: pageviews, business events and… |
+| 2026-10-14 20:10:02 | [disrex/magento-patch-installer](https://www.nuget.org/packages/disrex%2Fmagento-patch-installer) | 0.1.0 | Disrex | Applies Magento 2 / Adobe Commerce security patches, verifies they stay applied… |
+| 2026-10-14 20:10:19 | [gavtaylor/rememberme](https://www.nuget.org/packages/gavtaylor%2Frememberme) | v0.1.0 | Gavin Taylor | "Keep me logged in" for Roundcube: longer sessions only for browsers you choose… |
+| 2026-10-14 20:10:45 | [disrex/magento-security-patches](https://www.nuget.org/packages/disrex%2Fmagento-security-patches) | 0.1.0 | Disrex | Adobe's isolated and out-of-band security patches for Magento Open Source, Adob… |
 
 ## Data source
 

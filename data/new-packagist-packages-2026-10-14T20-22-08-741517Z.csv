@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-14T19:22:35Z,laraxgram/apiserver,v0.1.0,AmirHossein,A Telegram Bot API server built on LaraGram MTProto.
+2026-10-14T19:30:14Z,x-laravel/sluggable,v1.0.0,Mehmet ÖĞMEN,"Slugs for Eloquent models with Turkish-aware generation, race-safe uniqueness and a slug history that keeps old URLs working."
+2026-10-14T19:32:22Z,angeo/module-ucp-checkout,1.0.0,,"UCP checkout for Magento 2 (dev.ucp.shopping.checkout + discount + fulfillment, spec 2026-08-25). AI agents create, update and cancel real checkout sessions over REST and see live shipping rates; payment is handed off to the store's own checkout page via continue_url. No card data, no PCI scope."
+2026-10-14T19:37:26Z,factusmart/sdk,v0.1.0,FactuSmart,"SDK oficial en PHP del API de facturación electrónica de FactuSmart (SUNAT, Perú): facturas, boletas, notas, guías y anulaciones."
+2026-10-14T19:41:29Z,x-laravel/username,v1.0.0,Mehmet ÖĞMEN,"Configurable username validation, reserved-name checking and username generation for Laravel."
+2026-10-14T19:52:40Z,runomine/runomine-php,v0.1.0,,"Cookieless, server-side analytics for runomine: pageviews, business events and revenue. Framework-agnostic client plus Laravel integration."
+2026-10-14T20:10:02Z,disrex/magento-patch-installer,0.1.0,Disrex,"Applies Magento 2 / Adobe Commerce security patches, verifies they stay applied, and fails loudly when they do not"
+2026-10-14T20:10:19Z,gavtaylor/rememberme,v0.1.0,Gavin Taylor,"""Keep me logged in"" for Roundcube: longer sessions only for browsers you choose, with encrypted tokens and a Remembered devices page"
+2026-10-14T20:10:45Z,disrex/magento-security-patches,0.1.0,Disrex,"Adobe's isolated and out-of-band security patches for Magento Open Source, Adobe Commerce and B2B, taken unmodified from Adobe's patch registry and applied by disrex/magento-patch-installer"
