@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 17:21 UTC
+## Latest list — 2026-10-14 18:20 UTC
 
-New packages created between 2026-10-14 16:23 UTC and 2026-10-14 17:21 UTC.
+New packages created between 2026-10-14 17:21 UTC and 2026-10-14 18:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T17-21-29-898954Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-14T18-20-09-989409Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 16:44:53 | [x-laravel/username](https://www.nuget.org/packages/x-laravel%2Fusername) | v1.0.0 | Mehmet ÖĞMEN | Configurable username validation, reserved-name checking and username generatio… |
-| 2026-10-14 16:52:02 | [kechankrisna/php_wing](https://www.nuget.org/packages/kechankrisna%2Fphp_wing) | v1.0.0 | kechankrisna | Wing Bank online payment (Web SDK v2) client for PHP: authorize payments, open… |
+| 2026-10-14 17:35:15 | [cecil/theme-leon](https://www.nuget.org/packages/cecil%2Ftheme-leon) | 1.0.0 |  | Cecil Léon theme: a documentation theme with a warm and editorial look |
+| 2026-10-14 17:47:18 | [mikhailmelnikov/filament-jobs-monitor](https://www.nuget.org/packages/mikhailmelnikov%2Ffilament-jobs-monitor) | v1.0.0 | Mikhail Melnikov | Filament add-on: scheduler tasks and database queue jobs in the admin panel — l… |
+| 2026-10-14 17:51:12 | [x-laravel/sluggable](https://www.nuget.org/packages/x-laravel%2Fsluggable) | v1.0.0 | Mehmet ÖĞMEN | Slugs for Eloquent models with Turkish-aware generation, race-safe uniqueness a… |
 
 ## Data source
 
