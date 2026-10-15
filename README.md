@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 04:23 UTC
+## Latest list — 2026-10-15 06:19 UTC
 
-New packages created between 2026-10-15 03:22 UTC and 2026-10-15 04:23 UTC.
+New packages created between 2026-10-15 05:21 UTC and 2026-10-15 06:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-15T04-23-11-708505Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-15T06-19-50-826237Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-15 03:27:06 | [pieceofcake2/docs](https://www.nuget.org/packages/pieceofcake2%2Fdocs) | v2.0.0 |  | Markdown documentation of pieceofcake2/cakephp (CakePHP 2 fork), for reading lo… |
-| 2026-10-15 03:42:31 | [ernestdefoe/depot](https://www.nuget.org/packages/ernestdefoe%2Fdepot) | v1.0.1 | Ernest Defoe | Depot — a downloads section for Flarum 2: files with versions and changelogs, c… |
-| 2026-10-15 03:49:22 | [gold-api/sdk-php](https://www.nuget.org/packages/gold-api%2Fsdk-php) | v1.1.0 | GoldAPI | GoldAPI (gold-api.cn) 贵金属行情 PHP SDK —— 黄金/白银/铂金/钯金等 70+ 品种实时行情，一次请求最多批量 50 个品种 |
-| 2026-10-15 03:49:40 | [magezon/module-simple-builder](https://www.nuget.org/packages/magezon%2Fmodule-simple-builder) | 1.0.7 |  |  |
-| 2026-10-15 04:11:29 | [envoylope/amqp-sqs-driver](https://www.nuget.org/packages/envoylope%2Famqp-sqs-driver) | v0.1.0 |  | AWS SQS driver for PHP AMQP-Compat |
-| 2026-10-15 04:19:16 | [filagora/filagora-messages](https://www.nuget.org/packages/filagora%2Ffilagora-messages) | v0.1.0 |  | Private conversations between members, with folders, read state and trash, for… |
+| 2026-10-15 05:24:19 | [pieceofcake2/panther](https://www.nuget.org/packages/pieceofcake2%2Fpanther) | v1.0.0 |  | End-to-End tests for CakePHP 2 applications with Symfony Panther and PHPUnit |
+| 2026-10-15 05:27:38 | [vlydev/yajl-stream](https://www.nuget.org/packages/vlydev%2Fyajl-stream) | v0.1.0 |  | Stream the elements of a huge JSON array out of a file in constant memory, on t… |
+| 2026-10-15 05:34:10 | [toolspacks/utils](https://www.nuget.org/packages/toolspacks%2Futils) | v1.1.1 |  | Shared Utils for Wujie Projects |
+| 2026-10-15 06:10:01 | [ntcte/max-platform](https://www.nuget.org/packages/ntcte%2Fmax-platform) | v0.1.0 | ГАПОУ СО "Нижнетагильский тор… | PHP SDK for the Max messenger Bot API: typed API client, bot framework, webhook… |
 
 ## Data source
 
