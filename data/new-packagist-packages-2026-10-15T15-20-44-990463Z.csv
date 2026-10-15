@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-15T14:35:20Z,jslirola/flarum-registration-policy,v1.0.0,jslirola,Do not sign new members in until they confirm their email address.
+2026-10-15T14:35:50Z,logipro/snp-php-client,v0.1.0,Frédéric Royet,PHP client for the SocialNetworksPublisher (SNP) external API
+2026-10-15T14:57:42Z,netcom/drupal-autoupdate,v1.0.0,,"Mises à jour Composer automatiques (mineures et patchs) pour Drupal 11+, avec retour arrière et notification Discord."
