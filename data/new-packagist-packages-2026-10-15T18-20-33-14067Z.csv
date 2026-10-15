@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-15T17:24:56Z,liufencn/flarum-mediaembed,v1.0.0,Liufen,中文媒体站点嵌入：给 Flarum 的 s9e MediaEmbed 补上国内常用视频 / 音乐站点（B站、AcFun、腾讯视频、网易云音乐、西瓜视频），链接自动转为内嵌播放器
+2026-10-15T17:25:14Z,liufencn/flarum-reply-pin,v1.0.0,Liufen,帖子内楼层（回复）置顶：把讨论内任意一条回复钉到讨论顶部，并加图钉徽标。
+2026-10-15T17:31:19Z,1994/gift-vouchers-statamic,v1.0.0,1994,"Gift vouchers for Cargo: sell vouchers with fixed or chosen amounts, email them with a printable PDF, and let customers spend them at checkout with the balance carried over."
+2026-10-15T17:40:10Z,magesentinel/module-monitor,2.0.1,MageSentinel,"Store health page, 15-minute health emails, weekly summary and a real-browser test purchase for Magento 2. Optional connector for MageSentinel checkout monitoring."
+2026-10-15T17:45:09Z,docustay/docustay-php,v0.1.0,Docustay,Official Docustay API client: send documents for signature and follow them from your own software. https://docustay.app/docs
+2026-10-15T17:45:39Z,liufencn/flarum-user-delete,v1.0.0,Liufen,后台用户管理补回「删除用户」入口：Flarum 2.0 核心的编辑用户弹窗移除了删除按钮，但后端 DELETE /api/users/{id} 与 canDelete 字段仍在。本扩展在 EditUserModal 注入一个两步确认的删除按钮。
+2026-10-15T17:57:48Z,proceda/fixtures,v1.0.0,,Fixtures and test data generators for Proceda.
+2026-10-15T18:05:35Z,rasuvaeff/context-cli,v0.1.0,Victor Razuvaev,Graceful shutdown for PHP CLI workers: OS signals cancel a rasuvaeff/context Context
+2026-10-15T18:17:10Z,goletter/hyperf-signature,v1.0.0,goletter,System-to-system API signature (HMAC) for hyperf.
+2026-10-15T18:19:05Z,ufo-tech/rest-bundle,1.1.0,Alex Maistrenko,REST API bundle for building RESTful services in the UFO-Tech ecosystem.
