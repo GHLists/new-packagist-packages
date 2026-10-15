@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-14T23:43:54Z,licensekit/licensekit,v0.1.0-alpha.1,Krixx,"Software licensing APIs and Filament administration for Laravel, with optional outage compensation."
+2026-10-15T00:12:34Z,alphapay/alphapay-laravel,v0.1.0,AlphaPay,Laravel SDK officiel pour l'API AlphaPay (agrégateur de paiement multi-gateway) -- intégration Service Provider/Facade/webhooks au-dessus du SDK PHP alphapay/alphapay-php.
+2026-10-15T00:12:34Z,alphapay/alphapay-php,v0.1.2,,Official PHP SDK for the AlphaPay payment aggregator API.

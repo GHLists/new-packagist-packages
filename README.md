@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 23:20 UTC
+## Latest list — 2026-10-15 00:21 UTC
 
-New packages created between 2026-10-14 22:22 UTC and 2026-10-14 23:20 UTC.
+New packages created between 2026-10-14 23:20 UTC and 2026-10-15 00:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-14T23-20-20-061028Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-15T00-21-16-115137Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 22:36:40 | [pushinbr/pam-native-svg](https://www.nuget.org/packages/pushinbr%2Fpam-native-svg) | v0.1.0 |  | Native SVG for PAM Native: retained vector nodes, gradients, dashes and render-… |
-| 2026-10-14 22:54:12 | [gosimple/rs-fiscal](https://www.nuget.org/packages/gosimple%2Frs-fiscal) | v0.1.0 | GoSimple | Serbian fiscal helpers for PHP: PIB (tax ID) validation and NBS IPS QR code gen… |
-| 2026-10-14 23:01:53 | [gosimple/tezga-laravel](https://www.nuget.org/packages/gosimple%2Ftezga-laravel) | v0.1.0 | GoSimple | Laravel integration for the Tezga Fiscal API: config, a Tezga facade, and a sig… |
-| 2026-10-14 23:11:56 | [paygate-to/paygate-php](https://www.nuget.org/packages/paygate-to%2Fpaygate-php) | v1.0.0 |  | PHP SDK for PayGate.to: card and crypto payments without KYC, instant payouts t… |
+| 2026-10-14 23:43:54 | [licensekit/licensekit](https://www.nuget.org/packages/licensekit%2Flicensekit) | v0.1.0-alpha.1 | Krixx | Software licensing APIs and Filament administration for Laravel, with optional… |
+| 2026-10-15 00:12:34 | [alphapay/alphapay-laravel](https://www.nuget.org/packages/alphapay%2Falphapay-laravel) | v0.1.0 | AlphaPay | Laravel SDK officiel pour l'API AlphaPay (agrégateur de paiement multi-gateway)… |
+| 2026-10-15 00:12:34 | [alphapay/alphapay-php](https://www.nuget.org/packages/alphapay%2Falphapay-php) | v0.1.2 |  | Official PHP SDK for the AlphaPay payment aggregator API. |
 
 ## Data source
 
