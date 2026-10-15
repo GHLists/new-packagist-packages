@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-15T13:25:50Z,apavliukov/laravel-ai-core,v0.2.2,Aleksandr Pavliukov,"Shared AI core on top of laravel/ai: model catalogue with prices, request ledger, executor, queue, cost accounting and batch polling."
+2026-10-15T13:27:13Z,pollora/meta,v0.1.0,Amphibee,"Typed WordPress meta declared with attributes: register_meta(), typed reads and writes, rules, schemas for UI drivers. Runs with or without Laravel."
+2026-10-15T13:29:10Z,laravelopenpackages/laravel-optimized,v1.0.0,Zeeshan Ali,"Laravel, optimized: a compiled request path for Laravel applications, with Laravel's own code as the fallback."
+2026-10-15T13:36:56Z,achttienvijftien/make-pot-twig,1.0.0,1815,"Adds Twig template support to `wp i18n make-pot`, using Twig's own parser."
+2026-10-15T13:47:36Z,mnd/back-office-sdk,v1.0.1,,"PHP SDK of back-office with a Laravel adapter: client, DTO, webhook signature check, outbox"
+2026-10-15T13:53:06Z,agrekom/customization-payment,v1.1.0,,Customization for Magento payment methods
+2026-10-15T14:07:25Z,everysize/checkout-shopware6,3.1.1,everysize GmbH,everysize Checkout: Bestellungen aus dem everysize-Direktkauf in Shopware 6 / orders from the everysize direct checkout in Shopware 6
+2026-10-15T14:13:10Z,wexample/symfony-preference,1.0.1,,
+2026-10-15T14:19:41Z,pollora/roles,v0.1.0,Amphibee,"WordPress roles and capabilities declared with attributes: a #[Role] class, #[ModifyRole] adjustments, post type and taxonomy capabilities, compiled into the roles WordPress stores. Runs with or without Laravel."

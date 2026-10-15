@@ -15,23 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 13:22 UTC
+## Latest list — 2026-10-15 14:21 UTC
 
-New packages created between 2026-10-15 12:23 UTC and 2026-10-15 13:22 UTC.
+New packages created between 2026-10-15 13:22 UTC and 2026-10-15 14:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-15T13-22-37-380244Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-15T14-21-55-716314Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-15 12:30:50 | [kgaut/healthcheck](https://www.nuget.org/packages/kgaut%2Fhealthcheck) | 1.0.0-beta2 | Kevin Gautreau | Point de santé /health pour Drupal, extensible par plugins : base, Redis, Searc… |
-| 2026-10-15 12:32:47 | [softsolutions4u/orocommerce-invoice](https://www.nuget.org/packages/softsolutions4u%2Forocommerce-invoice) | v1.0.0 | Pradeep Elayaraja; Ganesh; So… | Invoice management for OroCommerce Community Edition (CE) 7.0.3: create invoice… |
-| 2026-10-15 12:42:07 | [fof/brevo-mail](https://www.nuget.org/packages/fof%2Fbrevo-mail) | 2.0.0 | FriendsOfFlarum | Send your forum mail through the Brevo API |
-| 2026-10-15 12:43:28 | [everysize/checkout-jtl-shop5](https://www.nuget.org/packages/everysize%2Fcheckout-jtl-shop5) | v1.0.2 |  | everysize Checkout for JTL-Shop 5: imports everysize orders and reports shippin… |
-| 2026-10-15 12:51:03 | [1994/wishlist-statamic](https://www.nuget.org/packages/1994%2Fwishlist-statamic) | v1.0.0 | 1994 | Wishlists for Statamic: let visitors save entries to named lists, kept in flat… |
-| 2026-10-15 12:59:02 | [ramlev/dom-onix-parser](https://www.nuget.org/packages/ramlev%2Fdom-onix-parser) | 1.0.1 | Mateusz Domin; Chris Ribal; C… | An ONIX 3.0 Parser |
-| 2026-10-15 13:13:02 | [karnoweb/laravel-livewire-kanban](https://www.nuget.org/packages/karnoweb%2Flaravel-livewire-kanban) | 13.0.0 |  | Domain-agnostic enterprise Kanban and List UI for Laravel Livewire |
-| 2026-10-15 13:13:47 | [kobaltdigital/pingpong-agent](https://www.nuget.org/packages/kobaltdigital%2Fpingpong-agent) | v1.0.0 | Kobalt Digital | Reports a Laravel app's scheduler and health to PingPong |
-| 2026-10-15 13:18:50 | [lizmap/streaming-json-encoder](https://www.nuget.org/packages/lizmap%2Fstreaming-json-encoder) | v2.0.0 | Riikka Kalliomäki; Laurent Jo… | Library for iteratively encoding large JSON documents piece by piece (maintaine… |
+| 2026-10-15 13:25:50 | [apavliukov/laravel-ai-core](https://www.nuget.org/packages/apavliukov%2Flaravel-ai-core) | v0.2.2 | Aleksandr Pavliukov | Shared AI core on top of laravel/ai: model catalogue with prices, request ledge… |
+| 2026-10-15 13:27:13 | [pollora/meta](https://www.nuget.org/packages/pollora%2Fmeta) | v0.1.0 | Amphibee | Typed WordPress meta declared with attributes: register_meta(), typed reads and… |
+| 2026-10-15 13:29:10 | [laravelopenpackages/laravel-optimized](https://www.nuget.org/packages/laravelopenpackages%2Flaravel-optimized) | v1.0.0 | Zeeshan Ali | Laravel, optimized: a compiled request path for Laravel applications, with Lara… |
+| 2026-10-15 13:36:56 | [achttienvijftien/make-pot-twig](https://www.nuget.org/packages/achttienvijftien%2Fmake-pot-twig) | 1.0.0 | 1815 | Adds Twig template support to `wp i18n make-pot`, using Twig's own parser. |
+| 2026-10-15 13:47:36 | [mnd/back-office-sdk](https://www.nuget.org/packages/mnd%2Fback-office-sdk) | v1.0.1 |  | PHP SDK of back-office with a Laravel adapter: client, DTO, webhook signature c… |
+| 2026-10-15 13:53:06 | [agrekom/customization-payment](https://www.nuget.org/packages/agrekom%2Fcustomization-payment) | v1.1.0 |  | Customization for Magento payment methods |
+| 2026-10-15 14:07:25 | [everysize/checkout-shopware6](https://www.nuget.org/packages/everysize%2Fcheckout-shopware6) | 3.1.1 | everysize GmbH | everysize Checkout: Bestellungen aus dem everysize-Direktkauf in Shopware 6 / o… |
+| 2026-10-15 14:13:10 | [wexample/symfony-preference](https://www.nuget.org/packages/wexample%2Fsymfony-preference) | 1.0.1 |  |  |
+| 2026-10-15 14:19:41 | [pollora/roles](https://www.nuget.org/packages/pollora%2Froles) | v0.1.0 | Amphibee | WordPress roles and capabilities declared with attributes: a #[Role] class, #[M… |
 
 ## Data source
 
