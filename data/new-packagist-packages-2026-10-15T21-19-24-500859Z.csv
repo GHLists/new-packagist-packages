@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-15T20:31:37Z,yanfishel/atarcms,v0.1.0,,AtarCMS site skeleton
+2026-10-15T20:31:39Z,yanfishel/atarcms-core,v0.1.0,,Lightweight content management system
+2026-10-15T20:46:47Z,tomac1/rockadmin,v0.1.0,Tomas Hruby,"A dependency-free PHP administration SDK. Mount it on a URL, describe your pages in configuration, and get a working admin."
+2026-10-15T20:50:42Z,amarenkov/laravel-mutable-content-shop,v0.1.0,Alexey Marenkov,"Shop domain for laravel-mutable-content: carts of users and guests, orders with item snapshots, price breaks and money totals, with services, without a UI."

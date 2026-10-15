@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 20:21 UTC
+## Latest list — 2026-10-15 21:19 UTC
 
-New packages created between 2026-10-15 19:23 UTC and 2026-10-15 20:21 UTC.
+New packages created between 2026-10-15 20:21 UTC and 2026-10-15 21:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-15T20-21-24-924167Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-15T21-19-24-500859Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-15 19:30:55 | [justinholtweb/craft-archie](https://www.nuget.org/packages/justinholtweb%2Fcraft-archie) | 5.0.1 | Justin Holt | Author a Craft content model as a YAML or JSON blueprint — lint it, plan the di… |
-| 2026-10-15 19:49:08 | [theprimestudio/laravel-sentinel](https://www.nuget.org/packages/theprimestudio%2Flaravel-sentinel) | v1.0.0 | The Prime Studio | Enterprise security, antivirus, webshell detection, WAF, file integrity, and qu… |
-| 2026-10-15 20:01:45 | [sellinnate/sales-crm](https://www.nuget.org/packages/sellinnate%2Fsales-crm) | v1.0.0 | Filippo Calabrese | Sales pipeline CRM for Laravel: kanban board, deals, companies & people, activi… |
-| 2026-10-15 20:13:28 | [rasuvaeff/context-process](https://www.nuget.org/packages/rasuvaeff%2Fcontext-process) | v0.1.0 | Victor Razuvaev | Run external processes under a rasuvaeff/context budget: the timeout follows th… |
+| 2026-10-15 20:31:37 | [yanfishel/atarcms](https://www.nuget.org/packages/yanfishel%2Fatarcms) | v0.1.0 |  | AtarCMS site skeleton |
+| 2026-10-15 20:31:39 | [yanfishel/atarcms-core](https://www.nuget.org/packages/yanfishel%2Fatarcms-core) | v0.1.0 |  | Lightweight content management system |
+| 2026-10-15 20:46:47 | [tomac1/rockadmin](https://www.nuget.org/packages/tomac1%2Frockadmin) | v0.1.0 | Tomas Hruby | A dependency-free PHP administration SDK. Mount it on a URL, describe your page… |
+| 2026-10-15 20:50:42 | [amarenkov/laravel-mutable-content-shop](https://www.nuget.org/packages/amarenkov%2Flaravel-mutable-content-shop) | v0.1.0 | Alexey Marenkov | Shop domain for laravel-mutable-content: carts of users and guests, orders with… |
 
 ## Data source
 
