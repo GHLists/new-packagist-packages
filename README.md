@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 19:23 UTC
+## Latest list — 2026-10-15 20:21 UTC
 
-New packages created between 2026-10-15 18:20 UTC and 2026-10-15 19:23 UTC.
+New packages created between 2026-10-15 19:23 UTC and 2026-10-15 20:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-15T19-23-10-067669Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-15T20-21-24-924167Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-15 18:21:59 | [yii2-extensions/bootstrap6](https://www.nuget.org/packages/yii2-extensions%2Fbootstrap6) | 0.1.0 | Wilmer Arambula | Bootstrap 6 widgets, forms, and asset bundles for Yii2. |
-| 2026-10-15 18:44:17 | [nacew/utestme-laravel](https://www.nuget.org/packages/nacew%2Futestme-laravel) | v0.1.0 |  | uTestMe server errors for Laravel: unhandled exceptions with their request, bre… |
-| 2026-10-15 18:51:07 | [proceda/proceda](https://www.nuget.org/packages/proceda%2Fproceda) | v1.0.0 | Gabriel dos Anjos | Biblioteca PHP para layouts PROCEDA (NOTFIS, OCOREN, CONEMB e DOCCOB) |
-| 2026-10-15 18:58:11 | [integrad/laravel-database-backup](https://www.nuget.org/packages/integrad%2Flaravel-database-backup) | v0.1.0 | Integrad | Database backup and recovery for Laravel, with a protected dashboard. |
-| 2026-10-15 19:00:25 | [everysize/checkout-gambio](https://www.nuget.org/packages/everysize%2Fcheckout-gambio) | 1.0.1 | everysize GmbH | everysize Checkout – Modul für Gambio GX26 |
-| 2026-10-15 19:03:13 | [rasuvaeff/context-db](https://www.nuget.org/packages/rasuvaeff%2Fcontext-db) | v0.1.0 | Victor Razuvaev | Database-side statement timeouts from a rasuvaeff/context budget for MySQL, Mar… |
+| 2026-10-15 19:30:55 | [justinholtweb/craft-archie](https://www.nuget.org/packages/justinholtweb%2Fcraft-archie) | 5.0.1 | Justin Holt | Author a Craft content model as a YAML or JSON blueprint — lint it, plan the di… |
+| 2026-10-15 19:49:08 | [theprimestudio/laravel-sentinel](https://www.nuget.org/packages/theprimestudio%2Flaravel-sentinel) | v1.0.0 | The Prime Studio | Enterprise security, antivirus, webshell detection, WAF, file integrity, and qu… |
+| 2026-10-15 20:01:45 | [sellinnate/sales-crm](https://www.nuget.org/packages/sellinnate%2Fsales-crm) | v1.0.0 | Filippo Calabrese | Sales pipeline CRM for Laravel: kanban board, deals, companies & people, activi… |
+| 2026-10-15 20:13:28 | [rasuvaeff/context-process](https://www.nuget.org/packages/rasuvaeff%2Fcontext-process) | v0.1.0 | Victor Razuvaev | Run external processes under a rasuvaeff/context budget: the timeout follows th… |
 
 ## Data source
 

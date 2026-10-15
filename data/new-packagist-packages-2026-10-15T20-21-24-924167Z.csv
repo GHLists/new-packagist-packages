@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-15T19:30:55Z,justinholtweb/craft-archie,5.0.1,Justin Holt,"Author a Craft content model as a YAML or JSON blueprint — lint it, plan the diff, apply it, and roll it back. The Craft 5 replacement for Architect."
+2026-10-15T19:49:08Z,theprimestudio/laravel-sentinel,v1.0.0,The Prime Studio,"Enterprise security, antivirus, webshell detection, WAF, file integrity, and quarantine suite for Laravel"
+2026-10-15T20:01:45Z,sellinnate/sales-crm,v1.0.0,Filippo Calabrese,"Sales pipeline CRM for Laravel: kanban board, deals, companies & people, activities, notes, email, documents, import, reports, saved views and MCP tools. Headless core with an optional Livewire UI."
+2026-10-15T20:13:28Z,rasuvaeff/context-process,v0.1.0,Victor Razuvaev,"Run external processes under a rasuvaeff/context budget: the timeout follows the deadline, cancellation stops the process (SIGTERM, then SIGKILL)"
