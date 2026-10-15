@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 00:21 UTC
+## Latest list — 2026-10-15 01:19 UTC
 
-New packages created between 2026-10-14 23:20 UTC and 2026-10-15 00:21 UTC.
+New packages created between 2026-10-15 00:21 UTC and 2026-10-15 01:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-15T00-21-16-115137Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-15T01-19-29-435109Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-14 23:43:54 | [licensekit/licensekit](https://www.nuget.org/packages/licensekit%2Flicensekit) | v0.1.0-alpha.1 | Krixx | Software licensing APIs and Filament administration for Laravel, with optional… |
-| 2026-10-15 00:12:34 | [alphapay/alphapay-laravel](https://www.nuget.org/packages/alphapay%2Falphapay-laravel) | v0.1.0 | AlphaPay | Laravel SDK officiel pour l'API AlphaPay (agrégateur de paiement multi-gateway)… |
-| 2026-10-15 00:12:34 | [alphapay/alphapay-php](https://www.nuget.org/packages/alphapay%2Falphapay-php) | v0.1.2 |  | Official PHP SDK for the AlphaPay payment aggregator API. |
+| 2026-10-15 00:21:26 | [pieceofcake2/async-aws](https://www.nuget.org/packages/pieceofcake2%2Fasync-aws) | v1.0.0 |  | AsyncAws integration for CakePHP 2: DynamoDB session handler and cache, Amazon… |
+| 2026-10-15 00:34:11 | [ringlesoft/laravel-accounting](https://www.nuget.org/packages/ringlesoft%2Flaravel-accounting) | 0.1.0 | David Ringle | This is my package laravel-accounting |
+| 2026-10-15 01:07:21 | [ernestdefoe/marquee](https://www.nuget.org/packages/ernestdefoe%2Fmarquee) | v1.0.0 | Ernest Defoe | Link discussions to movies, TV shows (down to the episode) and games, shown in… |
 
 ## Data source
 
