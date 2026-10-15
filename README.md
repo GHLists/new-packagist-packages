@@ -15,18 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 21:19 UTC
+## Latest list — 2026-10-15 22:20 UTC
 
-New packages created between 2026-10-15 20:21 UTC and 2026-10-15 21:19 UTC.
+New packages created between 2026-10-15 21:19 UTC and 2026-10-15 22:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-15T21-19-24-500859Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-15T22-20-12-853698Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-15 20:31:37 | [yanfishel/atarcms](https://www.nuget.org/packages/yanfishel%2Fatarcms) | v0.1.0 |  | AtarCMS site skeleton |
-| 2026-10-15 20:31:39 | [yanfishel/atarcms-core](https://www.nuget.org/packages/yanfishel%2Fatarcms-core) | v0.1.0 |  | Lightweight content management system |
-| 2026-10-15 20:46:47 | [tomac1/rockadmin](https://www.nuget.org/packages/tomac1%2Frockadmin) | v0.1.0 | Tomas Hruby | A dependency-free PHP administration SDK. Mount it on a URL, describe your page… |
-| 2026-10-15 20:50:42 | [amarenkov/laravel-mutable-content-shop](https://www.nuget.org/packages/amarenkov%2Flaravel-mutable-content-shop) | v0.1.0 | Alexey Marenkov | Shop domain for laravel-mutable-content: carts of users and guests, orders with… |
+| 2026-10-15 21:30:59 | [1994/promo-bar-statamic](https://www.nuget.org/packages/1994%2Fpromo-bar-statamic) | v1.0.0 | 1994 | Promo bars for Statamic: scheduled, targeted announcement bars with call-to-act… |
+| 2026-10-15 21:31:58 | [iranimij/openfilter](https://www.nuget.org/packages/iranimij%2Fopenfilter) | v1.0.0 | Iman Aboheydary | OpenFilter: layered navigation for Magento 2 and Hyvä. Multi-select filters wit… |
+| 2026-10-15 21:32:01 | [iranimij/openfilter-hyva](https://www.nuget.org/packages/iranimij%2Fopenfilter-hyva) | v1.0.0 | Iman Aboheydary | OpenFilter render package for Hyvä themes: filter templates, one Alpine compone… |
+| 2026-10-15 21:32:05 | [iranimij/openfilter-hyva-bundle](https://www.nuget.org/packages/iranimij%2Fopenfilter-hyva-bundle) | v1.0.0 | Iman Aboheydary | OpenFilter for Hyvä in one require: layered navigation for Magento 2 and Hyvä (… |
+| 2026-10-15 21:54:06 | [pelock/lua-virtualizer](https://www.nuget.org/packages/pelock%2Flua-virtualizer) | 1.0.0 | Bartosz Wójcik | Lua Virtualizer Web API interface can help you obfuscate and protect Lua .lua s… |
+| 2026-10-15 21:59:53 | [1994/back-in-stock-statamic](https://www.nuget.org/packages/1994%2Fback-in-stock-statamic) | v1.0.0 | 1994 | Back in stock alerts for Cargo: shoppers leave their email on a sold-out produc… |
+| 2026-10-15 22:10:37 | [marcelofecchio/siscomex](https://www.nuget.org/packages/marcelofecchio%2Fsiscomex) | v0.1.0 | Marcelo Fecchio | SDK PHP 8.4 para a API Pública do Portal Único Siscomex: autenticação (IMPEXP),… |
 
 ## Data source
 
