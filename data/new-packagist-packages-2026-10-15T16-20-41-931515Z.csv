@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-15T15:20:47Z,1994/sign-off-statamic,v1.2.1,1994,"Multi-step editorial sign-off for Statamic Pro: editors submit changes for review, each step approves or rejects with comments, and nothing goes live until everyone has signed off."
+2026-10-15T15:22:30Z,evopixel/socialiteproviders-evopixel,1.0.0,EvoPixel,EvoPixel Account OAuth2 provider for Laravel Socialite
+2026-10-15T15:26:13Z,automattic/jetpack-cookie-consent,v0.1.0,,"GDPR cookie-consent banner, CCPA opt-out, and consent logging for WordPress."
+2026-10-15T15:36:11Z,erseco/autofirma-intermediate-server,v1.9.3,Ernesto Serrano,Framework-agnostic PHP implementation of the AutoFirma intermediate server protocol
+2026-10-15T15:37:37Z,pollora/block-bindings,v0.1.0,Amphibee,"WordPress Block Bindings declared with attributes: a #[BlockBinding] class is a source, its methods are fields, and the post meta, term meta, author meta and options Pollora ships are ready to bind. Runs with or without Laravel."
+2026-10-15T15:43:14Z,ekumanov/flarum-ext-spam-alerts,v1.0.0,ekumanov,Emails chosen moderators whenever FoF Anti-Spam automatically flags or holds a post or discussion.
+2026-10-15T15:55:21Z,pype/framework,v0.1.0,,"The pype core: a lightweight, pipeline-first PHP framework."
+2026-10-15T15:55:28Z,pype/pype,v0.1.0,,Starter application for the pype framework.
+2026-10-15T15:57:55Z,watermarkws/watermark-php,v0.1.0,,"PHP client for the Watermark API: watermark, resize and convert images, videos and PDFs."
+2026-10-15T16:00:39Z,ludoguenet/laravel-standards,v0.1.0,Ludovic Guénet,"Engineering standards, guidelines and agent skills for Laravel projects, delivered through Laravel Boost."
