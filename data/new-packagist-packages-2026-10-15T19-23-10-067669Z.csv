@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-15T18:21:59Z,yii2-extensions/bootstrap6,0.1.0,Wilmer Arambula,"Bootstrap 6 widgets, forms, and asset bundles for Yii2."
+2026-10-15T18:44:17Z,nacew/utestme-laravel,v0.1.0,,"uTestMe server errors for Laravel: unhandled exceptions with their request, breadcrumbs, and requests and 5xx per minute."
+2026-10-15T18:51:07Z,proceda/proceda,v1.0.0,Gabriel dos Anjos,"Biblioteca PHP para layouts PROCEDA (NOTFIS, OCOREN, CONEMB e DOCCOB)"
+2026-10-15T18:58:11Z,integrad/laravel-database-backup,v0.1.0,Integrad,"Database backup and recovery for Laravel, with a protected dashboard."
+2026-10-15T19:00:25Z,everysize/checkout-gambio,1.0.1,everysize GmbH,everysize Checkout – Modul für Gambio GX26
+2026-10-15T19:03:13Z,rasuvaeff/context-db,v0.1.0,Victor Razuvaev,"Database-side statement timeouts from a rasuvaeff/context budget for MySQL, MariaDB and PostgreSQL over PDO"

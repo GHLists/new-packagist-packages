@@ -15,24 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 18:20 UTC
+## Latest list — 2026-10-15 19:23 UTC
 
-New packages created between 2026-10-15 17:21 UTC and 2026-10-15 18:20 UTC.
+New packages created between 2026-10-15 18:20 UTC and 2026-10-15 19:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-15T18-20-33-14067Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-15T19-23-10-067669Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-15 17:24:56 | [liufencn/flarum-mediaembed](https://www.nuget.org/packages/liufencn%2Fflarum-mediaembed) | v1.0.0 | Liufen | 中文媒体站点嵌入：给 Flarum 的 s9e MediaEmbed 补上国内常用视频 / 音乐站点（B站、AcFun、腾讯视频、网易云音乐、西瓜视频），链接… |
-| 2026-10-15 17:25:14 | [liufencn/flarum-reply-pin](https://www.nuget.org/packages/liufencn%2Fflarum-reply-pin) | v1.0.0 | Liufen | 帖子内楼层（回复）置顶：把讨论内任意一条回复钉到讨论顶部，并加图钉徽标。 |
-| 2026-10-15 17:31:19 | [1994/gift-vouchers-statamic](https://www.nuget.org/packages/1994%2Fgift-vouchers-statamic) | v1.0.0 | 1994 | Gift vouchers for Cargo: sell vouchers with fixed or chosen amounts, email them… |
-| 2026-10-15 17:40:10 | [magesentinel/module-monitor](https://www.nuget.org/packages/magesentinel%2Fmodule-monitor) | 2.0.1 | MageSentinel | Store health page, 15-minute health emails, weekly summary and a real-browser t… |
-| 2026-10-15 17:45:09 | [docustay/docustay-php](https://www.nuget.org/packages/docustay%2Fdocustay-php) | v0.1.0 | Docustay | Official Docustay API client: send documents for signature and follow them from… |
-| 2026-10-15 17:45:39 | [liufencn/flarum-user-delete](https://www.nuget.org/packages/liufencn%2Fflarum-user-delete) | v1.0.0 | Liufen | 后台用户管理补回「删除用户」入口：Flarum 2.0 核心的编辑用户弹窗移除了删除按钮，但后端 DELETE /api/users/{id} 与 canDe… |
-| 2026-10-15 17:57:48 | [proceda/fixtures](https://www.nuget.org/packages/proceda%2Ffixtures) | v1.0.0 |  | Fixtures and test data generators for Proceda. |
-| 2026-10-15 18:05:35 | [rasuvaeff/context-cli](https://www.nuget.org/packages/rasuvaeff%2Fcontext-cli) | v0.1.0 | Victor Razuvaev | Graceful shutdown for PHP CLI workers: OS signals cancel a rasuvaeff/context Co… |
-| 2026-10-15 18:17:10 | [goletter/hyperf-signature](https://www.nuget.org/packages/goletter%2Fhyperf-signature) | v1.0.0 | goletter | System-to-system API signature (HMAC) for hyperf. |
-| 2026-10-15 18:19:05 | [ufo-tech/rest-bundle](https://www.nuget.org/packages/ufo-tech%2Frest-bundle) | 1.1.0 | Alex Maistrenko | REST API bundle for building RESTful services in the UFO-Tech ecosystem. |
+| 2026-10-15 18:21:59 | [yii2-extensions/bootstrap6](https://www.nuget.org/packages/yii2-extensions%2Fbootstrap6) | 0.1.0 | Wilmer Arambula | Bootstrap 6 widgets, forms, and asset bundles for Yii2. |
+| 2026-10-15 18:44:17 | [nacew/utestme-laravel](https://www.nuget.org/packages/nacew%2Futestme-laravel) | v0.1.0 |  | uTestMe server errors for Laravel: unhandled exceptions with their request, bre… |
+| 2026-10-15 18:51:07 | [proceda/proceda](https://www.nuget.org/packages/proceda%2Fproceda) | v1.0.0 | Gabriel dos Anjos | Biblioteca PHP para layouts PROCEDA (NOTFIS, OCOREN, CONEMB e DOCCOB) |
+| 2026-10-15 18:58:11 | [integrad/laravel-database-backup](https://www.nuget.org/packages/integrad%2Flaravel-database-backup) | v0.1.0 | Integrad | Database backup and recovery for Laravel, with a protected dashboard. |
+| 2026-10-15 19:00:25 | [everysize/checkout-gambio](https://www.nuget.org/packages/everysize%2Fcheckout-gambio) | 1.0.1 | everysize GmbH | everysize Checkout – Modul für Gambio GX26 |
+| 2026-10-15 19:03:13 | [rasuvaeff/context-db](https://www.nuget.org/packages/rasuvaeff%2Fcontext-db) | v0.1.0 | Victor Razuvaev | Database-side statement timeouts from a rasuvaeff/context budget for MySQL, Mar… |
 
 ## Data source
 
