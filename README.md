@@ -15,23 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 08:21 UTC
+## Latest list — 2026-10-15 09:21 UTC
 
-New packages created between 2026-10-15 07:21 UTC and 2026-10-15 08:21 UTC.
+New packages created between 2026-10-15 08:21 UTC and 2026-10-15 09:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-15T08-21-23-82043Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-15T09-21-43-376221Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-15 07:34:19 | [phatnt93/phalcon-validation](https://www.nuget.org/packages/phatnt93%2Fphalcon-validation) | v1.0.1 | Phat Nguyen | A fast, extensible and expressive PHP data validation and sanitization library… |
-| 2026-10-15 07:35:01 | [enaxon/reqtide-guzzle](https://www.nuget.org/packages/enaxon%2Freqtide-guzzle) | v0.1.0 | Ehsan Enaloo | Guzzle integration for Reqtide: retries, deadlines, rate limits, circuit breaki… |
-| 2026-10-15 07:35:01 | [enaxon/reqtide-redis](https://www.nuget.org/packages/enaxon%2Freqtide-redis) | v0.1.0 | Ehsan Enaloo | Redis state backends for Reqtide: shared rate limits, circuit breakers, bulkhea… |
-| 2026-10-15 07:41:18 | [webx-ui/module-tasks](https://www.nuget.org/packages/webx-ui%2Fmodule-tasks) | v0.73.0 | WebX UI | A queue of work between people and AI agents for the WebX UI admin panel: tasks… |
-| 2026-10-15 07:46:24 | [pteal79/wysiwyg-editor](https://www.nuget.org/packages/pteal79%2Fwysiwyg-editor) | 1.0.2 | vipertecpro; Peter Teal | A fully native, hand-written WYSIWYG rich text editor for NativePHP Mobile — wr… |
-| 2026-10-15 07:49:41 | [pieceofcake2/phpcs-cakephp2](https://www.nuget.org/packages/pieceofcake2%2Fphpcs-cakephp2) | v1.0.0 |  | PHP_CodeSniffer ruleset for CakePHP 2 applications and plugins, based on the Ca… |
-| 2026-10-15 08:01:40 | [reachweb/statamic-tolk](https://www.nuget.org/packages/reachweb%2Fstatamic-tolk) | v1.0.0 | Iosif Chatzimichail | Translate multi-site Statamic content into its localizations with large languag… |
-| 2026-10-15 08:06:56 | [adems/dapur](https://www.nuget.org/packages/adems%2Fdapur) | 0.1.0 |  | Dapur AdeMS, tempat Ade M Saragih untuk bermain dan belajar membuat website |
-| 2026-10-15 08:09:25 | [fallahalireza/laravel-kavenegar](https://www.nuget.org/packages/fallahalireza%2Flaravel-kavenegar) | v0.1.0 | Alireza Fallah | درایور تمیز، توسعه‌پذیر و تست‌پذیر ارسال پیامک کاوه‌نگار برای لاراول (Notificat… |
+| 2026-10-15 08:22:18 | [asyntai/neos-ai-chatbot](https://www.nuget.org/packages/asyntai%2Fneos-ai-chatbot) | 1.0.0 | Asyntai | Asyntai AI Chatbot for Neos CMS: an AI chat assistant on every page that answer… |
+| 2026-10-15 08:33:51 | [asyntai/filament-ai-chatbot](https://www.nuget.org/packages/asyntai%2Ffilament-ai-chatbot) | v1.0.0 | Asyntai | Asyntai AI chatbot for Filament. Adds an AI chat assistant to your Filament pan… |
+| 2026-10-15 08:36:48 | [sala/console](https://www.nuget.org/packages/sala%2Fconsole) | 1.0.0 |  | Console commands for Sala Framework (make, migrate, db, serve) |
+| 2026-10-15 08:41:26 | [asyntai/thelia-ai-chatbot](https://www.nuget.org/packages/asyntai%2Fthelia-ai-chatbot) | 1.0.0 | Asyntai | Asyntai AI Chatbot for Thelia: an AI chatbot that answers your customers 24/7 f… |
+| 2026-10-15 08:43:12 | [iq2i/tailwind-cs-fixer](https://www.nuget.org/packages/iq2i%2Ftailwind-cs-fixer) | 1.0.0 | Loïc Sapone | A tool to automatically sort Tailwind CSS classes in HTML and Twig files |
+| 2026-10-15 08:43:13 | [fylgja/props-builder](https://www.nuget.org/packages/fylgja%2Fprops-builder) | v2.3.0 | Fylgja | Effortlessly generate Design Tokens (CSS custom properties) from PHP arrays or… |
+| 2026-10-15 09:03:04 | [clesson-de/silverstripe-household-budget](https://www.nuget.org/packages/clesson-de%2Fsilverstripe-household-budget) | 1.0.0 | Kai Feldmaier | Track household income and recurring expenses in Silverstripe. |
+| 2026-10-15 09:10:57 | [clesson-de/silverstripe-scheduler](https://www.nuget.org/packages/clesson-de%2Fsilverstripe-scheduler) | 1.0.0 | Kai Feldmaier | Zentralisierter Scheduler für Silverstripe 6 — verwaltet mehrere BuildTasks in… |
+| 2026-10-15 09:17:55 | [pollora/assets](https://www.nuget.org/packages/pollora%2Fassets) | v0.1.0 | Amphibee | Scripts, styles and Vite builds for WordPress: enqueue an asset with a fluent A… |
 
 ## Data source
 

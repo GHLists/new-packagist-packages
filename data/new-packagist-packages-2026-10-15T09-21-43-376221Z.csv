@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-15T08:22:18Z,asyntai/neos-ai-chatbot,1.0.0,Asyntai,Asyntai AI Chatbot for Neos CMS: an AI chat assistant on every page that answers visitor questions from your own website content.
+2026-10-15T08:33:51Z,asyntai/filament-ai-chatbot,v1.0.0,Asyntai,Asyntai AI chatbot for Filament. Adds an AI chat assistant to your Filament panels and Laravel pages that answers questions from your own content.
+2026-10-15T08:36:48Z,sala/console,1.0.0,,"Console commands for Sala Framework (make, migrate, db, serve)"
+2026-10-15T08:41:26Z,asyntai/thelia-ai-chatbot,1.0.0,Asyntai,Asyntai AI Chatbot for Thelia: an AI chatbot that answers your customers 24/7 from your own website content.
+2026-10-15T08:43:12Z,iq2i/tailwind-cs-fixer,1.0.0,Loïc Sapone,A tool to automatically sort Tailwind CSS classes in HTML and Twig files
+2026-10-15T08:43:13Z,fylgja/props-builder,v2.3.0,Fylgja,Effortlessly generate Design Tokens (CSS custom properties) from PHP arrays or JSON.
+2026-10-15T09:03:04Z,clesson-de/silverstripe-household-budget,1.0.0,Kai Feldmaier,Track household income and recurring expenses in Silverstripe.
+2026-10-15T09:10:57Z,clesson-de/silverstripe-scheduler,1.0.0,Kai Feldmaier,Zentralisierter Scheduler für Silverstripe 6 — verwaltet mehrere BuildTasks in einem einzigen Cron-Job.
+2026-10-15T09:17:55Z,pollora/assets,v0.1.0,Amphibee,"Scripts, styles and Vite builds for WordPress: enqueue an asset with a fluent API, resolve its URL from the Vite manifest or the dev server, per theme, plugin or module. Runs with or without Laravel."
