@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-15T22:31:02Z,wilycode/template,v0.1.0,Simon Piter,"Compiled PHP template engine with layouts, sections, components and extensions."
+2026-10-15T22:52:28Z,abolaradev/authora,v1.0.0,abolaradev,"A reusable authentication package for Laravel, designed to provide a flexible and Livewire-friendly foundation for building authentication workflows."
+2026-10-15T23:02:42Z,wilycode/template-string,v0.1.0,Simon Piter,String and formatting filters for the WilyCode Template engine.
