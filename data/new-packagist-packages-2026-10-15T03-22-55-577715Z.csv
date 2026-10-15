@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-15T02:30:51Z,runapi-ai/heygen-video,v0.1.0,RunAPI,RunAPI HeyGen Video Composer package for PHP applications
+2026-10-15T02:30:53Z,runapi-ai/qwen-2.1,v0.1.0,RunAPI,RunAPI Qwen 2.1 Composer package for PHP applications
+2026-10-15T02:30:55Z,runapi-ai/vidu,v0.1.0,RunAPI,RunAPI Vidu Composer package for PHP applications
+2026-10-15T02:39:46Z,magezon/module-ui-builder,1.0.14,,Magezon UI Builder - shared admin form/UI element framework for Magezon extensions.

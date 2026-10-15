@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 02:19 UTC
+## Latest list — 2026-10-15 03:22 UTC
 
-New packages created between 2026-10-15 01:19 UTC and 2026-10-15 02:19 UTC.
+New packages created between 2026-10-15 02:19 UTC and 2026-10-15 03:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-15T02-19-42-533684Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-15T03-22-55-577715Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-15 01:31:44 | [prmgtk/laravel-monitor](https://www.nuget.org/packages/prmgtk%2Flaravel-monitor) | v1.0.1 | prmgtk | Report errors from any Laravel site to the prmgtk error-monitoring platform. |
-| 2026-10-15 02:13:43 | [easydown/api-client](https://www.nuget.org/packages/easydown%2Fapi-client) | v0.1.0 | Zhang Bo | PHP client for the EasyDown public-media API: normalized parsing, platform data… |
+| 2026-10-15 02:30:51 | [runapi-ai/heygen-video](https://www.nuget.org/packages/runapi-ai%2Fheygen-video) | v0.1.0 | RunAPI | RunAPI HeyGen Video Composer package for PHP applications |
+| 2026-10-15 02:30:53 | [runapi-ai/qwen-2.1](https://www.nuget.org/packages/runapi-ai%2Fqwen-2.1) | v0.1.0 | RunAPI | RunAPI Qwen 2.1 Composer package for PHP applications |
+| 2026-10-15 02:30:55 | [runapi-ai/vidu](https://www.nuget.org/packages/runapi-ai%2Fvidu) | v0.1.0 | RunAPI | RunAPI Vidu Composer package for PHP applications |
+| 2026-10-15 02:39:46 | [magezon/module-ui-builder](https://www.nuget.org/packages/magezon%2Fmodule-ui-builder) | 1.0.14 |  | Magezon UI Builder - shared admin form/UI element framework for Magezon extensi… |
 
 ## Data source
 
