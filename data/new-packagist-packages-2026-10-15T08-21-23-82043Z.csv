@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-15T07:34:19Z,phatnt93/phalcon-validation,v1.0.1,Phat Nguyen,"A fast, extensible and expressive PHP data validation and sanitization library for Phalcon Framework v5 and v6, inspired by GUMP."
+2026-10-15T07:35:01Z,enaxon/reqtide-guzzle,v0.1.0,Ehsan Enaloo,"Guzzle integration for Reqtide: retries, deadlines, rate limits, circuit breaking and bulkheads around Guzzle 7 requests. Work in progress, not released."
+2026-10-15T07:35:01Z,enaxon/reqtide-redis,v0.1.0,Ehsan Enaloo,"Redis state backends for Reqtide: shared rate limits, circuit breakers, bulkheads, retry budgets and cooldowns. Work in progress, not released."
+2026-10-15T07:41:18Z,webx-ui/module-tasks,v0.73.0,WebX UI,"A queue of work between people and AI agents for the WebX UI admin panel: tasks with a specification and ordered stages, handed out one at a time, reported on, reviewed, and journalled."
+2026-10-15T07:46:24Z,pteal79/wysiwyg-editor,1.0.2,vipertecpro; Peter Teal,"A fully native, hand-written WYSIWYG rich text editor for NativePHP Mobile — write with a real native toolbar, get clean HTML back. Fork of vipertecpro/wysiwyg-editor with inline image support."
+2026-10-15T07:49:41Z,pieceofcake2/phpcs-cakephp2,v1.0.0,,"PHP_CodeSniffer ruleset for CakePHP 2 applications and plugins, based on the CakePHP coding standard"
+2026-10-15T08:01:40Z,reachweb/statamic-tolk,v1.0.0,Iosif Chatzimichail,Translate multi-site Statamic content into its localizations with large language models.
+2026-10-15T08:06:56Z,adems/dapur,0.1.0,,"Dapur AdeMS, tempat Ade M Saragih untuk bermain dan belajar membuat website"
+2026-10-15T08:09:25Z,fallahalireza/laravel-kavenegar,v0.1.0,Alireza Fallah,درایور تمیز، توسعه‌پذیر و تست‌پذیر ارسال پیامک کاوه‌نگار برای لاراول (Notification Channel، Facade، Fake)
