@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-15T06:21:41Z,manojkiran/filament-quick-view,v1.0.0,Manoj Kiran,Quick view slide-overs for related records in Filament tables and infolists.
+2026-10-15T06:48:31Z,everysize/checkout-prestashop,1.1.0,everysize GmbH,"everysize Checkout for PrestaShop 8.1/9: imports everysize orders and reports shipping, tracking, cancellations, returns and refunds back to everysize"
