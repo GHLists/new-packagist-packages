@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 11:22 UTC
+## Latest list — 2026-10-15 12:23 UTC
 
-New packages created between 2026-10-15 10:23 UTC and 2026-10-15 11:22 UTC.
+New packages created between 2026-10-15 11:22 UTC and 2026-10-15 12:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-15T11-22-25-361409Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-15T12-23-02-213915Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-15 10:49:14 | [vielhuber/codechecker](https://www.nuget.org/packages/vielhuber%2Fcodechecker) | 1.0.0 |  | Read-only PHP and JavaScript code checks through a PHP API, CLI and MCP server. |
-| 2026-10-15 11:01:08 | [postilio/postilio-php](https://www.nuget.org/packages/postilio%2Fpostilio-php) | v0.1.0-alpha.1 |  | The official PHP client for the Postilio API: European transactional email. |
-| 2026-10-15 11:08:37 | [juststeveking/api-toolbox](https://www.nuget.org/packages/juststeveking%2Fapi-toolbox) | v0.1.0 | Steve McDougall | Standards-compliant APIs in Laravel, one RFC at a time. |
-| 2026-10-15 11:18:21 | [systopic/relay](https://www.nuget.org/packages/systopic%2Frelay) | v1.0.1 |  | Live updates for the systopic packages: what a page rendered from, what a reque… |
+| 2026-10-15 11:26:49 | [getkirby/rector](https://www.nuget.org/packages/getkirby%2Frector) | 1.0.0 |  | Rector rules to upgrade Kirby sites and plugins |
+| 2026-10-15 11:48:18 | [amarenkov/laravel-mutable-content-tasks](https://www.nuget.org/packages/amarenkov%2Flaravel-mutable-content-tasks) | v0.1.0 | Alexey Marenkov | Task domain for laravel-mutable-content: tasks, participants and time tracking… |
+| 2026-10-15 11:48:24 | [amarenkov/laravel-mutable-content-finance](https://www.nuget.org/packages/amarenkov%2Flaravel-mutable-content-finance) | v0.1.0 | Alexey Marenkov | Personal finance domain for laravel-mutable-content: accounts, operations split… |
+| 2026-10-15 12:08:19 | [makaira/oxid-connect-demodata-fix](https://www.nuget.org/packages/makaira%2Foxid-connect-demodata-fix) | 1.1.0 |  |  |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-15T11:26:49Z,getkirby/rector,1.0.0,,Rector rules to upgrade Kirby sites and plugins
+2026-10-15T11:48:18Z,amarenkov/laravel-mutable-content-tasks,v0.1.0,Alexey Marenkov,"Task domain for laravel-mutable-content: tasks, participants and time tracking with their services and events, without a UI."
+2026-10-15T11:48:24Z,amarenkov/laravel-mutable-content-finance,v0.1.0,Alexey Marenkov,"Personal finance domain for laravel-mutable-content: accounts, operations split by categories, transfers, debts and receipts, with services, without a UI."
+2026-10-15T12:08:19Z,makaira/oxid-connect-demodata-fix,1.1.0,,
