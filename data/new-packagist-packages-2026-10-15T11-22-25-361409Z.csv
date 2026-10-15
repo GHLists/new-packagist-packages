@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-15T10:49:14Z,vielhuber/codechecker,1.0.0,,"Read-only PHP and JavaScript code checks through a PHP API, CLI and MCP server."
+2026-10-15T11:01:08Z,postilio/postilio-php,v0.1.0-alpha.1,,The official PHP client for the Postilio API: European transactional email.
+2026-10-15T11:08:37Z,juststeveking/api-toolbox,v0.1.0,Steve McDougall,"Standards-compliant APIs in Laravel, one RFC at a time."
+2026-10-15T11:18:21Z,systopic/relay,v1.0.1,,"Live updates for the systopic packages: what a page rendered from, what a request wrote, through a hub (Centrifugo) to the open browsers."

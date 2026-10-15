@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 10:23 UTC
+## Latest list — 2026-10-15 11:22 UTC
 
-New packages created between 2026-10-15 09:21 UTC and 2026-10-15 10:23 UTC.
+New packages created between 2026-10-15 10:23 UTC and 2026-10-15 11:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-15T10-23-06-219188Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-15T11-22-25-361409Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-15 09:25:41 | [zhangzhangzui/yii2-sms](https://www.nuget.org/packages/zhangzhangzui%2Fyii2-sms) | 1.0.0 | 张张嘴 | Yii2 多渠道短信组件 — 模板映射 + 自动 Failover + 回执回调 |
-| 2026-10-15 09:37:51 | [testmonitor/eloquent-revisable](https://www.nuget.org/packages/testmonitor%2Feloquent-revisable) | v1.0.0 | Thijs Kok; Stephan Grootveld;… | A Laravel package to track revisions of Eloquent models, allowing you to easily… |
-| 2026-10-15 09:38:49 | [deployecommerce/module-local-dev-tooling](https://www.nuget.org/packages/deployecommerce%2Fmodule-local-dev-tooling) | 0.0.1 |  | Local development tooling for Magento 2: admin auto-login, 2FA bypass and a fix… |
-| 2026-10-15 09:52:48 | [multiplayer-gratis/api-client](https://www.nuget.org/packages/multiplayer-gratis%2Fapi-client) | v1.0.0 |  | PHP-Client für die REST-API von multiplayer.gratis – kostenloses Gameserver-Hos… |
-| 2026-10-15 09:53:28 | [amrachraf6699/laravel-nplusone-scanner](https://www.nuget.org/packages/amrachraf6699%2Flaravel-nplusone-scanner) | v0.1.0 | Amr Achraf | A conservative static analyzer for potential Laravel N+1 query patterns. |
-| 2026-10-15 09:59:02 | [confeature/confeature-php-sdk](https://www.nuget.org/packages/confeature%2Fconfeature-php-sdk) | v0.0.0 | MakerLabs | Name reserved for the Confeature PHP SDK (ConfigCat-compatible). The first real… |
+| 2026-10-15 10:49:14 | [vielhuber/codechecker](https://www.nuget.org/packages/vielhuber%2Fcodechecker) | 1.0.0 |  | Read-only PHP and JavaScript code checks through a PHP API, CLI and MCP server. |
+| 2026-10-15 11:01:08 | [postilio/postilio-php](https://www.nuget.org/packages/postilio%2Fpostilio-php) | v0.1.0-alpha.1 |  | The official PHP client for the Postilio API: European transactional email. |
+| 2026-10-15 11:08:37 | [juststeveking/api-toolbox](https://www.nuget.org/packages/juststeveking%2Fapi-toolbox) | v0.1.0 | Steve McDougall | Standards-compliant APIs in Laravel, one RFC at a time. |
+| 2026-10-15 11:18:21 | [systopic/relay](https://www.nuget.org/packages/systopic%2Frelay) | v1.0.1 |  | Live updates for the systopic packages: what a page rendered from, what a reque… |
 
 ## Data source
 
