@@ -15,18 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 03:22 UTC
+## Latest list — 2026-10-15 04:23 UTC
 
-New packages created between 2026-10-15 02:19 UTC and 2026-10-15 03:22 UTC.
+New packages created between 2026-10-15 03:22 UTC and 2026-10-15 04:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-15T03-22-55-577715Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-15T04-23-11-708505Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-15 02:30:51 | [runapi-ai/heygen-video](https://www.nuget.org/packages/runapi-ai%2Fheygen-video) | v0.1.0 | RunAPI | RunAPI HeyGen Video Composer package for PHP applications |
-| 2026-10-15 02:30:53 | [runapi-ai/qwen-2.1](https://www.nuget.org/packages/runapi-ai%2Fqwen-2.1) | v0.1.0 | RunAPI | RunAPI Qwen 2.1 Composer package for PHP applications |
-| 2026-10-15 02:30:55 | [runapi-ai/vidu](https://www.nuget.org/packages/runapi-ai%2Fvidu) | v0.1.0 | RunAPI | RunAPI Vidu Composer package for PHP applications |
-| 2026-10-15 02:39:46 | [magezon/module-ui-builder](https://www.nuget.org/packages/magezon%2Fmodule-ui-builder) | 1.0.14 |  | Magezon UI Builder - shared admin form/UI element framework for Magezon extensi… |
+| 2026-10-15 03:27:06 | [pieceofcake2/docs](https://www.nuget.org/packages/pieceofcake2%2Fdocs) | v2.0.0 |  | Markdown documentation of pieceofcake2/cakephp (CakePHP 2 fork), for reading lo… |
+| 2026-10-15 03:42:31 | [ernestdefoe/depot](https://www.nuget.org/packages/ernestdefoe%2Fdepot) | v1.0.1 | Ernest Defoe | Depot — a downloads section for Flarum 2: files with versions and changelogs, c… |
+| 2026-10-15 03:49:22 | [gold-api/sdk-php](https://www.nuget.org/packages/gold-api%2Fsdk-php) | v1.1.0 | GoldAPI | GoldAPI (gold-api.cn) 贵金属行情 PHP SDK —— 黄金/白银/铂金/钯金等 70+ 品种实时行情，一次请求最多批量 50 个品种 |
+| 2026-10-15 03:49:40 | [magezon/module-simple-builder](https://www.nuget.org/packages/magezon%2Fmodule-simple-builder) | 1.0.7 |  |  |
+| 2026-10-15 04:11:29 | [envoylope/amqp-sqs-driver](https://www.nuget.org/packages/envoylope%2Famqp-sqs-driver) | v0.1.0 |  | AWS SQS driver for PHP AMQP-Compat |
+| 2026-10-15 04:19:16 | [filagora/filagora-messages](https://www.nuget.org/packages/filagora%2Ffilagora-messages) | v0.1.0 |  | Private conversations between members, with folders, read state and trash, for… |
 
 ## Data source
 

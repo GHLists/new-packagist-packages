@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-15T03:27:06Z,pieceofcake2/docs,v2.0.0,,"Markdown documentation of pieceofcake2/cakephp (CakePHP 2 fork), for reading locally and by AI tools"
+2026-10-15T03:42:31Z,ernestdefoe/depot,v1.0.1,Ernest Defoe,"Depot — a downloads section for Flarum 2: files with versions and changelogs, checksums, ratings and reviews, and category permissions."
+2026-10-15T03:49:22Z,gold-api/sdk-php,v1.1.0,GoldAPI,GoldAPI (gold-api.cn) 贵金属行情 PHP SDK —— 黄金/白银/铂金/钯金等 70+ 品种实时行情，一次请求最多批量 50 个品种
+2026-10-15T03:49:40Z,magezon/module-simple-builder,1.0.7,,
+2026-10-15T04:11:29Z,envoylope/amqp-sqs-driver,v0.1.0,,AWS SQS driver for PHP AMQP-Compat
+2026-10-15T04:19:16Z,filagora/filagora-messages,v0.1.0,,"Private conversations between members, with folders, read state and trash, for Filagora."
