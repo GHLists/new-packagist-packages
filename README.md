@@ -15,23 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 09:21 UTC
+## Latest list — 2026-10-15 10:23 UTC
 
-New packages created between 2026-10-15 08:21 UTC and 2026-10-15 09:21 UTC.
+New packages created between 2026-10-15 09:21 UTC and 2026-10-15 10:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-15T09-21-43-376221Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-15T10-23-06-219188Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-15 08:22:18 | [asyntai/neos-ai-chatbot](https://www.nuget.org/packages/asyntai%2Fneos-ai-chatbot) | 1.0.0 | Asyntai | Asyntai AI Chatbot for Neos CMS: an AI chat assistant on every page that answer… |
-| 2026-10-15 08:33:51 | [asyntai/filament-ai-chatbot](https://www.nuget.org/packages/asyntai%2Ffilament-ai-chatbot) | v1.0.0 | Asyntai | Asyntai AI chatbot for Filament. Adds an AI chat assistant to your Filament pan… |
-| 2026-10-15 08:36:48 | [sala/console](https://www.nuget.org/packages/sala%2Fconsole) | 1.0.0 |  | Console commands for Sala Framework (make, migrate, db, serve) |
-| 2026-10-15 08:41:26 | [asyntai/thelia-ai-chatbot](https://www.nuget.org/packages/asyntai%2Fthelia-ai-chatbot) | 1.0.0 | Asyntai | Asyntai AI Chatbot for Thelia: an AI chatbot that answers your customers 24/7 f… |
-| 2026-10-15 08:43:12 | [iq2i/tailwind-cs-fixer](https://www.nuget.org/packages/iq2i%2Ftailwind-cs-fixer) | 1.0.0 | Loïc Sapone | A tool to automatically sort Tailwind CSS classes in HTML and Twig files |
-| 2026-10-15 08:43:13 | [fylgja/props-builder](https://www.nuget.org/packages/fylgja%2Fprops-builder) | v2.3.0 | Fylgja | Effortlessly generate Design Tokens (CSS custom properties) from PHP arrays or… |
-| 2026-10-15 09:03:04 | [clesson-de/silverstripe-household-budget](https://www.nuget.org/packages/clesson-de%2Fsilverstripe-household-budget) | 1.0.0 | Kai Feldmaier | Track household income and recurring expenses in Silverstripe. |
-| 2026-10-15 09:10:57 | [clesson-de/silverstripe-scheduler](https://www.nuget.org/packages/clesson-de%2Fsilverstripe-scheduler) | 1.0.0 | Kai Feldmaier | Zentralisierter Scheduler für Silverstripe 6 — verwaltet mehrere BuildTasks in… |
-| 2026-10-15 09:17:55 | [pollora/assets](https://www.nuget.org/packages/pollora%2Fassets) | v0.1.0 | Amphibee | Scripts, styles and Vite builds for WordPress: enqueue an asset with a fluent A… |
+| 2026-10-15 09:25:41 | [zhangzhangzui/yii2-sms](https://www.nuget.org/packages/zhangzhangzui%2Fyii2-sms) | 1.0.0 | 张张嘴 | Yii2 多渠道短信组件 — 模板映射 + 自动 Failover + 回执回调 |
+| 2026-10-15 09:37:51 | [testmonitor/eloquent-revisable](https://www.nuget.org/packages/testmonitor%2Feloquent-revisable) | v1.0.0 | Thijs Kok; Stephan Grootveld;… | A Laravel package to track revisions of Eloquent models, allowing you to easily… |
+| 2026-10-15 09:38:49 | [deployecommerce/module-local-dev-tooling](https://www.nuget.org/packages/deployecommerce%2Fmodule-local-dev-tooling) | 0.0.1 |  | Local development tooling for Magento 2: admin auto-login, 2FA bypass and a fix… |
+| 2026-10-15 09:52:48 | [multiplayer-gratis/api-client](https://www.nuget.org/packages/multiplayer-gratis%2Fapi-client) | v1.0.0 |  | PHP-Client für die REST-API von multiplayer.gratis – kostenloses Gameserver-Hos… |
+| 2026-10-15 09:53:28 | [amrachraf6699/laravel-nplusone-scanner](https://www.nuget.org/packages/amrachraf6699%2Flaravel-nplusone-scanner) | v0.1.0 | Amr Achraf | A conservative static analyzer for potential Laravel N+1 query patterns. |
+| 2026-10-15 09:59:02 | [confeature/confeature-php-sdk](https://www.nuget.org/packages/confeature%2Fconfeature-php-sdk) | v0.0.0 | MakerLabs | Name reserved for the Confeature PHP SDK (ConfigCat-compatible). The first real… |
 
 ## Data source
 

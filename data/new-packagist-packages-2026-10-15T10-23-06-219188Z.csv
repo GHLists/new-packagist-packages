@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-15T09:25:41Z,zhangzhangzui/yii2-sms,1.0.0,张张嘴,Yii2 多渠道短信组件 — 模板映射 + 自动 Failover + 回执回调
+2026-10-15T09:37:51Z,testmonitor/eloquent-revisable,v1.0.0,Thijs Kok; Stephan Grootveld; Frank Keulen,"A Laravel package to track revisions of Eloquent models, allowing you to easily view and restore previous versions of your data."
+2026-10-15T09:38:49Z,deployecommerce/module-local-dev-tooling,0.0.1,,"Local development tooling for Magento 2: admin auto-login, 2FA bypass and a fixed /admin/ path on local hostnames. Dev dependency only."
+2026-10-15T09:52:48Z,multiplayer-gratis/api-client,v1.0.0,,PHP-Client für die REST-API von multiplayer.gratis – kostenloses Gameserver-Hosting.
+2026-10-15T09:53:28Z,amrachraf6699/laravel-nplusone-scanner,v0.1.0,Amr Achraf,A conservative static analyzer for potential Laravel N+1 query patterns.
+2026-10-15T09:59:02Z,confeature/confeature-php-sdk,v0.0.0,MakerLabs,Name reserved for the Confeature PHP SDK (ConfigCat-compatible). The first real release is coming; do not depend on 0.0.0.
