@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-15T01:31:44Z,prmgtk/laravel-monitor,v1.0.1,prmgtk,Report errors from any Laravel site to the prmgtk error-monitoring platform.
+2026-10-15T02:13:43Z,easydown/api-client,v0.1.0,Zhang Bo,"PHP client for the EasyDown public-media API: normalized parsing, platform data and safe errors. Hosted API requires account, token and credits."
