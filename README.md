@@ -15,24 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 16:20 UTC
+## Latest list — 2026-10-15 17:21 UTC
 
-New packages created between 2026-10-15 15:20 UTC and 2026-10-15 16:20 UTC.
+New packages created between 2026-10-15 16:20 UTC and 2026-10-15 17:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-15T16-20-41-931515Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-15T17-21-30-689086Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-15 15:20:47 | [1994/sign-off-statamic](https://www.nuget.org/packages/1994%2Fsign-off-statamic) | v1.2.1 | 1994 | Multi-step editorial sign-off for Statamic Pro: editors submit changes for revi… |
-| 2026-10-15 15:22:30 | [evopixel/socialiteproviders-evopixel](https://www.nuget.org/packages/evopixel%2Fsocialiteproviders-evopixel) | 1.0.0 | EvoPixel | EvoPixel Account OAuth2 provider for Laravel Socialite |
-| 2026-10-15 15:26:13 | [automattic/jetpack-cookie-consent](https://www.nuget.org/packages/automattic%2Fjetpack-cookie-consent) | v0.1.0 |  | GDPR cookie-consent banner, CCPA opt-out, and consent logging for WordPress. |
-| 2026-10-15 15:36:11 | [erseco/autofirma-intermediate-server](https://www.nuget.org/packages/erseco%2Fautofirma-intermediate-server) | v1.9.3 | Ernesto Serrano | Framework-agnostic PHP implementation of the AutoFirma intermediate server prot… |
-| 2026-10-15 15:37:37 | [pollora/block-bindings](https://www.nuget.org/packages/pollora%2Fblock-bindings) | v0.1.0 | Amphibee | WordPress Block Bindings declared with attributes: a #[BlockBinding] class is a… |
-| 2026-10-15 15:43:14 | [ekumanov/flarum-ext-spam-alerts](https://www.nuget.org/packages/ekumanov%2Fflarum-ext-spam-alerts) | v1.0.0 | ekumanov | Emails chosen moderators whenever FoF Anti-Spam automatically flags or holds a… |
-| 2026-10-15 15:55:21 | [pype/framework](https://www.nuget.org/packages/pype%2Fframework) | v0.1.0 |  | The pype core: a lightweight, pipeline-first PHP framework. |
-| 2026-10-15 15:55:28 | [pype/pype](https://www.nuget.org/packages/pype%2Fpype) | v0.1.0 |  | Starter application for the pype framework. |
-| 2026-10-15 15:57:55 | [watermarkws/watermark-php](https://www.nuget.org/packages/watermarkws%2Fwatermark-php) | v0.1.0 |  | PHP client for the Watermark API: watermark, resize and convert images, videos… |
-| 2026-10-15 16:00:39 | [ludoguenet/laravel-standards](https://www.nuget.org/packages/ludoguenet%2Flaravel-standards) | v0.1.0 | Ludovic Guénet | Engineering standards, guidelines and agent skills for Laravel projects, delive… |
+| 2026-10-15 16:51:51 | [juksgraphic/bladecomponents](https://www.nuget.org/packages/juksgraphic%2Fbladecomponents) | v1.0.0 | Kingsley | Composants Blade (Tailwind, Alpine, Penguin UI) pour Laravel et BladeOne. |
+| 2026-10-15 17:04:56 | [citomni/demo-provider](https://www.nuget.org/packages/citomni%2Fdemo-provider) | v1.0.0.1 | Lars Grove Mortensen | Reference provider package for the CitOmni PHP framework: site notices with a R… |
+| 2026-10-15 17:10:33 | [tuchsoft/issue-reporter](https://www.nuget.org/packages/tuchsoft%2Fissue-reporter) | v1.0.1 | Mattia Bonzi | A reporting library for static code analysis issues. It reads, aggregates, and… |
 
 ## Data source
 

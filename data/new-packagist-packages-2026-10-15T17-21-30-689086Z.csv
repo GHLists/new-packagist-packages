@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-15T16:51:51Z,juksgraphic/bladecomponents,v1.0.0,Kingsley,"Composants Blade (Tailwind, Alpine, Penguin UI) pour Laravel et BladeOne."
+2026-10-15T17:04:56Z,citomni/demo-provider,v1.0.0.1,Lars Grove Mortensen,"Reference provider package for the CitOmni PHP framework: site notices with a Registry, a service, routes, templates, translations, CLI commands and an Operation. Shows each layer the canonical way, with a README per folder."
+2026-10-15T17:10:33Z,tuchsoft/issue-reporter,v1.0.1,Mattia Bonzi,"A reporting library for static code analysis issues. It reads, aggregates, and formats common issue formats into various report types."
