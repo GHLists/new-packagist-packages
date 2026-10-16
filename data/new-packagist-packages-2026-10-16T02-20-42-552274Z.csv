@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-16T01:48:02Z,pieceofcake2/totp,v1.0.0,,"Two-factor authentication with time-based one-time passwords (TOTP, RFC 6238) for the CakePHP 2 AuthComponent"
+2026-10-16T01:48:20Z,pieceofcake2/acl_menu,v1.0.0,Mark Story,CakePHP 2 component that builds navigation menus of the actions a user may access with ACL
+2026-10-16T01:48:32Z,pieceofcake2/purifiable,v1.0.0,Jose Diaz-Gonzalez,CakePHP 2 behavior that sanitizes model data with HTML Purifier
+2026-10-16T02:04:33Z,janalis/bumpversion,v0.1.0,,A PHP CLI to update version strings and prepare Git releases.

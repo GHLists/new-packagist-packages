@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 01:21 UTC
+## Latest list — 2026-10-16 02:20 UTC
 
-New packages created between 2026-10-16 00:20 UTC and 2026-10-16 01:21 UTC.
+New packages created between 2026-10-16 01:21 UTC and 2026-10-16 02:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T01-21-37-981219Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T02-20-42-552274Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 01:04:29 | [rawand201/kurdish-escpos](https://www.nuget.org/packages/rawand201%2Fkurdish-escpos) | v0.1.0 | RawanD201 | Print correctly shaped Kurdish (Sorani and Badini), Arabic and English receipts… |
-| 2026-10-16 01:10:38 | [fewchurs/laravel](https://www.nuget.org/packages/fewchurs%2Flaravel) | v1.0.0 | Fewchurs | Drop a Fewchurs feature-request board into any Laravel app. |
-| 2026-10-16 01:14:15 | [moduref/moduref](https://www.nuget.org/packages/moduref%2Fmoduref) | v0.1.0 | Muhamad Syamsudin | Lightweight referral engine based on existing user UUIDs with transactional row… |
+| 2026-10-16 01:48:02 | [pieceofcake2/totp](https://www.nuget.org/packages/pieceofcake2%2Ftotp) | v1.0.0 |  | Two-factor authentication with time-based one-time passwords (TOTP, RFC 6238) f… |
+| 2026-10-16 01:48:20 | [pieceofcake2/acl_menu](https://www.nuget.org/packages/pieceofcake2%2Facl_menu) | v1.0.0 | Mark Story | CakePHP 2 component that builds navigation menus of the actions a user may acce… |
+| 2026-10-16 01:48:32 | [pieceofcake2/purifiable](https://www.nuget.org/packages/pieceofcake2%2Fpurifiable) | v1.0.0 | Jose Diaz-Gonzalez | CakePHP 2 behavior that sanitizes model data with HTML Purifier |
+| 2026-10-16 02:04:33 | [janalis/bumpversion](https://www.nuget.org/packages/janalis%2Fbumpversion) | v0.1.0 |  | A PHP CLI to update version strings and prepare Git releases. |
 
 ## Data source
 
