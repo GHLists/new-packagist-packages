@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 19:20 UTC
+## Latest list — 2026-10-16 20:21 UTC
 
-New packages created between 2026-10-16 18:20 UTC and 2026-10-16 19:20 UTC.
+New packages created between 2026-10-16 19:20 UTC and 2026-10-16 20:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T19-20-16-677931Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T20-21-10-442218Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 18:29:25 | [ernestdefoe/club](https://www.nuget.org/packages/ernestdefoe%2Fclub) | v1.0.0 | Ernest Defoe | Book and watch clubs for Marquee titles: a monthly pick, a reading or watching… |
-| 2026-10-16 18:33:49 | [ernestdefoe/shelf](https://www.nuget.org/packages/ernestdefoe%2Fshelf) | v1.0.0 | Ernest Defoe | Members rate, log and list the movies, shows, games, albums and books Marquee l… |
-| 2026-10-16 18:58:17 | [attachmentav/virus-scan-sdk](https://www.nuget.org/packages/attachmentav%2Fvirus-scan-sdk) | v1.0.0 | widdix | An SDK to integrate virus and malware scan capabilities into PHP applications.… |
-| 2026-10-16 18:58:46 | [x-laravel/federated-identity](https://www.nuget.org/packages/x-laravel%2Ffederated-identity) | v1.0.0 | Mehmet ÖĞMEN | Verify Google, Apple and any OpenID Connect ID token sent from mobile and singl… |
+| 2026-10-16 19:36:18 | [alien1225/basisu](https://www.nuget.org/packages/alien1225%2Fbasisu) | v0.1.1 |  |  |
+| 2026-10-16 19:41:37 | [uhifadhi/el-nino-module](https://www.nuget.org/packages/uhifadhi%2Fel-nino-module) | v0.1.1 | Ezekiel Mjema | El Niño watch: the state of the equatorial Pacific, the chance it lasts into th… |
+| 2026-10-16 19:45:14 | [sala/framework](https://www.nuget.org/packages/sala%2Fframework) | v1.2.0 | Abraão Xavier Sungo Sala | Um mini-framework em PHP prático, leve e moderno, construído utilizando os pode… |
+| 2026-10-16 19:56:36 | [jklejczyk/security-toolkit-for-laravel](https://www.nuget.org/packages/jklejczyk%2Fsecurity-toolkit-for-laravel) | v0.1.0 | Jakub Klejczyk | Security audit for Laravel 12 and 13 in one Artisan command: configuration, fil… |
+| 2026-10-16 20:05:00 | [tontonpro/contracts](https://www.nuget.org/packages/tontonpro%2Fcontracts) | v0.1.0 | Denis Albert NGANKAM | Contrats partagés des modules TontonPro : faits d'argent, registre de menus, co… |
 
 ## Data source
 

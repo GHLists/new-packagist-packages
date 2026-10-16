@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-16T19:36:18Z,alien1225/basisu,v0.1.1,,
+2026-10-16T19:41:37Z,uhifadhi/el-nino-module,v0.1.1,Ezekiel Mjema,"El Niño watch: the state of the equatorial Pacific, the chance it lasts into the short rains, the rain of the last weeks over an area, and which roads and places lose access if it floods — one bulletin a week, from a producer the area names."
+2026-10-16T19:45:14Z,sala/framework,v1.2.0,Abraão Xavier Sungo Sala,"Um mini-framework em PHP prático, leve e moderno, construído utilizando os poderosos e flexíveis componentes do Eloquent (Illuminate) e Symfony Console. Esta base funciona como um esqueleto (boilerplate) pronto para o ínicio de qualquer projeto PHP com uma estrutura organizada (MVC/CSR)"
+2026-10-16T19:56:36Z,jklejczyk/security-toolkit-for-laravel,v0.1.0,Jakub Klejczyk,"Security audit for Laravel 12 and 13 in one Artisan command: configuration, file storage, authentication and dependency checks with clear recommendations, CWE and CVSS."
+2026-10-16T20:05:00Z,tontonpro/contracts,v0.1.0,Denis Albert NGANKAM,"Contrats partagés des modules TontonPro : faits d'argent, registre de menus, contribution au plan de comptes."
