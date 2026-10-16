@@ -15,22 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 13:20 UTC
+## Latest list — 2026-10-16 14:20 UTC
 
-New packages created between 2026-10-16 12:21 UTC and 2026-10-16 13:20 UTC.
+New packages created between 2026-10-16 13:20 UTC and 2026-10-16 14:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T13-20-50-429586Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T14-20-52-692747Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 12:31:24 | [winter/wn-octane-plugin](https://www.nuget.org/packages/winter%2Fwn-octane-plugin) | v1.0.0 | Derrick Austin | Serves Winter CMS from a persistent application server (FrankenPHP, Swoole or R… |
-| 2026-10-16 12:32:54 | [rathauslotse/bayernportal-api](https://www.nuget.org/packages/rathauslotse%2Fbayernportal-api) | v1.0.0 | Michael Firlus | Laravel client for the BayernPortal REST API v3 (agencies, authorities, contact… |
-| 2026-10-16 12:45:45 | [ske-io/laravel-bridge](https://www.nuget.org/packages/ske-io%2Flaravel-bridge) | v0.1.0 |  | Runs a Laravel application on SKE: HTTP, queue and console |
-| 2026-10-16 12:50:25 | [dskripchenko/php-pdf-cryptopro](https://www.nuget.org/packages/dskripchenko%2Fphp-pdf-cryptopro) | v0.1.0 | Denis Skripchenko | CryptoPro CSP signer for dskripchenko/php-pdf: sign PDFs (PAdES, GOST R 34.10-2… |
-| 2026-10-16 12:56:42 | [arzcode/filament-docs](https://www.nuget.org/packages/arzcode%2Ffilament-docs) | 1.0.0 | arzcode | An in-panel user manual for Filament: one markdown file per screen, laid out li… |
-| 2026-10-16 13:08:01 | [mavisland/laravel-translator](https://www.nuget.org/packages/mavisland%2Flaravel-translator) | v1.0.0 | Tanju Yildiz | Synchronize missing Laravel PHP and JSON translation keys |
-| 2026-10-16 13:11:30 | [gatovel/session](https://www.nuget.org/packages/gatovel%2Fsession) | v1.0.0 |  | Sistema modular e independente de gerenciamento de sessoes para aplicacoes PHP. |
-| 2026-10-16 13:12:42 | [ahmedessawy/log-insight](https://www.nuget.org/packages/ahmedessawy%2Flog-insight) | v1.0.0 |  | Secure Laravel log viewer with tags, rich filtering, error grouping, metrics da… |
+| 2026-10-16 13:24:33 | [everysize/checkout-oscommerce](https://www.nuget.org/packages/everysize%2Fcheckout-oscommerce) | 1.0.1 | everysize GmbH | everysize Checkout – Erweiterung für osCommerce 4 |
+| 2026-10-16 13:24:36 | [everysize/checkout-phoenix-cart](https://www.nuget.org/packages/everysize%2Fcheckout-phoenix-cart) | 1.0.0 | everysize GmbH | everysize Checkout – Add-on für CE Phoenix Cart |
+| 2026-10-16 13:41:24 | [tyhp/io](https://www.nuget.org/packages/tyhp%2Fio) | 805.0.2 |  | Tyhp runtime io (PHP 8.5) — HTTP, processes, files, sockets, Redis, and databas… |
+| 2026-10-16 13:43:49 | [astral-php/astral-shop](https://www.nuget.org/packages/astral-php%2Fastral-shop) | 1.0.0 |  | Astral Shop — boutique e-commerce démo (en développement) |
+| 2026-10-16 13:46:07 | [tyhp/parallel](https://www.nuget.org/packages/tyhp%2Fparallel) | 805.0.2 |  | Tyhp runtime parallel (PHP 8.5) — process pool for isolated CPU work |
+| 2026-10-16 13:53:38 | [zeliard91/parse-php-sdk](https://www.nuget.org/packages/zeliard91%2Fparse-php-sdk) | 2.5.0 | Parse | Parse PHP SDK (fork with PHP 8.4+ support) |
+| 2026-10-16 14:03:30 | [dwivedianuj9118/mediaflow-laravel](https://www.nuget.org/packages/dwivedianuj9118%2Fmediaflow-laravel) | v1.0.0-beta.1 | Anuj Dwivedi | Universal media management infrastructure and UI for Laravel applications |
+| 2026-10-16 14:14:55 | [unione-repo/unione-laravel](https://www.nuget.org/packages/unione-repo%2Funione-laravel) | 2.1.2 |  | UniOne Web API for Laravel: API client, mail transport, webhooks |
+| 2026-10-16 14:15:07 | [unione-repo/unione-symfony-bundle](https://www.nuget.org/packages/unione-repo%2Funione-symfony-bundle) | 2.1.2 |  | UniOne Web API for Symfony: API client services, Symfony Mailer transport, webh… |
 
 ## Data source
 

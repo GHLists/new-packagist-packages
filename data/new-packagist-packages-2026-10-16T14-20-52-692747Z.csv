@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-16T13:24:33Z,everysize/checkout-oscommerce,1.0.1,everysize GmbH,everysize Checkout – Erweiterung für osCommerce 4
+2026-10-16T13:24:36Z,everysize/checkout-phoenix-cart,1.0.0,everysize GmbH,everysize Checkout – Add-on für CE Phoenix Cart
+2026-10-16T13:41:24Z,tyhp/io,805.0.2,,"Tyhp runtime io (PHP 8.5) — HTTP, processes, files, sockets, Redis, and databases on the tyhp/async event loop"
+2026-10-16T13:43:49Z,astral-php/astral-shop,1.0.0,,Astral Shop — boutique e-commerce démo (en développement)
+2026-10-16T13:46:07Z,tyhp/parallel,805.0.2,,Tyhp runtime parallel (PHP 8.5) — process pool for isolated CPU work
+2026-10-16T13:53:38Z,zeliard91/parse-php-sdk,2.5.0,Parse,Parse PHP SDK (fork with PHP 8.4+ support)
+2026-10-16T14:03:30Z,dwivedianuj9118/mediaflow-laravel,v1.0.0-beta.1,Anuj Dwivedi,Universal media management infrastructure and UI for Laravel applications
+2026-10-16T14:14:55Z,unione-repo/unione-laravel,2.1.2,,"UniOne Web API for Laravel: API client, mail transport, webhooks"
+2026-10-16T14:15:07Z,unione-repo/unione-symfony-bundle,2.1.2,,"UniOne Web API for Symfony: API client services, Symfony Mailer transport, webhooks"
