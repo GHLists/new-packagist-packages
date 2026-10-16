@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-16T17:30:55Z,coss/laravel,v0.1.0,"Cal.com, Inc.",Send Laravel mail through coss.com.
+2026-10-16T17:39:23Z,cartpauj/show-login,v1.1.0,cartpauj,WordPress front-end login popup triggered by a URL parameter (?sl=1).
+2026-10-16T17:45:06Z,vipertecpro/data-rights-desk,v1.0.0,vipertecpro,"Notices, consent records, data rights requests and breach reports for India's DPDP Act, in your Laravel app."
+2026-10-16T17:50:57Z,e9li/kirby-seo,v0.1.0,Rafael Egli,"Lightweight SEO tab, meta tags, Open Graph, robots.txt and sitemap.xml for Kirby"
+2026-10-16T17:58:48Z,ernestdefoe/recipes,1.0.0,Ernest Defoe,"Structured recipes in posts: ingredients that scale with servings, one-click step timers, a clean print view and schema.org Recipe data for search engines. Works with Scribe, FoF Rich Text and the plain composer."
