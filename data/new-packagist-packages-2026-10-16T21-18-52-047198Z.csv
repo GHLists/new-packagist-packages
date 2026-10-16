@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-16T20:25:12Z,bushcraftcn/ccot,v0.1.0,YerenChina,CCOT — China Compliance Operations Toolkit：中国合规运营工具包，为 Flarum 提供手机号认证、运营单页、私人工单、帖子图片、私信控制和 IP 属地展示。复用原生帖子和账号功能，不替代备案办理与人工运营。
+2026-10-16T20:28:26Z,sendclipper/sendclipper-php,v0.1.0,SendClipper,"Official PHP SDK for the SendClipper email API: send mail, manage domains, templates, sandboxes, webhooks, contacts and suppressions."
+2026-10-16T20:33:17Z,samuelheer/contao-churchtools-bundle,v0.2.0,Samuel Heer,"ChurchTools-Integration für Contao: Termine samt Flyer und Personen aus ChurchTools auf der Website, mandantenfähig für mehrere Gemeinden in einer Installation."
+2026-10-16T20:45:09Z,itools/htmlsecuritycheck,v1.0.0,interactivetools.com,"Allowlist check for HTML that has to be printed unencoded, such as rich text from a WYSIWYG editor: rejects content that could run script, send the page's data to another host, or mislead the visitor, and never rewrites what it accepts"
+2026-10-16T20:46:36Z,arodu/cakelte-tools,v1.0.0,,CakeLteTools plugin for CakePHP

@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 20:21 UTC
+## Latest list — 2026-10-16 21:18 UTC
 
-New packages created between 2026-10-16 19:20 UTC and 2026-10-16 20:21 UTC.
+New packages created between 2026-10-16 20:21 UTC and 2026-10-16 21:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T20-21-10-442218Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T21-18-52-047198Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 19:36:18 | [alien1225/basisu](https://www.nuget.org/packages/alien1225%2Fbasisu) | v0.1.1 |  |  |
-| 2026-10-16 19:41:37 | [uhifadhi/el-nino-module](https://www.nuget.org/packages/uhifadhi%2Fel-nino-module) | v0.1.1 | Ezekiel Mjema | El Niño watch: the state of the equatorial Pacific, the chance it lasts into th… |
-| 2026-10-16 19:45:14 | [sala/framework](https://www.nuget.org/packages/sala%2Fframework) | v1.2.0 | Abraão Xavier Sungo Sala | Um mini-framework em PHP prático, leve e moderno, construído utilizando os pode… |
-| 2026-10-16 19:56:36 | [jklejczyk/security-toolkit-for-laravel](https://www.nuget.org/packages/jklejczyk%2Fsecurity-toolkit-for-laravel) | v0.1.0 | Jakub Klejczyk | Security audit for Laravel 12 and 13 in one Artisan command: configuration, fil… |
-| 2026-10-16 20:05:00 | [tontonpro/contracts](https://www.nuget.org/packages/tontonpro%2Fcontracts) | v0.1.0 | Denis Albert NGANKAM | Contrats partagés des modules TontonPro : faits d'argent, registre de menus, co… |
+| 2026-10-16 20:25:12 | [bushcraftcn/ccot](https://www.nuget.org/packages/bushcraftcn%2Fccot) | v0.1.0 | YerenChina | CCOT — China Compliance Operations Toolkit：中国合规运营工具包，为 Flarum 提供手机号认证、运营单页、私人工单… |
+| 2026-10-16 20:28:26 | [sendclipper/sendclipper-php](https://www.nuget.org/packages/sendclipper%2Fsendclipper-php) | v0.1.0 | SendClipper | Official PHP SDK for the SendClipper email API: send mail, manage domains, temp… |
+| 2026-10-16 20:33:17 | [samuelheer/contao-churchtools-bundle](https://www.nuget.org/packages/samuelheer%2Fcontao-churchtools-bundle) | v0.2.0 | Samuel Heer | ChurchTools-Integration für Contao: Termine samt Flyer und Personen aus ChurchT… |
+| 2026-10-16 20:45:09 | [itools/htmlsecuritycheck](https://www.nuget.org/packages/itools%2Fhtmlsecuritycheck) | v1.0.0 | interactivetools.com | Allowlist check for HTML that has to be printed unencoded, such as rich text fr… |
+| 2026-10-16 20:46:36 | [arodu/cakelte-tools](https://www.nuget.org/packages/arodu%2Fcakelte-tools) | v1.0.0 |  | CakeLteTools plugin for CakePHP |
 
 ## Data source
 
