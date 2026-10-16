@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 18:20 UTC
+## Latest list — 2026-10-16 19:20 UTC
 
-New packages created between 2026-10-16 17:22 UTC and 2026-10-16 18:20 UTC.
+New packages created between 2026-10-16 18:20 UTC and 2026-10-16 19:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T18-20-39-41947Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T19-20-16-677931Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 17:30:55 | [coss/laravel](https://www.nuget.org/packages/coss%2Flaravel) | v0.1.0 | Cal.com, Inc. | Send Laravel mail through coss.com. |
-| 2026-10-16 17:39:23 | [cartpauj/show-login](https://www.nuget.org/packages/cartpauj%2Fshow-login) | v1.1.0 | cartpauj | WordPress front-end login popup triggered by a URL parameter (?sl=1). |
-| 2026-10-16 17:45:06 | [vipertecpro/data-rights-desk](https://www.nuget.org/packages/vipertecpro%2Fdata-rights-desk) | v1.0.0 | vipertecpro | Notices, consent records, data rights requests and breach reports for India's D… |
-| 2026-10-16 17:50:57 | [e9li/kirby-seo](https://www.nuget.org/packages/e9li%2Fkirby-seo) | v0.1.0 | Rafael Egli | Lightweight SEO tab, meta tags, Open Graph, robots.txt and sitemap.xml for Kirby |
-| 2026-10-16 17:58:48 | [ernestdefoe/recipes](https://www.nuget.org/packages/ernestdefoe%2Frecipes) | 1.0.0 | Ernest Defoe | Structured recipes in posts: ingredients that scale with servings, one-click st… |
+| 2026-10-16 18:29:25 | [ernestdefoe/club](https://www.nuget.org/packages/ernestdefoe%2Fclub) | v1.0.0 | Ernest Defoe | Book and watch clubs for Marquee titles: a monthly pick, a reading or watching… |
+| 2026-10-16 18:33:49 | [ernestdefoe/shelf](https://www.nuget.org/packages/ernestdefoe%2Fshelf) | v1.0.0 | Ernest Defoe | Members rate, log and list the movies, shows, games, albums and books Marquee l… |
+| 2026-10-16 18:58:17 | [attachmentav/virus-scan-sdk](https://www.nuget.org/packages/attachmentav%2Fvirus-scan-sdk) | v1.0.0 | widdix | An SDK to integrate virus and malware scan capabilities into PHP applications.… |
+| 2026-10-16 18:58:46 | [x-laravel/federated-identity](https://www.nuget.org/packages/x-laravel%2Ffederated-identity) | v1.0.0 | Mehmet ÖĞMEN | Verify Google, Apple and any OpenID Connect ID token sent from mobile and singl… |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-16T18:29:25Z,ernestdefoe/club,v1.0.0,Ernest Defoe,"Book and watch clubs for Marquee titles: a monthly pick, a reading or watching schedule, spoiler-gated replies per section and a progress bar for every member."
+2026-10-16T18:33:49Z,ernestdefoe/shelf,v1.0.0,Ernest Defoe,"Members rate, log and list the movies, shows, games, albums and books Marquee links to. Profile shelves, public lists and a top-rated view."
+2026-10-16T18:58:17Z,attachmentav/virus-scan-sdk,v1.0.0,widdix,"An SDK to integrate virus and malware scan capabilities into PHP applications. Scan files for viruses, trojans, and other kinds of malware with attachmentAV powered by Sophos."
+2026-10-16T18:58:46Z,x-laravel/federated-identity,v1.0.0,Mehmet ÖĞMEN,"Verify Google, Apple and any OpenID Connect ID token sent from mobile and single-page apps, and link it to a Laravel account safely."
