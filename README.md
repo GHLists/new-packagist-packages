@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 04:21 UTC
+## Latest list — 2026-10-16 05:21 UTC
 
-New packages created between 2026-10-16 03:21 UTC and 2026-10-16 04:21 UTC.
+New packages created between 2026-10-16 04:21 UTC and 2026-10-16 05:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T04-21-37-373296Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T05-21-41-14919Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 03:43:16 | [agencelex/notifications-slack](https://www.nuget.org/packages/agencelex%2Fnotifications-slack) | v1.0.0 | Agence Lex | Slack channel (Block Kit, legacy attachments, Incoming Webhooks and Web API) fo… |
+| 2026-10-16 04:28:13 | [hanshs474/emaki](https://www.nuget.org/packages/hanshs474%2Femaki) | v0.1.0 | emaki | Official SDK for emaki (emaki.ai), the Japanese-language AI video generator for… |
+| 2026-10-16 04:31:24 | [skynettechnologies/silverstripe-skyneta11ypdfremediation](https://www.nuget.org/packages/skynettechnologies%2Fsilverstripe-skyneta11ypdfremediation) | 1.0.0 | Skynet Technologies USA LLC | AI-powered PDF accessibility remediation - upload PDFs, scan website PDFs, and… |
+| 2026-10-16 05:03:56 | [docuhook/docuhook](https://www.nuget.org/packages/docuhook%2Fdocuhook) | v1.0.0 | DocuHook | Official DocuHook PHP client — merge JSON into HTML templates via the DocuHook… |
 
 ## Data source
 
