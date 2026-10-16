@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-16T10:32:45Z,manasija/drishti-sdk,v1.0.0,Manasija,"PHP client for the Drishti API (/v1): Indian stock market news, filings, earnings, concalls and real-time WebSocket feeds"
+2026-10-16T10:48:53Z,cap-rel/dolibarr-module-tests,v1.0.1,,"Shared PHPUnit harness (HTTP and integration) and generic tests for Dolibarr modules, development dependency only"
+2026-10-16T10:59:59Z,mykholy/laravel-failurelab,v1.0.0,Ahmed El-Kholy,Deterministic fault-injection and delivery-replay assertions for Laravel integration tests.
+2026-10-16T11:05:44Z,thedomeffm/email-canonicalizer,v1.0.0,Domenic G.,"Canonicalize addresses at public email providers (Gmail, Outlook, Proton, Fastmail, Yandex, Posteo, mailbox.org) to detect duplicate signups"
+2026-10-16T11:05:51Z,maximal/hyperloglog,v1.0,maximal,Set cardinality estimator using the HyperLogLog algorithm
+2026-10-16T11:13:28Z,gia/gsdd,v1.0.0,Gia,Support to your Spec-Driven Development sessions in your own Laravel app.
