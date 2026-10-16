@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-16T02:35:03Z,phatnt93/php-upload-helper,v1.0.0,Phat Nguyen,"A modern, secure and fluent PHP file upload and image manipulation library with first-class multi-file array support, inspired by class.upload.php."
+2026-10-16T02:54:04Z,brewphp/brewphp,v1.0.0,,"A small, Django-inspired PHP framework: easy to learn, readable core, zero runtime dependencies."
+2026-10-16T02:56:03Z,brewphp/skeleton,v1.0.0,,"Starter project for BrewPHP, the small Django-inspired PHP framework."
+2026-10-16T02:57:50Z,anun333/oe-module-clinic-forms,v0.1.0,anun333,"Printable clinic paperwork for OpenEMR: consents, releases, referral letters and blank intake packets, filled with the clinic's own details, and paper versions of any layout form"
+2026-10-16T02:59:02Z,kylin987/orm-redis-cache,v1.0.0,,"Fixed-record Redis cache with mutual invalidation for Eloquent, Webman ThinkORM and ThinkPHP"
+2026-10-16T03:08:00Z,calmify/laravel,v1.0.0,,"Receive articles from Calmify on a Laravel website: one install command, one pairing code."
