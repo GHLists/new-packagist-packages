@@ -15,23 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 16:21 UTC
+## Latest list — 2026-10-16 17:22 UTC
 
-New packages created between 2026-10-16 15:20 UTC and 2026-10-16 16:21 UTC.
+New packages created between 2026-10-16 16:21 UTC and 2026-10-16 17:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T16-21-38-227345Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T17-22-03-164758Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 15:26:47 | [cloudcastle/connect-manager](https://www.nuget.org/packages/cloudcastle%2Fconnect-manager) | v0.0.1 | CloudCastle | Production-ready PHP 8.1+ Connect Manager library (CloudCastle). |
-| 2026-10-16 15:27:55 | [andriichuk/liqpay-php-sdk](https://www.nuget.org/packages/andriichuk%2Fliqpay-php-sdk) | 0.1.0 | Serhii Andriichuk | Fluent PHP SDK for LiqPay API v7 with typed array responses, PSR-18 HTTP client… |
-| 2026-10-16 15:32:30 | [proudnerds/pn-backend-manual](https://www.nuget.org/packages/proudnerds%2Fpn-backend-manual) | 1.0.1 | Jacco van der Post | Editor manuals in Markdown, registered by a sitepackage and shown as dashboard… |
-| 2026-10-16 15:46:05 | [mteu/advisory-assessor](https://www.nuget.org/packages/mteu%2Fadvisory-assessor) | 0.1.0 | Martin Adler | PHP library for recording triage decisions on security advisory findings as VEX… |
-| 2026-10-16 15:59:44 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.6 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
-| 2026-10-16 16:04:17 | [metricpanel/php](https://www.nuget.org/packages/metricpanel%2Fphp) | v0.1.0 |  | Authenticated MetricPanel server events and exact iGaming payment delivery |
-| 2026-10-16 16:04:20 | [metricpanel/laravel](https://www.nuget.org/packages/metricpanel%2Flaravel) | v0.1.0 |  | Queued MetricPanel delivery for Laravel |
-| 2026-10-16 16:05:25 | [fof/mailtrap-mail](https://www.nuget.org/packages/fof%2Fmailtrap-mail) | 2.0.0 | FriendsOfFlarum | Send your forum mail through the Mailtrap API, or catch it in a Mailtrap sandbox |
-| 2026-10-16 16:10:23 | [biffbangpow/deployer](https://www.nuget.org/packages/biffbangpow%2Fdeployer) | v1.0.0 |  | Compatibility package for DorsetDigital Silverstripe Deploy |
+| 2026-10-16 16:22:44 | [webx-ui/module-notifications](https://www.nuget.org/packages/webx-ui%2Fmodule-notifications) | v0.76.0 | WebX UI | Notification channels for the WebX UI admin panel: Telegram and e-mail, message… |
+| 2026-10-16 16:22:48 | [webx-ui/module-snippets](https://www.nuget.org/packages/webx-ui%2Fmodule-snippets) | v0.76.0 | WebX UI | Codes of outside services for the WebX UI admin panel: a tag manager, a counter… |
+| 2026-10-16 16:27:54 | [nowo-tech/search-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fsearch-kit-bundle) | v1.0.1 | Héctor Franco Aceituno; Nowo.… | Global header search (command palette) for Symfony: a magnifier that stretches… |
+| 2026-10-16 16:35:34 | [ahinest/laravel-permission-manager](https://www.nuget.org/packages/ahinest%2Flaravel-permission-manager) | 1.0.0 |  | Explicit, transactional role hierarchy and permission delegation for Laravel an… |
+| 2026-10-16 16:44:34 | [elcreator/amount](https://www.nuget.org/packages/elcreator%2Famount) | 0.1.0 |  | aMount — mount cloud and remote storage (S3, Google Drive, Dropbox, OneDrive, S… |
+| 2026-10-16 16:54:15 | [gvargas/atusan-agents](https://www.nuget.org/packages/gvargas%2Fatusan-agents) | v1.1 | Gabriel Vargas | Soporte para Agentes IA de desarrollo |
+| 2026-10-16 17:19:51 | [angeo/module-agent-activity](https://www.nuget.org/packages/angeo%2Fmodule-agent-activity) | 1.0.0 |  | See what AI agents do in your Magento 2 store: UCP, MCP and WebMCP calls, AI cr… |
 
 ## Data source
 

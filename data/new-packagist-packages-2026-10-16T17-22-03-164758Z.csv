@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-16T16:22:44Z,webx-ui/module-notifications,v0.76.0,WebX UI,"Notification channels for the WebX UI admin panel: Telegram and e-mail, message templates in every language of the site, sending through the queue with retries, and a log of every delivery."
+2026-10-16T16:22:48Z,webx-ui/module-snippets,v0.76.0,WebX UI,"Codes of outside services for the WebX UI admin panel: a tag manager, a counter, a chat pasted into the head or the body of every page, with its coverage, languages, environment and cookie consent."
+2026-10-16T16:27:54Z,nowo-tech/search-kit-bundle,v1.0.1,Héctor Franco Aceituno; Nowo.tech,"Global header search (command palette) for Symfony: a magnifier that stretches into a field, grouped permission-aware results from your own providers, Ctrl/⌘K, keyboard navigation, recents, UX Icons and theme tokens."
+2026-10-16T16:35:34Z,ahinest/laravel-permission-manager,1.0.0,,"Explicit, transactional role hierarchy and permission delegation for Laravel and Spatie Permission."
+2026-10-16T16:44:34Z,elcreator/amount,0.1.0,,"aMount — mount cloud and remote storage (S3, Google Drive, Dropbox, OneDrive, SFTP, WebDAV and more, via Flysystem) into the Evolution CMS manager: pick folders, and big files such as backups are uploaded in the background, per manager, within what that manager may see."
+2026-10-16T16:54:15Z,gvargas/atusan-agents,v1.1,Gabriel Vargas,Soporte para Agentes IA de desarrollo
+2026-10-16T17:19:51Z,angeo/module-agent-activity,1.0.0,,"See what AI agents do in your Magento 2 store: UCP, MCP and WebMCP calls, AI crawler and agent page visits, agent-built orders and revenue. Admin report with charts, event log grid, CSV and CLI reports, bot IP verification. No IP addresses stored."
