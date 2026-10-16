@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-16T01:04:29Z,rawand201/kurdish-escpos,v0.1.0,RawanD201,"Print correctly shaped Kurdish (Sorani and Badini), Arabic and English receipts on ESC/POS thermal printers. Pure PHP, no binaries."
+2026-10-16T01:10:38Z,fewchurs/laravel,v1.0.0,Fewchurs,Drop a Fewchurs feature-request board into any Laravel app.
+2026-10-16T01:14:15Z,moduref/moduref,v0.1.0,Muhamad Syamsudin,Lightweight referral engine based on existing user UUIDs with transactional row-locking in PHP.

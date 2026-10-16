@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 00:20 UTC
+## Latest list — 2026-10-16 01:21 UTC
 
-New packages created between 2026-10-15 23:20 UTC and 2026-10-16 00:20 UTC.
+New packages created between 2026-10-16 00:20 UTC and 2026-10-16 01:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T00-20-29-626436Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T01-21-37-981219Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-15 23:26:22 | [wilycode/template-translation](https://www.nuget.org/packages/wilycode%2Ftemplate-translation) | v0.1.0 | Simon Piter | Translation and locale formatting filters for WilyCode Template, with view-awar… |
-| 2026-10-15 23:48:37 | [wilycode/template-assets](https://www.nuget.org/packages/wilycode%2Ftemplate-assets) | v0.1.0 | Simon Piter | Page-scoped CSS and JavaScript asset collection, versioning, bundling, and mini… |
+| 2026-10-16 01:04:29 | [rawand201/kurdish-escpos](https://www.nuget.org/packages/rawand201%2Fkurdish-escpos) | v0.1.0 | RawanD201 | Print correctly shaped Kurdish (Sorani and Badini), Arabic and English receipts… |
+| 2026-10-16 01:10:38 | [fewchurs/laravel](https://www.nuget.org/packages/fewchurs%2Flaravel) | v1.0.0 | Fewchurs | Drop a Fewchurs feature-request board into any Laravel app. |
+| 2026-10-16 01:14:15 | [moduref/moduref](https://www.nuget.org/packages/moduref%2Fmoduref) | v0.1.0 | Muhamad Syamsudin | Lightweight referral engine based on existing user UUIDs with transactional row… |
 
 ## Data source
 
