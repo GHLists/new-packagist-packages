@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-16T22:46:18Z,evopixel/socialiteproviders-evopixel,1.0.0,EvoPixel,EvoPixel Account OAuth2 provider for Laravel Socialite
+2026-10-16T22:46:30Z,evopixel/socialiteproviders-minecraft-evopixel,1.0.0,EvoPixel,Minecraft EvoPixel OAuth2 provider for Laravel Socialite
+2026-10-16T23:17:05Z,juaniquillo/mjml-backend-components,v0.1.0,Juaniquillo,Backend components for MJML

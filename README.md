@@ -15,19 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 22:18 UTC
+## Latest list — 2026-10-16 23:19 UTC
 
-New packages created between 2026-10-16 21:18 UTC and 2026-10-16 22:18 UTC.
+New packages created between 2026-10-16 22:18 UTC and 2026-10-16 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T22-18-48-247677Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T23-19-24-903555Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 21:32:34 | [eduardoribeirodev/filament-kanban](https://www.nuget.org/packages/eduardoribeirodev%2Ffilament-kanban) | v1.0.0 | Eduardo Ribeiro | Kanban boards for Filament with native filters, actions, infolists, drag and dr… |
-| 2026-10-16 21:37:06 | [arodu/cakephp-admin-tools](https://www.nuget.org/packages/arodu%2Fcakephp-admin-tools) | v1.0.0 |  |  |
-| 2026-10-16 21:43:00 | [sparkhire/ai-detection](https://www.nuget.org/packages/sparkhire%2Fai-detection) | 9.9.9 |  |  |
-| 2026-10-16 21:52:30 | [openthc/cre-adapter](https://www.nuget.org/packages/openthc%2Fcre-adapter) | 420.26.288 |  | OpenTHC Cannabis Reporting Engine API Adapters |
-| 2026-10-16 21:58:37 | [arodu/cakephp-modal-form](https://www.nuget.org/packages/arodu%2Fcakephp-modal-form) | v2.0.0 |  | ModalForm plugin for CakePHP |
+| 2026-10-16 22:46:18 | [evopixel/socialiteproviders-evopixel](https://www.nuget.org/packages/evopixel%2Fsocialiteproviders-evopixel) | 1.0.0 | EvoPixel | EvoPixel Account OAuth2 provider for Laravel Socialite |
+| 2026-10-16 22:46:30 | [evopixel/socialiteproviders-minecraft-evopixel](https://www.nuget.org/packages/evopixel%2Fsocialiteproviders-minecraft-evopixel) | 1.0.0 | EvoPixel | Minecraft EvoPixel OAuth2 provider for Laravel Socialite |
+| 2026-10-16 23:17:05 | [juaniquillo/mjml-backend-components](https://www.nuget.org/packages/juaniquillo%2Fmjml-backend-components) | v0.1.0 | Juaniquillo | Backend components for MJML |
 
 ## Data source
 
