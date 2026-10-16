@@ -15,17 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 05:21 UTC
+## Latest list — 2026-10-16 06:22 UTC
 
-New packages created between 2026-10-16 04:21 UTC and 2026-10-16 05:21 UTC.
+New packages created between 2026-10-16 05:21 UTC and 2026-10-16 06:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T05-21-41-14919Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T06-22-24-536983Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 04:28:13 | [hanshs474/emaki](https://www.nuget.org/packages/hanshs474%2Femaki) | v0.1.0 | emaki | Official SDK for emaki (emaki.ai), the Japanese-language AI video generator for… |
-| 2026-10-16 04:31:24 | [skynettechnologies/silverstripe-skyneta11ypdfremediation](https://www.nuget.org/packages/skynettechnologies%2Fsilverstripe-skyneta11ypdfremediation) | 1.0.0 | Skynet Technologies USA LLC | AI-powered PDF accessibility remediation - upload PDFs, scan website PDFs, and… |
-| 2026-10-16 05:03:56 | [docuhook/docuhook](https://www.nuget.org/packages/docuhook%2Fdocuhook) | v1.0.0 | DocuHook | Official DocuHook PHP client — merge JSON into HTML templates via the DocuHook… |
+| 2026-10-16 05:24:14 | [schachbulle/contao-kinderschutzdokumente-bundle](https://www.nuget.org/packages/schachbulle%2Fcontao-kinderschutzdokumente-bundle) | 1.0.0 | Frank Hoppe | Mitglieder reichen Kinderschutz-Unterlagen wie das erweiterte Führungszeugnis o… |
+| 2026-10-16 05:24:16 | [1994/reviews-statamic](https://www.nuget.org/packages/1994%2Freviews-statamic) | v1.1.0 | 1994 | Reviews and ratings for Statamic, collected on your own site: a review form for… |
+| 2026-10-16 05:34:25 | [pharaonic/php-diff](https://www.nuget.org/packages/pharaonic%2Fphp-diff) | 8.0.0 | Moamen Eltouny (Raggi) | Semantic structured diffs and GitHub-style text diffs for PHP: added, removed,… |
+| 2026-10-16 05:47:23 | [hypervel/guzzle-promises](https://www.nuget.org/packages/hypervel%2Fguzzle-promises) | 3.0.2.1 | Graham Campbell; Michael Dowl… | Hypervel's fork of the Guzzle promises library |
+| 2026-10-16 06:05:00 | [srako/webman-kms](https://www.nuget.org/packages/srako%2Fwebman-kms) | v0.1.0 |  | Aliyun KMS local-agent (sidecar) secrets client for webman: fetch MySQL/Redis c… |
 
 ## Data source
 

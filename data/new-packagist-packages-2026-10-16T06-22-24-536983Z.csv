@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-16T05:24:14Z,schachbulle/contao-kinderschutzdokumente-bundle,1.0.0,Frank Hoppe,"Mitglieder reichen Kinderschutz-Unterlagen wie das erweiterte Führungszeugnis online ein; Prüfer sehen im Backend, wer vollständig ist und was fehlt."
+2026-10-16T05:24:16Z,1994/reviews-statamic,v1.1.0,1994,"Reviews and ratings for Statamic, collected on your own site: a review form for any entry, moderation in the Control Panel, star ratings, averages and review schema, with verified purchases from Cargo."
+2026-10-16T05:34:25Z,pharaonic/php-diff,8.0.0,Moamen Eltouny (Raggi),"Semantic structured diffs and GitHub-style text diffs for PHP: added, removed, modified and moved values with paths, identity-aware lists, redaction, hunks, unified patches and HTML."
+2026-10-16T05:47:23Z,hypervel/guzzle-promises,3.0.2.1,Graham Campbell; Michael Dowling; Tobias Nyholm; Tobias Schultze,Hypervel's fork of the Guzzle promises library
+2026-10-16T06:05:00Z,srako/webman-kms,v0.1.0,,Aliyun KMS local-agent (sidecar) secrets client for webman: fetch MySQL/Redis credentials from the local secretsmanager agent with memory + file caching and graceful fallback.
