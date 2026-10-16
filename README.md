@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 23:20 UTC
+## Latest list — 2026-10-16 00:20 UTC
 
-New packages created between 2026-10-15 22:20 UTC and 2026-10-15 23:20 UTC.
+New packages created between 2026-10-15 23:20 UTC and 2026-10-16 00:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-15T23-20-51-81846Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T00-20-29-626436Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-15 22:31:02 | [wilycode/template](https://www.nuget.org/packages/wilycode%2Ftemplate) | v0.1.0 | Simon Piter | Compiled PHP template engine with layouts, sections, components and extensions. |
-| 2026-10-15 22:52:28 | [abolaradev/authora](https://www.nuget.org/packages/abolaradev%2Fauthora) | v1.0.0 | abolaradev | A reusable authentication package for Laravel, designed to provide a flexible a… |
-| 2026-10-15 23:02:42 | [wilycode/template-string](https://www.nuget.org/packages/wilycode%2Ftemplate-string) | v0.1.0 | Simon Piter | String and formatting filters for the WilyCode Template engine. |
+| 2026-10-15 23:26:22 | [wilycode/template-translation](https://www.nuget.org/packages/wilycode%2Ftemplate-translation) | v0.1.0 | Simon Piter | Translation and locale formatting filters for WilyCode Template, with view-awar… |
+| 2026-10-15 23:48:37 | [wilycode/template-assets](https://www.nuget.org/packages/wilycode%2Ftemplate-assets) | v0.1.0 | Simon Piter | Page-scoped CSS and JavaScript asset collection, versioning, bundling, and mini… |
 
 ## Data source
 

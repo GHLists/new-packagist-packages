@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-15T23:26:22Z,wilycode/template-translation,v0.1.0,Simon Piter,"Translation and locale formatting filters for WilyCode Template, with view-aware translation resources."
+2026-10-15T23:48:37Z,wilycode/template-assets,v0.1.0,Simon Piter,"Page-scoped CSS and JavaScript asset collection, versioning, bundling, and minification for WilyCode Template."
