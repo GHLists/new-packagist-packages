@@ -15,23 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 14:20 UTC
+## Latest list — 2026-10-16 15:20 UTC
 
-New packages created between 2026-10-16 13:20 UTC and 2026-10-16 14:20 UTC.
+New packages created between 2026-10-16 14:20 UTC and 2026-10-16 15:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T14-20-52-692747Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T15-20-21-382625Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 13:24:33 | [everysize/checkout-oscommerce](https://www.nuget.org/packages/everysize%2Fcheckout-oscommerce) | 1.0.1 | everysize GmbH | everysize Checkout – Erweiterung für osCommerce 4 |
-| 2026-10-16 13:24:36 | [everysize/checkout-phoenix-cart](https://www.nuget.org/packages/everysize%2Fcheckout-phoenix-cart) | 1.0.0 | everysize GmbH | everysize Checkout – Add-on für CE Phoenix Cart |
-| 2026-10-16 13:41:24 | [tyhp/io](https://www.nuget.org/packages/tyhp%2Fio) | 805.0.2 |  | Tyhp runtime io (PHP 8.5) — HTTP, processes, files, sockets, Redis, and databas… |
-| 2026-10-16 13:43:49 | [astral-php/astral-shop](https://www.nuget.org/packages/astral-php%2Fastral-shop) | 1.0.0 |  | Astral Shop — boutique e-commerce démo (en développement) |
-| 2026-10-16 13:46:07 | [tyhp/parallel](https://www.nuget.org/packages/tyhp%2Fparallel) | 805.0.2 |  | Tyhp runtime parallel (PHP 8.5) — process pool for isolated CPU work |
-| 2026-10-16 13:53:38 | [zeliard91/parse-php-sdk](https://www.nuget.org/packages/zeliard91%2Fparse-php-sdk) | 2.5.0 | Parse | Parse PHP SDK (fork with PHP 8.4+ support) |
-| 2026-10-16 14:03:30 | [dwivedianuj9118/mediaflow-laravel](https://www.nuget.org/packages/dwivedianuj9118%2Fmediaflow-laravel) | v1.0.0-beta.1 | Anuj Dwivedi | Universal media management infrastructure and UI for Laravel applications |
-| 2026-10-16 14:14:55 | [unione-repo/unione-laravel](https://www.nuget.org/packages/unione-repo%2Funione-laravel) | 2.1.2 |  | UniOne Web API for Laravel: API client, mail transport, webhooks |
-| 2026-10-16 14:15:07 | [unione-repo/unione-symfony-bundle](https://www.nuget.org/packages/unione-repo%2Funione-symfony-bundle) | 2.1.2 |  | UniOne Web API for Symfony: API client services, Symfony Mailer transport, webh… |
+| 2026-10-16 14:22:47 | [stoyishi/checkout-uz](https://www.nuget.org/packages/stoyishi%2Fcheckout-uz) | 2.0.0 | Hasanov Otabek | Checkout.uz payment gateway PHP SDK |
+| 2026-10-16 14:23:18 | [saucebase/coming-soon](https://www.nuget.org/packages/saucebase%2Fcoming-soon) | v0.1.1 | Saucebase | A configurable coming soon page and site access gate for Saucebase. |
+| 2026-10-16 14:31:31 | [ldkafka/yii3-google-firestore](https://www.nuget.org/packages/ldkafka%2Fyii3-google-firestore) | v0.1.0 | ldkafka | Google Cloud Firestore for PHP 8.4 / Yii3 over the REST API, without gRPC or th… |
+| 2026-10-16 14:34:58 | [lathe/lathe](https://www.nuget.org/packages/lathe%2Flathe) | v1.0.0-beta.1 |  | Admin panel builder for Laravel on Inertia, React and shadcn/ui. |
+| 2026-10-16 14:37:35 | [tmonier/sylius-channel-access-plugin](https://www.nuget.org/packages/tmonier%2Fsylius-channel-access-plugin) | v0.1.0 | Thibaut Monier | Per-channel access mode for Sylius 2 (open, prices hidden, closed): anonymous v… |
+| 2026-10-16 14:51:19 | [laminas/internal-tooling](https://www.nuget.org/packages/laminas%2Finternal-tooling) | 1.0.0 |  | Internal tooling configuration and defaults for Laminas and Mezzio projects |
+| 2026-10-16 14:54:17 | [kipchak/driver-sftp](https://www.nuget.org/packages/kipchak%2Fdriver-sftp) | 1.0 |  | An SFTP driver for exchanging files with partners and other systems from the Ki… |
+| 2026-10-16 14:54:23 | [tmonier/sylius-registration-approval-plugin](https://www.nuget.org/packages/tmonier%2Fsylius-registration-approval-plugin) | v0.1.0 | Thibaut Monier | Registration approval for Sylius 2: accounts registered on a channel stay pendi… |
+| 2026-10-16 15:07:12 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.5.9 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
+| 2026-10-16 15:10:08 | [amtgard/host-env-vault](https://www.nuget.org/packages/amtgard%2Fhost-env-vault) | v0.1.0 |  | Runtime-mode unix socket client for host-env-vault profiles. |
 
 ## Data source
 

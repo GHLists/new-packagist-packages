@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-16T14:22:47Z,stoyishi/checkout-uz,2.0.0,Hasanov Otabek,Checkout.uz payment gateway PHP SDK
+2026-10-16T14:23:18Z,saucebase/coming-soon,v0.1.1,Saucebase,A configurable coming soon page and site access gate for Saucebase.
+2026-10-16T14:31:31Z,ldkafka/yii3-google-firestore,v0.1.0,ldkafka,"Google Cloud Firestore for PHP 8.4 / Yii3 over the REST API, without gRPC or the Google SDK: documents, queries with cursors, batched writes, transactions, preconditions and field transforms through any PSR-18 client"
+2026-10-16T14:34:58Z,lathe/lathe,v1.0.0-beta.1,,"Admin panel builder for Laravel on Inertia, React and shadcn/ui."
+2026-10-16T14:37:35Z,tmonier/sylius-channel-access-plugin,v0.1.0,Thibaut Monier,"Per-channel access mode for Sylius 2 (open, prices hidden, closed): anonymous visitors are redirected to the login on a closed channel, prices and purchase are hidden and refused server-side (storefront and shop API) when prices are hidden, with a configurable allow-list of exempt routes"
+2026-10-16T14:51:19Z,laminas/internal-tooling,1.0.0,,Internal tooling configuration and defaults for Laminas and Mezzio projects
+2026-10-16T14:54:17Z,kipchak/driver-sftp,1.0,,An SFTP driver for exchanging files with partners and other systems from the Kipchak API Development Kit (ADK)
+2026-10-16T14:54:23Z,tmonier/sylius-registration-approval-plugin,v0.1.0,Thibaut Monier,Registration approval for Sylius 2: accounts registered on a channel stay pending until an administrator approves or rejects them; pending and rejected customers are treated as anonymous by the channel access plugin; approval and rejection e-mails; no account enumeration
+2026-10-16T15:07:12Z,ak279642/laravel-infrastructure,v1.5.9,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."
+2026-10-16T15:10:08Z,amtgard/host-env-vault,v0.1.0,,Runtime-mode unix socket client for host-env-vault profiles.
