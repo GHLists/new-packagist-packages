@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-16T11:24:20Z,webchatagent/typo3-webchatagent,1.0.0,WebChatAgent,"AI chatbot and live chat for TYPO3: answers visitors from your website content, captures leads and hands chats to your team. Floating chat button, inline chat content element, per-site configuration."
+2026-10-16T11:32:18Z,jmonitor/easyadmin-bundle,v1.0.0,Jonathan Plantey,"Live monitoring pages inside EasyAdmin: system, PHP, MySQL, Redis and Symfony metrics collected when you open the page, no worker required."
+2026-10-16T12:05:45Z,shapperize/laravel-activation,v0.1.0,Technologies Shapperize Inc.,"Aha-moment activation for Laravel SaaS apps: proof-of-value steps, plan gates, regression, tour and hint state."

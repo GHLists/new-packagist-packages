@@ -15,20 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 11:22 UTC
+## Latest list — 2026-10-16 12:21 UTC
 
-New packages created between 2026-10-16 10:19 UTC and 2026-10-16 11:22 UTC.
+New packages created between 2026-10-16 11:22 UTC and 2026-10-16 12:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T11-22-05-520003Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T12-21-25-750193Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 10:32:45 | [manasija/drishti-sdk](https://www.nuget.org/packages/manasija%2Fdrishti-sdk) | v1.0.0 | Manasija | PHP client for the Drishti API (/v1): Indian stock market news, filings, earnin… |
-| 2026-10-16 10:48:53 | [cap-rel/dolibarr-module-tests](https://www.nuget.org/packages/cap-rel%2Fdolibarr-module-tests) | v1.0.1 |  | Shared PHPUnit harness (HTTP and integration) and generic tests for Dolibarr mo… |
-| 2026-10-16 10:59:59 | [mykholy/laravel-failurelab](https://www.nuget.org/packages/mykholy%2Flaravel-failurelab) | v1.0.0 | Ahmed El-Kholy | Deterministic fault-injection and delivery-replay assertions for Laravel integr… |
-| 2026-10-16 11:05:44 | [thedomeffm/email-canonicalizer](https://www.nuget.org/packages/thedomeffm%2Femail-canonicalizer) | v1.0.0 | Domenic G. | Canonicalize addresses at public email providers (Gmail, Outlook, Proton, Fastm… |
-| 2026-10-16 11:05:51 | [maximal/hyperloglog](https://www.nuget.org/packages/maximal%2Fhyperloglog) | v1.0 | maximal | Set cardinality estimator using the HyperLogLog algorithm |
-| 2026-10-16 11:13:28 | [gia/gsdd](https://www.nuget.org/packages/gia%2Fgsdd) | v1.0.0 | Gia | Support to your Spec-Driven Development sessions in your own Laravel app. |
+| 2026-10-16 11:24:20 | [webchatagent/typo3-webchatagent](https://www.nuget.org/packages/webchatagent%2Ftypo3-webchatagent) | 1.0.0 | WebChatAgent | AI chatbot and live chat for TYPO3: answers visitors from your website content,… |
+| 2026-10-16 11:32:18 | [jmonitor/easyadmin-bundle](https://www.nuget.org/packages/jmonitor%2Feasyadmin-bundle) | v1.0.0 | Jonathan Plantey | Live monitoring pages inside EasyAdmin: system, PHP, MySQL, Redis and Symfony m… |
+| 2026-10-16 12:05:45 | [shapperize/laravel-activation](https://www.nuget.org/packages/shapperize%2Flaravel-activation) | v0.1.0 | Technologies Shapperize Inc. | Aha-moment activation for Laravel SaaS apps: proof-of-value steps, plan gates,… |
 
 ## Data source
 
