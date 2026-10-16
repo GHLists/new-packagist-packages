@@ -15,24 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 08:21 UTC
+## Latest list — 2026-10-16 09:19 UTC
 
-New packages created between 2026-10-16 07:20 UTC and 2026-10-16 08:21 UTC.
+New packages created between 2026-10-16 08:21 UTC and 2026-10-16 09:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T08-21-05-25994Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T09-19-57-806117Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 07:21:08 | [saij/wp-app-starter](https://www.nuget.org/packages/saij%2Fwp-app-starter) | v0.1.0 |  | Creates a theme, child theme or plugin built with wp-app-framework: composer cr… |
-| 2026-10-16 07:23:21 | [wexample/php-git](https://www.nuget.org/packages/wexample%2Fphp-git) | 1.0.1 |  |  |
-| 2026-10-16 07:24:05 | [wexample/symfony-git](https://www.nuget.org/packages/wexample%2Fsymfony-git) | 1.0.1 |  |  |
-| 2026-10-16 07:24:34 | [wexample/symfony-git-ds](https://www.nuget.org/packages/wexample%2Fsymfony-git-ds) | 1.0.1 |  |  |
-| 2026-10-16 07:49:22 | [qiangvei/magento2-theme-amazon](https://www.nuget.org/packages/qiangvei%2Fmagento2-theme-amazon) | 1.0.0 |  | Amazon style theme for Magento 2.4 |
-| 2026-10-16 08:01:39 | [bakslash/static-site-bundle](https://www.nuget.org/packages/bakslash%2Fstatic-site-bundle) | v0.1.0 | Mathias Arlaud | Generate a static site by prerendering Symfony routes. |
-| 2026-10-16 08:07:30 | [chatsong/voice-note](https://www.nuget.org/packages/chatsong%2Fvoice-note) | 1.0.0 |  | Voice Note en Audio Demo recorder voor Chatsong |
-| 2026-10-16 08:07:31 | [iqual/icms_mcp](https://www.nuget.org/packages/iqual%2Ficms_mcp) | v1.0.0 |  | Drupal MCP tools for AI-powered, transactional ICMS content migration and impor… |
-| 2026-10-16 08:12:24 | [iqual/pagedesigner_export](https://www.nuget.org/packages/iqual%2Fpagedesigner_export) | v1.0.0 |  | Exports and imports Pagedesigner element trees with full translation support |
-| 2026-10-16 08:18:37 | [hypervel/guzzle](https://www.nuget.org/packages/hypervel%2Fguzzle) | 8.2.0.1 | Graham Campbell; Michael Dowl… | Hypervel's fork of Guzzle, a PHP HTTP client library |
+| 2026-10-16 08:26:23 | [dwivedianuj9118/mediaflow-laravel](https://www.nuget.org/packages/dwivedianuj9118%2Fmediaflow-laravel) | v1.0.2 | Anuj Dwivedi | Universal media management infrastructure and UI for Laravel applications |
+| 2026-10-16 08:46:45 | [hostfog/toolkit](https://www.nuget.org/packages/hostfog%2Ftoolkit) | v0.1.0 | HostFog | Zero-dependency toolkit for web developers and server admins: domain normalisat… |
+| 2026-10-16 09:00:06 | [qiangvei/magento2-theme-amazon](https://www.nuget.org/packages/qiangvei%2Fmagento2-theme-amazon) | 1.0.2 |  | Amazon style theme for Magento 2.4 |
 
 ## Data source
 
