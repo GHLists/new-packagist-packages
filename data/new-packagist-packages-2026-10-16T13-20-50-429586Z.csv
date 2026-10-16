@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-16T12:31:24Z,winter/wn-octane-plugin,v1.0.0,Derrick Austin,"Serves Winter CMS from a persistent application server (FrankenPHP, Swoole or RoadRunner) via Laravel Octane."
+2026-10-16T12:32:54Z,rathauslotse/bayernportal-api,v1.0.0,Michael Firlus,"Laravel client for the BayernPortal REST API v3 (agencies, authorities, contacts, services, forms, online procedures and life situations of Bavarian public administration)."
+2026-10-16T12:45:45Z,ske-io/laravel-bridge,v0.1.0,,"Runs a Laravel application on SKE: HTTP, queue and console"
+2026-10-16T12:50:25Z,dskripchenko/php-pdf-cryptopro,v0.1.0,Denis Skripchenko,"CryptoPro CSP signer for dskripchenko/php-pdf: sign PDFs (PAdES, GOST R 34.10-2012) with a key held by CryptoPro CSP on the server, through the phpcades extension."
+2026-10-16T12:56:42Z,arzcode/filament-docs,1.0.0,arzcode,"An in-panel user manual for Filament: one markdown file per screen, laid out like the panel's own navigation, with screenshots taken by Playwright."
+2026-10-16T13:08:01Z,mavisland/laravel-translator,v1.0.0,Tanju Yildiz,Synchronize missing Laravel PHP and JSON translation keys
+2026-10-16T13:11:30Z,gatovel/session,v1.0.0,,Sistema modular e independente de gerenciamento de sessoes para aplicacoes PHP.
+2026-10-16T13:12:42Z,ahmedessawy/log-insight,v1.0.0,,"Secure Laravel log viewer with tags, rich filtering, error grouping, metrics dashboard and alerts."

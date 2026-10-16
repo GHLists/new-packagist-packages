@@ -15,17 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 12:21 UTC
+## Latest list — 2026-10-16 13:20 UTC
 
-New packages created between 2026-10-16 11:22 UTC and 2026-10-16 12:21 UTC.
+New packages created between 2026-10-16 12:21 UTC and 2026-10-16 13:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T12-21-25-750193Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T13-20-50-429586Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 11:24:20 | [webchatagent/typo3-webchatagent](https://www.nuget.org/packages/webchatagent%2Ftypo3-webchatagent) | 1.0.0 | WebChatAgent | AI chatbot and live chat for TYPO3: answers visitors from your website content,… |
-| 2026-10-16 11:32:18 | [jmonitor/easyadmin-bundle](https://www.nuget.org/packages/jmonitor%2Feasyadmin-bundle) | v1.0.0 | Jonathan Plantey | Live monitoring pages inside EasyAdmin: system, PHP, MySQL, Redis and Symfony m… |
-| 2026-10-16 12:05:45 | [shapperize/laravel-activation](https://www.nuget.org/packages/shapperize%2Flaravel-activation) | v0.1.0 | Technologies Shapperize Inc. | Aha-moment activation for Laravel SaaS apps: proof-of-value steps, plan gates,… |
+| 2026-10-16 12:31:24 | [winter/wn-octane-plugin](https://www.nuget.org/packages/winter%2Fwn-octane-plugin) | v1.0.0 | Derrick Austin | Serves Winter CMS from a persistent application server (FrankenPHP, Swoole or R… |
+| 2026-10-16 12:32:54 | [rathauslotse/bayernportal-api](https://www.nuget.org/packages/rathauslotse%2Fbayernportal-api) | v1.0.0 | Michael Firlus | Laravel client for the BayernPortal REST API v3 (agencies, authorities, contact… |
+| 2026-10-16 12:45:45 | [ske-io/laravel-bridge](https://www.nuget.org/packages/ske-io%2Flaravel-bridge) | v0.1.0 |  | Runs a Laravel application on SKE: HTTP, queue and console |
+| 2026-10-16 12:50:25 | [dskripchenko/php-pdf-cryptopro](https://www.nuget.org/packages/dskripchenko%2Fphp-pdf-cryptopro) | v0.1.0 | Denis Skripchenko | CryptoPro CSP signer for dskripchenko/php-pdf: sign PDFs (PAdES, GOST R 34.10-2… |
+| 2026-10-16 12:56:42 | [arzcode/filament-docs](https://www.nuget.org/packages/arzcode%2Ffilament-docs) | 1.0.0 | arzcode | An in-panel user manual for Filament: one markdown file per screen, laid out li… |
+| 2026-10-16 13:08:01 | [mavisland/laravel-translator](https://www.nuget.org/packages/mavisland%2Flaravel-translator) | v1.0.0 | Tanju Yildiz | Synchronize missing Laravel PHP and JSON translation keys |
+| 2026-10-16 13:11:30 | [gatovel/session](https://www.nuget.org/packages/gatovel%2Fsession) | v1.0.0 |  | Sistema modular e independente de gerenciamento de sessoes para aplicacoes PHP. |
+| 2026-10-16 13:12:42 | [ahmedessawy/log-insight](https://www.nuget.org/packages/ahmedessawy%2Flog-insight) | v1.0.0 |  | Secure Laravel log viewer with tags, rich filtering, error grouping, metrics da… |
 
 ## Data source
 
