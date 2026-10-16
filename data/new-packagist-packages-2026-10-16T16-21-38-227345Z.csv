@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-16T15:26:47Z,cloudcastle/connect-manager,v0.0.1,CloudCastle,Production-ready PHP 8.1+ Connect Manager library (CloudCastle).
+2026-10-16T15:27:55Z,andriichuk/liqpay-php-sdk,0.1.0,Serhii Andriichuk,"Fluent PHP SDK for LiqPay API v7 with typed array responses, PSR-18 HTTP clients, checkout, subscriptions, refunds and invoices."
+2026-10-16T15:32:30Z,proudnerds/pn-backend-manual,1.0.1,Jacco van der Post,"Editor manuals in Markdown, registered by a sitepackage and shown as dashboard widgets with a full view in the TYPO3 backend."
+2026-10-16T15:46:05Z,mteu/advisory-assessor,0.1.0,Martin Adler,PHP library for recording triage decisions on security advisory findings as VEX statements
+2026-10-16T15:59:44Z,ak279642/laravel-infrastructure,v1.6,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."
+2026-10-16T16:04:17Z,metricpanel/php,v0.1.0,,Authenticated MetricPanel server events and exact iGaming payment delivery
+2026-10-16T16:04:20Z,metricpanel/laravel,v0.1.0,,Queued MetricPanel delivery for Laravel
+2026-10-16T16:05:25Z,fof/mailtrap-mail,2.0.0,FriendsOfFlarum,"Send your forum mail through the Mailtrap API, or catch it in a Mailtrap sandbox"
+2026-10-16T16:10:23Z,biffbangpow/deployer,v1.0.0,,Compatibility package for DorsetDigital Silverstripe Deploy
