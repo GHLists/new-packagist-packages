@@ -15,17 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 09:19 UTC
+## Latest list — 2026-10-16 10:19 UTC
 
-New packages created between 2026-10-16 08:21 UTC and 2026-10-16 09:19 UTC.
+New packages created between 2026-10-16 09:19 UTC and 2026-10-16 10:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T09-19-57-806117Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T10-19-52-845018Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 08:26:23 | [dwivedianuj9118/mediaflow-laravel](https://www.nuget.org/packages/dwivedianuj9118%2Fmediaflow-laravel) | v1.0.2 | Anuj Dwivedi | Universal media management infrastructure and UI for Laravel applications |
-| 2026-10-16 08:46:45 | [hostfog/toolkit](https://www.nuget.org/packages/hostfog%2Ftoolkit) | v0.1.0 | HostFog | Zero-dependency toolkit for web developers and server admins: domain normalisat… |
-| 2026-10-16 09:00:06 | [qiangvei/magento2-theme-amazon](https://www.nuget.org/packages/qiangvei%2Fmagento2-theme-amazon) | 1.0.2 |  | Amazon style theme for Magento 2.4 |
+| 2026-10-16 09:42:10 | [futura/contao-dynamic-snippets](https://www.nuget.org/packages/futura%2Fcontao-dynamic-snippets) | v1.0.0 | Dinko Skopljak | HTML-Snippets mit Platzhaltern als wiederverwendbare Inhaltselemente für Contao… |
+| 2026-10-16 09:45:15 | [teufels/tt3-wellknown](https://www.nuget.org/packages/teufels%2Ftt3-wellknown) | 1.0.0 | teufels GmbH | [teufels] well-known - Serve the well-known resources a TYPO3 site should provi… |
+| 2026-10-16 09:46:16 | [everysize/checkout-woocommerce](https://www.nuget.org/packages/everysize%2Fcheckout-woocommerce) | v1.0.0 | everysize GmbH | everysize Checkout – Plugin für WooCommerce |
+| 2026-10-16 09:52:26 | [php-forge/debug-core](https://www.nuget.org/packages/php-forge%2Fdebug-core) | 0.1.0 | Wilmer Arambula | Framework-agnostic snapshots, storage, and frontend for PHP debug adapters. |
+| 2026-10-16 09:55:34 | [ithilbert/consentlaw-client](https://www.nuget.org/packages/ithilbert%2Fconsentlaw-client) | 1.0.0 | Jörg Hilbert | Client für die consentLaw-API – ruft Rechtstexte (Impressum, Datenschutz, AGB,… |
+| 2026-10-16 09:56:12 | [balpom/types](https://www.nuget.org/packages/balpom%2Ftypes) | v1.0.0 | Mikhail (Balpom) | Library for PHP type checking and type casting. |
 
 ## Data source
 

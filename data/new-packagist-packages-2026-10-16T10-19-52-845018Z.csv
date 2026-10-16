@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-16T09:42:10Z,futura/contao-dynamic-snippets,v1.0.0,Dinko Skopljak,HTML-Snippets mit Platzhaltern als wiederverwendbare Inhaltselemente für Contao 5 – ohne eigene Modulprogrammierung
+2026-10-16T09:45:15Z,teufels/tt3-wellknown,1.0.0,teufels GmbH,"[teufels] well-known - Serve the well-known resources a TYPO3 site should provide, maintained in the site configuration"
+2026-10-16T09:46:16Z,everysize/checkout-woocommerce,v1.0.0,everysize GmbH,everysize Checkout – Plugin für WooCommerce
+2026-10-16T09:52:26Z,php-forge/debug-core,0.1.0,Wilmer Arambula,"Framework-agnostic snapshots, storage, and frontend for PHP debug adapters."
+2026-10-16T09:55:34Z,ithilbert/consentlaw-client,1.0.0,Jörg Hilbert,"Client für die consentLaw-API – ruft Rechtstexte (Impressum, Datenschutz, AGB, Cookie-Richtlinie, AVV) und Stellenangebote ab und liefert sie als Blade-Komponenten aus. Mit Cache und ausfallsicherem Fallback."
+2026-10-16T09:56:12Z,balpom/types,v1.0.0,Mikhail (Balpom),Library for PHP type checking and type casting.
