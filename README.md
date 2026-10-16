@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 21:18 UTC
+## Latest list — 2026-10-16 22:18 UTC
 
-New packages created between 2026-10-16 20:21 UTC and 2026-10-16 21:18 UTC.
+New packages created between 2026-10-16 21:18 UTC and 2026-10-16 22:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T21-18-52-047198Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T22-18-48-247677Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 20:25:12 | [bushcraftcn/ccot](https://www.nuget.org/packages/bushcraftcn%2Fccot) | v0.1.0 | YerenChina | CCOT — China Compliance Operations Toolkit：中国合规运营工具包，为 Flarum 提供手机号认证、运营单页、私人工单… |
-| 2026-10-16 20:28:26 | [sendclipper/sendclipper-php](https://www.nuget.org/packages/sendclipper%2Fsendclipper-php) | v0.1.0 | SendClipper | Official PHP SDK for the SendClipper email API: send mail, manage domains, temp… |
-| 2026-10-16 20:33:17 | [samuelheer/contao-churchtools-bundle](https://www.nuget.org/packages/samuelheer%2Fcontao-churchtools-bundle) | v0.2.0 | Samuel Heer | ChurchTools-Integration für Contao: Termine samt Flyer und Personen aus ChurchT… |
-| 2026-10-16 20:45:09 | [itools/htmlsecuritycheck](https://www.nuget.org/packages/itools%2Fhtmlsecuritycheck) | v1.0.0 | interactivetools.com | Allowlist check for HTML that has to be printed unencoded, such as rich text fr… |
-| 2026-10-16 20:46:36 | [arodu/cakelte-tools](https://www.nuget.org/packages/arodu%2Fcakelte-tools) | v1.0.0 |  | CakeLteTools plugin for CakePHP |
+| 2026-10-16 21:32:34 | [eduardoribeirodev/filament-kanban](https://www.nuget.org/packages/eduardoribeirodev%2Ffilament-kanban) | v1.0.0 | Eduardo Ribeiro | Kanban boards for Filament with native filters, actions, infolists, drag and dr… |
+| 2026-10-16 21:37:06 | [arodu/cakephp-admin-tools](https://www.nuget.org/packages/arodu%2Fcakephp-admin-tools) | v1.0.0 |  |  |
+| 2026-10-16 21:43:00 | [sparkhire/ai-detection](https://www.nuget.org/packages/sparkhire%2Fai-detection) | 9.9.9 |  |  |
+| 2026-10-16 21:52:30 | [openthc/cre-adapter](https://www.nuget.org/packages/openthc%2Fcre-adapter) | 420.26.288 |  | OpenTHC Cannabis Reporting Engine API Adapters |
+| 2026-10-16 21:58:37 | [arodu/cakephp-modal-form](https://www.nuget.org/packages/arodu%2Fcakephp-modal-form) | v2.0.0 |  | ModalForm plugin for CakePHP |
 
 ## Data source
 
