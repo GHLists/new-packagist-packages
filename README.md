@@ -15,19 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 07:20 UTC
+## Latest list — 2026-10-16 08:21 UTC
 
-New packages created between 2026-10-16 06:22 UTC and 2026-10-16 07:20 UTC.
+New packages created between 2026-10-16 07:20 UTC and 2026-10-16 08:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T07-20-02-264806Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T08-21-05-25994Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 06:27:29 | [prantiksoft/laravel-mfs-sms-gateway](https://www.nuget.org/packages/prantiksoft%2Flaravel-mfs-sms-gateway) | v1.0.0 | PRANTIK-SOFT | Automated Bangladeshi MFS (bKash, Nagad, Rocket) SMS Forwarding Payment Gateway… |
-| 2026-10-16 06:37:09 | [webwerkwien/contao-consho-licensecheck-bundle](https://www.nuget.org/packages/webwerkwien%2Fcontao-consho-licensecheck-bundle) | v0.1.0 | Michael Morgenbesser | Consho licence check - checks signed licence keys and daily confirmations in th… |
-| 2026-10-16 06:39:17 | [webwerkwien/contao-consho-bundle](https://www.nuget.org/packages/webwerkwien%2Fcontao-consho-bundle) | v0.1.0 | Michael Morgenbesser | Consho - E-commerce for Contao. Multi-shop, API-first, built for EU compliance. |
-| 2026-10-16 06:42:42 | [nowo-tech/chat-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fchat-kit-bundle) | v1.0.0 | Héctor Franco Aceituno; Nowo.… | Floating LinkedIn-style chat for Symfony: direct messages, channels and a suppo… |
-| 2026-10-16 07:13:20 | [qiangvei/magento2-theme-amazon](https://www.nuget.org/packages/qiangvei%2Fmagento2-theme-amazon) | 1.0.0 |  | Amazon style theme for Magento 2.4 |
+| 2026-10-16 07:21:08 | [saij/wp-app-starter](https://www.nuget.org/packages/saij%2Fwp-app-starter) | v0.1.0 |  | Creates a theme, child theme or plugin built with wp-app-framework: composer cr… |
+| 2026-10-16 07:23:21 | [wexample/php-git](https://www.nuget.org/packages/wexample%2Fphp-git) | 1.0.1 |  |  |
+| 2026-10-16 07:24:05 | [wexample/symfony-git](https://www.nuget.org/packages/wexample%2Fsymfony-git) | 1.0.1 |  |  |
+| 2026-10-16 07:24:34 | [wexample/symfony-git-ds](https://www.nuget.org/packages/wexample%2Fsymfony-git-ds) | 1.0.1 |  |  |
+| 2026-10-16 07:49:22 | [qiangvei/magento2-theme-amazon](https://www.nuget.org/packages/qiangvei%2Fmagento2-theme-amazon) | 1.0.0 |  | Amazon style theme for Magento 2.4 |
+| 2026-10-16 08:01:39 | [bakslash/static-site-bundle](https://www.nuget.org/packages/bakslash%2Fstatic-site-bundle) | v0.1.0 | Mathias Arlaud | Generate a static site by prerendering Symfony routes. |
+| 2026-10-16 08:07:30 | [chatsong/voice-note](https://www.nuget.org/packages/chatsong%2Fvoice-note) | 1.0.0 |  | Voice Note en Audio Demo recorder voor Chatsong |
+| 2026-10-16 08:07:31 | [iqual/icms_mcp](https://www.nuget.org/packages/iqual%2Ficms_mcp) | v1.0.0 |  | Drupal MCP tools for AI-powered, transactional ICMS content migration and impor… |
+| 2026-10-16 08:12:24 | [iqual/pagedesigner_export](https://www.nuget.org/packages/iqual%2Fpagedesigner_export) | v1.0.0 |  | Exports and imports Pagedesigner element trees with full translation support |
+| 2026-10-16 08:18:37 | [hypervel/guzzle](https://www.nuget.org/packages/hypervel%2Fguzzle) | 8.2.0.1 | Graham Campbell; Michael Dowl… | Hypervel's fork of Guzzle, a PHP HTTP client library |
 
 ## Data source
 
