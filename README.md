@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 06:22 UTC
+## Latest list — 2026-10-16 07:20 UTC
 
-New packages created between 2026-10-16 05:21 UTC and 2026-10-16 06:22 UTC.
+New packages created between 2026-10-16 06:22 UTC and 2026-10-16 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T06-22-24-536983Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-16T07-20-02-264806Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 05:24:14 | [schachbulle/contao-kinderschutzdokumente-bundle](https://www.nuget.org/packages/schachbulle%2Fcontao-kinderschutzdokumente-bundle) | 1.0.0 | Frank Hoppe | Mitglieder reichen Kinderschutz-Unterlagen wie das erweiterte Führungszeugnis o… |
-| 2026-10-16 05:24:16 | [1994/reviews-statamic](https://www.nuget.org/packages/1994%2Freviews-statamic) | v1.1.0 | 1994 | Reviews and ratings for Statamic, collected on your own site: a review form for… |
-| 2026-10-16 05:34:25 | [pharaonic/php-diff](https://www.nuget.org/packages/pharaonic%2Fphp-diff) | 8.0.0 | Moamen Eltouny (Raggi) | Semantic structured diffs and GitHub-style text diffs for PHP: added, removed,… |
-| 2026-10-16 05:47:23 | [hypervel/guzzle-promises](https://www.nuget.org/packages/hypervel%2Fguzzle-promises) | 3.0.2.1 | Graham Campbell; Michael Dowl… | Hypervel's fork of the Guzzle promises library |
-| 2026-10-16 06:05:00 | [srako/webman-kms](https://www.nuget.org/packages/srako%2Fwebman-kms) | v0.1.0 |  | Aliyun KMS local-agent (sidecar) secrets client for webman: fetch MySQL/Redis c… |
+| 2026-10-16 06:27:29 | [prantiksoft/laravel-mfs-sms-gateway](https://www.nuget.org/packages/prantiksoft%2Flaravel-mfs-sms-gateway) | v1.0.0 | PRANTIK-SOFT | Automated Bangladeshi MFS (bKash, Nagad, Rocket) SMS Forwarding Payment Gateway… |
+| 2026-10-16 06:37:09 | [webwerkwien/contao-consho-licensecheck-bundle](https://www.nuget.org/packages/webwerkwien%2Fcontao-consho-licensecheck-bundle) | v0.1.0 | Michael Morgenbesser | Consho licence check - checks signed licence keys and daily confirmations in th… |
+| 2026-10-16 06:39:17 | [webwerkwien/contao-consho-bundle](https://www.nuget.org/packages/webwerkwien%2Fcontao-consho-bundle) | v0.1.0 | Michael Morgenbesser | Consho - E-commerce for Contao. Multi-shop, API-first, built for EU compliance. |
+| 2026-10-16 06:42:42 | [nowo-tech/chat-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fchat-kit-bundle) | v1.0.0 | Héctor Franco Aceituno; Nowo.… | Floating LinkedIn-style chat for Symfony: direct messages, channels and a suppo… |
+| 2026-10-16 07:13:20 | [qiangvei/magento2-theme-amazon](https://www.nuget.org/packages/qiangvei%2Fmagento2-theme-amazon) | 1.0.0 |  | Amazon style theme for Magento 2.4 |
 
 ## Data source
 
