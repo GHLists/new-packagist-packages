@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-16T03:43:16Z,agencelex/notifications-slack,v1.0.0,Agence Lex,"Slack channel (Block Kit, legacy attachments, Incoming Webhooks and Web API) for Agence Lex Notifications on TYPO3"
