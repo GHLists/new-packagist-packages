@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-17T14:29:27Z,alantiller/permission,v1.0.0,Alan Tiller,"PDO permissions, optional roles and application-defined policies for PHP"
+2026-10-17T14:30:20Z,zeusi/circuit-breaker,0.1.0,Antonio Turdo,"A circuit breaker for PHP with bucketed sliding windows and configurable half-open policies, sharing its state through APCu, Redis or Memcached"
+2026-10-17T14:50:41Z,utab/laravel-backup-kit,v1.0.0,Utab Platform,"Encrypted, monitored database backups for Laravel on S3-compatible storage, built on spatie/laravel-backup."
+2026-10-17T14:54:48Z,wuninsu/nativephp-biometrics,v0.1.0,Fuseini Abdul-Hafiz,"Fingerprint, Face ID and Touch ID prompts for NativePHP Mobile apps."
+2026-10-17T14:55:43Z,wuninsu/nativephp-secure-storage,v0.1.0,Fuseini Abdul-Hafiz,Keep small secrets (such as API tokens) in the iOS Keychain or the Android Keystore from a NativePHP Mobile app.
+2026-10-17T15:01:12Z,cosmemilton/acbr-php,v0.1.0-alpha1,,Framework-independent PHP client for the pinned ACBr NF-e/NFC-e Linux worker

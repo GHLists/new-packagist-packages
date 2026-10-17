@@ -15,18 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 14:21 UTC
+## Latest list — 2026-10-17 15:19 UTC
 
-New packages created between 2026-10-17 13:20 UTC and 2026-10-17 14:21 UTC.
+New packages created between 2026-10-17 14:21 UTC and 2026-10-17 15:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T14-21-15-798809Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T15-19-07-037302Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 13:35:04 | [memora/laravel-antispam](https://www.nuget.org/packages/memora%2Flaravel-antispam) | v1.1.0 | MEMORA solutions | Invisible anti-spam middleware for Laravel - honeypot, time trap, JS token, rat… |
-| 2026-10-17 13:38:49 | [muehleis/laravel-talario](https://www.nuget.org/packages/muehleis%2Flaravel-talario) | v1.0.0 |  | Laravel mail transport for the Talario sending API |
-| 2026-10-17 14:00:30 | [pieceofcake2/storybook](https://www.nuget.org/packages/pieceofcake2%2Fstorybook) | v1.0.0 |  | Storybook for CakePHP 2 (development only): render Elements in Storybook (Vite)… |
-| 2026-10-17 14:08:55 | [dewanlab/laravel-zkteco-adms-core](https://www.nuget.org/packages/dewanlab%2Flaravel-zkteco-adms-core) | v1.0.0 | Abdullah Dewan | Comprehensive ZKTeco ADMS (Push Protocol) Core implementation for Laravel, supp… |
+| 2026-10-17 14:29:27 | [alantiller/permission](https://www.nuget.org/packages/alantiller%2Fpermission) | v1.0.0 | Alan Tiller | PDO permissions, optional roles and application-defined policies for PHP |
+| 2026-10-17 14:30:20 | [zeusi/circuit-breaker](https://www.nuget.org/packages/zeusi%2Fcircuit-breaker) | 0.1.0 | Antonio Turdo | A circuit breaker for PHP with bucketed sliding windows and configurable half-o… |
+| 2026-10-17 14:50:41 | [utab/laravel-backup-kit](https://www.nuget.org/packages/utab%2Flaravel-backup-kit) | v1.0.0 | Utab Platform | Encrypted, monitored database backups for Laravel on S3-compatible storage, bui… |
+| 2026-10-17 14:54:48 | [wuninsu/nativephp-biometrics](https://www.nuget.org/packages/wuninsu%2Fnativephp-biometrics) | v0.1.0 | Fuseini Abdul-Hafiz | Fingerprint, Face ID and Touch ID prompts for NativePHP Mobile apps. |
+| 2026-10-17 14:55:43 | [wuninsu/nativephp-secure-storage](https://www.nuget.org/packages/wuninsu%2Fnativephp-secure-storage) | v0.1.0 | Fuseini Abdul-Hafiz | Keep small secrets (such as API tokens) in the iOS Keychain or the Android Keys… |
+| 2026-10-17 15:01:12 | [cosmemilton/acbr-php](https://www.nuget.org/packages/cosmemilton%2Facbr-php) | v0.1.0-alpha1 |  | Framework-independent PHP client for the pinned ACBr NF-e/NFC-e Linux worker |
 
 ## Data source
 
