@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-17T20:24:40Z,sascha-mueller/contao-little-canary,v1.0.0,Sascha Müller,Little Canary – minimal single-page demo theme for Contao 5.7. Check that your installation renders and runs as expected.
+2026-10-17T20:42:44Z,stefanak-michal/grafeo-php,v0.5.44,Michal Stefanak,FFI implementation to run Grafeo embedded in PHP
+2026-10-17T20:45:49Z,1994/social-images-core,v1.0.0,1994,"The shared core of 1994's Social Images products: the template format, the page renderer, and the rendering contract with its drivers."
+2026-10-17T20:52:16Z,shire-studio/laravel-starter-kit-cli,v1.0.1,,Create new projects from the Shire Studio Laravel starter kit and keep existing projects up to date with it.
