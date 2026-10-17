@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-17T08:39:50Z,egough/laravel-github,v1.0.2,,"GitHub App connections, repository browsing and pull request search for Laravel."
+2026-10-17T08:59:09Z,ssmiff/mezzio-container-helpers,v0.1.0,Scott Smith,"Attribute-driven constructor injection for Mezzio and Laminas service manager factories, with per-parameter overrides."
+2026-10-17T09:07:48Z,ssmiff/mezzio-doctrine,v0.1.0,Scott Smith,"Doctrine DBAL, ORM and Migrations for Mezzio with named connections selectable on every console command with --conn."

@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 08:19 UTC
+## Latest list — 2026-10-17 09:19 UTC
 
-New packages created between 2026-10-17 07:19 UTC and 2026-10-17 08:19 UTC.
+New packages created between 2026-10-17 08:19 UTC and 2026-10-17 09:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T08-19-34-908405Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T09-19-06-608049Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 08:04:23 | [dyaskur/sendfox-php](https://www.nuget.org/packages/dyaskur%2Fsendfox-php) | v0.1.0 |  | SendFox transactional email transport for Symfony Mailer and Laravel |
+| 2026-10-17 08:39:50 | [egough/laravel-github](https://www.nuget.org/packages/egough%2Flaravel-github) | v1.0.2 |  | GitHub App connections, repository browsing and pull request search for Laravel. |
+| 2026-10-17 08:59:09 | [ssmiff/mezzio-container-helpers](https://www.nuget.org/packages/ssmiff%2Fmezzio-container-helpers) | v0.1.0 | Scott Smith | Attribute-driven constructor injection for Mezzio and Laminas service manager f… |
+| 2026-10-17 09:07:48 | [ssmiff/mezzio-doctrine](https://www.nuget.org/packages/ssmiff%2Fmezzio-doctrine) | v0.1.0 | Scott Smith | Doctrine DBAL, ORM and Migrations for Mezzio with named connections selectable… |
 
 ## Data source
 
