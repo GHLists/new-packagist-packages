@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 12:19 UTC
+## Latest list — 2026-10-17 13:20 UTC
 
-New packages created between 2026-10-17 11:21 UTC and 2026-10-17 12:19 UTC.
+New packages created between 2026-10-17 12:19 UTC and 2026-10-17 13:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T12-19-58-366681Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T13-20-43-305006Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 11:23:53 | [survos/tour-bundle](https://www.nuget.org/packages/survos%2Ftour-bundle) | 2.42.23 |  | Reusable translated tours for rendered menus and explicit Twig targets |
-| 2026-10-17 11:29:34 | [ivopdf/ivopdf](https://www.nuget.org/packages/ivopdf%2Fivopdf) | v1.0.0 | Ivo Apostolov | Modern Pure-PHP HTML & CSS to PDF Engine with Flexbox, CSS Grid, and Full UTF-8… |
-| 2026-10-17 11:41:36 | [tobiasnagel01/resend-sdk](https://www.nuget.org/packages/tobiasnagel01%2Fresend-sdk) | 1.1.0 | Tobias Nagel | Saloon-powered PHP & Laravel SDK for the Resend API. |
-| 2026-10-17 11:47:56 | [raqmeyat/workspace](https://www.nuget.org/packages/raqmeyat%2Fworkspace) | v0.1.0 | Loai Kanou | Multi-tenant Workspace management for Laravel 12 and 13, built on spatie/larave… |
-| 2026-10-17 12:10:14 | [conratwebsolutions/crgalerie](https://www.nuget.org/packages/conratwebsolutions%2Fcrgalerie) | v3.0.0 | ConRat WebSolutions | ConRat Photo Gallery - image galleries maintained centrally in a backend module… |
-| 2026-10-17 12:13:03 | [goblinq/client](https://www.nuget.org/packages/goblinq%2Fclient) | 0.0.2 |  | PHP client for the GoblinQ job delivery service |
+| 2026-10-17 12:32:48 | [corvo-technology/corvo-nfse](https://www.nuget.org/packages/corvo-technology%2Fcorvo-nfse) | v0.1.1 | Corvo Technology | PHP SDK for the Corvo NFS-e API: issue Brazilian service invoices, calculate ta… |
+| 2026-10-17 12:47:21 | [iso-doss/laravel-meridian](https://www.nuget.org/packages/iso-doss%2Flaravel-meridian) | v1.0.0 | DOSSOU Israël (Iso-Doss) | A Horizon-like dashboard and supervisor for Laravel database queues. |
+| 2026-10-17 12:50:41 | [seoultra/open-consent](https://www.nuget.org/packages/seoultra%2Fopen-consent) | v0.2.0 | SEOULTRA | Free, open-source cookie consent: a browser consent engine with real script blo… |
+| 2026-10-17 13:04:25 | [kraenzle-ritter/exif-extract](https://www.nuget.org/packages/kraenzle-ritter%2Fexif-extract) | v0.1.0 | Kraenzle & Ritter | Unified PHP interface for extracting technical metadata (EXIF, IPTC, XMP, …) fr… |
+| 2026-10-17 13:15:29 | [raqmeyat/webrtc](https://www.nuget.org/packages/raqmeyat%2Fwebrtc) | v0.1.0 | Loai Kanou | WebRTC signaling, call-session lifecycle and ICE/TURN credential service for La… |
 
 ## Data source
 

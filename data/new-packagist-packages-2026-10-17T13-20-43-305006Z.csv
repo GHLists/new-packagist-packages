@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-17T12:32:48Z,corvo-technology/corvo-nfse,v0.1.1,Corvo Technology,"PHP SDK for the Corvo NFS-e API: issue Brazilian service invoices, calculate taxes, verify webhooks."
+2026-10-17T12:47:21Z,iso-doss/laravel-meridian,v1.0.0,DOSSOU Israël (Iso-Doss),A Horizon-like dashboard and supervisor for Laravel database queues.
+2026-10-17T12:50:41Z,seoultra/open-consent,v0.2.0,SEOULTRA,"Free, open-source cookie consent: a browser consent engine with real script blocking and Google Consent Mode v2, plus a PHP library to configure it and read the consent cookie server-side."
+2026-10-17T13:04:25Z,kraenzle-ritter/exif-extract,v0.1.0,Kraenzle & Ritter,"Unified PHP interface for extracting technical metadata (EXIF, IPTC, XMP, …) from media files using ExifTool."
+2026-10-17T13:15:29Z,raqmeyat/webrtc,v0.1.0,Loai Kanou,"WebRTC signaling, call-session lifecycle and ICE/TURN credential service for Laravel 12 and 13."
