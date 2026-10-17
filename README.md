@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 06:18 UTC
+## Latest list — 2026-10-17 07:19 UTC
 
-New packages created between 2026-10-17 05:19 UTC and 2026-10-17 06:18 UTC.
+New packages created between 2026-10-17 06:18 UTC and 2026-10-17 07:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T06-18-58-677983Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T07-19-52-619684Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 06:05:17 | [sameoldnick/laravel-open-observe](https://www.nuget.org/packages/sameoldnick%2Flaravel-open-observe) | v1.0.0 | Nick Hamnett | A Laravel package for integrating OpenObserve logging with your application. |
-| 2026-10-17 06:12:44 | [pieceofcake2/report](https://www.nuget.org/packages/pieceofcake2%2Freport) | v1.0.0 |  | A4 PDF reports printed by the Chrome command line: a cover with the result, a l… |
+| 2026-10-17 06:50:05 | [code-evolve/label-filter](https://www.nuget.org/packages/code-evolve%2Flabel-filter) | v0.3.1 | Steven Spungin | A small glob-like pattern language for filtering lists of objects by their labe… |
 
 ## Data source
 
