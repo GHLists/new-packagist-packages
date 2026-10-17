@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-17T09:29:12Z,misarai/misarseo-php,v1.0.0,Misar.AI,"PHP client for the MisarSEO API: keyword research, site audits, rank tracking, backlinks, AI search visibility, Search Console, GA4 and Business Profile — 221 methods, retries, typed plan-limit errors with the upgrade offer, SSE crawl progress."

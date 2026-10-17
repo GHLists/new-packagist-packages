@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 09:19 UTC
+## Latest list — 2026-10-17 10:20 UTC
 
-New packages created between 2026-10-17 08:19 UTC and 2026-10-17 09:19 UTC.
+New packages created between 2026-10-17 09:19 UTC and 2026-10-17 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T09-19-06-608049Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T10-20-40-689506Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 08:39:50 | [egough/laravel-github](https://www.nuget.org/packages/egough%2Flaravel-github) | v1.0.2 |  | GitHub App connections, repository browsing and pull request search for Laravel. |
-| 2026-10-17 08:59:09 | [ssmiff/mezzio-container-helpers](https://www.nuget.org/packages/ssmiff%2Fmezzio-container-helpers) | v0.1.0 | Scott Smith | Attribute-driven constructor injection for Mezzio and Laminas service manager f… |
-| 2026-10-17 09:07:48 | [ssmiff/mezzio-doctrine](https://www.nuget.org/packages/ssmiff%2Fmezzio-doctrine) | v0.1.0 | Scott Smith | Doctrine DBAL, ORM and Migrations for Mezzio with named connections selectable… |
+| 2026-10-17 09:29:12 | [misarai/misarseo-php](https://www.nuget.org/packages/misarai%2Fmisarseo-php) | v1.0.0 | Misar.AI | PHP client for the MisarSEO API: keyword research, site audits, rank tracking,… |
 
 ## Data source
 
