@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 21:20 UTC
+## Latest list — 2026-10-17 22:21 UTC
 
-New packages created between 2026-10-17 20:21 UTC and 2026-10-17 21:20 UTC.
+New packages created between 2026-10-17 21:20 UTC and 2026-10-17 22:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T21-20-10-732845Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T22-21-32-539704Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 20:24:40 | [sascha-mueller/contao-little-canary](https://www.nuget.org/packages/sascha-mueller%2Fcontao-little-canary) | v1.0.0 | Sascha Müller | Little Canary – minimal single-page demo theme for Contao 5.7. Check that your… |
-| 2026-10-17 20:42:44 | [stefanak-michal/grafeo-php](https://www.nuget.org/packages/stefanak-michal%2Fgrafeo-php) | v0.5.44 | Michal Stefanak | FFI implementation to run Grafeo embedded in PHP |
-| 2026-10-17 20:45:49 | [1994/social-images-core](https://www.nuget.org/packages/1994%2Fsocial-images-core) | v1.0.0 | 1994 | The shared core of 1994's Social Images products: the template format, the page… |
-| 2026-10-17 20:52:16 | [shire-studio/laravel-starter-kit-cli](https://www.nuget.org/packages/shire-studio%2Flaravel-starter-kit-cli) | v1.0.1 |  | Create new projects from the Shire Studio Laravel starter kit and keep existing… |
+| 2026-10-17 21:28:34 | [openpx/sdk](https://www.nuget.org/packages/openpx%2Fsdk) | v0.0.1 | OpenPX | OpenPX SDK (early release): the OpenPX schema for describing products once and… |
+| 2026-10-17 21:28:37 | [openpx/cli](https://www.nuget.org/packages/openpx%2Fcli) | v0.0.1 | OpenPX | OpenPX command line (early release). |
+| 2026-10-17 21:33:43 | [brocode/magento-patches](https://www.nuget.org/packages/brocode%2Fmagento-patches) | 1.0.0 | Benjamin Rosenberger | Composer commands to add Magento 2 security, quality and custom patches safely:… |
+| 2026-10-17 21:34:22 | [mmhospedagem/mvo-whats-php](https://www.nuget.org/packages/mmhospedagem%2Fmvo-whats-php) | v1.0.1 | MVO | Biblioteca PHP nativa para WhatsApp: QR Code, sessões persistentes, mensagens,… |
+| 2026-10-17 22:01:09 | [nickwelsh/zero-for-laravel](https://www.nuget.org/packages/nickwelsh%2Fzero-for-laravel) | v0.1.0 |  | Laravel-owned model contracts, queries and CRUD for Rocicorp Zero. |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-17T21:28:34Z,openpx/sdk,v0.0.1,OpenPX,OpenPX SDK (early release): the OpenPX schema for describing products once and publishing them to every channel.
+2026-10-17T21:28:37Z,openpx/cli,v0.0.1,OpenPX,OpenPX command line (early release).
+2026-10-17T21:33:43Z,brocode/magento-patches,1.0.0,Benjamin Rosenberger,"Composer commands to add Magento 2 security, quality and custom patches safely: per-package split, edition/version aware, idempotent, validated before anything is written. Applies via cweagans/composer-patches 2.x."
+2026-10-17T21:34:22Z,mmhospedagem/mvo-whats-php,v1.0.1,MVO,"Biblioteca PHP nativa para WhatsApp: QR Code, sessões persistentes, mensagens, mídia, grupos e MCP."
+2026-10-17T22:01:09Z,nickwelsh/zero-for-laravel,v0.1.0,,"Laravel-owned model contracts, queries and CRUD for Rocicorp Zero."
