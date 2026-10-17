@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-17T00:56:45Z,waaiy/api,3.3.0,Omer Selman Anadolulu,Waaiy API Connector
+2026-10-17T01:12:30Z,saucal/composer-patches,v1.0.0,,Re-applies cweagans/composer-patches patches on install/update when patches.lock.json changed.

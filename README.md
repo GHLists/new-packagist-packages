@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 00:19 UTC
+## Latest list — 2026-10-17 01:19 UTC
 
-New packages created between 2026-10-16 23:19 UTC and 2026-10-17 00:19 UTC.
+New packages created between 2026-10-17 00:19 UTC and 2026-10-17 01:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T00-19-42-953907Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T01-19-01-765446Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 23:57:33 | [kore-ui/calendar](https://www.nuget.org/packages/kore-ui%2Fcalendar) | v0.1.0 |  | Calendario de eventos y recursos para Laravel con Livewire 4, sobre kore-ui |
-| 2026-10-17 00:13:44 | [larasell-dev/admin](https://www.nuget.org/packages/larasell-dev%2Fadmin) | v0.1.0 | Nils Haberkamp | Admin panel for Larasell |
+| 2026-10-17 00:56:45 | [waaiy/api](https://www.nuget.org/packages/waaiy%2Fapi) | 3.3.0 | Omer Selman Anadolulu | Waaiy API Connector |
+| 2026-10-17 01:12:30 | [saucal/composer-patches](https://www.nuget.org/packages/saucal%2Fcomposer-patches) | v1.0.0 |  | Re-applies cweagans/composer-patches patches on install/update when patches.loc… |
 
 ## Data source
 
