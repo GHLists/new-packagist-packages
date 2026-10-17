@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-17T15:27:36Z,alantiller/utilities,v1.0.0,Alan Tiller,"Framework-independent PHP helpers for dates, strings, UUIDs, encoding and validation."
+2026-10-17T16:01:59Z,0x15f/liquid,v0.1.0,Fabio Capucci,"Liquid templates for PHP and Laravel with compiled rendering, Redis caching and bounded data loading"
