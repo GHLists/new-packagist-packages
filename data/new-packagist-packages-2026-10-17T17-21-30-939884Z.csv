@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-17T16:22:08Z,jeffersongoncalves/filament-saved-filter,2.0.0,,
+2026-10-17T16:22:55Z,raingad/webman-storage,0.1.0,Raingad; ShaoBo Wan(無尘),Webman file storage and upload plugin (local / Aliyun OSS / Tencent COS / Qiniu / AWS S3).
+2026-10-17T16:23:51Z,hellotext/magento,1.0.0,,"Connect Magento Open Source stores to Hellotext: storefront activity, customer identity, orders and catalog/customer import."
+2026-10-17T16:34:56Z,ernestdefoe/curio,v1.0.0,Ernest Defoe,"Members show off what they collect: games, vinyl, books, films, LEGO, cards, anything. Collections with photos, details, wishlists and trades, barcode look-up, and titles and descriptions in every language the forum speaks."
+2026-10-17T16:52:43Z,helturkey/bidi,v1.0.0,,Unicode bidirectional text processing and Arabic shaping for PHP
+2026-10-17T17:04:06Z,jeffersongoncalves/laravel-saved-filter,1.0.0,Jefferson Gonçalves,"Saved table filters for Laravel: store, share and restore filters, sort, search and column visibility per user, tenant and resource, with presets, JSON export/import and pruning."
