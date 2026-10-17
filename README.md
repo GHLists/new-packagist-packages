@@ -15,20 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 17:21 UTC
+## Latest list — 2026-10-17 18:21 UTC
 
-New packages created between 2026-10-17 16:18 UTC and 2026-10-17 17:21 UTC.
+New packages created between 2026-10-17 17:21 UTC and 2026-10-17 18:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T17-21-30-939884Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T18-21-51-071562Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 16:22:08 | [jeffersongoncalves/filament-saved-filter](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-saved-filter) | 2.0.0 |  |  |
-| 2026-10-17 16:22:55 | [raingad/webman-storage](https://www.nuget.org/packages/raingad%2Fwebman-storage) | 0.1.0 | Raingad; ShaoBo Wan(無尘) | Webman file storage and upload plugin (local / Aliyun OSS / Tencent COS / Qiniu… |
-| 2026-10-17 16:23:51 | [hellotext/magento](https://www.nuget.org/packages/hellotext%2Fmagento) | 1.0.0 |  | Connect Magento Open Source stores to Hellotext: storefront activity, customer… |
-| 2026-10-17 16:34:56 | [ernestdefoe/curio](https://www.nuget.org/packages/ernestdefoe%2Fcurio) | v1.0.0 | Ernest Defoe | Members show off what they collect: games, vinyl, books, films, LEGO, cards, an… |
-| 2026-10-17 16:52:43 | [helturkey/bidi](https://www.nuget.org/packages/helturkey%2Fbidi) | v1.0.0 |  | Unicode bidirectional text processing and Arabic shaping for PHP |
-| 2026-10-17 17:04:06 | [jeffersongoncalves/laravel-saved-filter](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-saved-filter) | 1.0.0 | Jefferson Gonçalves | Saved table filters for Laravel: store, share and restore filters, sort, search… |
+| 2026-10-17 18:06:36 | [ehundu/andamio-minimo](https://www.nuget.org/packages/ehundu%2Fandamio-minimo) | v0.16.0 |  | Un sitio de presentación de cuatro páginas hecho con Ehundu, para empezar. |
+| 2026-10-17 18:06:47 | [ehundu/andamio-blog](https://www.nuget.org/packages/ehundu%2Fandamio-blog) | v0.16.0 |  | Un blog hecho con Ehundu, con lista paginada, etiquetas, feed y entradas que sa… |
+| 2026-10-17 18:20:08 | [solvebeam/github-actions-toolkit-php](https://www.nuget.org/packages/solvebeam%2Fgithub-actions-toolkit-php) | v1.0.0 | SolveBeam; Remco Tolsma | PHP toolkit for developing GitHub Actions. |
 
 ## Data source
 
