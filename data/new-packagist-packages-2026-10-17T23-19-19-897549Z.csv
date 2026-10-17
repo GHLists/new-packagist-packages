@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-17T22:27:36Z,amaggi/module-featured-product,1.0.0,,Amaggi Featured Product module for Magento 2: featured product box on the homepage with real-time salable quantity
+2026-10-17T22:40:35Z,fast-forward/changelog,v0.1.0,Felipe Sayao Lobato Abreu,Standalone changelog domain and CLI runtime for Fast Forward PHP packages.
+2026-10-17T22:49:01Z,1994/social-images-craft,v1.0.1,1994,"Social share images for Craft CMS: design Open Graph cards in the control panel, bind them to your entries' fields, and have them generated on save. Templates import and export as JSON."
+2026-10-17T22:53:29Z,mohannadelemary/laravel-unique-job-locks,v0.1.0,Mohannad Elemary,Find out why a ShouldBeUnique job won't dispatch: list and explain the unique-job locks held in your Redis cache store.
+2026-10-17T22:54:56Z,phoenix1331/laravel-ai-headroom-ledger,v0.1.0,Darren Williams,Store and query per-request AI token usage and cost from Headroom.

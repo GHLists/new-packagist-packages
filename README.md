@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 22:21 UTC
+## Latest list — 2026-10-17 23:19 UTC
 
-New packages created between 2026-10-17 21:20 UTC and 2026-10-17 22:21 UTC.
+New packages created between 2026-10-17 22:21 UTC and 2026-10-17 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T22-21-32-539704Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T23-19-19-897549Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 21:28:34 | [openpx/sdk](https://www.nuget.org/packages/openpx%2Fsdk) | v0.0.1 | OpenPX | OpenPX SDK (early release): the OpenPX schema for describing products once and… |
-| 2026-10-17 21:28:37 | [openpx/cli](https://www.nuget.org/packages/openpx%2Fcli) | v0.0.1 | OpenPX | OpenPX command line (early release). |
-| 2026-10-17 21:33:43 | [brocode/magento-patches](https://www.nuget.org/packages/brocode%2Fmagento-patches) | 1.0.0 | Benjamin Rosenberger | Composer commands to add Magento 2 security, quality and custom patches safely:… |
-| 2026-10-17 21:34:22 | [mmhospedagem/mvo-whats-php](https://www.nuget.org/packages/mmhospedagem%2Fmvo-whats-php) | v1.0.1 | MVO | Biblioteca PHP nativa para WhatsApp: QR Code, sessões persistentes, mensagens,… |
-| 2026-10-17 22:01:09 | [nickwelsh/zero-for-laravel](https://www.nuget.org/packages/nickwelsh%2Fzero-for-laravel) | v0.1.0 |  | Laravel-owned model contracts, queries and CRUD for Rocicorp Zero. |
+| 2026-10-17 22:27:36 | [amaggi/module-featured-product](https://www.nuget.org/packages/amaggi%2Fmodule-featured-product) | 1.0.0 |  | Amaggi Featured Product module for Magento 2: featured product box on the homep… |
+| 2026-10-17 22:40:35 | [fast-forward/changelog](https://www.nuget.org/packages/fast-forward%2Fchangelog) | v0.1.0 | Felipe Sayao Lobato Abreu | Standalone changelog domain and CLI runtime for Fast Forward PHP packages. |
+| 2026-10-17 22:49:01 | [1994/social-images-craft](https://www.nuget.org/packages/1994%2Fsocial-images-craft) | v1.0.1 | 1994 | Social share images for Craft CMS: design Open Graph cards in the control panel… |
+| 2026-10-17 22:53:29 | [mohannadelemary/laravel-unique-job-locks](https://www.nuget.org/packages/mohannadelemary%2Flaravel-unique-job-locks) | v0.1.0 | Mohannad Elemary | Find out why a ShouldBeUnique job won't dispatch: list and explain the unique-j… |
+| 2026-10-17 22:54:56 | [phoenix1331/laravel-ai-headroom-ledger](https://www.nuget.org/packages/phoenix1331%2Flaravel-ai-headroom-ledger) | v0.1.0 | Darren Williams | Store and query per-request AI token usage and cost from Headroom. |
 
 ## Data source
 
