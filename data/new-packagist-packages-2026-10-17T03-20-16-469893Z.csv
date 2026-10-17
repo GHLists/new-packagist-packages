@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-17T02:43:13Z,b4n1/b4n1-web,v0.16.0,Bani Montoya,Ultra-lightweight agentic browser for AI agents - PHP SDK wrapping the b4n1web binary
+2026-10-17T03:00:58Z,jeavenguitar/web3php,v1.0.0,jeavenguitar,"PHP Ethereum/EVM toolkit in web3.js style: robust JSON-RPC client (multi-endpoint failover, retry, keep-alive), full ABI encoder/decoder (tuple/array/named outputs), contract calls and locally signed transactions (EIP-155 / EIP-1559)."
+2026-10-17T03:13:45Z,evopixel/socialiteproviders-minecraft-evopixel,1.0.0,EvoPixel,Minecraft EvoPixel OAuth2 provider for Laravel Socialite
