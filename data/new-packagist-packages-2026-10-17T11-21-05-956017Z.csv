@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-17T10:32:01Z,chatsong/voice-note,v1.0.2,,Voice note recorder for Chatsong
+2026-10-17T10:36:07Z,raqmeyat/smart-orm,v0.1.0,Loai Kanou,"Request-driven smart field selection and smart filters for Eloquent, with data-class and filter generators. Laravel 13+, PHP 8.4+, SQLite / MySQL / PostgreSQL."
+2026-10-17T11:03:48Z,shannonllc/avacast,v0.1.0,SHANNON LIMITED LIABILITY COMPANY,"PHP SDK for avacast realtime avatars: create sessions, make the avatar speak and read usage from your server."
+2026-10-17T11:12:28Z,shannonllc/sealgate,v0.1.0,SHANNON LIMITED LIABILITY COMPANY,"PHP SDK for SealGate: passkey registration and login, users and passkeys, recovery, audit log and stats, and webhook verification."
