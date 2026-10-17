@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-10-17T19:32:25Z,saurabhg/module-preorder,1.0.0,,"Pre-order / backorder for out-of-stock and upcoming products (Luma + Hyva ready, GraphQL, REST)."
+2026-10-17T19:37:13Z,tigger/tigger,v1.0.0,,"A tiny, Express.js-inspired micro-framework for PHP 8.3+ with zero dependencies."
+2026-10-17T19:42:58Z,mertbag96/laravel-domain-migrator,v0.2.0,Mert Bağ,"Analyze, migrate and enforce domain boundaries in Laravel MVC apps."
+2026-10-17T19:44:46Z,arronrees/content-governance,v1.0.1,Arron Rees,"Track review and expiry of Statamic entries: owners, attestations and reminders."
+2026-10-17T19:51:35Z,pieceofcake2/image,v1.0.0,,"CakePHP 2 plugin that validates uploaded images by their contents: JPEG, PNG, GIF, WebP and strictly allowlisted SVG"
+2026-10-17T19:59:38Z,roundly-consulting/tickets-for-laravel,1.0.0,Andrej Mihaliak,"Headless helpdesk ticketing core: categories, swappable statuses, replies and internal notes, assignment, priorities, due dates, custom fields, guest requesters and optional projects."
+2026-10-17T20:00:36Z,filagora/filagora-push,v0.1.0,,"Web push for Filagora: browser subscriptions with the safety checks, stale clean-up, privacy, and push alerts for mentions, thread updates and private messages."
+2026-10-17T20:16:28Z,pieceofcake2/security-sca,v1.0.0,,"Software composition analysis of an application: the known vulnerabilities of its Composer packages (composer audit), as a PDF report by CVE and risk"
+2026-10-17T20:16:43Z,pieceofcake2/security-sast,v1.0.0,,"Static application security testing of a CakePHP 2 application with Semgrep or PHPStan, as a PDF report by rule and risk"
+2026-10-17T20:16:57Z,pieceofcake2/security-dast,v1.0.0,,"Dynamic application security testing of a running CakePHP 2 application with the OWASP ZAP baseline scan, as a PDF report by alert and risk"
+2026-10-17T20:18:02Z,stefanak-michal/grafeo-php,v1.0.0,Michal Stefanak,FFI implementation to run Grafeo embedded in PHP
