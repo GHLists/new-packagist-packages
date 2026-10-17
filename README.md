@@ -15,18 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 11:21 UTC
+## Latest list — 2026-10-17 12:19 UTC
 
-New packages created between 2026-10-17 10:20 UTC and 2026-10-17 11:21 UTC.
+New packages created between 2026-10-17 11:21 UTC and 2026-10-17 12:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T11-21-05-956017Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T12-19-58-366681Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 10:32:01 | [chatsong/voice-note](https://www.nuget.org/packages/chatsong%2Fvoice-note) | v1.0.2 |  | Voice note recorder for Chatsong |
-| 2026-10-17 10:36:07 | [raqmeyat/smart-orm](https://www.nuget.org/packages/raqmeyat%2Fsmart-orm) | v0.1.0 | Loai Kanou | Request-driven smart field selection and smart filters for Eloquent, with data-… |
-| 2026-10-17 11:03:48 | [shannonllc/avacast](https://www.nuget.org/packages/shannonllc%2Favacast) | v0.1.0 | SHANNON LIMITED LIABILITY COM… | PHP SDK for avacast realtime avatars: create sessions, make the avatar speak an… |
-| 2026-10-17 11:12:28 | [shannonllc/sealgate](https://www.nuget.org/packages/shannonllc%2Fsealgate) | v0.1.0 | SHANNON LIMITED LIABILITY COM… | PHP SDK for SealGate: passkey registration and login, users and passkeys, recov… |
+| 2026-10-17 11:23:53 | [survos/tour-bundle](https://www.nuget.org/packages/survos%2Ftour-bundle) | 2.42.23 |  | Reusable translated tours for rendered menus and explicit Twig targets |
+| 2026-10-17 11:29:34 | [ivopdf/ivopdf](https://www.nuget.org/packages/ivopdf%2Fivopdf) | v1.0.0 | Ivo Apostolov | Modern Pure-PHP HTML & CSS to PDF Engine with Flexbox, CSS Grid, and Full UTF-8… |
+| 2026-10-17 11:41:36 | [tobiasnagel01/resend-sdk](https://www.nuget.org/packages/tobiasnagel01%2Fresend-sdk) | 1.1.0 | Tobias Nagel | Saloon-powered PHP & Laravel SDK for the Resend API. |
+| 2026-10-17 11:47:56 | [raqmeyat/workspace](https://www.nuget.org/packages/raqmeyat%2Fworkspace) | v0.1.0 | Loai Kanou | Multi-tenant Workspace management for Laravel 12 and 13, built on spatie/larave… |
+| 2026-10-17 12:10:14 | [conratwebsolutions/crgalerie](https://www.nuget.org/packages/conratwebsolutions%2Fcrgalerie) | v3.0.0 | ConRat WebSolutions | ConRat Photo Gallery - image galleries maintained centrally in a backend module… |
+| 2026-10-17 12:13:03 | [goblinq/client](https://www.nuget.org/packages/goblinq%2Fclient) | 0.0.2 |  | PHP client for the GoblinQ job delivery service |
 
 ## Data source
 

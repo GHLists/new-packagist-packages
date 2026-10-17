@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-17T11:23:53Z,survos/tour-bundle,2.42.23,,Reusable translated tours for rendered menus and explicit Twig targets
+2026-10-17T11:29:34Z,ivopdf/ivopdf,v1.0.0,Ivo Apostolov,"Modern Pure-PHP HTML & CSS to PDF Engine with Flexbox, CSS Grid, and Full UTF-8/Cyrillic Support for Shared Hosting."
+2026-10-17T11:41:36Z,tobiasnagel01/resend-sdk,1.1.0,Tobias Nagel,Saloon-powered PHP & Laravel SDK for the Resend API.
+2026-10-17T11:47:56Z,raqmeyat/workspace,v0.1.0,Loai Kanou,"Multi-tenant Workspace management for Laravel 12 and 13, built on spatie/laravel-multitenancy. Path, subdomain, and custom-domain tenancy, workspace settings, plans & subscriptions, and role-based staff management."
+2026-10-17T12:10:14Z,conratwebsolutions/crgalerie,v3.0.0,ConRat WebSolutions,"ConRat Photo Gallery - image galleries maintained centrally in a backend module, with responsive images and an accessible lightbox"
+2026-10-17T12:13:03Z,goblinq/client,0.0.2,,PHP client for the GoblinQ job delivery service
