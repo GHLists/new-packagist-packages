@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 07:19 UTC
+## Latest list — 2026-10-17 08:19 UTC
 
-New packages created between 2026-10-17 06:18 UTC and 2026-10-17 07:19 UTC.
+New packages created between 2026-10-17 07:19 UTC and 2026-10-17 08:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T07-19-52-619684Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T08-19-34-908405Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 06:50:05 | [code-evolve/label-filter](https://www.nuget.org/packages/code-evolve%2Flabel-filter) | v0.3.1 | Steven Spungin | A small glob-like pattern language for filtering lists of objects by their labe… |
+| 2026-10-17 08:04:23 | [dyaskur/sendfox-php](https://www.nuget.org/packages/dyaskur%2Fsendfox-php) | v0.1.0 |  | SendFox transactional email transport for Symfony Mailer and Laravel |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-17T08:04:23Z,dyaskur/sendfox-php,v0.1.0,,SendFox transactional email transport for Symfony Mailer and Laravel
