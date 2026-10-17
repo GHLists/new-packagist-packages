@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-17T18:45:56Z,wa-gateway/laravel-notification-channel,v1.0.0,Mostafa EL-Ebzary,Send WhatsApp messages from Laravel notifications through the WA Gateway API.

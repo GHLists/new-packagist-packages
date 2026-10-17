@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 18:21 UTC
+## Latest list — 2026-10-17 19:18 UTC
 
-New packages created between 2026-10-17 17:21 UTC and 2026-10-17 18:21 UTC.
+New packages created between 2026-10-17 18:21 UTC and 2026-10-17 19:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T18-21-51-071562Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T19-18-53-973927Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 18:06:36 | [ehundu/andamio-minimo](https://www.nuget.org/packages/ehundu%2Fandamio-minimo) | v0.16.0 |  | Un sitio de presentación de cuatro páginas hecho con Ehundu, para empezar. |
-| 2026-10-17 18:06:47 | [ehundu/andamio-blog](https://www.nuget.org/packages/ehundu%2Fandamio-blog) | v0.16.0 |  | Un blog hecho con Ehundu, con lista paginada, etiquetas, feed y entradas que sa… |
-| 2026-10-17 18:20:08 | [solvebeam/github-actions-toolkit-php](https://www.nuget.org/packages/solvebeam%2Fgithub-actions-toolkit-php) | v1.0.0 | SolveBeam; Remco Tolsma | PHP toolkit for developing GitHub Actions. |
+| 2026-10-17 18:45:56 | [wa-gateway/laravel-notification-channel](https://www.nuget.org/packages/wa-gateway%2Flaravel-notification-channel) | v1.0.0 | Mostafa EL-Ebzary | Send WhatsApp messages from Laravel notifications through the WA Gateway API. |
 
 ## Data source
 
