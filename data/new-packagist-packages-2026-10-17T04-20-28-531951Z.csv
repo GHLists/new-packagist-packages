@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-17T03:29:23Z,panelsso/pterodactyl,v1.0.0,,Single sign-on bridge that lets your clients log into their Pterodactyl panel account with one redirect.
+2026-10-17T03:57:13Z,daemonlabs/shield-oidc,v1.0.0,Daemon Labs,"OpenID Connect single sign-on for CodeIgniter Shield: Microsoft Entra ID, Okta, Google Workspace, Keycloak, Auth0 and any other OIDC provider."

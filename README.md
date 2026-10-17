@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 03:20 UTC
+## Latest list — 2026-10-17 04:20 UTC
 
-New packages created between 2026-10-17 02:22 UTC and 2026-10-17 03:20 UTC.
+New packages created between 2026-10-17 03:20 UTC and 2026-10-17 04:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T03-20-16-469893Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T04-20-28-531951Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 02:43:13 | [b4n1/b4n1-web](https://www.nuget.org/packages/b4n1%2Fb4n1-web) | v0.16.0 | Bani Montoya | Ultra-lightweight agentic browser for AI agents - PHP SDK wrapping the b4n1web… |
-| 2026-10-17 03:00:58 | [jeavenguitar/web3php](https://www.nuget.org/packages/jeavenguitar%2Fweb3php) | v1.0.0 | jeavenguitar | PHP Ethereum/EVM toolkit in web3.js style: robust JSON-RPC client (multi-endpoi… |
-| 2026-10-17 03:13:45 | [evopixel/socialiteproviders-minecraft-evopixel](https://www.nuget.org/packages/evopixel%2Fsocialiteproviders-minecraft-evopixel) | 1.0.0 | EvoPixel | Minecraft EvoPixel OAuth2 provider for Laravel Socialite |
+| 2026-10-17 03:29:23 | [panelsso/pterodactyl](https://www.nuget.org/packages/panelsso%2Fpterodactyl) | v1.0.0 |  | Single sign-on bridge that lets your clients log into their Pterodactyl panel a… |
+| 2026-10-17 03:57:13 | [daemonlabs/shield-oidc](https://www.nuget.org/packages/daemonlabs%2Fshield-oidc) | v1.0.0 | Daemon Labs | OpenID Connect single sign-on for CodeIgniter Shield: Microsoft Entra ID, Okta,… |
 
 ## Data source
 
