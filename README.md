@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 05:19 UTC
+## Latest list — 2026-10-17 06:18 UTC
 
-New packages created between 2026-10-17 04:20 UTC and 2026-10-17 05:19 UTC.
+New packages created between 2026-10-17 05:19 UTC and 2026-10-17 06:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T05-19-41-436302Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T06-18-58-677983Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 04:31:08 | [oluokunkabiru/api-call-logger](https://www.nuget.org/packages/oluokunkabiru%2Fapi-call-logger) | v0.1.1 | OLUOKUN KABIRU ADESINA | Provider-agnostic Laravel logger for third-party API calls and incoming webhook… |
-| 2026-10-17 05:10:21 | [x-multibyte/blatui-admin](https://www.nuget.org/packages/x-multibyte%2Fblatui-admin) | v0.0.1 | Roy Thia | An administration panel built using BlatUI. |
-| 2026-10-17 05:13:40 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.6.2 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
+| 2026-10-17 06:05:17 | [sameoldnick/laravel-open-observe](https://www.nuget.org/packages/sameoldnick%2Flaravel-open-observe) | v1.0.0 | Nick Hamnett | A Laravel package for integrating OpenObserve logging with your application. |
+| 2026-10-17 06:12:44 | [pieceofcake2/report](https://www.nuget.org/packages/pieceofcake2%2Freport) | v1.0.0 |  | A4 PDF reports printed by the Chrome command line: a cover with the result, a l… |
 
 ## Data source
 

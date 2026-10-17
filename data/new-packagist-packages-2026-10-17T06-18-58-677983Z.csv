@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-17T06:05:17Z,sameoldnick/laravel-open-observe,v1.0.0,Nick Hamnett,A Laravel package for integrating OpenObserve logging with your application.
+2026-10-17T06:12:44Z,pieceofcake2/report,v1.0.0,,"A4 PDF reports printed by the Chrome command line: a cover with the result, a list and a page for each item"
