@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 23:19 UTC
+## Latest list — 2026-10-17 00:19 UTC
 
-New packages created between 2026-10-16 22:18 UTC and 2026-10-16 23:19 UTC.
+New packages created between 2026-10-16 23:19 UTC and 2026-10-17 00:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-16T23-19-24-903555Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T00-19-42-953907Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-16 22:46:18 | [evopixel/socialiteproviders-evopixel](https://www.nuget.org/packages/evopixel%2Fsocialiteproviders-evopixel) | 1.0.0 | EvoPixel | EvoPixel Account OAuth2 provider for Laravel Socialite |
-| 2026-10-16 22:46:30 | [evopixel/socialiteproviders-minecraft-evopixel](https://www.nuget.org/packages/evopixel%2Fsocialiteproviders-minecraft-evopixel) | 1.0.0 | EvoPixel | Minecraft EvoPixel OAuth2 provider for Laravel Socialite |
-| 2026-10-16 23:17:05 | [juaniquillo/mjml-backend-components](https://www.nuget.org/packages/juaniquillo%2Fmjml-backend-components) | v0.1.0 | Juaniquillo | Backend components for MJML |
+| 2026-10-16 23:57:33 | [kore-ui/calendar](https://www.nuget.org/packages/kore-ui%2Fcalendar) | v0.1.0 |  | Calendario de eventos y recursos para Laravel con Livewire 4, sobre kore-ui |
+| 2026-10-17 00:13:44 | [larasell-dev/admin](https://www.nuget.org/packages/larasell-dev%2Fadmin) | v0.1.0 | Nils Haberkamp | Admin panel for Larasell |
 
 ## Data source
 
