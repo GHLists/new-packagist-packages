@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-17T13:35:04Z,memora/laravel-antispam,v1.1.0,MEMORA solutions,"Invisible anti-spam middleware for Laravel - honeypot, time trap, JS token, rate limiting. Zero friction for real users."
+2026-10-17T13:38:49Z,muehleis/laravel-talario,v1.0.0,,Laravel mail transport for the Talario sending API
+2026-10-17T14:00:30Z,pieceofcake2/storybook,v1.0.0,,"Storybook for CakePHP 2 (development only): render Elements in Storybook (Vite), like Storybook for Symfony"
+2026-10-17T14:08:55Z,dewanlab/laravel-zkteco-adms-core,v1.0.0,Abdullah Dewan,"Comprehensive ZKTeco ADMS (Push Protocol) Core implementation for Laravel, supporting biometrics, door access control, and dynamic handshake state management."
