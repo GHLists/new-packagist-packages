@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-17T04:31:08Z,oluokunkabiru/api-call-logger,v0.1.1,OLUOKUN KABIRU ADESINA,"Provider-agnostic Laravel logger for third-party API calls and incoming webhooks: captures request, response, headers, status and latency with automatic redaction of credentials and PII, plus retry, pruning and a built-in dashboard."
+2026-10-17T05:10:21Z,x-multibyte/blatui-admin,v0.0.1,Roy Thia,An administration panel built using BlatUI.
+2026-10-17T05:13:40Z,ak279642/laravel-infrastructure,v1.6.2,Avinash Kumar,"Production-ready Laravel infrastructure for repositories, safe caching, validation, actions/services, API responses, structured logging, slugs, files, and transactions."

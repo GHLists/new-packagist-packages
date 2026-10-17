@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 04:20 UTC
+## Latest list — 2026-10-17 05:19 UTC
 
-New packages created between 2026-10-17 03:20 UTC and 2026-10-17 04:20 UTC.
+New packages created between 2026-10-17 04:20 UTC and 2026-10-17 05:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T04-20-28-531951Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-17T05-19-41-436302Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 03:29:23 | [panelsso/pterodactyl](https://www.nuget.org/packages/panelsso%2Fpterodactyl) | v1.0.0 |  | Single sign-on bridge that lets your clients log into their Pterodactyl panel a… |
-| 2026-10-17 03:57:13 | [daemonlabs/shield-oidc](https://www.nuget.org/packages/daemonlabs%2Fshield-oidc) | v1.0.0 | Daemon Labs | OpenID Connect single sign-on for CodeIgniter Shield: Microsoft Entra ID, Okta,… |
+| 2026-10-17 04:31:08 | [oluokunkabiru/api-call-logger](https://www.nuget.org/packages/oluokunkabiru%2Fapi-call-logger) | v0.1.1 | OLUOKUN KABIRU ADESINA | Provider-agnostic Laravel logger for third-party API calls and incoming webhook… |
+| 2026-10-17 05:10:21 | [x-multibyte/blatui-admin](https://www.nuget.org/packages/x-multibyte%2Fblatui-admin) | v0.0.1 | Roy Thia | An administration panel built using BlatUI. |
+| 2026-10-17 05:13:40 | [ak279642/laravel-infrastructure](https://www.nuget.org/packages/ak279642%2Flaravel-infrastructure) | v1.6.2 | Avinash Kumar | Production-ready Laravel infrastructure for repositories, safe caching, validat… |
 
 ## Data source
 
