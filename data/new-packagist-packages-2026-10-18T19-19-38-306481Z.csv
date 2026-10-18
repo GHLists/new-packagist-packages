@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-10-18T18:22:07Z,numberotp/numberotp,v0.1.1,NumberOTP,Official NumberOTP API client — virtual phone numbers for SMS / OTP verification
+2026-10-18T18:23:24Z,1994/abandoned-cart-statamic,v1.0.1,1994,"Abandoned cart recovery for Cargo: reminder emails, with a link that brings the shopper's basket back."
+2026-10-18T18:27:32Z,pr3slaff/psst,v1.0.0,pr3slaff,"Deliberate, fail-silent Laravel events and authenticated health metrics."
+2026-10-18T18:42:04Z,1994/reviews-craft,1.0.0,1994,"Reviews and star ratings for Craft CMS, collected on your own site: moderation, replies, photos, helpful votes, verified buyers with Craft Commerce, review request emails, review schema, and import or sync from other platforms."
+2026-10-18T18:44:52Z,alantiller/database,v1.0.0,Alan Tiller,A Medoo database wrapper with versioned migrations and database management for PHP
+2026-10-18T18:46:54Z,saurabhg/module-ai-product-recommend,1.0.0,,"AI Product Recommendation & Personalization: behavioral + semantic hybrid recommendations, merchant rules, segments, A/B testing, revenue attribution, REST and GraphQL APIs."
+2026-10-18T18:49:59Z,jaggedjax/psp,v0.1.0,,PHP Starter Project - Lightweight common utilities to help you get going
+2026-10-18T19:02:23Z,njdigitallab/laraauth,v1.0.1,Jenry Ollivierre,An authentication package for laravel
+2026-10-18T19:06:42Z,itaja/itaja-laravel,v0.1.0,,"Itaja for Laravel: declare what you sell in code, push it, receive webhooks as Laravel events."
+2026-10-18T19:10:01Z,rmb32/kevin,v1.3.0,Roger Barnfather,"Save tons of tokens! Get your A.I. to use Kevin for filesystem tasks in PHP projects, including move, rename, replace, update namespaces, imports and more."
+2026-10-18T19:11:45Z,edwin-ortizp/laravel-markdown,v0.1.0,,"Framework-independent Markdown editor UI and safe viewer for Laravel Blade, with optional Livewire 3/4 integration."
