@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 12:19 UTC
+## Latest list — 2026-10-18 13:18 UTC
 
-New packages created between 2026-10-18 11:21 UTC and 2026-10-18 12:19 UTC.
+New packages created between 2026-10-18 12:19 UTC and 2026-10-18 13:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T12-19-29-440716Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T13-18-51-302711Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 11:35:32 | [cryptolike/sdk](https://www.nuget.org/packages/cryptolike%2Fsdk) | v0.2.0 | CryptoLike team | Official server-side SDK for the CryptoLike merchant API: signed requests, auto… |
-| 2026-10-18 11:35:33 | [laraveladmin/think-schedule](https://www.nuget.org/packages/laraveladmin%2Fthink-schedule) | 1.0.0 |  | Laravel-style task scheduler for ThinkPHP: define tasks in PHP and keep only on… |
-| 2026-10-18 11:38:13 | [ehundu/andamio-multilingue](https://www.nuget.org/packages/ehundu%2Fandamio-multilingue) | v0.16.0 |  | Una web completa en dos idiomas (castellano y euskera) hecha con Ehundu, con su… |
-| 2026-10-18 11:38:43 | [asyntai/cakephp-ai-chatbot](https://www.nuget.org/packages/asyntai%2Fcakephp-ai-chatbot) | 1.0.0 | Asyntai | Asyntai AI chatbot for CakePHP. Adds an AI chat assistant to your CakePHP app t… |
+| 2026-10-18 12:26:43 | [studi-assist/typo3-chatbot-widget](https://www.nuget.org/packages/studi-assist%2Ftypo3-chatbot-widget) | v1.3.0 |  | TYPO3 extension that adds a floating bottom-right chatbot widget and opens an i… |
+| 2026-10-18 13:09:54 | [bicho-fyi/php](https://www.nuget.org/packages/bicho-fyi%2Fphp) | 1.0.0 | FreshJuice; Alex Zappa | Report PHP exceptions and errors to Bicho over OTLP/HTTP JSON |
 
 ## Data source
 

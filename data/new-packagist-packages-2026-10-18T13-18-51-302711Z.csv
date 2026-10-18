@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-18T12:26:43Z,studi-assist/typo3-chatbot-widget,v1.3.0,,TYPO3 extension that adds a floating bottom-right chatbot widget and opens an iframe to a configured chatbot URL.
+2026-10-18T13:09:54Z,bicho-fyi/php,1.0.0,FreshJuice; Alex Zappa,Report PHP exceptions and errors to Bicho over OTLP/HTTP JSON
