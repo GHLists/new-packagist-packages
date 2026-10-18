@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-18T01:28:34Z,jeffersongoncalves/laravel-report-url,1.0.0,Jefferson Gonçalves,"Temporary, signed, expiring download links for generated files in Laravel, with owner checks, download tracking and pruning."
+2026-10-18T01:39:21Z,coopers98/mnemon,v1.0.0,,"A self-hosted second brain for AI agents: verbatim palace storage, a compiled wiki layer, and an MCP server over both."

@@ -15,20 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 01:21 UTC
+## Latest list — 2026-10-18 02:18 UTC
 
-New packages created between 2026-10-18 00:21 UTC and 2026-10-18 01:21 UTC.
+New packages created between 2026-10-18 01:21 UTC and 2026-10-18 02:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T01-21-44-602071Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T02-18-42-377771Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 00:24:59 | [1994/cookie-connect-core](https://www.nuget.org/packages/1994%2Fcookie-connect-core) | v1.0.0 | 1994 | The framework-free core shared by Cookie Connect for Craft CMS and Statamic: ev… |
-| 2026-10-18 00:29:34 | [verisec/verisec-php](https://www.nuget.org/packages/verisec%2Fverisec-php) | 1.0.0 | VeriSec Labs | The official PHP library for the VeriSec API: identity (KYC) and Financial chec… |
-| 2026-10-18 00:34:49 | [1994/cookie-connect-craft](https://www.nuget.org/packages/1994%2Fcookie-connect-craft) | v1.0.1 | 1994 | Connect your site to the cookie consent platform you already use: paste its ID,… |
-| 2026-10-18 00:34:55 | [1994/cookie-connect-statamic](https://www.nuget.org/packages/1994%2Fcookie-connect-statamic) | v1.0.1 | 1994 | Connect your site to the cookie consent platform you already use: paste its ID,… |
-| 2026-10-18 00:43:13 | [acephp/ace](https://www.nuget.org/packages/acephp%2Face) | v1.0.0 | Celionatti | A lightweight, high-performance PHP 8.2+ MVC framework with Active Record, Mult… |
-| 2026-10-18 00:43:59 | [geisonq/jh2pdf](https://www.nuget.org/packages/geisonq%2Fjh2pdf) | v1.0.0 | Geison Quevedo | Pixel-perfect HTML to PDF in PHP without a browser on the server: the user's br… |
+| 2026-10-18 01:28:34 | [jeffersongoncalves/laravel-report-url](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-report-url) | 1.0.0 | Jefferson Gonçalves | Temporary, signed, expiring download links for generated files in Laravel, with… |
+| 2026-10-18 01:39:21 | [coopers98/mnemon](https://www.nuget.org/packages/coopers98%2Fmnemon) | v1.0.0 |  | A self-hosted second brain for AI agents: verbatim palace storage, a compiled w… |
 
 ## Data source
 
