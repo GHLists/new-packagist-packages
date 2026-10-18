@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-18T22:23:54Z,claviron/laravel,v0.1.0,,"Claviron drivers and adapters for Laravel: cache, sessions, database, broadcasting, queue, schedule, and the Octane client"
+2026-10-18T22:23:54Z,claviron/sapi,v0.1.0,,"PHP declarations, fail-fast native API fallbacks and a Monolog handler for Claviron's embedded SAPI"
+2026-10-18T22:30:20Z,anun333/oe-module-migration,v0.1.0,anun333,"Migration into OpenEMR from other EHRs: reads the FHIR R4 export every certified EHR must offer (bulk NDJSON or Bundles), reports what maps before anything is written, then imports the core chart through OpenEMR's own services, safe to rerun"
+2026-10-18T22:33:46Z,itdarkarts/html-table,1.0.0,Peter Bailie,Simple API to create tables as HTML.
+2026-10-18T22:42:40Z,ronu/rest-permissions,v1.0.0,charlietyn,"Route-based permissions for ronu/rest-generic-class: route permission catalog, channel authorization middleware, effective-permission Gate and Spatie models"
