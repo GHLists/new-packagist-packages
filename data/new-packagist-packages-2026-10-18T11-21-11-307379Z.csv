@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-18T10:33:56Z,ehundu/andamio-documentacion,v0.16.0,,"Una documentación hecha con Ehundu, con menú por secciones, índice de cada página, anterior y siguiente y enlace para editarla, para empezar."
+2026-10-18T10:40:15Z,lsr/translations,0.1.0,Tomáš Vojík,Framework-neutral native gettext localization runtime with optional Laravel integration.
+2026-10-18T10:42:09Z,coretsia/platform-cli,v0.9.0,Vladyslav Mudrichenko,"Coretsia CLI runtime package: tag-first command discovery, Kernel operations, and deterministic safe output."
+2026-10-18T10:53:09Z,ehundu/andamio-portfolio,v0.16.0,,"Un portfolio personal hecho con Ehundu, con proyectos destacados, una ficha por proyecto, filtros por área, sobre mí y contacto, para empezar."
+2026-10-18T10:58:50Z,hanzala-afzal/laravel-dynamic-throttle,v0.1.0-beta.1,Hanzala Afzal,"Runtime-managed, identity-aware rate limiting for Laravel: change limits without a deploy, per user or token, and dry-run them first."
+2026-10-18T11:05:31Z,molokaistudiocom/magento2-log-viewer,v1.0.0,,"Read-only viewer for the var/log files in the Magento 2 admin: tail, page back, live follow, search and download"
+2026-10-18T11:15:43Z,ehundu/andamio-negocio,v0.16.0,,"Un sitio para un negocio local hecho con Ehundu, con servicios, horarios con excepciones, ubicación, contacto, preguntas frecuentes y páginas legales de modelo, para empezar."

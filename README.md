@@ -15,18 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 10:21 UTC
+## Latest list — 2026-10-18 11:21 UTC
 
-New packages created between 2026-10-18 09:21 UTC and 2026-10-18 10:21 UTC.
+New packages created between 2026-10-18 10:21 UTC and 2026-10-18 11:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T10-21-10-196778Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T11-21-11-307379Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 09:45:17 | [forxer/ovh-sdk](https://www.nuget.org/packages/forxer%2Fovh-sdk) | 0.1.0 | Vincent Garnier | An unofficial, modern PHP SDK for the OVHcloud API, built on Saloon, with Larav… |
-| 2026-10-18 09:57:06 | [socialdept/atp-appview](https://www.nuget.org/packages/socialdept%2Fatp-appview) | v0.1.0 |  | Build lexicon-driven AT Protocol AppViews in Laravel |
-| 2026-10-18 09:58:17 | [tobento/app-renderable](https://www.nuget.org/packages/tobento%2Fapp-renderable) | 2.0 | Tobias Strub | Renderable support for the app, wiring the renderable factory with media, html… |
-| 2026-10-18 10:05:43 | [shimonahamed/software-billing](https://www.nuget.org/packages/shimonahamed%2Fsoftware-billing) | v1.0.1 |  | Laravel software billing package |
+| 2026-10-18 10:33:56 | [ehundu/andamio-documentacion](https://www.nuget.org/packages/ehundu%2Fandamio-documentacion) | v0.16.0 |  | Una documentación hecha con Ehundu, con menú por secciones, índice de cada pági… |
+| 2026-10-18 10:40:15 | [lsr/translations](https://www.nuget.org/packages/lsr%2Ftranslations) | 0.1.0 | Tomáš Vojík | Framework-neutral native gettext localization runtime with optional Laravel int… |
+| 2026-10-18 10:42:09 | [coretsia/platform-cli](https://www.nuget.org/packages/coretsia%2Fplatform-cli) | v0.9.0 | Vladyslav Mudrichenko | Coretsia CLI runtime package: tag-first command discovery, Kernel operations, a… |
+| 2026-10-18 10:53:09 | [ehundu/andamio-portfolio](https://www.nuget.org/packages/ehundu%2Fandamio-portfolio) | v0.16.0 |  | Un portfolio personal hecho con Ehundu, con proyectos destacados, una ficha por… |
+| 2026-10-18 10:58:50 | [hanzala-afzal/laravel-dynamic-throttle](https://www.nuget.org/packages/hanzala-afzal%2Flaravel-dynamic-throttle) | v0.1.0-beta.1 | Hanzala Afzal | Runtime-managed, identity-aware rate limiting for Laravel: change limits withou… |
+| 2026-10-18 11:05:31 | [molokaistudiocom/magento2-log-viewer](https://www.nuget.org/packages/molokaistudiocom%2Fmagento2-log-viewer) | v1.0.0 |  | Read-only viewer for the var/log files in the Magento 2 admin: tail, page back,… |
+| 2026-10-18 11:15:43 | [ehundu/andamio-negocio](https://www.nuget.org/packages/ehundu%2Fandamio-negocio) | v0.16.0 |  | Un sitio para un negocio local hecho con Ehundu, con servicios, horarios con ex… |
 
 ## Data source
 
