@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-18T07:38:15Z,tobento/service-renderable,2.0,Tobias Strub,Renderable service for PHP applications.
+2026-10-18T07:42:09Z,soml/soml,v0.0.1,Sindre Sorhus,"Read and write SOML, a config format for humans"
+2026-10-18T07:47:24Z,jobu/json-rpc-client,v1.0.0,,Synchronous PHP client for the JobU JSON-RPC Unix socket
+2026-10-18T07:48:31Z,trail/storage,0.4.0,Alex Brindley,Storage driver addon for trail
+2026-10-18T07:52:47Z,trail/images,0.4.0,Alex Brindley,Image uploads and resizing for trail
+2026-10-18T07:53:08Z,mrsafalpiya/strictly-laravel,0.2.0,,"Strictly Laravel: end-to-end type safety for Laravel + Inertia + React, applied as an Overlay on the official React starter kit."
+2026-10-18T08:05:34Z,whatef/harken,v0.1.0,,"A long-running, event-driven MQTT client runtime for Laravel."

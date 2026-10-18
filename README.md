@@ -15,19 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 07:19 UTC
+## Latest list — 2026-10-18 08:23 UTC
 
-New packages created between 2026-10-18 06:19 UTC and 2026-10-18 07:19 UTC.
+New packages created between 2026-10-18 07:19 UTC and 2026-10-18 08:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T07-19-31-893784Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T08-23-00-080382Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 06:22:30 | [tezz/auth-sdk](https://www.nuget.org/packages/tezz%2Fauth-sdk) | v1.0.0 | TezzCorp Pvt. Ltd. | Official PHP SDK for Tezz Auth |
-| 2026-10-18 06:35:58 | [malikad/laravel-tenant-guard](https://www.nuget.org/packages/malikad%2Flaravel-tenant-guard) | v1.0.0 | Malik Adnan | AST static analysis guard for Laravel multi-tenant SaaS applications preventing… |
-| 2026-10-18 06:49:03 | [kandita/paydita](https://www.nuget.org/packages/kandita%2Fpaydita) | v1.0.0 |  | Laravel client for Paydita, the internal central payment API of PT. Kandita Dig… |
-| 2026-10-18 07:07:38 | [webx-ui/module-debug](https://www.nuget.org/packages/webx-ui%2Fmodule-debug) | v0.78.0 | WebX UI | A debug bar at the bottom of a WebX UI site's pages, for an administrator and n… |
-| 2026-10-18 07:12:03 | [phattarachai/worktree-prompt](https://www.nuget.org/packages/phattarachai%2Fworktree-prompt) | v1.0.0 | Phattarachai | Set up a git worktree of a Laravel project in one command — real vendor, .env,… |
+| 2026-10-18 07:38:15 | [tobento/service-renderable](https://www.nuget.org/packages/tobento%2Fservice-renderable) | 2.0 | Tobias Strub | Renderable service for PHP applications. |
+| 2026-10-18 07:42:09 | [soml/soml](https://www.nuget.org/packages/soml%2Fsoml) | v0.0.1 | Sindre Sorhus | Read and write SOML, a config format for humans |
+| 2026-10-18 07:47:24 | [jobu/json-rpc-client](https://www.nuget.org/packages/jobu%2Fjson-rpc-client) | v1.0.0 |  | Synchronous PHP client for the JobU JSON-RPC Unix socket |
+| 2026-10-18 07:48:31 | [trail/storage](https://www.nuget.org/packages/trail%2Fstorage) | 0.4.0 | Alex Brindley | Storage driver addon for trail |
+| 2026-10-18 07:52:47 | [trail/images](https://www.nuget.org/packages/trail%2Fimages) | 0.4.0 | Alex Brindley | Image uploads and resizing for trail |
+| 2026-10-18 07:53:08 | [mrsafalpiya/strictly-laravel](https://www.nuget.org/packages/mrsafalpiya%2Fstrictly-laravel) | 0.2.0 |  | Strictly Laravel: end-to-end type safety for Laravel + Inertia + React, applied… |
+| 2026-10-18 08:05:34 | [whatef/harken](https://www.nuget.org/packages/whatef%2Fharken) | v0.1.0 |  | A long-running, event-driven MQTT client runtime for Laravel. |
 
 ## Data source
 
