@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 02:18 UTC
+## Latest list — 2026-10-18 04:21 UTC
 
-New packages created between 2026-10-18 01:21 UTC and 2026-10-18 02:18 UTC.
+New packages created between 2026-10-18 03:18 UTC and 2026-10-18 04:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T02-18-42-377771Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T04-21-19-332813Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 01:28:34 | [jeffersongoncalves/laravel-report-url](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-report-url) | 1.0.0 | Jefferson Gonçalves | Temporary, signed, expiring download links for generated files in Laravel, with… |
-| 2026-10-18 01:39:21 | [coopers98/mnemon](https://www.nuget.org/packages/coopers98%2Fmnemon) | v1.0.0 |  | A self-hosted second brain for AI agents: verbatim palace storage, a compiled w… |
+| 2026-10-18 03:34:04 | [codwelt/sdk-envato](https://www.nuget.org/packages/codwelt%2Fsdk-envato) | v1.0.0 | Codwelt | SDK PHP de Codwelt para la API oficial de Envato Market. |
+| 2026-10-18 04:02:14 | [convertaja/sdk](https://www.nuget.org/packages/convertaja%2Fsdk) | v0.1.0 | Convertajá | SDK oficial da API do Convertajá: PDF, DANFE, etiquetas ZPL, assinatura eletrôn… |
 
 ## Data source
 
