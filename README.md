@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 20:19 UTC
+## Latest list — 2026-10-18 21:19 UTC
 
-New packages created between 2026-10-18 19:19 UTC and 2026-10-18 20:19 UTC.
+New packages created between 2026-10-18 20:19 UTC and 2026-10-18 21:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T20-19-44-812194Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T21-19-26-158321Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 19:32:12 | [cecil/theme-pele](https://www.nuget.org/packages/cecil%2Ftheme-pele) | 1.0.0 |  | Cecil component theme Pele |
-| 2026-10-18 19:33:27 | [abdelhmed/chimera](https://www.nuget.org/packages/abdelhmed%2Fchimera) | v1.0.0 | abdelhmed | A self-mutating AI-powered engine for Laravel applications. |
-| 2026-10-18 19:48:18 | [siberfx/message-bus](https://www.nuget.org/packages/siberfx%2Fmessage-bus) | v0.1.0 | Siberfx | A Symfony Messenger inspired message bus for Laravel: buses, middleware, transp… |
-| 2026-10-18 19:51:18 | [hamada-emam-tech/esign-sadq](https://www.nuget.org/packages/hamada-emam-tech%2Fesign-sadq) | v0.2.0 |  | SADQ (sadq.sa) driver for hamada-emam-tech/esign: Saudi e-signature envelopes w… |
-| 2026-10-18 19:57:05 | [simpledatalogs/laravel](https://www.nuget.org/packages/simpledatalogs%2Flaravel) | 0.2.0 | XKD Labs | Send events, Eloquent model changes, auth events and Laravel log channels to si… |
-| 2026-10-18 20:07:59 | [edalzell/statamic-features](https://www.nuget.org/packages/edalzell%2Fstatamic-features) | v1.0.0 | Erin Dalzell | Self-contained feature modules for Statamic, built on edalzell/laravel-features |
+| 2026-10-18 20:27:52 | [loggerai/laravel](https://www.nuget.org/packages/loggerai%2Flaravel) | v0.1.0 |  | LoggerAI for Laravel: performance monitoring, errors, logs, alerts and user ses… |
+| 2026-10-18 20:44:30 | [perplorm/perpl-bundle](https://www.nuget.org/packages/perplorm%2Fperpl-bundle) | v1.0.0-RC1 | William Durand | Integration of Propel and Perpl in Symfony |
+| 2026-10-18 21:01:25 | [iperson1337/nct-client-bundle](https://www.nuget.org/packages/iperson1337%2Fnct-client-bundle) | v1.0.0 |  | Symfony client for the National Catalog of Goods of Kazakhstan (НКТ): nationalc… |
+| 2026-10-18 21:01:34 | [perata-sh/sdk](https://www.nuget.org/packages/perata-sh%2Fsdk) | v0.1.1 |  | Peráta's SDK for PHP: products, customers, checkouts, payments, subscriptions a… |
+| 2026-10-18 21:03:26 | [stoneholl/module-admin-accent-color](https://www.nuget.org/packages/stoneholl%2Fmodule-admin-accent-color) | v1.2.0 |  | Safe per-area and per-administrator accent colors for the standard Magento Admi… |
 
 ## Data source
 

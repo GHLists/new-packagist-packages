@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-18T20:27:52Z,loggerai/laravel,v0.1.0,,"LoggerAI for Laravel: performance monitoring, errors, logs, alerts and user sessions, with AI that explains what went wrong."
+2026-10-18T20:44:30Z,perplorm/perpl-bundle,v1.0.0-RC1,William Durand,Integration of Propel and Perpl in Symfony
+2026-10-18T21:01:25Z,iperson1337/nct-client-bundle,v1.0.0,,"Symfony client for the National Catalog of Goods of Kazakhstan (НКТ): nationalcatalog.kz portal API (product requests, attributes, dictionaries) and nct.gov.kz public lookups, with retries, rate limiting and typed errors"
+2026-10-18T21:01:34Z,perata-sh/sdk,v0.1.1,,"Peráta's SDK for PHP: products, customers, checkouts, payments, subscriptions and webhooks."
+2026-10-18T21:03:26Z,stoneholl/module-admin-accent-color,v1.2.0,,Safe per-area and per-administrator accent colors for the standard Magento Admin theme.
