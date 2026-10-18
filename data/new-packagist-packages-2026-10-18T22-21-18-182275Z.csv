@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-18T21:26:29Z,ernestdefoe/earshot,1.0.1,Ernest Defoe,"Podcasts that live in your forum: every episode is a discussion, the player keeps going while members browse, and shows can be hosted on the forum or follow a feed hosted anywhere."
+2026-10-18T21:29:39Z,stoneholl/module-order-coupon-grid-filter,v1.0.0,Stoneholl,"Coupon code, coupon usage, and discount amount fields for the Magento Open Source order grid."
+2026-10-18T21:30:16Z,anun333/oe-module-care-management,v0.1.0,anun333,"Care management for OpenEMR: enrollment with CMS's consent elements, monthly time logged by clinical staff and the billing practitioner, and each month's list of who meets which chronic care management (CCM), principal care management (PCM) or behavioral health integration (BHI) code"
+2026-10-18T21:31:04Z,kinetis/vector,v0.9.1,Alon Noy,"A schema-driven admin platform for Kinetis applications: a compiled resource registry, a REST admin API and MCP tools over kinetis/orm entities."
+2026-10-18T21:31:31Z,offmania9/boostack-framework,6.3.9,Stefano Spagnolo; Alessio Debernardi,The Boostack core framework.
+2026-10-18T21:35:51Z,northstar/cipher-php,v1.1.0,Northstar Technologies,Northstar Cipher PHP SDK: field-level encryption backed by attested enclaves.
+2026-10-18T21:35:54Z,northstar/cipher-laravel,v1.1.0,Northstar Technologies,"Northstar Cipher for Laravel: transparent, batched field-level encryption and blind-index search for Eloquent."
+2026-10-18T21:45:11Z,siberfx/samsa,v1.1.0,Siberfx,"Kafka's model of topics, partitions, offsets and consumer groups inside Laravel. Pure PHP, no broker required."
+2026-10-18T21:58:22Z,falak/apm-laravel,v0.1.0,,"Falak APM for Laravel: Nightwatch-style request, query, job, cache, mail, notification, command, schedule, exception and log telemetry exported as OTLP/HTTP JSON to the local falak-agent."
+2026-10-18T22:06:49Z,zip-fa/toon,v3.3.2,Helge Sverre,Token-Oriented Object Notation - A compact data format for reducing token consumption when sending structured data to LLMs
