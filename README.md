@@ -15,19 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 23:19 UTC
+## Latest list — 2026-10-18 00:21 UTC
 
-New packages created between 2026-10-17 22:21 UTC and 2026-10-17 23:19 UTC.
+New packages created between 2026-10-17 23:19 UTC and 2026-10-18 00:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-17T23-19-19-897549Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T00-21-27-999655Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 22:27:36 | [amaggi/module-featured-product](https://www.nuget.org/packages/amaggi%2Fmodule-featured-product) | 1.0.0 |  | Amaggi Featured Product module for Magento 2: featured product box on the homep… |
-| 2026-10-17 22:40:35 | [fast-forward/changelog](https://www.nuget.org/packages/fast-forward%2Fchangelog) | v0.1.0 | Felipe Sayao Lobato Abreu | Standalone changelog domain and CLI runtime for Fast Forward PHP packages. |
-| 2026-10-17 22:49:01 | [1994/social-images-craft](https://www.nuget.org/packages/1994%2Fsocial-images-craft) | v1.0.1 | 1994 | Social share images for Craft CMS: design Open Graph cards in the control panel… |
-| 2026-10-17 22:53:29 | [mohannadelemary/laravel-unique-job-locks](https://www.nuget.org/packages/mohannadelemary%2Flaravel-unique-job-locks) | v0.1.0 | Mohannad Elemary | Find out why a ShouldBeUnique job won't dispatch: list and explain the unique-j… |
-| 2026-10-17 22:54:56 | [phoenix1331/laravel-ai-headroom-ledger](https://www.nuget.org/packages/phoenix1331%2Flaravel-ai-headroom-ledger) | v0.1.0 | Darren Williams | Store and query per-request AI token usage and cost from Headroom. |
+| 2026-10-17 23:52:11 | [trk/sulu-preline-blocks-bundle](https://www.nuget.org/packages/trk%2Fsulu-preline-blocks-bundle) | 0.1.0 | Iskender TOTOGLU | Preline UI component blocks and responsive templates for Sulu CMS |
+| 2026-10-17 23:57:29 | [trk/sulu-block-suite-bundle](https://www.nuget.org/packages/trk%2Fsulu-block-suite-bundle) | 0.1.0 | Iskender TOTOGLU | Component block props, visual presets, reusable global blocks, and template lay… |
 
 ## Data source
 
