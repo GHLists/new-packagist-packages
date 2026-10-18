@@ -15,16 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 13:18 UTC
+## Latest list — 2026-10-18 14:18 UTC
 
-New packages created between 2026-10-18 12:19 UTC and 2026-10-18 13:18 UTC.
+New packages created between 2026-10-18 13:18 UTC and 2026-10-18 14:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T13-18-51-302711Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T14-18-56-902375Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 12:26:43 | [studi-assist/typo3-chatbot-widget](https://www.nuget.org/packages/studi-assist%2Ftypo3-chatbot-widget) | v1.3.0 |  | TYPO3 extension that adds a floating bottom-right chatbot widget and opens an i… |
-| 2026-10-18 13:09:54 | [bicho-fyi/php](https://www.nuget.org/packages/bicho-fyi%2Fphp) | 1.0.0 | FreshJuice; Alex Zappa | Report PHP exceptions and errors to Bicho over OTLP/HTTP JSON |
+| 2026-10-18 13:20:56 | [schulit/openid-connect-provider-bundle](https://www.nuget.org/packages/schulit%2Fopenid-connect-provider-bundle) | 0.1.2 | Antonio J. García Lagar; All… | OpenID Connect provider Symfony bundle |
+| 2026-10-18 13:22:07 | [slime-systems/php-slime](https://www.nuget.org/packages/slime-systems%2Fphp-slime) | v0.0.1 | Sarun Rattanasiri | Enterprise CQRS, Event Sourcing, and High-Assurance Token Infrastructure for Mo… |
+| 2026-10-18 13:26:22 | [alfasix/alfakit](https://www.nuget.org/packages/alfasix%2Falfakit) | v0.1.0 | Alfa Six | The frontend-agnostic admin panel builder for Laravel. Define panels, resources… |
+| 2026-10-18 13:34:01 | [eza/sdk](https://www.nuget.org/packages/eza%2Fsdk) | v0.1.0 |  | Eza Cloud for PHP: transactional email, PayEdge M-Pesa STK push and signed webh… |
+| 2026-10-18 13:56:13 | [davidhirtz/website](https://www.nuget.org/packages/davidhirtz%2Fwebsite) | 3.0.2 |  | Website template for yii2-cms |
+| 2026-10-18 14:17:24 | [phptailors/phpunit-recursive](https://www.nuget.org/packages/phptailors%2Fphpunit-recursive) | 2.1.0 | Paweł Tomulik | Support for recursive constraints |
 
 ## Data source
 

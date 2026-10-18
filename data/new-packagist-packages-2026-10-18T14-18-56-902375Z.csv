@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-18T13:20:56Z,schulit/openid-connect-provider-bundle,0.1.2,Antonio J. García Lagar; All contributors,OpenID Connect provider Symfony bundle
+2026-10-18T13:22:07Z,slime-systems/php-slime,v0.0.1,Sarun Rattanasiri,"Enterprise CQRS, Event Sourcing, and High-Assurance Token Infrastructure for Modern PHP & Laravel Applications."
+2026-10-18T13:26:22Z,alfasix/alfakit,v0.1.0,Alfa Six,"The frontend-agnostic admin panel builder for Laravel. Define panels, resources, forms, tables and actions in PHP; render them with React, Vue or Svelte via Inertia and shadcn."
+2026-10-18T13:34:01Z,eza/sdk,v0.1.0,,"Eza Cloud for PHP: transactional email, PayEdge M-Pesa STK push and signed webhooks."
+2026-10-18T13:56:13Z,davidhirtz/website,3.0.2,,Website template for yii2-cms
+2026-10-18T14:17:24Z,phptailors/phpunit-recursive,2.1.0,Paweł Tomulik,Support for recursive constraints
