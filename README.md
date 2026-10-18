@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 04:21 UTC
+## Latest list — 2026-10-18 05:21 UTC
 
-New packages created between 2026-10-18 03:18 UTC and 2026-10-18 04:21 UTC.
+New packages created between 2026-10-18 04:21 UTC and 2026-10-18 05:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T04-21-19-332813Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T05-21-14-069679Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 03:34:04 | [codwelt/sdk-envato](https://www.nuget.org/packages/codwelt%2Fsdk-envato) | v1.0.0 | Codwelt | SDK PHP de Codwelt para la API oficial de Envato Market. |
-| 2026-10-18 04:02:14 | [convertaja/sdk](https://www.nuget.org/packages/convertaja%2Fsdk) | v0.1.0 | Convertajá | SDK oficial da API do Convertajá: PDF, DANFE, etiquetas ZPL, assinatura eletrôn… |
+| 2026-10-18 04:42:27 | [laraveladmin/phinx-migrations-generator](https://www.nuget.org/packages/laraveladmin%2Fphinx-migrations-generator) | v1.0.0 |  | Dev-only wrapper around odan/phinx-migrations-generator with an isolated runtim… |
+| 2026-10-18 04:47:11 | [kipchak/driver-feature-flags](https://www.nuget.org/packages/kipchak%2Fdriver-feature-flags) | 1.0 |  | A feature flag driver for the Kipchak API Development Kit (ADK), evaluating fla… |
+| 2026-10-18 05:13:51 | [zenomailer/zenomailer](https://www.nuget.org/packages/zenomailer%2Fzenomailer) | v0.1.0-beta.1 | Carlos Matos | ZenoMailer - Modern PHP 8.1+ email library with decoupled architecture, middlew… |
 
 ## Data source
 

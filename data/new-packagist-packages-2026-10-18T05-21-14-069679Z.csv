@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-18T04:42:27Z,laraveladmin/phinx-migrations-generator,v1.0.0,,"Dev-only wrapper around odan/phinx-migrations-generator with an isolated runtime, avoiding think-migration's bundled Phinx fork."
+2026-10-18T04:47:11Z,kipchak/driver-feature-flags,1.0,,"A feature flag driver for the Kipchak API Development Kit (ADK), evaluating flags from Unleash, Flagsmith or GrowthBook"
+2026-10-18T05:13:51Z,zenomailer/zenomailer,v0.1.0-beta.1,Carlos Matos,"ZenoMailer - Modern PHP 8.1+ email library with decoupled architecture, middleware pipeline, and multiple transport layers (SMTP, HTTP APIs, JMAP)"
