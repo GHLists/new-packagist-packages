@@ -15,21 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 15:20 UTC
+## Latest list — 2026-10-18 16:21 UTC
 
-New packages created between 2026-10-18 14:18 UTC and 2026-10-18 15:20 UTC.
+New packages created between 2026-10-18 15:20 UTC and 2026-10-18 16:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T15-20-28-712069Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T16-21-26-495741Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 14:23:25 | [stoneholl/module-core](https://www.nuget.org/packages/stoneholl%2Fmodule-core) | v1.0.0 |  | Offline shared administration and product registry infrastructure for Stoneholl… |
-| 2026-10-18 14:26:47 | [mk-josias/laravel-distributable](https://www.nuget.org/packages/mk-josias%2Flaravel-distributable) | v0.3.0 | Josias Mekontso | The foundations for designing each Laravel module as a microservice: its code r… |
-| 2026-10-18 14:41:50 | [mk-josias/laravel-distributable-starter](https://www.nuget.org/packages/mk-josias%2Flaravel-distributable-starter) | v0.3.0 |  | Starter kit for laravel-distributable-modules: a modular monolith deployable as… |
-| 2026-10-18 14:50:09 | [dskripchenko/php-pdf-pkcs11](https://www.nuget.org/packages/dskripchenko%2Fphp-pdf-pkcs11) | v1.0.0 | Denis Skripchenko | PKCS#11 signer for dskripchenko/php-pdf: sign PDFs (PAdES, RSA and ECDSA) with… |
-| 2026-10-18 14:50:21 | [dskripchenko/php-pdf-cloud-kms](https://www.nuget.org/packages/dskripchenko%2Fphp-pdf-cloud-kms) | v1.0.0 | Denis Skripchenko | Cloud KMS signers for dskripchenko/php-pdf: sign PDFs (PAdES, RSA and ECDSA) wi… |
-| 2026-10-18 14:51:46 | [saurabhg/module-buy-now](https://www.nuget.org/packages/saurabhg%2Fmodule-buy-now) | 1.0.0 |  | Buy Now button on product and listing pages that takes the customer straight to… |
-| 2026-10-18 15:16:25 | [shankscode/haki](https://www.nuget.org/packages/shankscode%2Fhaki) | v1.0.0 |  | Miniframework PHP simples para APIs REST, com rotas, injeção de dependências, m… |
+| 2026-10-18 15:24:27 | [intosql/intosql](https://www.nuget.org/packages/intosql%2Fintosql) | v0.1.0 | IntoSQL | Convert spreadsheets, CSV and JSON into SQL with the IntoSQL API. |
+| 2026-10-18 15:27:31 | [86hc/hk-company-registry-validator](https://www.nuget.org/packages/86hc%2Fhk-company-registry-validator) | v1.0.2 | HC BUSINESS LIMITED (86HC Com… | Lightweight validator & format parser for Hong Kong Company Registration Number… |
+| 2026-10-18 15:34:43 | [eighteen73/wordpress-challenge](https://www.nuget.org/packages/eighteen73%2Fwordpress-challenge) | v0.1.0 |  | Opinionated CAPTCHA protection for WordPress |
+| 2026-10-18 15:43:21 | [heinhtet/api-authorizer](https://www.nuget.org/packages/heinhtet%2Fapi-authorizer) | v1.0.0 | Hein Htet | Protect Laravel APIs with HMAC-SHA256 request signing headers (X-POWERED-BY, X-… |
+| 2026-10-18 15:54:07 | [filagora/filagora-memberships](https://www.nuget.org/packages/filagora%2Ffilagora-memberships) | v0.1.1 |  | Memberships and billing for Filagora: plans, prices, member subscriptions, PayP… |
+| 2026-10-18 15:54:14 | [proudly-snoring/seat-comlink](https://www.nuget.org/packages/proudly-snoring%2Fseat-comlink) | 1.0.0 | Proudly-Snoring | SeAT plugin managing Discord roles (from squads) and nicknames on multiple serv… |
+| 2026-10-18 15:58:56 | [1994/laravel-mail-batch](https://www.nuget.org/packages/1994%2Flaravel-mail-batch) | v0.1.0 | Daniel Jones | Send mail and notifications in batches, paced to your provider's rate limits. |
+| 2026-10-18 16:00:49 | [86hc/hk-statutory-compliance-datasets](https://www.nuget.org/packages/86hc%2Fhk-statutory-compliance-datasets) | 1.0.2 | HC BUSINESS LIMITED (86HC Com… | Open JSON/CSV datasets and PHP loader for Hong Kong Licensed Bank Clearing/SWIF… |
+| 2026-10-18 16:00:57 | [tomgould/turbopush](https://www.nuget.org/packages/tomgould%2Fturbopush) | v2.0.0 | Tom Gould | PHP endpoint for TurboPush chunked uploads: validates, stores and safely reasse… |
+| 2026-10-18 16:11:46 | [nightguardian/laravel](https://www.nuget.org/packages/nightguardian%2Flaravel) | v1.0.0 |  |  |
 
 ## Data source
 

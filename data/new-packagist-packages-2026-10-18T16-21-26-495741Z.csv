@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-18T15:24:27Z,intosql/intosql,v0.1.0,IntoSQL,"Convert spreadsheets, CSV and JSON into SQL with the IntoSQL API."
+2026-10-18T15:27:31Z,86hc/hk-company-registry-validator,v1.0.2,HC BUSINESS LIMITED (86HC Compliance Team),"Lightweight validator & format parser for Hong Kong Company Registration Number (CR No.), Business Registration Number (BRN) & Unique Business Identifier (UBI) under Cap. 622 & Cap. 310."
+2026-10-18T15:34:43Z,eighteen73/wordpress-challenge,v0.1.0,,Opinionated CAPTCHA protection for WordPress
+2026-10-18T15:43:21Z,heinhtet/api-authorizer,v1.0.0,Hein Htet,"Protect Laravel APIs with HMAC-SHA256 request signing headers (X-POWERED-BY, X-TIMESTAMP, X-SIGNATURE) - authenticity, tamper-proofing and replay-attack prevention."
+2026-10-18T15:54:07Z,filagora/filagora-memberships,v0.1.1,,"Memberships and billing for Filagora: plans, prices, member subscriptions, PayPal checkout and webhooks, and entitlement grants."
+2026-10-18T15:54:14Z,proudly-snoring/seat-comlink,1.0.0,Proudly-Snoring,SeAT plugin managing Discord roles (from squads) and nicknames on multiple servers
+2026-10-18T15:58:56Z,1994/laravel-mail-batch,v0.1.0,Daniel Jones,"Send mail and notifications in batches, paced to your provider's rate limits."
+2026-10-18T16:00:49Z,86hc/hk-statutory-compliance-datasets,1.0.2,HC BUSINESS LIMITED (86HC Compliance Team),"Open JSON/CSV datasets and PHP loader for Hong Kong Licensed Bank Clearing/SWIFT Codes, Companies Registry Cap. 622 Statutory Forms (NAR1/NNC1/ND2A), and 32 HK Regulatory Registries."
+2026-10-18T16:00:57Z,tomgould/turbopush,v2.0.0,Tom Gould,"PHP endpoint for TurboPush chunked uploads: validates, stores and safely reassembles file chunks sent by the TurboPush browser client."
+2026-10-18T16:11:46Z,nightguardian/laravel,v1.0.0,,
