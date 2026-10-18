@@ -15,16 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 00:21 UTC
+## Latest list — 2026-10-18 01:21 UTC
 
-New packages created between 2026-10-17 23:19 UTC and 2026-10-18 00:21 UTC.
+New packages created between 2026-10-18 00:21 UTC and 2026-10-18 01:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T00-21-27-999655Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T01-21-44-602071Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-17 23:52:11 | [trk/sulu-preline-blocks-bundle](https://www.nuget.org/packages/trk%2Fsulu-preline-blocks-bundle) | 0.1.0 | Iskender TOTOGLU | Preline UI component blocks and responsive templates for Sulu CMS |
-| 2026-10-17 23:57:29 | [trk/sulu-block-suite-bundle](https://www.nuget.org/packages/trk%2Fsulu-block-suite-bundle) | 0.1.0 | Iskender TOTOGLU | Component block props, visual presets, reusable global blocks, and template lay… |
+| 2026-10-18 00:24:59 | [1994/cookie-connect-core](https://www.nuget.org/packages/1994%2Fcookie-connect-core) | v1.0.0 | 1994 | The framework-free core shared by Cookie Connect for Craft CMS and Statamic: ev… |
+| 2026-10-18 00:29:34 | [verisec/verisec-php](https://www.nuget.org/packages/verisec%2Fverisec-php) | 1.0.0 | VeriSec Labs | The official PHP library for the VeriSec API: identity (KYC) and Financial chec… |
+| 2026-10-18 00:34:49 | [1994/cookie-connect-craft](https://www.nuget.org/packages/1994%2Fcookie-connect-craft) | v1.0.1 | 1994 | Connect your site to the cookie consent platform you already use: paste its ID,… |
+| 2026-10-18 00:34:55 | [1994/cookie-connect-statamic](https://www.nuget.org/packages/1994%2Fcookie-connect-statamic) | v1.0.1 | 1994 | Connect your site to the cookie consent platform you already use: paste its ID,… |
+| 2026-10-18 00:43:13 | [acephp/ace](https://www.nuget.org/packages/acephp%2Face) | v1.0.0 | Celionatti | A lightweight, high-performance PHP 8.2+ MVC framework with Active Record, Mult… |
+| 2026-10-18 00:43:59 | [geisonq/jh2pdf](https://www.nuget.org/packages/geisonq%2Fjh2pdf) | v1.0.0 | Geison Quevedo | Pixel-perfect HTML to PDF in PHP without a browser on the server: the user's br… |
 
 ## Data source
 

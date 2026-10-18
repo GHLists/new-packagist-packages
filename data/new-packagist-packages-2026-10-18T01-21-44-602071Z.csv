@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-18T00:24:59Z,1994/cookie-connect-core,v1.0.0,1994,"The framework-free core shared by Cookie Connect for Craft CMS and Statamic: every cookie consent platform described as data, the head and blocking markup they need, Google Consent Mode v2, and one JavaScript consent API for all of them."
+2026-10-18T00:29:34Z,verisec/verisec-php,1.0.0,VeriSec Labs,The official PHP library for the VeriSec API: identity (KYC) and Financial checks.
+2026-10-18T00:34:49Z,1994/cookie-connect-craft,v1.0.1,1994,"Connect your site to the cookie consent platform you already use: paste its ID, and get Google Consent Mode v2 in the right order."
+2026-10-18T00:34:55Z,1994/cookie-connect-statamic,v1.0.1,1994,"Connect your site to the cookie consent platform you already use: paste its ID, and get Google Consent Mode v2 in the right order."
+2026-10-18T00:43:13Z,acephp/ace,v1.0.0,Celionatti,"A lightweight, high-performance PHP 8.2+ MVC framework with Active Record, Multi-Template system, Queue Worker, unified Payments, and API Idempotency."
+2026-10-18T00:43:59Z,geisonq/jh2pdf,v1.0.0,Geison Quevedo,"Pixel-perfect HTML to PDF in PHP without a browser on the server: the user's browser measures the layout, PHP only draws the PDF. No headless Chrome, runs on shared hosting."
