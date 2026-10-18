@@ -15,20 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 14:18 UTC
+## Latest list — 2026-10-18 15:20 UTC
 
-New packages created between 2026-10-18 13:18 UTC and 2026-10-18 14:18 UTC.
+New packages created between 2026-10-18 14:18 UTC and 2026-10-18 15:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T14-18-56-902375Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T15-20-28-712069Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 13:20:56 | [schulit/openid-connect-provider-bundle](https://www.nuget.org/packages/schulit%2Fopenid-connect-provider-bundle) | 0.1.2 | Antonio J. García Lagar; All… | OpenID Connect provider Symfony bundle |
-| 2026-10-18 13:22:07 | [slime-systems/php-slime](https://www.nuget.org/packages/slime-systems%2Fphp-slime) | v0.0.1 | Sarun Rattanasiri | Enterprise CQRS, Event Sourcing, and High-Assurance Token Infrastructure for Mo… |
-| 2026-10-18 13:26:22 | [alfasix/alfakit](https://www.nuget.org/packages/alfasix%2Falfakit) | v0.1.0 | Alfa Six | The frontend-agnostic admin panel builder for Laravel. Define panels, resources… |
-| 2026-10-18 13:34:01 | [eza/sdk](https://www.nuget.org/packages/eza%2Fsdk) | v0.1.0 |  | Eza Cloud for PHP: transactional email, PayEdge M-Pesa STK push and signed webh… |
-| 2026-10-18 13:56:13 | [davidhirtz/website](https://www.nuget.org/packages/davidhirtz%2Fwebsite) | 3.0.2 |  | Website template for yii2-cms |
-| 2026-10-18 14:17:24 | [phptailors/phpunit-recursive](https://www.nuget.org/packages/phptailors%2Fphpunit-recursive) | 2.1.0 | Paweł Tomulik | Support for recursive constraints |
+| 2026-10-18 14:23:25 | [stoneholl/module-core](https://www.nuget.org/packages/stoneholl%2Fmodule-core) | v1.0.0 |  | Offline shared administration and product registry infrastructure for Stoneholl… |
+| 2026-10-18 14:26:47 | [mk-josias/laravel-distributable](https://www.nuget.org/packages/mk-josias%2Flaravel-distributable) | v0.3.0 | Josias Mekontso | The foundations for designing each Laravel module as a microservice: its code r… |
+| 2026-10-18 14:41:50 | [mk-josias/laravel-distributable-starter](https://www.nuget.org/packages/mk-josias%2Flaravel-distributable-starter) | v0.3.0 |  | Starter kit for laravel-distributable-modules: a modular monolith deployable as… |
+| 2026-10-18 14:50:09 | [dskripchenko/php-pdf-pkcs11](https://www.nuget.org/packages/dskripchenko%2Fphp-pdf-pkcs11) | v1.0.0 | Denis Skripchenko | PKCS#11 signer for dskripchenko/php-pdf: sign PDFs (PAdES, RSA and ECDSA) with… |
+| 2026-10-18 14:50:21 | [dskripchenko/php-pdf-cloud-kms](https://www.nuget.org/packages/dskripchenko%2Fphp-pdf-cloud-kms) | v1.0.0 | Denis Skripchenko | Cloud KMS signers for dskripchenko/php-pdf: sign PDFs (PAdES, RSA and ECDSA) wi… |
+| 2026-10-18 14:51:46 | [saurabhg/module-buy-now](https://www.nuget.org/packages/saurabhg%2Fmodule-buy-now) | 1.0.0 |  | Buy Now button on product and listing pages that takes the customer straight to… |
+| 2026-10-18 15:16:25 | [shankscode/haki](https://www.nuget.org/packages/shankscode%2Fhaki) | v1.0.0 |  | Miniframework PHP simples para APIs REST, com rotas, injeção de dependências, m… |
 
 ## Data source
 

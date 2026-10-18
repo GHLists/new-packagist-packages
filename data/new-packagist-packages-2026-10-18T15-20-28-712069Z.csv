@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-18T14:23:25Z,stoneholl/module-core,v1.0.0,,Offline shared administration and product registry infrastructure for Stoneholl Magento modules.
+2026-10-18T14:26:47Z,mk-josias/laravel-distributable,v0.3.0,Josias Mekontso,"The foundations for designing each Laravel module as a microservice: its code runs in a context bounded to its module, blind to the others, whether they run in the same process or in separate, distributed processes, and it talks to them only through contracts and events. Whether modules run as micr…"
+2026-10-18T14:41:50Z,mk-josias/laravel-distributable-starter,v0.3.0,,Starter kit for laravel-distributable-modules: a modular monolith deployable as one process or as per-module services.
+2026-10-18T14:50:09Z,dskripchenko/php-pdf-pkcs11,v1.0.0,Denis Skripchenko,"PKCS#11 signer for dskripchenko/php-pdf: sign PDFs (PAdES, RSA and ECDSA) with a key held by an HSM, a smart card or a USB token, through the php-pkcs11 extension."
+2026-10-18T14:50:21Z,dskripchenko/php-pdf-cloud-kms,v1.0.0,Denis Skripchenko,"Cloud KMS signers for dskripchenko/php-pdf: sign PDFs (PAdES, RSA and ECDSA) with keys held by AWS KMS, Google Cloud KMS or Azure Key Vault — the key never leaves the cloud."
+2026-10-18T14:51:46Z,saurabhg/module-buy-now,1.0.0,,Buy Now button on product and listing pages that takes the customer straight to checkout.
+2026-10-18T15:16:25Z,shankscode/haki,v1.0.0,,"Miniframework PHP simples para APIs REST, com rotas, injeção de dependências, middleware e autenticação JWT própria."
