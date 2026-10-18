@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-18T17:26:52Z,skrull/sylius-quick-edit-bar-plugin,0.1.0,Simon Krull,Adds a quick edit bar with links into the Sylius admin to the storefront for logged-in administrators.
+2026-10-18T17:34:05Z,xmlvalid/xmlvalid-php,v1.0.0,xmlvalid,"PHP client for the xmlvalid API: validate XML and e-invoices (Peppol, XRechnung, Factur-X, UBL, CII) against XSD, DTD, RelaxNG and Schematron business rules"
+2026-10-18T17:34:13Z,xmlvalid/xmlvalid-laravel,v1.0.0,xmlvalid,"Laravel integration for the xmlvalid API: a validation rule for XML and e-invoices (Peppol, XRechnung, Factur-X, UBL, XSD, Schematron), webhooks as events, Artisan commands"
+2026-10-18T17:34:22Z,xmlvalid/xmlvalid-symfony,v1.0.0,xmlvalid,"Symfony bundle for the xmlvalid API: a validator constraint for XML and e-invoices (Peppol, XRechnung, Factur-X, UBL, XSD, Schematron), webhooks as events, console commands"
+2026-10-18T17:34:33Z,1994/ingest-statamic,v1.0.0,1994,"Keep Statamic in sync with external feeds: JSON, XML, RSS, CSV, APIs and Google Sheets into entries, terms, globals, users and Cargo products, on a schedule, with dry runs and undo."
+2026-10-18T17:46:13Z,digit7s/filament-seo,v0.1.0,,Polymorphic SEO metadata rendering and Filament components for Laravel.
+2026-10-18T18:05:38Z,hasan-deeba/larasaas,v1.0.0,,"Drop-in SaaS engine for Laravel + React: Stripe billing (Cashier), multi-tenant workspaces & team roles, admin-managed plans and typed entitlements, scheduled announcements and Pennant feature flags — plugged into YOUR User model."
+2026-10-18T18:10:44Z,numberotp/numberotp,v0.1.0,NumberOTP,Official NumberOTP API client — virtual phone numbers for SMS / OTP verification

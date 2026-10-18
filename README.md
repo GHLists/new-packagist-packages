@@ -15,23 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 17:19 UTC
+## Latest list — 2026-10-18 18:19 UTC
 
-New packages created between 2026-10-18 16:21 UTC and 2026-10-18 17:19 UTC.
+New packages created between 2026-10-18 17:19 UTC and 2026-10-18 18:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T17-19-44-267873Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T18-19-52-667313Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 16:22:47 | [phoenix1331/filament-headroom](https://www.nuget.org/packages/phoenix1331%2Ffilament-headroom) | v0.1.0 | Darren Williams | A Filament dashboard for AI token usage, cost and context limits, powered by He… |
-| 2026-10-18 16:23:23 | [bytespulse-oe/pulse](https://www.nuget.org/packages/bytespulse-oe%2Fpulse) | v1.0.1 | BytespulseOE; PStoreGR | Lightweight Blade components for Laravel and Livewire apps. |
-| 2026-10-18 16:35:20 | [devshaded/laravel-sanctum-starter-kit](https://www.nuget.org/packages/devshaded%2Flaravel-sanctum-starter-kit) | v1.0.0 |  | An API-only Laravel starter kit with Sanctum bearer tokens and Docker developme… |
-| 2026-10-18 16:44:34 | [mrpc/xscraper](https://www.nuget.org/packages/mrpc%2Fxscraper) | v1.0.0 | mrpc | Read x.com posts and their replies from PHP without the official API. Request-f… |
-| 2026-10-18 16:52:24 | [1994/reviews-core](https://www.nuget.org/packages/1994%2Freviews-core) | v1.0.0 | 1994 | The framework-free core shared by Reviews for Craft CMS and Statamic: averages… |
-| 2026-10-18 16:53:12 | [abolaradev/navix](https://www.nuget.org/packages/abolaradev%2Fnavix) | v1.0.0 | abolaradev | A lightweight PHP package for building and managing hierarchical menu structure… |
-| 2026-10-18 16:54:25 | [vezolabs/pimcore-sso-login-bundle](https://www.nuget.org/packages/vezolabs%2Fpimcore-sso-login-bundle) | v1.0.0 | VezoLabs | Production-Ready Single Sign-On (SSO) bundle for Pimcore 12 Studio with Microso… |
-| 2026-10-18 17:04:09 | [vezolabs/pimcore-cloud-storage-bundle](https://www.nuget.org/packages/vezolabs%2Fpimcore-cloud-storage-bundle) | v1.0.0 | VezoLabs | Production-Ready Cloud Storage Manager for Pimcore 12 Studio supporting Amazon… |
-| 2026-10-18 17:04:43 | [vezolabs/pimcore-login-tracker-bundle](https://www.nuget.org/packages/vezolabs%2Fpimcore-login-tracker-bundle) | v1.0.0 | VezoLabs | Production-Ready Login Tracker Plugin for Pimcore 12 Studio with comprehensive… |
+| 2026-10-18 17:26:52 | [skrull/sylius-quick-edit-bar-plugin](https://www.nuget.org/packages/skrull%2Fsylius-quick-edit-bar-plugin) | 0.1.0 | Simon Krull | Adds a quick edit bar with links into the Sylius admin to the storefront for lo… |
+| 2026-10-18 17:34:05 | [xmlvalid/xmlvalid-php](https://www.nuget.org/packages/xmlvalid%2Fxmlvalid-php) | v1.0.0 | xmlvalid | PHP client for the xmlvalid API: validate XML and e-invoices (Peppol, XRechnung… |
+| 2026-10-18 17:34:13 | [xmlvalid/xmlvalid-laravel](https://www.nuget.org/packages/xmlvalid%2Fxmlvalid-laravel) | v1.0.0 | xmlvalid | Laravel integration for the xmlvalid API: a validation rule for XML and e-invoi… |
+| 2026-10-18 17:34:22 | [xmlvalid/xmlvalid-symfony](https://www.nuget.org/packages/xmlvalid%2Fxmlvalid-symfony) | v1.0.0 | xmlvalid | Symfony bundle for the xmlvalid API: a validator constraint for XML and e-invoi… |
+| 2026-10-18 17:34:33 | [1994/ingest-statamic](https://www.nuget.org/packages/1994%2Fingest-statamic) | v1.0.0 | 1994 | Keep Statamic in sync with external feeds: JSON, XML, RSS, CSV, APIs and Google… |
+| 2026-10-18 17:46:13 | [digit7s/filament-seo](https://www.nuget.org/packages/digit7s%2Ffilament-seo) | v0.1.0 |  | Polymorphic SEO metadata rendering and Filament components for Laravel. |
+| 2026-10-18 18:05:38 | [hasan-deeba/larasaas](https://www.nuget.org/packages/hasan-deeba%2Flarasaas) | v1.0.0 |  | Drop-in SaaS engine for Laravel + React: Stripe billing (Cashier), multi-tenant… |
+| 2026-10-18 18:10:44 | [numberotp/numberotp](https://www.nuget.org/packages/numberotp%2Fnumberotp) | v0.1.0 | NumberOTP | Official NumberOTP API client — virtual phone numbers for SMS / OTP verification |
 
 ## Data source
 
