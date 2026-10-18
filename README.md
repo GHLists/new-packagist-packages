@@ -15,21 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 11:21 UTC
+## Latest list — 2026-10-18 12:19 UTC
 
-New packages created between 2026-10-18 10:21 UTC and 2026-10-18 11:21 UTC.
+New packages created between 2026-10-18 11:21 UTC and 2026-10-18 12:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T11-21-11-307379Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T12-19-29-440716Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 10:33:56 | [ehundu/andamio-documentacion](https://www.nuget.org/packages/ehundu%2Fandamio-documentacion) | v0.16.0 |  | Una documentación hecha con Ehundu, con menú por secciones, índice de cada pági… |
-| 2026-10-18 10:40:15 | [lsr/translations](https://www.nuget.org/packages/lsr%2Ftranslations) | 0.1.0 | Tomáš Vojík | Framework-neutral native gettext localization runtime with optional Laravel int… |
-| 2026-10-18 10:42:09 | [coretsia/platform-cli](https://www.nuget.org/packages/coretsia%2Fplatform-cli) | v0.9.0 | Vladyslav Mudrichenko | Coretsia CLI runtime package: tag-first command discovery, Kernel operations, a… |
-| 2026-10-18 10:53:09 | [ehundu/andamio-portfolio](https://www.nuget.org/packages/ehundu%2Fandamio-portfolio) | v0.16.0 |  | Un portfolio personal hecho con Ehundu, con proyectos destacados, una ficha por… |
-| 2026-10-18 10:58:50 | [hanzala-afzal/laravel-dynamic-throttle](https://www.nuget.org/packages/hanzala-afzal%2Flaravel-dynamic-throttle) | v0.1.0-beta.1 | Hanzala Afzal | Runtime-managed, identity-aware rate limiting for Laravel: change limits withou… |
-| 2026-10-18 11:05:31 | [molokaistudiocom/magento2-log-viewer](https://www.nuget.org/packages/molokaistudiocom%2Fmagento2-log-viewer) | v1.0.0 |  | Read-only viewer for the var/log files in the Magento 2 admin: tail, page back,… |
-| 2026-10-18 11:15:43 | [ehundu/andamio-negocio](https://www.nuget.org/packages/ehundu%2Fandamio-negocio) | v0.16.0 |  | Un sitio para un negocio local hecho con Ehundu, con servicios, horarios con ex… |
+| 2026-10-18 11:35:32 | [cryptolike/sdk](https://www.nuget.org/packages/cryptolike%2Fsdk) | v0.2.0 | CryptoLike team | Official server-side SDK for the CryptoLike merchant API: signed requests, auto… |
+| 2026-10-18 11:35:33 | [laraveladmin/think-schedule](https://www.nuget.org/packages/laraveladmin%2Fthink-schedule) | 1.0.0 |  | Laravel-style task scheduler for ThinkPHP: define tasks in PHP and keep only on… |
+| 2026-10-18 11:38:13 | [ehundu/andamio-multilingue](https://www.nuget.org/packages/ehundu%2Fandamio-multilingue) | v0.16.0 |  | Una web completa en dos idiomas (castellano y euskera) hecha con Ehundu, con su… |
+| 2026-10-18 11:38:43 | [asyntai/cakephp-ai-chatbot](https://www.nuget.org/packages/asyntai%2Fcakephp-ai-chatbot) | 1.0.0 | Asyntai | Asyntai AI chatbot for CakePHP. Adds an AI chat assistant to your CakePHP app t… |
 
 ## Data source
 

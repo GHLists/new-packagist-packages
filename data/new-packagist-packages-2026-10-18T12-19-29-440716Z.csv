@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-18T11:35:32Z,cryptolike/sdk,v0.2.0,CryptoLike team,"Official server-side SDK for the CryptoLike merchant API: signed requests, automatic Idempotency-Key, retries with backoff, webhook signature verification. PHP 7.4-8.x, no runtime dependencies, works without Composer (autoload.php)."
+2026-10-18T11:35:33Z,laraveladmin/think-schedule,1.0.0,,Laravel-style task scheduler for ThinkPHP: define tasks in PHP and keep only one system cron entry.
+2026-10-18T11:38:13Z,ehundu/andamio-multilingue,v0.16.0,,"Una web completa en dos idiomas (castellano y euskera) hecha con Ehundu, con sus páginas enlazadas entre idiomas, selector, hreflang, menús y textos por idioma, para empezar."
+2026-10-18T11:38:43Z,asyntai/cakephp-ai-chatbot,1.0.0,Asyntai,Asyntai AI chatbot for CakePHP. Adds an AI chat assistant to your CakePHP app that answers visitor questions from your own content.
