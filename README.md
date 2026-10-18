@@ -15,24 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 16:21 UTC
+## Latest list — 2026-10-18 17:19 UTC
 
-New packages created between 2026-10-18 15:20 UTC and 2026-10-18 16:21 UTC.
+New packages created between 2026-10-18 16:21 UTC and 2026-10-18 17:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T16-21-26-495741Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T17-19-44-267873Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 15:24:27 | [intosql/intosql](https://www.nuget.org/packages/intosql%2Fintosql) | v0.1.0 | IntoSQL | Convert spreadsheets, CSV and JSON into SQL with the IntoSQL API. |
-| 2026-10-18 15:27:31 | [86hc/hk-company-registry-validator](https://www.nuget.org/packages/86hc%2Fhk-company-registry-validator) | v1.0.2 | HC BUSINESS LIMITED (86HC Com… | Lightweight validator & format parser for Hong Kong Company Registration Number… |
-| 2026-10-18 15:34:43 | [eighteen73/wordpress-challenge](https://www.nuget.org/packages/eighteen73%2Fwordpress-challenge) | v0.1.0 |  | Opinionated CAPTCHA protection for WordPress |
-| 2026-10-18 15:43:21 | [heinhtet/api-authorizer](https://www.nuget.org/packages/heinhtet%2Fapi-authorizer) | v1.0.0 | Hein Htet | Protect Laravel APIs with HMAC-SHA256 request signing headers (X-POWERED-BY, X-… |
-| 2026-10-18 15:54:07 | [filagora/filagora-memberships](https://www.nuget.org/packages/filagora%2Ffilagora-memberships) | v0.1.1 |  | Memberships and billing for Filagora: plans, prices, member subscriptions, PayP… |
-| 2026-10-18 15:54:14 | [proudly-snoring/seat-comlink](https://www.nuget.org/packages/proudly-snoring%2Fseat-comlink) | 1.0.0 | Proudly-Snoring | SeAT plugin managing Discord roles (from squads) and nicknames on multiple serv… |
-| 2026-10-18 15:58:56 | [1994/laravel-mail-batch](https://www.nuget.org/packages/1994%2Flaravel-mail-batch) | v0.1.0 | Daniel Jones | Send mail and notifications in batches, paced to your provider's rate limits. |
-| 2026-10-18 16:00:49 | [86hc/hk-statutory-compliance-datasets](https://www.nuget.org/packages/86hc%2Fhk-statutory-compliance-datasets) | 1.0.2 | HC BUSINESS LIMITED (86HC Com… | Open JSON/CSV datasets and PHP loader for Hong Kong Licensed Bank Clearing/SWIF… |
-| 2026-10-18 16:00:57 | [tomgould/turbopush](https://www.nuget.org/packages/tomgould%2Fturbopush) | v2.0.0 | Tom Gould | PHP endpoint for TurboPush chunked uploads: validates, stores and safely reasse… |
-| 2026-10-18 16:11:46 | [nightguardian/laravel](https://www.nuget.org/packages/nightguardian%2Flaravel) | v1.0.0 |  |  |
+| 2026-10-18 16:22:47 | [phoenix1331/filament-headroom](https://www.nuget.org/packages/phoenix1331%2Ffilament-headroom) | v0.1.0 | Darren Williams | A Filament dashboard for AI token usage, cost and context limits, powered by He… |
+| 2026-10-18 16:23:23 | [bytespulse-oe/pulse](https://www.nuget.org/packages/bytespulse-oe%2Fpulse) | v1.0.1 | BytespulseOE; PStoreGR | Lightweight Blade components for Laravel and Livewire apps. |
+| 2026-10-18 16:35:20 | [devshaded/laravel-sanctum-starter-kit](https://www.nuget.org/packages/devshaded%2Flaravel-sanctum-starter-kit) | v1.0.0 |  | An API-only Laravel starter kit with Sanctum bearer tokens and Docker developme… |
+| 2026-10-18 16:44:34 | [mrpc/xscraper](https://www.nuget.org/packages/mrpc%2Fxscraper) | v1.0.0 | mrpc | Read x.com posts and their replies from PHP without the official API. Request-f… |
+| 2026-10-18 16:52:24 | [1994/reviews-core](https://www.nuget.org/packages/1994%2Freviews-core) | v1.0.0 | 1994 | The framework-free core shared by Reviews for Craft CMS and Statamic: averages… |
+| 2026-10-18 16:53:12 | [abolaradev/navix](https://www.nuget.org/packages/abolaradev%2Fnavix) | v1.0.0 | abolaradev | A lightweight PHP package for building and managing hierarchical menu structure… |
+| 2026-10-18 16:54:25 | [vezolabs/pimcore-sso-login-bundle](https://www.nuget.org/packages/vezolabs%2Fpimcore-sso-login-bundle) | v1.0.0 | VezoLabs | Production-Ready Single Sign-On (SSO) bundle for Pimcore 12 Studio with Microso… |
+| 2026-10-18 17:04:09 | [vezolabs/pimcore-cloud-storage-bundle](https://www.nuget.org/packages/vezolabs%2Fpimcore-cloud-storage-bundle) | v1.0.0 | VezoLabs | Production-Ready Cloud Storage Manager for Pimcore 12 Studio supporting Amazon… |
+| 2026-10-18 17:04:43 | [vezolabs/pimcore-login-tracker-bundle](https://www.nuget.org/packages/vezolabs%2Fpimcore-login-tracker-bundle) | v1.0.0 | VezoLabs | Production-Ready Login Tracker Plugin for Pimcore 12 Studio with comprehensive… |
 
 ## Data source
 

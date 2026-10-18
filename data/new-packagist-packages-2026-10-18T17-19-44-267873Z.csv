@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-18T16:22:47Z,phoenix1331/filament-headroom,v0.1.0,Darren Williams,"A Filament dashboard for AI token usage, cost and context limits, powered by Headroom."
+2026-10-18T16:23:23Z,bytespulse-oe/pulse,v1.0.1,BytespulseOE; PStoreGR,Lightweight Blade components for Laravel and Livewire apps.
+2026-10-18T16:35:20Z,devshaded/laravel-sanctum-starter-kit,v1.0.0,,An API-only Laravel starter kit with Sanctum bearer tokens and Docker development.
+2026-10-18T16:44:34Z,mrpc/xscraper,v1.0.0,mrpc,"Read x.com posts and their replies from PHP without the official API. Request-frugal: incremental refresh, smart caching, single-flight locking and a shared throttle."
+2026-10-18T16:52:24Z,1994/reviews-core,v1.0.0,1994,"The framework-free core shared by Reviews for Craft CMS and Statamic: averages and star breakdowns, spam checks, captchas, review schema, importing from other review platforms, syncing from them on a schedule, and the default styles."
+2026-10-18T16:53:12Z,abolaradev/navix,v1.0.0,abolaradev,"A lightweight PHP package for building and managing hierarchical menu structures with icons, nested items, and custom metadata."
+2026-10-18T16:54:25Z,vezolabs/pimcore-sso-login-bundle,v1.0.0,VezoLabs,Production-Ready Single Sign-On (SSO) bundle for Pimcore 12 Studio with Microsoft Entra ID & SAML 2.0 support
+2026-10-18T17:04:09Z,vezolabs/pimcore-cloud-storage-bundle,v1.0.0,VezoLabs,"Production-Ready Cloud Storage Manager for Pimcore 12 Studio supporting Amazon S3, Azure Blob, and Google Cloud Storage"
+2026-10-18T17:04:43Z,vezolabs/pimcore-login-tracker-bundle,v1.0.0,VezoLabs,"Production-Ready Login Tracker Plugin for Pimcore 12 Studio with comprehensive activity monitoring, security insights, and export capabilities"
