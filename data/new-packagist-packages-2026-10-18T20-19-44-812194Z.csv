@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-18T19:32:12Z,cecil/theme-pele,1.0.0,,Cecil component theme Pele
+2026-10-18T19:33:27Z,abdelhmed/chimera,v1.0.0,abdelhmed,A self-mutating AI-powered engine for Laravel applications.
+2026-10-18T19:48:18Z,siberfx/message-bus,v0.1.0,Siberfx,"A Symfony Messenger inspired message bus for Laravel: buses, middleware, transports, retries, failure transport and realtime broadcasting (Reverb, Pusher, Ably, webhooks) with first-party React, Vue, Livewire and Blade integrations."
+2026-10-18T19:51:18Z,hamada-emam-tech/esign-sadq,v0.2.0,,SADQ (sadq.sa) driver for hamada-emam-tech/esign: Saudi e-signature envelopes with Nafath identity.
+2026-10-18T19:57:05Z,simpledatalogs/laravel,0.2.0,XKD Labs,"Send events, Eloquent model changes, auth events and Laravel log channels to simpledatalogs through a disk outbox, never blocking the app."
+2026-10-18T20:07:59Z,edalzell/statamic-features,v1.0.0,Erin Dalzell,"Self-contained feature modules for Statamic, built on edalzell/laravel-features"
