@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-18T06:22:30Z,tezz/auth-sdk,v1.0.0,TezzCorp Pvt. Ltd.,Official PHP SDK for Tezz Auth
+2026-10-18T06:35:58Z,malikad/laravel-tenant-guard,v1.0.0,Malik Adnan,"AST static analysis guard for Laravel multi-tenant SaaS applications preventing cross-tenant data leaks, cache collisions, and unscoped queries."
+2026-10-18T06:49:03Z,kandita/paydita,v1.0.0,,"Laravel client for Paydita, the internal central payment API of PT. Kandita Digital Integrasi."
+2026-10-18T07:07:38Z,webx-ui/module-debug,v0.78.0,WebX UI,"A debug bar at the bottom of a WebX UI site's pages, for an administrator and never in production: the SQL a page ran with its repeats, a timeline, regions and blocks, the versioned cache, what the resolver found — and the same report to an agent over MCP."
+2026-10-18T07:12:03Z,phattarachai/worktree-prompt,v1.0.0,Phattarachai,"Set up a git worktree of a Laravel project in one command — real vendor, .env, storage, an optional database of its own and build assets — and tear it down again, through Laravel Prompts. One global command for every project."
