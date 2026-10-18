@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-18T09:45:17Z,forxer/ovh-sdk,0.1.0,Vincent Garnier,"An unofficial, modern PHP SDK for the OVHcloud API, built on Saloon, with Laravel integration."
+2026-10-18T09:57:06Z,socialdept/atp-appview,v0.1.0,,Build lexicon-driven AT Protocol AppViews in Laravel
+2026-10-18T09:58:17Z,tobento/app-renderable,2.0,Tobias Strub,"Renderable support for the app, wiring the renderable factory with media, html sanitizing and locales."
+2026-10-18T10:05:43Z,shimonahamed/software-billing,v1.0.1,,Laravel software billing package

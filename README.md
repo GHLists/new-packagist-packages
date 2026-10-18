@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 09:21 UTC
+## Latest list — 2026-10-18 10:21 UTC
 
-New packages created between 2026-10-18 08:23 UTC and 2026-10-18 09:21 UTC.
+New packages created between 2026-10-18 09:21 UTC and 2026-10-18 10:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T09-21-04-432509Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T10-21-10-196778Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 08:25:25 | [request-labs/steward-laravel](https://www.nuget.org/packages/request-labs%2Fsteward-laravel) | v1.0.0 |  | Steward by Request agent for Laravel sites: reports installed package versions… |
-| 2026-10-18 08:41:41 | [dehnavi/yii2-jdate](https://www.nuget.org/packages/dehnavi%2Fyii2-jdate) | 1.0.0 | Mohammad Mahdi Gholamian; Moh… | Jalali date and time utilities and a range-capable date picker for Yii2. |
-| 2026-10-18 08:51:28 | [waply/waply-php](https://www.nuget.org/packages/waply%2Fwaply-php) | v1.0.0 | Waply Indonesia | Official PHP & Laravel SDK for Waply WhatsApp Gateway & Messaging API Indonesia |
+| 2026-10-18 09:45:17 | [forxer/ovh-sdk](https://www.nuget.org/packages/forxer%2Fovh-sdk) | 0.1.0 | Vincent Garnier | An unofficial, modern PHP SDK for the OVHcloud API, built on Saloon, with Larav… |
+| 2026-10-18 09:57:06 | [socialdept/atp-appview](https://www.nuget.org/packages/socialdept%2Fatp-appview) | v0.1.0 |  | Build lexicon-driven AT Protocol AppViews in Laravel |
+| 2026-10-18 09:58:17 | [tobento/app-renderable](https://www.nuget.org/packages/tobento%2Fapp-renderable) | 2.0 | Tobias Strub | Renderable support for the app, wiring the renderable factory with media, html… |
+| 2026-10-18 10:05:43 | [shimonahamed/software-billing](https://www.nuget.org/packages/shimonahamed%2Fsoftware-billing) | v1.0.1 |  | Laravel software billing package |
 
 ## Data source
 
