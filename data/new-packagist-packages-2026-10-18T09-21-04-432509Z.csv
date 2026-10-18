@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-18T08:25:25Z,request-labs/steward-laravel,v1.0.0,,Steward by Request agent for Laravel sites: reports installed package versions and drift from composer.lock. Read-only.
+2026-10-18T08:41:41Z,dehnavi/yii2-jdate,1.0.0,Mohammad Mahdi Gholamian; Mohammad Moein Hosseini Manesh; NabiKAZ; 2012mjm; Hossein Dehnavi,Jalali date and time utilities and a range-capable date picker for Yii2.
+2026-10-18T08:51:28Z,waply/waply-php,v1.0.0,Waply Indonesia,Official PHP & Laravel SDK for Waply WhatsApp Gateway & Messaging API Indonesia

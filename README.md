@@ -15,21 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 08:23 UTC
+## Latest list — 2026-10-18 09:21 UTC
 
-New packages created between 2026-10-18 07:19 UTC and 2026-10-18 08:23 UTC.
+New packages created between 2026-10-18 08:23 UTC and 2026-10-18 09:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T08-23-00-080382Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-18T09-21-04-432509Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 07:38:15 | [tobento/service-renderable](https://www.nuget.org/packages/tobento%2Fservice-renderable) | 2.0 | Tobias Strub | Renderable service for PHP applications. |
-| 2026-10-18 07:42:09 | [soml/soml](https://www.nuget.org/packages/soml%2Fsoml) | v0.0.1 | Sindre Sorhus | Read and write SOML, a config format for humans |
-| 2026-10-18 07:47:24 | [jobu/json-rpc-client](https://www.nuget.org/packages/jobu%2Fjson-rpc-client) | v1.0.0 |  | Synchronous PHP client for the JobU JSON-RPC Unix socket |
-| 2026-10-18 07:48:31 | [trail/storage](https://www.nuget.org/packages/trail%2Fstorage) | 0.4.0 | Alex Brindley | Storage driver addon for trail |
-| 2026-10-18 07:52:47 | [trail/images](https://www.nuget.org/packages/trail%2Fimages) | 0.4.0 | Alex Brindley | Image uploads and resizing for trail |
-| 2026-10-18 07:53:08 | [mrsafalpiya/strictly-laravel](https://www.nuget.org/packages/mrsafalpiya%2Fstrictly-laravel) | 0.2.0 |  | Strictly Laravel: end-to-end type safety for Laravel + Inertia + React, applied… |
-| 2026-10-18 08:05:34 | [whatef/harken](https://www.nuget.org/packages/whatef%2Fharken) | v0.1.0 |  | A long-running, event-driven MQTT client runtime for Laravel. |
+| 2026-10-18 08:25:25 | [request-labs/steward-laravel](https://www.nuget.org/packages/request-labs%2Fsteward-laravel) | v1.0.0 |  | Steward by Request agent for Laravel sites: reports installed package versions… |
+| 2026-10-18 08:41:41 | [dehnavi/yii2-jdate](https://www.nuget.org/packages/dehnavi%2Fyii2-jdate) | 1.0.0 | Mohammad Mahdi Gholamian; Moh… | Jalali date and time utilities and a range-capable date picker for Yii2. |
+| 2026-10-18 08:51:28 | [waply/waply-php](https://www.nuget.org/packages/waply%2Fwaply-php) | v1.0.0 | Waply Indonesia | Official PHP & Laravel SDK for Waply WhatsApp Gateway & Messaging API Indonesia |
 
 ## Data source
 
