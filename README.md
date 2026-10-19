@@ -15,22 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 10:23 UTC
+## Latest list — 2026-10-19 11:22 UTC
 
-New packages created between 2026-10-19 09:21 UTC and 2026-10-19 10:23 UTC.
+New packages created between 2026-10-19 10:23 UTC and 2026-10-19 11:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-19T10-23-04-567841Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-19T11-22-04-711278Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-19 09:22:12 | [rkwebforge/bladewell](https://www.nuget.org/packages/rkwebforge%2Fbladewell) | v1.0.0 | Krishnaprasad R | Wrong name: Bladewell is bladewell/bladewell. Install it with composer require… |
-| 2026-10-19 09:33:04 | [wazzapo/wazzapo-php](https://www.nuget.org/packages/wazzapo%2Fwazzapo-php) | v0.1.0 |  | PHP SDK для API Wazzapo v2: WhatsApp Business API, переписки, контакты, сделки,… |
-| 2026-10-19 09:34:50 | [weldist/laravel-passport-client-scopes](https://www.nuget.org/packages/weldist%2Flaravel-passport-client-scopes) | v1.0.0 | X-Adam | Per-client default scopes and RFC 6750 insufficient_scope responses for Laravel… |
-| 2026-10-19 09:44:34 | [xchert/object-schema](https://www.nuget.org/packages/xchert%2Fobject-schema) | v1.0.0 | Dustin Simon | Format-independent schemas for data structures. |
-| 2026-10-19 09:49:04 | [victorio/support](https://www.nuget.org/packages/victorio%2Fsupport) | v0.1.0 |  | Shared helpers for Victorio packages. |
-| 2026-10-19 09:52:46 | [jlqiumu/click-captcha](https://www.nuget.org/packages/jlqiumu%2Fclick-captcha) | 1.0.1 | wood秋木 |  |
-| 2026-10-19 09:52:57 | [vanderlee/comprehend-laravel](https://www.nuget.org/packages/vanderlee%2Fcomprehend-laravel) | 1.0.1 |  | Laravel validation rules for Comprehend grammars |
-| 2026-10-19 10:18:55 | [wuninsu/nativephp-mobile-scanner](https://www.nuget.org/packages/wuninsu%2Fnativephp-mobile-scanner) | v0.1.0 | Fuseini Abdul-Hafiz | QR code and barcode scanning for NativePHP Mobile apps. |
+| 2026-10-19 10:33:46 | [jellyhaus/migrations](https://www.nuget.org/packages/jellyhaus%2Fmigrations) | 2026.10.1 | Jason Millis | Simple database migrations |
+| 2026-10-19 10:40:40 | [nocwise/laravel-client](https://www.nuget.org/packages/nocwise%2Flaravel-client) | v0.4.3 | Nocwise | Cliente oficial de Nocwise para Laravel: captura logs y excepciones y las envía… |
+| 2026-10-19 11:04:45 | [rolog/magma-app](https://www.nuget.org/packages/rolog%2Fmagma-app) | v0.1.1 |  |  |
+| 2026-10-19 11:06:51 | [ufo-tech/mcp-bundle](https://www.nuget.org/packages/ufo-tech%2Fmcp-bundle) | 1.0.0 | Alex Maistrenko | Expose UFO JSON-RPC services as MCP tools for AI agents. |
+| 2026-10-19 11:17:30 | [stefanak-michal/grafeo-php](https://www.nuget.org/packages/stefanak-michal%2Fgrafeo-php) | v0.5.44-p1 | Michal Stefanak | FFI implementation to run Grafeo embedded in PHP |
+| 2026-10-19 11:20:43 | [tencentcloud/workbuddyenterprise](https://www.nuget.org/packages/tencentcloud%2Fworkbuddyenterprise) | 3.0.1683 | tencentcloudapi | TencentCloudApi php sdk workbuddyenterprise |
 
 ## Data source
 

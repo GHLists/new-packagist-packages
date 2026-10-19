@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-19T10:33:46Z,jellyhaus/migrations,2026.10.1,Jason Millis,Simple database migrations
+2026-10-19T10:40:40Z,nocwise/laravel-client,v0.4.3,Nocwise,Cliente oficial de Nocwise para Laravel: captura logs y excepciones y las envía a tu instancia de Nocwise.
+2026-10-19T11:04:45Z,rolog/magma-app,v0.1.1,,
+2026-10-19T11:06:51Z,ufo-tech/mcp-bundle,1.0.0,Alex Maistrenko,Expose UFO JSON-RPC services as MCP tools for AI agents.
+2026-10-19T11:17:30Z,stefanak-michal/grafeo-php,v0.5.44-p1,Michal Stefanak,FFI implementation to run Grafeo embedded in PHP
+2026-10-19T11:20:43Z,tencentcloud/workbuddyenterprise,3.0.1683,tencentcloudapi,TencentCloudApi php sdk workbuddyenterprise
