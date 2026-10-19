@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-19T07:32:06Z,sgoranov/oauth2-openid-connect-server,1.0.2,Goranov; Steve Rhoades,An OpenID Connect Server built on The PHP League's OAuth2 Server
+2026-10-19T07:36:21Z,hideinmatrix/flarum-telegram-upload,v0.1.0,HideInMatrix,Telegram attachment storage for Flarum 2.x through FoF Upload and tg-disk.
+2026-10-19T07:37:04Z,guavas/guavas,v0.1.0,,Kerangka proyek aplikasi Guavas
+2026-10-19T07:38:46Z,programmernomad/laracorekit,v0.1.0,ProgrammerNomad,"Modular Laravel application foundation with Filament administration, authentication, roles, settings, blog and media."
+2026-10-19T07:48:51Z,amarenkov/laravel-mutable-content-ai,v0.1.0,Alexey Marenkov,AI agents for laravel-mutable-content apps: long-term memory and a run journal with conversation history for laravel/ai agents.
+2026-10-19T07:49:00Z,darvis/bullhorn-api,v1.1.0,Arvid de Jong,"PHP client for the Bullhorn REST API (staffing and recruitment CRM): OAuth login, a shared session that survives concurrent requests, entity, search and file helpers, and a Laravel integration with facade, encrypted session cache and Http::fake() support."
+2026-10-19T08:12:52Z,wexample/symfony-analytics,1.0.1,,
+2026-10-19T08:13:53Z,wexample/symfony-analytics-ds,1.0.1,,
