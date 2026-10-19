@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-19T13:24:53Z,fruitcake/phpunit-tia-laravel,v0.1.0,Barry vd. Heuvel,Laravel integration for phpunit-tia: links tests to the views they render and the migrations of the tables they query
+2026-10-19T13:37:21Z,njdigitallab/laranonce,v1.0.0,Jenry Ollivierre,A nounce generator for Laravel applications.
+2026-10-19T13:39:33Z,siberfx/chat-hybrid-ai,v2.0.0,Siberfx,"API-first hybrid chat for Laravel: chat bubble, admin inbox, AI agents (Laravel AI SDK) that can search and check your data, human handoff, email transcripts, React and Vue widgets."
+2026-10-19T13:46:08Z,lzk/laravel-duplicate-detector,v0.1.0,,"Configurable, explainable read-only exact and fuzzy duplicate detection for Laravel Eloquent."
+2026-10-19T13:56:04Z,salimi-my/admin-dashboard-template,v1.0.0,,"A Laravel and Inertia React admin dashboard starter kit with a floating sidebar layout, users datatable, settings, and authentication."
+2026-10-19T14:03:01Z,scottoffen/wp-github-updater,v1.0.0,Scott Offen,Update WordPress plugins and themes from GitHub releases using both public and private repositories.
