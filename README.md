@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 02:22 UTC
+## Latest list — 2026-10-19 03:19 UTC
 
-New packages created between 2026-10-19 01:22 UTC and 2026-10-19 02:22 UTC.
+New packages created between 2026-10-19 02:22 UTC and 2026-10-19 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-19T02-22-33-185946Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-19T03-19-11-610771Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-19 01:52:56 | [pieceofcake2/security-headers](https://www.nuget.org/packages/pieceofcake2%2Fsecurity-headers) | v1.0.0 |  | CakePHP 2 plugin that adds the security headers to every response of an applica… |
-| 2026-10-19 02:07:30 | [lesterkaufungen/suggestedtests](https://www.nuget.org/packages/lesterkaufungen%2Fsuggestedtests) | v0.1.0 | Lester K. | PHPUnit helpers for PHP 7.4+: performance and memory budgets backed by a native… |
+| 2026-10-19 03:13:28 | [ramon/canela](https://www.nuget.org/packages/ramon%2Fcanela) | v0.0.1 | Ramon Guilherme | An unofficial theme for Flarum 2 inspired by Discourse Horizon, not affiliated… |
 
 ## Data source
 
