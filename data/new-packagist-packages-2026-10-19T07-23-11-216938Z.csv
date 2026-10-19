@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-19T06:25:44Z,vortech/laravel-localize,v0.1.0,Mate Papp,"Typed, per-model translation tables for Eloquent: a locale view with exact fallback rules, transactional bulk saves and a unique validation rule."
+2026-10-19T06:34:19Z,wpzinc/airwallex-php,0.1.0,WP Zinc,Unofficial PHP SDK for the Airwallex API
+2026-10-19T06:39:37Z,paramsoftware/laravel-rbac,v1.0.0,Param Software,"An independent, enterprise-grade Role-Based Access Control (RBAC) and Dynamic Authentication Settings package for Laravel with dynamic module-operation matrix management and multi-factor security controls."
+2026-10-19T07:07:24Z,jmoati/image-exiftool,13.59,Phil Harvey; Jacques Moati,Pure PHP port of Phil Harvey's ExifTool (Image::ExifTool) — read metadata without Perl
