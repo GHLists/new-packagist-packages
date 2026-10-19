@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-19T12:27:35Z,weldist/laravel-passport-client-scopes,v1.0.0,X-Adam,Per-client default scopes and RFC 6750 bearer challenges for Laravel Passport client credentials tokens.
+2026-10-19T12:32:41Z,frozenplain/flarum-ext-connect,v1.0.0,,Optional sign-in to the FrozenPlain forum with a frozenplain.com account.
+2026-10-19T12:37:34Z,contenir/extension-api,v0.1.0,,"The add-on API for Contenir CMS: the contracts add-ons build against, the event catalogue, a conformance suite for hosts and an in-memory host. Framework free: PSR-3, PSR-7, PSR-11, PSR-14 and PSR-20 only."
+2026-10-19T12:45:59Z,neckarpixel/contao-nptabs-bundle,1.0.0,Neckarpixel,"Barrierefreie, responsive Tabs (WAI-ARIA APG, WCAG 2.2 AA) als verschachteltes Inhaltselement für Contao 5.7"
+2026-10-19T12:54:05Z,contenir/queue,v0.1.0,,"Durable jobs, retries and schedules for Contenir CMS, with a cron-friendly worker. Framework free: PSR-11, PSR-3 and PSR-20, stored with php-db on MySQL or SQLite."
+2026-10-19T13:00:21Z,yorvolabs/canary,v1.0.0,Darko Poposki,"Secure, auditable HTTP endpoints for health monitoring, cache management, and deployment automation in Symfony-based applications."
+2026-10-19T13:00:25Z,yorvolabs/canary-bridge-shopware,1.0.0,Darko Poposki,"Shopware 6.6+ plugin bridge for yorvolabs/canary — secure health, cache, and deployment endpoints."
+2026-10-19T13:07:47Z,elife/patterns,v1.0.0-beta,,eLife patterns
+2026-10-19T13:18:06Z,laraarabdev/laravel-turbo-tags,v0.1.0,LaraArabDev,A high-performance polymorphic tagging system with translation support for Laravel

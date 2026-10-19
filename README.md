@@ -15,19 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 12:20 UTC
+## Latest list — 2026-10-19 13:20 UTC
 
-New packages created between 2026-10-19 11:22 UTC and 2026-10-19 12:20 UTC.
+New packages created between 2026-10-19 12:20 UTC and 2026-10-19 13:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-19T12-20-21-001597Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-19T13-20-08-754488Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-19 11:22:39 | [dmitriy-zhukov/otus-composer-package](https://www.nuget.org/packages/dmitriy-zhukov%2Fotus-composer-package) | 1.0.0 | Дмитрий Жуков | test package |
-| 2026-10-19 11:25:21 | [emitwave/php](https://www.nuget.org/packages/emitwave%2Fphp) | v0.1.0 | EmitWave | EmitWave server publish SDK (framework-free). |
-| 2026-10-19 11:28:10 | [emitwave/laravel](https://www.nuget.org/packages/emitwave%2Flaravel) | v0.1.0 | EmitWave | EmitWave broadcasting driver for Laravel. |
-| 2026-10-19 11:30:49 | [wapplersystems/t3-pricing](https://www.nuget.org/packages/wapplersystems%2Ft3-pricing) | 0.2.0 | Sven Wappler | Pricing tables for TYPO3 — plan cards, comparison table and compact rows from o… |
-| 2026-10-19 11:35:52 | [petecoop/protec](https://www.nuget.org/packages/petecoop%2Fprotec) | 0.1.0 | Pete Cooper | Extensible suspicious activity detection and temporary IP blocks for Laravel an… |
+| 2026-10-19 12:27:35 | [weldist/laravel-passport-client-scopes](https://www.nuget.org/packages/weldist%2Flaravel-passport-client-scopes) | v1.0.0 | X-Adam | Per-client default scopes and RFC 6750 bearer challenges for Laravel Passport c… |
+| 2026-10-19 12:32:41 | [frozenplain/flarum-ext-connect](https://www.nuget.org/packages/frozenplain%2Fflarum-ext-connect) | v1.0.0 |  | Optional sign-in to the FrozenPlain forum with a frozenplain.com account. |
+| 2026-10-19 12:37:34 | [contenir/extension-api](https://www.nuget.org/packages/contenir%2Fextension-api) | v0.1.0 |  | The add-on API for Contenir CMS: the contracts add-ons build against, the event… |
+| 2026-10-19 12:45:59 | [neckarpixel/contao-nptabs-bundle](https://www.nuget.org/packages/neckarpixel%2Fcontao-nptabs-bundle) | 1.0.0 | Neckarpixel | Barrierefreie, responsive Tabs (WAI-ARIA APG, WCAG 2.2 AA) als verschachteltes… |
+| 2026-10-19 12:54:05 | [contenir/queue](https://www.nuget.org/packages/contenir%2Fqueue) | v0.1.0 |  | Durable jobs, retries and schedules for Contenir CMS, with a cron-friendly work… |
+| 2026-10-19 13:00:21 | [yorvolabs/canary](https://www.nuget.org/packages/yorvolabs%2Fcanary) | v1.0.0 | Darko Poposki | Secure, auditable HTTP endpoints for health monitoring, cache management, and d… |
+| 2026-10-19 13:00:25 | [yorvolabs/canary-bridge-shopware](https://www.nuget.org/packages/yorvolabs%2Fcanary-bridge-shopware) | 1.0.0 | Darko Poposki | Shopware 6.6+ plugin bridge for yorvolabs/canary — secure health, cache, and de… |
+| 2026-10-19 13:07:47 | [elife/patterns](https://www.nuget.org/packages/elife%2Fpatterns) | v1.0.0-beta |  | eLife patterns |
+| 2026-10-19 13:18:06 | [laraarabdev/laravel-turbo-tags](https://www.nuget.org/packages/laraarabdev%2Flaravel-turbo-tags) | v0.1.0 | LaraArabDev | A high-performance polymorphic tagging system with translation support for Lara… |
 
 ## Data source
 
