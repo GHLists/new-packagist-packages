@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-19T16:19:51Z,gsu-cetloe/d2l-datahub-schema,v1,,
+2026-10-19T16:31:09Z,garis-kode/adaptivecard-php,v1.0.0,Garis Kode,Fluent PHP builder that programmatically constructs Adaptive Card (v1.6) JSON and validates it against the official schema.
+2026-10-19T16:32:15Z,lpostingher/monitor-agent,v0.1.0,Lucas da Silva Postingher,"Reports exceptions, logs and queued jobs from Laravel apps to a self-hosted Monitor panel."
+2026-10-19T16:37:39Z,goletter/hyperf-adv-akm,v1.0.0,goletter,蓝瀚媒体代理业务 OpenAPI。由 goletter/hyperf-adv 拉取，并使用其工厂、Bundle、Token 轮询与异常。
+2026-10-19T16:51:15Z,urbanstudio/empedia-captcha,v1.0.2,urbanstudio GmbH,"SDK für EMPEDIAcaptcha: Bot-Prüfung (siteverify), Inhaltsprüfung (check) und Widget-Helfer. Ohne Abhängigkeiten."
+2026-10-19T17:03:17Z,bear/csrf,0.1.0,Akihito Koriyama,CSRF protection for BEAR.Sunday
+2026-10-19T17:04:30Z,codefactor/codefactor,v0.1.2,,"Codefactor CLI for Composer projects, with an optional PHP API"
+2026-10-19T17:12:57Z,urbanstudio/empedia-captcha-shopware,1.0.2,,EMPEDIAcaptcha für Shopware 6: Bot-Prüfung ohne Cookies in den Storefront-Formularen.
+2026-10-19T17:12:57Z,urbanstudio/empedia-captcha-typo3,v1.0.2,,"EMPEDIAcaptcha für TYPO3: Bot-Prüfung ohne Cookies (ViewHelper, Prüfdienst, Seitenschutz-Schalter)."
+2026-10-19T17:13:44Z,tey/starter,v0.2.0,,Tenant-aware Laravel starter built for the Tey Labs fleet.
