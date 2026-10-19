@@ -15,15 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 03:19 UTC
+## Latest list — 2026-10-19 04:19 UTC
 
-New packages created between 2026-10-19 02:22 UTC and 2026-10-19 03:19 UTC.
+New packages created between 2026-10-19 03:19 UTC and 2026-10-19 04:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-19T03-19-11-610771Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-19T04-19-40-859497Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-19 03:13:28 | [ramon/canela](https://www.nuget.org/packages/ramon%2Fcanela) | v0.0.1 | Ramon Guilherme | An unofficial theme for Flarum 2 inspired by Discourse Horizon, not affiliated… |
+| 2026-10-19 03:50:18 | [catzconnect/catzconnect-php](https://www.nuget.org/packages/catzconnect%2Fcatzconnect-php) | v1.5.0 | Catalizo | Official PHP SDK for Catz Connect: send email, WhatsApp, push, SMS and voice me… |
+| 2026-10-19 04:08:18 | [krazybean/untangled](https://www.nuget.org/packages/krazybean%2Funtangled) | v1.0.0 | Juan Castro | Dependency health your whole team can understand: cycles and coupling in PHP pr… |
+| 2026-10-19 04:08:39 | [t11n-dev/flarum-migration-tool](https://www.nuget.org/packages/t11n-dev%2Fflarum-migration-tool) | v2.5.1 | T11N | Complete migration tool with admin UI for easy Flarum server transfer. Backup,… |
+| 2026-10-19 04:15:25 | [itmosoft/laravel-audit-log](https://www.nuget.org/packages/itmosoft%2Flaravel-audit-log) | v1.0.0 |  | Auditing for Eloquent models, business events, and Laravel queue lifecycle even… |
 
 ## Data source
 
