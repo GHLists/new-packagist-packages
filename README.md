@@ -15,26 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 20:22 UTC
+## Latest list — 2026-10-19 21:21 UTC
 
-New packages created between 2026-10-19 19:20 UTC and 2026-10-19 20:22 UTC.
+New packages created between 2026-10-19 20:22 UTC and 2026-10-19 21:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-19T20-22-12-054642Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-19T21-21-59-521497Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-19 19:22:10 | [moderndesktop/oauth-forgejo](https://www.nuget.org/packages/moderndesktop%2Foauth-forgejo) | v1.0.1 | Joshua Strobl | Log in to Flarum with one or more Forgejo instances, using FoF OAuth. |
-| 2026-10-19 19:26:49 | [gosuccess/wordpress-org-api](https://www.nuget.org/packages/gosuccess%2Fwordpress-org-api) | 0.1.0 | GoSuccess GmbH | A modern, strongly-typed, dependency-free PHP client for the public wordpress.o… |
-| 2026-10-19 19:27:23 | [yii2-extensions/skill](https://www.nuget.org/packages/yii2-extensions%2Fskill) | 0.1.0 | Wilmer Arambula | Agent skills for Yii 22 applications, framework subsystems, and Yii 2.0 upgrade… |
-| 2026-10-19 19:34:09 | [automattic/jetpack-knowledge](https://www.nuget.org/packages/automattic%2Fjetpack-knowledge) | v0.1.0 |  | Knowledge runtime polyfill. |
-| 2026-10-19 19:37:18 | [seviaflow/api](https://www.nuget.org/packages/seviaflow%2Fapi) | v0.1.0-beta.1 |  | SeviaFlow headless REST and OpenAPI adapter. |
-| 2026-10-19 19:37:21 | [seviaflow/ui](https://www.nuget.org/packages/seviaflow%2Fui) | v0.1.0-beta.1 |  | SeviaFlow operator UI adapter for Laravel and Livewire. |
-| 2026-10-19 19:37:25 | [seviaflow/devtools](https://www.nuget.org/packages/seviaflow%2Fdevtools) | v0.1.0-beta.1 |  | SeviaFlow discovery, generation and diagnostics tooling. |
-| 2026-10-19 19:43:31 | [fixstacks/module-zero-product-attachments](https://www.nuget.org/packages/fixstacks%2Fmodule-zero-product-attachments) | 1.3.0 | Roman Pasichnyk | Zero for Magento Open Source: files on product pages (manuals, data sheets, cer… |
-| 2026-10-19 19:43:31 | [fixstacks/module-zero-unit-price](https://www.nuget.org/packages/fixstacks%2Fmodule-zero-unit-price) | 1.3.0 | Roman Pasichnyk | Zero for Magento Open Source: the price per kilogram, litre, metre or piece und… |
-| 2026-10-19 20:06:05 | [laravel-ops/connector](https://www.nuget.org/packages/laravel-ops%2Fconnector) | v1.0.0 | Olusegun, OP Virtual Technolo… | Lightweight connector for Laravel applications to connect to Laravel Ops |
-| 2026-10-19 20:09:13 | [ffmpeg-micro/ffmpeg-micro-php](https://www.nuget.org/packages/ffmpeg-micro%2Fffmpeg-micro-php) | v0.1.0 | FFmpeg Micro | Official PHP client for the FFmpeg Micro API: video transcoding, transcription… |
-| 2026-10-19 20:11:59 | [fatlum/nativephp-barcode-reader](https://www.nuget.org/packages/fatlum%2Fnativephp-barcode-reader) | 0.0.1 | Fatlum Gjinofci | Free QR code and barcode reading from image files for NativePHP Mobile v4: Appl… |
+| 2026-10-19 20:47:02 | [talovicnedim/berthq-client](https://www.nuget.org/packages/talovicnedim%2Fberthq-client) | v0.1.1 | Nedim Talovic | PHP client and Laravel queue driver for Berthq, a single-binary message broker |
+| 2026-10-19 20:51:54 | [etfusion/vari-php-sdk](https://www.nuget.org/packages/etfusion%2Fvari-php-sdk) | v1.0.0 |  | PHP SDK for the V-ARI Stable API (mutual TLS): identity, certificate rotation,… |
+| 2026-10-19 21:10:00 | [chakchakman/flarum-interactive-maps](https://www.nuget.org/packages/chakchakman%2Fflarum-interactive-maps) | v0.1.0-beta.1 | Chakchakman | Interactive tabletop maps and controlled character tokens for Flarum |
 
 ## Data source
 

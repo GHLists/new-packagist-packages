@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-19T20:47:02Z,talovicnedim/berthq-client,v0.1.1,Nedim Talovic,"PHP client and Laravel queue driver for Berthq, a single-binary message broker"
+2026-10-19T20:51:54Z,etfusion/vari-php-sdk,v1.0.0,,"PHP SDK for the V-ARI Stable API (mutual TLS): identity, certificate rotation, stream metrics and custom lists."
+2026-10-19T21:10:00Z,chakchakman/flarum-interactive-maps,v0.1.0-beta.1,Chakchakman,Interactive tabletop maps and controlled character tokens for Flarum
