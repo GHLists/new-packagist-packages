@@ -15,19 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 15:21 UTC
+## Latest list — 2026-10-19 16:19 UTC
 
-New packages created between 2026-10-19 14:22 UTC and 2026-10-19 15:21 UTC.
+New packages created between 2026-10-19 15:21 UTC and 2026-10-19 16:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-19T15-21-53-51444Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-19T16-19-29-853128Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-19 14:23:38 | [phasync/ext-phasync](https://www.nuget.org/packages/phasync%2Fext-phasync) | 2.0.0 | Frode Børli | PHP extension that makes blocking I/O (PDO, mysqli, curl, streams, sleep) wait… |
-| 2026-10-19 14:35:33 | [quietlink/bot-sdk](https://www.nuget.org/packages/quietlink%2Fbot-sdk) | v0.1.0 |  | QuietLink Bot API SDK for PHP with dual crypto modes |
-| 2026-10-19 14:38:37 | [j87nl/laravel-cms](https://www.nuget.org/packages/j87nl%2Flaravel-cms) | v0.1.0 | Johan Montenij | Block-based CMS core for Laravel: pages, blocks and server-side public renderin… |
-| 2026-10-19 14:38:41 | [j87nl/laravel-vue-cms](https://www.nuget.org/packages/j87nl%2Flaravel-vue-cms) | v0.1.0 | Johan Montenij | Vue and Inertia admin for j87nl/laravel-cms. |
-| 2026-10-19 14:54:04 | [kerns/dummy](https://www.nuget.org/packages/kerns%2Fdummy) | v2.0.0 | David Kerns | A content generation toolkit for rapid web prototyping and QA |
+| 2026-10-19 15:36:02 | [gsu-cetloe/cetloelib-php](https://www.nuget.org/packages/gsu-cetloe%2Fcetloelib-php) | v1 |  | Shared PHP library for CETLOE applications: DI container, console, HTTP client,… |
+| 2026-10-19 15:47:23 | [shire-studio/laravel-starter-kit-react](https://www.nuget.org/packages/shire-studio%2Flaravel-starter-kit-react) | v1.0.0 |  | An end-to-end type-safe Laravel 13 starter kit with auto-generated TypeScript t… |
+| 2026-10-19 15:49:21 | [shire-studio/laravel-starter-kit-api](https://www.nuget.org/packages/shire-studio%2Flaravel-starter-kit-api) | v1.0.0 |  | A strict, fully tested Laravel 13 API starter kit with Sanctum token authentica… |
+| 2026-10-19 15:52:13 | [shire-studio/laravel-starter-kit-livewire](https://www.nuget.org/packages/shire-studio%2Flaravel-starter-kit-livewire) | v1.0.0 |  | A strict, fully tested Laravel 13 starter kit with Livewire 4 and Flux componen… |
+| 2026-10-19 15:55:46 | [shire-studio/laravel-starter-kit-blade](https://www.nuget.org/packages/shire-studio%2Flaravel-starter-kit-blade) | v1.0.0 |  | A strict, fully tested Laravel 13 starter kit with Blade views and Tailwind CSS |
+| 2026-10-19 15:57:10 | [shire-studio/laravel-starter-kit-svelte](https://www.nuget.org/packages/shire-studio%2Flaravel-starter-kit-svelte) | v1.0.0 |  | An end-to-end type-safe Laravel 13 starter kit with auto-generated TypeScript t… |
+| 2026-10-19 15:59:18 | [weft/ide-helper](https://www.nuget.org/packages/weft%2Fide-helper) | v0.1.0 |  | IDE stubs for the weft PHP extension: autocomplete and static analysis only, ne… |
+| 2026-10-19 16:11:35 | [goletter/hyperf-adv-facebook](https://www.nuget.org/packages/goletter%2Fhyperf-adv-facebook) | v1.0.0 | goletter | Facebook Marketing API。由 goletter/hyperf-adv 拉取，并使用其工厂、Bundle、Token 轮询与异常。 |
+| 2026-10-19 16:13:06 | [goletter/hyperf-adv-tiktok](https://www.nuget.org/packages/goletter%2Fhyperf-adv-tiktok) | v1.0.0 | goletter | TikTok Business API。由 goletter/hyperf-adv 拉取，并使用其工厂、Bundle、Token 轮询与异常。 |
+| 2026-10-19 16:14:25 | [goletter/hyperf-adv-google](https://www.nuget.org/packages/goletter%2Fhyperf-adv-google) | v1.0.0 | goletter | Google Ads API。由 goletter/hyperf-adv 拉取，并使用其工厂、Bundle、Token 轮询与异常。 |
 
 ## Data source
 

@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-19T15:36:02Z,gsu-cetloe/cetloelib-php,v1,,"Shared PHP library for CETLOE applications: DI container, console, HTTP client, logging, and utilities."
+2026-10-19T15:47:23Z,shire-studio/laravel-starter-kit-react,v1.0.0,,"An end-to-end type-safe Laravel 13 starter kit with auto-generated TypeScript types, React 19, and shadcn/ui components for fast front-end prototyping"
+2026-10-19T15:49:21Z,shire-studio/laravel-starter-kit-api,v1.0.0,,"A strict, fully tested Laravel 13 API starter kit with Sanctum token authentication and JSON resources"
+2026-10-19T15:52:13Z,shire-studio/laravel-starter-kit-livewire,v1.0.0,,"A strict, fully tested Laravel 13 starter kit with Livewire 4 and Flux components"
+2026-10-19T15:55:46Z,shire-studio/laravel-starter-kit-blade,v1.0.0,,"A strict, fully tested Laravel 13 starter kit with Blade views and Tailwind CSS"
+2026-10-19T15:57:10Z,shire-studio/laravel-starter-kit-svelte,v1.0.0,,"An end-to-end type-safe Laravel 13 starter kit with auto-generated TypeScript types, Svelte 5, and shadcn-svelte components for fast front-end prototyping"
+2026-10-19T15:59:18Z,weft/ide-helper,v0.1.0,,"IDE stubs for the weft PHP extension: autocomplete and static analysis only, never executed"
+2026-10-19T16:11:35Z,goletter/hyperf-adv-facebook,v1.0.0,goletter,Facebook Marketing API。由 goletter/hyperf-adv 拉取，并使用其工厂、Bundle、Token 轮询与异常。
+2026-10-19T16:13:06Z,goletter/hyperf-adv-tiktok,v1.0.0,goletter,TikTok Business API。由 goletter/hyperf-adv 拉取，并使用其工厂、Bundle、Token 轮询与异常。
+2026-10-19T16:14:25Z,goletter/hyperf-adv-google,v1.0.0,goletter,Google Ads API。由 goletter/hyperf-adv 拉取，并使用其工厂、Bundle、Token 轮询与异常。
