@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-19T11:22:39Z,dmitriy-zhukov/otus-composer-package,1.0.0,Дмитрий Жуков,test package
+2026-10-19T11:25:21Z,emitwave/php,v0.1.0,EmitWave,EmitWave server publish SDK (framework-free).
+2026-10-19T11:28:10Z,emitwave/laravel,v0.1.0,EmitWave,EmitWave broadcasting driver for Laravel.
+2026-10-19T11:30:49Z,wapplersystems/t3-pricing,0.2.0,Sven Wappler,"Pricing tables for TYPO3 — plan cards, comparison table and compact rows from one data model. Any features in groups, prices per currency, net or gross, highlighted plan and optional select link."
+2026-10-19T11:35:52Z,petecoop/protec,0.1.0,Pete Cooper,Extensible suspicious activity detection and temporary IP blocks for Laravel and Livewire.
