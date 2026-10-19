@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-19T04:20:36Z,billsensei/moodle-tiny_fontsizecolor,v1.2.4,,"TinyMCE plugin for Moodle that adds font size and font colour buttons and menu items, with admin-configurable lists."
+2026-10-19T04:39:57Z,matheushack/laravel-modules,1.0.0,Matheus Hack,Gerador e carregador de módulos para Laravel.
