@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-10-19T19:22:10Z,moderndesktop/oauth-forgejo,v1.0.1,Joshua Strobl,"Log in to Flarum with one or more Forgejo instances, using FoF OAuth."
+2026-10-19T19:26:49Z,gosuccess/wordpress-org-api,0.1.0,GoSuccess GmbH,"A modern, strongly-typed, dependency-free PHP client for the public wordpress.org API."
+2026-10-19T19:27:23Z,yii2-extensions/skill,0.1.0,Wilmer Arambula,"Agent skills for Yii 22 applications, framework subsystems, and Yii 2.0 upgrades."
+2026-10-19T19:34:09Z,automattic/jetpack-knowledge,v0.1.0,,Knowledge runtime polyfill.
+2026-10-19T19:37:18Z,seviaflow/api,v0.1.0-beta.1,,SeviaFlow headless REST and OpenAPI adapter.
+2026-10-19T19:37:21Z,seviaflow/ui,v0.1.0-beta.1,,SeviaFlow operator UI adapter for Laravel and Livewire.
+2026-10-19T19:37:25Z,seviaflow/devtools,v0.1.0-beta.1,,"SeviaFlow discovery, generation and diagnostics tooling."
+2026-10-19T19:43:31Z,fixstacks/module-zero-product-attachments,1.3.0,Roman Pasichnyk,"Zero for Magento Open Source: files on product pages (manuals, data sheets, certificates): attached by SKU in the admin, a Downloads section with kind and size."
+2026-10-19T19:43:31Z,fixstacks/module-zero-unit-price,1.3.0,Roman Pasichnyk,"Zero for Magento Open Source: the price per kilogram, litre, metre or piece under every price, as EU price indication rules ask (per 100 g / 100 ml for small packs)."
+2026-10-19T20:06:05Z,laravel-ops/connector,v1.0.0,"Olusegun, OP Virtual Technology Systems Ltd",Lightweight connector for Laravel applications to connect to Laravel Ops
+2026-10-19T20:09:13Z,ffmpeg-micro/ffmpeg-micro-php,v0.1.0,FFmpeg Micro,"Official PHP client for the FFmpeg Micro API: video transcoding, transcription and FFmpeg in the cloud."
+2026-10-19T20:11:59Z,fatlum/nativephp-barcode-reader,0.0.1,Fatlum Gjinofci,"Free QR code and barcode reading from image files for NativePHP Mobile v4: Apple Vision on iOS, ML Kit on Android. Works where PHP QR libraries cannot, because the PHP runtime on the phone has no GD or Imagick."
