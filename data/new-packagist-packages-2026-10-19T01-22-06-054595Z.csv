@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-19T00:33:15Z,mmhospedagem/mvo-messenger-php,v0.1.1,MVO,"Cliente experimental PHP para o protocolo Web do Facebook Messenger, separado do SDK WhatsApp."
+2026-10-19T00:34:27Z,mmhospedagem/mvo-facebook-php,v0.1.0,MVO,"Módulos experimentais PHP para Páginas, conteúdo e negócios no Facebook Web."
+2026-10-19T00:43:56Z,woyra/woyra-php,v0.1.0,MINAC GROUP LLC,Official PHP SDK for the Woyra email API.
+2026-10-19T01:10:35Z,texa/texa-php,v1.0.0,,PHP SDK for the Texa API: Texa AI in your own app

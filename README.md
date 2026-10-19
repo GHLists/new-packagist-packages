@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 00:19 UTC
+## Latest list — 2026-10-19 01:22 UTC
 
-New packages created between 2026-10-18 23:20 UTC and 2026-10-19 00:19 UTC.
+New packages created between 2026-10-19 00:19 UTC and 2026-10-19 01:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-19T00-19-39-462277Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-19T01-22-06-054595Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 23:28:20 | [usamamuneerchaudhary/billboard](https://www.nuget.org/packages/usamamuneerchaudhary%2Fbillboard) | 1.0 | Usama Muneer | Ad management for Statamic: placements, weighted rotation, scheduling, targetin… |
-| 2026-10-18 23:41:44 | [silassena/full-pay](https://www.nuget.org/packages/silassena%2Ffull-pay) | v1.0.1 | Silas Sena | integration with payment portals |
-| 2026-10-18 23:57:59 | [wilycode/migration](https://www.nuget.org/packages/wilycode%2Fmigration) | v0.1.0 | Simon Piter | Small, driver-independent PHP database migration runner with CLI, version track… |
-| 2026-10-19 00:01:09 | [zerodev/kora](https://www.nuget.org/packages/zerodev%2Fkora) | v3.1.1 |  | Official PHP SDK for Kora licensing |
-| 2026-10-19 00:02:57 | [djouamaah/laravel-algeria](https://www.nuget.org/packages/djouamaah%2Flaravel-algeria) | v1.1.0 | Djouamaa | All Algerian wilayas, dairas, communes and postal codes (69 wilayas / 1541 comm… |
+| 2026-10-19 00:33:15 | [mmhospedagem/mvo-messenger-php](https://www.nuget.org/packages/mmhospedagem%2Fmvo-messenger-php) | v0.1.1 | MVO | Cliente experimental PHP para o protocolo Web do Facebook Messenger, separado d… |
+| 2026-10-19 00:34:27 | [mmhospedagem/mvo-facebook-php](https://www.nuget.org/packages/mmhospedagem%2Fmvo-facebook-php) | v0.1.0 | MVO | Módulos experimentais PHP para Páginas, conteúdo e negócios no Facebook Web. |
+| 2026-10-19 00:43:56 | [woyra/woyra-php](https://www.nuget.org/packages/woyra%2Fwoyra-php) | v0.1.0 | MINAC GROUP LLC | Official PHP SDK for the Woyra email API. |
+| 2026-10-19 01:10:35 | [texa/texa-php](https://www.nuget.org/packages/texa%2Ftexa-php) | v1.0.0 |  | PHP SDK for the Texa API: Texa AI in your own app |
 
 ## Data source
 
