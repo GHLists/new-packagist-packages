@@ -15,15 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 22:19 UTC
+## Latest list — 2026-10-19 23:22 UTC
 
-New packages created between 2026-10-19 21:21 UTC and 2026-10-19 22:19 UTC.
+New packages created between 2026-10-19 22:19 UTC and 2026-10-19 23:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-19T22-19-43-758429Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-19T23-22-56-205394Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-19 21:58:51 | [phasync/doctor](https://www.nuget.org/packages/phasync%2Fdoctor) | 0.1.0 | Frode Børli | Static scanner that reports process-global state patterns which misbehave when… |
+| 2026-10-19 22:21:21 | [openthc/api](https://www.nuget.org/packages/openthc%2Fapi) | 420.26.292 |  | OpenTHC API |
+| 2026-10-19 22:30:16 | [afurgeri/laravel-short-links](https://www.nuget.org/packages/afurgeri%2Flaravel-short-links) | v0.1.1 |  | Trackable short links for Laravel with SQL and MongoDB storage. |
+| 2026-10-19 23:00:38 | [tryhackx/flarum-cover-studio](https://www.nuget.org/packages/tryhackx%2Fflarum-cover-studio) | v2.3.0 | TryHackX | Profile covers with repositionable focal point (pos-crop), fully integrated wit… |
+| 2026-10-19 23:08:37 | [tryhackx/flarum-advanced-pages](https://www.nuget.org/packages/tryhackx%2Fflarum-advanced-pages) | 2.4.0 | TryHackX | Create advanced custom pages with HTML, BBCode, Markdown, PHP, or plain text, f… |
 
 ## Data source
 

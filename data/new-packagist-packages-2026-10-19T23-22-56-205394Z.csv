@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-19T22:21:21Z,openthc/api,420.26.292,,OpenTHC API
+2026-10-19T22:30:16Z,afurgeri/laravel-short-links,v0.1.1,,Trackable short links for Laravel with SQL and MongoDB storage.
+2026-10-19T23:00:38Z,tryhackx/flarum-cover-studio,v2.3.0,TryHackX,"Profile covers with repositionable focal point (pos-crop), fully integrated with FoF Upload media manager. Optional avatar focal-point editing."
+2026-10-19T23:08:37Z,tryhackx/flarum-advanced-pages,2.4.0,TryHackX,"Create advanced custom pages with HTML, BBCode, Markdown, PHP, or plain text, featuring nested hierarchies, breadcrumbs, and granular console-managed permissions for Flarum 2.x."
