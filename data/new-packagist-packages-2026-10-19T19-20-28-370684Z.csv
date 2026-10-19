@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-19T18:31:36Z,egsn/module-featured-product,1.0.0,,Egsn Featured Product module for Magento 2: featured product box on the homepage with real-time salable quantity
+2026-10-19T18:33:51Z,gsu-cetloe/gadget-console-php,v1,Jeb Barger,"Gadget library for Symfony console apps: a logging-aware command base, a shell command runner, and a listener that logs command start, finish, and errors, with a Symfony bundle"
+2026-10-19T18:51:03Z,cleanplugins/scoper,0.1.0,CleanPlugins,Scope Composer dependencies and build a production package tree without collisions.
+2026-10-19T18:54:35Z,gsu-cetloe/gadget-oracle-php,v1,Jeb Barger,"Gadget library for Oracle Database: Symfony console commands that wrap SQL*Plus and SQL*Loader, a Doctrine DBAL OCI8 driver, and a Symfony bundle"
+2026-10-19T18:56:42Z,x-laravel/followable,v1.0.0,Mehmet ÖĞMEN,"Follows for Eloquent models with polymorphic followers, follow requests, mutual follows and cleanup of orphaned follows."
+2026-10-19T19:00:08Z,manuxi/sulu-content-transfer-bundle,1.0.0,,Export and import of Sulu content (articles) between Sulu systems as a single package file.
