@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 14:22 UTC
+## Latest list — 2026-10-19 15:21 UTC
 
-New packages created between 2026-10-19 13:20 UTC and 2026-10-19 14:22 UTC.
+New packages created between 2026-10-19 14:22 UTC and 2026-10-19 15:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-19T14-22-29-05493Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-19T15-21-53-51444Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-19 13:24:53 | [fruitcake/phpunit-tia-laravel](https://www.nuget.org/packages/fruitcake%2Fphpunit-tia-laravel) | v0.1.0 | Barry vd. Heuvel | Laravel integration for phpunit-tia: links tests to the views they render and t… |
-| 2026-10-19 13:37:21 | [njdigitallab/laranonce](https://www.nuget.org/packages/njdigitallab%2Flaranonce) | v1.0.0 | Jenry Ollivierre | A nounce generator for Laravel applications. |
-| 2026-10-19 13:39:33 | [siberfx/chat-hybrid-ai](https://www.nuget.org/packages/siberfx%2Fchat-hybrid-ai) | v2.0.0 | Siberfx | API-first hybrid chat for Laravel: chat bubble, admin inbox, AI agents (Laravel… |
-| 2026-10-19 13:46:08 | [lzk/laravel-duplicate-detector](https://www.nuget.org/packages/lzk%2Flaravel-duplicate-detector) | v0.1.0 |  | Configurable, explainable read-only exact and fuzzy duplicate detection for Lar… |
-| 2026-10-19 13:56:04 | [salimi-my/admin-dashboard-template](https://www.nuget.org/packages/salimi-my%2Fadmin-dashboard-template) | v1.0.0 |  | A Laravel and Inertia React admin dashboard starter kit with a floating sidebar… |
-| 2026-10-19 14:03:01 | [scottoffen/wp-github-updater](https://www.nuget.org/packages/scottoffen%2Fwp-github-updater) | v1.0.0 | Scott Offen | Update WordPress plugins and themes from GitHub releases using both public and… |
+| 2026-10-19 14:23:38 | [phasync/ext-phasync](https://www.nuget.org/packages/phasync%2Fext-phasync) | 2.0.0 | Frode Børli | PHP extension that makes blocking I/O (PDO, mysqli, curl, streams, sleep) wait… |
+| 2026-10-19 14:35:33 | [quietlink/bot-sdk](https://www.nuget.org/packages/quietlink%2Fbot-sdk) | v0.1.0 |  | QuietLink Bot API SDK for PHP with dual crypto modes |
+| 2026-10-19 14:38:37 | [j87nl/laravel-cms](https://www.nuget.org/packages/j87nl%2Flaravel-cms) | v0.1.0 | Johan Montenij | Block-based CMS core for Laravel: pages, blocks and server-side public renderin… |
+| 2026-10-19 14:38:41 | [j87nl/laravel-vue-cms](https://www.nuget.org/packages/j87nl%2Flaravel-vue-cms) | v0.1.0 | Johan Montenij | Vue and Inertia admin for j87nl/laravel-cms. |
+| 2026-10-19 14:54:04 | [kerns/dummy](https://www.nuget.org/packages/kerns%2Fdummy) | v2.0.0 | David Kerns | A content generation toolkit for rapid web prototyping and QA |
 
 ## Data source
 

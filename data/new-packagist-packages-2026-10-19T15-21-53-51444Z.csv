@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-19T14:23:38Z,phasync/ext-phasync,2.0.0,Frode Børli,"PHP extension that makes blocking I/O (PDO, mysqli, curl, streams, sleep) wait cooperatively inside phasync coroutines, with an epoll Poller and per-coroutine requests (sapi())."
+2026-10-19T14:35:33Z,quietlink/bot-sdk,v0.1.0,,QuietLink Bot API SDK for PHP with dual crypto modes
+2026-10-19T14:38:37Z,j87nl/laravel-cms,v0.1.0,Johan Montenij,"Block-based CMS core for Laravel: pages, blocks and server-side public rendering."
+2026-10-19T14:38:41Z,j87nl/laravel-vue-cms,v0.1.0,Johan Montenij,Vue and Inertia admin for j87nl/laravel-cms.
+2026-10-19T14:54:04Z,kerns/dummy,v2.0.0,David Kerns,A content generation toolkit for rapid web prototyping and QA
