@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 01:22 UTC
+## Latest list — 2026-10-19 02:22 UTC
 
-New packages created between 2026-10-19 00:19 UTC and 2026-10-19 01:22 UTC.
+New packages created between 2026-10-19 01:22 UTC and 2026-10-19 02:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-19T01-22-06-054595Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-19T02-22-33-185946Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-19 00:33:15 | [mmhospedagem/mvo-messenger-php](https://www.nuget.org/packages/mmhospedagem%2Fmvo-messenger-php) | v0.1.1 | MVO | Cliente experimental PHP para o protocolo Web do Facebook Messenger, separado d… |
-| 2026-10-19 00:34:27 | [mmhospedagem/mvo-facebook-php](https://www.nuget.org/packages/mmhospedagem%2Fmvo-facebook-php) | v0.1.0 | MVO | Módulos experimentais PHP para Páginas, conteúdo e negócios no Facebook Web. |
-| 2026-10-19 00:43:56 | [woyra/woyra-php](https://www.nuget.org/packages/woyra%2Fwoyra-php) | v0.1.0 | MINAC GROUP LLC | Official PHP SDK for the Woyra email API. |
-| 2026-10-19 01:10:35 | [texa/texa-php](https://www.nuget.org/packages/texa%2Ftexa-php) | v1.0.0 |  | PHP SDK for the Texa API: Texa AI in your own app |
+| 2026-10-19 01:52:56 | [pieceofcake2/security-headers](https://www.nuget.org/packages/pieceofcake2%2Fsecurity-headers) | v1.0.0 |  | CakePHP 2 plugin that adds the security headers to every response of an applica… |
+| 2026-10-19 02:07:30 | [lesterkaufungen/suggestedtests](https://www.nuget.org/packages/lesterkaufungen%2Fsuggestedtests) | v0.1.0 | Lester K. | PHPUnit helpers for PHP 7.4+: performance and memory budgets backed by a native… |
 
 ## Data source
 
