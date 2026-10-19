@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-18T23:28:20Z,usamamuneerchaudhary/billboard,1.0,Usama Muneer,"Ad management for Statamic: placements, weighted rotation, scheduling, targeting and privacy-friendly first-party reporting."
+2026-10-18T23:41:44Z,silassena/full-pay,v1.0.1,Silas Sena,integration with payment portals
+2026-10-18T23:57:59Z,wilycode/migration,v0.1.0,Simon Piter,"Small, driver-independent PHP database migration runner with CLI, version tracking, and rollback."
+2026-10-19T00:01:09Z,zerodev/kora,v3.1.1,,Official PHP SDK for Kora licensing
+2026-10-19T00:02:57Z,djouamaah/laravel-algeria,v1.1.0,Djouamaa,"All Algerian wilayas, dairas, communes and postal codes (69 wilayas / 1541 communes) for Laravel: migrations, seeder, Eloquent models, validation rules and a ready-made API."

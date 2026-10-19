@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 23:20 UTC
+## Latest list — 2026-10-19 00:19 UTC
 
-New packages created between 2026-10-18 22:21 UTC and 2026-10-18 23:20 UTC.
+New packages created between 2026-10-18 23:20 UTC and 2026-10-19 00:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-18T23-20-42-86119Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-19T00-19-39-462277Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-18 22:23:54 | [claviron/laravel](https://www.nuget.org/packages/claviron%2Flaravel) | v0.1.0 |  | Claviron drivers and adapters for Laravel: cache, sessions, database, broadcast… |
-| 2026-10-18 22:23:54 | [claviron/sapi](https://www.nuget.org/packages/claviron%2Fsapi) | v0.1.0 |  | PHP declarations, fail-fast native API fallbacks and a Monolog handler for Clav… |
-| 2026-10-18 22:30:20 | [anun333/oe-module-migration](https://www.nuget.org/packages/anun333%2Foe-module-migration) | v0.1.0 | anun333 | Migration into OpenEMR from other EHRs: reads the FHIR R4 export every certifie… |
-| 2026-10-18 22:33:46 | [itdarkarts/html-table](https://www.nuget.org/packages/itdarkarts%2Fhtml-table) | 1.0.0 | Peter Bailie | Simple API to create tables as HTML. |
-| 2026-10-18 22:42:40 | [ronu/rest-permissions](https://www.nuget.org/packages/ronu%2Frest-permissions) | v1.0.0 | charlietyn | Route-based permissions for ronu/rest-generic-class: route permission catalog,… |
+| 2026-10-18 23:28:20 | [usamamuneerchaudhary/billboard](https://www.nuget.org/packages/usamamuneerchaudhary%2Fbillboard) | 1.0 | Usama Muneer | Ad management for Statamic: placements, weighted rotation, scheduling, targetin… |
+| 2026-10-18 23:41:44 | [silassena/full-pay](https://www.nuget.org/packages/silassena%2Ffull-pay) | v1.0.1 | Silas Sena | integration with payment portals |
+| 2026-10-18 23:57:59 | [wilycode/migration](https://www.nuget.org/packages/wilycode%2Fmigration) | v0.1.0 | Simon Piter | Small, driver-independent PHP database migration runner with CLI, version track… |
+| 2026-10-19 00:01:09 | [zerodev/kora](https://www.nuget.org/packages/zerodev%2Fkora) | v3.1.1 |  | Official PHP SDK for Kora licensing |
+| 2026-10-19 00:02:57 | [djouamaah/laravel-algeria](https://www.nuget.org/packages/djouamaah%2Flaravel-algeria) | v1.1.0 | Djouamaa | All Algerian wilayas, dairas, communes and postal codes (69 wilayas / 1541 comm… |
 
 ## Data source
 
