@@ -1,0 +1,22 @@
+created_at,package,version,author,description
+2026-10-19T05:43:38Z,hamada-emam-tech/esign-adobe,v0.3.0,,"Adobe Acrobat Sign (REST API v6) driver for hamada-emam-tech/esign: agreements, signature fields, webhooks."
+2026-10-19T05:43:38Z,hamada-emam-tech/esign-boldsign,v0.3.0,,"BoldSign driver for hamada-emam-tech/esign: e-signature documents over BoldSign API v1, with signed webhooks."
+2026-10-19T05:43:38Z,hamada-emam-tech/esign-docusign,v0.3.0,,"DocuSign eSignature REST API v2.1 driver for hamada-emam-tech/esign: JWT Grant, envelopes, Connect webhooks with HMAC."
+2026-10-19T05:43:38Z,hamada-emam-tech/esign-dropbox,v0.3.0,,Dropbox Sign (formerly HelloSign) driver for hamada-emam-tech/esign: e-signature requests over the Dropbox Sign API v3.
+2026-10-19T05:43:38Z,hamada-emam-tech/esign-signit,v0.3.0,,"Signit (signit.sa) driver for hamada-emam-tech/esign: Saudi DGA-licensed e-signature with Nafath, and encrypted webhooks."
+2026-10-19T05:43:38Z,hamada-emam-tech/esign-uaepass,v0.3.0,,UAE PASS digital signature driver for hamada-emam-tech/esign: qualified PAdES signatures with the signer's UAE PASS identity.
+2026-10-19T05:43:38Z,hamada-emam-tech/esign-zoho,v0.3.0,,"Zoho Sign driver for hamada-emam-tech/esign: e-signature requests on every Zoho data centre, including Saudi Arabia."
+2026-10-19T05:45:59Z,fixstacks/module-zero-adyen,1.2.0,Roman Pasichnyk,"Zero for Magento Open Source: payment on Adyen's hosted page for Zero Checkout: cards, wallets and every local method switched on in the Adyen account; HMAC-signed webhooks."
+2026-10-19T05:45:59Z,fixstacks/module-zero-bought-together,1.2.0,Roman Pasichnyk,"Zero for Magento Open Source: ""Often bought together"" on the product page, from the orders: picks with checkboxes, a total and one Add to Cart."
+2026-10-19T05:45:59Z,fixstacks/module-zero-free-shipping-bar,1.2.0,Roman Pasichnyk,"Zero for Magento Open Source: ""Add $12.50 more for free shipping"" with a progress bar in the mini-cart, the cart and the checkout summary."
+2026-10-19T05:45:59Z,fixstacks/module-zero-klarna,1.2.0,Roman Pasichnyk,"Zero for Magento Open Source: Klarna on its Hosted Payment Page for Zero Checkout: pay now, pay later or in instalments; authorised at checkout, captured on invoice."
+2026-10-19T05:45:59Z,fixstacks/module-zero-marketing-pixels,1.2.0,Roman Pasichnyk,"Zero for Magento Open Source: Meta, TikTok, Pinterest and Microsoft Clarity from an ID in the admin each, loaded only after consent, fed by the storefront's GA4 e-commerce events."
+2026-10-19T05:45:59Z,fixstacks/module-zero-mega-menu,1.2.0,Roman Pasichnyk,"Zero for Magento Open Source: a mega menu managed in the admin: full-width panels with subcategory columns, extra links and a promo card, plus the menu's own links; CSS only."
+2026-10-19T05:45:59Z,fixstacks/module-zero-mollie,1.2.0,Roman Pasichnyk,"Zero for Magento Open Source: payment on Mollie's page for Zero Checkout: iDEAL, Bancontact, cards, SEPA, Klarna and every method switched on for the order's currency."
+2026-10-19T05:45:59Z,fixstacks/module-zero-product-labels,1.2.0,Roman Pasichnyk,"Zero for Magento Open Source: more product badges next to New and Sale: the product's own (Bestseller, Limited), Only a few left, Free shipping."
+2026-10-19T05:45:59Z,fixstacks/module-zero-quick-view,1.2.0,Roman Pasichnyk,"Zero for Magento Open Source: ""Quick view"" on product cards: the product in a dialog with its photo, price and stock, and Add to Cart for a product with nothing to choose."
+2026-10-19T05:45:59Z,fixstacks/module-zero-redirects,1.2.0,Roman Pasichnyk,"Zero for Magento Open Source: a log of the storefront's 404s, most asked for first, and a 301 redirect for each in one click, with a suggested target from the catalog."
+2026-10-19T05:45:59Z,fixstacks/module-zero-returns,1.2.0,Roman Pasichnyk,"Zero for Magento Open Source: returns (RMA): the customer asks from My Account, the store approves, receives and refunds in Sales > Returns, with messages and emails."
+2026-10-19T05:45:59Z,fixstacks/module-zero-store-pickup,1.2.0,Roman Pasichnyk,"Zero for Magento Open Source: Magento's In-Store Pickup in Zero Checkout, only stores that can take the whole cart, and a store locator page with maps on demand."
+2026-10-19T05:46:40Z,stoneholl/module-order-navigation,v1.0.0,,Offline same-store previous and next order navigation for Magento Admin.
+2026-10-19T05:54:19Z,taldres/laravel-geocode-cache,v0.1.0,Dennis Petersmann,"A geocoding cache for Laravel with retention limits, scheduled deletion and locks against duplicate lookups."
