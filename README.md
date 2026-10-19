@@ -15,23 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 09:21 UTC
+## Latest list — 2026-10-19 10:23 UTC
 
-New packages created between 2026-10-19 08:22 UTC and 2026-10-19 09:21 UTC.
+New packages created between 2026-10-19 09:21 UTC and 2026-10-19 10:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-19T09-21-00-566585Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-19T10-23-04-567841Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-19 08:27:14 | [patelutkarsh/masthead](https://www.nuget.org/packages/patelutkarsh%2Fmasthead) | v1.0.0 |  | Kanban publishing workflows for wp-admin. |
-| 2026-10-19 08:39:23 | [csba92/revx-php](https://www.nuget.org/packages/csba92%2Frevx-php) | v0.1.0 | csba92 | A small, unofficial PHP client for the Revolut X REST API. |
-| 2026-10-19 08:47:45 | [pollora/media](https://www.nuget.org/packages/pollora%2Fmedia) | v0.1.0 | Amphibee | WordPress media on any Flysystem disk: uploads, public URLs, private files, ima… |
-| 2026-10-19 08:48:38 | [elibri/elibri_onix_client](https://www.nuget.org/packages/elibri%2Felibri_onix_client) | 0.10.1 |  | PHP client for the elibri API (ONIX 3.0 book metadata) |
-| 2026-10-19 08:49:52 | [oki-technologies/people-laravel](https://www.nuget.org/packages/oki-technologies%2Fpeople-laravel) | v1.0.0.0 |  | Sign people in with People, verify their tokens and keep their identities curre… |
-| 2026-10-19 08:49:54 | [oki-technologies/people-php](https://www.nuget.org/packages/oki-technologies%2Fpeople-php) | v1.0.0.0 |  | Sign people in with People, verify their tokens and keep their identities curre… |
-| 2026-10-19 08:51:48 | [oki-technologies/laravel-module-test](https://www.nuget.org/packages/oki-technologies%2Flaravel-module-test) | v1.0.0.0 | Solomon Ochepa | Run a nwidart/laravel-modules suite a module at a time, with coverage scoped to… |
-| 2026-10-19 09:00:07 | [weldist/laravel-passport-client-scopes](https://www.nuget.org/packages/weldist%2Flaravel-passport-client-scopes) | v1.0.0 | X-Adam | Per-client default scopes and RFC 6750 insufficient_scope responses for Laravel… |
-| 2026-10-19 09:12:46 | [prasanth/greeting-package](https://www.nuget.org/packages/prasanth%2Fgreeting-package) | v1.0.0 |  | Simple reusable Laravel package |
+| 2026-10-19 09:22:12 | [rkwebforge/bladewell](https://www.nuget.org/packages/rkwebforge%2Fbladewell) | v1.0.0 | Krishnaprasad R | Wrong name: Bladewell is bladewell/bladewell. Install it with composer require… |
+| 2026-10-19 09:33:04 | [wazzapo/wazzapo-php](https://www.nuget.org/packages/wazzapo%2Fwazzapo-php) | v0.1.0 |  | PHP SDK для API Wazzapo v2: WhatsApp Business API, переписки, контакты, сделки,… |
+| 2026-10-19 09:34:50 | [weldist/laravel-passport-client-scopes](https://www.nuget.org/packages/weldist%2Flaravel-passport-client-scopes) | v1.0.0 | X-Adam | Per-client default scopes and RFC 6750 insufficient_scope responses for Laravel… |
+| 2026-10-19 09:44:34 | [xchert/object-schema](https://www.nuget.org/packages/xchert%2Fobject-schema) | v1.0.0 | Dustin Simon | Format-independent schemas for data structures. |
+| 2026-10-19 09:49:04 | [victorio/support](https://www.nuget.org/packages/victorio%2Fsupport) | v0.1.0 |  | Shared helpers for Victorio packages. |
+| 2026-10-19 09:52:46 | [jlqiumu/click-captcha](https://www.nuget.org/packages/jlqiumu%2Fclick-captcha) | 1.0.1 | wood秋木 |  |
+| 2026-10-19 09:52:57 | [vanderlee/comprehend-laravel](https://www.nuget.org/packages/vanderlee%2Fcomprehend-laravel) | 1.0.1 |  | Laravel validation rules for Comprehend grammars |
+| 2026-10-19 10:18:55 | [wuninsu/nativephp-mobile-scanner](https://www.nuget.org/packages/wuninsu%2Fnativephp-mobile-scanner) | v0.1.0 | Fuseini Abdul-Hafiz | QR code and barcode scanning for NativePHP Mobile apps. |
 
 ## Data source
 

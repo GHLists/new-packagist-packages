@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-19T09:22:12Z,rkwebforge/bladewell,v1.0.0,Krishnaprasad R,Wrong name: Bladewell is bladewell/bladewell. Install it with composer require --dev bladewell/bladewell
+2026-10-19T09:33:04Z,wazzapo/wazzapo-php,v0.1.0,,"PHP SDK для API Wazzapo v2: WhatsApp Business API, переписки, контакты, сделки, вебхуки"
+2026-10-19T09:34:50Z,weldist/laravel-passport-client-scopes,v1.0.0,X-Adam,Per-client default scopes and RFC 6750 insufficient_scope responses for Laravel Passport client credentials tokens.
+2026-10-19T09:44:34Z,xchert/object-schema,v1.0.0,Dustin Simon,Format-independent schemas for data structures.
+2026-10-19T09:49:04Z,victorio/support,v0.1.0,,Shared helpers for Victorio packages.
+2026-10-19T09:52:46Z,jlqiumu/click-captcha,1.0.1,wood秋木,
+2026-10-19T09:52:57Z,vanderlee/comprehend-laravel,1.0.1,,Laravel validation rules for Comprehend grammars
+2026-10-19T10:18:55Z,wuninsu/nativephp-mobile-scanner,v0.1.0,Fuseini Abdul-Hafiz,QR code and barcode scanning for NativePHP Mobile apps.
