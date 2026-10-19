@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 21:21 UTC
+## Latest list — 2026-10-19 22:19 UTC
 
-New packages created between 2026-10-19 20:22 UTC and 2026-10-19 21:21 UTC.
+New packages created between 2026-10-19 21:21 UTC and 2026-10-19 22:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-19T21-21-59-521497Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-19T22-19-43-758429Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-19 20:47:02 | [talovicnedim/berthq-client](https://www.nuget.org/packages/talovicnedim%2Fberthq-client) | v0.1.1 | Nedim Talovic | PHP client and Laravel queue driver for Berthq, a single-binary message broker |
-| 2026-10-19 20:51:54 | [etfusion/vari-php-sdk](https://www.nuget.org/packages/etfusion%2Fvari-php-sdk) | v1.0.0 |  | PHP SDK for the V-ARI Stable API (mutual TLS): identity, certificate rotation,… |
-| 2026-10-19 21:10:00 | [chakchakman/flarum-interactive-maps](https://www.nuget.org/packages/chakchakman%2Fflarum-interactive-maps) | v0.1.0-beta.1 | Chakchakman | Interactive tabletop maps and controlled character tokens for Flarum |
+| 2026-10-19 21:58:51 | [phasync/doctor](https://www.nuget.org/packages/phasync%2Fdoctor) | 0.1.0 | Frode Børli | Static scanner that reports process-global state patterns which misbehave when… |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-19T21:58:51Z,phasync/doctor,0.1.0,Frode Børli,Static scanner that reports process-global state patterns which misbehave when several requests overlap in one PHP worker.
