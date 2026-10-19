@@ -15,22 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 08:22 UTC
+## Latest list — 2026-10-19 09:21 UTC
 
-New packages created between 2026-10-19 07:23 UTC and 2026-10-19 08:22 UTC.
+New packages created between 2026-10-19 08:22 UTC and 2026-10-19 09:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-19T08-22-16-592355Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-19T09-21-00-566585Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-19 07:32:06 | [sgoranov/oauth2-openid-connect-server](https://www.nuget.org/packages/sgoranov%2Foauth2-openid-connect-server) | 1.0.2 | Goranov; Steve Rhoades | An OpenID Connect Server built on The PHP League's OAuth2 Server |
-| 2026-10-19 07:36:21 | [hideinmatrix/flarum-telegram-upload](https://www.nuget.org/packages/hideinmatrix%2Fflarum-telegram-upload) | v0.1.0 | HideInMatrix | Telegram attachment storage for Flarum 2.x through FoF Upload and tg-disk. |
-| 2026-10-19 07:37:04 | [guavas/guavas](https://www.nuget.org/packages/guavas%2Fguavas) | v0.1.0 |  | Kerangka proyek aplikasi Guavas |
-| 2026-10-19 07:38:46 | [programmernomad/laracorekit](https://www.nuget.org/packages/programmernomad%2Flaracorekit) | v0.1.0 | ProgrammerNomad | Modular Laravel application foundation with Filament administration, authentica… |
-| 2026-10-19 07:48:51 | [amarenkov/laravel-mutable-content-ai](https://www.nuget.org/packages/amarenkov%2Flaravel-mutable-content-ai) | v0.1.0 | Alexey Marenkov | AI agents for laravel-mutable-content apps: long-term memory and a run journal… |
-| 2026-10-19 07:49:00 | [darvis/bullhorn-api](https://www.nuget.org/packages/darvis%2Fbullhorn-api) | v1.1.0 | Arvid de Jong | PHP client for the Bullhorn REST API (staffing and recruitment CRM): OAuth logi… |
-| 2026-10-19 08:12:52 | [wexample/symfony-analytics](https://www.nuget.org/packages/wexample%2Fsymfony-analytics) | 1.0.1 |  |  |
-| 2026-10-19 08:13:53 | [wexample/symfony-analytics-ds](https://www.nuget.org/packages/wexample%2Fsymfony-analytics-ds) | 1.0.1 |  |  |
+| 2026-10-19 08:27:14 | [patelutkarsh/masthead](https://www.nuget.org/packages/patelutkarsh%2Fmasthead) | v1.0.0 |  | Kanban publishing workflows for wp-admin. |
+| 2026-10-19 08:39:23 | [csba92/revx-php](https://www.nuget.org/packages/csba92%2Frevx-php) | v0.1.0 | csba92 | A small, unofficial PHP client for the Revolut X REST API. |
+| 2026-10-19 08:47:45 | [pollora/media](https://www.nuget.org/packages/pollora%2Fmedia) | v0.1.0 | Amphibee | WordPress media on any Flysystem disk: uploads, public URLs, private files, ima… |
+| 2026-10-19 08:48:38 | [elibri/elibri_onix_client](https://www.nuget.org/packages/elibri%2Felibri_onix_client) | 0.10.1 |  | PHP client for the elibri API (ONIX 3.0 book metadata) |
+| 2026-10-19 08:49:52 | [oki-technologies/people-laravel](https://www.nuget.org/packages/oki-technologies%2Fpeople-laravel) | v1.0.0.0 |  | Sign people in with People, verify their tokens and keep their identities curre… |
+| 2026-10-19 08:49:54 | [oki-technologies/people-php](https://www.nuget.org/packages/oki-technologies%2Fpeople-php) | v1.0.0.0 |  | Sign people in with People, verify their tokens and keep their identities curre… |
+| 2026-10-19 08:51:48 | [oki-technologies/laravel-module-test](https://www.nuget.org/packages/oki-technologies%2Flaravel-module-test) | v1.0.0.0 | Solomon Ochepa | Run a nwidart/laravel-modules suite a module at a time, with coverage scoped to… |
+| 2026-10-19 09:00:07 | [weldist/laravel-passport-client-scopes](https://www.nuget.org/packages/weldist%2Flaravel-passport-client-scopes) | v1.0.0 | X-Adam | Per-client default scopes and RFC 6750 insufficient_scope responses for Laravel… |
+| 2026-10-19 09:12:46 | [prasanth/greeting-package](https://www.nuget.org/packages/prasanth%2Fgreeting-package) | v1.0.0 |  | Simple reusable Laravel package |
 
 ## Data source
 

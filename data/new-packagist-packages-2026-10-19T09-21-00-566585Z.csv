@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-19T08:27:14Z,patelutkarsh/masthead,v1.0.0,,Kanban publishing workflows for wp-admin.
+2026-10-19T08:39:23Z,csba92/revx-php,v0.1.0,csba92,"A small, unofficial PHP client for the Revolut X REST API."
+2026-10-19T08:47:45Z,pollora/media,v0.1.0,Amphibee,"WordPress media on any Flysystem disk: uploads, public URLs, private files, image sizes and thumbnails, behind two settings. Runs with or without Laravel."
+2026-10-19T08:48:38Z,elibri/elibri_onix_client,0.10.1,,PHP client for the elibri API (ONIX 3.0 book metadata)
+2026-10-19T08:49:52Z,oki-technologies/people-laravel,v1.0.0.0,,"Sign people in with People, verify their tokens and keep their identities current — in Laravel, with a guard, a sync command and a test fake."
+2026-10-19T08:49:54Z,oki-technologies/people-php,v1.0.0.0,,"Sign people in with People, verify their tokens and keep their identities current."
+2026-10-19T08:51:48Z,oki-technologies/laravel-module-test,v1.0.0.0,Solomon Ochepa,"Run a nwidart/laravel-modules suite a module at a time, with coverage scoped to each module, per-module floors and an exportable scoreboard."
+2026-10-19T09:00:07Z,weldist/laravel-passport-client-scopes,v1.0.0,X-Adam,Per-client default scopes and RFC 6750 insufficient_scope responses for Laravel Passport client credentials tokens.
+2026-10-19T09:12:46Z,prasanth/greeting-package,v1.0.0,,Simple reusable Laravel package
