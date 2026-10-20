@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-20T20:53:28Z,risetechapps/media-for-laravel,1.0.0,Rise Tech,"Laravel package for advanced media and upload management, with exact storage accounting."
+2026-10-20T20:56:25Z,commercekings/module-app-health,v0.1.0,CommerceKings,"Magento health alerts for the shop team: cron, indexers, caches, maintenance mode, email settings, exception spikes, queue backlogs and failing emails, checked by cron every 5 minutes and sent through commercekings/module-notification (e.g. to Slack) on a change, with a daily summary and an optiona…"
+2026-10-20T20:56:30Z,commercekings/module-notification-slack,v0.1.0,CommerceKings,"Slack for CommerceKings Notification: a ""slack"" channel and provider that posts to your team's Slack channels through your own Slack app (bot token, stored encrypted), with Slack's rate limits and errors mapped to Notification's retry rules and a ""Send test message"" button."

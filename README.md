@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 20:22 UTC
+## Latest list — 2026-10-20 21:21 UTC
 
-New packages created between 2026-10-20 19:21 UTC and 2026-10-20 20:22 UTC.
+New packages created between 2026-10-20 20:22 UTC and 2026-10-20 21:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T20-22-50-348894Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T21-21-26-405002Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 19:47:45 | [hurah/devroc-website-core](https://www.nuget.org/packages/hurah%2Fdevroc-website-core) | v0.1.0-beta.2 |  | Gedeelde opstart, Twig en lokale ontwikkelserver voor de websitetemplates. |
-| 2026-10-20 20:03:10 | [ket-php/turnstile](https://www.nuget.org/packages/ket-php%2Fturnstile) | 1.0.0 | Alexander Mikhno | Simple and lightweight Cloudflare Turnstile library for PHP |
-| 2026-10-20 20:07:33 | [ismailnakkar/laravel-safe-html](https://www.nuget.org/packages/ismailnakkar%2Flaravel-safe-html) | v0.1.0 | Ismail Nakkar | Clean user-typed HTML so it is safe to print with {!! !!} in Laravel, plus a le… |
+| 2026-10-20 20:53:28 | [risetechapps/media-for-laravel](https://www.nuget.org/packages/risetechapps%2Fmedia-for-laravel) | 1.0.0 | Rise Tech | Laravel package for advanced media and upload management, with exact storage ac… |
+| 2026-10-20 20:56:25 | [commercekings/module-app-health](https://www.nuget.org/packages/commercekings%2Fmodule-app-health) | v0.1.0 | CommerceKings | Magento health alerts for the shop team: cron, indexers, caches, maintenance mo… |
+| 2026-10-20 20:56:30 | [commercekings/module-notification-slack](https://www.nuget.org/packages/commercekings%2Fmodule-notification-slack) | v0.1.0 | CommerceKings | Slack for CommerceKings Notification: a "slack" channel and provider that posts… |
 
 ## Data source
 
