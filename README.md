@@ -15,22 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 17:21 UTC
+## Latest list — 2026-10-20 18:19 UTC
 
-New packages created between 2026-10-20 16:20 UTC and 2026-10-20 17:21 UTC.
+New packages created between 2026-10-20 17:21 UTC and 2026-10-20 18:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T17-21-15-838843Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T18-19-15-598377Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 16:21:15 | [medienbaecker/kirby-file-usage](https://www.nuget.org/packages/medienbaecker%2Fkirby-file-usage) | 1.0.0 | Thomas Günther | See which pages use a file |
-| 2026-10-20 16:35:13 | [subscope-ai/laravel-keenable](https://www.nuget.org/packages/subscope-ai%2Flaravel-keenable) | v1.0.0 | Subscope AI | Laravel client for the Keenable search & fetch API, with tools for Laravel AI a… |
-| 2026-10-20 16:48:06 | [karim-tao/pipedrive-client](https://www.nuget.org/packages/karim-tao%2Fpipedrive-client) | 0.1.0 | Karim Tao | Framework-agnostic PHP client for the Pipedrive API. PSR-18, OAuth handled, raw… |
-| 2026-10-20 16:49:11 | [byteminus/laravel-bdpaygate](https://www.nuget.org/packages/byteminus%2Flaravel-bdpaygate) | v0.1.0 | Mr Hawk | Every Bangladeshi payment gateway behind one Laravel API: bKash, Nagad, SSLComm… |
-| 2026-10-20 16:50:24 | [karim-tao/pipedrive-laravel](https://www.nuget.org/packages/karim-tao%2Fpipedrive-laravel) | 0.1.0 | Karim Tao | Laravel integration for the Pipedrive API. Config-driven credentials and Larave… |
-| 2026-10-20 17:02:50 | [ernestdefoe/salvage](https://www.nuget.org/packages/ernestdefoe%2Fsalvage) | v1.0.0 | Ernest Defoe | Fight link rot: copies hotlinked images in posts to your own storage before the… |
-| 2026-10-20 17:05:05 | [tryhackx/flarum-magnet-link](https://www.nuget.org/packages/tryhackx%2Fflarum-magnet-link) | 2.10.2 | TryHackX | Secure magnet link integration for Flarum with SHA-256 token protection, SSRF-h… |
-| 2026-10-20 17:05:41 | [ernestdefoe/resurface](https://www.nuget.org/packages/ernestdefoe%2Fresurface) | v1.0.0 | Ernest Defoe | Bump a discussion back to the top without replying: manual bumps with per-group… |
+| 2026-10-20 17:45:55 | [goletter/hyperf-akm](https://www.nuget.org/packages/goletter%2Fhyperf-akm) | v1.0.0 | goletter | 蓝瀚媒体代理业务 OpenAPI。Token 轮询与公共异常复用 |
+| 2026-10-20 17:48:28 | [fiscalapi-br/fiscalapi-php](https://www.nuget.org/packages/fiscalapi-br%2Ffiscalapi-php) | v0.1.0 | FiscalAPI | SDK da FiscalAPI (Brasil): Inscrição Estadual, CNPJ, certidões, NF-e, SIGEF, CN… |
 
 ## Data source
 
