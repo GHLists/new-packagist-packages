@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 05:19 UTC
+## Latest list — 2026-10-20 06:20 UTC
 
-New packages created between 2026-10-20 04:22 UTC and 2026-10-20 05:19 UTC.
+New packages created between 2026-10-20 05:19 UTC and 2026-10-20 06:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T05-19-35-06054Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T06-20-49-332534Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 04:41:39 | [zaber-dev/laravel-context](https://www.nuget.org/packages/zaber-dev%2Flaravel-context) | v1.0.0 | Md Mahedi Zaman Zaber | Ambient execution context and boundary propagation for Laravel applications. |
-| 2026-10-20 04:53:38 | [momotombo/stdnum-centroamerica](https://www.nuget.org/packages/momotombo%2Fstdnum-centroamerica) | v0.1.1 |  | Validación de documentos de identidad y fiscales para Centroamérica |
-| 2026-10-20 04:57:00 | [innovativesprouts/laravel-semaphore](https://www.nuget.org/packages/innovativesprouts%2Flaravel-semaphore) | v1.0.0 | Innovative Sprouts | A modern Laravel client and notification channel for the Semaphore SMS API. |
-| 2026-10-20 05:06:55 | [venturedrake/laravel-neto](https://www.nuget.org/packages/venturedrake%2Flaravel-neto) | v0.1.0 | Andrew Drake | A Laravel package for interacting with the Maropost Commerce Cloud (Neto) API. |
-| 2026-10-20 05:11:14 | [chisanhe/ueditorplus](https://www.nuget.org/packages/chisanhe%2Fueditorplus) | v1.0.1 |  | Dcat Admin UeditorPlus 富文本编辑器扩展，基于 ueditorplus 开发 |
+| 2026-10-20 05:27:03 | [magepow/smtptest](https://www.nuget.org/packages/magepow%2Fsmtptest) | 1.0.0 |  | Magepow SMTP Test Connection for Mail Sending Settings |
+| 2026-10-20 05:27:40 | [aporat/laravel-push-notifications](https://www.nuget.org/packages/aporat%2Flaravel-push-notifications) | v0.1.0 | Adar Porat | Laravel integration for aporat/push-notifications: APNs and FCM pushes per app,… |
+| 2026-10-20 05:30:59 | [ispgrid/documents](https://www.nuget.org/packages/ispgrid%2Fdocuments) | v0.1.0 | Karan | Customer documents for ISPGrid: ID proofs and agreements, photographed or uploa… |
+| 2026-10-20 05:31:38 | [roundly-consulting/tags-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Ftags-for-laravel) | 1.0.0 | Andrej Mihaliak | Typed taxonomies for any Eloquent model: flat or nested, single- or multi-selec… |
+| 2026-10-20 05:53:44 | [greenhat-services/magpie-laravel](https://www.nuget.org/packages/greenhat-services%2Fmagpie-laravel) | v0.1.1 |  | Magpie error tracking and performance monitoring for Laravel. |
 
 ## Data source
 

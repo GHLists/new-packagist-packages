@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-20T05:27:03Z,magepow/smtptest,1.0.0,,Magepow SMTP Test Connection for Mail Sending Settings
+2026-10-20T05:27:40Z,aporat/laravel-push-notifications,v0.1.0,Adar Porat,"Laravel integration for aporat/push-notifications: APNs and FCM pushes per app, with events, a notification channel and a fake for tests"
+2026-10-20T05:30:59Z,ispgrid/documents,v0.1.0,Karan,"Customer documents for ISPGrid: ID proofs and agreements, photographed or uploaded, kept encrypted."
+2026-10-20T05:31:38Z,roundly-consulting/tags-for-laravel,1.0.0,Andrej Mihaliak,"Typed taxonomies for any Eloquent model: flat or nested, single- or multi-select, curated or free-form, tenant-scoped and translatable, with autocomplete, usage counts and query scopes."
+2026-10-20T05:53:44Z,greenhat-services/magpie-laravel,v0.1.1,,Magpie error tracking and performance monitoring for Laravel.
