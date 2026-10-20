@@ -15,19 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 19:21 UTC
+## Latest list — 2026-10-20 20:22 UTC
 
-New packages created between 2026-10-20 18:19 UTC and 2026-10-20 19:21 UTC.
+New packages created between 2026-10-20 19:21 UTC and 2026-10-20 20:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T19-21-12-347697Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T20-22-50-348894Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 18:24:22 | [stougeiro/pdo-database](https://www.nuget.org/packages/stougeiro%2Fpdo-database) | v1.0.0 | stougeiro | A dialect-agnostic PDO model for SQLite, MySQL, MariaDB and PostgreSQL. |
-| 2026-10-20 18:43:34 | [edgeinfinity/diy-homepage](https://www.nuget.org/packages/edgeinfinity%2Fdiy-homepage) | v0.1.0 | EdgeInfinity | A configurable, widget-based homepage for Flarum, with a Friends of Flarum Widg… |
-| 2026-10-20 18:49:08 | [atriametal/sylius-cookie-consent-plugin](https://www.nuget.org/packages/atriametal%2Fsylius-cookie-consent-plugin) | v0.1.0 | Atriametal | Collects the cookie consent of the visitors of a Sylius shop, blocks scripts an… |
-| 2026-10-20 18:56:31 | [hardimpactdev/sync-engine](https://www.nuget.org/packages/hardimpactdev%2Fsync-engine) | v0.1.0 | Nick Retel | Local-first sync for Laravel: a per-scope change feed, a push endpoint and real… |
-| 2026-10-20 19:08:31 | [kgkg/sentry-dedupe](https://www.nuget.org/packages/kgkg%2Fsentry-dedupe) | v0.1.0 |  | Fail-closed persistent admission control for Sentry PHP events |
+| 2026-10-20 19:47:45 | [hurah/devroc-website-core](https://www.nuget.org/packages/hurah%2Fdevroc-website-core) | v0.1.0-beta.2 |  | Gedeelde opstart, Twig en lokale ontwikkelserver voor de websitetemplates. |
+| 2026-10-20 20:03:10 | [ket-php/turnstile](https://www.nuget.org/packages/ket-php%2Fturnstile) | 1.0.0 | Alexander Mikhno | Simple and lightweight Cloudflare Turnstile library for PHP |
+| 2026-10-20 20:07:33 | [ismailnakkar/laravel-safe-html](https://www.nuget.org/packages/ismailnakkar%2Flaravel-safe-html) | v0.1.0 | Ismail Nakkar | Clean user-typed HTML so it is safe to print with {!! !!} in Laravel, plus a le… |
 
 ## Data source
 

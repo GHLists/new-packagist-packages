@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-20T19:47:45Z,hurah/devroc-website-core,v0.1.0-beta.2,,"Gedeelde opstart, Twig en lokale ontwikkelserver voor de websitetemplates."
+2026-10-20T20:03:10Z,ket-php/turnstile,1.0.0,Alexander Mikhno,Simple and lightweight Cloudflare Turnstile library for PHP
+2026-10-20T20:07:33Z,ismailnakkar/laravel-safe-html,v0.1.0,Ismail Nakkar,"Clean user-typed HTML so it is safe to print with {!! !!} in Laravel, plus a length rule that counts an entity as one character."
