@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-10-20T21:22:48Z,kallookoo/wp-stubs,0.1.0,,WordPress and WooCommerce stubs for PHP
+2026-10-20T21:27:22Z,orderingco/ordering-theme-engine,v0.4.0,"Ordering, Inc.","api-core's theme engine (version 2 themes) in PHP: the same schema, the same rules, the same answer as the TypeScript package."
+2026-10-20T21:27:40Z,chevere/translate,1.0.0,Rodolfo Berrios,A chevere translate component.
+2026-10-20T21:33:27Z,risetechapps/media-for-laravel,1.0.0,Rise Tech,"Laravel package for advanced media and upload management, with exact storage accounting."
+2026-10-20T21:59:55Z,zalliant/ethernize-core,v0.1.0-beta.1,,"Núcleo do Zalliant Ethernize: container, HTTP, middleware e roteamento."
+2026-10-20T22:00:03Z,zalliant/ethernize-weave,v0.1.0-beta.1,,"Weave: compiled, contextually escaped template engine for Zalliant Ethernize."
+2026-10-20T22:00:11Z,zalliant/ethernize-pulse,v0.1.0-beta.1,,Pulse: server-driven reactive components for Zalliant Ethernize.
+2026-10-20T22:00:18Z,zalliant/ethernize-strata,v0.1.0-beta.1,,"Strata: persistence foundation (PDO connections, query builder, transactions, migrations) for Zalliant Ethernize."
+2026-10-20T22:00:26Z,zalliant/ethernize-shield,v0.1.0-beta.1,,"Shield: authentication, authorization, CSRF protection and secure sessions for Zalliant Ethernize."
+2026-10-20T22:00:34Z,zalliant/ethernize,v0.1.0-beta.1,,Application skeleton for Zalliant Ethernize (experimental beta).
+2026-10-20T22:05:48Z,ssdev/laravel-headless,v0.1.1,Sead Silajdzic,"Installable Laravel foundation with authentication, teams, roles, 2FA and multi-tenancy, shipped with a Vue + Inertia UI and a JSON API."
