@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-20T02:26:03Z,isaech-solutions/sdk,v0.0.3,Isaac Machakata,An SDK for accessing our services via our dedicated api
+2026-10-20T02:48:26Z,porro/laravel-connector,v0.1.1,,"Read-only Porro connector for Laravel: versions, advisories, scheduler, queues, migrations and backups."
+2026-10-20T02:48:44Z,stoneholl/module-related-customer-orders,v1.0.0,,"Bounded same-store customer order history for Magento Admin, with optional strict guest matching."
+2026-10-20T02:50:15Z,porro/filament-connector,v0.1.1,,"Porro connector for Filament 3–5: Filament, Livewire and plugin versions plus panel checks, on top of the Laravel connector."
+2026-10-20T02:51:19Z,porro/statamic-connector,v0.1.1,,"Porro connector for Statamic: Statamic and addon versions plus settings, on top of the Laravel connector."
+2026-10-20T03:08:43Z,tsumiki-labs/extension-builder,1.0.0,,

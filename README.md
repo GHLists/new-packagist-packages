@@ -15,17 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 02:21 UTC
+## Latest list — 2026-10-20 03:19 UTC
 
-New packages created between 2026-10-20 01:19 UTC and 2026-10-20 02:21 UTC.
+New packages created between 2026-10-20 02:21 UTC and 2026-10-20 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T02-21-24-547563Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T03-19-46-85585Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 01:32:12 | [putuwahyu29/bps-auth](https://www.nuget.org/packages/putuwahyu29%2Fbps-auth) | v1.0.0 | Putu Wahyu | Autentikasi Modern BPS (SSO Keycloak Pusat & Majapahit, REST API Pegawai) untuk… |
-| 2026-10-20 01:54:22 | [s2j/inquiry-destination-service](https://www.nuget.org/packages/s2j%2Finquiry-destination-service) | v0.1.0 | Koutarou ISHIKAWA | Inquiry SaaS Adapter (WP-Independent) |
-| 2026-10-20 01:56:04 | [vuthaihoc/laravel-tts-client](https://www.nuget.org/packages/vuthaihoc%2Flaravel-tts-client) | v0.1.0 |  | Laravel client for the Piper TTS API (laravel-tts-api): signs temporary tokens… |
+| 2026-10-20 02:26:03 | [isaech-solutions/sdk](https://www.nuget.org/packages/isaech-solutions%2Fsdk) | v0.0.3 | Isaac Machakata | An SDK for accessing our services via our dedicated api |
+| 2026-10-20 02:48:26 | [porro/laravel-connector](https://www.nuget.org/packages/porro%2Flaravel-connector) | v0.1.1 |  | Read-only Porro connector for Laravel: versions, advisories, scheduler, queues,… |
+| 2026-10-20 02:48:44 | [stoneholl/module-related-customer-orders](https://www.nuget.org/packages/stoneholl%2Fmodule-related-customer-orders) | v1.0.0 |  | Bounded same-store customer order history for Magento Admin, with optional stri… |
+| 2026-10-20 02:50:15 | [porro/filament-connector](https://www.nuget.org/packages/porro%2Ffilament-connector) | v0.1.1 |  | Porro connector for Filament 3–5: Filament, Livewire and plugin versions plus p… |
+| 2026-10-20 02:51:19 | [porro/statamic-connector](https://www.nuget.org/packages/porro%2Fstatamic-connector) | v0.1.1 |  | Porro connector for Statamic: Statamic and addon versions plus settings, on top… |
+| 2026-10-20 03:08:43 | [tsumiki-labs/extension-builder](https://www.nuget.org/packages/tsumiki-labs%2Fextension-builder) | 1.0.0 |  |  |
 
 ## Data source
 
