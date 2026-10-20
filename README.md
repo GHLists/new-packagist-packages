@@ -15,17 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 04:22 UTC
+## Latest list — 2026-10-20 05:19 UTC
 
-New packages created between 2026-10-20 03:19 UTC and 2026-10-20 04:22 UTC.
+New packages created between 2026-10-20 04:22 UTC and 2026-10-20 05:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T04-22-18-056131Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T05-19-35-06054Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 03:31:53 | [tyto-php/router](https://www.nuget.org/packages/tyto-php%2Frouter) | v0.0.1 | Viktor Leite | Roteador minimalista de alta performance em PHP puro com suporte a atributos, m… |
-| 2026-10-20 03:44:42 | [hallmark/hallmark](https://www.nuget.org/packages/hallmark%2Fhallmark) | v1.0.0 | Luciano Federico Pereira | A modern, fully-typed PSR-3 logging library for PHP 8.3+ — the handler/formatte… |
-| 2026-10-20 03:56:43 | [tsumiki-labs/extension-builder](https://www.nuget.org/packages/tsumiki-labs%2Fextension-builder) | 1.0.1 |  |  |
+| 2026-10-20 04:41:39 | [zaber-dev/laravel-context](https://www.nuget.org/packages/zaber-dev%2Flaravel-context) | v1.0.0 | Md Mahedi Zaman Zaber | Ambient execution context and boundary propagation for Laravel applications. |
+| 2026-10-20 04:53:38 | [momotombo/stdnum-centroamerica](https://www.nuget.org/packages/momotombo%2Fstdnum-centroamerica) | v0.1.1 |  | Validación de documentos de identidad y fiscales para Centroamérica |
+| 2026-10-20 04:57:00 | [innovativesprouts/laravel-semaphore](https://www.nuget.org/packages/innovativesprouts%2Flaravel-semaphore) | v1.0.0 | Innovative Sprouts | A modern Laravel client and notification channel for the Semaphore SMS API. |
+| 2026-10-20 05:06:55 | [venturedrake/laravel-neto](https://www.nuget.org/packages/venturedrake%2Flaravel-neto) | v0.1.0 | Andrew Drake | A Laravel package for interacting with the Maropost Commerce Cloud (Neto) API. |
+| 2026-10-20 05:11:14 | [chisanhe/ueditorplus](https://www.nuget.org/packages/chisanhe%2Fueditorplus) | v1.0.1 |  | Dcat Admin UeditorPlus 富文本编辑器扩展，基于 ueditorplus 开发 |
 
 ## Data source
 
