@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-20T16:21:15Z,medienbaecker/kirby-file-usage,1.0.0,Thomas Günther,See which pages use a file
+2026-10-20T16:35:13Z,subscope-ai/laravel-keenable,v1.0.0,Subscope AI,"Laravel client for the Keenable search & fetch API, with tools for Laravel AI agents."
+2026-10-20T16:48:06Z,karim-tao/pipedrive-client,0.1.0,Karim Tao,"Framework-agnostic PHP client for the Pipedrive API. PSR-18, OAuth handled, raw responses kept."
+2026-10-20T16:49:11Z,byteminus/laravel-bdpaygate,v0.1.0,Mr Hawk,"Every Bangladeshi payment gateway behind one Laravel API: bKash, Nagad, SSLCommerz, Upay, ShurjoPay, aamarPay, PortPos, PayStation, UddoktaPay, Moneybag, EPS, DGePay. Every callback verified server-to-server."
+2026-10-20T16:50:24Z,karim-tao/pipedrive-laravel,0.1.0,Karim Tao,Laravel integration for the Pipedrive API. Config-driven credentials and Laravel's own HTTP client under the hood.
+2026-10-20T17:02:50Z,ernestdefoe/salvage,v1.0.0,Ernest Defoe,"Fight link rot: copies hotlinked images in posts to your own storage before their source disappears, and finds dead links across the forum so staff can fix, replace, unlink or point them at an archive.org copy."
+2026-10-20T17:05:05Z,tryhackx/flarum-magnet-link,2.10.2,TryHackX,"Secure magnet link integration for Flarum with SHA-256 token protection, SSRF-hardened tracker scraping, live click counters, and an optimized discussion list preview tooltip."
+2026-10-20T17:05:41Z,ernestdefoe/resurface,v1.0.0,Ernest Defoe,"Bump a discussion back to the top without replying: manual bumps with per-group cooldowns and daily limits, per-tag control, scheduled and automatic bumps, and a bump log for staff."
