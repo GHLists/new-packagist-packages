@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 06:20 UTC
+## Latest list — 2026-10-20 07:20 UTC
 
-New packages created between 2026-10-20 05:19 UTC and 2026-10-20 06:20 UTC.
+New packages created between 2026-10-20 06:20 UTC and 2026-10-20 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T06-20-49-332534Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T07-20-53-242879Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 05:27:03 | [magepow/smtptest](https://www.nuget.org/packages/magepow%2Fsmtptest) | 1.0.0 |  | Magepow SMTP Test Connection for Mail Sending Settings |
-| 2026-10-20 05:27:40 | [aporat/laravel-push-notifications](https://www.nuget.org/packages/aporat%2Flaravel-push-notifications) | v0.1.0 | Adar Porat | Laravel integration for aporat/push-notifications: APNs and FCM pushes per app,… |
-| 2026-10-20 05:30:59 | [ispgrid/documents](https://www.nuget.org/packages/ispgrid%2Fdocuments) | v0.1.0 | Karan | Customer documents for ISPGrid: ID proofs and agreements, photographed or uploa… |
-| 2026-10-20 05:31:38 | [roundly-consulting/tags-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Ftags-for-laravel) | 1.0.0 | Andrej Mihaliak | Typed taxonomies for any Eloquent model: flat or nested, single- or multi-selec… |
-| 2026-10-20 05:53:44 | [greenhat-services/magpie-laravel](https://www.nuget.org/packages/greenhat-services%2Fmagpie-laravel) | v0.1.1 |  | Magpie error tracking and performance monitoring for Laravel. |
+| 2026-10-20 07:04:15 | [billsensei/moodle-mod_peerreview](https://www.nuget.org/packages/billsensei%2Fmoodle-mod_peerreview) | v0.19.9 |  | Peer review activity for Moodle: students assess each other with scores, scales… |
+| 2026-10-20 07:10:54 | [roundly-consulting/events-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fevents-for-laravel) | 1.0.0 | Andrej Mihaliak | Real-world events for any Eloquent app: reusable venues with near-me search, ti… |
+| 2026-10-20 07:16:15 | [wishbox/russian-post-client](https://www.nuget.org/packages/wishbox%2Frussian-post-client) | v0.1.1 | Nekrasov Vitaliy | Extensible PHP client for the Russian Post Otpravka API. |
+| 2026-10-20 07:16:29 | [kybdev/lara-ai-assistant](https://www.nuget.org/packages/kybdev%2Flara-ai-assistant) | v0.1.1 | Package Author | A reusable Laravel AI Assistant package for model discovery, authorized data re… |
+| 2026-10-20 07:16:53 | [wexample/symfony-platform-ds](https://www.nuget.org/packages/wexample%2Fsymfony-platform-ds) | 1.0.1 |  |  |
 
 ## Data source
 

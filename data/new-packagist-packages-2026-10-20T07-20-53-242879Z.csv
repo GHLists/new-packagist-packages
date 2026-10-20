@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-20T07:04:15Z,billsensei/moodle-mod_peerreview,v0.19.9,,"Peer review activity for Moodle: students assess each other with scores, scales, rubrics or marking guides."
+2026-10-20T07:10:54Z,roundly-consulting/events-for-laravel,1.0.0,Andrej Mihaliak,"Real-world events for any Eloquent app: reusable venues with near-me search, ticket tiers priced in Money, RSVPs with a race-free waitlist, QR check-in, co-hosts and invite-only events, iCalendar feeds and schema.org JSON-LD."
+2026-10-20T07:16:15Z,wishbox/russian-post-client,v0.1.1,Nekrasov Vitaliy,Extensible PHP client for the Russian Post Otpravka API.
+2026-10-20T07:16:29Z,kybdev/lara-ai-assistant,v0.1.1,Package Author,"A reusable Laravel AI Assistant package for model discovery, authorized data retrieval, and safe AI tool integration."
+2026-10-20T07:16:53Z,wexample/symfony-platform-ds,1.0.1,,
