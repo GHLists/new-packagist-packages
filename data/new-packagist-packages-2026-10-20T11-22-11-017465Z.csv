@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-20T10:31:13Z,vielhuber/pinboardmcp,v1.1.0,,Minimal PHP helper and MCP server for the complete Pinboard v1 API.
+2026-10-20T10:31:38Z,dmitriy-zhukov/my-test-library,1.0.1,Дмитрий Жуков,test library 2
+2026-10-20T10:41:12Z,shipaurora/borealis-theme,v1.0.0,Thomas Alrek,"Borealis, Aurora CMS's default admin theme: its styles, design tokens and prebuilt Filament theme."
+2026-10-20T10:46:18Z,juststeveking/kit,v0.1.2,,"Opinionated Laravel API starter kit: token authentication, standards-compliant HTTP via api-toolbox, and contract-tested OpenAPI docs."
+2026-10-20T10:46:39Z,farhanchoksi/laravel-pretty-logger,v1.0.1,Farhanchoksi,"Laravel Pretty Logger — a pretty_dio_logger style HTTP request/response logger for Laravel: colored, boxed terminal output (and a readable file log) with automatic secret masking."
+2026-10-20T10:57:42Z,hanane/outbound-guard-bundle,v0.1.0,Hanane,"Detect excessive, duplicated and slow Symfony HttpClient calls with safe metrics, configurable budgets and profiler integration."
+2026-10-20T10:58:26Z,nocache-dev/laravel,v1.0.0,,"Correct Cache-Control headers for Laravel responses, plus artisan commands to check URLs and manage nocache.dev monitors."
+2026-10-20T11:16:55Z,moneymoves/sdk,v1.0.0,,"The official PHP library for the Money Moves Business API: checkouts, payments, settlements, refunds, disputes and webhooks."
+2026-10-20T11:21:24Z,municipio/wp-plugin-municipio-editor-extensions,0.1.0,,Accessible editorial guidance for TinyMCE fields in modern Municipio.
