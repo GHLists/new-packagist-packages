@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-19T23:25:00Z,tryhackx/flarum-topic-rating,2.6.0,TryHackX,"Interactive 5-star topic rating system for Flarum with half-star precision, live hover previews, real-time updates, per-device list styles, advanced per-tag permissions and an author-rating ""review mode""."
+2026-10-19T23:33:47Z,tryhackx/flarum-thumb-sliders,2.2.0,TryHackX,"Extracts images automatically from the first post to display an animated, lazy-loaded thumbnail image slider in the Flarum discussion list using a shared modular layout structure."
+2026-10-19T23:39:29Z,tryhackx/flarum-magnet-link,2.10.0,TryHackX,"Secure magnet link integration for Flarum with SHA-256 token protection, SSRF-hardened tracker scraping, live click counters, and an optimized discussion list preview tooltip."

@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 23:22 UTC
+## Latest list — 2026-10-20 00:20 UTC
 
-New packages created between 2026-10-19 22:19 UTC and 2026-10-19 23:22 UTC.
+New packages created between 2026-10-19 23:22 UTC and 2026-10-20 00:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-19T23-22-56-205394Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T00-20-28-139Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-19 22:21:21 | [openthc/api](https://www.nuget.org/packages/openthc%2Fapi) | 420.26.292 |  | OpenTHC API |
-| 2026-10-19 22:30:16 | [afurgeri/laravel-short-links](https://www.nuget.org/packages/afurgeri%2Flaravel-short-links) | v0.1.1 |  | Trackable short links for Laravel with SQL and MongoDB storage. |
-| 2026-10-19 23:00:38 | [tryhackx/flarum-cover-studio](https://www.nuget.org/packages/tryhackx%2Fflarum-cover-studio) | v2.3.0 | TryHackX | Profile covers with repositionable focal point (pos-crop), fully integrated wit… |
-| 2026-10-19 23:08:37 | [tryhackx/flarum-advanced-pages](https://www.nuget.org/packages/tryhackx%2Fflarum-advanced-pages) | 2.4.0 | TryHackX | Create advanced custom pages with HTML, BBCode, Markdown, PHP, or plain text, f… |
+| 2026-10-19 23:25:00 | [tryhackx/flarum-topic-rating](https://www.nuget.org/packages/tryhackx%2Fflarum-topic-rating) | 2.6.0 | TryHackX | Interactive 5-star topic rating system for Flarum with half-star precision, liv… |
+| 2026-10-19 23:33:47 | [tryhackx/flarum-thumb-sliders](https://www.nuget.org/packages/tryhackx%2Fflarum-thumb-sliders) | 2.2.0 | TryHackX | Extracts images automatically from the first post to display an animated, lazy-… |
+| 2026-10-19 23:39:29 | [tryhackx/flarum-magnet-link](https://www.nuget.org/packages/tryhackx%2Fflarum-magnet-link) | 2.10.0 | TryHackX | Secure magnet link integration for Flarum with SHA-256 token protection, SSRF-h… |
 
 ## Data source
 
