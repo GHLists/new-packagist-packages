@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-20T18:24:22Z,stougeiro/pdo-database,v1.0.0,stougeiro,"A dialect-agnostic PDO model for SQLite, MySQL, MariaDB and PostgreSQL."
+2026-10-20T18:43:34Z,edgeinfinity/diy-homepage,v0.1.0,EdgeInfinity,"A configurable, widget-based homepage for Flarum, with a Friends of Flarum Widgets bridge."
+2026-10-20T18:49:08Z,atriametal/sylius-cookie-consent-plugin,v0.1.0,Atriametal,"Collects the cookie consent of the visitors of a Sylius shop, blocks scripts and embedded contents until they consent, and keeps a proof of each consent."
+2026-10-20T18:56:31Z,hardimpactdev/sync-engine,v0.1.0,Nick Retel,"Local-first sync for Laravel: a per-scope change feed, a push endpoint and real-time pokes. Pairs with the TypeScript client @hardimpactdev/sync-engine."
+2026-10-20T19:08:31Z,kgkg/sentry-dedupe,v0.1.0,,Fail-closed persistent admission control for Sentry PHP events

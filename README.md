@@ -15,16 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 18:19 UTC
+## Latest list — 2026-10-20 19:21 UTC
 
-New packages created between 2026-10-20 17:21 UTC and 2026-10-20 18:19 UTC.
+New packages created between 2026-10-20 18:19 UTC and 2026-10-20 19:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T18-19-15-598377Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T19-21-12-347697Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 17:45:55 | [goletter/hyperf-akm](https://www.nuget.org/packages/goletter%2Fhyperf-akm) | v1.0.0 | goletter | 蓝瀚媒体代理业务 OpenAPI。Token 轮询与公共异常复用 |
-| 2026-10-20 17:48:28 | [fiscalapi-br/fiscalapi-php](https://www.nuget.org/packages/fiscalapi-br%2Ffiscalapi-php) | v0.1.0 | FiscalAPI | SDK da FiscalAPI (Brasil): Inscrição Estadual, CNPJ, certidões, NF-e, SIGEF, CN… |
+| 2026-10-20 18:24:22 | [stougeiro/pdo-database](https://www.nuget.org/packages/stougeiro%2Fpdo-database) | v1.0.0 | stougeiro | A dialect-agnostic PDO model for SQLite, MySQL, MariaDB and PostgreSQL. |
+| 2026-10-20 18:43:34 | [edgeinfinity/diy-homepage](https://www.nuget.org/packages/edgeinfinity%2Fdiy-homepage) | v0.1.0 | EdgeInfinity | A configurable, widget-based homepage for Flarum, with a Friends of Flarum Widg… |
+| 2026-10-20 18:49:08 | [atriametal/sylius-cookie-consent-plugin](https://www.nuget.org/packages/atriametal%2Fsylius-cookie-consent-plugin) | v0.1.0 | Atriametal | Collects the cookie consent of the visitors of a Sylius shop, blocks scripts an… |
+| 2026-10-20 18:56:31 | [hardimpactdev/sync-engine](https://www.nuget.org/packages/hardimpactdev%2Fsync-engine) | v0.1.0 | Nick Retel | Local-first sync for Laravel: a per-scope change feed, a push endpoint and real… |
+| 2026-10-20 19:08:31 | [kgkg/sentry-dedupe](https://www.nuget.org/packages/kgkg%2Fsentry-dedupe) | v0.1.0 |  | Fail-closed persistent admission control for Sentry PHP events |
 
 ## Data source
 
