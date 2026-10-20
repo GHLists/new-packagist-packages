@@ -15,19 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 07:20 UTC
+## Latest list — 2026-10-20 08:21 UTC
 
-New packages created between 2026-10-20 06:20 UTC and 2026-10-20 07:20 UTC.
+New packages created between 2026-10-20 07:20 UTC and 2026-10-20 08:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T07-20-53-242879Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T08-21-41-507231Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 07:04:15 | [billsensei/moodle-mod_peerreview](https://www.nuget.org/packages/billsensei%2Fmoodle-mod_peerreview) | v0.19.9 |  | Peer review activity for Moodle: students assess each other with scores, scales… |
-| 2026-10-20 07:10:54 | [roundly-consulting/events-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fevents-for-laravel) | 1.0.0 | Andrej Mihaliak | Real-world events for any Eloquent app: reusable venues with near-me search, ti… |
-| 2026-10-20 07:16:15 | [wishbox/russian-post-client](https://www.nuget.org/packages/wishbox%2Frussian-post-client) | v0.1.1 | Nekrasov Vitaliy | Extensible PHP client for the Russian Post Otpravka API. |
-| 2026-10-20 07:16:29 | [kybdev/lara-ai-assistant](https://www.nuget.org/packages/kybdev%2Flara-ai-assistant) | v0.1.1 | Package Author | A reusable Laravel AI Assistant package for model discovery, authorized data re… |
-| 2026-10-20 07:16:53 | [wexample/symfony-platform-ds](https://www.nuget.org/packages/wexample%2Fsymfony-platform-ds) | 1.0.1 |  |  |
+| 2026-10-20 07:40:46 | [oleksyuk/apaleo-php](https://www.nuget.org/packages/oleksyuk%2Fapaleo-php) | v0.1.0 | Maks Oleksyuk | Framework-agnostic PHP SDK for the Apaleo hotel PMS API |
+| 2026-10-20 07:46:51 | [gopromotional/event-planner](https://www.nuget.org/packages/gopromotional%2Fevent-planner) | v1.0.1 | GoPromotional | Event countdown, planning timeline, giveaway quantities and print order-by date… |
+| 2026-10-20 07:46:51 | [gopromotional/mugday](https://www.nuget.org/packages/gopromotional%2Fmugday) | v1.0.1 | GoPromotional | Caffeine tracker with half-life estimate, sleep-ready time and reusable-cup sta… |
+| 2026-10-20 07:46:51 | [gopromotional/packlist](https://www.nuget.org/packages/gopromotional%2Fpacklist) | v1.0.1 | GoPromotional | Packing checklists with templates, per-night quantities and a Markdown format. |
+| 2026-10-20 07:46:51 | [gopromotional/siplog](https://www.nuget.org/packages/gopromotional%2Fsiplog) | v1.0.1 | GoPromotional | Daily water goal estimate and a simple hydration log with streaks. |
+| 2026-10-20 07:48:27 | [szenario/craft-firstlight](https://www.nuget.org/packages/szenario%2Fcraft-firstlight) | 1.0.0 |  | Automatic poster images for video assets. firstlight grabs a frame with ffmpeg,… |
 
 ## Data source
 

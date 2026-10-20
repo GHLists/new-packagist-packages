@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-20T07:40:46Z,oleksyuk/apaleo-php,v0.1.0,Maks Oleksyuk,Framework-agnostic PHP SDK for the Apaleo hotel PMS API
+2026-10-20T07:46:51Z,gopromotional/event-planner,v1.0.1,GoPromotional,"Event countdown, planning timeline, giveaway quantities and print order-by dates."
+2026-10-20T07:46:51Z,gopromotional/mugday,v1.0.1,GoPromotional,"Caffeine tracker with half-life estimate, sleep-ready time and reusable-cup stats."
+2026-10-20T07:46:51Z,gopromotional/packlist,v1.0.1,GoPromotional,"Packing checklists with templates, per-night quantities and a Markdown format."
+2026-10-20T07:46:51Z,gopromotional/siplog,v1.0.1,GoPromotional,Daily water goal estimate and a simple hydration log with streaks.
+2026-10-20T07:48:27Z,szenario/craft-firstlight,1.0.0,,"Automatic poster images for video assets. firstlight grabs a frame with ffmpeg, and Craft transforms serve it as AVIF or WebP."
