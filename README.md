@@ -15,20 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 12:19 UTC
+## Latest list — 2026-10-20 13:21 UTC
 
-New packages created between 2026-10-20 11:22 UTC and 2026-10-20 12:19 UTC.
+New packages created between 2026-10-20 12:19 UTC and 2026-10-20 13:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T12-19-39-296491Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T13-21-51-183669Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 11:30:51 | [shipaurora/cms](https://www.nuget.org/packages/shipaurora%2Fcms) | v1.0.2 | Thomas Alrek | Aurora: a content management system for Laravel, built on Filament. |
-| 2026-10-20 11:35:45 | [packstub/filament-nitpick](https://www.nuget.org/packages/packstub%2Ffilament-nitpick) | v1.0.0-beta.1 | Ion Caliman; Packstub | Themes for Filament panels: designed looks with a per-panel default, an open re… |
-| 2026-10-20 11:37:13 | [epay/magento2-epic-payment-hyva-checkout](https://www.nuget.org/packages/epay%2Fmagento2-epic-payment-hyva-checkout) | 1.0.2 | ePay Payment Solutions A/S | Hyvä Checkout compatibility module for ePay EPIC Payment for Magento 2 |
-| 2026-10-20 11:42:32 | [oluwatimilehin/spotify-music-api](https://www.nuget.org/packages/oluwatimilehin%2Fspotify-music-api) | v1.0.0 | Tawose Oluwatimilehin | A PHP SDK wrapper for the Spotify Web API |
-| 2026-10-20 11:49:39 | [shipaurora/aurora](https://www.nuget.org/packages/shipaurora%2Faurora) | v1.0.2 |  | A new website on Aurora CMS: a Laravel app with the CMS installed, ready to mak… |
-| 2026-10-20 12:09:29 | [beaverphp/skeleton](https://www.nuget.org/packages/beaverphp%2Fskeleton) | v0.1.2 |  | Esqueleto de projecto limpo para o Beaver Framework |
+| 2026-10-20 12:21:13 | [gingerminds/symfony-cms](https://www.nuget.org/packages/gingerminds%2Fsymfony-cms) | 0.1.0 | Gingerminds | Menus, pages, content blocks and search for Gingerminds Symfony projects |
+| 2026-10-20 12:22:24 | [survos/bagit](https://www.nuget.org/packages/survos%2Fbagit) | 2.43.8 |  | Framework-independent BagIt directory creation and integrity verification |
+| 2026-10-20 12:39:03 | [mycomm/mycomm-php](https://www.nuget.org/packages/mycomm%2Fmycomm-php) | v0.1.0 | Cogneer | Official PHP SDK for the MyComm messaging API: messages, contacts, conversation… |
+| 2026-10-20 12:53:31 | [jeffersongoncalves/filament-skeleton](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-skeleton) | 2.0.0 |  |  |
+| 2026-10-20 12:55:50 | [stefaminator/php-cli-cmd](https://www.nuget.org/packages/stefaminator%2Fphp-cli-cmd) | 1.0.0 |  | The PHP CLI CMD library |
+| 2026-10-20 13:00:20 | [avisaas/ti-ext-connector](https://www.nuget.org/packages/avisaas%2Fti-ext-connector) | 1.3.0 |  | AviSaaS storefront connector extension for TastyIgniter admin. |
+| 2026-10-20 13:01:44 | [shasha1589/laravel-razorpay-billing](https://www.nuget.org/packages/shasha1589%2Flaravel-razorpay-billing) | v0.1.0 | shasha1589 | Cashier-style subscription billing for Laravel on Razorpay: plans, subscription… |
 
 ## Data source
 

@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-20T12:21:13Z,gingerminds/symfony-cms,0.1.0,Gingerminds,"Menus, pages, content blocks and search for Gingerminds Symfony projects"
+2026-10-20T12:22:24Z,survos/bagit,2.43.8,,Framework-independent BagIt directory creation and integrity verification
+2026-10-20T12:39:03Z,mycomm/mycomm-php,v0.1.0,Cogneer,"Official PHP SDK for the MyComm messaging API: messages, contacts, conversations, channels, webhooks and the partner API."
+2026-10-20T12:53:31Z,jeffersongoncalves/filament-skeleton,2.0.0,,
+2026-10-20T12:55:50Z,stefaminator/php-cli-cmd,1.0.0,,The PHP CLI CMD library
+2026-10-20T13:00:20Z,avisaas/ti-ext-connector,1.3.0,,AviSaaS storefront connector extension for TastyIgniter admin.
+2026-10-20T13:01:44Z,shasha1589/laravel-razorpay-billing,v0.1.0,shasha1589,"Cashier-style subscription billing for Laravel on Razorpay: plans, subscriptions, UPI AutoPay, e-mandates, webhooks, refunds and GST invoices."
