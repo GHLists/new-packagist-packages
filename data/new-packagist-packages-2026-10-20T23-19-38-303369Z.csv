@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-20T22:24:21Z,yousef-aman/laravel-feedback-board,v1.0.1,Yousef Aman,"Self-hosted in-app feedback board for Laravel — clients report, developers resolve."
+2026-10-20T22:32:44Z,ornio/filament-decorated-column,v1.0.0,Flamur Mavraj,Badge and icon decorations before or after the text of Filament table columns and infolist entries. Needs no custom theme.
+2026-10-20T22:35:37Z,bluedot-bd/sanity-check,v1.0.0,Bluedot Technology Ltd.,Malicious payload filter and security posture checks for Laravel applications.
+2026-10-20T22:42:09Z,mnd/dm-platform-client,v1.0.0,,PHP client of Drift Manager Platform API

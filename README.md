@@ -15,25 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 22:19 UTC
+## Latest list — 2026-10-20 23:19 UTC
 
-New packages created between 2026-10-20 21:21 UTC and 2026-10-20 22:19 UTC.
+New packages created between 2026-10-20 22:19 UTC and 2026-10-20 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T22-19-30-42235Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T23-19-38-303369Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 21:22:48 | [kallookoo/wp-stubs](https://www.nuget.org/packages/kallookoo%2Fwp-stubs) | 0.1.0 |  | WordPress and WooCommerce stubs for PHP |
-| 2026-10-20 21:27:22 | [orderingco/ordering-theme-engine](https://www.nuget.org/packages/orderingco%2Fordering-theme-engine) | v0.4.0 | Ordering, Inc. | api-core's theme engine (version 2 themes) in PHP: the same schema, the same ru… |
-| 2026-10-20 21:27:40 | [chevere/translate](https://www.nuget.org/packages/chevere%2Ftranslate) | 1.0.0 | Rodolfo Berrios | A chevere translate component. |
-| 2026-10-20 21:33:27 | [risetechapps/media-for-laravel](https://www.nuget.org/packages/risetechapps%2Fmedia-for-laravel) | 1.0.0 | Rise Tech | Laravel package for advanced media and upload management, with exact storage ac… |
-| 2026-10-20 21:59:55 | [zalliant/ethernize-core](https://www.nuget.org/packages/zalliant%2Fethernize-core) | v0.1.0-beta.1 |  | Núcleo do Zalliant Ethernize: container, HTTP, middleware e roteamento. |
-| 2026-10-20 22:00:03 | [zalliant/ethernize-weave](https://www.nuget.org/packages/zalliant%2Fethernize-weave) | v0.1.0-beta.1 |  | Weave: compiled, contextually escaped template engine for Zalliant Ethernize. |
-| 2026-10-20 22:00:11 | [zalliant/ethernize-pulse](https://www.nuget.org/packages/zalliant%2Fethernize-pulse) | v0.1.0-beta.1 |  | Pulse: server-driven reactive components for Zalliant Ethernize. |
-| 2026-10-20 22:00:18 | [zalliant/ethernize-strata](https://www.nuget.org/packages/zalliant%2Fethernize-strata) | v0.1.0-beta.1 |  | Strata: persistence foundation (PDO connections, query builder, transactions, m… |
-| 2026-10-20 22:00:26 | [zalliant/ethernize-shield](https://www.nuget.org/packages/zalliant%2Fethernize-shield) | v0.1.0-beta.1 |  | Shield: authentication, authorization, CSRF protection and secure sessions for… |
-| 2026-10-20 22:00:34 | [zalliant/ethernize](https://www.nuget.org/packages/zalliant%2Fethernize) | v0.1.0-beta.1 |  | Application skeleton for Zalliant Ethernize (experimental beta). |
-| 2026-10-20 22:05:48 | [ssdev/laravel-headless](https://www.nuget.org/packages/ssdev%2Flaravel-headless) | v0.1.1 | Sead Silajdzic | Installable Laravel foundation with authentication, teams, roles, 2FA and multi… |
+| 2026-10-20 22:24:21 | [yousef-aman/laravel-feedback-board](https://www.nuget.org/packages/yousef-aman%2Flaravel-feedback-board) | v1.0.1 | Yousef Aman | Self-hosted in-app feedback board for Laravel — clients report, developers reso… |
+| 2026-10-20 22:32:44 | [ornio/filament-decorated-column](https://www.nuget.org/packages/ornio%2Ffilament-decorated-column) | v1.0.0 | Flamur Mavraj | Badge and icon decorations before or after the text of Filament table columns a… |
+| 2026-10-20 22:35:37 | [bluedot-bd/sanity-check](https://www.nuget.org/packages/bluedot-bd%2Fsanity-check) | v1.0.0 | Bluedot Technology Ltd. | Malicious payload filter and security posture checks for Laravel applications. |
+| 2026-10-20 22:42:09 | [mnd/dm-platform-client](https://www.nuget.org/packages/mnd%2Fdm-platform-client) | v1.0.0 |  | PHP client of Drift Manager Platform API |
 
 ## Data source
 
