@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-20T09:22:39Z,systopia/de.systopia.selfservice,1.1.0,SYSTOPIA GmbH,Infrastructure for personalised and selfservice forms
+2026-10-20T09:26:43Z,silarhi/ux-icons-js-bundle,v0.1.2,Guillaume Sainthillier,"Render Symfony UX Icons in JavaScript, React and Vue, with the same attributes and configuration as ux_icon() — the PHP companion to @silarhi/ux-icons-js"
+2026-10-20T09:30:09Z,wexample/symfony-remote-db-ip,1.0.1,,
+2026-10-20T09:30:12Z,amrosslee/global-prayer-times,v1.0.0,,"Offline, framework-independent Islamic prayer-time calculations"
+2026-10-20T09:51:45Z,rabbitevents/deduplication,v1.0.0,Eugene Kirdzei,"Skips messages redelivered to RabbitEvents listeners, using a Laravel cache store shared by the workers"
+2026-10-20T09:58:43Z,dmlab/module-typesafe-core,0.0.1,,"TypeSafe (Jev) AI client for Magento 2: shared connection with your own encrypted API key, response cache, monthly token budget, retries and rate limiting."
+2026-10-20T09:58:44Z,dmlab/module-catalog-enrich,0.0.1,,"AI product attribute enrichment for Magento 2: fills empty select, multiselect and Yes/No attributes (layered navigation filters) from product descriptions, with review queue, auto-apply and revert."
+2026-10-20T10:12:25Z,devaction/ui,v0.1.0,,DevAction UI: componentes Blade para Laravel/Livewire com Tailwind CSS v4 e ícones Hugeicons Stroke Rounded.
+2026-10-20T10:16:04Z,ev-soft/clever-html-engine,v1.7.6,EV-soft,"php2html: build HTML5 pages, forms, tables and cards with PHP 8 functions - translation, hints, themes and CSRF built in."
