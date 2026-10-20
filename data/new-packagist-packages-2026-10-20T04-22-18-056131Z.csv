@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-20T03:31:53Z,tyto-php/router,v0.0.1,Viktor Leite,"Roteador minimalista de alta performance em PHP puro com suporte a atributos, middlewares e cache"
+2026-10-20T03:44:42Z,hallmark/hallmark,v1.0.0,Luciano Federico Pereira,"A modern, fully-typed PSR-3 logging library for PHP 8.3+ — the handler/formatter/processor architecture of Monolog, rebuilt from scratch around enums, readonly value objects and strict types."
+2026-10-20T03:56:43Z,tsumiki-labs/extension-builder,1.0.1,,

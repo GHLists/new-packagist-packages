@@ -15,20 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 03:19 UTC
+## Latest list — 2026-10-20 04:22 UTC
 
-New packages created between 2026-10-20 02:21 UTC and 2026-10-20 03:19 UTC.
+New packages created between 2026-10-20 03:19 UTC and 2026-10-20 04:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T03-19-46-85585Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T04-22-18-056131Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 02:26:03 | [isaech-solutions/sdk](https://www.nuget.org/packages/isaech-solutions%2Fsdk) | v0.0.3 | Isaac Machakata | An SDK for accessing our services via our dedicated api |
-| 2026-10-20 02:48:26 | [porro/laravel-connector](https://www.nuget.org/packages/porro%2Flaravel-connector) | v0.1.1 |  | Read-only Porro connector for Laravel: versions, advisories, scheduler, queues,… |
-| 2026-10-20 02:48:44 | [stoneholl/module-related-customer-orders](https://www.nuget.org/packages/stoneholl%2Fmodule-related-customer-orders) | v1.0.0 |  | Bounded same-store customer order history for Magento Admin, with optional stri… |
-| 2026-10-20 02:50:15 | [porro/filament-connector](https://www.nuget.org/packages/porro%2Ffilament-connector) | v0.1.1 |  | Porro connector for Filament 3–5: Filament, Livewire and plugin versions plus p… |
-| 2026-10-20 02:51:19 | [porro/statamic-connector](https://www.nuget.org/packages/porro%2Fstatamic-connector) | v0.1.1 |  | Porro connector for Statamic: Statamic and addon versions plus settings, on top… |
-| 2026-10-20 03:08:43 | [tsumiki-labs/extension-builder](https://www.nuget.org/packages/tsumiki-labs%2Fextension-builder) | 1.0.0 |  |  |
+| 2026-10-20 03:31:53 | [tyto-php/router](https://www.nuget.org/packages/tyto-php%2Frouter) | v0.0.1 | Viktor Leite | Roteador minimalista de alta performance em PHP puro com suporte a atributos, m… |
+| 2026-10-20 03:44:42 | [hallmark/hallmark](https://www.nuget.org/packages/hallmark%2Fhallmark) | v1.0.0 | Luciano Federico Pereira | A modern, fully-typed PSR-3 logging library for PHP 8.3+ — the handler/formatte… |
+| 2026-10-20 03:56:43 | [tsumiki-labs/extension-builder](https://www.nuget.org/packages/tsumiki-labs%2Fextension-builder) | 1.0.1 |  |  |
 
 ## Data source
 
