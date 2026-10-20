@@ -15,34 +15,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 15:22 UTC
+## Latest list — 2026-10-20 16:20 UTC
 
-New packages created between 2026-10-20 14:22 UTC and 2026-10-20 15:22 UTC.
+New packages created between 2026-10-20 15:22 UTC and 2026-10-20 16:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T15-22-23-154317Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T16-20-50-674093Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 14:22:50 | [wiseadmin/wise-config](https://www.nuget.org/packages/wiseadmin%2Fwise-config) | v1.0.1 | WiseAdmin Team | WiseAdmin 键值配置与字典管理包 — 支持多类型值、分组缓存、历史版本追溯与 HTML 净化过滤 |
-| 2026-10-20 14:22:50 | [wiseadmin/wise-dict](https://www.nuget.org/packages/wiseadmin%2Fwise-dict) | v1.0.1 | WiseAdmin Team | WiseAdmin 键值配置与字典管理包 — 支持多类型值、分组缓存、历史版本追溯与 HTML 净化过滤 |
-| 2026-10-20 14:23:02 | [wiseadmin/wise-health-check](https://www.nuget.org/packages/wiseadmin%2Fwise-health-check) | v1.0.1 | WiseAdmin Team | WiseAdmin 环境与健康检测包 — 服务器环境诊断、PHP 扩展检查、目录权限验证与系统状态实时监控 |
-| 2026-10-20 14:23:17 | [wiseadmin/wise-image](https://www.nuget.org/packages/wiseadmin%2Fwise-image) | v1.0.1 | WiseAdmin Team | WiseAdmin 图片处理包 — 支持 GD/Imagick 双驱动、阿里云 OSS 风格参数处理、防盗链与签名验证 |
-| 2026-10-20 14:23:34 | [wiseadmin/wise-jwt](https://www.nuget.org/packages/wiseadmin%2Fwise-jwt) | v1.0.1 | WiseAdmin Team | WiseAdmin JWT 令牌管理包 — 签发、校验、吊销、续签，支持 HMAC/RSA/ECDSA/EdDSA 多种算法 |
-| 2026-10-20 14:23:47 | [wiseadmin/wise-login-security](https://www.nuget.org/packages/wiseadmin%2Fwise-login-security) | v1.0.1 | WiseAdmin Team | WiseAdmin 登录安全包 — 验证码校验、失败次数锁定、IP 黑白名单、双因素认证（TOTP）与可信设备管理 |
-| 2026-10-20 14:24:02 | [wiseadmin/wise-notification](https://www.nuget.org/packages/wiseadmin%2Fwise-notification) | v1.0.1 | WiseAdmin Team | WiseAdmin 多通道消息通知组件 — 支持邮件、短信、钉钉、站内信等通道，提供模板引擎、中间件与事件驱动能力 |
-| 2026-10-20 14:24:18 | [wiseadmin/wise-oauth](https://www.nuget.org/packages/wiseadmin%2Fwise-oauth) | v1.0.1 | WiseAdmin Team | WiseAdmin 第三方 OAuth 登录包 — 支持微信/QQ/GitHub/钉钉/Gitee/Google/微博等平台，自动关联或创建账号，多账号绑定解绑 |
-| 2026-10-20 14:24:39 | [wiseadmin/wise-operation-log](https://www.nuget.org/packages/wiseadmin%2Fwise-operation-log) | v1.0.1 | WiseAdmin Team | WiseAdmin 操作日志扩展包 — 基于 PHP 8 Attribute 的声明式操作日志记录，支持敏感数据脱敏、异常检测与自动归档 |
-| 2026-10-20 14:24:57 | [wiseadmin/wise-workflow](https://www.nuget.org/packages/wiseadmin%2Fwise-workflow) | v1.0.1 | WiseAdmin Team | WiseAdmin 工作流引擎 — 支持流程定义、多实例流转、条件分支、超时处理与事件通知，内置状态机驱动 |
-| 2026-10-20 14:41:15 | [wiseadmin/wise-form-schema](https://www.nuget.org/packages/wiseadmin%2Fwise-form-schema) | v1.0.1 |  | WiseAdmin 统一表单定义语言内核 — Fluent API 字段构建器 + 验证规则生成 + 数据过滤 |
-| 2026-10-20 14:41:35 | [wiseadmin/wise-webhook](https://www.nuget.org/packages/wiseadmin%2Fwise-webhook) | v1.0.1 | WiseAdmin Team | WiseAdmin Webhook 发送与接收解决方案 — 支持签名、重试、退避、多端点、队列处理 |
-| 2026-10-20 14:45:43 | [l1ntu/frigate-api](https://www.nuget.org/packages/l1ntu%2Ffrigate-api) | v1.0.0 | Ihor Chaban | PHP client for the Frigate NVR HTTP API |
-| 2026-10-20 14:49:24 | [digitaledinge/contao-hubspot](https://www.nuget.org/packages/digitaledinge%2Fcontao-hubspot) | 0.1.0 | Digitale Dinge GmbH; Sebastia… | Send Contao form submissions to the HubSpot Forms API, including legal consent. |
-| 2026-10-20 14:53:17 | [acex/core](https://www.nuget.org/packages/acex%2Fcore) | v1.0.0 | Celionatti | The core engine and library for the Ace PHP MVC Framework. |
-| 2026-10-20 14:58:26 | [webdna/craft-siteseer](https://www.nuget.org/packages/webdna%2Fcraft-siteseer) | 1.1.0 |  | Visit all the pages |
-| 2026-10-20 14:59:12 | [hryvinskyi/magento2-data-layer](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-data-layer) | 1.0.0 | Volodymyr Hryvinskyi | GA4 ecommerce data layer for Google Tag Manager: settings, events built on the… |
-| 2026-10-20 14:59:12 | [hryvinskyi/magento2-data-layer-admin-ui](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-data-layer-admin-ui) | 1.0.0 | Volodymyr Hryvinskyi | Admin surface of the GA4 data layer: its configuration section in the Sales tab… |
-| 2026-10-20 15:08:16 | [bsthen/cambodia-geo](https://www.nuget.org/packages/bsthen%2Fcambodia-geo) | v1.0.0 | bsthen | Lightweight, zero-dependency lookup of Cambodia's provinces, districts, commune… |
-| 2026-10-20 15:09:31 | [wiseadmin/framework](https://www.nuget.org/packages/wiseadmin%2Fframework) | v1.0.1 | wiseadmin | the wiseadmin framework |
+| 2026-10-20 15:25:27 | [acex/ace-framework](https://www.nuget.org/packages/acex%2Face-framework) | v1.0.0 | Celionatti | The official application skeleton and starter for the Ace PHP MVC Framework. |
+| 2026-10-20 15:25:52 | [wexample/php-schema-org](https://www.nuget.org/packages/wexample%2Fphp-schema-org) | 1.1.0 | weeger | The schema.org vocabulary of a release, to check a description against and writ… |
+| 2026-10-20 15:31:03 | [alex-volga/assemblyai-php](https://www.nuget.org/packages/alex-volga%2Fassemblyai-php) | v1.0.0 | Oleksandr Volha | Modern PHP SDK for AssemblyAI Speech-to-Text and Audio Intelligence API |
+| 2026-10-20 15:35:02 | [j87nl/laravel-mailing](https://www.nuget.org/packages/j87nl%2Flaravel-mailing) | v0.1.1 | Johan Montenij | Mailing lists for Laravel: double opt-in sign-up, consent records, one-click un… |
+| 2026-10-20 15:36:15 | [ffi/c-parser](https://www.nuget.org/packages/ffi%2Fc-parser) | 1.0.0 | Nesmeyanov Kirill | PHP FFI-compatible ISO/IEC 9899:2024 (С23) parser implementation |
+| 2026-10-20 15:41:29 | [tawked/tawked-php](https://www.nuget.org/packages/tawked%2Ftawked-php) | v0.1.0 | Tawked | Official Tawked SDK for PHP: SMS OTP verification, WhatsApp Business API messag… |
+| 2026-10-20 15:44:05 | [aporat/laravel-firebase-app-check](https://www.nuget.org/packages/aporat%2Flaravel-firebase-app-check) | 0.1.0 | Adar Porat | Firebase App Check for Laravel APIs: a middleware that verifies the X-Firebase-… |
+| 2026-10-20 15:44:08 | [aporat/scrapecreators-php](https://www.nuget.org/packages/aporat%2Fscrapecreators-php) | 0.1.0 | Adar Porat | PHP client for the Scrape Creators API: typed methods for every documented endp… |
+| 2026-10-20 15:46:39 | [hosmelq/php-coding-standard](https://www.nuget.org/packages/hosmelq%2Fphp-coding-standard) | v1.0.0 | Hosmel Quintana | Opinionated ECS, Rector, and PHPStan presets for PHP and Laravel packages and a… |
+| 2026-10-20 15:50:01 | [silvershop-suite/address-lookup-loqate](https://www.nuget.org/packages/silvershop-suite%2Faddress-lookup-loqate) | 1.0.0 | RVXD | Loqate (GBG) Capture provider for silvershop-suite/address-lookup (CMS 6): the… |
+| 2026-10-20 15:50:01 | [silvershop-suite/address-lookup-myparcel](https://www.nuget.org/packages/silvershop-suite%2Faddress-lookup-myparcel) | 1.0.0 | RVXD | MyParcel Address API provider for silvershop-suite/address-lookup (CMS 6): a sa… |
+| 2026-10-20 15:50:01 | [silvershop-suite/address-lookup-postnl](https://www.nuget.org/packages/silvershop-suite%2Faddress-lookup-postnl) | 1.0.0 | RVXD | PostNL Adrescheck provider for silvershop-suite/address-lookup (CMS 6): a satel… |
+| 2026-10-20 15:50:01 | [silvershop-suite/address-lookup-pro6pp](https://www.nuget.org/packages/silvershop-suite%2Faddress-lookup-pro6pp) | 1.0.0 | RVXD | Pro6PP address provider for silvershop-suite/address-lookup (CMS 6): a satellit… |
+| 2026-10-20 15:54:59 | [ernestdefoe/onramp](https://www.nuget.org/packages/ernestdefoe%2Fonramp) | 1.0.0 | Ernest Defoe | Onramp — onboarding quests that turn new sign-ups into regulars. A short checkl… |
+| 2026-10-20 15:56:08 | [alex-volga/assemblyai-laravel](https://www.nuget.org/packages/alex-volga%2Fassemblyai-laravel) | v1.0.0 | Oleksandr Volha | AssemblyAI Speech-to-Text and Audio Intelligence SDK integration for Laravel (v… |
+| 2026-10-20 15:57:47 | [rpnfernandes/rff-qrcode](https://www.nuget.org/packages/rpnfernandes%2Frff-qrcode) | v1.0.0 | Rui Fernandes | Zero-dependency pure PHP QR Code generator (ISO/IEC 18004 compliant, Versions 1… |
+| 2026-10-20 16:07:31 | [silvershop-suite/product-identity](https://www.nuget.org/packages/silvershop-suite%2Fproduct-identity) | 1.0.0 | Remy Vaartjes; SilverShop-Sui… | Product-identity master data for SilverShop (CMS 6): EAN/GTIN and MPN on Produc… |
+| 2026-10-20 16:10:13 | [ernestdefoe/brainstorm](https://www.nuget.org/packages/ernestdefoe%2Fbrainstorm) | 1.0.0 | Ernest Defoe | Brainstorm — quizzes and knowledge tests for Flarum. Single and multiple choice… |
+| 2026-10-20 16:10:37 | [ernestdefoe/velvet-rope](https://www.nuget.org/packages/ernestdefoe%2Fvelvet-rope) | 1.0.0 | ernestdefoe | Turn readers into members on Flarum 2: give guests a set number of free discuss… |
+| 2026-10-20 16:10:51 | [ernestdefoe/cuecard](https://www.nuget.org/packages/ernestdefoe%2Fcuecard) | v1.0.0 | Ernest Defoe | Saved replies for Flarum. Shared macros for chosen groups and personal ones, wr… |
+| 2026-10-20 16:11:34 | [ernestdefoe/docket](https://www.nuget.org/packages/ernestdefoe%2Fdocket) | 1.0.0 | ernestdefoe | A report centre for Flarum 2, built on Flags: report queues, auto-assignment ru… |
 
 ## Data source
 
