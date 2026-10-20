@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-20T01:32:12Z,putuwahyu29/bps-auth,v1.0.0,Putu Wahyu,"Autentikasi Modern BPS (SSO Keycloak Pusat & Majapahit, REST API Pegawai) untuk Laravel"
+2026-10-20T01:54:22Z,s2j/inquiry-destination-service,v0.1.0,Koutarou ISHIKAWA,Inquiry SaaS Adapter (WP-Independent)
+2026-10-20T01:56:04Z,vuthaihoc/laravel-tts-client,v0.1.0,,"Laravel client for the Piper TTS API (laravel-tts-api): signs temporary tokens locally, synthesizes and streams speech."

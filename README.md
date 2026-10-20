@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 01:19 UTC
+## Latest list — 2026-10-20 02:21 UTC
 
-New packages created between 2026-10-20 00:20 UTC and 2026-10-20 01:19 UTC.
+New packages created between 2026-10-20 01:19 UTC and 2026-10-20 02:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T01-19-41-41177Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T02-21-24-547563Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 00:47:33 | [vsepohui/ruzkey](https://www.nuget.org/packages/vsepohui%2Fruzkey) | v4.0.6 |  | Ruzkey Web proxy |
+| 2026-10-20 01:32:12 | [putuwahyu29/bps-auth](https://www.nuget.org/packages/putuwahyu29%2Fbps-auth) | v1.0.0 | Putu Wahyu | Autentikasi Modern BPS (SSO Keycloak Pusat & Majapahit, REST API Pegawai) untuk… |
+| 2026-10-20 01:54:22 | [s2j/inquiry-destination-service](https://www.nuget.org/packages/s2j%2Finquiry-destination-service) | v0.1.0 | Koutarou ISHIKAWA | Inquiry SaaS Adapter (WP-Independent) |
+| 2026-10-20 01:56:04 | [vuthaihoc/laravel-tts-client](https://www.nuget.org/packages/vuthaihoc%2Flaravel-tts-client) | v0.1.0 |  | Laravel client for the Piper TTS API (laravel-tts-api): signs temporary tokens… |
 
 ## Data source
 
