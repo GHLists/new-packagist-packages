@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-20T11:30:51Z,shipaurora/cms,v1.0.2,Thomas Alrek,"Aurora: a content management system for Laravel, built on Filament."
+2026-10-20T11:35:45Z,packstub/filament-nitpick,v1.0.0-beta.1,Ion Caliman; Packstub,"Themes for Filament panels: designed looks with a per-panel default, an open registry any package can add a theme to, and a picker that lets each user choose their own."
+2026-10-20T11:37:13Z,epay/magento2-epic-payment-hyva-checkout,1.0.2,ePay Payment Solutions A/S,Hyvä Checkout compatibility module for ePay EPIC Payment for Magento 2
+2026-10-20T11:42:32Z,oluwatimilehin/spotify-music-api,v1.0.0,Tawose Oluwatimilehin,A PHP SDK wrapper for the Spotify Web API
+2026-10-20T11:49:39Z,shipaurora/aurora,v1.0.2,,"A new website on Aurora CMS: a Laravel app with the CMS installed, ready to make your own."
+2026-10-20T12:09:29Z,beaverphp/skeleton,v0.1.2,,Esqueleto de projecto limpo para o Beaver Framework

@@ -15,23 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 11:22 UTC
+## Latest list — 2026-10-20 12:19 UTC
 
-New packages created between 2026-10-20 10:21 UTC and 2026-10-20 11:22 UTC.
+New packages created between 2026-10-20 11:22 UTC and 2026-10-20 12:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T11-22-11-017465Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-20T12-19-39-296491Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 10:31:13 | [vielhuber/pinboardmcp](https://www.nuget.org/packages/vielhuber%2Fpinboardmcp) | v1.1.0 |  | Minimal PHP helper and MCP server for the complete Pinboard v1 API. |
-| 2026-10-20 10:31:38 | [dmitriy-zhukov/my-test-library](https://www.nuget.org/packages/dmitriy-zhukov%2Fmy-test-library) | 1.0.1 | Дмитрий Жуков | test library 2 |
-| 2026-10-20 10:41:12 | [shipaurora/borealis-theme](https://www.nuget.org/packages/shipaurora%2Fborealis-theme) | v1.0.0 | Thomas Alrek | Borealis, Aurora CMS's default admin theme: its styles, design tokens and prebu… |
-| 2026-10-20 10:46:18 | [juststeveking/kit](https://www.nuget.org/packages/juststeveking%2Fkit) | v0.1.2 |  | Opinionated Laravel API starter kit: token authentication, standards-compliant… |
-| 2026-10-20 10:46:39 | [farhanchoksi/laravel-pretty-logger](https://www.nuget.org/packages/farhanchoksi%2Flaravel-pretty-logger) | v1.0.1 | Farhanchoksi | Laravel Pretty Logger — a pretty_dio_logger style HTTP request/response logger… |
-| 2026-10-20 10:57:42 | [hanane/outbound-guard-bundle](https://www.nuget.org/packages/hanane%2Foutbound-guard-bundle) | v0.1.0 | Hanane | Detect excessive, duplicated and slow Symfony HttpClient calls with safe metric… |
-| 2026-10-20 10:58:26 | [nocache-dev/laravel](https://www.nuget.org/packages/nocache-dev%2Flaravel) | v1.0.0 |  | Correct Cache-Control headers for Laravel responses, plus artisan commands to c… |
-| 2026-10-20 11:16:55 | [moneymoves/sdk](https://www.nuget.org/packages/moneymoves%2Fsdk) | v1.0.0 |  | The official PHP library for the Money Moves Business API: checkouts, payments,… |
-| 2026-10-20 11:21:24 | [municipio/wp-plugin-municipio-editor-extensions](https://www.nuget.org/packages/municipio%2Fwp-plugin-municipio-editor-extensions) | 0.1.0 |  | Accessible editorial guidance for TinyMCE fields in modern Municipio. |
+| 2026-10-20 11:30:51 | [shipaurora/cms](https://www.nuget.org/packages/shipaurora%2Fcms) | v1.0.2 | Thomas Alrek | Aurora: a content management system for Laravel, built on Filament. |
+| 2026-10-20 11:35:45 | [packstub/filament-nitpick](https://www.nuget.org/packages/packstub%2Ffilament-nitpick) | v1.0.0-beta.1 | Ion Caliman; Packstub | Themes for Filament panels: designed looks with a per-panel default, an open re… |
+| 2026-10-20 11:37:13 | [epay/magento2-epic-payment-hyva-checkout](https://www.nuget.org/packages/epay%2Fmagento2-epic-payment-hyva-checkout) | 1.0.2 | ePay Payment Solutions A/S | Hyvä Checkout compatibility module for ePay EPIC Payment for Magento 2 |
+| 2026-10-20 11:42:32 | [oluwatimilehin/spotify-music-api](https://www.nuget.org/packages/oluwatimilehin%2Fspotify-music-api) | v1.0.0 | Tawose Oluwatimilehin | A PHP SDK wrapper for the Spotify Web API |
+| 2026-10-20 11:49:39 | [shipaurora/aurora](https://www.nuget.org/packages/shipaurora%2Faurora) | v1.0.2 |  | A new website on Aurora CMS: a Laravel app with the CMS installed, ready to mak… |
+| 2026-10-20 12:09:29 | [beaverphp/skeleton](https://www.nuget.org/packages/beaverphp%2Fskeleton) | v0.1.2 |  | Esqueleto de projecto limpo para o Beaver Framework |
 
 ## Data source
 
