@@ -1,0 +1,19 @@
+created_at,package,version,author,description
+2026-10-20T13:23:03Z,quittio/country-be,v0.7.0,Niklas Forst,"Quittio country pack for Belgium: VAT presets and invoice mentions, Peppol BIS for domestic business invoices, enterprise numbers, default interest of the law of 2 August 2002."
+2026-10-20T13:23:06Z,quittio/country-ch,v0.7.0,Niklas Forst,"Quittio country pack for Switzerland: VAT presets and invoice requirements of the MWSTG, Swiss QR bill with payment part, 5 Rappen rounding."
+2026-10-20T13:23:06Z,quittio/country-fr,v0.7.0,Niklas Forst,"Quittio country pack for France: VAT presets and invoice mentions (CGI, Code de commerce), the mentions of the e-invoicing reform of 2026, SIREN, late payment penalties."
+2026-10-20T13:23:08Z,quittio/country-at,v0.7.0,Niklas Forst,"Quittio country pack for Austria: UStG mandatory fields, tax presets, CIUS-AT-NAT and CIUS-AT-GOV profiles, default interest under the UGB."
+2026-10-20T13:24:02Z,gsu-cetloe/gadget-oauth-php,v1,Jeb Barger,Gadget library for working with OAuth
+2026-10-20T13:24:09Z,dz-delivery/sdk,v0.1.0,,"Unified PHP SDK for Algerian delivery carriers (ZRExpress, Yalidine, Maystro, Ecotrack)."
+2026-10-20T13:28:46Z,historyheraldry/ci4-database-translations,v1.0.0,,Database-backed translations and deployable translation seed generation for CodeIgniter 4.
+2026-10-20T13:28:59Z,historyheraldry/ci4-seed-tracker,v1.0.0,,Migration-style tracked database seeds for CodeIgniter 4.
+2026-10-20T13:45:12Z,gsu-cetloe/brightspace-api-core-php,v1,Jeb Barger,"Core client for the D2L Brightspace API: web login with multi-factor support, OAuth token handling, versioned API URL rewriting, and paging helpers, with a Symfony bundle"
+2026-10-20T13:46:18Z,njamin/wp-core,v0.1.0,,"Shared machinery of the client plugins: Logger, migration runner, asset registry."
+2026-10-20T13:46:19Z,njamin/wp-hardening,v0.1.0,,"WordPress security baseline, loaded as a must-use plugin."
+2026-10-20T13:55:24Z,tryhackx/flarum-cover-studio,v2.3.1,TryHackX,"Profile covers with repositionable focal point (pos-crop), fully integrated with FoF Upload media manager. Optional avatar focal-point editing."
+2026-10-20T13:56:36Z,gttechgr/mcp,v1.1.0,GT Tech,Laravel AI tools that measure a site through the GT Tech MCP server.
+2026-10-20T14:03:09Z,wiseadmin/wise-api,v1.0.1,WiseAdmin Team,WiseAdmin API 快速开发工具包 — 提供限流、签名验证、JWT 鉴权、统一响应格式、调试面板与 API 日志记录能力
+2026-10-20T14:09:04Z,gsu-cetloe/brightspace-api-php,v1,Jeb Barger,"Typed PHP clients for the D2L Brightspace REST API: users, enrollments, org units, and learning outcome registries, with a Symfony bundle"
+2026-10-20T14:10:37Z,victorio/filament-public-links,v0.1.0,Victorio,"Expiring, revocable public links to any Eloquent model for Filament: share a record without a login, with an access log, a branded public page and a relation manager."
+2026-10-20T14:16:16Z,tryhackx/flarum-advanced-pages,2.4.1,TryHackX,"Create advanced custom pages with HTML, BBCode, Markdown, PHP, or plain text, featuring nested hierarchies, breadcrumbs, and granular console-managed permissions for Flarum 2.x."
+2026-10-20T14:16:43Z,risetechapps/risetools,1.0.0,Rise Tech,Coleção de macros e helpers Laravel criados pela RiseTechApps.
