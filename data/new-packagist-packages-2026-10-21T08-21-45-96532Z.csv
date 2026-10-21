@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-21T07:34:48Z,abdulkadiragoliya/spin-to-win,1.0.1,Abdulkadir Agoliya,Gamified Spin to Win prize wheel and promotional coupon system for Craft CMS and Craft Commerce.
+2026-10-21T07:40:01Z,amjadiqbal/laravel-ninja-keys,v1.0.0,Amjad Iqbal,"Cmd+K command palette for Laravel: build ninja-keys actions in PHP, filter them by Gate abilities, render the keyboard shortcut menu with one Blade component, with Livewire wire:navigate support and no npm build step."
+2026-10-21T07:40:02Z,amjadiqbal/laravel-sonner,v1.0.0,Amjad Iqbal,"Sonner toast notifications for Laravel without React: flash toasts from PHP with toast()->success(), show them with a Blade component, and toast from Livewire, Alpine or JavaScript with Sonner's real styles and animations."
+2026-10-21T07:46:53Z,amjadiqbal/laravel-sweetalert2,v1.0.0,Amjad Iqbal,"SweetAlert2 for Laravel: flash success, error and toast popups from controllers, fire them from Livewire or Alpine, and confirm deletes with a data attribute. SweetAlert2 11, no jQuery, CSP nonce aware."

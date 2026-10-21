@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 07:20 UTC
+## Latest list — 2026-10-21 08:21 UTC
 
-New packages created between 2026-10-21 06:19 UTC and 2026-10-21 07:20 UTC.
+New packages created between 2026-10-21 07:20 UTC and 2026-10-21 08:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T07-20-07-320271Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T08-21-45-96532Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 06:35:05 | [arielespinoza07/refract](https://www.nuget.org/packages/arielespinoza07%2Frefract) | v0.1.0 | Ariel Espinoza | A fluent, immutable and fully typed API for PHP's native reflection: classes, e… |
-| 2026-10-21 06:45:34 | [xupaoye/cangqiong-captcha](https://www.nuget.org/packages/xupaoye%2Fcangqiong-captcha) | v1.0.1 |  | Cangqiong CAPTCHA: open-source image challenges and proof-of-work primitives im… |
+| 2026-10-21 07:34:48 | [abdulkadiragoliya/spin-to-win](https://www.nuget.org/packages/abdulkadiragoliya%2Fspin-to-win) | 1.0.1 | Abdulkadir Agoliya | Gamified Spin to Win prize wheel and promotional coupon system for Craft CMS an… |
+| 2026-10-21 07:40:01 | [amjadiqbal/laravel-ninja-keys](https://www.nuget.org/packages/amjadiqbal%2Flaravel-ninja-keys) | v1.0.0 | Amjad Iqbal | Cmd+K command palette for Laravel: build ninja-keys actions in PHP, filter them… |
+| 2026-10-21 07:40:02 | [amjadiqbal/laravel-sonner](https://www.nuget.org/packages/amjadiqbal%2Flaravel-sonner) | v1.0.0 | Amjad Iqbal | Sonner toast notifications for Laravel without React: flash toasts from PHP wit… |
+| 2026-10-21 07:46:53 | [amjadiqbal/laravel-sweetalert2](https://www.nuget.org/packages/amjadiqbal%2Flaravel-sweetalert2) | v1.0.0 | Amjad Iqbal | SweetAlert2 for Laravel: flash success, error and toast popups from controllers… |
 
 ## Data source
 
