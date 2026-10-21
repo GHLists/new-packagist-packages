@@ -15,22 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 09:19 UTC
+## Latest list — 2026-10-21 10:20 UTC
 
-New packages created between 2026-10-21 08:21 UTC and 2026-10-21 09:19 UTC.
+New packages created between 2026-10-21 09:19 UTC and 2026-10-21 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T09-19-27-859279Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T10-20-46-709957Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 08:25:14 | [wearejust/statamic-form-submission-retention](https://www.nuget.org/packages/wearejust%2Fstatamic-form-submission-retention) | 1.0.0 |  | Configurable retention and cleanup for Statamic form submissions. |
-| 2026-10-21 08:26:39 | [the-firehub-project/foundation](https://www.nuget.org/packages/the-firehub-project%2Ffoundation) | v0.1.0 | Danijel Galić | A high-level foundation layer of the FireHub ecosystem, built on top of Runtime… |
-| 2026-10-21 08:29:38 | [amjadiqbal/refresher](https://www.nuget.org/packages/amjadiqbal%2Frefresher) | v1.1.0 | Amjad Iqbal | Faster Laravel tests: a drop-in for RefreshDatabase that caches the migrated (a… |
-| 2026-10-21 08:34:27 | [the-firehub-project/module](https://www.nuget.org/packages/the-firehub-project%2Fmodule) | v0.1.0 | Danijel Galić | Modular application composition and lifecycle integration for The FireHub Proje… |
-| 2026-10-21 08:44:09 | [the-firehub-project/kernel](https://www.nuget.org/packages/the-firehub-project%2Fkernel) | v0.1.0 | Danijel Galić | Application kernel providing bootstrap orchestration, lifecycle management, and… |
-| 2026-10-21 08:51:56 | [claudiodekker/laravel-guardrails](https://www.nuget.org/packages/claudiodekker%2Flaravel-guardrails) | v1.0.0 | Claudio Dekker | Deterministic repository checks for Laravel apps, run by a pre-commit hook and… |
-| 2026-10-21 08:56:32 | [the-firehub-project/container](https://www.nuget.org/packages/the-firehub-project%2Fcontainer) | v0.1.0 | Danijel Galić | A modular dependency injection container for The FireHub Project, providing ser… |
-| 2026-10-21 09:10:13 | [solophp/repository](https://www.nuget.org/packages/solophp%2Frepository) | v1.0.0-RC1 | Vitaliy Olos | Typed PHP repositories with consistent translation fallback and batch-loaded re… |
+| 2026-10-21 09:19:35 | [firstlightui/nativephp](https://www.nuget.org/packages/firstlightui%2Fnativephp) | v1.0.0-RC1 | Firstlight UI | Native controls for NativePHP, shaped for each platform. |
+| 2026-10-21 09:33:42 | [iqual/icms-test-suite](https://www.nuget.org/packages/iqual%2Ficms-test-suite) | 1.6.2-rc.1 |  | ICMS product test suite - PHPUnit/DTT tests asserting the ICMS contract in ever… |
+| 2026-10-21 09:47:30 | [plagiarismcheckerx/plagx-cite](https://www.nuget.org/packages/plagiarismcheckerx%2Fplagx-cite) | v0.2.1 | Plagiarism Checker X | Free APA and MLA citation generator and reference checker for PHP: reference li… |
+| 2026-10-21 09:55:45 | [gboquizosanchez/phpstan-code-limits](https://www.nuget.org/packages/gboquizosanchez%2Fphpstan-code-limits) | v1.0.1 | Germán Boquizo Sánchez | PHPStan rules that enforce size, layout and expression limits on PHP code |
+| 2026-10-21 10:01:58 | [the-firehub-project/application](https://www.nuget.org/packages/the-firehub-project%2Fapplication) | v0.1.0 | Danijel Galić | Application lifecycle management and orchestration runtime for The FireHub Proj… |
 
 ## Data source
 

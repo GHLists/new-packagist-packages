@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-21T09:19:35Z,firstlightui/nativephp,v1.0.0-RC1,Firstlight UI,"Native controls for NativePHP, shaped for each platform."
+2026-10-21T09:33:42Z,iqual/icms-test-suite,1.6.2-rc.1,,ICMS product test suite - PHPUnit/DTT tests asserting the ICMS contract in every client project.
+2026-10-21T09:47:30Z,plagiarismcheckerx/plagx-cite,v0.2.1,Plagiarism Checker X,"Free APA and MLA citation generator and reference checker for PHP: reference lists, in-text citations, BibTeX import/export, DOI to citation and duplicate reference detection. By Plagiarism Checker X."
+2026-10-21T09:55:45Z,gboquizosanchez/phpstan-code-limits,v1.0.1,Germán Boquizo Sánchez,"PHPStan rules that enforce size, layout and expression limits on PHP code"
+2026-10-21T10:01:58Z,the-firehub-project/application,v0.1.0,Danijel Galić,Application lifecycle management and orchestration runtime for The FireHub Project.
