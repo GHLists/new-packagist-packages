@@ -15,19 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 18:19 UTC
+## Latest list — 2026-10-21 19:19 UTC
 
-New packages created between 2026-10-21 17:20 UTC and 2026-10-21 18:19 UTC.
+New packages created between 2026-10-21 18:19 UTC and 2026-10-21 19:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T18-19-53-708626Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T19-19-05-262247Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 17:35:28 | [codex-team/kohana-aliases](https://www.nuget.org/packages/codex-team%2Fkohana-aliases) | v1.0.0 |  | This module allows you to make usefull and beautifull URLs for your service. |
-| 2026-10-21 17:48:23 | [supseven/opinion](https://www.nuget.org/packages/supseven%2Fopinion) | v1.0.0 | Volker Kemeter | Collects feedback from editors including a screenshot and environment details a… |
-| 2026-10-21 17:48:23 | [vkemeter/opinion](https://www.nuget.org/packages/vkemeter%2Fopinion) | v1.0.0 | Volker Kemeter | Collects feedback from editors including a screenshot and environment details a… |
-| 2026-10-21 18:01:56 | [amjadiqbal/laravel-webpush-kit](https://www.nuget.org/packages/amjadiqbal%2Flaravel-webpush-kit) | v0.1.0 | Amjad Iqbal | The browser side of Laravel web push notifications for laravel-notification-cha… |
-| 2026-10-21 18:12:34 | [amjadiqbal/laravel-redis-advisor](https://www.nuget.org/packages/amjadiqbal%2Flaravel-redis-advisor) | v0.1.0 | Amjad Iqbal | Read-only Redis and Valkey health advisor for Laravel: finds queues that can si… |
+| 2026-10-21 18:33:38 | [exactstudios/framework](https://www.nuget.org/packages/exactstudios%2Fframework) | v1.0.0 | Exact Studios | Exact Studios framework |
+| 2026-10-21 18:52:06 | [bautrukevich/fractional-indexing](https://www.nuget.org/packages/bautrukevich%2Ffractional-indexing) | v1.0.0 | Manolis Dermitzakis | Fractional Indexing implementation in PHP |
+| 2026-10-21 19:13:46 | [ahmedibrahimyassindev/tamara-php-sdk](https://www.nuget.org/packages/ahmedibrahimyassindev%2Ftamara-php-sdk) | v1.0.0 | Ahmed Ibrahim Yassin | Modern, framework-agnostic PHP SDK for Tamara Buy Now Pay Later (BNPL) Payment… |
 
 ## Data source
 

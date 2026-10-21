@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-21T18:33:38Z,exactstudios/framework,v1.0.0,Exact Studios,Exact Studios framework
+2026-10-21T18:52:06Z,bautrukevich/fractional-indexing,v1.0.0,Manolis Dermitzakis,Fractional Indexing implementation in PHP
+2026-10-21T19:13:46Z,ahmedibrahimyassindev/tamara-php-sdk,v1.0.0,Ahmed Ibrahim Yassin,"Modern, framework-agnostic PHP SDK for Tamara Buy Now Pay Later (BNPL) Payment Gateway with native Laravel support"
