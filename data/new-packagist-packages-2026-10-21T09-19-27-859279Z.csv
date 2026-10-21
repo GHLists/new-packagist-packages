@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-21T08:25:14Z,wearejust/statamic-form-submission-retention,1.0.0,,Configurable retention and cleanup for Statamic form submissions.
+2026-10-21T08:26:39Z,the-firehub-project/foundation,v0.1.0,Danijel Galić,"A high-level foundation layer of the FireHub ecosystem, built on top of Runtime to provide expressive and developer-friendly APIs for common programming tasks."
+2026-10-21T08:29:38Z,amjadiqbal/refresher,v1.1.0,Amjad Iqbal,"Faster Laravel tests: a drop-in for RefreshDatabase that caches the migrated (and seeded) test database as a snapshot and restores it instead of running migrate:fresh. MySQL, MariaDB and SQLite, PHPUnit and Pest."
+2026-10-21T08:34:27Z,the-firehub-project/module,v0.1.0,Danijel Galić,Modular application composition and lifecycle integration for The FireHub Project.
+2026-10-21T08:44:09Z,the-firehub-project/kernel,v0.1.0,Danijel Galić,"Application kernel providing bootstrap orchestration, lifecycle management, and service integration for the FireHub Framework."
+2026-10-21T08:51:56Z,claudiodekker/laravel-guardrails,v1.0.0,Claudio Dekker,"Deterministic repository checks for Laravel apps, run by a pre-commit hook and in CI."
+2026-10-21T08:56:32Z,the-firehub-project/container,v0.1.0,Danijel Galić,"A modular dependency injection container for The FireHub Project, providing service registration, dependency resolution, lifecycle management, and extensible service definitions."
+2026-10-21T09:10:13Z,solophp/repository,v1.0.0-RC1,Vitaliy Olos,Typed PHP repositories with consistent translation fallback and batch-loaded relations
