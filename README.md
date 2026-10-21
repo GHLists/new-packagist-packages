@@ -15,23 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 16:21 UTC
+## Latest list — 2026-10-21 17:20 UTC
 
-New packages created between 2026-10-21 15:22 UTC and 2026-10-21 16:21 UTC.
+New packages created between 2026-10-21 16:21 UTC and 2026-10-21 17:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T16-21-39-707782Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T17-20-28-474017Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 15:28:49 | [rivalex/lingua](https://www.nuget.org/packages/rivalex%2Flingua) | v2.1.1 | Alessandro Rivolta | Self-hosted Laravel translation manager for the TALL stack: edit, sync, import/… |
-| 2026-10-21 15:33:02 | [keel/skeleton](https://www.nuget.org/packages/keel%2Fskeleton) | v1.0.1 |  | Project template for the Keel micro-framework: composer create-project keel/ske… |
-| 2026-10-21 15:34:17 | [ad-go/sync](https://www.nuget.org/packages/ad-go%2Fsync) | v0.0.1 | k | Active-active database synchronisation for two CodeIgniter 4 instances over HTT… |
-| 2026-10-21 15:36:30 | [pixelfix/installer](https://www.nuget.org/packages/pixelfix%2Finstaller) | 0.1.0 |  | Global CLI installer for PixelFix applications |
-| 2026-10-21 15:42:05 | [gvargas/atusan-cli](https://www.nuget.org/packages/gvargas%2Fatusan-cli) | v1.0 |  | Command Line Interface for ATUSAN 3 |
-| 2026-10-21 16:02:01 | [hanane/idempotency-guard-bundle](https://www.nuget.org/packages/hanane%2Fidempotency-guard-bundle) | v0.1.0 | Hanane | Idempotency keys and safe response replay for selected Symfony HTTP operations. |
-| 2026-10-21 16:05:52 | [dragonbytetech/phpstan-xenforo](https://www.nuget.org/packages/dragonbytetech%2Fphpstan-xenforo) | 1.0.0 | Fillip H. | PHPStan extension for analysing XenForo 2.3 add-ons without false positives fro… |
-| 2026-10-21 16:08:10 | [wizniche/wizpay-checkout-sdk](https://www.nuget.org/packages/wizniche%2Fwizpay-checkout-sdk) | v0.1.2 | WIZPay | Server SDK for WIZPay Checkout: create checkout sessions and verify webhooks. |
-| 2026-10-21 16:08:22 | [hryvinskyi/magento2-activity-log](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-activity-log) | 1.0.0 | Volodymyr Hryvinskyi | One journal of who did what in the store back office, through which channel and… |
+| 2026-10-21 16:38:09 | [ecuafact/sdk](https://www.nuget.org/packages/ecuafact%2Fsdk) | v1.0.0-beta3 | Ecuanexus | Cliente oficial en PHP del API publico de facturacion electronica Ecuafact (con… |
+| 2026-10-21 16:54:38 | [ernestdefoe/longshot](https://www.nuget.org/packages/ernestdefoe%2Flongshot) | 1.0.0 | Ernest Defoe | Longshot — a virtual-points sportsbook for Flarum. Moneylines, spreads, totals… |
+| 2026-10-21 16:55:33 | [cpuchalver/filament-starter-kit](https://www.nuget.org/packages/cpuchalver%2Ffilament-starter-kit) | v1.0.1 |  | The skeleton application for the Laravel framework. |
+| 2026-10-21 16:56:26 | [j87nl/laravel-error-reporter](https://www.nuget.org/packages/j87nl%2Flaravel-error-reporter) | v0.1.0 | Johan Montenij | Reports Laravel and browser errors to the J87 error collector. |
+| 2026-10-21 17:05:31 | [neuron-php/labor-board](https://www.nuget.org/packages/neuron-php%2Flabor-board) | 0.1.0 | Lee Jones | Job queue dashboard for Neuron MVC and CMS applications: pending, delayed, rese… |
+| 2026-10-21 17:06:15 | [biru/payhub](https://www.nuget.org/packages/biru%2Fpayhub) | v1.0.0 | Biru Indonesia Creative | Official PHP SDK for Biru PayHub Centralized Multi-Platform Payment Gateway (Mi… |
+| 2026-10-21 17:10:50 | [amjadiqbal/filament-change-requests](https://www.nuget.org/packages/amjadiqbal%2Ffilament-change-requests) | v1.0.0 | Amjad Iqbal | Hold record edits in Filament as change requests: field-by-field diff, approve,… |
 
 ## Data source
 

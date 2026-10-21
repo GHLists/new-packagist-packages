@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-21T16:38:09Z,ecuafact/sdk,v1.0.0-beta3,Ecuanexus,Cliente oficial en PHP del API publico de facturacion electronica Ecuafact (contrato v1).
+2026-10-21T16:54:38Z,ernestdefoe/longshot,1.0.0,Ernest Defoe,"Longshot — a virtual-points sportsbook for Flarum. Moneylines, spreads, totals and props on real games or your own events; singles and parlays; a member-vs-member exchange; settlement straight from the Picks data feed; weekly allowances, per-group limits and leaderboards. Points only: no real money…"
+2026-10-21T16:55:33Z,cpuchalver/filament-starter-kit,v1.0.1,,The skeleton application for the Laravel framework.
+2026-10-21T16:56:26Z,j87nl/laravel-error-reporter,v0.1.0,Johan Montenij,Reports Laravel and browser errors to the J87 error collector.
+2026-10-21T17:05:31Z,neuron-php/labor-board,0.1.0,Lee Jones,"Job queue dashboard for Neuron MVC and CMS applications: pending, delayed, reserved and failed jobs, retry, delete, dispatch."
+2026-10-21T17:06:15Z,biru/payhub,v1.0.0,Biru Indonesia Creative,"Official PHP SDK for Biru PayHub Centralized Multi-Platform Payment Gateway (Midtrans, Duitku, DOKU)"
+2026-10-21T17:10:50Z,amjadiqbal/filament-change-requests,v1.0.0,Amjad Iqbal,"Hold record edits in Filament as change requests: field-by-field diff, approve, reject and roll back. Built on cjmellor/approval."
