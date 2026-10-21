@@ -15,23 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 13:21 UTC
+## Latest list — 2026-10-21 14:22 UTC
 
-New packages created between 2026-10-21 12:20 UTC and 2026-10-21 13:21 UTC.
+New packages created between 2026-10-21 13:21 UTC and 2026-10-21 14:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T13-21-32-625549Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T14-22-54-405421Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 12:22:53 | [esoul-cz/phpunit-test-evidence](https://www.nuget.org/packages/esoul-cz%2Fphpunit-test-evidence) | v0.1.1 | Tomáš Vojík | PHPUnit extension and CLI that turn a tagged group of tests into a Markdown evi… |
-| 2026-10-21 12:25:02 | [nyumbani/daraja](https://www.nuget.org/packages/nyumbani%2Fdaraja) | v1.0.0 | Alvin Kaburu | A small Laravel client for Safaricom's Daraja API: STK push, C2B and Pull trans… |
-| 2026-10-21 12:25:06 | [nyumbani/messaging](https://www.nuget.org/packages/nyumbani%2Fmessaging) | v1.0.0 | Alvin Kaburu | Queue SMS from any Nyumbani app through Nyumbani Connect: a message builder, ha… |
-| 2026-10-21 12:33:38 | [amjadiqbal/laravel-gridjs](https://www.nuget.org/packages/amjadiqbal%2Flaravel-gridjs) | v1.0.0 | Amjad Iqbal | Grid.js datagrid for Laravel: turn any Eloquent query into a searchable, sortab… |
-| 2026-10-21 12:34:56 | [amjadiqbal/laravel-mysql-advisor](https://www.nuget.org/packages/amjadiqbal%2Flaravel-mysql-advisor) | v0.1.0 | Amjad Iqbal | Read-only MySQL and MariaDB health advisor for Laravel: finds unused, redundant… |
-| 2026-10-21 12:35:15 | [nyumbani/essentials](https://www.nuget.org/packages/nyumbani%2Fessentials) | v1.0.0 | Alvin Kaburu | Opinionated helpers, services, UIs, packages, and AI skills and rules that defi… |
-| 2026-10-21 12:35:55 | [stero/shield](https://www.nuget.org/packages/stero%2Fshield) | v0.1.1 | Stero Tech Inc. | Framework-agnostic intrusion detection and prevention layer for PHP web apps. |
-| 2026-10-21 12:39:55 | [ahmdrv/laravel-nav](https://www.nuget.org/packages/ahmdrv%2Flaravel-nav) | v0.1.1 | ahmdrv | Fluent navigation definitions and immutable request-aware navigation trees for… |
-| 2026-10-21 12:49:18 | [victorio/filament-acceptance](https://www.nuget.org/packages/victorio%2Ffilament-acceptance) | v0.1.0 | Victorio | Send any Filament record for approval: sealed, tamper-evident versions and prov… |
+| 2026-10-21 13:25:18 | [etfusion/vari-php-sdk](https://www.nuget.org/packages/etfusion%2Fvari-php-sdk) | v1.0.2 |  | PHP SDK for the V-ARI Stable API (mutual TLS): identity, certificate rotation,… |
+| 2026-10-21 13:26:04 | [contenir-extension/formbuilder](https://www.nuget.org/packages/contenir-extension%2Fformbuilder) | v0.1.0 |  | The form builder module for Contenir CMS: the Forms area, with forms, fields, n… |
+| 2026-10-21 13:32:57 | [kolossusai/chat-laravel](https://www.nuget.org/packages/kolossusai%2Fchat-laravel) | v1.0.0 | Kolossus AI | Add a KolossusAI chat assistant to your Laravel site with one command. |
+| 2026-10-21 13:56:56 | [besnovatyj/yii2-cms-quicktickets](https://www.nuget.org/packages/besnovatyj%2Fyii2-cms-quicktickets) | v1.0.0 | Besnovatyj | Интеграция с API Афиша сервиса Quick Tickets для Yii2 CMS: кеш ответов, журнал… |
+| 2026-10-21 14:10:41 | [keel/framework](https://www.nuget.org/packages/keel%2Fframework) | v0.1.0 |  | Worker-first PHP micro-framework: PSR stack, attribute routing, compiled contai… |
+| 2026-10-21 14:14:02 | [ernestdefoe/pigeonhole](https://www.nuget.org/packages/ernestdefoe%2Fpigeonhole) | v1.0.0 | Ernest Defoe | Folders for Flarum's private messages. Each member files their own conversation… |
+| 2026-10-21 14:16:22 | [ernestdefoe/detour](https://www.nuget.org/packages/ernestdefoe%2Fdetour) | 1.0.0 | Ernest Defoe | A 404 log and redirect manager for Flarum: see which addresses visitors hit tha… |
 
 ## Data source
 

@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-21T13:25:18Z,etfusion/vari-php-sdk,v1.0.2,,"PHP SDK for the V-ARI Stable API (mutual TLS): identity, certificate rotation, stream metrics and custom lists."
+2026-10-21T13:26:04Z,contenir-extension/formbuilder,v0.1.0,,"The form builder module for Contenir CMS: the Forms area, with forms, fields, notifications, webhooks and entries, over contenir/contenir-formbuilder."
+2026-10-21T13:32:57Z,kolossusai/chat-laravel,v1.0.0,Kolossus AI,Add a KolossusAI chat assistant to your Laravel site with one command.
+2026-10-21T13:56:56Z,besnovatyj/yii2-cms-quicktickets,v1.0.0,Besnovatyj,"Интеграция с API Афиша сервиса Quick Tickets для Yii2 CMS: кеш ответов, журнал расхода баллов, просмотр данных в админке"
+2026-10-21T14:10:41Z,keel/framework,v0.1.0,,"Worker-first PHP micro-framework: PSR stack, attribute routing, compiled container."
+2026-10-21T14:14:02Z,ernestdefoe/pigeonhole,v1.0.0,Ernest Defoe,"Folders for Flarum's private messages. Each member files their own conversations into folders with a colour and an icon, archives what is done until a new message brings it back, and sees what is unread in each folder. Works with Group Messages."
+2026-10-21T14:16:22Z,ernestdefoe/detour,1.0.0,Ernest Defoe,"A 404 log and redirect manager for Flarum: see which addresses visitors hit that no longer exist, redirect them (301, 302 or 410; exact, prefix or regular expression), bring old phpBB, vBulletin, XenForo, MyBB, SMF, Invision and Discourse links back to life, and show a friendlier page not found."
