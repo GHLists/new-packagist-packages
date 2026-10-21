@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-21T03:34:59Z,studeo/check,v0.1.0,,Static-analysis engine for Laravel projects.
+2026-10-21T03:40:05Z,sammy-boy/laravel-reporting,v1.0.0,Sammy Orondo,Reporting publication layer for Laravel microservices. Owns HOW reporting messages are shaped and published; delegates transport to uzapoint/eventbus-core.
+2026-10-21T03:53:34Z,kallookoo/wp-stubs,1.0.0,,WordPress and WooCommerce stubs for PHP
+2026-10-21T03:55:31Z,studeo/modular,v0.1.0,,Modular architecture and code generators for Laravel.
+2026-10-21T04:11:19Z,putuwahyu29/backup-bridge,v1.0.0,Putu Wahyu,"A secure bridge, visual control dashboard, and multi-database backup agent for Laravel applications."
