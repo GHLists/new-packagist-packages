@@ -15,16 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 02:19 UTC
+## Latest list — 2026-10-21 03:19 UTC
 
-New packages created between 2026-10-21 01:21 UTC and 2026-10-21 02:19 UTC.
+New packages created between 2026-10-21 02:19 UTC and 2026-10-21 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T02-19-47-821427Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T03-19-25-307216Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 01:28:19 | [putuwahyu29/backup-bridge](https://www.nuget.org/packages/putuwahyu29%2Fbackup-bridge) | v1.0.1 | Putu Wahyu | A secure bridge, visual control dashboard, and multi-database backup agent for… |
-| 2026-10-21 01:34:43 | [wojt-janowski/laravel-glitchtip](https://www.nuget.org/packages/wojt-janowski%2Flaravel-glitchtip) | v1.0.0-RC2 | Wojt Janowski | A typed Laravel client for the GlitchTip error-tracking API. |
+| 2026-10-21 02:31:29 | [pd4ml/pd4ml-php](https://www.nuget.org/packages/pd4ml%2Fpd4ml-php) | v1.0.0 | PD4ML | PD4ML for PHP: HTML to PDF, PDF/A, PDF/UA, DOCX, RTF and image conversion (the… |
+| 2026-10-21 02:32:11 | [lyyteam/hyperf-graphic-captcha](https://www.nuget.org/packages/lyyteam%2Fhyperf-graphic-captcha) | v1.0.0 |  | Graphic captcha component for Hyperf 3.1+ |
+| 2026-10-21 02:50:39 | [contenir-extension/consent](https://www.nuget.org/packages/contenir-extension%2Fconsent) | v0.1.0 |  | The Consent add-on for Contenir CMS: a cookie banner and preferences, regional… |
+| 2026-10-21 02:50:39 | [contenir/contenir-consent-laminas-mvc](https://www.nuget.org/packages/contenir%2Fcontenir-consent-laminas-mvc) | v0.1.0 |  | Laminas MVC adapter for contenir/contenir-consent: consent()->head() and consen… |
+| 2026-10-21 03:01:25 | [hazelchat/craft-hazelchat](https://www.nuget.org/packages/hazelchat%2Fcraft-hazelchat) | 1.0.0 | Hazelchat | Adds the Hazelchat AI chat agent to Craft sites from one pasted installation co… |
+| 2026-10-21 03:01:59 | [hazelchat/contao-hazelchat](https://www.nuget.org/packages/hazelchat%2Fcontao-hazelchat) | 1.0.0 | Hazelchat | Adds the Hazelchat AI chat agent to Contao websites from one pasted installatio… |
 
 ## Data source
 

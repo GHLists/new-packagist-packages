@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-21T02:31:29Z,pd4ml/pd4ml-php,v1.0.0,PD4ML,"PD4ML for PHP: HTML to PDF, PDF/A, PDF/UA, DOCX, RTF and image conversion (the PD4ML Java API through a bridge)"
+2026-10-21T02:32:11Z,lyyteam/hyperf-graphic-captcha,v1.0.0,,Graphic captcha component for Hyperf 3.1+
+2026-10-21T02:50:39Z,contenir-extension/consent,v0.1.0,,"The Consent add-on for Contenir CMS: a cookie banner and preferences, regional modes, Global Privacy Control, Google Consent Mode v2 and script gating for every add-on's scripts."
+2026-10-21T02:50:39Z,contenir/contenir-consent-laminas-mvc,v0.1.0,,"Laminas MVC adapter for contenir/contenir-consent: consent()->head() and consent()->bodyEnd() write the cookie banner and Consent Mode, consentScript() gates a site's own embeds, consentPreferencesLink() reopens the preferences, and a route serves the banner's files."
+2026-10-21T03:01:25Z,hazelchat/craft-hazelchat,1.0.0,Hazelchat,Adds the Hazelchat AI chat agent to Craft sites from one pasted installation code. It answers visitors from the pages you approve and passes on their enquiries. Needs a Hazelchat account; the Free plan covers one website.
+2026-10-21T03:01:59Z,hazelchat/contao-hazelchat,1.0.0,Hazelchat,Adds the Hazelchat AI chat agent to Contao websites from one pasted installation code. It answers visitors from the pages you approve and passes on their enquiries. Needs a Hazelchat account; the Free plan covers one website.
