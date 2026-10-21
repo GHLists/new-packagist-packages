@@ -15,19 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 10:20 UTC
+## Latest list — 2026-10-21 11:20 UTC
 
-New packages created between 2026-10-21 09:19 UTC and 2026-10-21 10:20 UTC.
+New packages created between 2026-10-21 10:20 UTC and 2026-10-21 11:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T10-20-46-709957Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T11-20-37-271615Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 09:19:35 | [firstlightui/nativephp](https://www.nuget.org/packages/firstlightui%2Fnativephp) | v1.0.0-RC1 | Firstlight UI | Native controls for NativePHP, shaped for each platform. |
-| 2026-10-21 09:33:42 | [iqual/icms-test-suite](https://www.nuget.org/packages/iqual%2Ficms-test-suite) | 1.6.2-rc.1 |  | ICMS product test suite - PHPUnit/DTT tests asserting the ICMS contract in ever… |
-| 2026-10-21 09:47:30 | [plagiarismcheckerx/plagx-cite](https://www.nuget.org/packages/plagiarismcheckerx%2Fplagx-cite) | v0.2.1 | Plagiarism Checker X | Free APA and MLA citation generator and reference checker for PHP: reference li… |
-| 2026-10-21 09:55:45 | [gboquizosanchez/phpstan-code-limits](https://www.nuget.org/packages/gboquizosanchez%2Fphpstan-code-limits) | v1.0.1 | Germán Boquizo Sánchez | PHPStan rules that enforce size, layout and expression limits on PHP code |
-| 2026-10-21 10:01:58 | [the-firehub-project/application](https://www.nuget.org/packages/the-firehub-project%2Fapplication) | v0.1.0 | Danijel Galić | Application lifecycle management and orchestration runtime for The FireHub Proj… |
+| 2026-10-21 10:46:19 | [hampel/xenforo-phpstan](https://www.nuget.org/packages/hampel%2Fxenforo-phpstan) | 0.1.0 | Simon Hampel | PHPStan for XenForo add-ons - the configuration an add-on needs to be analysed… |
+| 2026-10-21 10:52:43 | [astrophp/verse](https://www.nuget.org/packages/astrophp%2Fverse) | v0.1.0 | Melih Ucar | AstroPHP Verse: a static site generator. Write in Markdown, design with Blade,… |
 
 ## Data source
 
