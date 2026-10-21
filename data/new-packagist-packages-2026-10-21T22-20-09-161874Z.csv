@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-21T21:31:38Z,gcego/blueprints,v1.0.0,Atangageih Leke Collins,"Declarative feature definitions for GCEGO Admin Studio: Blueprint::define() with typed, validated, immutable definition objects, discovered through gcego/registry."
+2026-10-21T21:55:33Z,ecuafact/sdk,v1.0.0-beta4,Ecuanexus,Cliente oficial en PHP del API publico de facturacion electronica Ecuafact (contrato v1).
+2026-10-21T22:05:03Z,considbrs-webdev/modularity-folder-browser,1.0.0,Consid Borås AB,An accessible file and folder browser module for Modularity.

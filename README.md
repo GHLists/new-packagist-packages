@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 21:21 UTC
+## Latest list — 2026-10-21 22:20 UTC
 
-New packages created between 2026-10-21 20:21 UTC and 2026-10-21 21:21 UTC.
+New packages created between 2026-10-21 21:21 UTC and 2026-10-21 22:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T21-21-11-73155Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T22-20-09-161874Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 20:33:48 | [hryvinskyi/magento2-admin-action-log](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-admin-action-log) | 1.0.0 | Volodymyr Hryvinskyi | Records admin requests and entity changes (before and after, per field) into th… |
-| 2026-10-21 20:51:38 | [solophp/input](https://www.nuget.org/packages/solophp%2Finput) | v1.0.0-RC1 | Vitaliy Olos | Typed, validated input DTOs for PHP 8.3+: immutable classes built through their… |
-| 2026-10-21 21:05:22 | [afaztech/linops](https://www.nuget.org/packages/afaztech%2Flinops) | v0.1.0 |  | Production-ready asynchronous PHP library for Linux server management over SSH |
+| 2026-10-21 21:31:38 | [gcego/blueprints](https://www.nuget.org/packages/gcego%2Fblueprints) | v1.0.0 | Atangageih Leke Collins | Declarative feature definitions for GCEGO Admin Studio: Blueprint::define() wit… |
+| 2026-10-21 21:55:33 | [ecuafact/sdk](https://www.nuget.org/packages/ecuafact%2Fsdk) | v1.0.0-beta4 | Ecuanexus | Cliente oficial en PHP del API publico de facturacion electronica Ecuafact (con… |
+| 2026-10-21 22:05:03 | [considbrs-webdev/modularity-folder-browser](https://www.nuget.org/packages/considbrs-webdev%2Fmodularity-folder-browser) | 1.0.0 | Consid Borås AB | An accessible file and folder browser module for Modularity. |
 
 ## Data source
 
