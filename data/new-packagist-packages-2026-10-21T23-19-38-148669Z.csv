@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-21T22:36:28Z,ranfury/silverstripe-cms-styles,1.0.0,Ranfury,"A fresh, modern style for the Silverstripe CMS. Blocks the core CMS styles and replaces them with its own"
+2026-10-21T23:04:42Z,wielorzeczownik/phalcon-inertia,v0.1.0,wielorzeczownik,"Inertia.js server adapter for Phalcon 3.4 to 5, with Ziggy style named routes for JavaScript."

@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 22:20 UTC
+## Latest list — 2026-10-21 23:19 UTC
 
-New packages created between 2026-10-21 21:21 UTC and 2026-10-21 22:20 UTC.
+New packages created between 2026-10-21 22:20 UTC and 2026-10-21 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T22-20-09-161874Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T23-19-38-148669Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 21:31:38 | [gcego/blueprints](https://www.nuget.org/packages/gcego%2Fblueprints) | v1.0.0 | Atangageih Leke Collins | Declarative feature definitions for GCEGO Admin Studio: Blueprint::define() wit… |
-| 2026-10-21 21:55:33 | [ecuafact/sdk](https://www.nuget.org/packages/ecuafact%2Fsdk) | v1.0.0-beta4 | Ecuanexus | Cliente oficial en PHP del API publico de facturacion electronica Ecuafact (con… |
-| 2026-10-21 22:05:03 | [considbrs-webdev/modularity-folder-browser](https://www.nuget.org/packages/considbrs-webdev%2Fmodularity-folder-browser) | 1.0.0 | Consid Borås AB | An accessible file and folder browser module for Modularity. |
+| 2026-10-21 22:36:28 | [ranfury/silverstripe-cms-styles](https://www.nuget.org/packages/ranfury%2Fsilverstripe-cms-styles) | 1.0.0 | Ranfury | A fresh, modern style for the Silverstripe CMS. Blocks the core CMS styles and… |
+| 2026-10-21 23:04:42 | [wielorzeczownik/phalcon-inertia](https://www.nuget.org/packages/wielorzeczownik%2Fphalcon-inertia) | v0.1.0 | wielorzeczownik | Inertia.js server adapter for Phalcon 3.4 to 5, with Ziggy style named routes f… |
 
 ## Data source
 
