@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 23:19 UTC
+## Latest list — 2026-10-21 00:20 UTC
 
-New packages created between 2026-10-20 22:19 UTC and 2026-10-20 23:19 UTC.
+New packages created between 2026-10-20 23:19 UTC and 2026-10-21 00:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-20T23-19-38-303369Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T00-20-02-193854Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 22:24:21 | [yousef-aman/laravel-feedback-board](https://www.nuget.org/packages/yousef-aman%2Flaravel-feedback-board) | v1.0.1 | Yousef Aman | Self-hosted in-app feedback board for Laravel — clients report, developers reso… |
-| 2026-10-20 22:32:44 | [ornio/filament-decorated-column](https://www.nuget.org/packages/ornio%2Ffilament-decorated-column) | v1.0.0 | Flamur Mavraj | Badge and icon decorations before or after the text of Filament table columns a… |
-| 2026-10-20 22:35:37 | [bluedot-bd/sanity-check](https://www.nuget.org/packages/bluedot-bd%2Fsanity-check) | v1.0.0 | Bluedot Technology Ltd. | Malicious payload filter and security posture checks for Laravel applications. |
-| 2026-10-20 22:42:09 | [mnd/dm-platform-client](https://www.nuget.org/packages/mnd%2Fdm-platform-client) | v1.0.0 |  | PHP client of Drift Manager Platform API |
+| 2026-10-20 23:25:52 | [preflow/roles](https://www.nuget.org/packages/preflow%2Froles) | v0.18.1 |  | Preflow roles — simple roles from config/roles.php answering can() |
+| 2026-10-20 23:53:30 | [gcego/core](https://www.nuget.org/packages/gcego%2Fcore) | v1.0.0 | Atangageih Leke Collins | Laravel integration kernel for GCEGO Admin Studio: configuration, lifecycle, pa… |
 
 ## Data source
 

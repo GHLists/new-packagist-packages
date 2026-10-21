@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-20T23:25:52Z,preflow/roles,v0.18.1,,Preflow roles — simple roles from config/roles.php answering can()
+2026-10-20T23:53:30Z,gcego/core,v1.0.0,Atangageih Leke Collins,"Laravel integration kernel for GCEGO Admin Studio: configuration, lifecycle, package coordination, extensions and diagnostics."
