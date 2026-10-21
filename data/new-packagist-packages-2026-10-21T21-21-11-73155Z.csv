@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-21T20:33:48Z,hryvinskyi/magento2-admin-action-log,1.0.0,Volodymyr Hryvinskyi,"Records admin requests and entity changes (before and after, per field) into the activity log journal"
+2026-10-21T20:51:38Z,solophp/input,v1.0.0-RC1,Vitaliy Olos,"Typed, validated input DTOs for PHP 8.3+: immutable classes built through their constructor from HTTP input, with attribute-driven validation, casting and processing"
+2026-10-21T21:05:22Z,afaztech/linops,v0.1.0,,Production-ready asynchronous PHP library for Linux server management over SSH
