@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-21T06:35:05Z,arielespinoza07/refract,v0.1.0,Ariel Espinoza,"A fluent, immutable and fully typed API for PHP's native reflection: classes, enums, methods, functions, properties, parameters, attributes and types."
+2026-10-21T06:45:34Z,xupaoye/cangqiong-captcha,v1.0.1,,Cangqiong CAPTCHA: open-source image challenges and proof-of-work primitives implemented in PHP/GD.

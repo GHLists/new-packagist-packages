@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 05:21 UTC
+## Latest list — 2026-10-21 07:20 UTC
 
-New packages created between 2026-10-21 04:19 UTC and 2026-10-21 05:21 UTC.
+New packages created between 2026-10-21 06:19 UTC and 2026-10-21 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T05-21-27-558584Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T07-20-07-320271Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 04:50:44 | [jakariawpxpo/wpguard](https://www.nuget.org/packages/jakariawpxpo%2Fwpguard) | v0.1.0 |  | RuboCop/Brakeman-style checker for WordPress plugins: WordPress.org guideline c… |
-| 2026-10-21 04:52:16 | [verifiednet/verified-net](https://www.nuget.org/packages/verifiednet%2Fverified-net) | v1.0.0 | Verified.net | Official PHP client for the Verified.net email, phone, carrier and IP verificat… |
+| 2026-10-21 06:35:05 | [arielespinoza07/refract](https://www.nuget.org/packages/arielespinoza07%2Frefract) | v0.1.0 | Ariel Espinoza | A fluent, immutable and fully typed API for PHP's native reflection: classes, e… |
+| 2026-10-21 06:45:34 | [xupaoye/cangqiong-captcha](https://www.nuget.org/packages/xupaoye%2Fcangqiong-captcha) | v1.0.1 |  | Cangqiong CAPTCHA: open-source image challenges and proof-of-work primitives im… |
 
 ## Data source
 
