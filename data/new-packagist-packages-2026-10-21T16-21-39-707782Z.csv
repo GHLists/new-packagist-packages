@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-21T15:28:49Z,rivalex/lingua,v2.1.1,Alessandro Rivolta,"Self-hosted Laravel translation manager for the TALL stack: edit, sync, import/export and AI-translate your i18n / l10n language files via a Livewire UI. Database & file drivers, vendor translations, CSV/JSON/XLSX/ODS. A native alternative to laravel-lang and external services."
+2026-10-21T15:33:02Z,keel/skeleton,v1.0.1,,Project template for the Keel micro-framework: composer create-project keel/skeleton my-app
+2026-10-21T15:34:17Z,ad-go/sync,v0.0.1,k,"Active-active database synchronisation for two CodeIgniter 4 instances over HTTPS (no JSON, no schema changes to existing tables)."
+2026-10-21T15:36:30Z,pixelfix/installer,0.1.0,,Global CLI installer for PixelFix applications
+2026-10-21T15:42:05Z,gvargas/atusan-cli,v1.0,,Command Line Interface for ATUSAN 3
+2026-10-21T16:02:01Z,hanane/idempotency-guard-bundle,v0.1.0,Hanane,Idempotency keys and safe response replay for selected Symfony HTTP operations.
+2026-10-21T16:05:52Z,dragonbytetech/phpstan-xenforo,1.0.0,Fillip H.,"PHPStan extension for analysing XenForo 2.3 add-ons without false positives from class extensions, entity structures and options"
+2026-10-21T16:08:10Z,wizniche/wizpay-checkout-sdk,v0.1.2,WIZPay,Server SDK for WIZPay Checkout: create checkout sessions and verify webhooks.
+2026-10-21T16:08:22Z,hryvinskyi/magento2-activity-log,1.0.0,Volodymyr Hryvinskyi,"One journal of who did what in the store back office, through which channel and with what outcome; dashboard, grid and detail views that channel modules extend"

@@ -15,22 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 15:22 UTC
+## Latest list — 2026-10-21 16:21 UTC
 
-New packages created between 2026-10-21 14:22 UTC and 2026-10-21 15:22 UTC.
+New packages created between 2026-10-21 15:22 UTC and 2026-10-21 16:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T15-22-47-028079Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T16-21-39-707782Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 14:25:07 | [ernestdefoe/shutter](https://www.nuget.org/packages/ernestdefoe%2Fshutter) | 1.1.0 | ernestdefoe | Photo contests for Flarum 2: staff run themed contests on a schedule, members s… |
-| 2026-10-21 14:41:58 | [ernestdefoe/bouncer](https://www.nuget.org/packages/ernestdefoe%2Fbouncer) | 1.0.0 | ernestdefoe | Bot guard for Flarum 2, on your own server: turn away AI crawlers you don't wan… |
-| 2026-10-21 14:43:08 | [ernestdefoe/gauntlet](https://www.nuget.org/packages/ernestdefoe%2Fgauntlet) | 1.0.0 | Ernest Defoe | Gauntlet — tournaments for Flarum. Single and double elimination, round robin a… |
-| 2026-10-21 14:50:04 | [elife/api-sdk](https://www.nuget.org/packages/elife%2Fapi-sdk) | v1.0.0 |  | eLife Sciences API SDK |
-| 2026-10-21 14:51:22 | [zeitpulse/minimaxcms](https://www.nuget.org/packages/zeitpulse%2Fminimaxcms) | 1.0.0 | Philipp Staender | minimaxcms - a minimal flat file markdown first cms |
-| 2026-10-21 14:59:37 | [amjadiqbal/laravel-webhook-console](https://www.nuget.org/packages/amjadiqbal%2Flaravel-webhook-console) | v1.0.0 | Amjad Iqbal | Dashboard and replay tool for spatie/laravel-webhook-client: browse every recei… |
-| 2026-10-21 15:14:13 | [haunt/settings](https://www.nuget.org/packages/haunt%2Fsettings) | 0.1 | crotanite | Sitewide settings for a Haunt application. |
-| 2026-10-21 15:16:57 | [phasync/babel](https://www.nuget.org/packages/phasync%2Fbabel) | 0.1.0 | Frode Børli | Source rewriting tool that redirects function calls and class names to alternat… |
+| 2026-10-21 15:28:49 | [rivalex/lingua](https://www.nuget.org/packages/rivalex%2Flingua) | v2.1.1 | Alessandro Rivolta | Self-hosted Laravel translation manager for the TALL stack: edit, sync, import/… |
+| 2026-10-21 15:33:02 | [keel/skeleton](https://www.nuget.org/packages/keel%2Fskeleton) | v1.0.1 |  | Project template for the Keel micro-framework: composer create-project keel/ske… |
+| 2026-10-21 15:34:17 | [ad-go/sync](https://www.nuget.org/packages/ad-go%2Fsync) | v0.0.1 | k | Active-active database synchronisation for two CodeIgniter 4 instances over HTT… |
+| 2026-10-21 15:36:30 | [pixelfix/installer](https://www.nuget.org/packages/pixelfix%2Finstaller) | 0.1.0 |  | Global CLI installer for PixelFix applications |
+| 2026-10-21 15:42:05 | [gvargas/atusan-cli](https://www.nuget.org/packages/gvargas%2Fatusan-cli) | v1.0 |  | Command Line Interface for ATUSAN 3 |
+| 2026-10-21 16:02:01 | [hanane/idempotency-guard-bundle](https://www.nuget.org/packages/hanane%2Fidempotency-guard-bundle) | v0.1.0 | Hanane | Idempotency keys and safe response replay for selected Symfony HTTP operations. |
+| 2026-10-21 16:05:52 | [dragonbytetech/phpstan-xenforo](https://www.nuget.org/packages/dragonbytetech%2Fphpstan-xenforo) | 1.0.0 | Fillip H. | PHPStan extension for analysing XenForo 2.3 add-ons without false positives fro… |
+| 2026-10-21 16:08:10 | [wizniche/wizpay-checkout-sdk](https://www.nuget.org/packages/wizniche%2Fwizpay-checkout-sdk) | v0.1.2 | WIZPay | Server SDK for WIZPay Checkout: create checkout sessions and verify webhooks. |
+| 2026-10-21 16:08:22 | [hryvinskyi/magento2-activity-log](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-activity-log) | 1.0.0 | Volodymyr Hryvinskyi | One journal of who did what in the store back office, through which channel and… |
 
 ## Data source
 
