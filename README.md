@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 00:20 UTC
+## Latest list — 2026-10-21 01:21 UTC
 
-New packages created between 2026-10-20 23:19 UTC and 2026-10-21 00:20 UTC.
+New packages created between 2026-10-21 00:20 UTC and 2026-10-21 01:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T00-20-02-193854Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T01-21-36-479082Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-20 23:25:52 | [preflow/roles](https://www.nuget.org/packages/preflow%2Froles) | v0.18.1 |  | Preflow roles — simple roles from config/roles.php answering can() |
-| 2026-10-20 23:53:30 | [gcego/core](https://www.nuget.org/packages/gcego%2Fcore) | v1.0.0 | Atangageih Leke Collins | Laravel integration kernel for GCEGO Admin Studio: configuration, lifecycle, pa… |
+| 2026-10-21 00:22:54 | [gcego/registry](https://www.nuget.org/packages/gcego%2Fregistry) | v1.0.0 | Atangageih Leke Collins | Definition discovery, registration, resolution and production caching for GCEGO… |
+| 2026-10-21 00:28:25 | [ad-go/sync](https://www.nuget.org/packages/ad-go%2Fsync) | v1.0.0 | k | Active-active database synchronisation for two CodeIgniter 4 instances over HTT… |
+| 2026-10-21 00:58:16 | [clingen-data-model/laravel-schedule-ketchup](https://www.nuget.org/packages/clingen-data-model%2Flaravel-schedule-ketchup) | v1.0.0 |  | Run Laravel scheduled tasks whose scheduled time has passed since they last ran… |
 
 ## Data source
 
