@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-21T11:21:29Z,amanuellegese/omnipay-chapa,v0.1.0,Amanuel Legese,Chapa driver for the Omnipay PHP payment processing library
+2026-10-21T11:25:20Z,t-labs-co/laravel-cleanup-data,1.0.0,Ty Huynh,"Centralized data-retention and cleanup framework for Laravel — prune Eloquent models, clean storage files, run custom cleanup logic, and schedule operations automatically."
+2026-10-21T11:35:06Z,shoplygg/shoply-php,v0.1.0,,"Shoply's API from your own server: every route as a method, safe retries, pages, and checking webhooks."
+2026-10-21T11:38:42Z,sidus/doctrine-filter-bundle,v1.0.0,Vincent Chalnot,Doctrine ORM provider for sidus/filter-bundle: criteria compiled to deterministic DQL
+2026-10-21T11:40:51Z,hankchen/php-canvas-pdf-renderer,v1.0.0,HankChen,tFPDF-based PDF renderer backend for hankchen/php-canvas-next
+2026-10-21T11:43:55Z,amjadiqbal/laravel-media-viewer,v0.1.0,Amjad Iqbal,"Show PDFs, video and audio from any Laravel disk without leaking private files: Blade and Livewire components with a pdf.js PDF viewer (page navigation, zoom, search, thumbnails), a Video.js player with HLS (hls.js), signed expiring URLs and Range-aware streaming."
+2026-10-21T11:44:00Z,amjadiqbal/laravel-swiper,v1.0.0,Amjad Iqbal,"Swiper sliders and carousels for Laravel: Blade components with typed props for navigation, pagination, thumbs, autoplay and lazy loading; Livewire-safe (survives updates and wire:navigate); slides from Eloquent models, Spatie Media Library or a storage disk folder, with responsive images and acces…"
+2026-10-21T11:44:53Z,ixbox/php-superjson,v0.1.0,,PHP implementation of superjson with compatibility for Node.js superjson
+2026-10-21T11:57:06Z,theaaronlawrence/laravel-culprit,v0.1.0,Aaron Lawrence,Report exceptions from your Laravel app to Culprit.
+2026-10-21T12:04:55Z,limegreentangerine/lgt-concrete,1.0.0-rc.1,,A fully featured skeleton for a composer managed Concrete site
