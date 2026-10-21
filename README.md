@@ -15,21 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 17:20 UTC
+## Latest list — 2026-10-21 18:19 UTC
 
-New packages created between 2026-10-21 16:21 UTC and 2026-10-21 17:20 UTC.
+New packages created between 2026-10-21 17:20 UTC and 2026-10-21 18:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T17-20-28-474017Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T18-19-53-708626Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 16:38:09 | [ecuafact/sdk](https://www.nuget.org/packages/ecuafact%2Fsdk) | v1.0.0-beta3 | Ecuanexus | Cliente oficial en PHP del API publico de facturacion electronica Ecuafact (con… |
-| 2026-10-21 16:54:38 | [ernestdefoe/longshot](https://www.nuget.org/packages/ernestdefoe%2Flongshot) | 1.0.0 | Ernest Defoe | Longshot — a virtual-points sportsbook for Flarum. Moneylines, spreads, totals… |
-| 2026-10-21 16:55:33 | [cpuchalver/filament-starter-kit](https://www.nuget.org/packages/cpuchalver%2Ffilament-starter-kit) | v1.0.1 |  | The skeleton application for the Laravel framework. |
-| 2026-10-21 16:56:26 | [j87nl/laravel-error-reporter](https://www.nuget.org/packages/j87nl%2Flaravel-error-reporter) | v0.1.0 | Johan Montenij | Reports Laravel and browser errors to the J87 error collector. |
-| 2026-10-21 17:05:31 | [neuron-php/labor-board](https://www.nuget.org/packages/neuron-php%2Flabor-board) | 0.1.0 | Lee Jones | Job queue dashboard for Neuron MVC and CMS applications: pending, delayed, rese… |
-| 2026-10-21 17:06:15 | [biru/payhub](https://www.nuget.org/packages/biru%2Fpayhub) | v1.0.0 | Biru Indonesia Creative | Official PHP SDK for Biru PayHub Centralized Multi-Platform Payment Gateway (Mi… |
-| 2026-10-21 17:10:50 | [amjadiqbal/filament-change-requests](https://www.nuget.org/packages/amjadiqbal%2Ffilament-change-requests) | v1.0.0 | Amjad Iqbal | Hold record edits in Filament as change requests: field-by-field diff, approve,… |
+| 2026-10-21 17:35:28 | [codex-team/kohana-aliases](https://www.nuget.org/packages/codex-team%2Fkohana-aliases) | v1.0.0 |  | This module allows you to make usefull and beautifull URLs for your service. |
+| 2026-10-21 17:48:23 | [supseven/opinion](https://www.nuget.org/packages/supseven%2Fopinion) | v1.0.0 | Volker Kemeter | Collects feedback from editors including a screenshot and environment details a… |
+| 2026-10-21 17:48:23 | [vkemeter/opinion](https://www.nuget.org/packages/vkemeter%2Fopinion) | v1.0.0 | Volker Kemeter | Collects feedback from editors including a screenshot and environment details a… |
+| 2026-10-21 18:01:56 | [amjadiqbal/laravel-webpush-kit](https://www.nuget.org/packages/amjadiqbal%2Flaravel-webpush-kit) | v0.1.0 | Amjad Iqbal | The browser side of Laravel web push notifications for laravel-notification-cha… |
+| 2026-10-21 18:12:34 | [amjadiqbal/laravel-redis-advisor](https://www.nuget.org/packages/amjadiqbal%2Flaravel-redis-advisor) | v0.1.0 | Amjad Iqbal | Read-only Redis and Valkey health advisor for Laravel: finds queues that can si… |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-21T17:35:28Z,codex-team/kohana-aliases,v1.0.0,,This module allows you to make usefull and beautifull URLs for your service.
+2026-10-21T17:48:23Z,supseven/opinion,v1.0.0,Volker Kemeter,Collects feedback from editors including a screenshot and environment details and delivers it by email
+2026-10-21T17:48:23Z,vkemeter/opinion,v1.0.0,Volker Kemeter,Collects feedback from editors including a screenshot and environment details and delivers it by email
+2026-10-21T18:01:56Z,amjadiqbal/laravel-webpush-kit,v0.1.0,Amjad Iqbal,"The browser side of Laravel web push notifications for laravel-notification-channels/webpush: a Blade and Livewire subscribe button with a polite two-step permission prompt, a service worker, routes that save and delete push subscriptions, iOS Home Screen guidance, declarative web push, and a push:…"
+2026-10-21T18:12:34Z,amjadiqbal/laravel-redis-advisor,v0.1.0,Amjad Iqbal,"Read-only Redis and Valkey health advisor for Laravel: finds queues that can silently lose jobs to eviction, keys with no TTL, big keys, memory and fragmentation trouble, persistence turned off under queues, cache prefix collisions, Horizon backlog and session TTL drift, with the exact config line…"
