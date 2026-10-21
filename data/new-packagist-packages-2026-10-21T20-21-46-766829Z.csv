@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-21T19:20:02Z,arm092/omnipay-idbank,v1.1.2,Apricode Team,IDBank EPG payment gateway driver for Omnipay
+2026-10-21T19:25:58Z,vergil-lai/laravel-daily-activity,v1.0.0,Vergil,Track daily activities and streaks with compact yearly bitmaps for Laravel.
+2026-10-21T19:31:33Z,serwisant/serwisant-silex,1.0.0,Arkadiusz Kuryłowicz,Minimal Silex-compatible micro-framework built on Symfony components and Pimple
+2026-10-21T19:31:58Z,solophp/http-emitter,v1.0.0,Vitaliy Olos,PSR-7 HTTP Response Emitter
+2026-10-21T19:38:47Z,vadykoo/laravel-todo-board,v1.0.0,vadykoo,"A standalone Laravel kanban-style todo board with assignees, due dates, images, and drag-and-drop."
+2026-10-21T19:39:29Z,numera11y/ikonym,v0.1.0,,Portable geometric DiceBear avatar style definitions for five grid densities.
+2026-10-21T19:49:42Z,sparkworldke/nativephp-sms-reader-bridge,v1.0.0,Anthony Tendwa; Sparkworld,A NativePHP Mobile plugin that lets your Android app read SMS messages from the device inbox and listen for incoming SMS in real time.
+2026-10-21T19:55:54Z,yuriitatur/repository,v0.1.0,Yurii Tatur,A simple framework/db agnostic repository package
