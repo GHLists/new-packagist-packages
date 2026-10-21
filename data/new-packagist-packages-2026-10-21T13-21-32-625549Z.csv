@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-21T12:22:53Z,esoul-cz/phpunit-test-evidence,v0.1.1,Tomáš Vojík,"PHPUnit extension and CLI that turn a tagged group of tests into a Markdown evidence report, optionally compared against the code before a fix."
+2026-10-21T12:25:02Z,nyumbani/daraja,v1.0.0,Alvin Kaburu,"A small Laravel client for Safaricom's Daraja API: STK push, C2B and Pull transactions, with the payloads, events and middleware to receive them."
+2026-10-21T12:25:06Z,nyumbani/messaging,v1.0.0,Alvin Kaburu,"Queue SMS from any Nyumbani app through Nyumbani Connect: a message builder, handlers, rate-limited and retried delivery."
+2026-10-21T12:33:38Z,amjadiqbal/laravel-gridjs,v1.0.0,Amjad Iqbal,"Grid.js datagrid for Laravel: turn any Eloquent query into a searchable, sortable, paginated data table with server-side processing, a fluent PHP API and no jQuery."
+2026-10-21T12:34:56Z,amjadiqbal/laravel-mysql-advisor,v0.1.0,Amjad Iqbal,"Read-only MySQL and MariaDB health advisor for Laravel: finds unused, redundant and missing indexes, full table scans, slow and N+1 queries, fragmented tables and server pressure, with the exact SQL or migration to fix each one. Artisan report with a CI exit code plus a Blade dashboard."
+2026-10-21T12:35:15Z,nyumbani/essentials,v1.0.0,Alvin Kaburu,"Opinionated helpers, services, UIs, packages, and AI skills and rules that define how every Nyumbani internal app looks and is structured."
+2026-10-21T12:35:55Z,stero/shield,v0.1.1,Stero Tech Inc.,Framework-agnostic intrusion detection and prevention layer for PHP web apps.
+2026-10-21T12:39:55Z,ahmdrv/laravel-nav,v0.1.1,ahmdrv,Fluent navigation definitions and immutable request-aware navigation trees for Laravel.
+2026-10-21T12:49:18Z,victorio/filament-acceptance,v0.1.0,Victorio,"Send any Filament record for approval: sealed, tamper-evident versions and provable accept or decline decisions on public links."
