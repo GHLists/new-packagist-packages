@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 01:21 UTC
+## Latest list — 2026-10-21 02:19 UTC
 
-New packages created between 2026-10-21 00:20 UTC and 2026-10-21 01:21 UTC.
+New packages created between 2026-10-21 01:21 UTC and 2026-10-21 02:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T01-21-36-479082Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T02-19-47-821427Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 00:22:54 | [gcego/registry](https://www.nuget.org/packages/gcego%2Fregistry) | v1.0.0 | Atangageih Leke Collins | Definition discovery, registration, resolution and production caching for GCEGO… |
-| 2026-10-21 00:28:25 | [ad-go/sync](https://www.nuget.org/packages/ad-go%2Fsync) | v1.0.0 | k | Active-active database synchronisation for two CodeIgniter 4 instances over HTT… |
-| 2026-10-21 00:58:16 | [clingen-data-model/laravel-schedule-ketchup](https://www.nuget.org/packages/clingen-data-model%2Flaravel-schedule-ketchup) | v1.0.0 |  | Run Laravel scheduled tasks whose scheduled time has passed since they last ran… |
+| 2026-10-21 01:28:19 | [putuwahyu29/backup-bridge](https://www.nuget.org/packages/putuwahyu29%2Fbackup-bridge) | v1.0.1 | Putu Wahyu | A secure bridge, visual control dashboard, and multi-database backup agent for… |
+| 2026-10-21 01:34:43 | [wojt-janowski/laravel-glitchtip](https://www.nuget.org/packages/wojt-janowski%2Flaravel-glitchtip) | v1.0.0-RC2 | Wojt Janowski | A typed Laravel client for the GlitchTip error-tracking API. |
 
 ## Data source
 

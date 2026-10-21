@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-21T01:28:19Z,putuwahyu29/backup-bridge,v1.0.1,Putu Wahyu,"A secure bridge, visual control dashboard, and multi-database backup agent for Laravel applications."
+2026-10-21T01:34:43Z,wojt-janowski/laravel-glitchtip,v1.0.0-RC2,Wojt Janowski,A typed Laravel client for the GlitchTip error-tracking API.
