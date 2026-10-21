@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-21T04:50:44Z,jakariawpxpo/wpguard,v0.1.0,,"RuboCop/Brakeman-style checker for WordPress plugins: WordPress.org guideline candidates, PHPCS (WPCS) and Plugin Check in one report."
+2026-10-21T04:52:16Z,verifiednet/verified-net,v1.0.0,Verified.net,"Official PHP client for the Verified.net email, phone, carrier and IP verification API, with Laravel validation rules"
