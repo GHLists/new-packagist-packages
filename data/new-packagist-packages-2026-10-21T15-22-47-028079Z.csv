@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-21T14:25:07Z,ernestdefoe/shutter,1.1.0,ernestdefoe,"Photo contests for Flarum 2: staff run themed contests on a schedule, members submit photos, the community votes or judges score, and winners are crowned on a podium with notifications and badges. A contest is a discussion."
+2026-10-21T14:41:58Z,ernestdefoe/bouncer,1.0.0,ernestdefoe,"Bot guard for Flarum 2, on your own server: turn away AI crawlers you don't want, verify real search engines by DNS, give suspicious clients a quick proof-of-work check, rate-limit bursts and keep a log for staff. No Cloudflare, no third-party captcha, nothing added for members."
+2026-10-21T14:43:08Z,ernestdefoe/gauntlet,1.0.0,Ernest Defoe,"Gauntlet — tournaments for Flarum. Single and double elimination, round robin and Swiss; solo or team entries; sign-ups with caps, check-in and a waitlist; seeding by rating; results reported by both sides, confirmed by staff, disputes handled; a live bracket that reads on a phone; and prediction b…"
+2026-10-21T14:50:04Z,elife/api-sdk,v1.0.0,,eLife Sciences API SDK
+2026-10-21T14:51:22Z,zeitpulse/minimaxcms,1.0.0,Philipp Staender,minimaxcms - a minimal flat file markdown first cms
+2026-10-21T14:59:37Z,amjadiqbal/laravel-webhook-console,v1.0.0,Amjad Iqbal,"Dashboard and replay tool for spatie/laravel-webhook-client: browse every received webhook by config, status and date, inspect payloads and headers with secrets masked, see failures (stored exceptions and failed queue jobs), replay one or bulk-retry failed webhooks, prune old calls, plus webhooks:f…"
+2026-10-21T15:14:13Z,haunt/settings,0.1,crotanite,Sitewide settings for a Haunt application.
+2026-10-21T15:16:57Z,phasync/babel,0.1.0,Frode Børli,"Source rewriting tool that redirects function calls and class names to alternative implementations, based on token_get_all()"

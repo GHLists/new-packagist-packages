@@ -15,21 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 14:22 UTC
+## Latest list — 2026-10-21 15:22 UTC
 
-New packages created between 2026-10-21 13:21 UTC and 2026-10-21 14:22 UTC.
+New packages created between 2026-10-21 14:22 UTC and 2026-10-21 15:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T14-22-54-405421Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-21T15-22-47-028079Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 13:25:18 | [etfusion/vari-php-sdk](https://www.nuget.org/packages/etfusion%2Fvari-php-sdk) | v1.0.2 |  | PHP SDK for the V-ARI Stable API (mutual TLS): identity, certificate rotation,… |
-| 2026-10-21 13:26:04 | [contenir-extension/formbuilder](https://www.nuget.org/packages/contenir-extension%2Fformbuilder) | v0.1.0 |  | The form builder module for Contenir CMS: the Forms area, with forms, fields, n… |
-| 2026-10-21 13:32:57 | [kolossusai/chat-laravel](https://www.nuget.org/packages/kolossusai%2Fchat-laravel) | v1.0.0 | Kolossus AI | Add a KolossusAI chat assistant to your Laravel site with one command. |
-| 2026-10-21 13:56:56 | [besnovatyj/yii2-cms-quicktickets](https://www.nuget.org/packages/besnovatyj%2Fyii2-cms-quicktickets) | v1.0.0 | Besnovatyj | Интеграция с API Афиша сервиса Quick Tickets для Yii2 CMS: кеш ответов, журнал… |
-| 2026-10-21 14:10:41 | [keel/framework](https://www.nuget.org/packages/keel%2Fframework) | v0.1.0 |  | Worker-first PHP micro-framework: PSR stack, attribute routing, compiled contai… |
-| 2026-10-21 14:14:02 | [ernestdefoe/pigeonhole](https://www.nuget.org/packages/ernestdefoe%2Fpigeonhole) | v1.0.0 | Ernest Defoe | Folders for Flarum's private messages. Each member files their own conversation… |
-| 2026-10-21 14:16:22 | [ernestdefoe/detour](https://www.nuget.org/packages/ernestdefoe%2Fdetour) | 1.0.0 | Ernest Defoe | A 404 log and redirect manager for Flarum: see which addresses visitors hit tha… |
+| 2026-10-21 14:25:07 | [ernestdefoe/shutter](https://www.nuget.org/packages/ernestdefoe%2Fshutter) | 1.1.0 | ernestdefoe | Photo contests for Flarum 2: staff run themed contests on a schedule, members s… |
+| 2026-10-21 14:41:58 | [ernestdefoe/bouncer](https://www.nuget.org/packages/ernestdefoe%2Fbouncer) | 1.0.0 | ernestdefoe | Bot guard for Flarum 2, on your own server: turn away AI crawlers you don't wan… |
+| 2026-10-21 14:43:08 | [ernestdefoe/gauntlet](https://www.nuget.org/packages/ernestdefoe%2Fgauntlet) | 1.0.0 | Ernest Defoe | Gauntlet — tournaments for Flarum. Single and double elimination, round robin a… |
+| 2026-10-21 14:50:04 | [elife/api-sdk](https://www.nuget.org/packages/elife%2Fapi-sdk) | v1.0.0 |  | eLife Sciences API SDK |
+| 2026-10-21 14:51:22 | [zeitpulse/minimaxcms](https://www.nuget.org/packages/zeitpulse%2Fminimaxcms) | 1.0.0 | Philipp Staender | minimaxcms - a minimal flat file markdown first cms |
+| 2026-10-21 14:59:37 | [amjadiqbal/laravel-webhook-console](https://www.nuget.org/packages/amjadiqbal%2Flaravel-webhook-console) | v1.0.0 | Amjad Iqbal | Dashboard and replay tool for spatie/laravel-webhook-client: browse every recei… |
+| 2026-10-21 15:14:13 | [haunt/settings](https://www.nuget.org/packages/haunt%2Fsettings) | 0.1 | crotanite | Sitewide settings for a Haunt application. |
+| 2026-10-21 15:16:57 | [phasync/babel](https://www.nuget.org/packages/phasync%2Fbabel) | 0.1.0 | Frode Børli | Source rewriting tool that redirects function calls and class names to alternat… |
 
 ## Data source
 
