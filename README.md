@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 01:19 UTC
+## Latest list — 2026-10-22 03:18 UTC
 
-New packages created between 2026-10-22 00:19 UTC and 2026-10-22 01:19 UTC.
+New packages created between 2026-10-22 02:22 UTC and 2026-10-22 03:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-22T01-19-12-697677Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-22T03-18-47-072395Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-22 01:10:45 | [jturazzi/laravel-system-info](https://www.nuget.org/packages/jturazzi%2Flaravel-system-info) | 1.0.0 | Jérémy Turazzi | Exposes a token-protected /api/system-info endpoint (versions, database, queue,… |
+| 2026-10-22 02:56:22 | [tiacx/laravel-aliyun-log](https://www.nuget.org/packages/tiacx%2Flaravel-aliyun-log) | 1.0.0 | Tiac | Laravel 阿里云 SLS 日志扩展包：Monolog 日志推送 + 访问日志中间件 |
 
 ## Data source
 
