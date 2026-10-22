@@ -1,0 +1,14 @@
+created_at,package,version,author,description
+2026-10-22T19:20:46Z,luxsite/symfony-ecommerce,v0.1.0,LuxSite,"Symfony ecommerce LuxSite: open-source e-commerce engine on Symfony (Apache 2.0, platform developed by LuxSite)"
+2026-10-22T19:20:50Z,amjadiqbal/filament-stat-cards,v1.0.0,Amjad Iqbal,"Richer stat cards for the Filament 4 and 5 stats overview widget: progress bars, icon tiles, background, label and value colours, trends, badges and bar charts."
+2026-10-22T19:22:00Z,risetechapps/orchestrator-link-for-laravel,1.0.0,Rise Tech,Cliente Laravel da API Orchestrator da RiseTech.
+2026-10-22T19:22:16Z,chattrn/connector,v1.0.1,,"Serves the Chattrn API (devspec.txt: ""Slice 3: Laravel package installer"") from your own Laravel store, so Chattrn can read products, stock and orders the same way it reads a native Chattrn API or Shopify store."
+2026-10-22T19:24:32Z,silvershop-suite/import,1.0.0,Remy Vaartjes; SilverShop-Suite Contributors,"Channel-agnostic import engine for SilverShop (CMS 6): a two-phase stage→apply pipeline (upsert by SKU/GTIN, delta/scheduled sync on queuedjobs, dry-run, declarable per-field validation, field-level source-of-truth ownership, immutable run log) that thin per-system connectors (e.g. silvershop-suite…"
+2026-10-22T19:24:47Z,krafsys/framework,v0.1.0,Krafsys Technologies,"A lightweight, batteries-included PHP framework: routing, ORM, auth, queues, mail, payments and more, with a clean developer experience."
+2026-10-22T19:25:50Z,krafsys/krafsys,v0.1.1,,The Krafsys application skeleton.
+2026-10-22T19:37:51Z,smtpfast/smtpfast-php,v0.1.0,,The official PHP SDK for the SMTPfast API.
+2026-10-22T19:38:48Z,cengizkemec/passkeys,v1.0.0,Cengiz Kemeç,Passkey (WebAuthn/FIDO2) authentication for Flarum 2.0
+2026-10-22T19:39:34Z,hypelabs-llc/connect,v0.1.0,,The PHP client for the HypeLabs Connect API.
+2026-10-22T19:53:21Z,amjadiqbal/filament-uptime-monitor,v1.0.0,Amjad Iqbal,"A Filament 4 and 5 admin UI for spatie/laravel-uptime-monitor: add, edit, enable, disable and check uptime and SSL certificate monitors from your panel."
+2026-10-22T20:05:45Z,romansh/omnipay-whop,v1.0.0,Roman Shalabanov,Whop driver for Omnipay payment processing library
+2026-10-22T20:18:11Z,smtpfast/smtpfast-laravel,v0.1.0,,"Send Laravel mail through the SMTPfast API, with the SMTPfast PHP client and webhook verification."
