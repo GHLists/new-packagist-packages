@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-22T16:23:35Z,jamesthe1/mini-html-builder,v2.0.0,Jamesthe1,A miniature HTML builder.
+2026-10-22T16:48:16Z,filagora/filagora-plugins-security,v0.1.0,,"Security scanning and quarantine for Filagora Plugins: static PHP checks, ClamAV, Semgrep and an LLM review contract."
+2026-10-22T16:49:49Z,nodonhq/filament-bodega-lite,v1.0.0,,"Bodega Lite: a warm, highly legible Filament theme for shops and small businesses, with a soft dark mode."
+2026-10-22T16:57:43Z,tmonier/sylius-customer-asset-management-plugin,v0.1.0,Thibaut Monier,Customer asset management for Sylius 2: customers declare their equipment fleet and the catalogue can be filtered to the compatible spare parts
