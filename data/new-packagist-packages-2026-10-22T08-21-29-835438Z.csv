@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-22T07:26:08Z,electrik/slate-illustrations,0.1.0,neerajsohal,A collection of animated UI scenes for Electrik Slate landing pages. Looks like the product. Not a live screen.
+2026-10-22T07:31:14Z,phpsafe/guard,v0.1.0,PHP Safe,"Zero-dependency security layer for PHP: request shield, static code scanner and safe helpers."
+2026-10-22T07:35:52Z,hoangkim28/codeigniter,v0.1.0,,"CodeIgniter 3 fork of pocketarc/codeigniter maintained by hoangkim28, with support for PHP 5.4 - PHP 8.6 (and beyond). Fully backward compatible."
