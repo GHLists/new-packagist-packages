@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-22T10:26:17Z,contenir/contenir-preview-laminas-mvc,v0.1.0,,Laminas MVC renderer for the Contenir preview protocol: answers the CMS's signed previews at /api/resource/preview by rendering the record's page with its unsaved values.
+2026-10-22T10:42:13Z,pinal-paramsoftware/laravel-rbac-suite,v1.0.5,Pinal; Parth,Enterprise-grade Role-Based Access Control (RBAC) and Multi-Layer Authentication Pipeline for Laravel applications.
+2026-10-22T11:02:30Z,emerson-ph/ai-team-setup,v1.0.2,Emerson,"AI Team Setup for Laravel projects - Configure Claude Code, GitHub Copilot, Cursor, and other AI tools with role-based strategy council"
+2026-10-22T11:07:54Z,njamin/wp-ui,v0.1.0,,The shared UI layer of WordPress projects: Alpine (CSP build) and Lucide icons.

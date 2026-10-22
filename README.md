@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 10:22 UTC
+## Latest list — 2026-10-22 11:20 UTC
 
-New packages created between 2026-10-22 09:19 UTC and 2026-10-22 10:22 UTC.
+New packages created between 2026-10-22 10:22 UTC and 2026-10-22 11:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-22T10-22-07-988539Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-22T11-20-24-491863Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-22 09:24:37 | [omniboost/aws-iam-proof-auth](https://www.nuget.org/packages/omniboost%2Faws-iam-proof-auth) | v0.1.0 |  | Service-to-service authentication with the caller's AWS IAM identity: sign outg… |
-| 2026-10-22 09:35:48 | [ciiixid/laravel-db-timetravel](https://www.nuget.org/packages/ciiixid%2Flaravel-db-timetravel) | v1.0.0 | Ciiixid | A local database time-travel snapshot CLI tool for Laravel developers |
-| 2026-10-22 09:42:50 | [spryker/merchant-sales-invoice](https://www.nuget.org/packages/spryker%2Fmerchant-sales-invoice) | 1.0.0 |  | MerchantSalesInvoice module |
-| 2026-10-22 09:50:59 | [pieceofcake2/filebinder](https://www.nuget.org/packages/pieceofcake2%2Ffilebinder) | v2.9.0 | fusic | Simple file attachment plugin for CakePHP 2: local files, database and Amazon S… |
-| 2026-10-22 09:53:15 | [jund-fauz/laravel-raw-query-builder](https://www.nuget.org/packages/jund-fauz%2Flaravel-raw-query-builder) | v1.0.1 | jund-fauz | Build raw query in laravel using helper function, like build a normal query in… |
+| 2026-10-22 10:26:17 | [contenir/contenir-preview-laminas-mvc](https://www.nuget.org/packages/contenir%2Fcontenir-preview-laminas-mvc) | v0.1.0 |  | Laminas MVC renderer for the Contenir preview protocol: answers the CMS's signe… |
+| 2026-10-22 10:42:13 | [pinal-paramsoftware/laravel-rbac-suite](https://www.nuget.org/packages/pinal-paramsoftware%2Flaravel-rbac-suite) | v1.0.5 | Pinal; Parth | Enterprise-grade Role-Based Access Control (RBAC) and Multi-Layer Authenticatio… |
+| 2026-10-22 11:02:30 | [emerson-ph/ai-team-setup](https://www.nuget.org/packages/emerson-ph%2Fai-team-setup) | v1.0.2 | Emerson | AI Team Setup for Laravel projects - Configure Claude Code, GitHub Copilot, Cur… |
+| 2026-10-22 11:07:54 | [njamin/wp-ui](https://www.nuget.org/packages/njamin%2Fwp-ui) | v0.1.0 |  | The shared UI layer of WordPress projects: Alpine (CSP build) and Lucide icons. |
 
 ## Data source
 
