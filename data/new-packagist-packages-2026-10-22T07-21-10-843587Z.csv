@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-22T06:27:05Z,xph/laravel,v0.1.0,,Render compiled xph components in Laravel Blade with automatic assets
+2026-10-22T06:33:50Z,gcego/runtime,v1.0.0,Atangageih Leke Collins,"Execution kernel for GCEGO Studio: operation dispatch, trusted execution contexts, typed handlers and fail-closed authorization."
+2026-10-22T06:46:13Z,novora/poka-yoke,v1.0.0,,Framework-independent precondition guards for PHP business operations.
+2026-10-22T07:03:40Z,blackaha/module-pricing-updater,1.0.0,BlackAha,"Keeps your Magento product prices in line with the prices you set in BlackAha: matched by SKU, applied automatically, every result reported back."
