@@ -15,22 +15,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 15:21 UTC
+## Latest list — 2026-10-22 16:19 UTC
 
-New packages created between 2026-10-22 14:20 UTC and 2026-10-22 15:21 UTC.
+New packages created between 2026-10-22 15:21 UTC and 2026-10-22 16:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-22T15-21-49-317491Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-22T16-19-00-088365Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-22 14:39:17 | [tenma/discord](https://www.nuget.org/packages/tenma%2Fdiscord) | v0.1.0 |  | Discord bots in PHP on Tenma: gateway events, slash commands, buttons and voice… |
-| 2026-10-22 14:43:24 | [jacerider/ux](https://www.nuget.org/packages/jacerider%2Fux) | 6.0.0 | Cyle Carlson (JaceRider) | A suite of UI elements and components to improve user experience. |
-| 2026-10-22 14:44:03 | [jacerider/escort](https://www.nuget.org/packages/jacerider%2Fescort) | 5.0.0 | Cyle Carlson (JaceRider) | An admin menu of extreme super awesomeness. |
-| 2026-10-22 14:47:31 | [considbrs-webdev/modularity-link-cards](https://www.nuget.org/packages/considbrs-webdev%2Fmodularity-link-cards) | 1.0.0 | Consid Borås AB | A grid of clickable link cards with icons. |
-| 2026-10-22 14:47:53 | [considbrs-webdev/modularity-quick-links](https://www.nuget.org/packages/considbrs-webdev%2Fmodularity-quick-links) | 1.0.1 | Consid Borås AB | A module for Modularity that creates the ability for the user to create a grid… |
-| 2026-10-22 14:58:00 | [filagora/filagora-notifications](https://www.nuget.org/packages/filagora%2Ffilagora-notifications) | v0.1.0 |  | Notification preferences for Filagora: per-person, per-category, per-channel ch… |
-| 2026-10-22 15:16:25 | [mehrabhossain/loglens](https://www.nuget.org/packages/mehrabhossain%2Floglens) | v1.0.0 | Mehrab Hossain | Developer-focused application log analyzer and monitoring dashboard for Laravel… |
-| 2026-10-22 15:19:48 | [risetechapps/notify-service-for-laravel](https://www.nuget.org/packages/risetechapps%2Fnotify-service-for-laravel) | 1.0.0 | Rise Tech |  |
+| 2026-10-22 15:34:21 | [lynxcms/admin](https://www.nuget.org/packages/lynxcms%2Fadmin) | v0.1.0 |  | Livewire admin for Lynx CMS. |
+| 2026-10-22 15:34:21 | [lynxcms/ai](https://www.nuget.org/packages/lynxcms%2Fai) | v0.1.0 |  | Built-in AI agent for Lynx CMS on the Laravel AI SDK. |
+| 2026-10-22 15:34:21 | [lynxcms/cache](https://www.nuget.org/packages/lynxcms%2Fcache) | v0.1.0 |  | Page cache for Lynx CMS: guest pages stored as HTML, served by the web server o… |
+| 2026-10-22 15:34:21 | [lynxcms/contracts](https://www.nuget.org/packages/lynxcms%2Fcontracts) | v0.1.0 |  | Interfaces and DTOs for Lynx CMS modules. |
+| 2026-10-22 15:34:21 | [lynxcms/core](https://www.nuget.org/packages/lynxcms%2Fcore) | v0.1.0 |  | Lynx CMS core: languages, fields, templates, pages, selectors and actions. |
+| 2026-10-22 15:34:21 | [lynxcms/forms](https://www.nuget.org/packages/lynxcms%2Fforms) | v0.1.0 |  | Forms for Lynx CMS: forms defined in code, Livewire rendering, submissions in t… |
+| 2026-10-22 15:34:21 | [lynxcms/mcp](https://www.nuget.org/packages/lynxcms%2Fmcp) | v0.1.0 |  | MCP server for Lynx CMS, generated from the action registry. |
+| 2026-10-22 15:34:21 | [lynxcms/media](https://www.nuget.org/packages/lynxcms%2Fmedia) | v0.1.0 |  | Images and files for Lynx CMS: per-page media fields, variations and admin uplo… |
+| 2026-10-22 15:34:21 | [lynxcms/menus](https://www.nuget.org/packages/lynxcms%2Fmenus) | v0.1.0 |  | Menu builder for Lynx CMS: multilingual menus stored as pages, rendered with an… |
+| 2026-10-22 15:34:21 | [lynxcms/page-password](https://www.nuget.org/packages/lynxcms%2Fpage-password) | v0.1.0 |  | Password-protected pages for Lynx CMS (pagePassword): a password set on a page… |
+| 2026-10-22 15:34:21 | [lynxcms/seo](https://www.nuget.org/packages/lynxcms%2Fseo) | v0.1.0 |  | SEO for Lynx CMS: meta and social tags, canonical links, robots rules and robot… |
+| 2026-10-22 15:34:21 | [lynxcms/sitemap](https://www.nuget.org/packages/lynxcms%2Fsitemap) | v0.1.0 |  | XML sitemaps for Lynx CMS: every published page in every language, split into p… |
+| 2026-10-22 15:34:21 | [lynxcms/static-site](https://www.nuget.org/packages/lynxcms%2Fstatic-site) | v0.1.0 |  | Exports a Lynx CMS site as static files: every published page in every language… |
+| 2026-10-22 16:04:21 | [jeffersongoncalves/filament-autentique](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-autentique) | 1.0.0 |  |  |
 
 ## Data source
 

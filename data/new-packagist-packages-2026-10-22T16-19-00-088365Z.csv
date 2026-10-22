@@ -1,0 +1,15 @@
+created_at,package,version,author,description
+2026-10-22T15:34:21Z,lynxcms/admin,v0.1.0,,Livewire admin for Lynx CMS.
+2026-10-22T15:34:21Z,lynxcms/ai,v0.1.0,,Built-in AI agent for Lynx CMS on the Laravel AI SDK.
+2026-10-22T15:34:21Z,lynxcms/cache,v0.1.0,,"Page cache for Lynx CMS: guest pages stored as HTML, served by the web server or before Laravel's session starts, and cleared when content changes."
+2026-10-22T15:34:21Z,lynxcms/contracts,v0.1.0,,Interfaces and DTOs for Lynx CMS modules.
+2026-10-22T15:34:21Z,lynxcms/core,v0.1.0,,"Lynx CMS core: languages, fields, templates, pages, selectors and actions."
+2026-10-22T15:34:21Z,lynxcms/forms,v0.1.0,,"Forms for Lynx CMS: forms defined in code, Livewire rendering, submissions in the admin and notifications."
+2026-10-22T15:34:21Z,lynxcms/mcp,v0.1.0,,"MCP server for Lynx CMS, generated from the action registry."
+2026-10-22T15:34:21Z,lynxcms/media,v0.1.0,,"Images and files for Lynx CMS: per-page media fields, variations and admin uploads."
+2026-10-22T15:34:21Z,lynxcms/menus,v0.1.0,,"Menu builder for Lynx CMS: multilingual menus stored as pages, rendered with any Blade view."
+2026-10-22T15:34:21Z,lynxcms/page-password,v0.1.0,,Password-protected pages for Lynx CMS (pagePassword): a password set on a page locks it and the pages below it for visitors.
+2026-10-22T15:34:21Z,lynxcms/seo,v0.1.0,,"SEO for Lynx CMS: meta and social tags, canonical links, robots rules and robots.txt, per template SEO fields."
+2026-10-22T15:34:21Z,lynxcms/sitemap,v0.1.0,,"XML sitemaps for Lynx CMS: every published page in every language, split into parts past a limit set in config or the admin."
+2026-10-22T15:34:21Z,lynxcms/static-site,v0.1.0,,"Exports a Lynx CMS site as static files: every published page in every language, the public files, a 404 page and redirects, to host without PHP."
+2026-10-22T16:04:21Z,jeffersongoncalves/filament-autentique,1.0.0,,
