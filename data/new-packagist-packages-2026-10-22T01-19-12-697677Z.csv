@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-22T01:10:45Z,jturazzi/laravel-system-info,1.0.0,Jérémy Turazzi,"Exposes a token-protected /api/system-info endpoint (versions, database, queue, disk, health) for Laravel applications."

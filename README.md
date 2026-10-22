@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 00:19 UTC
+## Latest list — 2026-10-22 01:19 UTC
 
-New packages created between 2026-10-21 23:19 UTC and 2026-10-22 00:19 UTC.
+New packages created between 2026-10-22 00:19 UTC and 2026-10-22 01:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-22T00-19-40-537156Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-22T01-19-12-697677Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 23:24:59 | [widgetic/api-sdk-php](https://www.nuget.org/packages/widgetic%2Fapi-sdk-php) | 1.11.66 | Widgetic | API documentation for the Widgetic API Gateway |
-| 2026-10-21 23:56:27 | [phpsyntax/phpsyntax](https://www.nuget.org/packages/phpsyntax%2Fphpsyntax) | v1.0.0 | David Grudl | 🌳 PhpSyntax: a lossless concrete syntax tree (CST) for PHP. Every token, space… |
+| 2026-10-22 01:10:45 | [jturazzi/laravel-system-info](https://www.nuget.org/packages/jturazzi%2Flaravel-system-info) | 1.0.0 | Jérémy Turazzi | Exposes a token-protected /api/system-info endpoint (versions, database, queue,… |
 
 ## Data source
 
