@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-22T20:39:59Z,vincentauger/orcid-php-sdk,v0.1.0,Vincent Auger,"A modern, framework-agnostic PHP SDK for the ORCID API"
+2026-10-22T20:54:19Z,jmoati/icloudpd,1.32.3,The iCloud Photo Downloader Authors; Jacques Moati,Pure PHP port of icloud_photos_downloader (icloudpd): download photos and videos from iCloud without Python
+2026-10-22T20:56:37Z,teknoo/east-ux,0.1.0,Richard Déloge,"Symfony bundle, following the #East programming philosophy, build on Teknoo/East-Foundation and Teknoo/East-Common, providing the application-level UI pieces of an East application: Symfony UX Twig and Live Components (windows, forms, lists, menu bar, ...), their Stimulus controllers and stylesheet…"
