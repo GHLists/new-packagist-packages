@@ -15,17 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 21:21 UTC
+## Latest list — 2026-10-22 22:22 UTC
 
-New packages created between 2026-10-22 20:20 UTC and 2026-10-22 21:21 UTC.
+New packages created between 2026-10-22 21:21 UTC and 2026-10-22 22:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-22T21-21-22-583824Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-22T22-22-14-767591Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-22 20:39:59 | [vincentauger/orcid-php-sdk](https://www.nuget.org/packages/vincentauger%2Forcid-php-sdk) | v0.1.0 | Vincent Auger | A modern, framework-agnostic PHP SDK for the ORCID API |
-| 2026-10-22 20:54:19 | [jmoati/icloudpd](https://www.nuget.org/packages/jmoati%2Ficloudpd) | 1.32.3 | The iCloud Photo Downloader A… | Pure PHP port of icloud_photos_downloader (icloudpd): download photos and video… |
-| 2026-10-22 20:56:37 | [teknoo/east-ux](https://www.nuget.org/packages/teknoo%2Feast-ux) | 0.1.0 | Richard Déloge | Symfony bundle, following the #East programming philosophy, build on Teknoo/Eas… |
+| 2026-10-22 21:26:06 | [hypra/laravel](https://www.nuget.org/packages/hypra%2Flaravel) | v0.1.0 |  | Hypra views for Laravel: .hypra pages rendered as HTML, Markdown or JSON |
+| 2026-10-22 21:26:06 | [hypra/runtime](https://www.nuget.org/packages/hypra%2Fruntime) | v0.1.0 |  | Runtime for PHP pages compiled by the Hypra compiler |
+| 2026-10-22 21:27:16 | [psbits/xlf-editor](https://www.nuget.org/packages/psbits%2Fxlf-editor) | 0.1.0-alpha | Daniel Ablass | Backend module which allows to edit XLF files. Developmental state, not intende… |
+| 2026-10-22 21:41:41 | [offmania9/boostack-framework](https://www.nuget.org/packages/offmania9%2Fboostack-framework) | 6.3.91 | Stefano Spagnolo; Alessio Deb… | The Boostack core framework. |
+| 2026-10-22 22:07:30 | [siberfx/laravel-rustfs](https://www.nuget.org/packages/siberfx%2Flaravel-rustfs) | 1.0.0 | Selim Görmüş | RustFS for Laravel 13+: S3 data plane (buckets, objects, versioning, object loc… |
+| 2026-10-22 22:09:35 | [pteal79/geo-map](https://www.nuget.org/packages/pteal79%2Fgeo-map) | 1.0.0 | Peter Teal | A native map for NativePHP Mobile with coloured markers and shaded circles size… |
 
 ## Data source
 

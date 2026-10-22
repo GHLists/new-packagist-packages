@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-22T21:26:06Z,hypra/laravel,v0.1.0,,"Hypra views for Laravel: .hypra pages rendered as HTML, Markdown or JSON"
+2026-10-22T21:26:06Z,hypra/runtime,v0.1.0,,Runtime for PHP pages compiled by the Hypra compiler
+2026-10-22T21:27:16Z,psbits/xlf-editor,0.1.0-alpha,Daniel Ablass,"Backend module which allows to edit XLF files. Developmental state, not intended for production environments."
+2026-10-22T21:41:41Z,offmania9/boostack-framework,6.3.91,Stefano Spagnolo; Alessio Debernardi,The Boostack core framework.
+2026-10-22T22:07:30Z,siberfx/laravel-rustfs,1.0.0,Selim Görmüş,"RustFS for Laravel 13+: S3 data plane (buckets, objects, versioning, object lock, lifecycle, replication, encryption, notifications, select), the full RustFS Admin API (IAM, quotas, tiers, pools, heal, KMS, site replication...) and a ""rustfs"" filesystem disk."
+2026-10-22T22:09:35Z,pteal79/geo-map,1.0.0,Peter Teal,"A native map for NativePHP Mobile with coloured markers and shaded circles sized in metres (e.g. geofences). MapKit on iOS, MapLibre on Android, no API keys."
