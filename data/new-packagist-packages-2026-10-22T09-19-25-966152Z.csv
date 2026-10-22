@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-22T08:42:12Z,xiaoyjayus/change-env-laravel,v1.0.0,xiaoyJayUs,
+2026-10-22T08:46:49Z,dyongjun/ojt-sdk,v1.0.1,,新智慧TMS API v5 SDK
+2026-10-22T08:51:48Z,alexisgeneau/laravel-belvedere,v0.1.0,Alexis Geneau,Horizon-style queue dashboard for Laravel's database queue driver.
+2026-10-22T08:53:44Z,open-dxp/mate-extension,v1.0.0,DACHCOM.DIGITAL Stefan Hagspiel,Symfony AI Mate extension for OpenDXP. Gives coding agents the facts of the installation and the skills to build on it.
+2026-10-22T09:14:00Z,doska/symfony-bundle,v0.1.0,,"Dev-only toolbar that turns a clicked element into a Symfony-aware prompt: controller, Twig file and line, and UX component."
+2026-10-22T09:14:06Z,m2collective/filament-leaflet-map,0.1.0,bu0nq,

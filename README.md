@@ -15,17 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 08:21 UTC
+## Latest list — 2026-10-22 09:19 UTC
 
-New packages created between 2026-10-22 07:21 UTC and 2026-10-22 08:21 UTC.
+New packages created between 2026-10-22 08:21 UTC and 2026-10-22 09:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-22T08-21-29-835438Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-22T09-19-25-966152Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-22 07:26:08 | [electrik/slate-illustrations](https://www.nuget.org/packages/electrik%2Fslate-illustrations) | 0.1.0 | neerajsohal | A collection of animated UI scenes for Electrik Slate landing pages. Looks like… |
-| 2026-10-22 07:31:14 | [phpsafe/guard](https://www.nuget.org/packages/phpsafe%2Fguard) | v0.1.0 | PHP Safe | Zero-dependency security layer for PHP: request shield, static code scanner and… |
-| 2026-10-22 07:35:52 | [hoangkim28/codeigniter](https://www.nuget.org/packages/hoangkim28%2Fcodeigniter) | v0.1.0 |  | CodeIgniter 3 fork of pocketarc/codeigniter maintained by hoangkim28, with supp… |
+| 2026-10-22 08:42:12 | [xiaoyjayus/change-env-laravel](https://www.nuget.org/packages/xiaoyjayus%2Fchange-env-laravel) | v1.0.0 | xiaoyJayUs |  |
+| 2026-10-22 08:46:49 | [dyongjun/ojt-sdk](https://www.nuget.org/packages/dyongjun%2Fojt-sdk) | v1.0.1 |  | 新智慧TMS API v5 SDK |
+| 2026-10-22 08:51:48 | [alexisgeneau/laravel-belvedere](https://www.nuget.org/packages/alexisgeneau%2Flaravel-belvedere) | v0.1.0 | Alexis Geneau | Horizon-style queue dashboard for Laravel's database queue driver. |
+| 2026-10-22 08:53:44 | [open-dxp/mate-extension](https://www.nuget.org/packages/open-dxp%2Fmate-extension) | v1.0.0 | DACHCOM.DIGITAL Stefan Hagspi… | Symfony AI Mate extension for OpenDXP. Gives coding agents the facts of the ins… |
+| 2026-10-22 09:14:00 | [doska/symfony-bundle](https://www.nuget.org/packages/doska%2Fsymfony-bundle) | v0.1.0 |  | Dev-only toolbar that turns a clicked element into a Symfony-aware prompt: cont… |
+| 2026-10-22 09:14:06 | [m2collective/filament-leaflet-map](https://www.nuget.org/packages/m2collective%2Ffilament-leaflet-map) | 0.1.0 | bu0nq |  |
 
 ## Data source
 
