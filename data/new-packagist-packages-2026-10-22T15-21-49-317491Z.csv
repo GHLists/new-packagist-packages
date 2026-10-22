@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-22T14:39:17Z,tenma/discord,v0.1.0,,"Discord bots in PHP on Tenma: gateway events, slash commands, buttons and voice through a native plugin."
+2026-10-22T14:43:24Z,jacerider/ux,6.0.0,Cyle Carlson (JaceRider),A suite of UI elements and components to improve user experience.
+2026-10-22T14:44:03Z,jacerider/escort,5.0.0,Cyle Carlson (JaceRider),An admin menu of extreme super awesomeness.
+2026-10-22T14:47:31Z,considbrs-webdev/modularity-link-cards,1.0.0,Consid Borås AB,A grid of clickable link cards with icons.
+2026-10-22T14:47:53Z,considbrs-webdev/modularity-quick-links,1.0.1,Consid Borås AB,A module for Modularity that creates the ability for the user to create a grid of cards that link to important pages.
+2026-10-22T14:58:00Z,filagora/filagora-notifications,v0.1.0,,"Notification preferences for Filagora: per-person, per-category, per-channel choices, a category registry, suppression, signed unsubscribe, and bridges to push and forums."
+2026-10-22T15:16:25Z,mehrabhossain/loglens,v1.0.0,Mehrab Hossain,"Developer-focused application log analyzer and monitoring dashboard for Laravel 10, 11, 12, and 13"
+2026-10-22T15:19:48Z,risetechapps/notify-service-for-laravel,1.0.0,Rise Tech,

@@ -15,24 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 14:20 UTC
+## Latest list — 2026-10-22 15:21 UTC
 
-New packages created between 2026-10-22 13:19 UTC and 2026-10-22 14:20 UTC.
+New packages created between 2026-10-22 14:20 UTC and 2026-10-22 15:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-22T14-20-17-454449Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-22T15-21-49-317491Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-22 13:21:46 | [psbits/scanner](https://www.nuget.org/packages/psbits%2Fscanner) | 0.1.0-alpha | Daniel Ablass | Reusable scanner API and frontend component for barcode scanning |
-| 2026-10-22 13:27:26 | [agrekom/filter-url-alias-module](https://www.nuget.org/packages/agrekom%2Ffilter-url-alias-module) | v1.1.0 |  | Agrekom Filter URL Alias Module - translatable layered navigation filter URL pa… |
-| 2026-10-22 13:28:22 | [nafiur/laravel-web-analytics](https://www.nuget.org/packages/nafiur%2Flaravel-web-analytics) | v1.0.1 | Nafiur Rahman | High-performance Web Traffic & Visitor Analytics Dashboard for Laravel with rea… |
-| 2026-10-22 13:28:32 | [considbrs-webdev/modularity-latest-events](https://www.nuget.org/packages/considbrs-webdev%2Fmodularity-latest-events) | v1.0.0 | Considbrs-Webdev | Modularity Latest Events Module |
-| 2026-10-22 13:33:25 | [pharaonic/livewire-assistant](https://www.nuget.org/packages/pharaonic%2Flivewire-assistant) | 1.0.0 |  | Shared Blade and JavaScript foundation that binds JavaScript widgets to Livewir… |
-| 2026-10-22 13:43:18 | [rflex-spa/analytics-laravel](https://www.nuget.org/packages/rflex-spa%2Fanalytics-laravel) | 0.3.0 | rFlex | Server-side product analytics (PostHog) for rFlex Laravel systems: events, iden… |
-| 2026-10-22 13:52:36 | [rekhu/laravel-dev](https://www.nuget.org/packages/rekhu%2Flaravel-dev) | v1.0.0 | Rekhu, a product of Charisma… | Rekhu Builder for Laravel: connects a Laravel app to its agent in a Rekhu accou… |
-| 2026-10-22 13:55:40 | [hryvinskyi/magento2-admin-action-log-inventory](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-admin-action-log-inventory) | 1.0.0 | Volodymyr Hryvinskyi | Records per-source stock (quantity and status of each source item) as product c… |
-| 2026-10-22 13:58:58 | [blkdem/filament-queue-monitor](https://www.nuget.org/packages/blkdem%2Ffilament-queue-monitor) | v0.1.1 | BlkDem | A lightweight queue monitoring plugin for Filament. Not a replacement for Larav… |
-| 2026-10-22 14:11:50 | [ledgehq/ledge-laravel](https://www.nuget.org/packages/ledgehq%2Fledge-laravel) | 1.0.0 |  | Health, uptime, and compliance monitoring for your Laravel applications. |
+| 2026-10-22 14:39:17 | [tenma/discord](https://www.nuget.org/packages/tenma%2Fdiscord) | v0.1.0 |  | Discord bots in PHP on Tenma: gateway events, slash commands, buttons and voice… |
+| 2026-10-22 14:43:24 | [jacerider/ux](https://www.nuget.org/packages/jacerider%2Fux) | 6.0.0 | Cyle Carlson (JaceRider) | A suite of UI elements and components to improve user experience. |
+| 2026-10-22 14:44:03 | [jacerider/escort](https://www.nuget.org/packages/jacerider%2Fescort) | 5.0.0 | Cyle Carlson (JaceRider) | An admin menu of extreme super awesomeness. |
+| 2026-10-22 14:47:31 | [considbrs-webdev/modularity-link-cards](https://www.nuget.org/packages/considbrs-webdev%2Fmodularity-link-cards) | 1.0.0 | Consid Borås AB | A grid of clickable link cards with icons. |
+| 2026-10-22 14:47:53 | [considbrs-webdev/modularity-quick-links](https://www.nuget.org/packages/considbrs-webdev%2Fmodularity-quick-links) | 1.0.1 | Consid Borås AB | A module for Modularity that creates the ability for the user to create a grid… |
+| 2026-10-22 14:58:00 | [filagora/filagora-notifications](https://www.nuget.org/packages/filagora%2Ffilagora-notifications) | v0.1.0 |  | Notification preferences for Filagora: per-person, per-category, per-channel ch… |
+| 2026-10-22 15:16:25 | [mehrabhossain/loglens](https://www.nuget.org/packages/mehrabhossain%2Floglens) | v1.0.0 | Mehrab Hossain | Developer-focused application log analyzer and monitoring dashboard for Laravel… |
+| 2026-10-22 15:19:48 | [risetechapps/notify-service-for-laravel](https://www.nuget.org/packages/risetechapps%2Fnotify-service-for-laravel) | 1.0.0 | Rise Tech |  |
 
 ## Data source
 
