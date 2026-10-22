@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-22T05:06:15Z,gcego/data,v1.0.0,Atangageih Leke Collins,"Universal data access and query engine for GCEGO Studio: declarative sources, Eloquent, query builder and collection providers, secure filtering, searching, sorting, pagination, aggregation, relationships and scoped record resolution."
