@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 05:20 UTC
+## Latest list — 2026-10-22 06:21 UTC
 
-New packages created between 2026-10-22 04:19 UTC and 2026-10-22 05:20 UTC.
+New packages created between 2026-10-22 05:20 UTC and 2026-10-22 06:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-22T05-20-12-252257Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-22T06-21-55-817771Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-22 05:06:15 | [gcego/data](https://www.nuget.org/packages/gcego%2Fdata) | v1.0.0 | Atangageih Leke Collins | Universal data access and query engine for GCEGO Studio: declarative sources, E… |
+| 2026-10-22 06:16:01 | [gcego/rendering](https://www.nuget.org/packages/gcego%2Frendering) | v1.0.0 | Atangageih Leke Collins | Rendering for GCEGO Studio: renderer registry, Blade rendering of components an… |
 
 ## Data source
 

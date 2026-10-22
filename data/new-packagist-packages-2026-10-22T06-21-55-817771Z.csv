@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-22T06:16:01Z,gcego/rendering,v1.0.0,Atangageih Leke Collins,"Rendering for GCEGO Studio: renderer registry, Blade rendering of components and registered definitions, and render operations for gcego/runtime."
