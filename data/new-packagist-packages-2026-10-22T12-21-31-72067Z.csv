@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-22T11:24:29Z,skeeks/cms-communication,1.0.0,Semenov Alexander,"Communications for SkeekS CMS CRM: mailboxes, messenger bots, conversations, client notifications and mailings linked to leads, companies and clients"
+2026-10-22T11:24:58Z,skeeks/cms-communication-imap,1.0.0,Semenov Alexander,IMAP/SMTP mailbox driver for skeeks/cms-communication
+2026-10-22T11:30:07Z,stickysoftware/bump-laravel,v1.0.0,Wouter Dijkstra,"Laravel client for Bump: send events from your app, and Bump keeps exact running totals."
+2026-10-22T11:50:17Z,coastercms/coastercommerce,v13.0.0-beta.1,Neil Jennings,Ecommerce addon for Coaster CMS
+2026-10-22T11:57:58Z,jeffersongoncalves/laravel-autentique,1.0.0,Jefferson Gonçalves,"Laravel client for the Autentique GraphQL API (e-signature): documents, signers, folders, sandbox, rate-limit aware requests and signed webhooks."

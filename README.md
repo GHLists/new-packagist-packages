@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 11:20 UTC
+## Latest list — 2026-10-22 12:21 UTC
 
-New packages created between 2026-10-22 10:22 UTC and 2026-10-22 11:20 UTC.
+New packages created between 2026-10-22 11:20 UTC and 2026-10-22 12:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-22T11-20-24-491863Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-22T12-21-31-72067Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-22 10:26:17 | [contenir/contenir-preview-laminas-mvc](https://www.nuget.org/packages/contenir%2Fcontenir-preview-laminas-mvc) | v0.1.0 |  | Laminas MVC renderer for the Contenir preview protocol: answers the CMS's signe… |
-| 2026-10-22 10:42:13 | [pinal-paramsoftware/laravel-rbac-suite](https://www.nuget.org/packages/pinal-paramsoftware%2Flaravel-rbac-suite) | v1.0.5 | Pinal; Parth | Enterprise-grade Role-Based Access Control (RBAC) and Multi-Layer Authenticatio… |
-| 2026-10-22 11:02:30 | [emerson-ph/ai-team-setup](https://www.nuget.org/packages/emerson-ph%2Fai-team-setup) | v1.0.2 | Emerson | AI Team Setup for Laravel projects - Configure Claude Code, GitHub Copilot, Cur… |
-| 2026-10-22 11:07:54 | [njamin/wp-ui](https://www.nuget.org/packages/njamin%2Fwp-ui) | v0.1.0 |  | The shared UI layer of WordPress projects: Alpine (CSP build) and Lucide icons. |
+| 2026-10-22 11:24:29 | [skeeks/cms-communication](https://www.nuget.org/packages/skeeks%2Fcms-communication) | 1.0.0 | Semenov Alexander | Communications for SkeekS CMS CRM: mailboxes, messenger bots, conversations, cl… |
+| 2026-10-22 11:24:58 | [skeeks/cms-communication-imap](https://www.nuget.org/packages/skeeks%2Fcms-communication-imap) | 1.0.0 | Semenov Alexander | IMAP/SMTP mailbox driver for skeeks/cms-communication |
+| 2026-10-22 11:30:07 | [stickysoftware/bump-laravel](https://www.nuget.org/packages/stickysoftware%2Fbump-laravel) | v1.0.0 | Wouter Dijkstra | Laravel client for Bump: send events from your app, and Bump keeps exact runnin… |
+| 2026-10-22 11:50:17 | [coastercms/coastercommerce](https://www.nuget.org/packages/coastercms%2Fcoastercommerce) | v13.0.0-beta.1 | Neil Jennings | Ecommerce addon for Coaster CMS |
+| 2026-10-22 11:57:58 | [jeffersongoncalves/laravel-autentique](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-autentique) | 1.0.0 | Jefferson Gonçalves | Laravel client for the Autentique GraphQL API (e-signature): documents, signers… |
 
 ## Data source
 
