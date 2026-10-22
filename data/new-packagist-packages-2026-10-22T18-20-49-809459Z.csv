@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-22T17:24:53Z,vattra/laravel-rbac,v1.0.0,Ra Vattra,"Fast, config-driven role-based access control for Laravel"
+2026-10-22T17:29:39Z,jeffersongoncalves/laravel-zapsign,1.0.0,Jefferson Gonçalves,"Laravel client for the ZapSign API (e-signature): documents, templates, signers, rate-limit aware requests, database persistence, queued jobs and webhooks."
+2026-10-22T17:40:15Z,jeffersongoncalves/filament-zapsign,1.0.0,,
+2026-10-22T17:40:19Z,market-media/input,v1.0.0,,Leitura e sanitização de entradas HTTP para PHP 8.5.
+2026-10-22T17:54:38Z,preflow/codes,v0.20.0,,Preflow codes — readable and random codes that grant something for one purpose
+2026-10-22T17:54:38Z,preflow/rbac,v0.20.0,,Preflow RBAC — roles managed in Folio answering can()
+2026-10-22T17:59:02Z,ecuafact/sdk,v1.0.0-beta5,Ecuanexus,Cliente oficial en PHP del API publico de facturacion electronica Ecuafact (contrato v1).
+2026-10-22T17:59:43Z,nicodevs/weather,v0.1.2,,"Weather for any city, as JSON."
