@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-21T23:24:59Z,widgetic/api-sdk-php,1.11.66,Widgetic,API documentation for the Widgetic API Gateway
+2026-10-21T23:56:27Z,phpsyntax/phpsyntax,v1.0.0,David Grudl,"🌳 PhpSyntax: a lossless concrete syntax tree (CST) for PHP. Every token, space and comment is kept, so the tree prints back byte for byte and a tool changes only what it touches. Comes with a mutation API for refactoring tools and formatters."

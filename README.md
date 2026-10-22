@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 23:19 UTC
+## Latest list — 2026-10-22 00:19 UTC
 
-New packages created between 2026-10-21 22:20 UTC and 2026-10-21 23:19 UTC.
+New packages created between 2026-10-21 23:19 UTC and 2026-10-22 00:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-21T23-19-38-148669Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-22T00-19-40-537156Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-21 22:36:28 | [ranfury/silverstripe-cms-styles](https://www.nuget.org/packages/ranfury%2Fsilverstripe-cms-styles) | 1.0.0 | Ranfury | A fresh, modern style for the Silverstripe CMS. Blocks the core CMS styles and… |
-| 2026-10-21 23:04:42 | [wielorzeczownik/phalcon-inertia](https://www.nuget.org/packages/wielorzeczownik%2Fphalcon-inertia) | v0.1.0 | wielorzeczownik | Inertia.js server adapter for Phalcon 3.4 to 5, with Ziggy style named routes f… |
+| 2026-10-21 23:24:59 | [widgetic/api-sdk-php](https://www.nuget.org/packages/widgetic%2Fapi-sdk-php) | 1.11.66 | Widgetic | API documentation for the Widgetic API Gateway |
+| 2026-10-21 23:56:27 | [phpsyntax/phpsyntax](https://www.nuget.org/packages/phpsyntax%2Fphpsyntax) | v1.0.0 | David Grudl | 🌳 PhpSyntax: a lossless concrete syntax tree (CST) for PHP. Every token, space… |
 
 ## Data source
 
