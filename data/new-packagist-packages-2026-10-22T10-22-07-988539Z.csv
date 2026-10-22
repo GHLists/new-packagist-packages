@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-22T09:24:37Z,omniboost/aws-iam-proof-auth,v0.1.0,,Service-to-service authentication with the caller's AWS IAM identity: sign outgoing requests and verify incoming ones with AWS-IAM-PROOF headers. Includes Laravel middleware.
+2026-10-22T09:35:48Z,ciiixid/laravel-db-timetravel,v1.0.0,Ciiixid,A local database time-travel snapshot CLI tool for Laravel developers
+2026-10-22T09:42:50Z,spryker/merchant-sales-invoice,1.0.0,,MerchantSalesInvoice module
+2026-10-22T09:50:59Z,pieceofcake2/filebinder,v2.9.0,fusic,"Simple file attachment plugin for CakePHP 2: local files, database and Amazon S3 storage"
+2026-10-22T09:53:15Z,jund-fauz/laravel-raw-query-builder,v1.0.1,jund-fauz,"Build raw query in laravel using helper function, like build a normal query in Eloquent"

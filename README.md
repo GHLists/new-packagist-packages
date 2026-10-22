@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 09:19 UTC
+## Latest list — 2026-10-22 10:22 UTC
 
-New packages created between 2026-10-22 08:21 UTC and 2026-10-22 09:19 UTC.
+New packages created between 2026-10-22 09:19 UTC and 2026-10-22 10:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-22T09-19-25-966152Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-22T10-22-07-988539Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-22 08:42:12 | [xiaoyjayus/change-env-laravel](https://www.nuget.org/packages/xiaoyjayus%2Fchange-env-laravel) | v1.0.0 | xiaoyJayUs |  |
-| 2026-10-22 08:46:49 | [dyongjun/ojt-sdk](https://www.nuget.org/packages/dyongjun%2Fojt-sdk) | v1.0.1 |  | 新智慧TMS API v5 SDK |
-| 2026-10-22 08:51:48 | [alexisgeneau/laravel-belvedere](https://www.nuget.org/packages/alexisgeneau%2Flaravel-belvedere) | v0.1.0 | Alexis Geneau | Horizon-style queue dashboard for Laravel's database queue driver. |
-| 2026-10-22 08:53:44 | [open-dxp/mate-extension](https://www.nuget.org/packages/open-dxp%2Fmate-extension) | v1.0.0 | DACHCOM.DIGITAL Stefan Hagspi… | Symfony AI Mate extension for OpenDXP. Gives coding agents the facts of the ins… |
-| 2026-10-22 09:14:00 | [doska/symfony-bundle](https://www.nuget.org/packages/doska%2Fsymfony-bundle) | v0.1.0 |  | Dev-only toolbar that turns a clicked element into a Symfony-aware prompt: cont… |
-| 2026-10-22 09:14:06 | [m2collective/filament-leaflet-map](https://www.nuget.org/packages/m2collective%2Ffilament-leaflet-map) | 0.1.0 | bu0nq |  |
+| 2026-10-22 09:24:37 | [omniboost/aws-iam-proof-auth](https://www.nuget.org/packages/omniboost%2Faws-iam-proof-auth) | v0.1.0 |  | Service-to-service authentication with the caller's AWS IAM identity: sign outg… |
+| 2026-10-22 09:35:48 | [ciiixid/laravel-db-timetravel](https://www.nuget.org/packages/ciiixid%2Flaravel-db-timetravel) | v1.0.0 | Ciiixid | A local database time-travel snapshot CLI tool for Laravel developers |
+| 2026-10-22 09:42:50 | [spryker/merchant-sales-invoice](https://www.nuget.org/packages/spryker%2Fmerchant-sales-invoice) | 1.0.0 |  | MerchantSalesInvoice module |
+| 2026-10-22 09:50:59 | [pieceofcake2/filebinder](https://www.nuget.org/packages/pieceofcake2%2Ffilebinder) | v2.9.0 | fusic | Simple file attachment plugin for CakePHP 2: local files, database and Amazon S… |
+| 2026-10-22 09:53:15 | [jund-fauz/laravel-raw-query-builder](https://www.nuget.org/packages/jund-fauz%2Flaravel-raw-query-builder) | v1.0.1 | jund-fauz | Build raw query in laravel using helper function, like build a normal query in… |
 
 ## Data source
 
