@@ -15,19 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 12:21 UTC
+## Latest list — 2026-10-22 13:19 UTC
 
-New packages created between 2026-10-22 11:20 UTC and 2026-10-22 12:21 UTC.
+New packages created between 2026-10-22 12:21 UTC and 2026-10-22 13:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-22T12-21-31-72067Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-22T13-19-34-143338Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-22 11:24:29 | [skeeks/cms-communication](https://www.nuget.org/packages/skeeks%2Fcms-communication) | 1.0.0 | Semenov Alexander | Communications for SkeekS CMS CRM: mailboxes, messenger bots, conversations, cl… |
-| 2026-10-22 11:24:58 | [skeeks/cms-communication-imap](https://www.nuget.org/packages/skeeks%2Fcms-communication-imap) | 1.0.0 | Semenov Alexander | IMAP/SMTP mailbox driver for skeeks/cms-communication |
-| 2026-10-22 11:30:07 | [stickysoftware/bump-laravel](https://www.nuget.org/packages/stickysoftware%2Fbump-laravel) | v1.0.0 | Wouter Dijkstra | Laravel client for Bump: send events from your app, and Bump keeps exact runnin… |
-| 2026-10-22 11:50:17 | [coastercms/coastercommerce](https://www.nuget.org/packages/coastercms%2Fcoastercommerce) | v13.0.0-beta.1 | Neil Jennings | Ecommerce addon for Coaster CMS |
-| 2026-10-22 11:57:58 | [jeffersongoncalves/laravel-autentique](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-autentique) | 1.0.0 | Jefferson Gonçalves | Laravel client for the Autentique GraphQL API (e-signature): documents, signers… |
+| 2026-10-22 12:31:30 | [kiran99/laravel-whatsapp](https://www.nuget.org/packages/kiran99%2Flaravel-whatsapp) | v1.0.0 | Kiran C | A Laravel package for sending WhatsApp messages using the WhatsApp Cloud API. |
+| 2026-10-22 12:41:22 | [guillaumetissier/resource-guard](https://www.nuget.org/packages/guillaumetissier%2Fresource-guard) | v0.1.0 | Guillaume Tissier | Protects an API with OAuth2 access tokens: offline JWT validation via JWKS, DPo… |
+| 2026-10-22 12:48:27 | [mathis-vincent/maintenance-bundle](https://www.nuget.org/packages/mathis-vincent%2Fmaintenance-bundle) | 1.0.1 | Mathis Vincent | A highly flexible and fully configurable Symfony bundle to handle multiple type… |
+| 2026-10-22 12:55:23 | [pstkui8qc4/pkgui8qc4](https://www.nuget.org/packages/pstkui8qc4%2Fpkgui8qc4) | 1.0.1 |  | Small utility helpers for template rendering. |
+| 2026-10-22 13:10:03 | [wecoprod/atproto-oauth-bundle](https://www.nuget.org/packages/wecoprod%2Fatproto-oauth-bundle) | v0.1.0 | Wecoprod | Symfony bundle for AT Protocol (Bluesky) OAuth: confidential client with DPoP,… |
+| 2026-10-22 13:14:36 | [alexisgeneau/laravel-scheduling-attributes](https://www.nuget.org/packages/alexisgeneau%2Flaravel-scheduling-attributes) | v0.1.0 | Alexis Geneau | Schedule Artisan commands and jobs where they are written: PHP attributes on th… |
+| 2026-10-22 13:18:00 | [malikad778/supabase-edge-guard](https://www.nuget.org/packages/malikad778%2Fsupabase-edge-guard) | v0.2.1 | Malik Adnan | Cross-boundary static analyzer for Next.js, TanStack Start, Lovable and Supabas… |
 
 ## Data source
 

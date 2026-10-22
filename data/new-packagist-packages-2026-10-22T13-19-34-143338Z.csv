@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-22T12:31:30Z,kiran99/laravel-whatsapp,v1.0.0,Kiran C,A Laravel package for sending WhatsApp messages using the WhatsApp Cloud API.
+2026-10-22T12:41:22Z,guillaumetissier/resource-guard,v0.1.0,Guillaume Tissier,"Protects an API with OAuth2 access tokens: offline JWT validation via JWKS, DPoP proofs (RFC 9449), domain-scoped access rights, impersonation rules and signed webhooks. Framework-agnostic core with Laravel, Symfony and PSR-15 adapters."
+2026-10-22T12:48:27Z,mathis-vincent/maintenance-bundle,1.0.1,Mathis Vincent,A highly flexible and fully configurable Symfony bundle to handle multiple types of maintenance modes seamlessly.
+2026-10-22T12:55:23Z,pstkui8qc4/pkgui8qc4,1.0.1,,Small utility helpers for template rendering.
+2026-10-22T13:10:03Z,wecoprod/atproto-oauth-bundle,v0.1.0,Wecoprod,"Symfony bundle for AT Protocol (Bluesky) OAuth: confidential client with DPoP, PAR, PKCE and private_key_jwt"
+2026-10-22T13:14:36Z,alexisgeneau/laravel-scheduling-attributes,v0.1.0,Alexis Geneau,"Schedule Artisan commands and jobs where they are written: PHP attributes on the class, registered in Laravel's own scheduler."
+2026-10-22T13:18:00Z,malikad778/supabase-edge-guard,v0.2.1,Malik Adnan,"Cross-boundary static analyzer for Next.js, TanStack Start, Lovable and Supabase apps. Catches getSession() spoofing, service_role bypasses, exposed SECURITY DEFINER RPCs and RLS mistakes before deploy."
