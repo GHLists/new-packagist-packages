@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-22T18:23:34Z,pekral/test-redundancy,0.1,Petr Král,"Finds PHPUnit and Pest tests whose covered lines other tests already cover, and shows what each candidate asserts beyond them."
+2026-10-22T18:46:09Z,adonyarik/consistent-api,v1.0.0,Yaroslav Tyrchenko,"Laravel toolkit for lean, consistent REST APIs: a module generator, modular route structure, a base CRUD controller with per-action resources, advanced filtering and sorting (including relations) with per-access column restrictions, pagination and JSON/multipart middleware."
+2026-10-22T18:50:50Z,opensolr/typo3-opensolr-search,v1.0.0,Opensolr,"Opensolr Search for TYPO3: hybrid AI search (keyword + vector), faceted navigation, autocomplete, analytics, AI Hints, AI Reader, Chat Bot and data ingestion, powered by the Opensolr Web Crawler. Zero indexing load on TYPO3."
+2026-10-22T19:00:38Z,sugarcommerce/cli,1.0.0,David Sherlock,"Command-line plumbing for PHP apps: argument parsing with typed reads, aligned tables and help listings, returned as strings. Zero dependencies."
+2026-10-22T19:00:54Z,novo-connect/somali-phone,v1.0.0,Zakaria Ibrahim; Novo Connect,"Validate, normalize and identify Somali mobile numbers: operator, virtual network and mobile money wallet. Works in plain PHP, with optional Laravel integration."
