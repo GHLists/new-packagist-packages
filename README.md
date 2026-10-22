@@ -15,21 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 13:19 UTC
+## Latest list — 2026-10-22 14:20 UTC
 
-New packages created between 2026-10-22 12:21 UTC and 2026-10-22 13:19 UTC.
+New packages created between 2026-10-22 13:19 UTC and 2026-10-22 14:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-22T13-19-34-143338Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-22T14-20-17-454449Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-22 12:31:30 | [kiran99/laravel-whatsapp](https://www.nuget.org/packages/kiran99%2Flaravel-whatsapp) | v1.0.0 | Kiran C | A Laravel package for sending WhatsApp messages using the WhatsApp Cloud API. |
-| 2026-10-22 12:41:22 | [guillaumetissier/resource-guard](https://www.nuget.org/packages/guillaumetissier%2Fresource-guard) | v0.1.0 | Guillaume Tissier | Protects an API with OAuth2 access tokens: offline JWT validation via JWKS, DPo… |
-| 2026-10-22 12:48:27 | [mathis-vincent/maintenance-bundle](https://www.nuget.org/packages/mathis-vincent%2Fmaintenance-bundle) | 1.0.1 | Mathis Vincent | A highly flexible and fully configurable Symfony bundle to handle multiple type… |
-| 2026-10-22 12:55:23 | [pstkui8qc4/pkgui8qc4](https://www.nuget.org/packages/pstkui8qc4%2Fpkgui8qc4) | 1.0.1 |  | Small utility helpers for template rendering. |
-| 2026-10-22 13:10:03 | [wecoprod/atproto-oauth-bundle](https://www.nuget.org/packages/wecoprod%2Fatproto-oauth-bundle) | v0.1.0 | Wecoprod | Symfony bundle for AT Protocol (Bluesky) OAuth: confidential client with DPoP,… |
-| 2026-10-22 13:14:36 | [alexisgeneau/laravel-scheduling-attributes](https://www.nuget.org/packages/alexisgeneau%2Flaravel-scheduling-attributes) | v0.1.0 | Alexis Geneau | Schedule Artisan commands and jobs where they are written: PHP attributes on th… |
-| 2026-10-22 13:18:00 | [malikad778/supabase-edge-guard](https://www.nuget.org/packages/malikad778%2Fsupabase-edge-guard) | v0.2.1 | Malik Adnan | Cross-boundary static analyzer for Next.js, TanStack Start, Lovable and Supabas… |
+| 2026-10-22 13:21:46 | [psbits/scanner](https://www.nuget.org/packages/psbits%2Fscanner) | 0.1.0-alpha | Daniel Ablass | Reusable scanner API and frontend component for barcode scanning |
+| 2026-10-22 13:27:26 | [agrekom/filter-url-alias-module](https://www.nuget.org/packages/agrekom%2Ffilter-url-alias-module) | v1.1.0 |  | Agrekom Filter URL Alias Module - translatable layered navigation filter URL pa… |
+| 2026-10-22 13:28:22 | [nafiur/laravel-web-analytics](https://www.nuget.org/packages/nafiur%2Flaravel-web-analytics) | v1.0.1 | Nafiur Rahman | High-performance Web Traffic & Visitor Analytics Dashboard for Laravel with rea… |
+| 2026-10-22 13:28:32 | [considbrs-webdev/modularity-latest-events](https://www.nuget.org/packages/considbrs-webdev%2Fmodularity-latest-events) | v1.0.0 | Considbrs-Webdev | Modularity Latest Events Module |
+| 2026-10-22 13:33:25 | [pharaonic/livewire-assistant](https://www.nuget.org/packages/pharaonic%2Flivewire-assistant) | 1.0.0 |  | Shared Blade and JavaScript foundation that binds JavaScript widgets to Livewir… |
+| 2026-10-22 13:43:18 | [rflex-spa/analytics-laravel](https://www.nuget.org/packages/rflex-spa%2Fanalytics-laravel) | 0.3.0 | rFlex | Server-side product analytics (PostHog) for rFlex Laravel systems: events, iden… |
+| 2026-10-22 13:52:36 | [rekhu/laravel-dev](https://www.nuget.org/packages/rekhu%2Flaravel-dev) | v1.0.0 | Rekhu, a product of Charisma… | Rekhu Builder for Laravel: connects a Laravel app to its agent in a Rekhu accou… |
+| 2026-10-22 13:55:40 | [hryvinskyi/magento2-admin-action-log-inventory](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-admin-action-log-inventory) | 1.0.0 | Volodymyr Hryvinskyi | Records per-source stock (quantity and status of each source item) as product c… |
+| 2026-10-22 13:58:58 | [blkdem/filament-queue-monitor](https://www.nuget.org/packages/blkdem%2Ffilament-queue-monitor) | v0.1.1 | BlkDem | A lightweight queue monitoring plugin for Filament. Not a replacement for Larav… |
+| 2026-10-22 14:11:50 | [ledgehq/ledge-laravel](https://www.nuget.org/packages/ledgehq%2Fledge-laravel) | 1.0.0 |  | Health, uptime, and compliance monitoring for your Laravel applications. |
 
 ## Data source
 

@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-22T13:21:46Z,psbits/scanner,0.1.0-alpha,Daniel Ablass,Reusable scanner API and frontend component for barcode scanning
+2026-10-22T13:27:26Z,agrekom/filter-url-alias-module,v1.1.0,,Agrekom Filter URL Alias Module - translatable layered navigation filter URL parameters per store view
+2026-10-22T13:28:22Z,nafiur/laravel-web-analytics,v1.0.1,Nafiur Rahman,High-performance Web Traffic & Visitor Analytics Dashboard for Laravel with real-time SSE live streaming
+2026-10-22T13:28:32Z,considbrs-webdev/modularity-latest-events,v1.0.0,Considbrs-Webdev,Modularity Latest Events Module
+2026-10-22T13:33:25Z,pharaonic/livewire-assistant,1.0.0,,Shared Blade and JavaScript foundation that binds JavaScript widgets to Livewire components.
+2026-10-22T13:43:18Z,rflex-spa/analytics-laravel,0.3.0,rFlex,"Server-side product analytics (PostHog) for rFlex Laravel systems: events, identify/group, feature flags."
+2026-10-22T13:52:36Z,rekhu/laravel-dev,v1.0.0,"Rekhu, a product of Charisma Design","Rekhu Builder for Laravel: connects a Laravel app to its agent in a Rekhu account. It reads the running app, fixes errors on a git branch with tests, and watches the live site."
+2026-10-22T13:55:40Z,hryvinskyi/magento2-admin-action-log-inventory,1.0.0,Volodymyr Hryvinskyi,Records per-source stock (quantity and status of each source item) as product changes in the admin action log
+2026-10-22T13:58:58Z,blkdem/filament-queue-monitor,v0.1.1,BlkDem,A lightweight queue monitoring plugin for Filament. Not a replacement for Laravel Horizon.
+2026-10-22T14:11:50Z,ledgehq/ledge-laravel,1.0.0,,"Health, uptime, and compliance monitoring for your Laravel applications."
