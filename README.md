@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 22:19 UTC
+## Latest list — 2026-10-23 23:20 UTC
 
-New packages created between 2026-10-23 21:21 UTC and 2026-10-23 22:19 UTC.
+New packages created between 2026-10-23 22:19 UTC and 2026-10-23 23:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T22-19-47-643235Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T23-20-47-555176Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 21:42:41 | [vanta/meminfo](https://www.nuget.org/packages/vanta%2Fmeminfo) | 0.1.0 | Benoit Jacquemont; Vlad Shash… | PHP extension that dumps the content of PHP memory as JSON, to hunt down memory… |
-| 2026-10-23 21:46:04 | [preflow/members](https://www.nuget.org/packages/preflow%2Fmembers) | v0.26.0 |  | Preflow members — member accounts for a Preflow + Folio site: the member type,… |
-| 2026-10-23 21:54:30 | [vanta/dump-meminfo](https://www.nuget.org/packages/vanta%2Fdump-meminfo) | 0.1 | Benoit Jacquemont; Vlad Shash… | dump-meminfo command: dump the memory of a running PHP process with the meminfo… |
+| 2026-10-23 22:56:47 | [webimpian/laravel-sso](https://www.nuget.org/packages/webimpian%2Flaravel-sso) | v1.0.0 | Khairul Imran | Sign staff in to a Laravel app through an OIDC SSO portal, with access checks,… |
 
 ## Data source
 

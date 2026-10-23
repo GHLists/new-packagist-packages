@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-23T22:56:47Z,webimpian/laravel-sso,v1.0.0,Khairul Imran,"Sign staff in to a Laravel app through an OIDC SSO portal, with access checks, back-channel logout and staff management."
