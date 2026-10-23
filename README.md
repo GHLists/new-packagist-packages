@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 20:19 UTC
+## Latest list — 2026-10-23 21:21 UTC
 
-New packages created between 2026-10-23 19:20 UTC and 2026-10-23 20:19 UTC.
+New packages created between 2026-10-23 20:19 UTC and 2026-10-23 21:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T20-19-13-467176Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T21-21-27-853669Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 19:22:25 | [postalportal/zip4](https://www.nuget.org/packages/postalportal%2Fzip4) | 0.0.1 |  | Match and standardize US addresses against a local USPS ZIP+4 SQLite database |
-| 2026-10-23 19:35:16 | [bepago/sdk](https://www.nuget.org/packages/bepago%2Fsdk) | v1.0.0 | bePago | SDK oficial de bePago para PHP (7.4+, sin dependencias) |
-| 2026-10-23 19:41:54 | [sunasty/color-math](https://www.nuget.org/packages/sunasty%2Fcolor-math) | v1.0.0 | Bastien Sulyan | Zero-dependency sRGB, OKLCH, and WCAG 2.1 contrast calculation in PHP |
+| 2026-10-23 20:33:25 | [prontuno/prontuno-laravel](https://www.nuget.org/packages/prontuno%2Fprontuno-laravel) | v0.1.0 | Prontuno Team | The official Laravel integration for Prontuno: API client, mail transport, and… |
+| 2026-10-23 20:36:41 | [jalaljaberi/negarity-color](https://www.nuget.org/packages/jalaljaberi%2Fnegarity-color) | v1.0.0-beta1 | Jalal Jaberi | Negarity Color — a modern, extensible color manipulation library for PHP. |
+| 2026-10-23 20:41:36 | [siberfx/laravel-risk-analyzer](https://www.nuget.org/packages/siberfx%2Flaravel-risk-analyzer) | v2.0.0 | Selim Görmüş | Security scanner for Laravel 12 & 13: AST taint analysis of your code, checks o… |
 
 ## Data source
 

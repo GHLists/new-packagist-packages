@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-23T20:33:25Z,prontuno/prontuno-laravel,v0.1.0,Prontuno Team,"The official Laravel integration for Prontuno: API client, mail transport, and webhook verification"
+2026-10-23T20:36:41Z,jalaljaberi/negarity-color,v1.0.0-beta1,Jalal Jaberi,"Negarity Color — a modern, extensible color manipulation library for PHP."
+2026-10-23T20:41:36Z,siberfx/laravel-risk-analyzer,v2.0.0,Selim Görmüş,"Security scanner for Laravel 12 & 13: AST taint analysis of your code, checks of the booted app's config and routes, OSV dependency advisories, baselines and SARIF output."
