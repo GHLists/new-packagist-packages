@@ -15,23 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 07:20 UTC
+## Latest list — 2026-10-23 08:19 UTC
 
-New packages created between 2026-10-23 06:19 UTC and 2026-10-23 07:20 UTC.
+New packages created between 2026-10-23 07:20 UTC and 2026-10-23 08:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T07-20-59-837025Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T08-19-58-293783Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 06:21:22 | [isaacjuwon/probe](https://www.nuget.org/packages/isaacjuwon%2Fprobe) | v0.1.0 | Isaac Juwon | Dev-only in-app REST client for Laravel |
-| 2026-10-23 06:23:52 | [nowo-tech/manual-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fmanual-kit-bundle) | v1.0.1 | Héctor Franco Aceituno; Nowo.… | In-app product manual for Symfony from your docs/manual Markdown: one source fo… |
-| 2026-10-23 06:26:04 | [davingm/laravel-devtools](https://www.nuget.org/packages/davingm%2Flaravel-devtools) | v1.0.0 |  | Laravel 11, 12, and 13 development tools and generators. |
-| 2026-10-23 06:43:28 | [rasuvaeff/pinned-http-client](https://www.nuget.org/packages/rasuvaeff%2Fpinned-http-client) | v0.1.0 | Victor Razuvaev | PSR-18 client for untrusted URLs: resolves the host, checks every address and p… |
-| 2026-10-23 06:48:00 | [exportaccelerator/productfeed](https://www.nuget.org/packages/exportaccelerator%2Fproductfeed) | v1.0.0 |  | Product feed module for Magento 2.4.6 and above |
-| 2026-10-23 06:54:26 | [shopper/migrator](https://www.nuget.org/packages/shopper%2Fmigrator) | v1.0.0 | Arthur Monney | Migrate your store from other e-commerce platforms to Shopper |
-| 2026-10-23 06:54:47 | [paul-elpidorou/laravel-custom-log](https://www.nuget.org/packages/paul-elpidorou%2Flaravel-custom-log) | v1.0.0 | paul-elpidorou | This is my package laravel-custom-log |
-| 2026-10-23 06:59:28 | [anun333/openhealthcare-common](https://www.nuget.org/packages/anun333%2Fopenhealthcare-common) | v1.0.0 |  | Code shared by the openhealthcare OpenEMR modules: one compatibility layer for… |
-| 2026-10-23 07:10:17 | [rohama/koin-nextpay](https://www.nuget.org/packages/rohama%2Fkoin-nextpay) | 2.2.0 | Rohama | Koin — NextPay gateway driver (direct gateway) |
+| 2026-10-23 07:36:11 | [phasync/hooked](https://www.nuget.org/packages/phasync%2Fhooked) | v0.1.0 |  | Cooperative blocking PHP function replacements for phasync |
+| 2026-10-23 07:39:44 | [phasync/plug](https://www.nuget.org/packages/phasync%2Fplug) | v0.1.0 |  | Translate whole PHP applications with phasync/babel so their blocking calls go… |
+| 2026-10-23 07:49:59 | [symfony/ai-decision-platform](https://www.nuget.org/packages/symfony%2Fai-decision-platform) | v0.15.0 | Yoan Bernabeu; Symfony Commun… | Decision platform bridge for Symfony AI |
+| 2026-10-23 08:03:21 | [digicademy/typo3-sentry-logs-writer](https://www.nuget.org/packages/digicademy%2Ftypo3-sentry-logs-writer) | 1.0.0 | Frodo Podschwadek | TYPO3 log writer that sends log Sentry Logs API. |
 
 ## Data source
 

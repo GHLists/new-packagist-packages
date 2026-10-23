@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-23T07:36:11Z,phasync/hooked,v0.1.0,,Cooperative blocking PHP function replacements for phasync
+2026-10-23T07:39:44Z,phasync/plug,v0.1.0,,"Translate whole PHP applications with phasync/babel so their blocking calls go to phasync/hooked's cooperative replacements: what ext-phasync does (sapi(), non-blocking I/O), done in userspace"
+2026-10-23T07:49:59Z,symfony/ai-decision-platform,v0.15.0,Yoan Bernabeu; Symfony Community,Decision platform bridge for Symfony AI
+2026-10-23T08:03:21Z,digicademy/typo3-sentry-logs-writer,1.0.0,Frodo Podschwadek,TYPO3 log writer that sends log Sentry Logs API.
