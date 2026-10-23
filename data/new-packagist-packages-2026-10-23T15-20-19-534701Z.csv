@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-23T14:20:51Z,payum-payu/payum-payu,v1.0.0,Serhii Puzikov,"PayU (REST API 2.1) gateway for Payum: hosted checkout, card-token recurring payments, signed notifications, refunds and cancellation."
+2026-10-23T14:22:07Z,tapp/filament-mcp,v0.1.0,Tapp Network,"MCP for Laravel apps in Filament: a token page with one Sanctum ability per tool, setup steps for any AI agent, tool-call enforcement and an optional audit log."
+2026-10-23T14:28:05Z,pteal79/otp-code,1.0.0,Peter Teal,"One-time code input EDGE element (<native:otp-code>) for NativePHP Mobile: one box per digit, SwiftUI and Jetpack Compose"
+2026-10-23T14:32:19Z,rohama/koin-zibal,2.2.1,Rohama,Koin — Zibal gateway driver (IPG REST v1)
+2026-10-23T14:34:27Z,malikad/php2shell-guard,v0.3.0,Malik Adnan,"Read-only runtime, SAPI, stale-worker, configuration, and IaC auditor for PHP2Shell (CVE-2026-109618, CVE-2026-109619) and Node.js October 2026 advisories."
+2026-10-23T14:39:45Z,jlrodriguezdev/laravel-bot-protection,v1.0.1,jlrodriguezdev,"High-performance Laravel WAF & Anti-Bot Middleware mitigating automated scanners, scrapers, and exploit reconnaissance (including PHP2Shell)"
+2026-10-23T14:49:18Z,analytics-platform/platform,v0.2.1,steviec87,"Firewall, error monitoring and server analytics for your PHP or Laravel site, run from your analytics dashboard."
+2026-10-23T14:51:49Z,skeeks/cms-proposal,1.0.0,Semenov Alexander,"Commercial proposals for SkeekS CMS CRM: versions, items with sections, templates, PDF and a personal link for every sending"
+2026-10-23T15:04:41Z,markup-carve/cakephp-carve,0.1.0,Markup Carve,"CakePHP plugin for Carve: rendering, views, validation, ORM behavior, commands and caching"
+2026-10-23T15:10:46Z,cmdimu/pwa-builder,v1.0.0,cmdimu,"Progressive Web App (PWA) Builder for Laravel, CodeIgniter 4, and CodeIgniter 3"

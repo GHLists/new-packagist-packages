@@ -15,26 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 14:19 UTC
+## Latest list — 2026-10-23 15:20 UTC
 
-New packages created between 2026-10-23 13:20 UTC and 2026-10-23 14:19 UTC.
+New packages created between 2026-10-23 14:19 UTC and 2026-10-23 15:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T14-19-20-260716Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T15-20-19-534701Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 13:25:24 | [switchback/laravel-impersonation](https://www.nuget.org/packages/switchback%2Flaravel-impersonation) | v1.0.0 |  | Session-based user impersonation with explicit authorization and customizable B… |
-| 2026-10-23 13:33:23 | [maarheeze/compass-client-laravel](https://www.nuget.org/packages/maarheeze%2Fcompass-client-laravel) | 1.1.0 |  | exposes the status of a laravel site to compass |
-| 2026-10-23 13:34:26 | [qdrant-labs/qdrant-laravel-scout](https://www.nuget.org/packages/qdrant-labs%2Fqdrant-laravel-scout) | v0.1.2 | Qdrant Team | A Qdrant driver for Laravel Scout with full-text, semantic, and hybrid search. |
-| 2026-10-23 13:37:57 | [efabrica/phoenix-scylla](https://www.nuget.org/packages/efabrica%2Fphoenix-scylla) | 1.0.0 |  | Cassandra / ScyllaDB adapter for Phoenix database migrations |
-| 2026-10-23 13:40:50 | [amjadiqbal/filament-audience-sync](https://www.nuget.org/packages/amjadiqbal%2Ffilament-audience-sync) | v1.0.0 | Amjad Iqbal | Email-marketing audience sync for Filament 4 and 5: subscribe, unsubscribe, tag… |
-| 2026-10-23 13:44:43 | [rohama/koin-sizpay](https://www.nuget.org/packages/rohama%2Fkoin-sizpay) | 2.2.1 | Rohama | Koin — SizPay gateway driver (REST Simple API) |
-| 2026-10-23 13:51:09 | [ez-php/event-store-snapshots](https://www.nuget.org/packages/ez-php%2Fevent-store-snapshots) | 2.5.10 | Andreas Uretschnig | Snapshot store for ez-php/event-store streams: PDO and in-memory stores, every-… |
-| 2026-10-23 13:51:09 | [ez-php/json-schema-validator](https://www.nuget.org/packages/ez-php%2Fjson-schema-validator) | 2.5.10 | Andreas Uretschnig | Validates decoded JSON against the JSON Schema subset ez-php/json-schema genera… |
-| 2026-10-23 13:51:18 | [ez-php/asyncapi](https://www.nuget.org/packages/ez-php%2Fasyncapi) | 2.5.10 | Andreas Uretschnig | AsyncAPI 3.0 document generation for broadcast channels, webhooks and WebSocket… |
-| 2026-10-23 13:51:23 | [ez-php/qrcode](https://www.nuget.org/packages/ez-php%2Fqrcode) | 2.5.10 | Andreas Uretschnig | Dependency-free QR code encoder (numeric/alphanumeric/byte, versions 1-40, ECC… |
-| 2026-10-23 13:56:26 | [silvershop-suite/decimal-quantity](https://www.nuget.org/packages/silvershop-suite%2Fdecimal-quantity) | 1.0.0 | Remy Vaartjes; SilverShop-Sui… | Per-product decimal / fractional order quantities for SilverShop (CMS 6) — sell… |
-| 2026-10-23 14:06:18 | [rohama/koin-zarinpal](https://www.nuget.org/packages/rohama%2Fkoin-zarinpal) | 2.2.1 | Rohama | Koin — Zarinpal gateway driver (classic REST v4, merchant code) |
+| 2026-10-23 14:20:51 | [payum-payu/payum-payu](https://www.nuget.org/packages/payum-payu%2Fpayum-payu) | v1.0.0 | Serhii Puzikov | PayU (REST API 2.1) gateway for Payum: hosted checkout, card-token recurring pa… |
+| 2026-10-23 14:22:07 | [tapp/filament-mcp](https://www.nuget.org/packages/tapp%2Ffilament-mcp) | v0.1.0 | Tapp Network | MCP for Laravel apps in Filament: a token page with one Sanctum ability per too… |
+| 2026-10-23 14:28:05 | [pteal79/otp-code](https://www.nuget.org/packages/pteal79%2Fotp-code) | 1.0.0 | Peter Teal | One-time code input EDGE element (<native:otp-code>) for NativePHP Mobile: one… |
+| 2026-10-23 14:32:19 | [rohama/koin-zibal](https://www.nuget.org/packages/rohama%2Fkoin-zibal) | 2.2.1 | Rohama | Koin — Zibal gateway driver (IPG REST v1) |
+| 2026-10-23 14:34:27 | [malikad/php2shell-guard](https://www.nuget.org/packages/malikad%2Fphp2shell-guard) | v0.3.0 | Malik Adnan | Read-only runtime, SAPI, stale-worker, configuration, and IaC auditor for PHP2S… |
+| 2026-10-23 14:39:45 | [jlrodriguezdev/laravel-bot-protection](https://www.nuget.org/packages/jlrodriguezdev%2Flaravel-bot-protection) | v1.0.1 | jlrodriguezdev | High-performance Laravel WAF & Anti-Bot Middleware mitigating automated scanner… |
+| 2026-10-23 14:49:18 | [analytics-platform/platform](https://www.nuget.org/packages/analytics-platform%2Fplatform) | v0.2.1 | steviec87 | Firewall, error monitoring and server analytics for your PHP or Laravel site, r… |
+| 2026-10-23 14:51:49 | [skeeks/cms-proposal](https://www.nuget.org/packages/skeeks%2Fcms-proposal) | 1.0.0 | Semenov Alexander | Commercial proposals for SkeekS CMS CRM: versions, items with sections, templat… |
+| 2026-10-23 15:04:41 | [markup-carve/cakephp-carve](https://www.nuget.org/packages/markup-carve%2Fcakephp-carve) | 0.1.0 | Markup Carve | CakePHP plugin for Carve: rendering, views, validation, ORM behavior, commands… |
+| 2026-10-23 15:10:46 | [cmdimu/pwa-builder](https://www.nuget.org/packages/cmdimu%2Fpwa-builder) | v1.0.0 | cmdimu | Progressive Web App (PWA) Builder for Laravel, CodeIgniter 4, and CodeIgniter 3 |
 
 ## Data source
 
