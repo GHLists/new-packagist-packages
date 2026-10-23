@@ -15,19 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 00:22 UTC
+## Latest list — 2026-10-23 02:22 UTC
 
-New packages created between 2026-10-22 23:22 UTC and 2026-10-23 00:22 UTC.
+New packages created between 2026-10-23 01:19 UTC and 2026-10-23 02:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T00-22-18-007712Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T02-22-20-212312Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-22 23:28:04 | [mpernia/pdf-ocr](https://www.nuget.org/packages/mpernia%2Fpdf-ocr) | v1.0.0 | Maikel Pernía | Extensible PDF reader with native text extraction and optional OCR adapters. |
-| 2026-10-22 23:44:27 | [shimmi2/ai-agent](https://www.nuget.org/packages/shimmi2%2Fai-agent) | v0.1.1 | Tomáš Šimek | Roundcube plugin for an AI agent over your mailbox: chat with the agent, its in… |
-| 2026-10-23 00:13:29 | [corpuscom/blost-bundle](https://www.nuget.org/packages/corpuscom%2Fblost-bundle) | v1.0.0 |  | Native Blost publishing integration for Symfony and Laravel |
-| 2026-10-23 00:13:29 | [corpuscom/blost-laravel](https://www.nuget.org/packages/corpuscom%2Fblost-laravel) | v1.0.0 |  | Ready-to-use Blost blog for Laravel |
-| 2026-10-23 00:13:29 | [corpuscom/blost-symfony](https://www.nuget.org/packages/corpuscom%2Fblost-symfony) | v1.0.0 |  | Ready-to-use Blost blog for Symfony |
+| 2026-10-23 02:00:00 | [norjamille-kasan/t-wheels](https://www.nuget.org/packages/norjamille-kasan%2Ft-wheels) | v1.0.0 | Jam | An ultra-strict, type-safe Laravel starter kit with Inertia and Vue. |
 
 ## Data source
 
