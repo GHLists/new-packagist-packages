@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-23T11:34:05Z,stewart-php/phpstan,v1.8.0,,PHPStan rules that check Home Assistant entity IDs and action names against a Stewart project's generated classes
+2026-10-23T11:37:37Z,julienbohy/cyberkh-starter-template,v1.1.0,,"Symfony 8.1 starter template: PHP 8.5, Doctrine/PostgreSQL, users with email verification, Symfony UX, Tailwind + shadcn, PHPStan max, Castor"
+2026-10-23T11:38:19Z,openglacier/glacierdb,v0.1.0,OpenGlacier contributors,PHP driver for glacierdb with core-managed .ogid identities
+2026-10-23T11:53:54Z,shahinmoyshan/pusher-php-server,v7.3.1,,Pusher Client fine-tuned for tinymvc/spark php framework
+2026-10-23T12:04:34Z,ez-php/sms,2.5.10,Andreas Uretschnig,"SMS delivery (Twilio, Vonage, Log, Null drivers) over ez-php/http-client"
+2026-10-23T12:13:44Z,haoa/mix-http-message,v3.0.32,"liu,jian","Http message library based on PSR-7 / PSR-17 standard, support Swoole, WorkerMan"
