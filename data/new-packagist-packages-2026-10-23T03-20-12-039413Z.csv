@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-23T02:41:39Z,edulazaro/wirefence,1.0.0,Edu Lazaro,"Fences Livewire apps against tampered requests: a property sent a value no form can produce, a locked property, an unknown property or method. Answers 400 instead of a 500 in the log, and blocks the address for a while."
+2026-10-23T02:58:22Z,morisawa_kana/laravel-mino,v1.0.0,morisawa_kana,A custom Laravel package with mino authentication guard.
+2026-10-23T03:10:04Z,risetechapps/fusion-report-client,1.0.0,Rise Tech,"Laravel client for the Fusion Report Server — fluent, typed API for report generation."

@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 02:22 UTC
+## Latest list — 2026-10-23 03:20 UTC
 
-New packages created between 2026-10-23 01:19 UTC and 2026-10-23 02:22 UTC.
+New packages created between 2026-10-23 02:22 UTC and 2026-10-23 03:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T02-22-20-212312Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T03-20-12-039413Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 02:00:00 | [norjamille-kasan/t-wheels](https://www.nuget.org/packages/norjamille-kasan%2Ft-wheels) | v1.0.0 | Jam | An ultra-strict, type-safe Laravel starter kit with Inertia and Vue. |
+| 2026-10-23 02:41:39 | [edulazaro/wirefence](https://www.nuget.org/packages/edulazaro%2Fwirefence) | 1.0.0 | Edu Lazaro | Fences Livewire apps against tampered requests: a property sent a value no form… |
+| 2026-10-23 02:58:22 | [morisawa_kana/laravel-mino](https://www.nuget.org/packages/morisawa_kana%2Flaravel-mino) | v1.0.0 | morisawa_kana | A custom Laravel package with mino authentication guard. |
+| 2026-10-23 03:10:04 | [risetechapps/fusion-report-client](https://www.nuget.org/packages/risetechapps%2Ffusion-report-client) | 1.0.0 | Rise Tech | Laravel client for the Fusion Report Server — fluent, typed API for report gene… |
 
 ## Data source
 
