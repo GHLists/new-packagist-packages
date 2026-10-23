@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-23T06:21:22Z,isaacjuwon/probe,v0.1.0,Isaac Juwon,Dev-only in-app REST client for Laravel
+2026-10-23T06:23:52Z,nowo-tech/manual-kit-bundle,v1.0.1,Héctor Franco Aceituno; Nowo.tech,"In-app product manual for Symfony from your docs/manual Markdown: one source for GitHub and the app, translations per locale with stable anchors and stale-translation checks, admin-only chapters and blocks that fail closed, figures with a lightbox, search tags and an optional SearchKit provider."
+2026-10-23T06:26:04Z,davingm/laravel-devtools,v1.0.0,,"Laravel 11, 12, and 13 development tools and generators."
+2026-10-23T06:43:28Z,rasuvaeff/pinned-http-client,v0.1.0,Victor Razuvaev,"PSR-18 client for untrusted URLs: resolves the host, checks every address and pins the connection to the checked addresses"
+2026-10-23T06:48:00Z,exportaccelerator/productfeed,v1.0.0,,Product feed module for Magento 2.4.6 and above
+2026-10-23T06:54:26Z,shopper/migrator,v1.0.0,Arthur Monney,Migrate your store from other e-commerce platforms to Shopper
+2026-10-23T06:54:47Z,paul-elpidorou/laravel-custom-log,v1.0.0,paul-elpidorou,This is my package laravel-custom-log
+2026-10-23T06:59:28Z,anun333/openhealthcare-common,v1.0.0,,"Code shared by the openhealthcare OpenEMR modules: one compatibility layer for OpenEMR 7.0 to 8.5, and a check that translated strings carry no apostrophes or quote marks."
+2026-10-23T07:10:17Z,rohama/koin-nextpay,2.2.0,Rohama,Koin — NextPay gateway driver (direct gateway)

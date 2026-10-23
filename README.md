@@ -15,19 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 06:19 UTC
+## Latest list — 2026-10-23 07:20 UTC
 
-New packages created between 2026-10-23 05:22 UTC and 2026-10-23 06:19 UTC.
+New packages created between 2026-10-23 06:19 UTC and 2026-10-23 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T06-19-59-83837Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T07-20-59-837025Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 05:25:08 | [projectsaturnstudios/rocketship](https://www.nuget.org/packages/projectsaturnstudios%2Frocketship) | v0.10.0 | Angel Gonzalez; Taylor Otwell | Drop-in replacement for Laravel Octane, with a native server on epoll/kqueue: n… |
-| 2026-10-23 05:41:12 | [djouamaah/laravel-algeria-invoice](https://www.nuget.org/packages/djouamaah%2Flaravel-algeria-invoice) | v1.0.0 | Djouamaa | Algerian invoices for Laravel: VAT, cash stamp duty (Finance Law 2025), mandato… |
-| 2026-10-23 05:43:24 | [junthink/dcat-admin](https://www.nuget.org/packages/junthink%2Fdcat-admin) | v3.0.0 | jqh; junthink | Maintained Dcat Admin fork for Laravel 13 |
-| 2026-10-23 06:08:23 | [rasuvaeff/json-ld](https://www.nuget.org/packages/rasuvaeff%2Fjson-ld) | v0.1.0 | Victor Razuvaev | JSON-LD 1.1 processor for PHP: expand, flatten, node API, RDF and N-Quads |
-| 2026-10-23 06:15:51 | [eloquage/filament-horizon](https://www.nuget.org/packages/eloquage%2Ffilament-horizon) | v1.0.0 | Miguel Enes | Filament dashboard pages and widgets for monitoring Laravel Horizon queues. |
+| 2026-10-23 06:21:22 | [isaacjuwon/probe](https://www.nuget.org/packages/isaacjuwon%2Fprobe) | v0.1.0 | Isaac Juwon | Dev-only in-app REST client for Laravel |
+| 2026-10-23 06:23:52 | [nowo-tech/manual-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fmanual-kit-bundle) | v1.0.1 | Héctor Franco Aceituno; Nowo.… | In-app product manual for Symfony from your docs/manual Markdown: one source fo… |
+| 2026-10-23 06:26:04 | [davingm/laravel-devtools](https://www.nuget.org/packages/davingm%2Flaravel-devtools) | v1.0.0 |  | Laravel 11, 12, and 13 development tools and generators. |
+| 2026-10-23 06:43:28 | [rasuvaeff/pinned-http-client](https://www.nuget.org/packages/rasuvaeff%2Fpinned-http-client) | v0.1.0 | Victor Razuvaev | PSR-18 client for untrusted URLs: resolves the host, checks every address and p… |
+| 2026-10-23 06:48:00 | [exportaccelerator/productfeed](https://www.nuget.org/packages/exportaccelerator%2Fproductfeed) | v1.0.0 |  | Product feed module for Magento 2.4.6 and above |
+| 2026-10-23 06:54:26 | [shopper/migrator](https://www.nuget.org/packages/shopper%2Fmigrator) | v1.0.0 | Arthur Monney | Migrate your store from other e-commerce platforms to Shopper |
+| 2026-10-23 06:54:47 | [paul-elpidorou/laravel-custom-log](https://www.nuget.org/packages/paul-elpidorou%2Flaravel-custom-log) | v1.0.0 | paul-elpidorou | This is my package laravel-custom-log |
+| 2026-10-23 06:59:28 | [anun333/openhealthcare-common](https://www.nuget.org/packages/anun333%2Fopenhealthcare-common) | v1.0.0 |  | Code shared by the openhealthcare OpenEMR modules: one compatibility layer for… |
+| 2026-10-23 07:10:17 | [rohama/koin-nextpay](https://www.nuget.org/packages/rohama%2Fkoin-nextpay) | 2.2.0 | Rohama | Koin — NextPay gateway driver (direct gateway) |
 
 ## Data source
 
