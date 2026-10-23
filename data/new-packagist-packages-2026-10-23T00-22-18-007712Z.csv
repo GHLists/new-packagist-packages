@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-22T23:28:04Z,mpernia/pdf-ocr,v1.0.0,Maikel Pernía,Extensible PDF reader with native text extraction and optional OCR adapters.
+2026-10-22T23:44:27Z,shimmi2/ai-agent,v0.1.1,Tomáš Šimek,"Roundcube plugin for an AI agent over your mailbox: chat with the agent, its instructions and a log of its work. Server-side agent behind a small REST API and an OpenAI-compatible chat endpoint."
+2026-10-23T00:13:29Z,corpuscom/blost-bundle,v1.0.0,,Native Blost publishing integration for Symfony and Laravel
+2026-10-23T00:13:29Z,corpuscom/blost-laravel,v1.0.0,,Ready-to-use Blost blog for Laravel
+2026-10-23T00:13:29Z,corpuscom/blost-symfony,v1.0.0,,Ready-to-use Blost blog for Symfony
