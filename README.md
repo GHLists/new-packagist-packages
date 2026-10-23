@@ -15,19 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 19:20 UTC
+## Latest list — 2026-10-23 20:19 UTC
 
-New packages created between 2026-10-23 18:21 UTC and 2026-10-23 19:20 UTC.
+New packages created between 2026-10-23 19:20 UTC and 2026-10-23 20:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T19-20-13-789727Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T20-19-13-467176Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 18:22:27 | [backgammon-network/engine](https://www.nuget.org/packages/backgammon-network%2Fengine) | v0.1.0 |  | A framework-free PHP backgammon engine: board, legal moves, dice and a match ta… |
-| 2026-10-23 18:23:07 | [amjadiqbal/laravel-pennant-experiments](https://www.nuget.org/packages/amjadiqbal%2Flaravel-pennant-experiments) | v0.1.0 | Amjad Iqbal | A/B and multivariate testing for Laravel Pennant: define experiments with weigh… |
-| 2026-10-23 18:24:34 | [42lizard/catppuccin](https://www.nuget.org/packages/42lizard%2Fcatppuccin) | v0.1.1 |  | The four Catppuccin flavours for the TYPO3 v14 backend |
-| 2026-10-23 18:52:00 | [tenma/postgres](https://www.nuget.org/packages/tenma%2Fpostgres) | v0.1.0 |  | A Postgres server of the app's own on Tenma: started next to the app through a… |
-| 2026-10-23 18:52:24 | [woocommerce/php-stubs](https://www.nuget.org/packages/woocommerce%2Fphp-stubs) | v2026.10.23.1 |  | PHP stub declarations of WooCommerce extensions, for static analysis of code th… |
+| 2026-10-23 19:22:25 | [postalportal/zip4](https://www.nuget.org/packages/postalportal%2Fzip4) | 0.0.1 |  | Match and standardize US addresses against a local USPS ZIP+4 SQLite database |
+| 2026-10-23 19:35:16 | [bepago/sdk](https://www.nuget.org/packages/bepago%2Fsdk) | v1.0.0 | bePago | SDK oficial de bePago para PHP (7.4+, sin dependencias) |
+| 2026-10-23 19:41:54 | [sunasty/color-math](https://www.nuget.org/packages/sunasty%2Fcolor-math) | v1.0.0 | Bastien Sulyan | Zero-dependency sRGB, OKLCH, and WCAG 2.1 contrast calculation in PHP |
 
 ## Data source
 
