@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 08:19 UTC
+## Latest list — 2026-10-23 09:19 UTC
 
-New packages created between 2026-10-23 07:20 UTC and 2026-10-23 08:19 UTC.
+New packages created between 2026-10-23 08:19 UTC and 2026-10-23 09:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T08-19-58-293783Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T09-19-50-861205Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 07:36:11 | [phasync/hooked](https://www.nuget.org/packages/phasync%2Fhooked) | v0.1.0 |  | Cooperative blocking PHP function replacements for phasync |
-| 2026-10-23 07:39:44 | [phasync/plug](https://www.nuget.org/packages/phasync%2Fplug) | v0.1.0 |  | Translate whole PHP applications with phasync/babel so their blocking calls go… |
-| 2026-10-23 07:49:59 | [symfony/ai-decision-platform](https://www.nuget.org/packages/symfony%2Fai-decision-platform) | v0.15.0 | Yoan Bernabeu; Symfony Commun… | Decision platform bridge for Symfony AI |
-| 2026-10-23 08:03:21 | [digicademy/typo3-sentry-logs-writer](https://www.nuget.org/packages/digicademy%2Ftypo3-sentry-logs-writer) | 1.0.0 | Frodo Podschwadek | TYPO3 log writer that sends log Sentry Logs API. |
+| 2026-10-23 08:23:52 | [infosoftas/info-subscription-php](https://www.nuget.org/packages/infosoftas%2Finfo-subscription-php) | 2026.10.2 |  | PHP SDK for INFO-Subscription API generated with Microsoft Kiota. |
+| 2026-10-23 08:31:23 | [webgriffe/phpunit-dist](https://www.nuget.org/packages/webgriffe%2Fphpunit-dist) | 13.4.3 |  | PHPUnit phar distribution for Webgriffe projects |
+| 2026-10-23 08:31:30 | [robertboes/laravel-interlock](https://www.nuget.org/packages/robertboes%2Flaravel-interlock) | v0.1.0 | Robert Boes | Keep the state of an Eloquent model consistent with a declared transition graph. |
+| 2026-10-23 08:44:00 | [meromiti/meromiti](https://www.nuget.org/packages/meromiti%2Fmeromiti) | v1.0.0 | Inline Tech Solution | Universal Bikram Sambat (B.S.) Nepali calendar engine and date converter for PH… |
+| 2026-10-23 09:11:53 | [rohama/koin-sadad](https://www.nuget.org/packages/rohama%2Fkoin-sadad) | 2.2.1 | Rohama | Koin — SADAD (Bank Melli) gateway driver (REST WebAPI v0) |
 
 ## Data source
 

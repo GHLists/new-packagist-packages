@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-23T08:23:52Z,infosoftas/info-subscription-php,2026.10.2,,PHP SDK for INFO-Subscription API generated with Microsoft Kiota.
+2026-10-23T08:31:23Z,webgriffe/phpunit-dist,13.4.3,,PHPUnit phar distribution for Webgriffe projects
+2026-10-23T08:31:30Z,robertboes/laravel-interlock,v0.1.0,Robert Boes,Keep the state of an Eloquent model consistent with a declared transition graph.
+2026-10-23T08:44:00Z,meromiti/meromiti,v1.0.0,Inline Tech Solution,Universal Bikram Sambat (B.S.) Nepali calendar engine and date converter for PHP & Laravel.
+2026-10-23T09:11:53Z,rohama/koin-sadad,2.2.1,Rohama,Koin — SADAD (Bank Melli) gateway driver (REST WebAPI v0)
