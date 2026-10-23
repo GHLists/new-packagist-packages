@@ -15,21 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 17:21 UTC
+## Latest list — 2026-10-23 18:21 UTC
 
-New packages created between 2026-10-23 16:22 UTC and 2026-10-23 17:21 UTC.
+New packages created between 2026-10-23 17:21 UTC and 2026-10-23 18:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T17-21-45-457883Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T18-21-19-231557Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 16:23:49 | [amjadiqbal/laravel-first-party-analytics](https://www.nuget.org/packages/amjadiqbal%2Flaravel-first-party-analytics) | v0.1.0 | Amjad Iqbal | Self-hosted, privacy-friendly web analytics for Laravel, stored in your own dat… |
-| 2026-10-23 16:37:05 | [rapttor/yii2-themes](https://www.nuget.org/packages/rapttor%2Fyii2-themes) | v1.0.0 |  | Per-user themes for Yii2: complete light, dark and soft (neumorphic) colour set… |
-| 2026-10-23 16:52:00 | [amjadiqbal/laravel-sql-dashboard](https://www.nuget.org/packages/amjadiqbal%2Flaravel-sql-dashboard) | v0.1.0 | Amjad Iqbal | Read-only SQL dashboard for Laravel (Blazer for Laravel): saved SQL queries wit… |
-| 2026-10-23 16:55:41 | [rapttor/legal](https://www.nuget.org/packages/rapttor%2Flegal) | v0.1.0 | Rapttor | Legal page templates (terms, privacy, cookies, acceptable use, imprint, refunds… |
-| 2026-10-23 16:55:41 | [rapttor/yii2-legal](https://www.nuget.org/packages/rapttor%2Fyii2-legal) | v0.1.0 | Rapttor | Yii2 extension that publishes legal pages from one company config: terms, priva… |
-| 2026-10-23 17:01:51 | [hellocloud/php-resque](https://www.nuget.org/packages/hellocloud%2Fphp-resque) | v3.5.0 | Daniel Mason | Redis backed library for creating background jobs and processing them later. Ba… |
-| 2026-10-23 17:05:20 | [rivalex/clearance](https://www.nuget.org/packages/rivalex%2Fclearance) | v1.3.2 | Alessandro Rivolta | A complete admin panel (Livewire 4 + Flux UI) for managing permissions, roles,… |
+| 2026-10-23 17:22:52 | [vijaycs85/drupal-contrib-skills](https://www.nuget.org/packages/vijaycs85%2Fdrupal-contrib-skills) | 1.0.1 | Vijay | Curated collection of AI agent skills for Drupal Core and Contrib development,… |
+| 2026-10-23 17:23:06 | [uams-web/statamic-form-settings](https://www.nuget.org/packages/uams-web%2Fstatamic-form-settings) | v0.1.0 | UAMS Web Services; Josh Daugh… | Control Panel form settings for Statamic: notification routing and conditions,… |
+| 2026-10-23 17:28:56 | [alibabacloud/csasedr-20241122](https://www.nuget.org/packages/alibabacloud%2Fcsasedr-20241122) | 1.0.0 | Alibaba Cloud SDK | Alibaba Cloud CsasEdr (20241122) SDK Library for PHP |
+| 2026-10-23 18:06:30 | [voltkit/rtc-server](https://www.nuget.org/packages/voltkit%2Frtc-server) | v0.1.0 |  | VoltKit RTC server SDK for PHP: rooms, tokens, chat, broadcast streams, usage,… |
+| 2026-10-23 18:07:00 | [ucf/ucf-plugin-directory](https://www.nuget.org/packages/ucf%2Fucf-plugin-directory) | v0.1.0 |  | Browse, install, and update UCF WordPress plugins from the UCF Composer reposit… |
 
 ## Data source
 
