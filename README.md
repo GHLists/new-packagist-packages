@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 21:21 UTC
+## Latest list — 2026-10-23 22:19 UTC
 
-New packages created between 2026-10-23 20:19 UTC and 2026-10-23 21:21 UTC.
+New packages created between 2026-10-23 21:21 UTC and 2026-10-23 22:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T21-21-27-853669Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T22-19-47-643235Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 20:33:25 | [prontuno/prontuno-laravel](https://www.nuget.org/packages/prontuno%2Fprontuno-laravel) | v0.1.0 | Prontuno Team | The official Laravel integration for Prontuno: API client, mail transport, and… |
-| 2026-10-23 20:36:41 | [jalaljaberi/negarity-color](https://www.nuget.org/packages/jalaljaberi%2Fnegarity-color) | v1.0.0-beta1 | Jalal Jaberi | Negarity Color — a modern, extensible color manipulation library for PHP. |
-| 2026-10-23 20:41:36 | [siberfx/laravel-risk-analyzer](https://www.nuget.org/packages/siberfx%2Flaravel-risk-analyzer) | v2.0.0 | Selim Görmüş | Security scanner for Laravel 12 & 13: AST taint analysis of your code, checks o… |
+| 2026-10-23 21:42:41 | [vanta/meminfo](https://www.nuget.org/packages/vanta%2Fmeminfo) | 0.1.0 | Benoit Jacquemont; Vlad Shash… | PHP extension that dumps the content of PHP memory as JSON, to hunt down memory… |
+| 2026-10-23 21:46:04 | [preflow/members](https://www.nuget.org/packages/preflow%2Fmembers) | v0.26.0 |  | Preflow members — member accounts for a Preflow + Folio site: the member type,… |
+| 2026-10-23 21:54:30 | [vanta/dump-meminfo](https://www.nuget.org/packages/vanta%2Fdump-meminfo) | 0.1 | Benoit Jacquemont; Vlad Shash… | dump-meminfo command: dump the memory of a running PHP process with the meminfo… |
 
 ## Data source
 

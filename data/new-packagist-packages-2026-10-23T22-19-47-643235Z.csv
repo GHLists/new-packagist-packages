@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-23T21:42:41Z,vanta/meminfo,0.1.0,Benoit Jacquemont; Vlad Shashkov; Vanta Team,"PHP extension that dumps the content of PHP memory as JSON, to hunt down memory leaks"
+2026-10-23T21:46:04Z,preflow/members,v0.26.0,,"Preflow members — member accounts for a Preflow + Folio site: the member type, the owner's decision, pluggable admission"
+2026-10-23T21:54:30Z,vanta/dump-meminfo,0.1,Benoit Jacquemont; Vlad Shashkov; Vanta Team,dump-meminfo command: dump the memory of a running PHP process with the meminfo extension
