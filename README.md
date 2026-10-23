@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 18:21 UTC
+## Latest list — 2026-10-23 19:20 UTC
 
-New packages created between 2026-10-23 17:21 UTC and 2026-10-23 18:21 UTC.
+New packages created between 2026-10-23 18:21 UTC and 2026-10-23 19:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T18-21-19-231557Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T19-20-13-789727Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 17:22:52 | [vijaycs85/drupal-contrib-skills](https://www.nuget.org/packages/vijaycs85%2Fdrupal-contrib-skills) | 1.0.1 | Vijay | Curated collection of AI agent skills for Drupal Core and Contrib development,… |
-| 2026-10-23 17:23:06 | [uams-web/statamic-form-settings](https://www.nuget.org/packages/uams-web%2Fstatamic-form-settings) | v0.1.0 | UAMS Web Services; Josh Daugh… | Control Panel form settings for Statamic: notification routing and conditions,… |
-| 2026-10-23 17:28:56 | [alibabacloud/csasedr-20241122](https://www.nuget.org/packages/alibabacloud%2Fcsasedr-20241122) | 1.0.0 | Alibaba Cloud SDK | Alibaba Cloud CsasEdr (20241122) SDK Library for PHP |
-| 2026-10-23 18:06:30 | [voltkit/rtc-server](https://www.nuget.org/packages/voltkit%2Frtc-server) | v0.1.0 |  | VoltKit RTC server SDK for PHP: rooms, tokens, chat, broadcast streams, usage,… |
-| 2026-10-23 18:07:00 | [ucf/ucf-plugin-directory](https://www.nuget.org/packages/ucf%2Fucf-plugin-directory) | v0.1.0 |  | Browse, install, and update UCF WordPress plugins from the UCF Composer reposit… |
+| 2026-10-23 18:22:27 | [backgammon-network/engine](https://www.nuget.org/packages/backgammon-network%2Fengine) | v0.1.0 |  | A framework-free PHP backgammon engine: board, legal moves, dice and a match ta… |
+| 2026-10-23 18:23:07 | [amjadiqbal/laravel-pennant-experiments](https://www.nuget.org/packages/amjadiqbal%2Flaravel-pennant-experiments) | v0.1.0 | Amjad Iqbal | A/B and multivariate testing for Laravel Pennant: define experiments with weigh… |
+| 2026-10-23 18:24:34 | [42lizard/catppuccin](https://www.nuget.org/packages/42lizard%2Fcatppuccin) | v0.1.1 |  | The four Catppuccin flavours for the TYPO3 v14 backend |
+| 2026-10-23 18:52:00 | [tenma/postgres](https://www.nuget.org/packages/tenma%2Fpostgres) | v0.1.0 |  | A Postgres server of the app's own on Tenma: started next to the app through a… |
+| 2026-10-23 18:52:24 | [woocommerce/php-stubs](https://www.nuget.org/packages/woocommerce%2Fphp-stubs) | v2026.10.23.1 |  | PHP stub declarations of WooCommerce extensions, for static analysis of code th… |
 
 ## Data source
 

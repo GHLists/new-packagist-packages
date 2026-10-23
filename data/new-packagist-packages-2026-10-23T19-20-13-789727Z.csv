@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-23T18:22:27Z,backgammon-network/engine,v0.1.0,,"A framework-free PHP backgammon engine: board, legal moves, dice and a match table state machine. Build and test backgammon bots."
+2026-10-23T18:23:07Z,amjadiqbal/laravel-pennant-experiments,v0.1.0,Amjad Iqbal,"A/B and multivariate testing for Laravel Pennant: define experiments with weighted variants as Pennant features, sticky assignment for users, teams or guests, exposure and conversion tracking from PHP and JavaScript, two-proportion z-test and Bayesian probability to beat control with sample-size wa…"
+2026-10-23T18:24:34Z,42lizard/catppuccin,v0.1.1,,The four Catppuccin flavours for the TYPO3 v14 backend
+2026-10-23T18:52:00Z,tenma/postgres,v0.1.0,,"A Postgres server of the app's own on Tenma: started next to the app through a native plugin, stopped with it."
+2026-10-23T18:52:24Z,woocommerce/php-stubs,v2026.10.23.1,,"PHP stub declarations of WooCommerce extensions, for static analysis of code that integrates with them."
