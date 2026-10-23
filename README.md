@@ -15,21 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 16:22 UTC
+## Latest list — 2026-10-23 17:21 UTC
 
-New packages created between 2026-10-23 15:20 UTC and 2026-10-23 16:22 UTC.
+New packages created between 2026-10-23 16:22 UTC and 2026-10-23 17:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T16-22-49-680483Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T17-21-45-457883Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 15:25:31 | [nguyenduytan/php-totp](https://www.nuget.org/packages/nguyenduytan%2Fphp-totp) | v2.1.0 | Tony Nguyễn | Lightweight single-file TOTP library (RFC 6238) compatible with Google Authenti… |
-| 2026-10-23 15:37:37 | [astral-php/astral-paypal](https://www.nuget.org/packages/astral-php%2Fastral-paypal) | 0.1.0 | astral-php | Paiement PayPal pour Astral — Orders API v2, capture, webhooks, remboursements |
-| 2026-10-23 15:40:23 | [hymns/disposable-email](https://www.nuget.org/packages/hymns%2Fdisposable-email) | v0.1.0 | Muhammad Hamizi Jaminan | Refuse sign-ups from disposable (throwaway) email providers. Offline check, no… |
-| 2026-10-23 15:48:50 | [givanov95/laravel-activity-log](https://www.nuget.org/packages/givanov95%2Flaravel-activity-log) | v1.0.0 | Georgi Ivanov | Who did what in a Laravel app: an append-only activity log with explicit actors… |
-| 2026-10-23 16:03:56 | [teamones/dingtalk](https://www.nuget.org/packages/teamones%2Fdingtalk) | 3.0.0 | 张铭阳 | Teamones maintained EasyDingTalk 2.3.1 compatibility fork for PHP 8.5 |
-| 2026-10-23 16:12:48 | [drivkraft/interlock](https://www.nuget.org/packages/drivkraft%2Finterlock) | v1.0.0 | Kim Eric Helle | Lightweight architecture manager for structuring Laravel apps with modules. |
-| 2026-10-23 16:17:22 | [b3it/ais-client](https://www.nuget.org/packages/b3it%2Fais-client) | 1.0.0 |  | A lightweight PHP client that receives raw **AIS** (Automatic Identification Sy… |
+| 2026-10-23 16:23:49 | [amjadiqbal/laravel-first-party-analytics](https://www.nuget.org/packages/amjadiqbal%2Flaravel-first-party-analytics) | v0.1.0 | Amjad Iqbal | Self-hosted, privacy-friendly web analytics for Laravel, stored in your own dat… |
+| 2026-10-23 16:37:05 | [rapttor/yii2-themes](https://www.nuget.org/packages/rapttor%2Fyii2-themes) | v1.0.0 |  | Per-user themes for Yii2: complete light, dark and soft (neumorphic) colour set… |
+| 2026-10-23 16:52:00 | [amjadiqbal/laravel-sql-dashboard](https://www.nuget.org/packages/amjadiqbal%2Flaravel-sql-dashboard) | v0.1.0 | Amjad Iqbal | Read-only SQL dashboard for Laravel (Blazer for Laravel): saved SQL queries wit… |
+| 2026-10-23 16:55:41 | [rapttor/legal](https://www.nuget.org/packages/rapttor%2Flegal) | v0.1.0 | Rapttor | Legal page templates (terms, privacy, cookies, acceptable use, imprint, refunds… |
+| 2026-10-23 16:55:41 | [rapttor/yii2-legal](https://www.nuget.org/packages/rapttor%2Fyii2-legal) | v0.1.0 | Rapttor | Yii2 extension that publishes legal pages from one company config: terms, priva… |
+| 2026-10-23 17:01:51 | [hellocloud/php-resque](https://www.nuget.org/packages/hellocloud%2Fphp-resque) | v3.5.0 | Daniel Mason | Redis backed library for creating background jobs and processing them later. Ba… |
+| 2026-10-23 17:05:20 | [rivalex/clearance](https://www.nuget.org/packages/rivalex%2Fclearance) | v1.3.2 | Alessandro Rivolta | A complete admin panel (Livewire 4 + Flux UI) for managing permissions, roles,… |
 
 ## Data source
 
