@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 04:21 UTC
+## Latest list — 2026-10-23 05:22 UTC
 
-New packages created between 2026-10-23 03:20 UTC and 2026-10-23 04:21 UTC.
+New packages created between 2026-10-23 04:21 UTC and 2026-10-23 05:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T04-21-42-448072Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T05-22-11-178486Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 03:41:34 | [morisawa_kana/laravel-repository](https://www.nuget.org/packages/morisawa_kana%2Flaravel-repository) | v1.0.0 | morisawa_kana | Laravel - Repositories to the database layer |
-| 2026-10-23 03:47:51 | [fast-cmf/vue-admin-starter](https://www.nuget.org/packages/fast-cmf%2Fvue-admin-starter) | v1.0.0 |  | Laravel 13 + Vue 3 后台管理启动模板：RBAC 权限、菜单管理、媒体中心、操作日志开箱即用。 |
-| 2026-10-23 03:57:54 | [larva/laravel-ai-volc](https://www.nuget.org/packages/larva%2Flaravel-ai-volc) | 1.0.0 | Larva Team | Volcengine Ark (火山方舟) provider for Laravel AI: text, embeddings, TTS, Seedream… |
+| 2026-10-23 04:33:41 | [shibbirweb/peep](https://www.nuget.org/packages/shibbirweb%2Fpeep) | v0.1.0-beta.1 | MD. Shibbir Ahmed | Debug any PHP app in a separate window: values, queries, jobs, logs, exceptions… |
 
 ## Data source
 

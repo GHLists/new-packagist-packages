@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-23T04:33:41Z,shibbirweb/peep,v0.1.0-beta.1,MD. Shibbir Ahmed,"Debug any PHP app in a separate window: values, queries, jobs, logs, exceptions, mail and SMS."
