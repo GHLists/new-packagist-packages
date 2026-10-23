@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-23T12:27:01Z,prolificjones/elite-league-client,1.0.0-rc.1,Lee Jones,Elite League API SDK in PHP
+2026-10-23T12:31:30Z,efabrica/phoenix-core,4.0.0,,Database Migrations for PHP
+2026-10-23T12:46:38Z,cmdimu/db-sync-package,v1.1.0,cmdimu,"Database Sync Package for Laravel, CodeIgniter 4, and CodeIgniter 3"
+2026-10-23T12:49:17Z,rohama/koin-sep,2.2.1,Rohama,Koin — SEP (Saman) gateway driver (REST OnlinePG API)
+2026-10-23T12:49:51Z,djouamaah/laravel-algeria-sms,v1.0.0,Djouamaa,"SMS for Laravel through Algerian providers: OTP codes, transactional and marketing messages, Algerian phone numbers (Mobilis, Djezzy, Ooredoo), notification channel, opt-outs and quiet hours."
+2026-10-23T13:06:56Z,prolificjones/champions-hockey-league-client,1.0.0-rc.2,Lee Jones,Champions Hockey League API SDK in PHP
