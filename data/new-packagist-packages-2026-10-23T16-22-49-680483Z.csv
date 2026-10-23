@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-23T15:25:31Z,nguyenduytan/php-totp,v2.1.0,Tony Nguyễn,Lightweight single-file TOTP library (RFC 6238) compatible with Google Authenticator. Zero dependencies.
+2026-10-23T15:37:37Z,astral-php/astral-paypal,0.1.0,astral-php,"Paiement PayPal pour Astral — Orders API v2, capture, webhooks, remboursements"
+2026-10-23T15:40:23Z,hymns/disposable-email,v0.1.0,Muhammad Hamizi Jaminan,"Refuse sign-ups from disposable (throwaway) email providers. Offline check, no dependencies."
+2026-10-23T15:48:50Z,givanov95/laravel-activity-log,v1.0.0,Georgi Ivanov,"Who did what in a Laravel app: an append-only activity log with explicit actors (user and role, customer, guest, system), a scope (tenant or case), related models, old/new values with masking and GDPR scrubbing."
+2026-10-23T16:03:56Z,teamones/dingtalk,3.0.0,张铭阳,Teamones maintained EasyDingTalk 2.3.1 compatibility fork for PHP 8.5
+2026-10-23T16:12:48Z,drivkraft/interlock,v1.0.0,Kim Eric Helle,Lightweight architecture manager for structuring Laravel apps with modules.
+2026-10-23T16:17:22Z,b3it/ais-client,1.0.0,,A lightweight PHP client that receives raw **AIS** (Automatic Identification System) data from TCP sources
