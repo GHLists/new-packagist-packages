@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-10-23T13:25:24Z,switchback/laravel-impersonation,v1.0.0,,Session-based user impersonation with explicit authorization and customizable Blade and Vue banners.
+2026-10-23T13:33:23Z,maarheeze/compass-client-laravel,1.1.0,,exposes the status of a laravel site to compass
+2026-10-23T13:34:26Z,qdrant-labs/qdrant-laravel-scout,v0.1.2,Qdrant Team,"A Qdrant driver for Laravel Scout with full-text, semantic, and hybrid search."
+2026-10-23T13:37:57Z,efabrica/phoenix-scylla,1.0.0,,Cassandra / ScyllaDB adapter for Phoenix database migrations
+2026-10-23T13:40:50Z,amjadiqbal/filament-audience-sync,v1.0.0,Amjad Iqbal,"Email-marketing audience sync for Filament 4 and 5: subscribe, unsubscribe, tag and update your records in a Mailchimp audience or Brevo list, with queued bulk sync, a status column and list stats. Driver-based."
+2026-10-23T13:44:43Z,rohama/koin-sizpay,2.2.1,Rohama,Koin — SizPay gateway driver (REST Simple API)
+2026-10-23T13:51:09Z,ez-php/event-store-snapshots,2.5.10,Andreas Uretschnig,"Snapshot store for ez-php/event-store streams: PDO and in-memory stores, every-N-events policy, snapshot-aware loader"
+2026-10-23T13:51:09Z,ez-php/json-schema-validator,2.5.10,Andreas Uretschnig,"Validates decoded JSON against the JSON Schema subset ez-php/json-schema generates, with JSON Pointer error paths"
+2026-10-23T13:51:18Z,ez-php/asyncapi,2.5.10,Andreas Uretschnig,"AsyncAPI 3.0 document generation for broadcast channels, webhooks and WebSocket messages, attribute-driven"
+2026-10-23T13:51:23Z,ez-php/qrcode,2.5.10,Andreas Uretschnig,"Dependency-free QR code encoder (numeric/alphanumeric/byte, versions 1-40, ECC L/M/Q/H) with SVG and PNG (ext-gd) renderers"
+2026-10-23T13:56:26Z,silvershop-suite/decimal-quantity,1.0.0,Remy Vaartjes; SilverShop-Suite Contributors,"Per-product decimal / fractional order quantities for SilverShop (CMS 6) — sell some products by weight/length/area (kg, m², m) while others stay whole-unit, in one catalogue. Opt-in per product (QuantityIsDecimal + unit label + step/precision/min/max); carries the decimal beside core's integer qua…"
+2026-10-23T14:06:18Z,rohama/koin-zarinpal,2.2.1,Rohama,"Koin — Zarinpal gateway driver (classic REST v4, merchant code)"
