@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-23T09:21:48Z,hiddencms/gamification,0.0.2,,"Teams, matches, awards and tournaments for HiddenCMS"
+2026-10-23T09:32:32Z,coolms/imap,v0.1.0-alpha.1,Dmitry Popov,"An IMAP client for PHP that keeps mail in sync: CONDSTORE, QRESYNC, IDLE, SPECIAL-USE folders and MOVE, with TLS verified and nothing ever deleted. Zero dependencies."
+2026-10-23T09:52:50Z,plagiarismcheckerx/plagx-preflight,v0.1.2,Plagiarism Checker X,"Free draft checker for PHP: word count, citation and reference list checks, punctuation and basic grammar suggestions, readability stats. Runs offline. By Plagiarism Checker X."
+2026-10-23T10:08:30Z,phoenix1331/laravel-jev-moderation,v0.1.0,Darren Williams,"Confidence-aware content moderation for Laravel: classify any Eloquent model with Jev and route each item to passed, flagged for human review, or blocked, using per-category thresholds."

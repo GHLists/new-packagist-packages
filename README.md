@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 09:19 UTC
+## Latest list — 2026-10-23 10:19 UTC
 
-New packages created between 2026-10-23 08:19 UTC and 2026-10-23 09:19 UTC.
+New packages created between 2026-10-23 09:19 UTC and 2026-10-23 10:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T09-19-50-861205Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T10-19-30-221047Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 08:23:52 | [infosoftas/info-subscription-php](https://www.nuget.org/packages/infosoftas%2Finfo-subscription-php) | 2026.10.2 |  | PHP SDK for INFO-Subscription API generated with Microsoft Kiota. |
-| 2026-10-23 08:31:23 | [webgriffe/phpunit-dist](https://www.nuget.org/packages/webgriffe%2Fphpunit-dist) | 13.4.3 |  | PHPUnit phar distribution for Webgriffe projects |
-| 2026-10-23 08:31:30 | [robertboes/laravel-interlock](https://www.nuget.org/packages/robertboes%2Flaravel-interlock) | v0.1.0 | Robert Boes | Keep the state of an Eloquent model consistent with a declared transition graph. |
-| 2026-10-23 08:44:00 | [meromiti/meromiti](https://www.nuget.org/packages/meromiti%2Fmeromiti) | v1.0.0 | Inline Tech Solution | Universal Bikram Sambat (B.S.) Nepali calendar engine and date converter for PH… |
-| 2026-10-23 09:11:53 | [rohama/koin-sadad](https://www.nuget.org/packages/rohama%2Fkoin-sadad) | 2.2.1 | Rohama | Koin — SADAD (Bank Melli) gateway driver (REST WebAPI v0) |
+| 2026-10-23 09:21:48 | [hiddencms/gamification](https://www.nuget.org/packages/hiddencms%2Fgamification) | 0.0.2 |  | Teams, matches, awards and tournaments for HiddenCMS |
+| 2026-10-23 09:32:32 | [coolms/imap](https://www.nuget.org/packages/coolms%2Fimap) | v0.1.0-alpha.1 | Dmitry Popov | An IMAP client for PHP that keeps mail in sync: CONDSTORE, QRESYNC, IDLE, SPECI… |
+| 2026-10-23 09:52:50 | [plagiarismcheckerx/plagx-preflight](https://www.nuget.org/packages/plagiarismcheckerx%2Fplagx-preflight) | v0.1.2 | Plagiarism Checker X | Free draft checker for PHP: word count, citation and reference list checks, pun… |
+| 2026-10-23 10:08:30 | [phoenix1331/laravel-jev-moderation](https://www.nuget.org/packages/phoenix1331%2Flaravel-jev-moderation) | v0.1.0 | Darren Williams | Confidence-aware content moderation for Laravel: classify any Eloquent model wi… |
 
 ## Data source
 
