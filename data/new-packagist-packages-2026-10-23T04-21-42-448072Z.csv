@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-23T03:41:34Z,morisawa_kana/laravel-repository,v1.0.0,morisawa_kana,Laravel - Repositories to the database layer
+2026-10-23T03:47:51Z,fast-cmf/vue-admin-starter,v1.0.0,,Laravel 13 + Vue 3 后台管理启动模板：RBAC 权限、菜单管理、媒体中心、操作日志开箱即用。
+2026-10-23T03:57:54Z,larva/laravel-ai-volc,1.0.0,Larva Team,"Volcengine Ark (火山方舟) provider for Laravel AI: text, embeddings, TTS, Seedream images and Seedance video."

@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 03:20 UTC
+## Latest list — 2026-10-23 04:21 UTC
 
-New packages created between 2026-10-23 02:22 UTC and 2026-10-23 03:20 UTC.
+New packages created between 2026-10-23 03:20 UTC and 2026-10-23 04:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-23T03-20-12-039413Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-23T04-21-42-448072Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 02:41:39 | [edulazaro/wirefence](https://www.nuget.org/packages/edulazaro%2Fwirefence) | 1.0.0 | Edu Lazaro | Fences Livewire apps against tampered requests: a property sent a value no form… |
-| 2026-10-23 02:58:22 | [morisawa_kana/laravel-mino](https://www.nuget.org/packages/morisawa_kana%2Flaravel-mino) | v1.0.0 | morisawa_kana | A custom Laravel package with mino authentication guard. |
-| 2026-10-23 03:10:04 | [risetechapps/fusion-report-client](https://www.nuget.org/packages/risetechapps%2Ffusion-report-client) | 1.0.0 | Rise Tech | Laravel client for the Fusion Report Server — fluent, typed API for report gene… |
+| 2026-10-23 03:41:34 | [morisawa_kana/laravel-repository](https://www.nuget.org/packages/morisawa_kana%2Flaravel-repository) | v1.0.0 | morisawa_kana | Laravel - Repositories to the database layer |
+| 2026-10-23 03:47:51 | [fast-cmf/vue-admin-starter](https://www.nuget.org/packages/fast-cmf%2Fvue-admin-starter) | v1.0.0 |  | Laravel 13 + Vue 3 后台管理启动模板：RBAC 权限、菜单管理、媒体中心、操作日志开箱即用。 |
+| 2026-10-23 03:57:54 | [larva/laravel-ai-volc](https://www.nuget.org/packages/larva%2Flaravel-ai-volc) | 1.0.0 | Larva Team | Volcengine Ark (火山方舟) provider for Laravel AI: text, embeddings, TTS, Seedream… |
 
 ## Data source
 
