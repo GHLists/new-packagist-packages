@@ -15,30 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 17:27 UTC
+## Latest list — 2026-10-24 18:21 UTC
 
-New packages created between 2026-10-24 16:22 UTC and 2026-10-24 17:27 UTC.
+New packages created between 2026-10-24 17:27 UTC and 2026-10-24 18:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T17-27-35-205314Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T18-21-32-530771Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 16:23:52 | [io/charts](https://www.nuget.org/packages/io%2Fcharts) | v0.1.0 |  | Server-rendered SVG charts for Io: bar and line charts with a data table, legen… |
-| 2026-10-24 16:23:52 | [io/discord](https://www.nuget.org/packages/io%2Fdiscord) | v0.1.0 |  | Discord bots in Io apps: slash commands, buttons, modals and events as attribut… |
-| 2026-10-24 16:23:52 | [io/export](https://www.nuget.org/packages/io%2Fexport) | v0.1.0 |  | Table downloads for Io: return a Sheet from a route and get CSV, JSON Lines, HT… |
-| 2026-10-24 16:23:52 | [io/export-fixed](https://www.nuget.org/packages/io%2Fexport-fixed) | v0.1.0 |  | Fixed-width record files for io-export: #[Fixed] column layouts, Windows-1252 o… |
-| 2026-10-24 16:23:52 | [io/flash](https://www.nuget.org/packages/io%2Fflash) | v0.1.0 |  | Flash messages for Io: queue a message, redirect, show it once on the next page… |
-| 2026-10-24 16:23:52 | [io/framework](https://www.nuget.org/packages/io%2Fframework) | v0.1.0 | Lento Leisenfeld | A lightweight PHP framework for building APIs and server-rendered UIs, with att… |
-| 2026-10-24 16:23:52 | [io/i18n](https://www.nuget.org/packages/io%2Fi18n) | v0.1.0 |  | Translations and per-request locale for Io: catalogs, {placeholder} and plural… |
-| 2026-10-24 16:23:52 | [io/live](https://www.nuget.org/packages/io%2Flive) | v0.1.0 |  | Live components for Io under Tenma: server-side PHP components, events and rend… |
-| 2026-10-24 16:33:33 | [kdpika/license-sdk](https://www.nuget.org/packages/kdpika%2Flicense-sdk) | v1.0.1 |  | Official KDPika Licensing SDK for PHP |
-| 2026-10-24 16:33:47 | [mercadons/zf1](https://www.nuget.org/packages/mercadons%2Fzf1) | 2.0.0-RC1 |  | Maintained fork of Zend Framework 1 for modern PHP (7.4 – 8.4). |
-| 2026-10-24 16:37:47 | [specrig/laravel](https://www.nuget.org/packages/specrig%2Flaravel) | v0.1.0 |  | specrig for a Laravel service: the application booted per case, its HTTP client… |
-| 2026-10-24 16:43:44 | [specrig/symfony](https://www.nuget.org/packages/specrig%2Fsymfony) | v0.1.0 |  | specrig for a Symfony service: the kernel booted per case, its HTTP client, tra… |
-| 2026-10-24 16:44:55 | [habeuk/habeuk_base_symfony](https://www.nuget.org/packages/habeuk%2Fhabeuk_base_symfony) | 1.0.0 | kouwa stephane | contient les classes de bases permettant d'avoir une base commune pour les proj… |
-| 2026-10-24 16:45:17 | [drupal/varbase_ai_vdb_mariadb](https://www.nuget.org/packages/drupal%2Fvarbase_ai_vdb_mariadb) | 1.0.0-alpha1 | Vardot | Uses MariaDB 11.7 or later as the vector database for Varbase AI Search, in the… |
-| 2026-10-24 17:03:46 | [specrig/specrig](https://www.nuget.org/packages/specrig%2Fspecrig) | v0.1.0 |  | The core of specrig for PHP: the harness, the stand-ins, the contract check, th… |
-| 2026-10-24 17:07:32 | [phoenix1331/filament-jev-moderation](https://www.nuget.org/packages/phoenix1331%2Ffilament-jev-moderation) | v0.1.0 | Darren Williams | A Filament review queue for Jev Moderation: approve, reject and reclassify flag… |
+| 2026-10-24 17:35:33 | [noldors/phpstan-extension](https://www.nuget.org/packages/noldors%2Fphpstan-extension) | v0.2.0 |  | Custom PHPStan rules for PHP and Laravel projects. |
+| 2026-10-24 17:37:55 | [bad_cluster/runway-console-app](https://www.nuget.org/packages/bad_cluster%2Frunway-console-app) | 1.0.0 | BaD ClusteR | Console applications for Runway: commands, input parsing, formatted output, tab… |
+| 2026-10-24 17:55:31 | [drupal/varbase_ai_vdb_milvus](https://www.nuget.org/packages/drupal%2Fvarbase_ai_vdb_milvus) | 1.0.0-alpha1 | Vardot | Connects a Varbase site to a Milvus or Zilliz Cloud vector database for AI Sear… |
+| 2026-10-24 17:55:40 | [trianity/laravel-mautic](https://www.nuget.org/packages/trianity%2Flaravel-mautic) | v1.0.0 | Istvan Holbok | Explicit, model-independent Laravel integration for the Mautic REST API. |
+| 2026-10-24 17:56:18 | [drupal/varbase_ai_chatbot_base](https://www.nuget.org/packages/drupal%2Fvarbase_ai_chatbot_base) | 1.0.0-alpha1 | Vardot | A visitor chatbot for Varbase 11 that answers only from the site's own content,… |
+| 2026-10-24 17:56:47 | [drupal/varbase_ai_answers_base](https://www.nuget.org/packages/drupal%2Fvarbase_ai_answers_base) | 1.0.0-alpha1 | Vardot | Ask AI for Varbase: a public question box that answers from the site's own cont… |
+| 2026-10-24 17:57:25 | [drupal/varbase_ai_content_review_base](https://www.nuget.org/packages/drupal%2Fvarbase_ai_content_review_base) | 1.0.0-alpha1 | Vardot | AI content review for Varbase 11: four review agents and one rule for every con… |
+| 2026-10-24 17:58:07 | [drupal/varbase_ai_content_operations_base](https://www.nuget.org/packages/drupal%2Fvarbase_ai_content_operations_base) | 1.0.0-alpha1 | Vardot | A content operations assistant for the editors of a Varbase 11 site: audits bro… |
+| 2026-10-24 17:59:36 | [drupal/varbase_ai_mcp_server_base](https://www.nuget.org/packages/drupal%2Fvarbase_ai_mcp_server_base) | 1.0.0-alpha1 | Vardot | Varbase AI MCP Server: an MCP server for external assistants (Claude.ai and sim… |
+| 2026-10-24 18:08:14 | [thekaziomar/laravel-atomic-cache](https://www.nuget.org/packages/thekaziomar%2Flaravel-atomic-cache) | v1.0.1 | Kazi Omar Faruk | A simple, stampede-proof, and tag-aware caching package for Laravel. |
 
 ## Data source
 
