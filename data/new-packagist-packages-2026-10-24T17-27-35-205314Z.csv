@@ -1,0 +1,17 @@
+created_at,package,version,author,description
+2026-10-24T16:23:52Z,io/charts,v0.1.0,,"Server-rendered SVG charts for Io: bar and line charts with a data table, legend and accessible markup, tooltips as a progressive enhancement."
+2026-10-24T16:23:52Z,io/discord,v0.1.0,,"Discord bots in Io apps: slash commands, buttons, modals and events as attributes on your own classes, running on Tenma with tenma/discord."
+2026-10-24T16:23:52Z,io/export,v0.1.0,,"Table downloads for Io: return a Sheet from a route and get CSV, JSON Lines, HTML, XML, XLSX or ODS, streamed row by row."
+2026-10-24T16:23:52Z,io/export-fixed,v0.1.0,,"Fixed-width record files for io-export: #[Fixed] column layouts, Windows-1252 or EBCDIC, for legacy-system interfaces."
+2026-10-24T16:23:52Z,io/flash,v0.1.0,,"Flash messages for Io: queue a message, redirect, show it once on the next page -- with or without JavaScript."
+2026-10-24T16:23:52Z,io/framework,v0.1.0,Lento Leisenfeld,"A lightweight PHP framework for building APIs and server-rendered UIs, with attribute-based routing."
+2026-10-24T16:23:52Z,io/i18n,v0.1.0,,"Translations and per-request locale for Io: catalogs, {placeholder} and plural messages, $this->t() in views, translated validation errors."
+2026-10-24T16:23:52Z,io/live,v0.1.0,,"Live components for Io under Tenma: server-side PHP components, events and renders over one WebSocket, services called directly."
+2026-10-24T16:33:33Z,kdpika/license-sdk,v1.0.1,,Official KDPika Licensing SDK for PHP
+2026-10-24T16:33:47Z,mercadons/zf1,2.0.0-RC1,,Maintained fork of Zend Framework 1 for modern PHP (7.4 – 8.4).
+2026-10-24T16:37:47Z,specrig/laravel,v0.1.0,,"specrig for a Laravel service: the application booted per case, its HTTP client, queues and console stood in for"
+2026-10-24T16:43:44Z,specrig/symfony,v0.1.0,,"specrig for a Symfony service: the kernel booted per case, its HTTP client, transports and console stood in for"
+2026-10-24T16:44:55Z,habeuk/habeuk_base_symfony,1.0.0,kouwa stephane,contient les classes de bases permettant d'avoir une base commune pour les projets symfony.
+2026-10-24T16:45:17Z,drupal/varbase_ai_vdb_mariadb,1.0.0-alpha1,Vardot,"Uses MariaDB 11.7 or later as the vector database for Varbase AI Search, in the site's own database or on a separate MariaDB server, with no extra service. No custom PHP or shell code."
+2026-10-24T17:03:46Z,specrig/specrig,v0.1.0,,"The core of specrig for PHP: the harness, the stand-ins, the contract check, the records, the Behat binding and the specrig command"
+2026-10-24T17:07:32Z,phoenix1331/filament-jev-moderation,v0.1.0,Darren Williams,"A Filament review queue for Jev Moderation: approve, reject and reclassify flagged content, trace every decision, and see whether your thresholds match what your moderators actually decide."
