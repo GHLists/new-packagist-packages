@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-24T10:01:07Z,jass-sangha/agora,v0.1.0,Jass Sangha,"Real-time Laravel chat package — 1-on-1 & group messaging, media sharing, reactions, read receipts, typing indicators & presence via WebSockets"

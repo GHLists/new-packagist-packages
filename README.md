@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 09:22 UTC
+## Latest list — 2026-10-24 10:20 UTC
 
-New packages created between 2026-10-24 08:19 UTC and 2026-10-24 09:22 UTC.
+New packages created between 2026-10-24 09:22 UTC and 2026-10-24 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T09-22-33-66775Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T10-20-11-987254Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 08:25:15 | [contentreactor/craft-traduco](https://www.nuget.org/packages/contentreactor%2Fcraft-traduco) | 1.0.0 | ContentReactor | Machine translation for multi-site Craft. |
-| 2026-10-24 08:51:44 | [narugamy2/laravel-fpdf](https://www.nuget.org/packages/narugamy2%2Flaravel-fpdf) | v1.0.0 | Holger Lösken | Laravel package to include Fpdf. It ships with Fpdf 1.86. |
+| 2026-10-24 10:01:07 | [jass-sangha/agora](https://www.nuget.org/packages/jass-sangha%2Fagora) | v0.1.0 | Jass Sangha | Real-time Laravel chat package — 1-on-1 & group messaging, media sharing, react… |
 
 ## Data source
 
