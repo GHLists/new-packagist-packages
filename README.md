@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 19:19 UTC
+## Latest list — 2026-10-24 20:21 UTC
 
-New packages created between 2026-10-24 18:21 UTC and 2026-10-24 19:19 UTC.
+New packages created between 2026-10-24 19:19 UTC and 2026-10-24 20:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T19-19-57-052897Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T20-21-07-479113Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 18:22:48 | [jeffersongoncalves/laravel-session-management](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-session-management) | 1.0.0 | Jefferson Gonçalves | Read and manage Laravel's database session table (sessions) through a model and… |
-| 2026-10-24 18:22:59 | [jeffersongoncalves/filament-session-management](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-session-management) | 1.0.1 |  |  |
-| 2026-10-24 18:30:06 | [skeeks/cms-communication-max](https://www.nuget.org/packages/skeeks%2Fcms-communication-max) | 1.0.0 | Semenov Alexander | MAX messenger bot driver for skeeks/cms-communication |
-| 2026-10-24 18:30:17 | [imrandevbd/laravel-ai-ocr](https://www.nuget.org/packages/imrandevbd%2Flaravel-ai-ocr) | v1.1.0 | Imran Ahmed | Private manual-first document extraction with local OCR, quality scoring and ta… |
-| 2026-10-24 18:40:08 | [un-dev-suisse/laravel-files-storage](https://www.nuget.org/packages/un-dev-suisse%2Flaravel-files-storage) | v1.0.0 |  | File stores for Laravel: named stores over filesystem disks, optional AES-256-G… |
-| 2026-10-24 19:18:10 | [karsawave/palakar](https://www.nuget.org/packages/karsawave%2Fpalakar) | v0.1.0 | KarsaWave; Iskandar Soesman | Palakar Framework: a simple and secure PHP 8.2+ framework, fork of Panada Frame… |
+| 2026-10-24 19:29:22 | [bjthecod3r/laravel-docket](https://www.nuget.org/packages/bjthecod3r%2Flaravel-docket) | 0.1.0 | Bolaji Ajani | Reporting and change management for Laravel: threaded reports with statuses, ow… |
+| 2026-10-24 19:51:07 | [skeeks/cms-communication-telegram](https://www.nuget.org/packages/skeeks%2Fcms-communication-telegram) | 1.0.0 | Semenov Alexander | Telegram bot driver for skeeks/cms-communication |
+| 2026-10-24 19:51:58 | [cristianradulescu/staccato-bundle](https://www.nuget.org/packages/cristianradulescu%2Fstaccato-bundle) | v0.1.0 |  | Symfony bundle that turns Markdown content into a static site. |
+| 2026-10-24 20:15:29 | [xhulav/charts](https://www.nuget.org/packages/xhulav%2Fcharts) | v0.1.0 | Vladimír Hůla | Integration of Charts.js as Nette Framework component. |
 
 ## Data source
 
