@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-24T23:07:49Z,jsonscraper/instagram-api-php,v0.1.0,,Instagram Scraper API client for PHP with Composer and response models
+2026-10-24T23:08:31Z,jsonscraper/tiktok-api-php,v0.1.0,Evelode,"TikTok Scraper API for PHP — typed response models, video, profiles, comments and search"
