@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 07:18 UTC
+## Latest list — 2026-10-24 08:19 UTC
 
-New packages created between 2026-10-24 06:19 UTC and 2026-10-24 07:18 UTC.
+New packages created between 2026-10-24 07:18 UTC and 2026-10-24 08:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T07-18-58-221142Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T08-19-12-151776Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 06:27:59 | [jegex/filament-tab-repeater](https://www.nuget.org/packages/jegex%2Ffilament-tab-repeater) | 2.0.0 |  | Filament Repeater field that renders each item as a tab. |
-| 2026-10-24 06:38:20 | [zamm-tech/zammpay](https://www.nuget.org/packages/zamm-tech%2Fzammpay) | v2.1.0 | ZAMM | Official PHP library for the ZAMM PAY payment gateway |
+| 2026-10-24 07:40:37 | [jass-sangha/agora](https://www.nuget.org/packages/jass-sangha%2Fagora) | v0.1.0 | Jass Sangha | Real-time Laravel chat package — 1-on-1 & group messaging, media sharing, react… |
+| 2026-10-24 07:41:45 | [ameax/filter-core](https://www.nuget.org/packages/ameax%2Ffilter-core) | v1.0.0 | Michael Schmidt | Type-safe filtering system for Laravel with 6 filter types, 18 match modes, AND… |
+| 2026-10-24 07:46:18 | [panda-men/think-queue-stream](https://www.nuget.org/packages/panda-men%2Fthink-queue-stream) | v0.1.0 |  | Redis Streams task queue for ThinkPHP 8 and PHP 8.2+ |
+| 2026-10-24 08:05:23 | [slashmark/composer-suite](https://www.nuget.org/packages/slashmark%2Fcomposer-suite) | v1.0.0 | Slash Mark IT Solutions | PHP Package Intelligence Suite: 32 terminal tools to search, inspect, audit and… |
 
 ## Data source
 

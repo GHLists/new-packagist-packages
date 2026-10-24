@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-24T07:40:37Z,jass-sangha/agora,v0.1.0,Jass Sangha,"Real-time Laravel chat package — 1-on-1 & group messaging, media sharing, reactions, read receipts, typing indicators & presence via WebSockets"
+2026-10-24T07:41:45Z,ameax/filter-core,v1.0.0,Michael Schmidt,"Type-safe filtering system for Laravel with 6 filter types, 18 match modes, AND/OR logic, relation filtering, and JSON serialization"
+2026-10-24T07:46:18Z,panda-men/think-queue-stream,v0.1.0,,Redis Streams task queue for ThinkPHP 8 and PHP 8.2+
+2026-10-24T08:05:23Z,slashmark/composer-suite,v1.0.0,Slash Mark IT Solutions,"PHP Package Intelligence Suite: 32 terminal tools to search, inspect, audit and manage Composer packages (security, licenses, conflicts, health scores, lock analysis and more)."
