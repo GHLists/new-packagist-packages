@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-24T18:22:48Z,jeffersongoncalves/laravel-session-management,1.0.0,Jefferson Gonçalves,"Read and manage Laravel's database session table (sessions) through a model and a service layer: decode payloads, revoke and prune sessions."
+2026-10-24T18:22:59Z,jeffersongoncalves/filament-session-management,1.0.1,,
+2026-10-24T18:30:06Z,skeeks/cms-communication-max,1.0.0,Semenov Alexander,MAX messenger bot driver for skeeks/cms-communication
+2026-10-24T18:30:17Z,imrandevbd/laravel-ai-ocr,v1.1.0,Imran Ahmed,"Private manual-first document extraction with local OCR, quality scoring and targeted AI Hub fallback for Laravel."
+2026-10-24T18:40:08Z,un-dev-suisse/laravel-files-storage,v1.0.0,,"File stores for Laravel: named stores over filesystem disks, optional AES-256-GCM encryption with key rotation, an S3 round-trip check and an optional backup guard."
+2026-10-24T19:18:10Z,karsawave/palakar,v0.1.0,KarsaWave; Iskandar Soesman,"Palakar Framework: a simple and secure PHP 8.2+ framework, fork of Panada Framework 1.1.1"

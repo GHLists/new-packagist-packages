@@ -15,24 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 18:21 UTC
+## Latest list — 2026-10-24 19:19 UTC
 
-New packages created between 2026-10-24 17:27 UTC and 2026-10-24 18:21 UTC.
+New packages created between 2026-10-24 18:21 UTC and 2026-10-24 19:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T18-21-32-530771Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T19-19-57-052897Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 17:35:33 | [noldors/phpstan-extension](https://www.nuget.org/packages/noldors%2Fphpstan-extension) | v0.2.0 |  | Custom PHPStan rules for PHP and Laravel projects. |
-| 2026-10-24 17:37:55 | [bad_cluster/runway-console-app](https://www.nuget.org/packages/bad_cluster%2Frunway-console-app) | 1.0.0 | BaD ClusteR | Console applications for Runway: commands, input parsing, formatted output, tab… |
-| 2026-10-24 17:55:31 | [drupal/varbase_ai_vdb_milvus](https://www.nuget.org/packages/drupal%2Fvarbase_ai_vdb_milvus) | 1.0.0-alpha1 | Vardot | Connects a Varbase site to a Milvus or Zilliz Cloud vector database for AI Sear… |
-| 2026-10-24 17:55:40 | [trianity/laravel-mautic](https://www.nuget.org/packages/trianity%2Flaravel-mautic) | v1.0.0 | Istvan Holbok | Explicit, model-independent Laravel integration for the Mautic REST API. |
-| 2026-10-24 17:56:18 | [drupal/varbase_ai_chatbot_base](https://www.nuget.org/packages/drupal%2Fvarbase_ai_chatbot_base) | 1.0.0-alpha1 | Vardot | A visitor chatbot for Varbase 11 that answers only from the site's own content,… |
-| 2026-10-24 17:56:47 | [drupal/varbase_ai_answers_base](https://www.nuget.org/packages/drupal%2Fvarbase_ai_answers_base) | 1.0.0-alpha1 | Vardot | Ask AI for Varbase: a public question box that answers from the site's own cont… |
-| 2026-10-24 17:57:25 | [drupal/varbase_ai_content_review_base](https://www.nuget.org/packages/drupal%2Fvarbase_ai_content_review_base) | 1.0.0-alpha1 | Vardot | AI content review for Varbase 11: four review agents and one rule for every con… |
-| 2026-10-24 17:58:07 | [drupal/varbase_ai_content_operations_base](https://www.nuget.org/packages/drupal%2Fvarbase_ai_content_operations_base) | 1.0.0-alpha1 | Vardot | A content operations assistant for the editors of a Varbase 11 site: audits bro… |
-| 2026-10-24 17:59:36 | [drupal/varbase_ai_mcp_server_base](https://www.nuget.org/packages/drupal%2Fvarbase_ai_mcp_server_base) | 1.0.0-alpha1 | Vardot | Varbase AI MCP Server: an MCP server for external assistants (Claude.ai and sim… |
-| 2026-10-24 18:08:14 | [thekaziomar/laravel-atomic-cache](https://www.nuget.org/packages/thekaziomar%2Flaravel-atomic-cache) | v1.0.1 | Kazi Omar Faruk | A simple, stampede-proof, and tag-aware caching package for Laravel. |
+| 2026-10-24 18:22:48 | [jeffersongoncalves/laravel-session-management](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-session-management) | 1.0.0 | Jefferson Gonçalves | Read and manage Laravel's database session table (sessions) through a model and… |
+| 2026-10-24 18:22:59 | [jeffersongoncalves/filament-session-management](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-session-management) | 1.0.1 |  |  |
+| 2026-10-24 18:30:06 | [skeeks/cms-communication-max](https://www.nuget.org/packages/skeeks%2Fcms-communication-max) | 1.0.0 | Semenov Alexander | MAX messenger bot driver for skeeks/cms-communication |
+| 2026-10-24 18:30:17 | [imrandevbd/laravel-ai-ocr](https://www.nuget.org/packages/imrandevbd%2Flaravel-ai-ocr) | v1.1.0 | Imran Ahmed | Private manual-first document extraction with local OCR, quality scoring and ta… |
+| 2026-10-24 18:40:08 | [un-dev-suisse/laravel-files-storage](https://www.nuget.org/packages/un-dev-suisse%2Flaravel-files-storage) | v1.0.0 |  | File stores for Laravel: named stores over filesystem disks, optional AES-256-G… |
+| 2026-10-24 19:18:10 | [karsawave/palakar](https://www.nuget.org/packages/karsawave%2Fpalakar) | v0.1.0 | KarsaWave; Iskandar Soesman | Palakar Framework: a simple and secure PHP 8.2+ framework, fork of Panada Frame… |
 
 ## Data source
 
