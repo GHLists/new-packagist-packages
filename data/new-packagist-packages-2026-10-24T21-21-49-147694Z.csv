@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-24T20:42:29Z,systonia/holidays,v0.1.0,Lento Leisenfeld,"The public holidays of Germany, nationwide and per state."
+2026-10-24T20:43:25Z,sergiynezbritskiy/ukrposhta-api,1.0.0,,Library for connecting to Ukrposhta API
+2026-10-24T20:58:19Z,sajjadh47/php2shell-php,v1.0.0,sajjadh47,"Detect php2shell (CVE-2026-109618 / CVE-2026-109619) on remote PHP targets — behavioral multipart probes, version fallback, async CLI in PHP."
+2026-10-24T21:00:15Z,cybat/sdk,v1.0.0,,Cybat SDK for PHP -- PSR-15 middleware that reports HTTP traffic directly to the Cybat Intelligence Engine
