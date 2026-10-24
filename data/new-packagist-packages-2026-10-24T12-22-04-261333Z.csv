@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-24T11:59:15Z,korioinc/laravel-schema-align,v1.0.0,korinc,Laravel Schema Align
+2026-10-24T11:59:48Z,tualo/pug-browser,1.0.1,Thomas Hoffmann,renderer for tualo office
+2026-10-24T12:06:49Z,lucacermenati/common-traits,v0.1.0,Luca Cermenati,Reusable traits and interfaces for Laravel applications.
+2026-10-24T12:18:03Z,teamones/oauth2-server,3.0.0,Brent Shaffer,"OAuth2 Server based on upstream v1.13.0, maintained for PHP 8.1–8.5"

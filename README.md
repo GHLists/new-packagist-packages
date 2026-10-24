@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 11:22 UTC
+## Latest list — 2026-10-24 12:22 UTC
 
-New packages created between 2026-10-24 10:20 UTC and 2026-10-24 11:22 UTC.
+New packages created between 2026-10-24 11:22 UTC and 2026-10-24 12:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T11-22-28-792161Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T12-22-04-261333Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 10:31:11 | [yavuz-dev/filament-theme](https://www.nuget.org/packages/yavuz-dev%2Ffilament-theme) | v1.2.1 | Yavuz | A panel theme for Filament: dark full-height sidebar, a top bar with breadcrumb… |
-| 2026-10-24 10:31:29 | [saivra/meui-theme](https://www.nuget.org/packages/saivra%2Fmeui-theme) | v0.1.0 | Saivra Technologies; Ghulam M… | A native light and dark application theme for Filament 5. |
-| 2026-10-24 10:34:18 | [gared/php-fints](https://www.nuget.org/packages/gared%2Fphp-fints) | 4.2.0 |  | PHP Library for the protocols fints and hbci |
-| 2026-10-24 10:37:50 | [atoria/alfred](https://www.nuget.org/packages/atoria%2Falfred) | v1.0.2 | Andria Toria | Point at anything in your Laravel app and ask how it is calculated, change it w… |
-| 2026-10-24 11:01:07 | [djosend/php-sdk](https://www.nuget.org/packages/djosend%2Fphp-sdk) | v0.1.0 |  | PHP client for the Djosend Messages API |
-| 2026-10-24 11:04:46 | [tmonier/sylius-erp-flatfile-plugin](https://www.nuget.org/packages/tmonier%2Fsylius-erp-flatfile-plugin) | v0.1.0 | Thibaut Monier | Flat-file exchange with an ERP for Sylius 2: orders exported as CSV files (docu… |
+| 2026-10-24 11:59:15 | [korioinc/laravel-schema-align](https://www.nuget.org/packages/korioinc%2Flaravel-schema-align) | v1.0.0 | korinc | Laravel Schema Align |
+| 2026-10-24 11:59:48 | [tualo/pug-browser](https://www.nuget.org/packages/tualo%2Fpug-browser) | 1.0.1 | Thomas Hoffmann | renderer for tualo office |
+| 2026-10-24 12:06:49 | [lucacermenati/common-traits](https://www.nuget.org/packages/lucacermenati%2Fcommon-traits) | v0.1.0 | Luca Cermenati | Reusable traits and interfaces for Laravel applications. |
+| 2026-10-24 12:18:03 | [teamones/oauth2-server](https://www.nuget.org/packages/teamones%2Foauth2-server) | 3.0.0 | Brent Shaffer | OAuth2 Server based on upstream v1.13.0, maintained for PHP 8.1–8.5 |
 
 ## Data source
 
