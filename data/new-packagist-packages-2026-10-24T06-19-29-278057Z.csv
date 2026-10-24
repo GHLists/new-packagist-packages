@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-24T05:23:16Z,axitdev/phpunit-ai-evals,v0.0.2,Oleksii Ivanov,"Framework-agnostic AI Evals, LLM-as-a-Judge & Smart VCR for PHPUnit"
+2026-10-24T05:31:17Z,e9li/kirby-consent,0.1.0,Rafael Egli,Cookie consent banner with script gating and Google Consent Mode v2 for Kirby
+2026-10-24T05:56:57Z,xnrcms-package/hyperf-wechat,1.2.3,,Wechat SDK For Hyperf

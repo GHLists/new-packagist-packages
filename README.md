@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 05:20 UTC
+## Latest list — 2026-10-24 06:19 UTC
 
-New packages created between 2026-10-24 04:21 UTC and 2026-10-24 05:20 UTC.
+New packages created between 2026-10-24 05:20 UTC and 2026-10-24 06:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T05-20-22-779142Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T06-19-29-278057Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 04:37:18 | [bpmore/statamic-reel](https://www.nuget.org/packages/bpmore%2Fstatamic-reel) | 0.1.1 | Brent Passmore | Caption and transcript governance for the video and audio on a Statamic site. R… |
-| 2026-10-24 04:50:35 | [daacreators/creators-audio-rooms](https://www.nuget.org/packages/daacreators%2Fcreators-audio-rooms) | v1.0.0 | DAA Creators | Live audio rooms for Laravel: hosts, speakers and listeners with hand raising a… |
-| 2026-10-24 04:56:08 | [axitdev/phpunit-ai-evals](https://www.nuget.org/packages/axitdev%2Fphpunit-ai-evals) | v0.0.1 | Oleksii Ivanov | Framework-agnostic AI Evals, LLM-as-a-Judge & Smart VCR for PHPUnit |
-| 2026-10-24 05:15:07 | [malikad/php2shell-guard](https://www.nuget.org/packages/malikad%2Fphp2shell-guard) | v0.3.1 | Malik Adnan | Read-only runtime, SAPI, stale-worker, configuration, and IaC auditor for PHP2S… |
+| 2026-10-24 05:23:16 | [axitdev/phpunit-ai-evals](https://www.nuget.org/packages/axitdev%2Fphpunit-ai-evals) | v0.0.2 | Oleksii Ivanov | Framework-agnostic AI Evals, LLM-as-a-Judge & Smart VCR for PHPUnit |
+| 2026-10-24 05:31:17 | [e9li/kirby-consent](https://www.nuget.org/packages/e9li%2Fkirby-consent) | 0.1.0 | Rafael Egli | Cookie consent banner with script gating and Google Consent Mode v2 for Kirby |
+| 2026-10-24 05:56:57 | [xnrcms-package/hyperf-wechat](https://www.nuget.org/packages/xnrcms-package%2Fhyperf-wechat) | 1.2.3 |  | Wechat SDK For Hyperf |
 
 ## Data source
 
