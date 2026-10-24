@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 02:20 UTC
+## Latest list — 2026-10-24 03:20 UTC
 
-New packages created between 2026-10-24 01:19 UTC and 2026-10-24 02:20 UTC.
+New packages created between 2026-10-24 02:20 UTC and 2026-10-24 03:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T02-20-00-770939Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T03-20-30-837036Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 01:31:04 | [folklore/laravel-json-data](https://www.nuget.org/packages/folklore%2Flaravel-json-data) | v1.0.0-alpha.2 | Folklore; David Mongeau-Petit… | References to models in the JSON columns of Eloquent models, and the schema of… |
-| 2026-10-24 01:49:00 | [paywallex/paywallex-php](https://www.nuget.org/packages/paywallex%2Fpaywallex-php) | v1.0.0 |  | SDK serveur officiel de l'API Paywallex /v1 : sessions de paiement Mobile Money… |
+| 2026-10-24 02:31:37 | [nexxtmobile/leclient](https://www.nuget.org/packages/nexxtmobile%2Fleclient) | 1.4.0 |  | PHP LetsEncrypt client library for ACME v2 (maintained fork of yourivw/leclient) |
+| 2026-10-24 02:37:34 | [particle-academy/fancy-live](https://www.nuget.org/packages/particle-academy%2Ffancy-live) | v0.1.0 |  | Framework-independent Pusher HTTP publishing and channel authorization, with an… |
 
 ## Data source
 
