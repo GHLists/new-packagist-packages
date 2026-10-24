@@ -15,15 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 10:20 UTC
+## Latest list — 2026-10-24 11:22 UTC
 
-New packages created between 2026-10-24 09:22 UTC and 2026-10-24 10:20 UTC.
+New packages created between 2026-10-24 10:20 UTC and 2026-10-24 11:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T10-20-11-987254Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T11-22-28-792161Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 10:01:07 | [jass-sangha/agora](https://www.nuget.org/packages/jass-sangha%2Fagora) | v0.1.0 | Jass Sangha | Real-time Laravel chat package — 1-on-1 & group messaging, media sharing, react… |
+| 2026-10-24 10:31:11 | [yavuz-dev/filament-theme](https://www.nuget.org/packages/yavuz-dev%2Ffilament-theme) | v1.2.1 | Yavuz | A panel theme for Filament: dark full-height sidebar, a top bar with breadcrumb… |
+| 2026-10-24 10:31:29 | [saivra/meui-theme](https://www.nuget.org/packages/saivra%2Fmeui-theme) | v0.1.0 | Saivra Technologies; Ghulam M… | A native light and dark application theme for Filament 5. |
+| 2026-10-24 10:34:18 | [gared/php-fints](https://www.nuget.org/packages/gared%2Fphp-fints) | 4.2.0 |  | PHP Library for the protocols fints and hbci |
+| 2026-10-24 10:37:50 | [atoria/alfred](https://www.nuget.org/packages/atoria%2Falfred) | v1.0.2 | Andria Toria | Point at anything in your Laravel app and ask how it is calculated, change it w… |
+| 2026-10-24 11:01:07 | [djosend/php-sdk](https://www.nuget.org/packages/djosend%2Fphp-sdk) | v0.1.0 |  | PHP client for the Djosend Messages API |
+| 2026-10-24 11:04:46 | [tmonier/sylius-erp-flatfile-plugin](https://www.nuget.org/packages/tmonier%2Fsylius-erp-flatfile-plugin) | v0.1.0 | Thibaut Monier | Flat-file exchange with an ERP for Sylius 2: orders exported as CSV files (docu… |
 
 ## Data source
 

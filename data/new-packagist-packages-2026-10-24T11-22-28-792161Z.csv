@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-24T10:31:11Z,yavuz-dev/filament-theme,v1.2.1,Yavuz,"A panel theme for Filament: dark full-height sidebar, a top bar with breadcrumbs, search, quick create, pending work and user menu, and calmer tables, badges, cards and empty states."
+2026-10-24T10:31:29Z,saivra/meui-theme,v0.1.0,Saivra Technologies; Ghulam Mustafa,A native light and dark application theme for Filament 5.
+2026-10-24T10:34:18Z,gared/php-fints,4.2.0,,PHP Library for the protocols fints and hbci
+2026-10-24T10:37:50Z,atoria/alfred,v1.0.2,Andria Toria,"Point at anything in your Laravel app and ask how it is calculated, change it with AI, or report it. Plain-language explanations, AI-proposed UI changes with live preview, tickets (Jira, GitHub, GitLab, Linear, Trello, ClickUp, Asana) and pull requests (GitHub, GitLab, Bitbucket)."
+2026-10-24T11:01:07Z,djosend/php-sdk,v0.1.0,,PHP client for the Djosend Messages API
+2026-10-24T11:04:46Z,tmonier/sylius-erp-flatfile-plugin,v0.1.0,Thibaut Monier,"Flat-file exchange with an ERP for Sylius 2: orders exported as CSV files (documented contract, UTF-8, "";"" separator, minor-unit integers) from the events of the webhook outbox, deposited atomically in an exchange directory"
