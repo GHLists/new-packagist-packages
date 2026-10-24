@@ -15,17 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 00:20 UTC
+## Latest list — 2026-10-24 01:19 UTC
 
-New packages created between 2026-10-23 23:20 UTC and 2026-10-24 00:20 UTC.
+New packages created between 2026-10-24 00:20 UTC and 2026-10-24 01:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T00-20-01-10441Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T01-19-36-909085Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-23 23:47:53 | [ez-php/graphql-subscriptions](https://www.nuget.org/packages/ez-php%2Fgraphql-subscriptions) | 2.6.0 | Andreas Uretschnig | GraphQL subscriptions over ez-php/websocket (graphql-transport-ws), fed by ez-p… |
-| 2026-10-23 23:47:54 | [ez-php/psr-bridge](https://www.nuget.org/packages/ez-php%2Fpsr-bridge) | 2.6.0 | Andreas Uretschnig | Adapters between ez-php HTTP/logging types and PSR-7, PSR-15, PSR-17 and PSR-3 |
-| 2026-10-23 23:50:31 | [3neti/x-deploy](https://www.nuget.org/packages/3neti%2Fx-deploy) | v1.0.0 | Lester B. Hurtado | Release compatibility, commissioning, and deployment telemetry for x-change hos… |
+| 2026-10-24 00:23:21 | [jeffersongoncalves/peek-cli](https://www.nuget.org/packages/jeffersongoncalves%2Fpeek-cli) | v1.0.0 | Jefferson Goncalves | Read-only inspection of remote servers over SSH (ls, cat, tail, grep, ps, df, f… |
+| 2026-10-24 00:26:20 | [pulse-app/pulse-php](https://www.nuget.org/packages/pulse-app%2Fpulse-php) | v0.0.1 |  | Cœur commun des paquets PHP de Pulse : rapports, sondes, tâches planifiées, jou… |
+| 2026-10-24 00:26:21 | [pulse-app/pulse-laravel](https://www.nuget.org/packages/pulse-app%2Fpulse-laravel) | v0.0.1 |  | Surveillance Pulse pour Laravel : signal de vie, base de données, Redis, files… |
+| 2026-10-24 00:26:23 | [pulse-app/pulse-symfony](https://www.nuget.org/packages/pulse-app%2Fpulse-symfony) | v0.0.1 |  | Surveillance Pulse pour Symfony : signal de vie, Doctrine, Redis, Messenger et… |
+| 2026-10-24 00:43:43 | [particle-academy/prism-acp](https://www.nuget.org/packages/particle-academy%2Fprism-acp) | v0.1.0-alpha.1 |  | Agent Client Protocol for the signed-in Claude CLI from PHP. Initial Windows pr… |
 
 ## Data source
 

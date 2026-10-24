@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-24T00:23:21Z,jeffersongoncalves/peek-cli,v1.0.0,Jefferson Goncalves,"Read-only inspection of remote servers over SSH (ls, cat, tail, grep, ps, df, free, uptime, tree, systemctl status) with named profiles and table/json output, built for pairing with an LLM."
+2026-10-24T00:26:20Z,pulse-app/pulse-php,v0.0.1,,"Cœur commun des paquets PHP de Pulse : rapports, sondes, tâches planifiées, journaux et mode sécurisé."
+2026-10-24T00:26:21Z,pulse-app/pulse-laravel,v0.0.1,,"Surveillance Pulse pour Laravel : signal de vie, base de données, Redis, files et tâches planifiées détectés tout seuls."
+2026-10-24T00:26:23Z,pulse-app/pulse-symfony,v0.0.1,,"Surveillance Pulse pour Symfony : signal de vie, Doctrine, Redis, Messenger et Scheduler détectés tout seuls."
+2026-10-24T00:43:43Z,particle-academy/prism-acp,v0.1.0-alpha.1,,"Agent Client Protocol for the signed-in Claude CLI from PHP. Initial Windows preview, with no third-party runtime dependencies."
