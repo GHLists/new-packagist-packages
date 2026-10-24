@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-24T15:44:12Z,saola/admin,v0.1.0-alpha.1,,"Reusable Saola admin shell, source publishing, database translations and schema-based settings"
+2026-10-24T15:59:01Z,drupal/varbase_ai_media_base,1.0.0-alpha1,Vardot,"Generate images and SVGs with AI from the Media Library on Varbase 11, with the AI Media module: ""Generated image with AI"" and ""Generated SVG with AI"" media types, offered right after Image in the Featured image fields and in Insert Media, with the permission granted to the editorial roles. No cust…"
