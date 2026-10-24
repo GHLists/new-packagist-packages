@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 13:19 UTC
+## Latest list — 2026-10-24 14:19 UTC
 
-New packages created between 2026-10-24 12:22 UTC and 2026-10-24 13:19 UTC.
+New packages created between 2026-10-24 13:19 UTC and 2026-10-24 14:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T13-19-09-910767Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T14-19-26-20152Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 12:53:18 | [vuthaihoc/pdfparser](https://www.nuget.org/packages/vuthaihoc%2Fpdfparser) | v3.9.0 |  | Fork of prinsfrank/pdfparser: PDF parsing, text & image extraction, plus an exp… |
-| 2026-10-24 12:53:21 | [duyld2108/laravel-file-manager](https://www.nuget.org/packages/duyld2108%2Flaravel-file-manager) | v1.0.0 | Le Duc Duy; Aleksandr Manekin | Advanced File Manager for Laravel with Intervention Image v4.1+ support, auto i… |
+| 2026-10-24 13:42:34 | [orangecat/module-mago-ai-image](https://www.nuget.org/packages/orangecat%2Fmodule-mago-ai-image) | 1.0.0 |  | Mago Assistant add-on: AI product images from a gallery image and a prompt, wit… |
+| 2026-10-24 14:10:11 | [korioinc/laravel-schema-align](https://www.nuget.org/packages/korioinc%2Flaravel-schema-align) | 1.0.1 | korinc | Laravel Schema Align |
 
 ## Data source
 

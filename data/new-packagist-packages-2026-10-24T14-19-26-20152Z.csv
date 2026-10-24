@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-24T13:42:34Z,orangecat/module-mago-ai-image,1.0.0,,"Mago Assistant add-on: AI product images from a gallery image and a prompt, with pluggable providers (Google Gemini, OpenAI)."
+2026-10-24T14:10:11Z,korioinc/laravel-schema-align,1.0.1,korinc,Laravel Schema Align
