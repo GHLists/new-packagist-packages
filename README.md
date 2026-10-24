@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 14:19 UTC
+## Latest list — 2026-10-24 15:19 UTC
 
-New packages created between 2026-10-24 13:19 UTC and 2026-10-24 14:19 UTC.
+New packages created between 2026-10-24 14:19 UTC and 2026-10-24 15:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T14-19-26-20152Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T15-19-51-842837Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 13:42:34 | [orangecat/module-mago-ai-image](https://www.nuget.org/packages/orangecat%2Fmodule-mago-ai-image) | 1.0.0 |  | Mago Assistant add-on: AI product images from a gallery image and a prompt, wit… |
-| 2026-10-24 14:10:11 | [korioinc/laravel-schema-align](https://www.nuget.org/packages/korioinc%2Flaravel-schema-align) | 1.0.1 | korinc | Laravel Schema Align |
+| 2026-10-24 14:20:54 | [gzxy/qiniu-php-sdk](https://www.nuget.org/packages/gzxy%2Fqiniu-php-sdk) | v7.15.0 | gzxy | Qiniu Resource (Cloud) Storage SDK for PHP |
+| 2026-10-24 14:33:48 | [kris-ro/php-republic-core](https://www.nuget.org/packages/kris-ro%2Fphp-republic-core) | v1.0.0 |  | Core engine for PHP Republic MVC Framework |
+| 2026-10-24 14:40:23 | [yasser-elgammal/green-auth-jwt](https://www.nuget.org/packages/yasser-elgammal%2Fgreen-auth-jwt) | v1.0.0 | Yasser Elgammal | Optional JWT authentication adapter for Green Framework v3.0 |
+| 2026-10-24 14:58:52 | [xelyos/mail-rp](https://www.nuget.org/packages/xelyos%2Fmail-rp) | v1.0.0 | Team Xelyos | PHP SDK for the Mail RP API |
 
 ## Data source
 

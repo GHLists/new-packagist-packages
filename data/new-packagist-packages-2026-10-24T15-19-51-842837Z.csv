@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-24T14:20:54Z,gzxy/qiniu-php-sdk,v7.15.0,gzxy,Qiniu Resource (Cloud) Storage SDK for PHP
+2026-10-24T14:33:48Z,kris-ro/php-republic-core,v1.0.0,,Core engine for PHP Republic MVC Framework
+2026-10-24T14:40:23Z,yasser-elgammal/green-auth-jwt,v1.0.0,Yasser Elgammal,Optional JWT authentication adapter for Green Framework v3.0
+2026-10-24T14:58:52Z,xelyos/mail-rp,v1.0.0,Team Xelyos,PHP SDK for the Mail RP API
