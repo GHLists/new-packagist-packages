@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-24T08:25:15Z,contentreactor/craft-traduco,1.0.0,ContentReactor,Machine translation for multi-site Craft.
+2026-10-24T08:51:44Z,narugamy2/laravel-fpdf,v1.0.0,Holger Lösken,Laravel package to include Fpdf. It ships with Fpdf 1.86.
