@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-24T04:37:18Z,bpmore/statamic-reel,0.1.1,Brent Passmore,"Caption and transcript governance for the video and audio on a Statamic site. Reel does not generate captions: it checks the ones you have, edits them, and refuses to publish media without them."
+2026-10-24T04:50:35Z,daacreators/creators-audio-rooms,v1.0.0,DAA Creators,"Live audio rooms for Laravel: hosts, speakers and listeners with hand raising and moderation. Peer-to-peer WebRTC audio with signaling through your own app, so there is nothing extra to host."
+2026-10-24T04:56:08Z,axitdev/phpunit-ai-evals,v0.0.1,Oleksii Ivanov,"Framework-agnostic AI Evals, LLM-as-a-Judge & Smart VCR for PHPUnit"
+2026-10-24T05:15:07Z,malikad/php2shell-guard,v0.3.1,Malik Adnan,"Read-only runtime, SAPI, stale-worker, configuration, and IaC auditor for PHP2Shell (CVE-2026-109618, CVE-2026-109619) and Node.js October 2026 advisories."

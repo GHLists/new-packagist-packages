@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 03:20 UTC
+## Latest list — 2026-10-24 05:20 UTC
 
-New packages created between 2026-10-24 02:20 UTC and 2026-10-24 03:20 UTC.
+New packages created between 2026-10-24 04:21 UTC and 2026-10-24 05:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T03-20-30-837036Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T05-20-22-779142Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 02:31:37 | [nexxtmobile/leclient](https://www.nuget.org/packages/nexxtmobile%2Fleclient) | 1.4.0 |  | PHP LetsEncrypt client library for ACME v2 (maintained fork of yourivw/leclient) |
-| 2026-10-24 02:37:34 | [particle-academy/fancy-live](https://www.nuget.org/packages/particle-academy%2Ffancy-live) | v0.1.0 |  | Framework-independent Pusher HTTP publishing and channel authorization, with an… |
+| 2026-10-24 04:37:18 | [bpmore/statamic-reel](https://www.nuget.org/packages/bpmore%2Fstatamic-reel) | 0.1.1 | Brent Passmore | Caption and transcript governance for the video and audio on a Statamic site. R… |
+| 2026-10-24 04:50:35 | [daacreators/creators-audio-rooms](https://www.nuget.org/packages/daacreators%2Fcreators-audio-rooms) | v1.0.0 | DAA Creators | Live audio rooms for Laravel: hosts, speakers and listeners with hand raising a… |
+| 2026-10-24 04:56:08 | [axitdev/phpunit-ai-evals](https://www.nuget.org/packages/axitdev%2Fphpunit-ai-evals) | v0.0.1 | Oleksii Ivanov | Framework-agnostic AI Evals, LLM-as-a-Judge & Smart VCR for PHPUnit |
+| 2026-10-24 05:15:07 | [malikad/php2shell-guard](https://www.nuget.org/packages/malikad%2Fphp2shell-guard) | v0.3.1 | Malik Adnan | Read-only runtime, SAPI, stale-worker, configuration, and IaC auditor for PHP2S… |
 
 ## Data source
 
