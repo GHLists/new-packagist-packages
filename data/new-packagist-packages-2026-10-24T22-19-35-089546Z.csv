@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-24T21:39:34Z,jponchiroli/laravel-base,v0.1.0,Joao Pedro Ferreira Ponchiroli,"Base classes, standardized JSON responses with i18n messages (en, pt_BR) and a make:domain generator for Laravel API domains."
+2026-10-24T21:58:28Z,socialweb/http-message-signatures,0.1.0,,Signs and verifies HTTP messages under RFC 9421 and draft-cavage-http-signatures-12
+2026-10-24T22:01:44Z,jeffersongoncalves/laravel-auto-translate,1.0.0,Jefferson Gonçalves,"Queued machine translation for Laravel translatable model attributes (spatie/laravel-translatable). Ships a free, keyless MyMemory driver that protects product names, vendor/package ids and code from being translated, splits long text under the request limit, and never saves a quota warning as a tr…"

@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 21:21 UTC
+## Latest list — 2026-10-24 22:19 UTC
 
-New packages created between 2026-10-24 20:21 UTC and 2026-10-24 21:21 UTC.
+New packages created between 2026-10-24 21:21 UTC and 2026-10-24 22:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T21-21-49-147694Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T22-19-35-089546Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 20:42:29 | [systonia/holidays](https://www.nuget.org/packages/systonia%2Fholidays) | v0.1.0 | Lento Leisenfeld | The public holidays of Germany, nationwide and per state. |
-| 2026-10-24 20:43:25 | [sergiynezbritskiy/ukrposhta-api](https://www.nuget.org/packages/sergiynezbritskiy%2Fukrposhta-api) | 1.0.0 |  | Library for connecting to Ukrposhta API |
-| 2026-10-24 20:58:19 | [sajjadh47/php2shell-php](https://www.nuget.org/packages/sajjadh47%2Fphp2shell-php) | v1.0.0 | sajjadh47 | Detect php2shell (CVE-2026-109618 / CVE-2026-109619) on remote PHP targets — be… |
-| 2026-10-24 21:00:15 | [cybat/sdk](https://www.nuget.org/packages/cybat%2Fsdk) | v1.0.0 |  | Cybat SDK for PHP -- PSR-15 middleware that reports HTTP traffic directly to th… |
+| 2026-10-24 21:39:34 | [jponchiroli/laravel-base](https://www.nuget.org/packages/jponchiroli%2Flaravel-base) | v0.1.0 | Joao Pedro Ferreira Ponchiroli | Base classes, standardized JSON responses with i18n messages (en, pt_BR) and a… |
+| 2026-10-24 21:58:28 | [socialweb/http-message-signatures](https://www.nuget.org/packages/socialweb%2Fhttp-message-signatures) | 0.1.0 |  | Signs and verifies HTTP messages under RFC 9421 and draft-cavage-http-signature… |
+| 2026-10-24 22:01:44 | [jeffersongoncalves/laravel-auto-translate](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-auto-translate) | 1.0.0 | Jefferson Gonçalves | Queued machine translation for Laravel translatable model attributes (spatie/la… |
 
 ## Data source
 
