@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 12:22 UTC
+## Latest list — 2026-10-24 13:19 UTC
 
-New packages created between 2026-10-24 11:22 UTC and 2026-10-24 12:22 UTC.
+New packages created between 2026-10-24 12:22 UTC and 2026-10-24 13:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T12-22-04-261333Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T13-19-09-910767Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 11:59:15 | [korioinc/laravel-schema-align](https://www.nuget.org/packages/korioinc%2Flaravel-schema-align) | v1.0.0 | korinc | Laravel Schema Align |
-| 2026-10-24 11:59:48 | [tualo/pug-browser](https://www.nuget.org/packages/tualo%2Fpug-browser) | 1.0.1 | Thomas Hoffmann | renderer for tualo office |
-| 2026-10-24 12:06:49 | [lucacermenati/common-traits](https://www.nuget.org/packages/lucacermenati%2Fcommon-traits) | v0.1.0 | Luca Cermenati | Reusable traits and interfaces for Laravel applications. |
-| 2026-10-24 12:18:03 | [teamones/oauth2-server](https://www.nuget.org/packages/teamones%2Foauth2-server) | 3.0.0 | Brent Shaffer | OAuth2 Server based on upstream v1.13.0, maintained for PHP 8.1–8.5 |
+| 2026-10-24 12:53:18 | [vuthaihoc/pdfparser](https://www.nuget.org/packages/vuthaihoc%2Fpdfparser) | v3.9.0 |  | Fork of prinsfrank/pdfparser: PDF parsing, text & image extraction, plus an exp… |
+| 2026-10-24 12:53:21 | [duyld2108/laravel-file-manager](https://www.nuget.org/packages/duyld2108%2Flaravel-file-manager) | v1.0.0 | Le Duc Duy; Aleksandr Manekin | Advanced File Manager for Laravel with Intervention Image v4.1+ support, auto i… |
 
 ## Data source
 
