@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 06:19 UTC
+## Latest list — 2026-10-24 07:18 UTC
 
-New packages created between 2026-10-24 05:20 UTC and 2026-10-24 06:19 UTC.
+New packages created between 2026-10-24 06:19 UTC and 2026-10-24 07:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T06-19-29-278057Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-24T07-18-58-221142Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 05:23:16 | [axitdev/phpunit-ai-evals](https://www.nuget.org/packages/axitdev%2Fphpunit-ai-evals) | v0.0.2 | Oleksii Ivanov | Framework-agnostic AI Evals, LLM-as-a-Judge & Smart VCR for PHPUnit |
-| 2026-10-24 05:31:17 | [e9li/kirby-consent](https://www.nuget.org/packages/e9li%2Fkirby-consent) | 0.1.0 | Rafael Egli | Cookie consent banner with script gating and Google Consent Mode v2 for Kirby |
-| 2026-10-24 05:56:57 | [xnrcms-package/hyperf-wechat](https://www.nuget.org/packages/xnrcms-package%2Fhyperf-wechat) | 1.2.3 |  | Wechat SDK For Hyperf |
+| 2026-10-24 06:27:59 | [jegex/filament-tab-repeater](https://www.nuget.org/packages/jegex%2Ffilament-tab-repeater) | 2.0.0 |  | Filament Repeater field that renders each item as a tab. |
+| 2026-10-24 06:38:20 | [zamm-tech/zammpay](https://www.nuget.org/packages/zamm-tech%2Fzammpay) | v2.1.0 | ZAMM | Official PHP library for the ZAMM PAY payment gateway |
 
 ## Data source
 
