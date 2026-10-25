@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 02:21 UTC
+## Latest list — 2026-10-25 03:19 UTC
 
-New packages created between 2026-10-25 01:21 UTC and 2026-10-25 02:21 UTC.
+New packages created between 2026-10-25 02:21 UTC and 2026-10-25 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-25T02-21-58-721016Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-25T03-19-14-17366Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-25 01:50:53 | [postiefs/laravel-sso](https://www.nuget.org/packages/postiefs%2Flaravel-sso) | v1.0.0 |  | Sign in to a Laravel app through the Postiefs SSO portal (Microsoft Entra ID),… |
-| 2026-10-25 01:51:13 | [postiefs/laravel-filament-sso](https://www.nuget.org/packages/postiefs%2Flaravel-filament-sso) | v1.0.0 |  | Filament panel plugin for the Postiefs SSO portal: a Microsoft 365 sign-in butt… |
-| 2026-10-25 01:57:16 | [anun333/oe-module-title-x-report](https://www.nuget.org/packages/anun333%2Foe-module-title-x-report) | v0.1.0 |  | Title X Report for OpenEMR: the FPAR 2.0 file for the Office of Population Affa… |
+| 2026-10-25 02:52:18 | [serqo-io/serqo-php](https://www.nuget.org/packages/serqo-io%2Fserqo-php) | v0.1.0 |  | Official PHP client for the Serqo Search API |
 
 ## Data source
 
