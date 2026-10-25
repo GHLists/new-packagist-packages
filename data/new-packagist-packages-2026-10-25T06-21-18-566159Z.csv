@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-25T05:30:02Z,exsited/exsited,v4.0.0,Ashiq Rahman,PHP SDK for the Exsited v4 REST API.
+2026-10-25T05:32:27Z,atannex/routing,v1.1.0,Atanga Leke Collins,"Attribute routing for Laravel: declare routes on the controllers themselves and they register automatically, with names, groups, prefixes, middleware, constraints, bindings, resources with policies, inline rate limits, webhooks, redirects, views, fallbacks, validation, deprecation headers and speci…"
+2026-10-25T06:00:27Z,skarner2016/rbac,v0.1.0,skarner2016,"Framework-agnostic RBAC for PHP: role-only permissions with menu, route and button types."
