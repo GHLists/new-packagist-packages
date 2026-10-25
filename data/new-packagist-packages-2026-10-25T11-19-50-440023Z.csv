@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-10-25T10:23:04Z,blackcube/bridge-form,1.0.0,Philippe Gaultier,"Form fields for Yii framework, without any styling"
+2026-10-25T10:27:26Z,yuriitatur/repository-laravel,v0.1.0,Yurii Tatur,Laravel repository drivers and more
+2026-10-25T10:28:46Z,blackcube/graphql,1.0.0,Philippe Gaultier,GraphQL read-only API for Blackcube CMS
+2026-10-25T10:35:41Z,privatus/analytics,v1.0.0,Two Phase LLC,"Adds the cookieless Privatus Analytics tracking script to PHP, Laravel and Symfony/Twig apps. It only prints HTML and never sends data from your server."
+2026-10-25T10:37:54Z,blackcube/ssr,1.0.0,Philippe Gaultier,Server-side routing and rendering bridge for blackcube/dcore
+2026-10-25T10:43:41Z,blackcube/bleet,1.0.0,Philippe Gaultier,Blackcube UIKit for Yii framework
+2026-10-25T10:55:53Z,jasonbaciulis/bedrock-commands,v1.0.0,Jason Baciulis,"Artisan commands that scaffold, rename and delete page builder blocks and article sets in the Bedrock starter kit"
+2026-10-25T10:56:07Z,blackcube/dboard,1.0.0,Philippe Gaultier,CMS Administration Panel
+2026-10-25T10:58:13Z,lucinda/console-view,v1.0.0,Lucian Popescu,HTML-like terminal view language and renderer for console MVC applications
+2026-10-25T11:01:33Z,yuriitatur/subscriptions,v0.1.0,Yurii Tatur,subscription tracking
+2026-10-25T11:03:06Z,blackcube/dboard-bridge,1.0.0,Philippe Gaultier,Blackcube Dboard bridge for non-Yii3 frameworks
+2026-10-25T11:16:47Z,blackcube/mcp,1.0.0,Philippe Gaultier,MCP server for the Blackcube admin data layer

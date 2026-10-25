@@ -15,20 +15,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 10:20 UTC
+## Latest list — 2026-10-25 11:19 UTC
 
-New packages created between 2026-10-25 09:21 UTC and 2026-10-25 10:20 UTC.
+New packages created between 2026-10-25 10:20 UTC and 2026-10-25 11:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-25T10-20-53-581993Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-25T11-19-50-440023Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-25 09:28:03 | [blackcube/fileprovider](https://www.nuget.org/packages/blackcube%2Ffileprovider) | 1.0.0 | Philippe Gaultier | File provider with prefix routing and image processing |
-| 2026-10-25 09:34:12 | [blackcube/resumable](https://www.nuget.org/packages/blackcube%2Fresumable) | 1.0.0 | Philippe Gaultier | Resumable.js server side for Yii: chunked upload, preview and delete actions on… |
-| 2026-10-25 09:37:24 | [anun333/oe-module-ccbhc-report](https://www.nuget.org/packages/anun333%2Foe-module-ccbhc-report) | v0.1.0 |  | The CCBHC clinic-collected quality measures for OpenEMR: Time to Services, soci… |
-| 2026-10-25 09:40:08 | [jamie-humm/kirby-microlighter](https://www.nuget.org/packages/jamie-humm%2Fkirby-microlighter) | v1.0@beta | Jamie Hunter | Kirby Microlighter: a syntax-highlighted code block for Kirby, powered by Micro… |
-| 2026-10-25 09:48:05 | [gin/env-merger](https://www.nuget.org/packages/gin%2Fenv-merger) | v1.0.0 | Gin | Smart, format-preserving .env merger with interactive conflict resolution and L… |
-| 2026-10-25 09:53:37 | [blackcube/bridge-form-model](https://www.nuget.org/packages/blackcube%2Fbridge-form-model) | 1.0.0 | Philippe Gaultier | Bridged FormModel for Yii framework |
+| 2026-10-25 10:23:04 | [blackcube/bridge-form](https://www.nuget.org/packages/blackcube%2Fbridge-form) | 1.0.0 | Philippe Gaultier | Form fields for Yii framework, without any styling |
+| 2026-10-25 10:27:26 | [yuriitatur/repository-laravel](https://www.nuget.org/packages/yuriitatur%2Frepository-laravel) | v0.1.0 | Yurii Tatur | Laravel repository drivers and more |
+| 2026-10-25 10:28:46 | [blackcube/graphql](https://www.nuget.org/packages/blackcube%2Fgraphql) | 1.0.0 | Philippe Gaultier | GraphQL read-only API for Blackcube CMS |
+| 2026-10-25 10:35:41 | [privatus/analytics](https://www.nuget.org/packages/privatus%2Fanalytics) | v1.0.0 | Two Phase LLC | Adds the cookieless Privatus Analytics tracking script to PHP, Laravel and Symf… |
+| 2026-10-25 10:37:54 | [blackcube/ssr](https://www.nuget.org/packages/blackcube%2Fssr) | 1.0.0 | Philippe Gaultier | Server-side routing and rendering bridge for blackcube/dcore |
+| 2026-10-25 10:43:41 | [blackcube/bleet](https://www.nuget.org/packages/blackcube%2Fbleet) | 1.0.0 | Philippe Gaultier | Blackcube UIKit for Yii framework |
+| 2026-10-25 10:55:53 | [jasonbaciulis/bedrock-commands](https://www.nuget.org/packages/jasonbaciulis%2Fbedrock-commands) | v1.0.0 | Jason Baciulis | Artisan commands that scaffold, rename and delete page builder blocks and artic… |
+| 2026-10-25 10:56:07 | [blackcube/dboard](https://www.nuget.org/packages/blackcube%2Fdboard) | 1.0.0 | Philippe Gaultier | CMS Administration Panel |
+| 2026-10-25 10:58:13 | [lucinda/console-view](https://www.nuget.org/packages/lucinda%2Fconsole-view) | v1.0.0 | Lucian Popescu | HTML-like terminal view language and renderer for console MVC applications |
+| 2026-10-25 11:01:33 | [yuriitatur/subscriptions](https://www.nuget.org/packages/yuriitatur%2Fsubscriptions) | v0.1.0 | Yurii Tatur | subscription tracking |
+| 2026-10-25 11:03:06 | [blackcube/dboard-bridge](https://www.nuget.org/packages/blackcube%2Fdboard-bridge) | 1.0.0 | Philippe Gaultier | Blackcube Dboard bridge for non-Yii3 frameworks |
+| 2026-10-25 11:16:47 | [blackcube/mcp](https://www.nuget.org/packages/blackcube%2Fmcp) | 1.0.0 | Philippe Gaultier | MCP server for the Blackcube admin data layer |
 
 ## Data source
 
