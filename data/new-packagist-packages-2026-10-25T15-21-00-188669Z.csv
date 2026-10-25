@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-25T14:23:37Z,near/near-jsonrpc-client-php,v0.1.2,,Typed PHP client and OpenAPI generator for NEAR JSON-RPC
+2026-10-25T14:24:29Z,edgarmiralles/laravel-async-subscribers,v0.1.0,,"Auto-discovered, queued event subscribers for Laravel."
+2026-10-25T14:42:07Z,gisoo/gisoo-php,v0.1.0,Gisoo,"Official PHP SDK and Laravel package for the Gisoo AI API (OpenAI-compatible): chat, streaming, embeddings, images, speech, transcription, video and music."
+2026-10-25T14:50:27Z,dockcodes/dockaccess-alt-generator,1.0.0,Dock,"Framework-agnostic PHP client for the dockaccess.org AI alt text generator, with strict image validation before anything leaves the server."

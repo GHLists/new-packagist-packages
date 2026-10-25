@@ -15,23 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 14:20 UTC
+## Latest list — 2026-10-25 15:21 UTC
 
-New packages created between 2026-10-25 13:20 UTC and 2026-10-25 14:20 UTC.
+New packages created between 2026-10-25 14:20 UTC and 2026-10-25 15:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-25T14-20-42-901035Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-25T15-21-00-188669Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-25 13:25:47 | [survos/document-processing](https://www.nuget.org/packages/survos%2Fdocument-processing) | 2.43.18 |  | Typed Files and OCR client for Mistral-compatible document services. |
-| 2026-10-25 13:25:51 | [survos/document-processing-bundle](https://www.nuget.org/packages/survos%2Fdocument-processing-bundle) | 2.43.18 |  | Named document-processing clients and credentials for Symfony. |
-| 2026-10-25 13:28:09 | [marcosmarcolin/socket.io-server](https://www.nuget.org/packages/marcosmarcolin%2Fsocket.io-server) | v0.2.0 | Marcos Marcolin | Socket.IO v4 server for PHP, built on Workerman |
-| 2026-10-25 13:45:38 | [renfire/tbp](https://www.nuget.org/packages/renfire%2Ftbp) | v1.1.1 | Marc Clausell; Bitendian S.L. | Light component-oriented PHP framework for small and medium websites |
-| 2026-10-25 13:48:53 | [machinjiri/advocate](https://www.nuget.org/packages/machinjiri%2Fadvocate) | 1.0.0 | Precious Lyson; Mlangeni Group | Testing Suite for Machinjiri Framework |
-| 2026-10-25 14:01:23 | [lunixi/php-sdk](https://www.nuget.org/packages/lunixi%2Fphp-sdk) | v0.28.1 | Lunixi | Lunixi payment gateway PHP SDK — framework-agnostic client for payments, webhoo… |
-| 2026-10-25 14:02:58 | [tacraft-sociality/flarum-scroll-buttons](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-scroll-buttons) | 1.0.0 | TaCraft Sociality | Add scroll up and scroll down buttons. |
-| 2026-10-25 14:14:36 | [lunixi/laravel](https://www.nuget.org/packages/lunixi%2Flaravel) | v0.1.0 | Lunixi | Laravel integration for the Lunixi PHP SDK — configuration, container bindings,… |
-| 2026-10-25 14:17:04 | [tacraft-sociality/flarum-id-slug](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-id-slug) | 1.0.0 | TaCraft-Sociality | Use id as slug in discussion URL. |
+| 2026-10-25 14:23:37 | [near/near-jsonrpc-client-php](https://www.nuget.org/packages/near%2Fnear-jsonrpc-client-php) | v0.1.2 |  | Typed PHP client and OpenAPI generator for NEAR JSON-RPC |
+| 2026-10-25 14:24:29 | [edgarmiralles/laravel-async-subscribers](https://www.nuget.org/packages/edgarmiralles%2Flaravel-async-subscribers) | v0.1.0 |  | Auto-discovered, queued event subscribers for Laravel. |
+| 2026-10-25 14:42:07 | [gisoo/gisoo-php](https://www.nuget.org/packages/gisoo%2Fgisoo-php) | v0.1.0 | Gisoo | Official PHP SDK and Laravel package for the Gisoo AI API (OpenAI-compatible):… |
+| 2026-10-25 14:50:27 | [dockcodes/dockaccess-alt-generator](https://www.nuget.org/packages/dockcodes%2Fdockaccess-alt-generator) | 1.0.0 | Dock | Framework-agnostic PHP client for the dockaccess.org AI alt text generator, wit… |
 
 ## Data source
 
