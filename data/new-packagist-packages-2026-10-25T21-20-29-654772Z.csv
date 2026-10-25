@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-25T20:38:46Z,mj-zana/communication,v2.1.0,,"Email for Zana applications: messages, configured senders, Symfony Mailer transports and a recorder for tests"
+2026-10-25T20:38:46Z,mj-zana/translation,v2.1.0,,"Translation catalogs, locale negotiation and the request locale for Zana applications"
+2026-10-25T20:38:46Z,mj-zana/view,v2.1.0,,"HTML views for Zana applications: templates per module, layouts, escaping by default, View route results and error pages"
+2026-10-25T20:38:46Z,mj-zana/view-twig,v2.1.0,,Twig templates for mj-zana/view
+2026-10-25T20:43:27Z,makallio85/rocksoftware-cakephp-ui,v1.0.1,Marko Kallio,"CakePHP 5 plugin with the shared screen frame of a Rock Software application: page layout, top bar, slide-out main menu, user menu, sign-in and error layouts, flash messages, styles and icons."
+2026-10-25T20:58:30Z,alex-kassel/site-cloner,v1.0.0,AlexKassel,"Full website and demo-template offline cloner for Laravel with asset rewriting, resource inspection, and multi-language support."
