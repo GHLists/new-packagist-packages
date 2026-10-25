@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 03:19 UTC
+## Latest list — 2026-10-25 04:18 UTC
 
-New packages created between 2026-10-25 02:21 UTC and 2026-10-25 03:19 UTC.
+New packages created between 2026-10-25 03:19 UTC and 2026-10-25 04:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-25T03-19-14-17366Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-25T04-18-57-479664Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-25 02:52:18 | [serqo-io/serqo-php](https://www.nuget.org/packages/serqo-io%2Fserqo-php) | v0.1.0 |  | Official PHP client for the Serqo Search API |
+| 2026-10-25 03:37:41 | [gtpyyx/phpdb](https://www.nuget.org/packages/gtpyyx%2Fphpdb) | v1.0.0 | gtpeyy | php db tools for pdo |
+| 2026-10-25 04:03:48 | [seatschart/seatschart-php](https://www.nuget.org/packages/seatschart%2Fseatschart-php) | v0.1.0 | SeatsChart | Official SeatsChart PHP SDK for the SeatsChart seating API: seat maps, holds, r… |
 
 ## Data source
 
