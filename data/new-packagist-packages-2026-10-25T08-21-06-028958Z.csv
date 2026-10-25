@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-25T07:23:48Z,teamones/tencentcloud-common,3.0.0,tencentcloudapi,TencentCloudApi php sdk
+2026-10-25T07:30:14Z,adamczykpiotr/laravel-ultimate-formatter,v1.1.0,Piotr Adamczyk,"Ultimate code formatter for Laravel, taking care of everything"
+2026-10-25T07:32:30Z,tacraft-sociality/flarum-onebot-notify,v1.0.0,TaCraft-Sociality,Send OneBot (QQ) notifications about new discussions and posts from Flarum
+2026-10-25T07:42:48Z,t-labs-co/command-scheduler,1.0.0,Ty Huynh,"Code-first command scheduling framework for Laravel — discover schedulable commands via PHP 8 attributes or interfaces, persist schedule definitions to database, enforce run windows, and control tasks via Livewire dashboard or CLI."
+2026-10-25T07:46:18Z,rokastudio/racin,v1.2.1,Roka Studio,"A small, fast PHP 8.3+ framework for JSON APIs: Rails-style controllers and generators, ActiveRecord-style models, serializers, JWT auth, queues, mail, image uploads and WebSockets."
+2026-10-25T07:57:24Z,habeuk/symfony-starter,1.0.1,,Starter Symfony 8.1 pour mes projets (API + JWT + Mailer + AI)
+2026-10-25T08:02:39Z,nextmail/sdk,v0.0.1,Nextmail,"The official PHP SDK for the Nextmail API. Send email and broadcasts, work with threads, drafts, labels, templates, rules, webhooks, tracking, contacts, audiences, sign-up forms, domains, suppressions, files, API keys, roles, members, mailbox imports and disposable inboxes from PHP."

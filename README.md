@@ -15,18 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 07:21 UTC
+## Latest list — 2026-10-25 08:21 UTC
 
-New packages created between 2026-10-25 06:21 UTC and 2026-10-25 07:21 UTC.
+New packages created between 2026-10-25 07:21 UTC and 2026-10-25 08:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-25T07-21-00-747197Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-25T08-21-06-028958Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-25 06:35:28 | [atannex/billing](https://www.nuget.org/packages/atannex%2Fbilling) | v1.0.0 | Atanga Leke Collins | Payments for Laravel across Stripe, MTN Mobile Money, Orange Money, PayPal and… |
-| 2026-10-25 06:55:19 | [jsonscraper/instagram-mcp-server](https://www.nuget.org/packages/jsonscraper%2Finstagram-mcp-server) | 0.1.2 |  | Official Instagram Scraper API MCP server for ChatGPT, Codex and MCP clients |
-| 2026-10-25 06:55:32 | [jsonscraper/tiktok-mcp-server](https://www.nuget.org/packages/jsonscraper%2Ftiktok-mcp-server) | 0.1.2 |  | Official TikTok Scraper API MCP server for ChatGPT, Codex and MCP clients |
-| 2026-10-25 06:57:09 | [atannex/share](https://www.nuget.org/packages/atannex%2Fshare) | v1.1.0 | Atanga Leke Collins | Share anything to any platform from Laravel: models, links, text or files to 35… |
+| 2026-10-25 07:23:48 | [teamones/tencentcloud-common](https://www.nuget.org/packages/teamones%2Ftencentcloud-common) | 3.0.0 | tencentcloudapi | TencentCloudApi php sdk |
+| 2026-10-25 07:30:14 | [adamczykpiotr/laravel-ultimate-formatter](https://www.nuget.org/packages/adamczykpiotr%2Flaravel-ultimate-formatter) | v1.1.0 | Piotr Adamczyk | Ultimate code formatter for Laravel, taking care of everything |
+| 2026-10-25 07:32:30 | [tacraft-sociality/flarum-onebot-notify](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-onebot-notify) | v1.0.0 | TaCraft-Sociality | Send OneBot (QQ) notifications about new discussions and posts from Flarum |
+| 2026-10-25 07:42:48 | [t-labs-co/command-scheduler](https://www.nuget.org/packages/t-labs-co%2Fcommand-scheduler) | 1.0.0 | Ty Huynh | Code-first command scheduling framework for Laravel — discover schedulable comm… |
+| 2026-10-25 07:46:18 | [rokastudio/racin](https://www.nuget.org/packages/rokastudio%2Fracin) | v1.2.1 | Roka Studio | A small, fast PHP 8.3+ framework for JSON APIs: Rails-style controllers and gen… |
+| 2026-10-25 07:57:24 | [habeuk/symfony-starter](https://www.nuget.org/packages/habeuk%2Fsymfony-starter) | 1.0.1 |  | Starter Symfony 8.1 pour mes projets (API + JWT + Mailer + AI) |
+| 2026-10-25 08:02:39 | [nextmail/sdk](https://www.nuget.org/packages/nextmail%2Fsdk) | v0.0.1 | Nextmail | The official PHP SDK for the Nextmail API. Send email and broadcasts, work with… |
 
 ## Data source
 
