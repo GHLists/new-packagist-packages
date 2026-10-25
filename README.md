@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 23:20 UTC
+## Latest list — 2026-10-25 00:21 UTC
 
-New packages created between 2026-10-24 22:19 UTC and 2026-10-24 23:20 UTC.
+New packages created between 2026-10-24 23:20 UTC and 2026-10-25 00:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-24T23-20-34-610284Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-25T00-21-38-915979Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-24 23:07:49 | [jsonscraper/instagram-api-php](https://www.nuget.org/packages/jsonscraper%2Finstagram-api-php) | v0.1.0 |  | Instagram Scraper API client for PHP with Composer and response models |
-| 2026-10-24 23:08:31 | [jsonscraper/tiktok-api-php](https://www.nuget.org/packages/jsonscraper%2Ftiktok-api-php) | v0.1.0 | Evelode | TikTok Scraper API for PHP — typed response models, video, profiles, comments a… |
+| 2026-10-24 23:46:36 | [absolutoffice/xcurl](https://www.nuget.org/packages/absolutoffice%2Fxcurl) | v1.1.0 | Absolut Office | HTTPS transport and policy client with cURL, PHP streams, and direct TLS socket… |
+| 2026-10-24 23:46:38 | [se7enxweb/flysystem](https://www.nuget.org/packages/se7enxweb%2Fflysystem) | 1.1.11 | Frank de Jonge | Filesystem abstraction: Many filesystems, one API. |
+| 2026-10-25 00:09:33 | [morvy/rector-woocommerce](https://www.nuget.org/packages/morvy%2Frector-woocommerce) | v0.1.0 | morvy | Rector upgrade rules for WooCommerce |
 
 ## Data source
 

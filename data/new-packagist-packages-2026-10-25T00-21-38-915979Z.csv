@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-24T23:46:36Z,absolutoffice/xcurl,v1.1.0,Absolut Office,"HTTPS transport and policy client with cURL, PHP streams, and direct TLS socket capability fallback."
+2026-10-24T23:46:38Z,se7enxweb/flysystem,1.1.11,Frank de Jonge,"Filesystem abstraction: Many filesystems, one API."
+2026-10-25T00:09:33Z,morvy/rector-woocommerce,v0.1.0,morvy,Rector upgrade rules for WooCommerce
