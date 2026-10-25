@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-25T11:40:20Z,baptchau/feature-manager,v0.1.0,BaptChau,Feature flag manager configured from a YAML file
+2026-10-25T11:45:59Z,ptbdynamic/plinth,v0.1.1,,"Plinth, the design system of BDynamic's projects: Blade components, a Filament plugin and the built CSS."
+2026-10-25T12:01:14Z,blackcube/starter,1.0.0,Philippe Gaultier,Blackcube CMS starter
