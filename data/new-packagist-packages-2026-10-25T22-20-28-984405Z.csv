@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-25T21:24:22Z,psbits/security-tools,0.1.0-alpha,Daniel Ablass,security tools for TYPO3 extensions
+2026-10-25T21:30:28Z,acencyril/fineprint-bundle,v0.2.0,Cyril,"Legal pages for Symfony sites, assembled from jurisdiction packs (France, EU) and your activities: legal notice, terms of sale, privacy policy, cookies, in French and English."
+2026-10-25T21:36:00Z,stevelacey/ui-avatars,1.0.0,Steve Lacey,Deterministic avatar URLs: Gravatar photos with a colorful initials fallback.
+2026-10-25T22:10:22Z,stablevoy/stablevoy-php,v1.0.0,,"PHP client for the Stablevoy API: non-custodial USDT and USDC payments, invoices and signed webhooks."
+2026-10-25T22:19:13Z,monkeysoftnl/laravel-livewire-shield,v1.0.0,,"Turns tampered Livewire payloads into a quiet 403, a log line and a per-address limit."
