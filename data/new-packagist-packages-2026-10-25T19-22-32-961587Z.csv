@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-25T18:43:55Z,protendai/nativephp-wifi-direct,v1.0.0,Tendai Karuma,"Wi-Fi Direct for NativePHP Mobile: phone-to-phone networking with no router, with built-in QR pairing. Android hosts and joins; iOS joins an Android phone's group."
+2026-10-25T19:00:06Z,bernskiold/laravel-postmark,1.0.0,Bernskiold; Erik Bernskiöld,"Receive Postmark webhooks as typed Laravel events, and recognise Postmark's inactive-recipient rejections."
