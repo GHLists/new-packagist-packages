@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-25T01:50:53Z,postiefs/laravel-sso,v1.0.0,,"Sign in to a Laravel app through the Postiefs SSO portal (Microsoft Entra ID), with portal-controlled sessions."
+2026-10-25T01:51:13Z,postiefs/laravel-filament-sso,v1.0.0,,"Filament panel plugin for the Postiefs SSO portal: a Microsoft 365 sign-in button next to the local login, portal-controlled sessions and sign-out to the launchpad."
+2026-10-25T01:57:16Z,anun333/oe-module-title-x-report,v0.1.0,,"Title X Report for OpenEMR: the FPAR 2.0 file for the Office of Population Affairs, with OPA's columns and codes, and what to fix before upload."

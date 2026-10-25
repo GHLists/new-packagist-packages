@@ -15,22 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 01:21 UTC
+## Latest list — 2026-10-25 02:21 UTC
 
-New packages created between 2026-10-25 00:21 UTC and 2026-10-25 01:21 UTC.
+New packages created between 2026-10-25 01:21 UTC and 2026-10-25 02:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-25T01-21-52-441495Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-25T02-21-58-721016Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-25 00:43:59 | [atannex/scopable](https://www.nuget.org/packages/atannex%2Fscopable) | v1.0.0 | Atanga Leke Collins | Declarative state and date scopes for Laravel Eloquent: published / scheduled /… |
-| 2026-10-25 00:44:01 | [atannex/ecosystem](https://www.nuget.org/packages/atannex%2Fecosystem) | v1.0.0 | Atanga Leke Collins | Deep, ranked search for Laravel Eloquent: any relation depth, JSON paths, searc… |
-| 2026-10-25 00:44:02 | [atannex/generator](https://www.nuget.org/packages/atannex%2Fgenerator) | v1.0.0 | Atanga Leke Collins | Unique, human-readable codes for Laravel: reference numbers, invoice sequences,… |
-| 2026-10-25 00:44:04 | [atannex/matrix](https://www.nuget.org/packages/atannex%2Fmatrix) | v1.0.0 | Atanga Leke Collins | The engagement matrix for Laravel: views, reading time, clicks, reactions, rati… |
-| 2026-10-25 00:44:05 | [atannex/retrive](https://www.nuget.org/packages/atannex%2Fretrive) | v1.0.0 | Atanga Leke Collins | Data retrieval layer for Laravel Eloquent models: resource definitions, a fluen… |
-| 2026-10-25 00:44:07 | [atannex/workflow](https://www.nuget.org/packages/atannex%2Fworkflow) | v1.0.0 | Atanga Leke Collins | Workflow engine for Laravel Eloquent models: states and transitions, guards, mu… |
-| 2026-10-25 01:04:21 | [mapricot/mapricot](https://www.nuget.org/packages/mapricot%2Fmapricot) | v0.2.0 |  | Official client for the Mapricot API: geocoding, places, routing, and IP geoloc… |
-| 2026-10-25 01:07:14 | [cursor-style/emoji](https://www.nuget.org/packages/cursor-style%2Femoji) | v1.0.0 | Cursor Style | Original Cursor Style 3D emoji catalog with exact Unicode skin-tone variants an… |
+| 2026-10-25 01:50:53 | [postiefs/laravel-sso](https://www.nuget.org/packages/postiefs%2Flaravel-sso) | v1.0.0 |  | Sign in to a Laravel app through the Postiefs SSO portal (Microsoft Entra ID),… |
+| 2026-10-25 01:51:13 | [postiefs/laravel-filament-sso](https://www.nuget.org/packages/postiefs%2Flaravel-filament-sso) | v1.0.0 |  | Filament panel plugin for the Postiefs SSO portal: a Microsoft 365 sign-in butt… |
+| 2026-10-25 01:57:16 | [anun333/oe-module-title-x-report](https://www.nuget.org/packages/anun333%2Foe-module-title-x-report) | v0.1.0 |  | Title X Report for OpenEMR: the FPAR 2.0 file for the Office of Population Affa… |
 
 ## Data source
 
