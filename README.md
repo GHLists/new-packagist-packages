@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 12:21 UTC
+## Latest list — 2026-10-25 13:20 UTC
 
-New packages created between 2026-10-25 11:19 UTC and 2026-10-25 12:21 UTC.
+New packages created between 2026-10-25 12:21 UTC and 2026-10-25 13:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-25T12-21-34-860902Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-25T13-20-15-132484Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-25 11:40:20 | [baptchau/feature-manager](https://www.nuget.org/packages/baptchau%2Ffeature-manager) | v0.1.0 | BaptChau | Feature flag manager configured from a YAML file |
-| 2026-10-25 11:45:59 | [ptbdynamic/plinth](https://www.nuget.org/packages/ptbdynamic%2Fplinth) | v0.1.1 |  | Plinth, the design system of BDynamic's projects: Blade components, a Filament… |
-| 2026-10-25 12:01:14 | [blackcube/starter](https://www.nuget.org/packages/blackcube%2Fstarter) | 1.0.0 | Philippe Gaultier | Blackcube CMS starter |
+| 2026-10-25 12:34:07 | [marcosmarcolin/ixc-provedor-client](https://www.nuget.org/packages/marcosmarcolin%2Fixc-provedor-client) | v0.2.0 | Marcos Marcolin | PHP client for the IXC Provedor (IXCSoft) webservice API |
+| 2026-10-25 13:00:08 | [scripthoodie/json-rpc](https://www.nuget.org/packages/scripthoodie%2Fjson-rpc) | v1.0.0 |  | Transport agnostic JSON-RPC 2.0 request and response components. |
+| 2026-10-25 13:05:31 | [mischafierz/polyglot-cms](https://www.nuget.org/packages/mischafierz%2Fpolyglot-cms) | v1.0.0 |  | A CMS for websites: Go content API, PHP themes, TypeScript admin panel, SQLite… |
+| 2026-10-25 13:06:48 | [garis-kode/adaptivecard-php](https://www.nuget.org/packages/garis-kode%2Fadaptivecard-php) | v1.0.1 | Garis Kode | Fluent PHP builder that programmatically constructs Adaptive Card (v1.6) JSON a… |
 
 ## Data source
 

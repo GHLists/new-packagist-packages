@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-25T12:34:07Z,marcosmarcolin/ixc-provedor-client,v0.2.0,Marcos Marcolin,PHP client for the IXC Provedor (IXCSoft) webservice API
+2026-10-25T13:00:08Z,scripthoodie/json-rpc,v1.0.0,,Transport agnostic JSON-RPC 2.0 request and response components.
+2026-10-25T13:05:31Z,mischafierz/polyglot-cms,v1.0.0,,"A CMS for websites: Go content API, PHP themes, TypeScript admin panel, SQLite storage."
+2026-10-25T13:06:48Z,garis-kode/adaptivecard-php,v1.0.1,Garis Kode,Fluent PHP builder that programmatically constructs Adaptive Card (v1.6) JSON and validates it against the official schema.
