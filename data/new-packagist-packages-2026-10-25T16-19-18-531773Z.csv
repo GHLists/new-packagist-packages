@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-25T15:23:03Z,crustum/ai-interaction,1.0.0,Evgeny Tomenko,AiInteraction plugin for CakePHP
+2026-10-25T15:27:00Z,crustum/ai-tui,1.0.0,Evgeny Tomenko,AiTui plugin for CakePHP
+2026-10-25T15:39:38Z,opendbs/client,v1.0.1,OpenDBS Team,"Official PHP client for OpenDBS: documents, SQL, aggregation, transactions, cluster failover"
+2026-10-25T15:48:37Z,el-schneider/statamic-greenwashing-checker,v0.1.0,Jonas List,"Checks marketing copy for greenwashing risks under EU rules (EmpCo), with German UWG references."
+2026-10-25T16:15:26Z,ugeek/php-errors,v1.0.0,ugeek,重写PHP错误处理程序，捕获所有PHP运行时错误并支持通过设置日志器将错误日志记录到日志中。

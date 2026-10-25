@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 15:21 UTC
+## Latest list — 2026-10-25 16:19 UTC
 
-New packages created between 2026-10-25 14:20 UTC and 2026-10-25 15:21 UTC.
+New packages created between 2026-10-25 15:21 UTC and 2026-10-25 16:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-25T15-21-00-188669Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-25T16-19-18-531773Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-25 14:23:37 | [near/near-jsonrpc-client-php](https://www.nuget.org/packages/near%2Fnear-jsonrpc-client-php) | v0.1.2 |  | Typed PHP client and OpenAPI generator for NEAR JSON-RPC |
-| 2026-10-25 14:24:29 | [edgarmiralles/laravel-async-subscribers](https://www.nuget.org/packages/edgarmiralles%2Flaravel-async-subscribers) | v0.1.0 |  | Auto-discovered, queued event subscribers for Laravel. |
-| 2026-10-25 14:42:07 | [gisoo/gisoo-php](https://www.nuget.org/packages/gisoo%2Fgisoo-php) | v0.1.0 | Gisoo | Official PHP SDK and Laravel package for the Gisoo AI API (OpenAI-compatible):… |
-| 2026-10-25 14:50:27 | [dockcodes/dockaccess-alt-generator](https://www.nuget.org/packages/dockcodes%2Fdockaccess-alt-generator) | 1.0.0 | Dock | Framework-agnostic PHP client for the dockaccess.org AI alt text generator, wit… |
+| 2026-10-25 15:23:03 | [crustum/ai-interaction](https://www.nuget.org/packages/crustum%2Fai-interaction) | 1.0.0 | Evgeny Tomenko | AiInteraction plugin for CakePHP |
+| 2026-10-25 15:27:00 | [crustum/ai-tui](https://www.nuget.org/packages/crustum%2Fai-tui) | 1.0.0 | Evgeny Tomenko | AiTui plugin for CakePHP |
+| 2026-10-25 15:39:38 | [opendbs/client](https://www.nuget.org/packages/opendbs%2Fclient) | v1.0.1 | OpenDBS Team | Official PHP client for OpenDBS: documents, SQL, aggregation, transactions, clu… |
+| 2026-10-25 15:48:37 | [el-schneider/statamic-greenwashing-checker](https://www.nuget.org/packages/el-schneider%2Fstatamic-greenwashing-checker) | v0.1.0 | Jonas List | Checks marketing copy for greenwashing risks under EU rules (EmpCo), with Germa… |
+| 2026-10-25 16:15:26 | [ugeek/php-errors](https://www.nuget.org/packages/ugeek%2Fphp-errors) | v1.0.0 | ugeek | 重写PHP错误处理程序，捕获所有PHP运行时错误并支持通过设置日志器将错误日志记录到日志中。 |
 
 ## Data source
 
