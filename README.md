@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 19:22 UTC
+## Latest list — 2026-10-25 20:21 UTC
 
-New packages created between 2026-10-25 18:19 UTC and 2026-10-25 19:22 UTC.
+New packages created between 2026-10-25 19:22 UTC and 2026-10-25 20:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-25T19-22-32-961587Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-25T20-21-09-577722Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-25 18:43:55 | [protendai/nativephp-wifi-direct](https://www.nuget.org/packages/protendai%2Fnativephp-wifi-direct) | v1.0.0 | Tendai Karuma | Wi-Fi Direct for NativePHP Mobile: phone-to-phone networking with no router, wi… |
-| 2026-10-25 19:00:06 | [bernskiold/laravel-postmark](https://www.nuget.org/packages/bernskiold%2Flaravel-postmark) | 1.0.0 | Bernskiold; Erik Bernskiöld | Receive Postmark webhooks as typed Laravel events, and recognise Postmark's ina… |
+| 2026-10-25 19:36:24 | [fxri/fxyin](https://www.nuget.org/packages/fxri%2Ffxyin) | v2.0.0 | 唐启云 | 风音框架：可被任意 PHP 框架无缝接入的辅助框架 |
 
 ## Data source
 
