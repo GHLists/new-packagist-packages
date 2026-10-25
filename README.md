@@ -15,21 +15,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 08:21 UTC
+## Latest list — 2026-10-25 09:21 UTC
 
-New packages created between 2026-10-25 07:21 UTC and 2026-10-25 08:21 UTC.
+New packages created between 2026-10-25 08:21 UTC and 2026-10-25 09:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-25T08-21-06-028958Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-25T09-21-32-893095Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-25 07:23:48 | [teamones/tencentcloud-common](https://www.nuget.org/packages/teamones%2Ftencentcloud-common) | 3.0.0 | tencentcloudapi | TencentCloudApi php sdk |
-| 2026-10-25 07:30:14 | [adamczykpiotr/laravel-ultimate-formatter](https://www.nuget.org/packages/adamczykpiotr%2Flaravel-ultimate-formatter) | v1.1.0 | Piotr Adamczyk | Ultimate code formatter for Laravel, taking care of everything |
-| 2026-10-25 07:32:30 | [tacraft-sociality/flarum-onebot-notify](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-onebot-notify) | v1.0.0 | TaCraft-Sociality | Send OneBot (QQ) notifications about new discussions and posts from Flarum |
-| 2026-10-25 07:42:48 | [t-labs-co/command-scheduler](https://www.nuget.org/packages/t-labs-co%2Fcommand-scheduler) | 1.0.0 | Ty Huynh | Code-first command scheduling framework for Laravel — discover schedulable comm… |
-| 2026-10-25 07:46:18 | [rokastudio/racin](https://www.nuget.org/packages/rokastudio%2Fracin) | v1.2.1 | Roka Studio | A small, fast PHP 8.3+ framework for JSON APIs: Rails-style controllers and gen… |
-| 2026-10-25 07:57:24 | [habeuk/symfony-starter](https://www.nuget.org/packages/habeuk%2Fsymfony-starter) | 1.0.1 |  | Starter Symfony 8.1 pour mes projets (API + JWT + Mailer + AI) |
-| 2026-10-25 08:02:39 | [nextmail/sdk](https://www.nuget.org/packages/nextmail%2Fsdk) | v0.0.1 | Nextmail | The official PHP SDK for the Nextmail API. Send email and broadcasts, work with… |
+| 2026-10-25 08:34:10 | [rokastudio/racin](https://www.nuget.org/packages/rokastudio%2Fracin) | v1.2.3 | Roka Studio | A small, fast PHP 8.3+ framework for JSON APIs: Rails-style controllers and gen… |
+| 2026-10-25 08:41:44 | [blackcube/injector](https://www.nuget.org/packages/blackcube%2Finjector) | 1.0.0 | Philippe Gaultier | Static PSR-11 container accessor — get DI everywhere |
+| 2026-10-25 08:45:58 | [astral-php/astral-worker](https://www.nuget.org/packages/astral-php%2Fastral-worker) | 0.1.0 | astral-php | File d'attente et worker pour Astral — mails et PDF en arrière-plan (sync, data… |
+| 2026-10-25 08:46:56 | [blackcube/magic-compose](https://www.nuget.org/packages/blackcube%2Fmagic-compose) | 1.0.0 | Philippe Gaultier | Simple solution for magic methods and method composition using attributes |
+| 2026-10-25 08:48:56 | [blackcube/html](https://www.nuget.org/packages/blackcube%2Fhtml) | 1.0.0 | Philippe Gaultier | Extensible HTML tags for Yii framework |
+| 2026-10-25 08:52:11 | [blackcube/icons](https://www.nuget.org/packages/blackcube%2Ficons) | 1.0.0 | Philippe Gaultier | Icon sets and SVG renderer for Yii framework |
+| 2026-10-25 08:53:53 | [blackcube/assets](https://www.nuget.org/packages/blackcube%2Fassets) | 1.0.0 | Philippe Gaultier | Vite and Webpack asset bundles for Yii with scaffolding command |
+| 2026-10-25 08:57:54 | [pradosoft/prado-activerecord](https://www.nuget.org/packages/pradosoft%2Fprado-activerecord) | 1.0.0 | Wei Zhuo; Fabio Bas; Brad And… | Active Record ORM and Scaffold controls for the PRADO PHP Framework |
+| 2026-10-25 08:57:57 | [blackcube/oauth2](https://www.nuget.org/packages/blackcube%2Foauth2) | 1.0.0 | Philippe Gaultier | OAuth2/JWT toolbox with multi-population support |
+| 2026-10-25 08:59:33 | [blackcube/proxy-middleware](https://www.nuget.org/packages/blackcube%2Fproxy-middleware) | 1.0.0 | Philippe Gaultier | Yiisoft TrustedHostsNetworkResolver fork with CIDR support in withTrustedIps() |
+| 2026-10-25 09:02:04 | [blackcube/handler](https://www.nuget.org/packages/blackcube%2Fhandler) | 1.0.0 | Philippe Gaultier | PSR-15 handler abstractions and pipeline for Yii3 applications |
+| 2026-10-25 09:15:13 | [blackcube/active-record](https://www.nuget.org/packages/blackcube%2Factive-record) | 1.0.0 | Philippe Gaultier | Scoped queries, elastic dynamic attributes, Hazeltree nested sets — a toolkit f… |
 
 ## Data source
 

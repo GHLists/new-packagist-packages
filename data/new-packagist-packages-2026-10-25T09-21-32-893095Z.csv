@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-10-25T08:34:10Z,rokastudio/racin,v1.2.3,Roka Studio,"A small, fast PHP 8.3+ framework for JSON APIs: Rails-style controllers and generators, ActiveRecord-style models, serializers, JWT auth, queues, mail, image uploads and WebSockets."
+2026-10-25T08:41:44Z,blackcube/injector,1.0.0,Philippe Gaultier,Static PSR-11 container accessor — get DI everywhere
+2026-10-25T08:45:58Z,astral-php/astral-worker,0.1.0,astral-php,"File d'attente et worker pour Astral — mails et PDF en arrière-plan (sync, database, Redis)"
+2026-10-25T08:46:56Z,blackcube/magic-compose,1.0.0,Philippe Gaultier,Simple solution for magic methods and method composition using attributes
+2026-10-25T08:48:56Z,blackcube/html,1.0.0,Philippe Gaultier,Extensible HTML tags for Yii framework
+2026-10-25T08:52:11Z,blackcube/icons,1.0.0,Philippe Gaultier,Icon sets and SVG renderer for Yii framework
+2026-10-25T08:53:53Z,blackcube/assets,1.0.0,Philippe Gaultier,Vite and Webpack asset bundles for Yii with scaffolding command
+2026-10-25T08:57:54Z,pradosoft/prado-activerecord,1.0.0,Wei Zhuo; Fabio Bas; Brad Anderson,Active Record ORM and Scaffold controls for the PRADO PHP Framework
+2026-10-25T08:57:57Z,blackcube/oauth2,1.0.0,Philippe Gaultier,OAuth2/JWT toolbox with multi-population support
+2026-10-25T08:59:33Z,blackcube/proxy-middleware,1.0.0,Philippe Gaultier,Yiisoft TrustedHostsNetworkResolver fork with CIDR support in withTrustedIps()
+2026-10-25T09:02:04Z,blackcube/handler,1.0.0,Philippe Gaultier,PSR-15 handler abstractions and pipeline for Yii3 applications
+2026-10-25T09:15:13Z,blackcube/active-record,1.0.0,Philippe Gaultier,"Scoped queries, elastic dynamic attributes, Hazeltree nested sets — a toolkit for ActiveRecord"
