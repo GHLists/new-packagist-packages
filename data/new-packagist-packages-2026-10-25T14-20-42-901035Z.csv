@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-25T13:25:47Z,survos/document-processing,2.43.18,,Typed Files and OCR client for Mistral-compatible document services.
+2026-10-25T13:25:51Z,survos/document-processing-bundle,2.43.18,,Named document-processing clients and credentials for Symfony.
+2026-10-25T13:28:09Z,marcosmarcolin/socket.io-server,v0.2.0,Marcos Marcolin,"Socket.IO v4 server for PHP, built on Workerman"
+2026-10-25T13:45:38Z,renfire/tbp,v1.1.1,Marc Clausell; Bitendian S.L.,Light component-oriented PHP framework for small and medium websites
+2026-10-25T13:48:53Z,machinjiri/advocate,1.0.0,Precious Lyson; Mlangeni Group,Testing Suite for Machinjiri Framework
+2026-10-25T14:01:23Z,lunixi/php-sdk,v0.28.1,Lunixi,"Lunixi payment gateway PHP SDK — framework-agnostic client for payments, webhooks and platform services. Used standalone or bundled (scoped) inside the WordPress/WooCommerce, OpenCart and other integrations."
+2026-10-25T14:02:58Z,tacraft-sociality/flarum-scroll-buttons,1.0.0,TaCraft Sociality,Add scroll up and scroll down buttons.
+2026-10-25T14:14:36Z,lunixi/laravel,v0.1.0,Lunixi,"Laravel integration for the Lunixi PHP SDK — configuration, container bindings, webhook route, checkout form component and payment reconciliation."
+2026-10-25T14:17:04Z,tacraft-sociality/flarum-id-slug,1.0.0,TaCraft-Sociality,Use id as slug in discussion URL.

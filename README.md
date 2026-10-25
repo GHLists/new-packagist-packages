@@ -15,18 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 13:20 UTC
+## Latest list — 2026-10-25 14:20 UTC
 
-New packages created between 2026-10-25 12:21 UTC and 2026-10-25 13:20 UTC.
+New packages created between 2026-10-25 13:20 UTC and 2026-10-25 14:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-25T13-20-15-132484Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-25T14-20-42-901035Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-25 12:34:07 | [marcosmarcolin/ixc-provedor-client](https://www.nuget.org/packages/marcosmarcolin%2Fixc-provedor-client) | v0.2.0 | Marcos Marcolin | PHP client for the IXC Provedor (IXCSoft) webservice API |
-| 2026-10-25 13:00:08 | [scripthoodie/json-rpc](https://www.nuget.org/packages/scripthoodie%2Fjson-rpc) | v1.0.0 |  | Transport agnostic JSON-RPC 2.0 request and response components. |
-| 2026-10-25 13:05:31 | [mischafierz/polyglot-cms](https://www.nuget.org/packages/mischafierz%2Fpolyglot-cms) | v1.0.0 |  | A CMS for websites: Go content API, PHP themes, TypeScript admin panel, SQLite… |
-| 2026-10-25 13:06:48 | [garis-kode/adaptivecard-php](https://www.nuget.org/packages/garis-kode%2Fadaptivecard-php) | v1.0.1 | Garis Kode | Fluent PHP builder that programmatically constructs Adaptive Card (v1.6) JSON a… |
+| 2026-10-25 13:25:47 | [survos/document-processing](https://www.nuget.org/packages/survos%2Fdocument-processing) | 2.43.18 |  | Typed Files and OCR client for Mistral-compatible document services. |
+| 2026-10-25 13:25:51 | [survos/document-processing-bundle](https://www.nuget.org/packages/survos%2Fdocument-processing-bundle) | 2.43.18 |  | Named document-processing clients and credentials for Symfony. |
+| 2026-10-25 13:28:09 | [marcosmarcolin/socket.io-server](https://www.nuget.org/packages/marcosmarcolin%2Fsocket.io-server) | v0.2.0 | Marcos Marcolin | Socket.IO v4 server for PHP, built on Workerman |
+| 2026-10-25 13:45:38 | [renfire/tbp](https://www.nuget.org/packages/renfire%2Ftbp) | v1.1.1 | Marc Clausell; Bitendian S.L. | Light component-oriented PHP framework for small and medium websites |
+| 2026-10-25 13:48:53 | [machinjiri/advocate](https://www.nuget.org/packages/machinjiri%2Fadvocate) | 1.0.0 | Precious Lyson; Mlangeni Group | Testing Suite for Machinjiri Framework |
+| 2026-10-25 14:01:23 | [lunixi/php-sdk](https://www.nuget.org/packages/lunixi%2Fphp-sdk) | v0.28.1 | Lunixi | Lunixi payment gateway PHP SDK — framework-agnostic client for payments, webhoo… |
+| 2026-10-25 14:02:58 | [tacraft-sociality/flarum-scroll-buttons](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-scroll-buttons) | 1.0.0 | TaCraft Sociality | Add scroll up and scroll down buttons. |
+| 2026-10-25 14:14:36 | [lunixi/laravel](https://www.nuget.org/packages/lunixi%2Flaravel) | v0.1.0 | Lunixi | Laravel integration for the Lunixi PHP SDK — configuration, container bindings,… |
+| 2026-10-25 14:17:04 | [tacraft-sociality/flarum-id-slug](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-id-slug) | 1.0.0 | TaCraft-Sociality | Use id as slug in discussion URL. |
 
 ## Data source
 
