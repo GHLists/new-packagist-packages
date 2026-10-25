@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-25T17:23:03Z,sergiynezbritskiy/magento2-translations-checker,1.0.0,,CLI tool to verify that every translatable phrase of a Magento 2 module is present and translated in its i18n dictionaries.
+2026-10-25T17:25:08Z,apiempresas/validar-cif,v1.0.0,APIEmpresas.es,"Valida CIF, DNI y NIE españoles (formato y dígito de control). Sin dependencias."
+2026-10-25T17:42:43Z,bad_cluster/runway-queue-manager,1.0.0,BaD ClusteR,"Background job queue for Runway: the jobs in a database table, one worker at a time, progress and cancellation"
+2026-10-25T17:45:45Z,edgeinfinity/flarum-dice,v0.1.0,EdgeInfinity,"Server-rolled inline dice for Flarum posts, with persistent results and configurable effects."
+2026-10-25T17:55:11Z,teqnomaze/package-installer,1.0.0,,Installs packages of type custom-package into packages/<Name>/
