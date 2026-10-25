@@ -15,26 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 09:21 UTC
+## Latest list — 2026-10-25 10:20 UTC
 
-New packages created between 2026-10-25 08:21 UTC and 2026-10-25 09:21 UTC.
+New packages created between 2026-10-25 09:21 UTC and 2026-10-25 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-25T09-21-32-893095Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-25T10-20-53-581993Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-25 08:34:10 | [rokastudio/racin](https://www.nuget.org/packages/rokastudio%2Fracin) | v1.2.3 | Roka Studio | A small, fast PHP 8.3+ framework for JSON APIs: Rails-style controllers and gen… |
-| 2026-10-25 08:41:44 | [blackcube/injector](https://www.nuget.org/packages/blackcube%2Finjector) | 1.0.0 | Philippe Gaultier | Static PSR-11 container accessor — get DI everywhere |
-| 2026-10-25 08:45:58 | [astral-php/astral-worker](https://www.nuget.org/packages/astral-php%2Fastral-worker) | 0.1.0 | astral-php | File d'attente et worker pour Astral — mails et PDF en arrière-plan (sync, data… |
-| 2026-10-25 08:46:56 | [blackcube/magic-compose](https://www.nuget.org/packages/blackcube%2Fmagic-compose) | 1.0.0 | Philippe Gaultier | Simple solution for magic methods and method composition using attributes |
-| 2026-10-25 08:48:56 | [blackcube/html](https://www.nuget.org/packages/blackcube%2Fhtml) | 1.0.0 | Philippe Gaultier | Extensible HTML tags for Yii framework |
-| 2026-10-25 08:52:11 | [blackcube/icons](https://www.nuget.org/packages/blackcube%2Ficons) | 1.0.0 | Philippe Gaultier | Icon sets and SVG renderer for Yii framework |
-| 2026-10-25 08:53:53 | [blackcube/assets](https://www.nuget.org/packages/blackcube%2Fassets) | 1.0.0 | Philippe Gaultier | Vite and Webpack asset bundles for Yii with scaffolding command |
-| 2026-10-25 08:57:54 | [pradosoft/prado-activerecord](https://www.nuget.org/packages/pradosoft%2Fprado-activerecord) | 1.0.0 | Wei Zhuo; Fabio Bas; Brad And… | Active Record ORM and Scaffold controls for the PRADO PHP Framework |
-| 2026-10-25 08:57:57 | [blackcube/oauth2](https://www.nuget.org/packages/blackcube%2Foauth2) | 1.0.0 | Philippe Gaultier | OAuth2/JWT toolbox with multi-population support |
-| 2026-10-25 08:59:33 | [blackcube/proxy-middleware](https://www.nuget.org/packages/blackcube%2Fproxy-middleware) | 1.0.0 | Philippe Gaultier | Yiisoft TrustedHostsNetworkResolver fork with CIDR support in withTrustedIps() |
-| 2026-10-25 09:02:04 | [blackcube/handler](https://www.nuget.org/packages/blackcube%2Fhandler) | 1.0.0 | Philippe Gaultier | PSR-15 handler abstractions and pipeline for Yii3 applications |
-| 2026-10-25 09:15:13 | [blackcube/active-record](https://www.nuget.org/packages/blackcube%2Factive-record) | 1.0.0 | Philippe Gaultier | Scoped queries, elastic dynamic attributes, Hazeltree nested sets — a toolkit f… |
+| 2026-10-25 09:28:03 | [blackcube/fileprovider](https://www.nuget.org/packages/blackcube%2Ffileprovider) | 1.0.0 | Philippe Gaultier | File provider with prefix routing and image processing |
+| 2026-10-25 09:34:12 | [blackcube/resumable](https://www.nuget.org/packages/blackcube%2Fresumable) | 1.0.0 | Philippe Gaultier | Resumable.js server side for Yii: chunked upload, preview and delete actions on… |
+| 2026-10-25 09:37:24 | [anun333/oe-module-ccbhc-report](https://www.nuget.org/packages/anun333%2Foe-module-ccbhc-report) | v0.1.0 |  | The CCBHC clinic-collected quality measures for OpenEMR: Time to Services, soci… |
+| 2026-10-25 09:40:08 | [jamie-humm/kirby-microlighter](https://www.nuget.org/packages/jamie-humm%2Fkirby-microlighter) | v1.0@beta | Jamie Hunter | Kirby Microlighter: a syntax-highlighted code block for Kirby, powered by Micro… |
+| 2026-10-25 09:48:05 | [gin/env-merger](https://www.nuget.org/packages/gin%2Fenv-merger) | v1.0.0 | Gin | Smart, format-preserving .env merger with interactive conflict resolution and L… |
+| 2026-10-25 09:53:37 | [blackcube/bridge-form-model](https://www.nuget.org/packages/blackcube%2Fbridge-form-model) | 1.0.0 | Philippe Gaultier | Bridged FormModel for Yii framework |
 
 ## Data source
 

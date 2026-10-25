@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-25T09:28:03Z,blackcube/fileprovider,1.0.0,Philippe Gaultier,File provider with prefix routing and image processing
+2026-10-25T09:34:12Z,blackcube/resumable,1.0.0,Philippe Gaultier,"Resumable.js server side for Yii: chunked upload, preview and delete actions on the temporary store of blackcube/fileprovider"
+2026-10-25T09:37:24Z,anun333/oe-module-ccbhc-report,v0.1.0,,"The CCBHC clinic-collected quality measures for OpenEMR: Time to Services, social drivers screening and depression screening, in the shape of SAMHSA's reporting template."
+2026-10-25T09:40:08Z,jamie-humm/kirby-microlighter,v1.0@beta,Jamie Hunter,"Kirby Microlighter: a syntax-highlighted code block for Kirby, powered by MicroLighter and the CSS Custom Highlight API."
+2026-10-25T09:48:05Z,gin/env-merger,v1.0.0,Gin,"Smart, format-preserving .env merger with interactive conflict resolution and Laravel integration"
+2026-10-25T09:53:37Z,blackcube/bridge-form-model,1.0.0,Philippe Gaultier,Bridged FormModel for Yii framework
