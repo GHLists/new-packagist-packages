@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 06:21 UTC
+## Latest list — 2026-10-25 07:21 UTC
 
-New packages created between 2026-10-25 05:20 UTC and 2026-10-25 06:21 UTC.
+New packages created between 2026-10-25 06:21 UTC and 2026-10-25 07:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-25T06-21-18-566159Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-25T07-21-00-747197Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-25 05:30:02 | [exsited/exsited](https://www.nuget.org/packages/exsited%2Fexsited) | v4.0.0 | Ashiq Rahman | PHP SDK for the Exsited v4 REST API. |
-| 2026-10-25 05:32:27 | [atannex/routing](https://www.nuget.org/packages/atannex%2Frouting) | v1.1.0 | Atanga Leke Collins | Attribute routing for Laravel: declare routes on the controllers themselves and… |
-| 2026-10-25 06:00:27 | [skarner2016/rbac](https://www.nuget.org/packages/skarner2016%2Frbac) | v0.1.0 | skarner2016 | Framework-agnostic RBAC for PHP: role-only permissions with menu, route and but… |
+| 2026-10-25 06:35:28 | [atannex/billing](https://www.nuget.org/packages/atannex%2Fbilling) | v1.0.0 | Atanga Leke Collins | Payments for Laravel across Stripe, MTN Mobile Money, Orange Money, PayPal and… |
+| 2026-10-25 06:55:19 | [jsonscraper/instagram-mcp-server](https://www.nuget.org/packages/jsonscraper%2Finstagram-mcp-server) | 0.1.2 |  | Official Instagram Scraper API MCP server for ChatGPT, Codex and MCP clients |
+| 2026-10-25 06:55:32 | [jsonscraper/tiktok-mcp-server](https://www.nuget.org/packages/jsonscraper%2Ftiktok-mcp-server) | 0.1.2 |  | Official TikTok Scraper API MCP server for ChatGPT, Codex and MCP clients |
+| 2026-10-25 06:57:09 | [atannex/share](https://www.nuget.org/packages/atannex%2Fshare) | v1.1.0 | Atanga Leke Collins | Share anything to any platform from Laravel: models, links, text or files to 35… |
 
 ## Data source
 

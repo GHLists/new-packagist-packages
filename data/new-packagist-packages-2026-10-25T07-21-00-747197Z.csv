@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-25T06:35:28Z,atannex/billing,v1.0.0,Atanga Leke Collins,"Payments for Laravel across Stripe, MTN Mobile Money, Orange Money, PayPal and Flutterwave: one fluent API, smart gateway routing by currency and phone operator, a guarded payment state machine, verified webhooks, automatic reconciliation of mobile-money payments, refunds, an audit ledger and a tes…"
+2026-10-25T06:55:19Z,jsonscraper/instagram-mcp-server,0.1.2,,"Official Instagram Scraper API MCP server for ChatGPT, Codex and MCP clients"
+2026-10-25T06:55:32Z,jsonscraper/tiktok-mcp-server,0.1.2,,"Official TikTok Scraper API MCP server for ChatGPT, Codex and MCP clients"
+2026-10-25T06:57:09Z,atannex/share,v1.1.0,Atanga Leke Collins,"Share anything to any platform from Laravel: models, links, text or files to 35+ networks and apps, with correctly encoded intent links, per-platform text limits, signed and counted share redirects, copy/native/QR/embed actions, drop-in Blade buttons and share sheet, Open Graph tags and a link-prev…"
