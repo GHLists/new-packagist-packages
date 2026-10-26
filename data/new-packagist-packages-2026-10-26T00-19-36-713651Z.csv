@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-25T23:45:34Z,crustum/ai-nexus,1.0.0,Evgeny Tomenko,AiNexus plugin for CakePHP
+2026-10-25T23:59:34Z,wilycode/filter,v0.1.0,Simon Piter,Small filter contract for reusable value normalization.
+2026-10-26T00:11:01Z,wilycode/validator,v0.1.0,Simon Piter,"Framework-independent PHP validation contract with reusable validators and structured, nested errors."
+2026-10-26T00:12:39Z,claviron/symfony,v0.1.0,,Symfony HttpKernel adapter for Claviron's persistent PHP application runtime

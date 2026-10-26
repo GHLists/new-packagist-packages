@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 22:20 UTC
+## Latest list — 2026-10-26 00:19 UTC
 
-New packages created between 2026-10-25 21:20 UTC and 2026-10-25 22:20 UTC.
+New packages created between 2026-10-25 23:20 UTC and 2026-10-26 00:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-25T22-20-28-984405Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T00-19-36-713651Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-25 21:24:22 | [psbits/security-tools](https://www.nuget.org/packages/psbits%2Fsecurity-tools) | 0.1.0-alpha | Daniel Ablass | security tools for TYPO3 extensions |
-| 2026-10-25 21:30:28 | [acencyril/fineprint-bundle](https://www.nuget.org/packages/acencyril%2Ffineprint-bundle) | v0.2.0 | Cyril | Legal pages for Symfony sites, assembled from jurisdiction packs (France, EU) a… |
-| 2026-10-25 21:36:00 | [stevelacey/ui-avatars](https://www.nuget.org/packages/stevelacey%2Fui-avatars) | 1.0.0 | Steve Lacey | Deterministic avatar URLs: Gravatar photos with a colorful initials fallback. |
-| 2026-10-25 22:10:22 | [stablevoy/stablevoy-php](https://www.nuget.org/packages/stablevoy%2Fstablevoy-php) | v1.0.0 |  | PHP client for the Stablevoy API: non-custodial USDT and USDC payments, invoice… |
-| 2026-10-25 22:19:13 | [monkeysoftnl/laravel-livewire-shield](https://www.nuget.org/packages/monkeysoftnl%2Flaravel-livewire-shield) | v1.0.0 |  | Turns tampered Livewire payloads into a quiet 403, a log line and a per-address… |
+| 2026-10-25 23:45:34 | [crustum/ai-nexus](https://www.nuget.org/packages/crustum%2Fai-nexus) | 1.0.0 | Evgeny Tomenko | AiNexus plugin for CakePHP |
+| 2026-10-25 23:59:34 | [wilycode/filter](https://www.nuget.org/packages/wilycode%2Ffilter) | v0.1.0 | Simon Piter | Small filter contract for reusable value normalization. |
+| 2026-10-26 00:11:01 | [wilycode/validator](https://www.nuget.org/packages/wilycode%2Fvalidator) | v0.1.0 | Simon Piter | Framework-independent PHP validation contract with reusable validators and stru… |
+| 2026-10-26 00:12:39 | [claviron/symfony](https://www.nuget.org/packages/claviron%2Fsymfony) | v0.1.0 |  | Symfony HttpKernel adapter for Claviron's persistent PHP application runtime |
 
 ## Data source
 
