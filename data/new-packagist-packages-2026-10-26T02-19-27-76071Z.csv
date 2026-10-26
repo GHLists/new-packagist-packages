@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-26T01:41:13Z,billsensei/moodle-report_studentsummary,v0.4.5,billsensei,"A Moodle report that summarises one student's engagement across the site on a single, printable A4 page."
+2026-10-26T02:07:10Z,vitisstudio/nativephp-firestore,v0.1.0,Vitis Studio,"Cloud Firestore and Firebase Authentication for NativePHP Mobile, backed by the native Firebase SDKs on iOS and Android."
