@@ -15,21 +15,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 15:21 UTC
+## Latest list — 2026-10-26 16:20 UTC
 
-New packages created between 2026-10-26 14:20 UTC and 2026-10-26 15:21 UTC.
+New packages created between 2026-10-26 15:21 UTC and 2026-10-26 16:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T15-21-57-426989Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T16-20-43-337127Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 14:39:08 | [alokhindev/ad-hp-updates](https://www.nuget.org/packages/alokhindev%2Fad-hp-updates) | 1.0.0 |  | Updates manager for alokhin.dev products for HivePress. |
-| 2026-10-26 14:41:36 | [dskripchenko/process-engine](https://www.nuget.org/packages/dskripchenko%2Fprocess-engine) | v1.0.0 | Denis Skripchenko | Framework-agnostic engine for long-running processes: hierarchical state machin… |
-| 2026-10-26 14:43:01 | [dskripchenko/laravel-process-engine](https://www.nuget.org/packages/dskripchenko%2Flaravel-process-engine) | v1.0.1 | Denis Skripchenko | Laravel bridge for dskripchenko/process-engine: database store, queue workers,… |
-| 2026-10-26 14:43:43 | [dskripchenko/laravel-admin-process](https://www.nuget.org/packages/dskripchenko%2Flaravel-admin-process) | v1.0.0 | Denis Skripchenko | Process-engine screens for dskripchenko/laravel-admin: instances, live flow dia… |
-| 2026-10-26 14:43:50 | [psbits/frontend-users](https://www.nuget.org/packages/psbits%2Ffrontend-users) | 0.1.0-alpha | Daniel Ablass | a versatile set of tools and objects for dealing with frontend-users |
-| 2026-10-26 14:50:32 | [dwivedianuj9118/laravel-ai-sarvam](https://www.nuget.org/packages/dwivedianuj9118%2Flaravel-ai-sarvam) | v0.1.0 | Anuj Dwivedi | Sarvam AI provider for the Laravel AI SDK: chat, text-to-speech and speech-to-t… |
-| 2026-10-26 15:15:54 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v0.9.0 |  | The skeleton application for the Laravel framework. |
+| 2026-10-26 15:43:26 | [luinuxscl/openrouter](https://www.nuget.org/packages/luinuxscl%2Fopenrouter) | v1.0.0 | Luis Sepulveda | Paquete para integrar el servicio de conexión con OpenRouter |
+| 2026-10-26 15:43:30 | [luinuxscl/ai-posts](https://www.nuget.org/packages/luinuxscl%2Fai-posts) | v1.0.0 | Luis Sepulveda | Laravel package para la creación secuencial de posts para WordPress con estados… |
+| 2026-10-26 15:43:34 | [luinuxscl/seo-content-seeds](https://www.nuget.org/packages/luinuxscl%2Fseo-content-seeds) | v1.1.0 | LuinuxSCL | Paquete Laravel para obtener ideas para la creación de contenido SEO desde dive… |
+| 2026-10-26 15:43:34 | [luinuxscl/seo-contents-seeds](https://www.nuget.org/packages/luinuxscl%2Fseo-contents-seeds) | v1.1.0 | LuinuxSCL | Paquete Laravel para obtener ideas para la creación de contenido SEO desde dive… |
+| 2026-10-26 15:43:39 | [luinuxscl/post-pilot](https://www.nuget.org/packages/luinuxscl%2Fpost-pilot) | v1.0.0 | Luis Sepulveda | Automatiza la creación de contenido con agentes escritores inteligentes en Lara… |
+| 2026-10-26 15:43:43 | [luinuxscl/laravel-api-key-manager](https://www.nuget.org/packages/luinuxscl%2Flaravel-api-key-manager) | v1.0.0 |  | Package para gestionar API Keys de servicios externos en Laravel. |
+| 2026-10-26 15:43:47 | [luinuxscl/laravel-jetstream-translate](https://www.nuget.org/packages/luinuxscl%2Flaravel-jetstream-translate) | v1.1.0 | Luis Sepúlveda | Paquete de traduccion de eng/esp LikePlatform. |
+| 2026-10-26 15:43:51 | [luinuxscl/wordpress-laravel-integration](https://www.nuget.org/packages/luinuxscl%2Fwordpress-laravel-integration) | v1.0.0 | Luis Sepulveda | Package para integrar WordPress con Laravel |
+| 2026-10-26 15:52:11 | [phpstats/juphyter](https://www.nuget.org/packages/phpstats%2Fjuphyter) | v0.1.0 | Erik Westlund | A Jupyter and Quarto kernel for PHP, built for statistical work with the phpsta… |
+| 2026-10-26 15:56:02 | [n1co/epay](https://www.nuget.org/packages/n1co%2Fepay) | v0.1.0 | n1co | Server-side SDK for the n1co ePay API (PHP). |
+| 2026-10-26 16:12:58 | [usman-ahmed/crud-engine](https://www.nuget.org/packages/usman-ahmed%2Fcrud-engine) | v1.0.0 | Usman Ahmed | Generic CRUD services, file lifecycle management, nested relation synchronizati… |
 
 ## Data source
 

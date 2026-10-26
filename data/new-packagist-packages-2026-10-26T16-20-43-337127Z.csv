@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-10-26T15:43:26Z,luinuxscl/openrouter,v1.0.0,Luis Sepulveda,Paquete para integrar el servicio de conexión con OpenRouter
+2026-10-26T15:43:30Z,luinuxscl/ai-posts,v1.0.0,Luis Sepulveda,Laravel package para la creación secuencial de posts para WordPress con estados definidos
+2026-10-26T15:43:34Z,luinuxscl/seo-content-seeds,v1.1.0,LuinuxSCL,Paquete Laravel para obtener ideas para la creación de contenido SEO desde diversas fuentes externas
+2026-10-26T15:43:34Z,luinuxscl/seo-contents-seeds,v1.1.0,LuinuxSCL,Paquete Laravel para obtener ideas para la creación de contenido SEO desde diversas fuentes externas
+2026-10-26T15:43:39Z,luinuxscl/post-pilot,v1.0.0,Luis Sepulveda,Automatiza la creación de contenido con agentes escritores inteligentes en Laravel.
+2026-10-26T15:43:43Z,luinuxscl/laravel-api-key-manager,v1.0.0,,Package para gestionar API Keys de servicios externos en Laravel.
+2026-10-26T15:43:47Z,luinuxscl/laravel-jetstream-translate,v1.1.0,Luis Sepúlveda,Paquete de traduccion de eng/esp LikePlatform.
+2026-10-26T15:43:51Z,luinuxscl/wordpress-laravel-integration,v1.0.0,Luis Sepulveda,Package para integrar WordPress con Laravel
+2026-10-26T15:52:11Z,phpstats/juphyter,v0.1.0,Erik Westlund,"A Jupyter and Quarto kernel for PHP, built for statistical work with the phpstats packages"
+2026-10-26T15:56:02Z,n1co/epay,v0.1.0,n1co,Server-side SDK for the n1co ePay API (PHP).
+2026-10-26T16:12:58Z,usman-ahmed/crud-engine,v1.0.0,Usman Ahmed,"Generic CRUD services, file lifecycle management, nested relation synchronization, a statistics engine, and Laravel macros — extracted into a reusable, testable, framework-friendly package."
