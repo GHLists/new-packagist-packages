@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-26T00:35:54Z,wilycode/validators,v0.1.0,Simon Piter,Ready-to-use validators built on the wilycode/validator contract.
+2026-10-26T00:40:25Z,ernestdefoe/insert-coin,1.0.1,Ernest Defoe,"Insert Coin — an arcade for Flarum. HTML5 games in a sandboxed cabinet, signed play sessions, leaderboards for all time, this month and this week, champions with crowns, dethroned alerts, a Hall of Fame and seven original starter games."
+2026-10-26T00:55:47Z,amo1943/dm-db,v1.0.0,amo,"ThinkPHP ORM driver for DM(达梦),KingDatabase(金仓)。基于 bingher/db fork，适配未安装 Oracle 兼容字典视图的 DM8 发行版（使用 SYSOBJECTS/SYSCOLUMNS 原生字典）"
+2026-10-26T01:06:22Z,privatus/flarum-privatus-analytics,v1.0.0,Two Phase LLC,"Adds the cookieless Privatus Analytics tracking script to your Flarum forum, with a settings page for your site id."
+2026-10-26T01:07:15Z,teamones/think-validate,3.0.0,liu21st,Teamones think-validate fork with strict integer validation and PHP 8.5 regression coverage

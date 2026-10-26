@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 00:19 UTC
+## Latest list — 2026-10-26 01:21 UTC
 
-New packages created between 2026-10-25 23:20 UTC and 2026-10-26 00:19 UTC.
+New packages created between 2026-10-26 00:19 UTC and 2026-10-26 01:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T00-19-36-713651Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T01-21-21-356994Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-25 23:45:34 | [crustum/ai-nexus](https://www.nuget.org/packages/crustum%2Fai-nexus) | 1.0.0 | Evgeny Tomenko | AiNexus plugin for CakePHP |
-| 2026-10-25 23:59:34 | [wilycode/filter](https://www.nuget.org/packages/wilycode%2Ffilter) | v0.1.0 | Simon Piter | Small filter contract for reusable value normalization. |
-| 2026-10-26 00:11:01 | [wilycode/validator](https://www.nuget.org/packages/wilycode%2Fvalidator) | v0.1.0 | Simon Piter | Framework-independent PHP validation contract with reusable validators and stru… |
-| 2026-10-26 00:12:39 | [claviron/symfony](https://www.nuget.org/packages/claviron%2Fsymfony) | v0.1.0 |  | Symfony HttpKernel adapter for Claviron's persistent PHP application runtime |
+| 2026-10-26 00:35:54 | [wilycode/validators](https://www.nuget.org/packages/wilycode%2Fvalidators) | v0.1.0 | Simon Piter | Ready-to-use validators built on the wilycode/validator contract. |
+| 2026-10-26 00:40:25 | [ernestdefoe/insert-coin](https://www.nuget.org/packages/ernestdefoe%2Finsert-coin) | 1.0.1 | Ernest Defoe | Insert Coin — an arcade for Flarum. HTML5 games in a sandboxed cabinet, signed… |
+| 2026-10-26 00:55:47 | [amo1943/dm-db](https://www.nuget.org/packages/amo1943%2Fdm-db) | v1.0.0 | amo | ThinkPHP ORM driver for DM(达梦),KingDatabase(金仓)。基于 bingher/db fork，适配未安装 Oracle… |
+| 2026-10-26 01:06:22 | [privatus/flarum-privatus-analytics](https://www.nuget.org/packages/privatus%2Fflarum-privatus-analytics) | v1.0.0 | Two Phase LLC | Adds the cookieless Privatus Analytics tracking script to your Flarum forum, wi… |
+| 2026-10-26 01:07:15 | [teamones/think-validate](https://www.nuget.org/packages/teamones%2Fthink-validate) | 3.0.0 | liu21st | Teamones think-validate fork with strict integer validation and PHP 8.5 regress… |
 
 ## Data source
 
