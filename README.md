@@ -15,19 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 17:22 UTC
+## Latest list — 2026-10-26 18:19 UTC
 
-New packages created between 2026-10-26 16:20 UTC and 2026-10-26 17:22 UTC.
+New packages created between 2026-10-26 17:22 UTC and 2026-10-26 18:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T17-22-18-694697Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T18-19-28-545134Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 16:23:03 | [usman-ahmed/laravel-import-export](https://www.nuget.org/packages/usman-ahmed%2Flaravel-import-export) | v1.0.0 | Usman Ahmed | Enterprise-grade metadata-driven Laravel imports, exports, and spreadsheet temp… |
-| 2026-10-26 16:25:39 | [valtzu/symfony-websocket-client](https://www.nuget.org/packages/valtzu%2Fsymfony-websocket-client) | 0.1.1 |  | WebSocket client implementing Symfony HttpClientInterface |
-| 2026-10-26 16:49:07 | [bbwdadfg/aimetadatacleaner-url-tools](https://www.nuget.org/packages/bbwdadfg%2Faimetadatacleaner-url-tools) | v0.1.0 |  | Offline URL builder for AI Metadata Cleaner image, video, and PDF metadata page… |
-| 2026-10-26 16:57:31 | [ggoitea/laravel-argidreader](https://www.nuget.org/packages/ggoitea%2Flaravel-argidreader) | v1.0.0 |  | Laravel package to read Argentine DNI cards from front/back images or PDFs usin… |
-| 2026-10-26 17:14:20 | [nyumbani/ui](https://www.nuget.org/packages/nyumbani%2Fui) | v1.0.0 | Alvin Kaburu | The Nyumbani look: layouts, sign-in pages, error pages, components, scripts and… |
+| 2026-10-26 17:30:47 | [gatienorti/current](https://www.nuget.org/packages/gatienorti%2Fcurrent) | v0.1.0-beta.1 |  | Current: job investigation and execution history for Laravel Horizon. |
 
 ## Data source
 
