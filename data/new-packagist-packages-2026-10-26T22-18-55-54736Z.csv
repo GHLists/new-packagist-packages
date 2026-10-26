@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-26T21:23:38Z,wilycode/form,v0.1.0,Simon Piter,"Typed form fields, fieldsets and collections using independent filter/validator contracts."
+2026-10-26T21:33:23Z,fast-forward/code-standards,v0.1.0,Felipe Sayão Lobato Abreu,"Focused PHP style presets, syntax checks and changed-file automation."
+2026-10-26T21:37:56Z,tryhackx/flarum-homepage-blocks,2.11.0,TryHackX,"Customizable homepage blocks for tracker-style Flarum forums featuring dual statistics (internal & OpenTracker), advanced filters, and rate-limiting protection."
+2026-10-26T21:38:11Z,samuelezoncada/monad,v0.1.2,Samuele Zoncada,A single-file PHP micro-framework.
+2026-10-26T21:43:15Z,wilycode/form-image-upload,v0.1.0,Simon Piter,Optional image upload metadata fieldset for WilyCode Form.
+2026-10-26T21:45:25Z,bugdeployer/horus-sdk,v0.4.0-beta.1,bugdeployer,Bounded opt-in runtime capture for Horus
+2026-10-26T22:03:17Z,wilycode/jwt-token,v0.1.0,Simon Piter,"Minimal, strict HS256 JWT issuing and verification for PHP 8.4+"
+2026-10-26T22:09:01Z,data-health/data-health,v0.1.0,Jascha Gerles,Check for inconsistencies in your data and fix them

@@ -15,21 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 21:21 UTC
+## Latest list — 2026-10-26 22:18 UTC
 
-New packages created between 2026-10-26 20:22 UTC and 2026-10-26 21:21 UTC.
+New packages created between 2026-10-26 21:21 UTC and 2026-10-26 22:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T21-21-07-075003Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T22-18-55-54736Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 20:26:07 | [iswilson/canadapost-api](https://www.nuget.org/packages/iswilson%2Fcanadapost-api) | v0.3.0 | Ian Wilson; Jace Bennest | Unofficial PHP library for communicating with Canada Post APIs. |
-| 2026-10-26 20:32:38 | [tryhackx/flarum-homepage-blocks](https://www.nuget.org/packages/tryhackx%2Fflarum-homepage-blocks) | 2.10.0 | TryHackX | Customizable homepage blocks for tracker-style Flarum forums featuring dual sta… |
-| 2026-10-26 20:52:55 | [wilycode/recaptcha-validator](https://www.nuget.org/packages/wilycode%2Frecaptcha-validator) | v0.1.0 | Simon Piter | Google reCAPTCHA v3 verification and a reusable WilyCode validator. |
-| 2026-10-26 20:54:04 | [watchdiff-labs/watchdiff-laravel](https://www.nuget.org/packages/watchdiff-labs%2Fwatchdiff-laravel) | v0.1.0 |  | Laravel service provider for watchdiff-core - web change monitoring with Artisa… |
-| 2026-10-26 20:59:37 | [lucacermenati/common-traits](https://www.nuget.org/packages/lucacermenati%2Fcommon-traits) | v0.1.1 | Luca Cermenati | Reusable traits and interfaces for Laravel applications. |
-| 2026-10-26 21:03:11 | [lucacermenati/nova-global-filters](https://www.nuget.org/packages/lucacermenati%2Fnova-global-filters) | v1.0.0 | Luca Cermenati | Session-backed global filters for Laravel Nova 5 dashboards: define filters in… |
-| 2026-10-26 21:06:49 | [steddle/vcrs](https://www.nuget.org/packages/steddle%2Fvcrs) | v0.1.0-beta.4 |  | The Verified Claimant Register Standard: the text, the annexes, the schemas, th… |
+| 2026-10-26 21:23:38 | [wilycode/form](https://www.nuget.org/packages/wilycode%2Fform) | v0.1.0 | Simon Piter | Typed form fields, fieldsets and collections using independent filter/validator… |
+| 2026-10-26 21:33:23 | [fast-forward/code-standards](https://www.nuget.org/packages/fast-forward%2Fcode-standards) | v0.1.0 | Felipe Sayão Lobato Abreu | Focused PHP style presets, syntax checks and changed-file automation. |
+| 2026-10-26 21:37:56 | [tryhackx/flarum-homepage-blocks](https://www.nuget.org/packages/tryhackx%2Fflarum-homepage-blocks) | 2.11.0 | TryHackX | Customizable homepage blocks for tracker-style Flarum forums featuring dual sta… |
+| 2026-10-26 21:38:11 | [samuelezoncada/monad](https://www.nuget.org/packages/samuelezoncada%2Fmonad) | v0.1.2 | Samuele Zoncada | A single-file PHP micro-framework. |
+| 2026-10-26 21:43:15 | [wilycode/form-image-upload](https://www.nuget.org/packages/wilycode%2Fform-image-upload) | v0.1.0 | Simon Piter | Optional image upload metadata fieldset for WilyCode Form. |
+| 2026-10-26 21:45:25 | [bugdeployer/horus-sdk](https://www.nuget.org/packages/bugdeployer%2Fhorus-sdk) | v0.4.0-beta.1 | bugdeployer | Bounded opt-in runtime capture for Horus |
+| 2026-10-26 22:03:17 | [wilycode/jwt-token](https://www.nuget.org/packages/wilycode%2Fjwt-token) | v0.1.0 | Simon Piter | Minimal, strict HS256 JWT issuing and verification for PHP 8.4+ |
+| 2026-10-26 22:09:01 | [data-health/data-health](https://www.nuget.org/packages/data-health%2Fdata-health) | v0.1.0 | Jascha Gerles | Check for inconsistencies in your data and fix them |
 
 ## Data source
 
