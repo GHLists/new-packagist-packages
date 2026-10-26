@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 18:19 UTC
+## Latest list — 2026-10-26 19:19 UTC
 
-New packages created between 2026-10-26 17:22 UTC and 2026-10-26 18:19 UTC.
+New packages created between 2026-10-26 18:19 UTC and 2026-10-26 19:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T18-19-28-545134Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T19-19-19-572548Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 17:30:47 | [gatienorti/current](https://www.nuget.org/packages/gatienorti%2Fcurrent) | v0.1.0-beta.1 |  | Current: job investigation and execution history for Laravel Horizon. |
+| 2026-10-26 18:24:29 | [ngoni/dischub-php](https://www.nuget.org/packages/ngoni%2Fdischub-php) | v1.0.0 | Ngonidzashe Sendama | A Laravel package for integrating with the Dischub payments API |
+| 2026-10-26 18:29:56 | [noldors/phpcsfixer-rules](https://www.nuget.org/packages/noldors%2Fphpcsfixer-rules) | v0.0.1 |  | Shared PHP-CS-Fixer preset and multiline layout rules. |
+| 2026-10-26 18:32:09 | [juniwalk/security](https://www.nuget.org/packages/juniwalk%2Fsecurity) | v0.1.1 | Martin Procházka | Extended security tools for Nette, starting with flexible ACL. |
 
 ## Data source
 
