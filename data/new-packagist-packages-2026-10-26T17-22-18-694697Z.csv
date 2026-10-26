@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-26T16:23:03Z,usman-ahmed/laravel-import-export,v1.0.0,Usman Ahmed,"Enterprise-grade metadata-driven Laravel imports, exports, and spreadsheet templates."
+2026-10-26T16:25:39Z,valtzu/symfony-websocket-client,0.1.1,,WebSocket client implementing Symfony HttpClientInterface
+2026-10-26T16:49:07Z,bbwdadfg/aimetadatacleaner-url-tools,v0.1.0,,"Offline URL builder for AI Metadata Cleaner image, video, and PDF metadata pages. Not an official SDK."
+2026-10-26T16:57:31Z,ggoitea/laravel-argidreader,v1.0.0,,"Laravel package to read Argentine DNI cards from front/back images or PDFs using PDF417/QR barcodes, TD1 MRZ OCR and address extraction."
+2026-10-26T17:14:20Z,nyumbani/ui,v1.0.0,Alvin Kaburu,"The Nyumbani look: layouts, sign-in pages, error pages, components, scripts and branding for apps built on nyumbani/essentials."
