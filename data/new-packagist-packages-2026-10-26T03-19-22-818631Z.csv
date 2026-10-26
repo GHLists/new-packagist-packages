@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-26T02:19:56Z,laraditz/courier-spx-express,v1.0.0,Raditz Farhan,SPX Express Malaysia driver for laraditz/courier.
+2026-10-26T02:25:15Z,atannex/intermidiate,v1.0.0,Atanga Leke Collins,"Type-safe Presenters for Laravel: move data shaping, collection slicing, calendars, numbering, pagination and active states out of Blade and into small PHP classes, so views only hold markup."

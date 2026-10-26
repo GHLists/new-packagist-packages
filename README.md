@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 02:19 UTC
+## Latest list — 2026-10-26 03:19 UTC
 
-New packages created between 2026-10-26 01:21 UTC and 2026-10-26 02:19 UTC.
+New packages created between 2026-10-26 02:19 UTC and 2026-10-26 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T02-19-27-76071Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T03-19-22-818631Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 01:41:13 | [billsensei/moodle-report_studentsummary](https://www.nuget.org/packages/billsensei%2Fmoodle-report_studentsummary) | v0.4.5 | billsensei | A Moodle report that summarises one student's engagement across the site on a s… |
-| 2026-10-26 02:07:10 | [vitisstudio/nativephp-firestore](https://www.nuget.org/packages/vitisstudio%2Fnativephp-firestore) | v0.1.0 | Vitis Studio | Cloud Firestore and Firebase Authentication for NativePHP Mobile, backed by the… |
+| 2026-10-26 02:19:56 | [laraditz/courier-spx-express](https://www.nuget.org/packages/laraditz%2Fcourier-spx-express) | v1.0.0 | Raditz Farhan | SPX Express Malaysia driver for laraditz/courier. |
+| 2026-10-26 02:25:15 | [atannex/intermidiate](https://www.nuget.org/packages/atannex%2Fintermidiate) | v1.0.0 | Atanga Leke Collins | Type-safe Presenters for Laravel: move data shaping, collection slicing, calend… |
 
 ## Data source
 
