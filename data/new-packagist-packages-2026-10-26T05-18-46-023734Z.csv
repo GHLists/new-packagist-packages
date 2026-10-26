@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-26T04:34:49Z,siberfx/google-indexing,1.0.1,Selim Görmüş,"Notify Google (Indexing API + Search Console sitemaps) and IndexNow search engines (Bing, Yandex, Naver, Seznam, Yep) about new, updated and deleted URLs. Reads your sitemap.xml, auto-hooks into Eloquent models, queues everything."
+2026-10-26T04:59:58Z,rafiquljakir/fynoverify,v0.1.0,Rafiqul Jakir,"Laravel-first API and authorization regression-testing companion: inventories routes, audits declared test evidence, and recommends verification scenarios."
+2026-10-26T05:01:52Z,happyqu/laravel-admin,v2.0.0,,"Laravel Admin with customized frontend, global navigation and iframe tabs"

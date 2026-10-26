@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 03:19 UTC
+## Latest list — 2026-10-26 05:18 UTC
 
-New packages created between 2026-10-26 02:19 UTC and 2026-10-26 03:19 UTC.
+New packages created between 2026-10-26 04:19 UTC and 2026-10-26 05:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T03-19-22-818631Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T05-18-46-023734Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 02:19:56 | [laraditz/courier-spx-express](https://www.nuget.org/packages/laraditz%2Fcourier-spx-express) | v1.0.0 | Raditz Farhan | SPX Express Malaysia driver for laraditz/courier. |
-| 2026-10-26 02:25:15 | [atannex/intermidiate](https://www.nuget.org/packages/atannex%2Fintermidiate) | v1.0.0 | Atanga Leke Collins | Type-safe Presenters for Laravel: move data shaping, collection slicing, calend… |
+| 2026-10-26 04:34:49 | [siberfx/google-indexing](https://www.nuget.org/packages/siberfx%2Fgoogle-indexing) | 1.0.1 | Selim Görmüş | Notify Google (Indexing API + Search Console sitemaps) and IndexNow search engi… |
+| 2026-10-26 04:59:58 | [rafiquljakir/fynoverify](https://www.nuget.org/packages/rafiquljakir%2Ffynoverify) | v0.1.0 | Rafiqul Jakir | Laravel-first API and authorization regression-testing companion: inventories r… |
+| 2026-10-26 05:01:52 | [happyqu/laravel-admin](https://www.nuget.org/packages/happyqu%2Flaravel-admin) | v2.0.0 |  | Laravel Admin with customized frontend, global navigation and iframe tabs |
 
 ## Data source
 
