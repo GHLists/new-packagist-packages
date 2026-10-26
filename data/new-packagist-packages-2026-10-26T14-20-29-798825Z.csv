@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-26T13:31:05Z,freemagento/module-base,v1.0.0,FreeMagento (Mentalworkz Ltd),"FreeMagento Base - shared foundation for FreeMagento extensions: installed-module registry, update notifications and the FreeMagento admin page. Required by every FreeMagento package."
+2026-10-26T13:31:26Z,freemagento/module-customer-two-factor,v1.0.0,FreeMagento (Mentalworkz Ltd),"Email one-time-code two-factor authentication for Magento 2 storefront customer accounts, with trusted devices. Hyvä-native (Alpine.js + Tailwind)."
+2026-10-26T13:35:55Z,back-to-code/peil-laravel,v0.1.0,,Laravel integration for Peil: a queue canary and a pingPeil schedule macro.
+2026-10-26T13:42:17Z,awl/supreme-sniffle,1.0.0,Andrew Longosz,Mock package to test Packagist integration
+2026-10-26T13:50:41Z,ivanvasechko/oukitel-php-sdk,v0.3.0,Ivan Vasechko,Unofficial framework-agnostic Oukitel power-station SDK with typed telemetry and portable PSR integrations.
+2026-10-26T14:03:07Z,symfony/ai-doctrine-store,v1.0.0-BETA1,Christopher Hertel; Symfony Community,"Doctrine ORM bridge for Symfony AI, embedding entities on their own table or mirroring them into any store"
+2026-10-26T14:05:49Z,mjoris/router,v2.0.0,Joris Maervoet; Bram(us) Van Damme,"A lightweight and simple object oriented PHP router, small enough to read and understand. A modernised PHP 8 fork of bramus/router."
