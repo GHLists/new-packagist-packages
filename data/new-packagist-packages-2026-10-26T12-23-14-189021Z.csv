@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-26T11:24:51Z,agilepixel/alls-well-php,v1.0.1,Agile Pixel,"Connects a PHP application to All's Well as a site: reports versions, packages and security checks."
+2026-10-26T11:34:39Z,pollora/harness,v0.1.0,Amphibee,"Quality, testing, security and performance harness shared by every Pollora repository"
+2026-10-26T11:55:44Z,lucacermenati/simple-csv-import,v0.1.0,Luca Cermenati,"Validate a CSV upload in the request, import it in chunks on the queue, and record every upload as a report. An import is a description of its file and table."
+2026-10-26T12:08:14Z,dondodano/laravel-avatars,v1.0.0,,Self-hosted initials avatar generator (SVG/PNG) with a ui-avatars.com compatible endpoint for Laravel.

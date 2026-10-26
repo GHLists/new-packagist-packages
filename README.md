@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 11:21 UTC
+## Latest list — 2026-10-26 12:23 UTC
 
-New packages created between 2026-10-26 10:20 UTC and 2026-10-26 11:21 UTC.
+New packages created between 2026-10-26 11:21 UTC and 2026-10-26 12:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T11-21-40-088376Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T12-23-14-189021Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 10:23:30 | [vitamin2/filament-theme](https://www.nuget.org/packages/vitamin2%2Ffilament-theme) | v1.0.0 |  | Shared Filament brand theme for vitamin2 apps |
-| 2026-10-26 10:32:18 | [smspva/sdk](https://www.nuget.org/packages/smspva%2Fsdk) | v0.1.0-alpha.1 | SMSPVA | Official PHP SDK for SMSPVA SMS activation, phone number rental and private ema… |
-| 2026-10-26 10:33:34 | [rasuvaeff/yii3-idempotency-redis](https://www.nuget.org/packages/rasuvaeff%2Fyii3-idempotency-redis) | v1.0.0 | Victor Razuvaev | Redis-backed idempotency storage for Yii3 APIs |
-| 2026-10-26 10:35:32 | [markdoel/laravel-log-insight](https://www.nuget.org/packages/markdoel%2Flaravel-log-insight) | v1.0.0 | Markus Doell | Parse Laravel logs, cluster recurring errors and get AI-powered root cause anal… |
-| 2026-10-26 11:01:10 | [vender-demo/first-project](https://www.nuget.org/packages/vender-demo%2Ffirst-project) | 1.5.0 |  | First Profile demo |
+| 2026-10-26 11:24:51 | [agilepixel/alls-well-php](https://www.nuget.org/packages/agilepixel%2Falls-well-php) | v1.0.1 | Agile Pixel | Connects a PHP application to All's Well as a site: reports versions, packages… |
+| 2026-10-26 11:34:39 | [pollora/harness](https://www.nuget.org/packages/pollora%2Fharness) | v0.1.0 | Amphibee | Quality, testing, security and performance harness shared by every Pollora repo… |
+| 2026-10-26 11:55:44 | [lucacermenati/simple-csv-import](https://www.nuget.org/packages/lucacermenati%2Fsimple-csv-import) | v0.1.0 | Luca Cermenati | Validate a CSV upload in the request, import it in chunks on the queue, and rec… |
+| 2026-10-26 12:08:14 | [dondodano/laravel-avatars](https://www.nuget.org/packages/dondodano%2Flaravel-avatars) | v1.0.0 |  | Self-hosted initials avatar generator (SVG/PNG) with a ui-avatars.com compatibl… |
 
 ## Data source
 
