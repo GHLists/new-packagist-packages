@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-26T14:39:08Z,alokhindev/ad-hp-updates,1.0.0,,Updates manager for alokhin.dev products for HivePress.
+2026-10-26T14:41:36Z,dskripchenko/process-engine,v1.0.0,Denis Skripchenko,"Framework-agnostic engine for long-running processes: hierarchical state machines with context, durable execution across days and weeks, external events and timers, explicit retry semantics for every side effect, versioned definitions, a journal and manual operations."
+2026-10-26T14:43:01Z,dskripchenko/laravel-process-engine,v1.0.1,Denis Skripchenko,"Laravel bridge for dskripchenko/process-engine: database store, queue workers, scheduler, artisan commands, a Processes facade, Eloquent model binding and state projection."
+2026-10-26T14:43:43Z,dskripchenko/laravel-admin-process,v1.0.0,Denis Skripchenko,"Process-engine screens for dskripchenko/laravel-admin: instances, live flow diagram, journal, incidents and operator actions."
+2026-10-26T14:43:50Z,psbits/frontend-users,0.1.0-alpha,Daniel Ablass,a versatile set of tools and objects for dealing with frontend-users
+2026-10-26T14:50:32Z,dwivedianuj9118/laravel-ai-sarvam,v0.1.0,Anuj Dwivedi,"Sarvam AI provider for the Laravel AI SDK: chat, text-to-speech and speech-to-text in Indian languages."
+2026-10-26T15:15:54Z,nubos/starterkit,v0.9.0,,The skeleton application for the Laravel framework.

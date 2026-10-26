@@ -15,21 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 14:20 UTC
+## Latest list — 2026-10-26 15:21 UTC
 
-New packages created between 2026-10-26 13:21 UTC and 2026-10-26 14:20 UTC.
+New packages created between 2026-10-26 14:20 UTC and 2026-10-26 15:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T14-20-29-798825Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T15-21-57-426989Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 13:31:05 | [freemagento/module-base](https://www.nuget.org/packages/freemagento%2Fmodule-base) | v1.0.0 | FreeMagento (Mentalworkz Ltd) | FreeMagento Base - shared foundation for FreeMagento extensions: installed-modu… |
-| 2026-10-26 13:31:26 | [freemagento/module-customer-two-factor](https://www.nuget.org/packages/freemagento%2Fmodule-customer-two-factor) | v1.0.0 | FreeMagento (Mentalworkz Ltd) | Email one-time-code two-factor authentication for Magento 2 storefront customer… |
-| 2026-10-26 13:35:55 | [back-to-code/peil-laravel](https://www.nuget.org/packages/back-to-code%2Fpeil-laravel) | v0.1.0 |  | Laravel integration for Peil: a queue canary and a pingPeil schedule macro. |
-| 2026-10-26 13:42:17 | [awl/supreme-sniffle](https://www.nuget.org/packages/awl%2Fsupreme-sniffle) | 1.0.0 | Andrew Longosz | Mock package to test Packagist integration |
-| 2026-10-26 13:50:41 | [ivanvasechko/oukitel-php-sdk](https://www.nuget.org/packages/ivanvasechko%2Foukitel-php-sdk) | v0.3.0 | Ivan Vasechko | Unofficial framework-agnostic Oukitel power-station SDK with typed telemetry an… |
-| 2026-10-26 14:03:07 | [symfony/ai-doctrine-store](https://www.nuget.org/packages/symfony%2Fai-doctrine-store) | v1.0.0-BETA1 | Christopher Hertel; Symfony C… | Doctrine ORM bridge for Symfony AI, embedding entities on their own table or mi… |
-| 2026-10-26 14:05:49 | [mjoris/router](https://www.nuget.org/packages/mjoris%2Frouter) | v2.0.0 | Joris Maervoet; Bram(us) Van… | A lightweight and simple object oriented PHP router, small enough to read and u… |
+| 2026-10-26 14:39:08 | [alokhindev/ad-hp-updates](https://www.nuget.org/packages/alokhindev%2Fad-hp-updates) | 1.0.0 |  | Updates manager for alokhin.dev products for HivePress. |
+| 2026-10-26 14:41:36 | [dskripchenko/process-engine](https://www.nuget.org/packages/dskripchenko%2Fprocess-engine) | v1.0.0 | Denis Skripchenko | Framework-agnostic engine for long-running processes: hierarchical state machin… |
+| 2026-10-26 14:43:01 | [dskripchenko/laravel-process-engine](https://www.nuget.org/packages/dskripchenko%2Flaravel-process-engine) | v1.0.1 | Denis Skripchenko | Laravel bridge for dskripchenko/process-engine: database store, queue workers,… |
+| 2026-10-26 14:43:43 | [dskripchenko/laravel-admin-process](https://www.nuget.org/packages/dskripchenko%2Flaravel-admin-process) | v1.0.0 | Denis Skripchenko | Process-engine screens for dskripchenko/laravel-admin: instances, live flow dia… |
+| 2026-10-26 14:43:50 | [psbits/frontend-users](https://www.nuget.org/packages/psbits%2Ffrontend-users) | 0.1.0-alpha | Daniel Ablass | a versatile set of tools and objects for dealing with frontend-users |
+| 2026-10-26 14:50:32 | [dwivedianuj9118/laravel-ai-sarvam](https://www.nuget.org/packages/dwivedianuj9118%2Flaravel-ai-sarvam) | v0.1.0 | Anuj Dwivedi | Sarvam AI provider for the Laravel AI SDK: chat, text-to-speech and speech-to-t… |
+| 2026-10-26 15:15:54 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v0.9.0 |  | The skeleton application for the Laravel framework. |
 
 ## Data source
 
