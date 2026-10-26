@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 08:21 UTC
+## Latest list — 2026-10-26 09:21 UTC
 
-New packages created between 2026-10-26 07:20 UTC and 2026-10-26 08:21 UTC.
+New packages created between 2026-10-26 08:21 UTC and 2026-10-26 09:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T08-21-18-965888Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T09-21-01-826964Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 07:32:47 | [klockwork/klockwork](https://www.nuget.org/packages/klockwork%2Fklockwork) | v0.1.0 | Klockwork | Client for the Klockwork public API |
-| 2026-10-26 07:36:38 | [efabrica/phoenix-mysql](https://www.nuget.org/packages/efabrica%2Fphoenix-mysql) | 1.0.0 |  | MySQL adapter for Phoenix database migrations |
-| 2026-10-26 07:36:38 | [efabrica/phoenix-pgsql](https://www.nuget.org/packages/efabrica%2Fphoenix-pgsql) | 1.0.0 |  | PostgreSQL adapter for Phoenix database migrations |
-| 2026-10-26 07:42:04 | [hyphun/hypcurl](https://www.nuget.org/packages/hyphun%2Fhypcurl) | v1.2.0 | Leo | Organised, reusable cURL toolkit for PHP: singleton API clients, fluent request… |
-| 2026-10-26 08:02:51 | [carono/yii2-online-target](https://www.nuget.org/packages/carono%2Fyii2-online-target) | v1.0.1 |  | Queue-backed JSON HTTP log target for Yii2 |
-| 2026-10-26 08:05:01 | [karagiannidis/ej2-grid-laravel](https://www.nuget.org/packages/karagiannidis%2Fej2-grid-laravel) | v0.1.0 | Karagiannidis Petros | Server-side data source adaptor for EJ2 Grid in Laravel |
+| 2026-10-26 08:31:28 | [osticket/mail](https://www.nuget.org/packages/osticket%2Fmail) | v0.1.0 | JediKev | Framework-agnostic mail engine for osTicket 2.0 (RFC message build, transports,… |
+| 2026-10-26 08:33:56 | [aotr/laravel-animated-icons](https://www.nuget.org/packages/aotr%2Flaravel-animated-icons) | v1.0.0 | Animesh Chakraborty | Plug-and-play animated SVG icons for Laravel Blade: hover, click, auto and on-v… |
+| 2026-10-26 08:48:01 | [yuriitatur/nested-data](https://www.nuget.org/packages/yuriitatur%2Fnested-data) | v0.1.0 | Yurii Tatur | Nested data storage-agnostic library |
+| 2026-10-26 09:06:46 | [cabuz/laravel-db-safe-mode](https://www.nuget.org/packages/cabuz%2Flaravel-db-safe-mode) | v1.1.0 | Florin Cabuz | Work with production data locally without fear: block outbound email, notificat… |
 
 ## Data source
 

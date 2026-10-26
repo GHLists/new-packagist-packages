@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-26T08:31:28Z,osticket/mail,v0.1.0,JediKev,"Framework-agnostic mail engine for osTicket 2.0 (RFC message build, transports, fetch, parsing)."
+2026-10-26T08:33:56Z,aotr/laravel-animated-icons,v1.0.0,Animesh Chakraborty,"Plug-and-play animated SVG icons for Laravel Blade: hover, click, auto and on-view triggers, registry sync, reduced motion and Livewire-safe delegation."
+2026-10-26T08:48:01Z,yuriitatur/nested-data,v0.1.0,Yurii Tatur,Nested data storage-agnostic library
+2026-10-26T09:06:46Z,cabuz/laravel-db-safe-mode,v1.1.0,Florin Cabuz,"Work with production data locally without fear: block outbound email, notifications, HTTP and queued side effects, make the connection read-only, and anonymize PII on the fly."
