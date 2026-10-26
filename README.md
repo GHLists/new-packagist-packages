@@ -15,21 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 10:20 UTC
+## Latest list — 2026-10-26 11:21 UTC
 
-New packages created between 2026-10-26 09:21 UTC and 2026-10-26 10:20 UTC.
+New packages created between 2026-10-26 10:20 UTC and 2026-10-26 11:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T10-20-32-773237Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T11-21-40-088376Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 09:28:52 | [elx/chatbot-connector](https://www.nuget.org/packages/elx%2Fchatbot-connector) | v1.0.1 | Elx | ELX Chatbot Connector for Maho - product feed generation and order data sync fo… |
-| 2026-10-26 09:29:45 | [atannex/detector](https://www.nuget.org/packages/atannex%2Fdetector) | v1.0.0 | Atanga Leke Collins | Device, OS, browser and bot detection for Laravel: User-Agent and Client Hints… |
-| 2026-10-26 09:35:36 | [atannex/limiting](https://www.nuget.org/packages/atannex%2Flimiting) | v1.0.0 | Atanga Leke Collins | Rate limiting for Laravel, built for security: seven atomic algorithms (sliding… |
-| 2026-10-26 09:41:47 | [survos/nara-bundle](https://www.nuget.org/packages/survos%2Fnara-bundle) | 2.43.19 |  | Symfony integration for the National Archives Catalog client: env-configured ke… |
-| 2026-10-26 09:41:52 | [survos/nara-client](https://www.nuget.org/packages/survos%2Fnara-client) | 2.43.19 | Tac Tacelosky; Survos | PHP client for the National Archives Catalog API v2: search, records, and contr… |
-| 2026-10-26 09:48:15 | [azuradara/logonymic](https://www.nuget.org/packages/azuradara%2Flogonymic) | v0.1.1 |  | Recompute and match nymic browser fingerprints on the server |
-| 2026-10-26 10:13:54 | [oocscommerce/magento2-lynx-community](https://www.nuget.org/packages/oocscommerce%2Fmagento2-lynx-community) | 1.0.0 |  | Metapackage with Lynx themes and modules for Magento 2 |
+| 2026-10-26 10:23:30 | [vitamin2/filament-theme](https://www.nuget.org/packages/vitamin2%2Ffilament-theme) | v1.0.0 |  | Shared Filament brand theme for vitamin2 apps |
+| 2026-10-26 10:32:18 | [smspva/sdk](https://www.nuget.org/packages/smspva%2Fsdk) | v0.1.0-alpha.1 | SMSPVA | Official PHP SDK for SMSPVA SMS activation, phone number rental and private ema… |
+| 2026-10-26 10:33:34 | [rasuvaeff/yii3-idempotency-redis](https://www.nuget.org/packages/rasuvaeff%2Fyii3-idempotency-redis) | v1.0.0 | Victor Razuvaev | Redis-backed idempotency storage for Yii3 APIs |
+| 2026-10-26 10:35:32 | [markdoel/laravel-log-insight](https://www.nuget.org/packages/markdoel%2Flaravel-log-insight) | v1.0.0 | Markus Doell | Parse Laravel logs, cluster recurring errors and get AI-powered root cause anal… |
+| 2026-10-26 11:01:10 | [vender-demo/first-project](https://www.nuget.org/packages/vender-demo%2Ffirst-project) | 1.5.0 |  | First Profile demo |
 
 ## Data source
 

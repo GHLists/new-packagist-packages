@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-26T10:23:30Z,vitamin2/filament-theme,v1.0.0,,Shared Filament brand theme for vitamin2 apps
+2026-10-26T10:32:18Z,smspva/sdk,v0.1.0-alpha.1,SMSPVA,"Official PHP SDK for SMSPVA SMS activation, phone number rental and private email rental APIs"
+2026-10-26T10:33:34Z,rasuvaeff/yii3-idempotency-redis,v1.0.0,Victor Razuvaev,Redis-backed idempotency storage for Yii3 APIs
+2026-10-26T10:35:32Z,markdoel/laravel-log-insight,v1.0.0,Markus Doell,"Parse Laravel logs, cluster recurring errors and get AI-powered root cause analysis and fix suggestions."
+2026-10-26T11:01:10Z,vender-demo/first-project,1.5.0,,First Profile demo
