@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-26T09:28:52Z,elx/chatbot-connector,v1.0.1,Elx,ELX Chatbot Connector for Maho - product feed generation and order data sync for the ELX Chatbot service.
+2026-10-26T09:29:45Z,atannex/detector,v1.0.0,Atanga Leke Collins,"Device, OS, browser and bot detection for Laravel: User-Agent and Client Hints merged into one answer, a client probe for what headers cannot tell (iPadOS, screen, installed PWAs), categorised bots with AI crawlers and reverse-DNS verification, in-app browsers and WebViews, Blade directives, route…"
+2026-10-26T09:35:36Z,atannex/limiting,v1.0.0,Atanga Leke Collins,"Rate limiting for Laravel, built for security: seven atomic algorithms (sliding window, sliding log, fixed window, token bucket, leaky bucket, GCRA, calendar quotas) plus concurrency limits, on Redis, any cache store or memory. Named policies with several limits each, failure-only counting for logi…"
+2026-10-26T09:41:47Z,survos/nara-bundle,2.43.19,,"Symfony integration for the National Archives Catalog client: env-configured key and user id, nara:search, nara:record and nara:contribute"
+2026-10-26T09:41:52Z,survos/nara-client,2.43.19,Tac Tacelosky; Survos,"PHP client for the National Archives Catalog API v2: search, records, and contributing transcriptions, tags and comments"
+2026-10-26T09:48:15Z,azuradara/logonymic,v0.1.1,,Recompute and match nymic browser fingerprints on the server
+2026-10-26T10:13:54Z,oocscommerce/magento2-lynx-community,1.0.0,,Metapackage with Lynx themes and modules for Magento 2

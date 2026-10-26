@@ -15,18 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 09:21 UTC
+## Latest list — 2026-10-26 10:20 UTC
 
-New packages created between 2026-10-26 08:21 UTC and 2026-10-26 09:21 UTC.
+New packages created between 2026-10-26 09:21 UTC and 2026-10-26 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T09-21-01-826964Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T10-20-32-773237Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 08:31:28 | [osticket/mail](https://www.nuget.org/packages/osticket%2Fmail) | v0.1.0 | JediKev | Framework-agnostic mail engine for osTicket 2.0 (RFC message build, transports,… |
-| 2026-10-26 08:33:56 | [aotr/laravel-animated-icons](https://www.nuget.org/packages/aotr%2Flaravel-animated-icons) | v1.0.0 | Animesh Chakraborty | Plug-and-play animated SVG icons for Laravel Blade: hover, click, auto and on-v… |
-| 2026-10-26 08:48:01 | [yuriitatur/nested-data](https://www.nuget.org/packages/yuriitatur%2Fnested-data) | v0.1.0 | Yurii Tatur | Nested data storage-agnostic library |
-| 2026-10-26 09:06:46 | [cabuz/laravel-db-safe-mode](https://www.nuget.org/packages/cabuz%2Flaravel-db-safe-mode) | v1.1.0 | Florin Cabuz | Work with production data locally without fear: block outbound email, notificat… |
+| 2026-10-26 09:28:52 | [elx/chatbot-connector](https://www.nuget.org/packages/elx%2Fchatbot-connector) | v1.0.1 | Elx | ELX Chatbot Connector for Maho - product feed generation and order data sync fo… |
+| 2026-10-26 09:29:45 | [atannex/detector](https://www.nuget.org/packages/atannex%2Fdetector) | v1.0.0 | Atanga Leke Collins | Device, OS, browser and bot detection for Laravel: User-Agent and Client Hints… |
+| 2026-10-26 09:35:36 | [atannex/limiting](https://www.nuget.org/packages/atannex%2Flimiting) | v1.0.0 | Atanga Leke Collins | Rate limiting for Laravel, built for security: seven atomic algorithms (sliding… |
+| 2026-10-26 09:41:47 | [survos/nara-bundle](https://www.nuget.org/packages/survos%2Fnara-bundle) | 2.43.19 |  | Symfony integration for the National Archives Catalog client: env-configured ke… |
+| 2026-10-26 09:41:52 | [survos/nara-client](https://www.nuget.org/packages/survos%2Fnara-client) | 2.43.19 | Tac Tacelosky; Survos | PHP client for the National Archives Catalog API v2: search, records, and contr… |
+| 2026-10-26 09:48:15 | [azuradara/logonymic](https://www.nuget.org/packages/azuradara%2Flogonymic) | v0.1.1 |  | Recompute and match nymic browser fingerprints on the server |
+| 2026-10-26 10:13:54 | [oocscommerce/magento2-lynx-community](https://www.nuget.org/packages/oocscommerce%2Fmagento2-lynx-community) | 1.0.0 |  | Metapackage with Lynx themes and modules for Magento 2 |
 
 ## Data source
 

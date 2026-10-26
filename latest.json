@@ -1,10 +1,10 @@
 {
   "list": {
-    "count": 4,
-    "from": "2026-10-26T08:21:18.965888Z",
-    "path": "data/new-packagist-packages-2026-10-26T09-21-01-826964Z.csv",
-    "to": "2026-10-26T09:21:01.826964Z"
+    "count": 7,
+    "from": "2026-10-26T09:21:01.826964Z",
+    "path": "data/new-packagist-packages-2026-10-26T10-20-32-773237Z.csv",
+    "to": "2026-10-26T10:20:32.773237Z"
   },
   "source_truncated": false,
-  "window": "2026-10-26T09:21:01.826964Z"
+  "window": "2026-10-26T10:20:32.773237Z"
 }
