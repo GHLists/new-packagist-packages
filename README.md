@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 12:23 UTC
+## Latest list — 2026-10-26 13:21 UTC
 
-New packages created between 2026-10-26 11:21 UTC and 2026-10-26 12:23 UTC.
+New packages created between 2026-10-26 12:23 UTC and 2026-10-26 13:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T12-23-14-189021Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T13-21-44-04117Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 11:24:51 | [agilepixel/alls-well-php](https://www.nuget.org/packages/agilepixel%2Falls-well-php) | v1.0.1 | Agile Pixel | Connects a PHP application to All's Well as a site: reports versions, packages… |
-| 2026-10-26 11:34:39 | [pollora/harness](https://www.nuget.org/packages/pollora%2Fharness) | v0.1.0 | Amphibee | Quality, testing, security and performance harness shared by every Pollora repo… |
-| 2026-10-26 11:55:44 | [lucacermenati/simple-csv-import](https://www.nuget.org/packages/lucacermenati%2Fsimple-csv-import) | v0.1.0 | Luca Cermenati | Validate a CSV upload in the request, import it in chunks on the queue, and rec… |
-| 2026-10-26 12:08:14 | [dondodano/laravel-avatars](https://www.nuget.org/packages/dondodano%2Flaravel-avatars) | v1.0.0 |  | Self-hosted initials avatar generator (SVG/PNG) with a ui-avatars.com compatibl… |
+| 2026-10-26 12:32:52 | [pstaender/blueprintcms](https://www.nuget.org/packages/pstaender%2Fblueprintcms) | 0.1.0-alpha.1 | Philipp Staender | Blueprint CMS – a flat file CMS inspired by Kirby |
+| 2026-10-26 12:36:06 | [magicoli/container-tools](https://www.nuget.org/packages/magicoli%2Fcontainer-tools) | 0.1.0-alpha.1 | Olivier van Helden | PHP library and command-line adapter for managing containers with Podman. |
+| 2026-10-26 12:48:33 | [kolossusai/chat-codeigniter](https://www.nuget.org/packages/kolossusai%2Fchat-codeigniter) | v1.0.0 | Kolossus AI | Add a KolossusAI chat assistant to your CodeIgniter 4 site with one command. |
+| 2026-10-26 13:02:10 | [vagebond/inertia-typegen](https://www.nuget.org/packages/vagebond%2Finertia-typegen) | v0.1.0 | Gianluca Riggio | Generate TypeScript types and route helpers for Inertia pages from Scramble's O… |
 
 ## Data source
 

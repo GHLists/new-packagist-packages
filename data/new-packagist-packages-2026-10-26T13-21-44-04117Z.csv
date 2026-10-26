@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-26T12:32:52Z,pstaender/blueprintcms,0.1.0-alpha.1,Philipp Staender,Blueprint CMS – a flat file CMS inspired by Kirby
+2026-10-26T12:36:06Z,magicoli/container-tools,0.1.0-alpha.1,Olivier van Helden,PHP library and command-line adapter for managing containers with Podman.
+2026-10-26T12:48:33Z,kolossusai/chat-codeigniter,v1.0.0,Kolossus AI,Add a KolossusAI chat assistant to your CodeIgniter 4 site with one command.
+2026-10-26T13:02:10Z,vagebond/inertia-typegen,v0.1.0,Gianluca Riggio,Generate TypeScript types and route helpers for Inertia pages from Scramble's OpenAPI document
