@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 19:19 UTC
+## Latest list — 2026-10-26 20:22 UTC
 
-New packages created between 2026-10-26 18:19 UTC and 2026-10-26 19:19 UTC.
+New packages created between 2026-10-26 19:19 UTC and 2026-10-26 20:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T19-19-19-572548Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T20-22-21-643826Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 18:24:29 | [ngoni/dischub-php](https://www.nuget.org/packages/ngoni%2Fdischub-php) | v1.0.0 | Ngonidzashe Sendama | A Laravel package for integrating with the Dischub payments API |
-| 2026-10-26 18:29:56 | [noldors/phpcsfixer-rules](https://www.nuget.org/packages/noldors%2Fphpcsfixer-rules) | v0.0.1 |  | Shared PHP-CS-Fixer preset and multiline layout rules. |
-| 2026-10-26 18:32:09 | [juniwalk/security](https://www.nuget.org/packages/juniwalk%2Fsecurity) | v0.1.1 | Martin Procházka | Extended security tools for Nette, starting with flexible ACL. |
+| 2026-10-26 19:49:31 | [wilycode/filters](https://www.nuget.org/packages/wilycode%2Ffilters) | v0.1.0 | Simon Piter | Ready-to-use filters built on the wilycode/filter contract. |
+| 2026-10-26 20:02:23 | [corpus/php-cs-fixer-config](https://www.nuget.org/packages/corpus%2Fphp-cs-fixer-config) | v0.1.0 | Jesse G. Donat | Shared PHP-CS-Fixer configuration for Corpus projects. |
+| 2026-10-26 20:11:52 | [himelali/pdf-generator](https://www.nuget.org/packages/himelali%2Fpdf-generator) | v2.0.0 | Md. Himel Ali | One fluent, driver-independent PDF API for Laravel on top of DomPDF, Snappy (wk… |
+| 2026-10-26 20:18:07 | [webx-ui/module-configurator](https://www.nuget.org/packages/webx-ui%2Fmodule-configurator) | v0.87.0 | WebX UI | A product configurator for the WebX UI admin panel: steps of options and sizes… |
 
 ## Data source
 

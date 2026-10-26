@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-26T19:49:31Z,wilycode/filters,v0.1.0,Simon Piter,Ready-to-use filters built on the wilycode/filter contract.
+2026-10-26T20:02:23Z,corpus/php-cs-fixer-config,v0.1.0,Jesse G. Donat,Shared PHP-CS-Fixer configuration for Corpus projects.
+2026-10-26T20:11:52Z,himelali/pdf-generator,v2.0.0,Md. Himel Ali,"One fluent, driver-independent PDF API for Laravel on top of DomPDF, Snappy (wkhtmltopdf), mPDF and FPDF."
+2026-10-26T20:18:07Z,webx-ui/module-configurator,v0.87.0,WebX UI,"A product configurator for the WebX UI admin panel: steps of options and sizes built without code, visibility rules, an area formula and a price with its breakdown counted on the server, drafts and versions, and MCP tools to build one end to end."
