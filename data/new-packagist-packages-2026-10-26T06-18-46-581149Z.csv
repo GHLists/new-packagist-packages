@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-26T05:40:45Z,kuzonet/overkill-about,v1.0.0,Joe Garvey,Display a nice configurable about screen for your FilamentPHP project
+2026-10-26T06:07:41Z,lagdo/ui-builder-bulma,v0.1.0,Thierry Feuzeu,UI Builder extensions for the Bulma framework.

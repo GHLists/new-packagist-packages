@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 05:18 UTC
+## Latest list — 2026-10-26 06:18 UTC
 
-New packages created between 2026-10-26 04:19 UTC and 2026-10-26 05:18 UTC.
+New packages created between 2026-10-26 05:18 UTC and 2026-10-26 06:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T05-18-46-023734Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T06-18-46-581149Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 04:34:49 | [siberfx/google-indexing](https://www.nuget.org/packages/siberfx%2Fgoogle-indexing) | 1.0.1 | Selim Görmüş | Notify Google (Indexing API + Search Console sitemaps) and IndexNow search engi… |
-| 2026-10-26 04:59:58 | [rafiquljakir/fynoverify](https://www.nuget.org/packages/rafiquljakir%2Ffynoverify) | v0.1.0 | Rafiqul Jakir | Laravel-first API and authorization regression-testing companion: inventories r… |
-| 2026-10-26 05:01:52 | [happyqu/laravel-admin](https://www.nuget.org/packages/happyqu%2Flaravel-admin) | v2.0.0 |  | Laravel Admin with customized frontend, global navigation and iframe tabs |
+| 2026-10-26 05:40:45 | [kuzonet/overkill-about](https://www.nuget.org/packages/kuzonet%2Foverkill-about) | v1.0.0 | Joe Garvey | Display a nice configurable about screen for your FilamentPHP project |
+| 2026-10-26 06:07:41 | [lagdo/ui-builder-bulma](https://www.nuget.org/packages/lagdo%2Fui-builder-bulma) | v0.1.0 | Thierry Feuzeu | UI Builder extensions for the Bulma framework. |
 
 ## Data source
 
