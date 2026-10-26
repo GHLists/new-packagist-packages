@@ -15,22 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 07:20 UTC
+## Latest list — 2026-10-26 08:21 UTC
 
-New packages created between 2026-10-26 06:18 UTC and 2026-10-26 07:20 UTC.
+New packages created between 2026-10-26 07:20 UTC and 2026-10-26 08:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T07-20-57-234894Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T08-21-18-965888Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 06:23:12 | [gzxy/flysystem-qiniu](https://www.nuget.org/packages/gzxy%2Fflysystem-qiniu) | 3.2.7 | gzxy | Flysystem adapter for the Qiniu storage. |
-| 2026-10-26 06:30:10 | [mj-zana/audit](https://www.nuget.org/packages/mj-zana%2Faudit) | v2.2.0 |  | Content revisions for Zana applications: who changed what and when, per locale,… |
-| 2026-10-26 06:30:12 | [mj-zana/media](https://www.nuget.org/packages/mj-zana%2Fmedia) | v2.2.0 |  | Responsive images for Zana applications: WebP and AVIF variants, metadata strip… |
-| 2026-10-26 06:30:12 | [mj-zana/scheduler](https://www.nuget.org/packages/mj-zana%2Fscheduler) | v2.2.0 |  | Scheduled tasks for Zana applications: cron expressions, a scope per run, overl… |
-| 2026-10-26 06:30:12 | [mj-zana/session](https://www.nuget.org/packages/mj-zana%2Fsession) | v2.2.0 |  | Server-side sessions and flash messages for Zana applications, stored in a PSR-… |
-| 2026-10-26 06:30:13 | [mj-zana/view-markdown](https://www.nuget.org/packages/mj-zana%2Fview-markdown) | v2.2.0 |  | Safe Markdown rendering for mj-zana/view, on league/commonmark |
-| 2026-10-26 06:59:14 | [gzxy/laravel-filesystem-qiniu](https://www.nuget.org/packages/gzxy%2Flaravel-filesystem-qiniu) | v3.0.1 | gzxy | A Qiniu storage filesystem for Laravel. |
-| 2026-10-26 07:07:24 | [shoplygg/shoply-php](https://www.nuget.org/packages/shoplygg%2Fshoply-php) | v0.6.0 |  | Shoply's API from your own server: every route as a method, safe retries, pages… |
+| 2026-10-26 07:32:47 | [klockwork/klockwork](https://www.nuget.org/packages/klockwork%2Fklockwork) | v0.1.0 | Klockwork | Client for the Klockwork public API |
+| 2026-10-26 07:36:38 | [efabrica/phoenix-mysql](https://www.nuget.org/packages/efabrica%2Fphoenix-mysql) | 1.0.0 |  | MySQL adapter for Phoenix database migrations |
+| 2026-10-26 07:36:38 | [efabrica/phoenix-pgsql](https://www.nuget.org/packages/efabrica%2Fphoenix-pgsql) | 1.0.0 |  | PostgreSQL adapter for Phoenix database migrations |
+| 2026-10-26 07:42:04 | [hyphun/hypcurl](https://www.nuget.org/packages/hyphun%2Fhypcurl) | v1.2.0 | Leo | Organised, reusable cURL toolkit for PHP: singleton API clients, fluent request… |
+| 2026-10-26 08:02:51 | [carono/yii2-online-target](https://www.nuget.org/packages/carono%2Fyii2-online-target) | v1.0.1 |  | Queue-backed JSON HTTP log target for Yii2 |
+| 2026-10-26 08:05:01 | [karagiannidis/ej2-grid-laravel](https://www.nuget.org/packages/karagiannidis%2Fej2-grid-laravel) | v0.1.0 | Karagiannidis Petros | Server-side data source adaptor for EJ2 Grid in Laravel |
 
 ## Data source
 
