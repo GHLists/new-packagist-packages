@@ -15,18 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 20:22 UTC
+## Latest list — 2026-10-26 21:21 UTC
 
-New packages created between 2026-10-26 19:19 UTC and 2026-10-26 20:22 UTC.
+New packages created between 2026-10-26 20:22 UTC and 2026-10-26 21:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T20-22-21-643826Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T21-21-07-075003Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 19:49:31 | [wilycode/filters](https://www.nuget.org/packages/wilycode%2Ffilters) | v0.1.0 | Simon Piter | Ready-to-use filters built on the wilycode/filter contract. |
-| 2026-10-26 20:02:23 | [corpus/php-cs-fixer-config](https://www.nuget.org/packages/corpus%2Fphp-cs-fixer-config) | v0.1.0 | Jesse G. Donat | Shared PHP-CS-Fixer configuration for Corpus projects. |
-| 2026-10-26 20:11:52 | [himelali/pdf-generator](https://www.nuget.org/packages/himelali%2Fpdf-generator) | v2.0.0 | Md. Himel Ali | One fluent, driver-independent PDF API for Laravel on top of DomPDF, Snappy (wk… |
-| 2026-10-26 20:18:07 | [webx-ui/module-configurator](https://www.nuget.org/packages/webx-ui%2Fmodule-configurator) | v0.87.0 | WebX UI | A product configurator for the WebX UI admin panel: steps of options and sizes… |
+| 2026-10-26 20:26:07 | [iswilson/canadapost-api](https://www.nuget.org/packages/iswilson%2Fcanadapost-api) | v0.3.0 | Ian Wilson; Jace Bennest | Unofficial PHP library for communicating with Canada Post APIs. |
+| 2026-10-26 20:32:38 | [tryhackx/flarum-homepage-blocks](https://www.nuget.org/packages/tryhackx%2Fflarum-homepage-blocks) | 2.10.0 | TryHackX | Customizable homepage blocks for tracker-style Flarum forums featuring dual sta… |
+| 2026-10-26 20:52:55 | [wilycode/recaptcha-validator](https://www.nuget.org/packages/wilycode%2Frecaptcha-validator) | v0.1.0 | Simon Piter | Google reCAPTCHA v3 verification and a reusable WilyCode validator. |
+| 2026-10-26 20:54:04 | [watchdiff-labs/watchdiff-laravel](https://www.nuget.org/packages/watchdiff-labs%2Fwatchdiff-laravel) | v0.1.0 |  | Laravel service provider for watchdiff-core - web change monitoring with Artisa… |
+| 2026-10-26 20:59:37 | [lucacermenati/common-traits](https://www.nuget.org/packages/lucacermenati%2Fcommon-traits) | v0.1.1 | Luca Cermenati | Reusable traits and interfaces for Laravel applications. |
+| 2026-10-26 21:03:11 | [lucacermenati/nova-global-filters](https://www.nuget.org/packages/lucacermenati%2Fnova-global-filters) | v1.0.0 | Luca Cermenati | Session-backed global filters for Laravel Nova 5 dashboards: define filters in… |
+| 2026-10-26 21:06:49 | [steddle/vcrs](https://www.nuget.org/packages/steddle%2Fvcrs) | v0.1.0-beta.4 |  | The Verified Claimant Register Standard: the text, the annexes, the schemas, th… |
 
 ## Data source
 

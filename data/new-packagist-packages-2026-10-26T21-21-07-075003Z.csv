@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-26T20:26:07Z,iswilson/canadapost-api,v0.3.0,Ian Wilson; Jace Bennest,Unofficial PHP library for communicating with Canada Post APIs.
+2026-10-26T20:32:38Z,tryhackx/flarum-homepage-blocks,2.10.0,TryHackX,"Customizable homepage blocks for tracker-style Flarum forums featuring dual statistics (internal & OpenTracker), advanced filters, and rate-limiting protection."
+2026-10-26T20:52:55Z,wilycode/recaptcha-validator,v0.1.0,Simon Piter,Google reCAPTCHA v3 verification and a reusable WilyCode validator.
+2026-10-26T20:54:04Z,watchdiff-labs/watchdiff-laravel,v0.1.0,,Laravel service provider for watchdiff-core - web change monitoring with Artisan commands and scheduler integration.
+2026-10-26T20:59:37Z,lucacermenati/common-traits,v0.1.1,Luca Cermenati,Reusable traits and interfaces for Laravel applications.
+2026-10-26T21:03:11Z,lucacermenati/nova-global-filters,v1.0.0,Luca Cermenati,"Session-backed global filters for Laravel Nova 5 dashboards: define filters in PHP, render them with one generic card, and make metrics respond to them."
+2026-10-26T21:06:49Z,steddle/vcrs,v0.1.0-beta.4,,"The Verified Claimant Register Standard: the text, the annexes, the schemas, the test vectors and the templates."
