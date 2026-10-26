@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-26T06:23:12Z,gzxy/flysystem-qiniu,3.2.7,gzxy,Flysystem adapter for the Qiniu storage.
+2026-10-26T06:30:10Z,mj-zana/audit,v2.2.0,,"Content revisions for Zana applications: who changed what and when, per locale, with history and restore"
+2026-10-26T06:30:12Z,mj-zana/media,v2.2.0,,"Responsive images for Zana applications: WebP and AVIF variants, metadata stripped, alt text per locale"
+2026-10-26T06:30:12Z,mj-zana/scheduler,v2.2.0,,"Scheduled tasks for Zana applications: cron expressions, a scope per run, overlap locks and schedule:run"
+2026-10-26T06:30:12Z,mj-zana/session,v2.2.0,,"Server-side sessions and flash messages for Zana applications, stored in a PSR-16 cache"
+2026-10-26T06:30:13Z,mj-zana/view-markdown,v2.2.0,,"Safe Markdown rendering for mj-zana/view, on league/commonmark"
+2026-10-26T06:59:14Z,gzxy/laravel-filesystem-qiniu,v3.0.1,gzxy,A Qiniu storage filesystem for Laravel.
+2026-10-26T07:07:24Z,shoplygg/shoply-php,v0.6.0,,"Shoply's API from your own server: every route as a method, safe retries, pages, checking webhooks, and OAuth for apps."

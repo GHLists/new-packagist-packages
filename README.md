@@ -15,16 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 06:18 UTC
+## Latest list — 2026-10-26 07:20 UTC
 
-New packages created between 2026-10-26 05:18 UTC and 2026-10-26 06:18 UTC.
+New packages created between 2026-10-26 06:18 UTC and 2026-10-26 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-26T06-18-46-581149Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-26T07-20-57-234894Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-26 05:40:45 | [kuzonet/overkill-about](https://www.nuget.org/packages/kuzonet%2Foverkill-about) | v1.0.0 | Joe Garvey | Display a nice configurable about screen for your FilamentPHP project |
-| 2026-10-26 06:07:41 | [lagdo/ui-builder-bulma](https://www.nuget.org/packages/lagdo%2Fui-builder-bulma) | v0.1.0 | Thierry Feuzeu | UI Builder extensions for the Bulma framework. |
+| 2026-10-26 06:23:12 | [gzxy/flysystem-qiniu](https://www.nuget.org/packages/gzxy%2Fflysystem-qiniu) | 3.2.7 | gzxy | Flysystem adapter for the Qiniu storage. |
+| 2026-10-26 06:30:10 | [mj-zana/audit](https://www.nuget.org/packages/mj-zana%2Faudit) | v2.2.0 |  | Content revisions for Zana applications: who changed what and when, per locale,… |
+| 2026-10-26 06:30:12 | [mj-zana/media](https://www.nuget.org/packages/mj-zana%2Fmedia) | v2.2.0 |  | Responsive images for Zana applications: WebP and AVIF variants, metadata strip… |
+| 2026-10-26 06:30:12 | [mj-zana/scheduler](https://www.nuget.org/packages/mj-zana%2Fscheduler) | v2.2.0 |  | Scheduled tasks for Zana applications: cron expressions, a scope per run, overl… |
+| 2026-10-26 06:30:12 | [mj-zana/session](https://www.nuget.org/packages/mj-zana%2Fsession) | v2.2.0 |  | Server-side sessions and flash messages for Zana applications, stored in a PSR-… |
+| 2026-10-26 06:30:13 | [mj-zana/view-markdown](https://www.nuget.org/packages/mj-zana%2Fview-markdown) | v2.2.0 |  | Safe Markdown rendering for mj-zana/view, on league/commonmark |
+| 2026-10-26 06:59:14 | [gzxy/laravel-filesystem-qiniu](https://www.nuget.org/packages/gzxy%2Flaravel-filesystem-qiniu) | v3.0.1 | gzxy | A Qiniu storage filesystem for Laravel. |
+| 2026-10-26 07:07:24 | [shoplygg/shoply-php](https://www.nuget.org/packages/shoplygg%2Fshoply-php) | v0.6.0 |  | Shoply's API from your own server: every route as a method, safe retries, pages… |
 
 ## Data source
 
