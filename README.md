@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 05:21 UTC
+## Latest list — 2026-10-27 06:20 UTC
 
-New packages created between 2026-10-27 04:19 UTC and 2026-10-27 05:21 UTC.
+New packages created between 2026-10-27 05:21 UTC and 2026-10-27 06:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-27T05-21-15-606207Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-27T06-20-54-598329Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-27 04:36:53 | [aotr/open-a11y-laravel](https://www.nuget.org/packages/aotr%2Fopen-a11y-laravel) | v1.0.1 | Animesh Chakraborty | The open-a11y accessibility widget for Laravel Blade and Livewire. |
+| 2026-10-27 05:33:28 | [mujahidabbas/laravel-umpire](https://www.nuget.org/packages/mujahidabbas%2Flaravel-umpire) | v1.0.0 | Mujahid Abbas | Per-tool Gate authorization, tool-call audit events and a safe stale-client pur… |
+| 2026-10-27 05:49:18 | [plasgos/crm-sdk](https://www.nuget.org/packages/plasgos%2Fcrm-sdk) | v2.0.0 | Plasgos | Official PHP SDK for the Plasgos CRM Api Integration API. |
 
 ## Data source
 
