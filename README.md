@@ -15,18 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 10:21 UTC
+## Latest list — 2026-10-27 11:18 UTC
 
-New packages created between 2026-10-27 09:22 UTC and 2026-10-27 10:21 UTC.
+New packages created between 2026-10-27 10:21 UTC and 2026-10-27 11:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-27T10-21-44-649487Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-27T11-18-55-847664Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-27 09:32:32 | [lasselehtinen/healthchecks-helper](https://www.nuget.org/packages/lasselehtinen%2Fhealthchecks-helper) | v1.0.0 | Lasse Lehtinen | Ping Healthchecks.io from the Laravel scheduler with a single method call |
-| 2026-10-27 09:37:09 | [big-bang-notify/sdk](https://www.nuget.org/packages/big-bang-notify%2Fsdk) | v0.1.0 |  | Standalone PHP client for Big Bang Notify notifications addressed by Telegram u… |
-| 2026-10-27 09:44:59 | [keytd/manat](https://www.nuget.org/packages/keytd%2Fmanat) | v0.1.0 | KeyTD | One API for Azerbaijani online payment providers. |
-| 2026-10-27 10:07:07 | [php-forge/diff](https://www.nuget.org/packages/php-forge%2Fdiff) | 0.1.0 | Wilmer Arambula | Git-compatible line diff for PHP: a port of Git's xdiff Myers pipeline with the… |
+| 2026-10-27 10:24:50 | [elrayn/coretax-faktur](https://www.nuget.org/packages/elrayn%2Fcoretax-faktur) | v0.1.0 | Muhammad Rayhan | Generate Coretax (DJP) Faktur Pajak Keluaran XML straight from your app, with t… |
+| 2026-10-27 10:34:19 | [ndate22/laravel-ndate](https://www.nuget.org/packages/ndate22%2Flaravel-ndate) | 0.1.0 | Kamal Pandey | Laravel integration for ndate22/ndate (Nepali BS/AD date converter) |
+| 2026-10-27 10:36:57 | [tryhackx/flarum-homepage-blocks](https://www.nuget.org/packages/tryhackx%2Fflarum-homepage-blocks) | 2.12.0 | TryHackX | Customizable homepage blocks for tracker-style Flarum forums featuring dual sta… |
+| 2026-10-27 10:44:01 | [overherz/elastic5_6_16_php8](https://www.nuget.org/packages/overherz%2Felastic5_6_16_php8) | 1.0.1 | Nicolas Ruflin | Elastica 6.2.1 fork for Elasticsearch 5.6 on PHP 7.1-8.5 |
+| 2026-10-27 10:50:04 | [geekybones/typesense-bundle](https://www.nuget.org/packages/geekybones%2Ftypesense-bundle) | v0.1.0 | GeekyBones | Symfony bundle for Typesense: attribute mapping, zero-downtime reindexing, Doct… |
+| 2026-10-27 10:59:14 | [michaelkaefer/table](https://www.nuget.org/packages/michaelkaefer%2Ftable) | 0.1.0 | Project Contributors | An extensible component for rendering tables |
 
 ## Data source
 

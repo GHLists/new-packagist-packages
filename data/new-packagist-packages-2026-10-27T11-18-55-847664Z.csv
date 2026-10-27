@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-27T10:24:50Z,elrayn/coretax-faktur,v0.1.0,Muhammad Rayhan,"Generate Coretax (DJP) Faktur Pajak Keluaran XML straight from your app, with the tax math and validation done for you"
+2026-10-27T10:34:19Z,ndate22/laravel-ndate,0.1.0,Kamal Pandey,Laravel integration for ndate22/ndate (Nepali BS/AD date converter)
+2026-10-27T10:36:57Z,tryhackx/flarum-homepage-blocks,2.12.0,TryHackX,"Customizable homepage blocks for tracker-style Flarum forums featuring dual statistics (internal & OpenTracker), advanced filters, and rate-limiting protection."
+2026-10-27T10:44:01Z,overherz/elastic5_6_16_php8,1.0.1,Nicolas Ruflin,Elastica 6.2.1 fork for Elasticsearch 5.6 on PHP 7.1-8.5
+2026-10-27T10:50:04Z,geekybones/typesense-bundle,v0.1.0,GeekyBones,"Symfony bundle for Typesense: attribute mapping, zero-downtime reindexing, Doctrine sync, smart and semantic search, query parsing and query suggestions."
+2026-10-27T10:59:14Z,michaelkaefer/table,0.1.0,Project Contributors,An extensible component for rendering tables
