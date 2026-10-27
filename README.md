@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 02:20 UTC
+## Latest list — 2026-10-27 03:21 UTC
 
-New packages created between 2026-10-27 01:18 UTC and 2026-10-27 02:20 UTC.
+New packages created between 2026-10-27 02:20 UTC and 2026-10-27 03:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-27T02-20-21-62826Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-27T03-21-32-178696Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-27 01:41:31 | [spoolbit/spoolbit-php](https://www.nuget.org/packages/spoolbit%2Fspoolbit-php) | v0.0.1 |  | Official PHP SDK for the Spoolbit cloud printing API (coming soon). |
-| 2026-10-27 01:45:45 | [normann/silverstripe-used-on](https://www.nuget.org/packages/normann%2Fsilverstripe-used-on) | 1.0.0 | Normann Lou | Improves the "Used on" tab of files in Silverstripe CMS: working CMS edit links… |
-| 2026-10-27 01:58:24 | [rootstuff/laravel-ops-mcp](https://www.nuget.org/packages/rootstuff%2Flaravel-ops-mcp) | v0.1.1 | Adam Balée | A read-only MCP server inside your Laravel app so your agent can read the logs,… |
-| 2026-10-27 02:10:15 | [zzktz/laravel-health](https://www.nuget.org/packages/zzktz%2Flaravel-health) | v1.0.0 |  | 为 Laravel 8 提供符合统一契约的存活与就绪健康检查接口。 |
+| 2026-10-27 02:39:15 | [naufalamr17/sivera-reporter](https://www.nuget.org/packages/naufalamr17%2Fsivera-reporter) | v0.1.1 |  | Fail-safe Laravel exception reporter for SIVERA |
+| 2026-10-27 02:50:35 | [artygrand/pdfplumber-php](https://www.nuget.org/packages/artygrand%2Fpdfplumber-php) | 0.11.10 | ArtyGrand | Pure PHP port of pdfplumber: characters with coordinates, words, page text, tex… |
 
 ## Data source
 
