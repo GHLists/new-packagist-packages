@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-27T19:44:39Z,tencentcloud/cvd,3.0.1690,tencentcloudapi,TencentCloudApi php sdk cvd
+2026-10-27T19:49:16Z,happiness/tracker_monitoring,v0.1.0,,"Sends the site's packages, status report and error log to Tracker."
+2026-10-27T20:14:31Z,neowiki/neowiki,0.1.0-rc.1,Professional.Wiki; Jeroen De Dauw,"Collaborative knowledge graph: model it with schemas, edit it in generated forms, query it in Neo4j or SPARQL stores, and open it to AI agents via API or MCP. Built on MediaWiki."

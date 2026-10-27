@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 19:19 UTC
+## Latest list — 2026-10-27 20:21 UTC
 
-New packages created between 2026-10-27 18:20 UTC and 2026-10-27 19:19 UTC.
+New packages created between 2026-10-27 19:19 UTC and 2026-10-27 20:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-27T19-19-48-957345Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-27T20-21-52-643859Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-27 18:23:16 | [gsu-cetloe/cetloelib-oracle-php](https://www.nuget.org/packages/gsu-cetloe%2Fcetloelib-oracle-php) | v1 | Melody Kimball |  |
-| 2026-10-27 18:31:09 | [logicoy/oe-module-logicoy-erx](https://www.nuget.org/packages/logicoy%2Foe-module-logicoy-erx) | v1.0.9 | LogiCoy | Connects an OpenEMR installation to the LogiCoy eRx network. |
-| 2026-10-27 18:41:58 | [rewi.sh/menu](https://www.nuget.org/packages/rewi.sh%2Fmenu) | 1.0.0 | rewi.sh | Menus, navigation, and navbar builder for Craft CMS — nested nav, element links… |
-| 2026-10-27 18:57:49 | [mailinfra/mailinfra](https://www.nuget.org/packages/mailinfra%2Fmailinfra) | v0.1.0 |  | Официальный SDK MailInfra для PHP — email API для разработчиков |
+| 2026-10-27 19:44:39 | [tencentcloud/cvd](https://www.nuget.org/packages/tencentcloud%2Fcvd) | 3.0.1690 | tencentcloudapi | TencentCloudApi php sdk cvd |
+| 2026-10-27 19:49:16 | [happiness/tracker_monitoring](https://www.nuget.org/packages/happiness%2Ftracker_monitoring) | v0.1.0 |  | Sends the site's packages, status report and error log to Tracker. |
+| 2026-10-27 20:14:31 | [neowiki/neowiki](https://www.nuget.org/packages/neowiki%2Fneowiki) | 0.1.0-rc.1 | Professional.Wiki; Jeroen De… | Collaborative knowledge graph: model it with schemas, edit it in generated form… |
 
 ## Data source
 
