@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 07:19 UTC
+## Latest list — 2026-10-27 08:19 UTC
 
-New packages created between 2026-10-27 06:20 UTC and 2026-10-27 07:19 UTC.
+New packages created between 2026-10-27 07:19 UTC and 2026-10-27 08:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-27T07-19-14-510688Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-27T08-19-16-380397Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-27 06:27:39 | [paymenku/sdk-php](https://www.nuget.org/packages/paymenku%2Fsdk-php) | v0.1.0 |  | SDK PHP untuk API Paymenku |
-| 2026-10-27 06:32:52 | [itmosoft/laravel-media](https://www.nuget.org/packages/itmosoft%2Flaravel-media) | v1.0.0 |  | A reusable media management package for Laravel applications. |
-| 2026-10-27 06:46:03 | [kianhugh/mtphp](https://www.nuget.org/packages/kianhugh%2Fmtphp) | v1.0.0 | 武汉麦麦心选网络科技有限公司 | mtphp - 高性能、高并发 PHP 框架 |
-| 2026-10-27 07:18:26 | [xerxes/eimzo](https://www.nuget.org/packages/xerxes%2Feimzo) | v0.1.0 |  | Reusable headless E-IMZO signing, desktop client and encrypted certificate vault |
+| 2026-10-27 07:42:18 | [haminh7036/telescope-extras](https://www.nuget.org/packages/haminh7036%2Ftelescope-extras) | v1.0.0 | Minh Ha | Small add-ons for Laravel Telescope: SQL filter on the related Queries tab and… |
+| 2026-10-27 07:43:23 | [clk528/laravel-admin](https://www.nuget.org/packages/clk528%2Flaravel-admin) | 2.0.0 | zsong | laravel admin |
 
 ## Data source
 
