@@ -15,22 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 17:19 UTC
+## Latest list — 2026-10-27 18:20 UTC
 
-New packages created between 2026-10-27 16:18 UTC and 2026-10-27 17:19 UTC.
+New packages created between 2026-10-27 17:19 UTC and 2026-10-27 18:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-27T17-19-37-552851Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-27T18-20-48-480137Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-27 16:19:56 | [tryhackx/flarum-homepage-blocks](https://www.nuget.org/packages/tryhackx%2Fflarum-homepage-blocks) | 2.12.3 | TryHackX | Customizable homepage blocks for tracker-style Flarum forums featuring dual sta… |
-| 2026-10-27 16:22:31 | [bernskiold/laravel-import-engine](https://www.nuget.org/packages/bernskiold%2Flaravel-import-engine) | v0.1.0 | Bernskiold; Erik Bernskiöld | Import CSV and Excel files into Laravel. Map the columns, preview the result, r… |
-| 2026-10-27 16:29:02 | [letsdeploy/statamic-turnstile](https://www.nuget.org/packages/letsdeploy%2Fstatamic-turnstile) | 1.0.0 |  |  |
-| 2026-10-27 16:30:16 | [agencenous/wp-ant-it](https://www.nuget.org/packages/agencenous%2Fwp-ant-it) | 0.0.3 | Bastien Ho | Manage an object oriented anthill in WordPress plugins. |
-| 2026-10-27 16:47:30 | [karlmantle/core-security-hardening](https://www.nuget.org/packages/karlmantle%2Fcore-security-hardening) | 1.1.0 |  | Disables various seldom used features of WordPress to improve security. |
-| 2026-10-27 17:04:15 | [particle-academy/change-council](https://www.nuget.org/packages/particle-academy%2Fchange-council) | v0.1.0 |  | A consumer-agent voting ledger for major package changes: a zero-dependency cha… |
-| 2026-10-27 17:11:29 | [dainc007/laravel-discord-server](https://www.nuget.org/packages/dainc007%2Flaravel-discord-server) | v0.1.0 | Daniel Heinze | Manage a Discord server from Laravel: config, a test fake, rate limits shared t… |
-| 2026-10-27 17:14:28 | [noehassiel/preview-bridge](https://www.nuget.org/packages/noehassiel%2Fpreview-bridge) | v0.1.0 | noehassiel | Lets a Laravel site be reviewed inside the noehassiel client portal: allows fra… |
+| 2026-10-27 17:32:38 | [tyto-php/foundation](https://www.nuget.org/packages/tyto-php%2Ffoundation) | v0.1.0-rc.1 | Viktor Leite |  |
+| 2026-10-27 17:34:54 | [mojointeractive/craft-observer](https://www.nuget.org/packages/mojointeractive%2Fcraft-observer) | 1.2.0 | mojo | mojo observer's connector for Craft CMS: signed status endpoints, deploy marker… |
+| 2026-10-27 17:41:40 | [spreedly/composer-sdk-server](https://www.nuget.org/packages/spreedly%2Fcomposer-sdk-server) | v1.0.0 | Spreedly | Composer Server SDK for PHP |
+| 2026-10-27 17:43:16 | [spamacom/laravel-html](https://www.nuget.org/packages/spamacom%2Flaravel-html) | v1.0 | Mouhammad Alali; Adam Engebre… | HTML and Form Builders for the Laravel Framework \| Upgraded by Mouhammad Alali |
+| 2026-10-27 18:02:58 | [spamacom/adminlte-templates](https://www.nuget.org/packages/spamacom%2Fadminlte-templates) | 6.1 | Mouhammad Alali | AdminLTE templates for Laravel Generator |
+| 2026-10-27 18:03:30 | [spamacom/laravel-generator-helpers](https://www.nuget.org/packages/spamacom%2Flaravel-generator-helpers) | 5.1 | Mouhammad Alali | Helper functions for generator packages |
+| 2026-10-27 18:03:57 | [spamacom/laravel-ui-adminlte](https://www.nuget.org/packages/spamacom%2Flaravel-ui-adminlte) | 5.2 | Mouhammad Alali | Laravel frontend preset for AdminLTE Theme |
 
 ## Data source
 

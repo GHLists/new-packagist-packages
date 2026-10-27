@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-27T17:32:38Z,tyto-php/foundation,v0.1.0-rc.1,Viktor Leite,
+2026-10-27T17:34:54Z,mojointeractive/craft-observer,1.2.0,mojo,"mojo observer's connector for Craft CMS: signed status endpoints, deploy markers and form tests."
+2026-10-27T17:41:40Z,spreedly/composer-sdk-server,v1.0.0,Spreedly,Composer Server SDK for PHP
+2026-10-27T17:43:16Z,spamacom/laravel-html,v1.0,Mouhammad Alali; Adam Engebretson,HTML and Form Builders for the Laravel Framework | Upgraded by Mouhammad Alali
+2026-10-27T18:02:58Z,spamacom/adminlte-templates,6.1,Mouhammad Alali,AdminLTE templates for Laravel Generator
+2026-10-27T18:03:30Z,spamacom/laravel-generator-helpers,5.1,Mouhammad Alali,Helper functions for generator packages
+2026-10-27T18:03:57Z,spamacom/laravel-ui-adminlte,5.2,Mouhammad Alali,Laravel frontend preset for AdminLTE Theme
