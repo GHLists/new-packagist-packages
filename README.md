@@ -15,16 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 22:21 UTC
+## Latest list — 2026-10-27 23:20 UTC
 
-New packages created between 2026-10-27 21:20 UTC and 2026-10-27 22:21 UTC.
+New packages created between 2026-10-27 22:21 UTC and 2026-10-27 23:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-27T22-21-21-603828Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-27T23-20-48-729215Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-27 21:48:30 | [fof/translate](https://www.nuget.org/packages/fof%2Ftranslate) | 2.0.0 | IanM | Click-to-translate for posts, discussion titles and polls, with DeepL, OpenAI,… |
-| 2026-10-27 22:06:58 | [atannex/tagging](https://www.nuget.org/packages/atannex%2Ftagging) | v1.0.0 | Atanga Leke Collins | Contextual taxonomies and polymorphic tagging for Laravel: tenants, aliases, hi… |
+| 2026-10-27 22:22:40 | [jkudish/librarium-spec](https://www.nuget.org/packages/jkudish%2Flibrarium-spec) | v1.0.0 |  | Shared Librarium contract: request/Run schemas, source catalog, and conformance… |
+| 2026-10-27 22:30:03 | [floriankraemer/php-aop-extension](https://www.nuget.org/packages/floriankraemer%2Fphp-aop-extension) | v0.1.0 | Florian Krämer | Native aspect-oriented programming for PHP: a Zend engine extension that weaves… |
+| 2026-10-27 22:36:18 | [mapsight/pulp-pdo](https://www.nuget.org/packages/mapsight%2Fpulp-pdo) | v1.0.0 | Paul Golmann | Database source and destination handlers for Pulp pipelines, via PDO. |
+| 2026-10-27 22:36:18 | [mapsight/pulp-search-index](https://www.nuget.org/packages/mapsight%2Fpulp-search-index) | v1.0.0 | Paul Golmann | Search index of GeoJSON features for Pulp pipelines: build it, store it in a da… |
+| 2026-10-27 22:37:44 | [hostily/captcha](https://www.nuget.org/packages/hostily%2Fcaptcha) | v0.1.0 | connect - Media & Teledienst | Server-side client for hostily Captcha (captcha.hostily.de): verify the token o… |
+| 2026-10-27 22:59:25 | [jkudish/laravel-ai-librarium](https://www.nuget.org/packages/jkudish%2Flaravel-ai-librarium) | v1.0.0 | Joey Kudish | A Laravel-native research query abstraction built on the Laravel AI SDK. |
+| 2026-10-27 23:00:57 | [jkudish/laravel-ai-librarium-firecrawl](https://www.nuget.org/packages/jkudish%2Flaravel-ai-librarium-firecrawl) | v1.0.0 |  | Optional Firecrawl surface-collection adapter for Laravel AI Librarium. |
 
 ## Data source
 

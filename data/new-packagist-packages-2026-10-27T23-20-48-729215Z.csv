@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-27T22:22:40Z,jkudish/librarium-spec,v1.0.0,,"Shared Librarium contract: request/Run schemas, source catalog, and conformance fixtures."
+2026-10-27T22:30:03Z,floriankraemer/php-aop-extension,v0.1.0,Florian Krämer,"Native aspect-oriented programming for PHP: a Zend engine extension that weaves Spring/AspectJ-style aspects into private, protected, static and final methods, constructors and functions without proxies."
+2026-10-27T22:36:18Z,mapsight/pulp-pdo,v1.0.0,Paul Golmann,"Database source and destination handlers for Pulp pipelines, via PDO."
+2026-10-27T22:36:18Z,mapsight/pulp-search-index,v1.0.0,Paul Golmann,"Search index of GeoJSON features for Pulp pipelines: build it, store it in a database, and search it."
+2026-10-27T22:37:44Z,hostily/captcha,v0.1.0,connect - Media & Teledienst,Server-side client for hostily Captcha (captcha.hostily.de): verify the token of a submitted form.
+2026-10-27T22:59:25Z,jkudish/laravel-ai-librarium,v1.0.0,Joey Kudish,A Laravel-native research query abstraction built on the Laravel AI SDK.
+2026-10-27T23:00:57Z,jkudish/laravel-ai-librarium-firecrawl,v1.0.0,,Optional Firecrawl surface-collection adapter for Laravel AI Librarium.
