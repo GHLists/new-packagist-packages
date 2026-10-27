@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-27T00:23:51Z,karelwintersky/arris.auth,0.2.0,Karel Wintersky,Arris µFramework: standalone authentication with session cookies and bearer tokens
+2026-10-27T00:37:03Z,contenir/contenir-site-token,v0.1.0,,"Signed one-time tokens between the Contenir CMS and a site: compact HS256 tokens with key rotation, a bounded lifetime and single use, shared by the preview and cache protocols."
+2026-10-27T00:55:22Z,yukazakiri/starterkit-updater,v0.1.0,Nejc Cotic; yukazakiri,Sync Laravel starter-kit projects with their upstream repositories
+2026-10-27T00:59:56Z,aanggakrishna/laravel-browser-cache-manager,v1.0.0,,"Safe, opt-in browser cache version management for Laravel applications."
+2026-10-27T01:10:49Z,lumynus/lumy,v1.0.0,Weleny,MicroORM from Lumynus
