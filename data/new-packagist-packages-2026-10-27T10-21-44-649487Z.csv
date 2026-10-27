@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-27T09:32:32Z,lasselehtinen/healthchecks-helper,v1.0.0,Lasse Lehtinen,Ping Healthchecks.io from the Laravel scheduler with a single method call
+2026-10-27T09:37:09Z,big-bang-notify/sdk,v0.1.0,,Standalone PHP client for Big Bang Notify notifications addressed by Telegram user ID
+2026-10-27T09:44:59Z,keytd/manat,v0.1.0,KeyTD,One API for Azerbaijani online payment providers.
+2026-10-27T10:07:07Z,php-forge/diff,0.1.0,Wilmer Arambula,Git-compatible line diff for PHP: a port of Git's xdiff Myers pipeline with the indent heuristic and a unified diff renderer.
