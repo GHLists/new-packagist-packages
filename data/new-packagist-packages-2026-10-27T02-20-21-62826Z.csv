@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-27T01:41:31Z,spoolbit/spoolbit-php,v0.0.1,,Official PHP SDK for the Spoolbit cloud printing API (coming soon).
+2026-10-27T01:45:45Z,normann/silverstripe-used-on,1.0.0,Normann Lou,"Improves the ""Used on"" tab of files in Silverstripe CMS: working CMS edit links for records nested in blocks and pages, the page each usage is on, and its publishing status."
+2026-10-27T01:58:24Z,rootstuff/laravel-ops-mcp,v0.1.1,Adam Balée,"A read-only MCP server inside your Laravel app so your agent can read the logs, queues, failed jobs, scheduler and vitals without SSH."
+2026-10-27T02:10:15Z,zzktz/laravel-health,v1.0.0,,为 Laravel 8 提供符合统一契约的存活与就绪健康检查接口。

@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 01:18 UTC
+## Latest list — 2026-10-27 02:20 UTC
 
-New packages created between 2026-10-27 00:19 UTC and 2026-10-27 01:18 UTC.
+New packages created between 2026-10-27 01:18 UTC and 2026-10-27 02:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-27T01-18-47-338223Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-27T02-20-21-62826Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-27 00:23:51 | [karelwintersky/arris.auth](https://www.nuget.org/packages/karelwintersky%2Farris.auth) | 0.2.0 | Karel Wintersky | Arris µFramework: standalone authentication with session cookies and bearer tok… |
-| 2026-10-27 00:37:03 | [contenir/contenir-site-token](https://www.nuget.org/packages/contenir%2Fcontenir-site-token) | v0.1.0 |  | Signed one-time tokens between the Contenir CMS and a site: compact HS256 token… |
-| 2026-10-27 00:55:22 | [yukazakiri/starterkit-updater](https://www.nuget.org/packages/yukazakiri%2Fstarterkit-updater) | v0.1.0 | Nejc Cotic; yukazakiri | Sync Laravel starter-kit projects with their upstream repositories |
-| 2026-10-27 00:59:56 | [aanggakrishna/laravel-browser-cache-manager](https://www.nuget.org/packages/aanggakrishna%2Flaravel-browser-cache-manager) | v1.0.0 |  | Safe, opt-in browser cache version management for Laravel applications. |
-| 2026-10-27 01:10:49 | [lumynus/lumy](https://www.nuget.org/packages/lumynus%2Flumy) | v1.0.0 | Weleny | MicroORM from Lumynus |
+| 2026-10-27 01:41:31 | [spoolbit/spoolbit-php](https://www.nuget.org/packages/spoolbit%2Fspoolbit-php) | v0.0.1 |  | Official PHP SDK for the Spoolbit cloud printing API (coming soon). |
+| 2026-10-27 01:45:45 | [normann/silverstripe-used-on](https://www.nuget.org/packages/normann%2Fsilverstripe-used-on) | 1.0.0 | Normann Lou | Improves the "Used on" tab of files in Silverstripe CMS: working CMS edit links… |
+| 2026-10-27 01:58:24 | [rootstuff/laravel-ops-mcp](https://www.nuget.org/packages/rootstuff%2Flaravel-ops-mcp) | v0.1.1 | Adam Balée | A read-only MCP server inside your Laravel app so your agent can read the logs,… |
+| 2026-10-27 02:10:15 | [zzktz/laravel-health](https://www.nuget.org/packages/zzktz%2Flaravel-health) | v1.0.0 |  | 为 Laravel 8 提供符合统一契约的存活与就绪健康检查接口。 |
 
 ## Data source
 
