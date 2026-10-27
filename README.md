@@ -15,21 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 13:20 UTC
+## Latest list — 2026-10-27 14:21 UTC
 
-New packages created between 2026-10-27 12:21 UTC and 2026-10-27 13:20 UTC.
+New packages created between 2026-10-27 13:20 UTC and 2026-10-27 14:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-27T13-20-23-972656Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-27T14-21-37-901276Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-27 12:28:08 | [infaris/monitoring](https://www.nuget.org/packages/infaris%2Fmonitoring) | v1.0.0 |  | Guard by Infaris App Monitoring for PHP: requests per route, cache hit/miss, da… |
-| 2026-10-27 12:50:32 | [st-all-one/blake3](https://www.nuget.org/packages/st-all-one%2Fblake3) | v0.1.0 | St-all-one | Pure PHP BLAKE3 implementation for PHP 8.4+ with hash, keyed hash, key derivati… |
-| 2026-10-27 12:50:35 | [packstub/account-switcher](https://www.nuget.org/packages/packstub%2Faccount-switcher) | v1.0.0 | Ion Caliman; Packstub | Switch between accounts in a Laravel app without signing out: user impersonatio… |
-| 2026-10-27 12:58:15 | [grupofixit/mpesa](https://www.nuget.org/packages/grupofixit%2Fmpesa) | v1.0.0 | Grupo FixIT Limitada | SDK oficial do Grupo FixIT para integracao segura com M-Pesa Mocambique (Vodaco… |
-| 2026-10-27 13:01:25 | [michaelkaefer/admin-ui-bundle](https://www.nuget.org/packages/michaelkaefer%2Fadmin-ui-bundle) | 0.1.0 | Project Contributors | Autogenerate an admin web interface for entities |
-| 2026-10-27 13:17:01 | [veasin/ff-cli](https://www.nuget.org/packages/veasin%2Fff-cli) | 0.0.1 |  | CLI capability layer for ff: input/output/routing via ext system. |
-| 2026-10-27 13:17:08 | [wilycode/form-csrf](https://www.nuget.org/packages/wilycode%2Fform-csrf) | v0.1.0 | Simon Piter | Optional session-backed CSRF token field and validator for WilyCode Form. |
+| 2026-10-27 13:27:47 | [bernskiold/laravel-collaboration](https://www.nuget.org/packages/bernskiold%2Flaravel-collaboration) | v1.0.0 | Bernskiold; Erik Bernskiöld | Share Eloquent records with other users. The package has permissions, events, n… |
+| 2026-10-27 13:32:19 | [dainc007/discord-rest-client](https://www.nuget.org/packages/dainc007%2Fdiscord-rest-client) | v0.1.0 | Daniel Heinze | Framework-free PHP client for the Discord REST API v10: guild, channel, role an… |
+| 2026-10-27 13:47:53 | [tyto-php/helpers](https://www.nuget.org/packages/tyto-php%2Fhelpers) | v0.1.0 | Viktor Leite |  |
+| 2026-10-27 13:48:35 | [tryhackx/flarum-homepage-blocks](https://www.nuget.org/packages/tryhackx%2Fflarum-homepage-blocks) | 2.12.1 | TryHackX | Customizable homepage blocks for tracker-style Flarum forums featuring dual sta… |
+| 2026-10-27 13:51:20 | [nemorize/hanji](https://www.nuget.org/packages/nemorize%2Fhanji) | v0.1.0 |  | A lightweight static site generator for PHP. |
+| 2026-10-27 13:59:00 | [mhinspeya/inspeya-hyva-qrloginviaapp](https://www.nuget.org/packages/mhinspeya%2Finspeya-hyva-qrloginviaapp) | 1.0.0 | MHinspeya | MHinspeya QR Login via App for Magento 2 and Hyvä. Shoppers sign in on the webs… |
+| 2026-10-27 14:03:22 | [maxxksim/laravel-backup-package](https://www.nuget.org/packages/maxxksim%2Flaravel-backup-package) | v1.0.0 | Maksym | Create database backups and keep the latest N copies. |
+| 2026-10-27 14:06:10 | [st-all-one/uuidv7](https://www.nuget.org/packages/st-all-one%2Fuuidv7) | v0.1.0 | St-all-one | Pure PHP RFC 9562 UUIDv7 for PHP 8.4+ with monotonic generation, parsing and Ba… |
 
 ## Data source
 

@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-27T13:27:47Z,bernskiold/laravel-collaboration,v1.0.0,Bernskiold; Erik Bernskiöld,"Share Eloquent records with other users. The package has permissions, events, notifications and an activity log. It has no user interface."
+2026-10-27T13:32:19Z,dainc007/discord-rest-client,v0.1.0,Daniel Heinze,"Framework-free PHP client for the Discord REST API v10: guild, channel, role and member management with rate limits, audit reasons and a test fake."
+2026-10-27T13:47:53Z,tyto-php/helpers,v0.1.0,Viktor Leite,
+2026-10-27T13:48:35Z,tryhackx/flarum-homepage-blocks,2.12.1,TryHackX,"Customizable homepage blocks for tracker-style Flarum forums featuring dual statistics (internal & OpenTracker), advanced filters, and rate-limiting protection."
+2026-10-27T13:51:20Z,nemorize/hanji,v0.1.0,,A lightweight static site generator for PHP.
+2026-10-27T13:59:00Z,mhinspeya/inspeya-hyva-qrloginviaapp,1.0.0,MHinspeya,"MHinspeya QR Login via App for Magento 2 and Hyvä. Shoppers sign in on the website by scanning a QR code with the shop app. The page shows the code, the app confirms the email, and Magento opens the customer session. If the email exists only in the app, the shop account is created after an email co…"
+2026-10-27T14:03:22Z,maxxksim/laravel-backup-package,v1.0.0,Maksym,Create database backups and keep the latest N copies.
+2026-10-27T14:06:10Z,st-all-one/uuidv7,v0.1.0,St-all-one,"Pure PHP RFC 9562 UUIDv7 for PHP 8.4+ with monotonic generation, parsing and Base62."
