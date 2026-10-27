@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 20:21 UTC
+## Latest list — 2026-10-27 21:20 UTC
 
-New packages created between 2026-10-27 19:19 UTC and 2026-10-27 20:21 UTC.
+New packages created between 2026-10-27 20:21 UTC and 2026-10-27 21:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-27T20-21-52-643859Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-27T21-20-56-662592Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-27 19:44:39 | [tencentcloud/cvd](https://www.nuget.org/packages/tencentcloud%2Fcvd) | 3.0.1690 | tencentcloudapi | TencentCloudApi php sdk cvd |
-| 2026-10-27 19:49:16 | [happiness/tracker_monitoring](https://www.nuget.org/packages/happiness%2Ftracker_monitoring) | v0.1.0 |  | Sends the site's packages, status report and error log to Tracker. |
-| 2026-10-27 20:14:31 | [neowiki/neowiki](https://www.nuget.org/packages/neowiki%2Fneowiki) | 0.1.0-rc.1 | Professional.Wiki; Jeroen De… | Collaborative knowledge graph: model it with schemas, edit it in generated form… |
+| 2026-10-27 20:45:41 | [xdiego1st/laravel-mapku](https://www.nuget.org/packages/xdiego1st%2Flaravel-mapku) | v1.0.1 | Rasyid Abdul Halim | Enterprise-grade Reusable GIS & Interactive Mapping Package for Laravel based o… |
+| 2026-10-27 20:50:53 | [tryhackx/flarum-homepage-blocks](https://www.nuget.org/packages/tryhackx%2Fflarum-homepage-blocks) | 2.13.0 | TryHackX | Customizable homepage blocks for tracker-style Flarum forums featuring dual sta… |
+| 2026-10-27 21:03:10 | [snb4crazy/laravel-magic-link-auth](https://www.nuget.org/packages/snb4crazy%2Flaravel-magic-link-auth) | v1.0.0 |  | Magic link authentication package for Laravel APIs with Sanctum support. |
 
 ## Data source
 

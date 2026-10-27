@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-27T20:45:41Z,xdiego1st/laravel-mapku,v1.0.1,Rasyid Abdul Halim,"Enterprise-grade Reusable GIS & Interactive Mapping Package for Laravel based on MapLibre GL JS, featuring Built-in Tile Proxy, Multi-Instance Isolation, and Dynamic Boundary Management."
+2026-10-27T20:50:53Z,tryhackx/flarum-homepage-blocks,2.13.0,TryHackX,"Customizable homepage blocks for tracker-style Flarum forums featuring dual statistics (internal & OpenTracker), advanced filters, and rate-limiting protection."
+2026-10-27T21:03:10Z,snb4crazy/laravel-magic-link-auth,v1.0.0,,Magic link authentication package for Laravel APIs with Sanctum support.
