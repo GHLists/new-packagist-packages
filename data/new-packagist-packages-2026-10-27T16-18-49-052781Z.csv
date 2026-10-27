@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-27T15:26:09Z,borders-dev/craft-imagor,v1.1.0,Borders Web Development,"Hands Craft's image transforms to imagor (libvips), so the site's server never downloads or resizes originals."
+2026-10-27T15:32:07Z,dartmoon/prestashop-installer,v1.0.0,Dartmoon,Global CLI installer for Dartmoon PrestaShop modules
+2026-10-27T15:32:14Z,ttpryg/comment-engine,v1.0.0,Toto,A framework-agnostic standalone comment engine library for PHP.
+2026-10-27T15:33:24Z,dartmoon/prestashop-module-toolkit,v1.0.0,,Module development components for PrestaShop 9.2
+2026-10-27T15:36:50Z,3brs/sentry-throttle-bundle,v1.0.0,3BRS,"Symfony bundle that throttles Sentry events per fingerprint and per application window, with Redis counters and fail-open behaviour"
+2026-10-27T15:46:42Z,pollora/woocommerce,v0.1.0,Amphibee,"WooCommerce for Pollora: its Blade templates, its template resolution, the Coming Soon page, its route conditions and its WordPress events as Laravel events."
