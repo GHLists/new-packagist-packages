@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-27T12:28:08Z,infaris/monitoring,v1.0.0,,"Guard by Infaris App Monitoring for PHP: requests per route, cache hit/miss, database queries, errors, logs and traces for Shopware, Symfony, Laravel, WordPress and plain PHP."
+2026-10-27T12:50:32Z,st-all-one/blake3,v0.1.0,St-all-one,"Pure PHP BLAKE3 implementation for PHP 8.4+ with hash, keyed hash, key derivation, XOF and streaming."
+2026-10-27T12:50:35Z,packstub/account-switcher,v1.0.0,Ion Caliman; Packstub,"Switch between accounts in a Laravel app without signing out: user impersonation with a banner and switch back, linked sub-accounts with password-confirmed escalation, one-click developer logins, and an audit log of every switch. packstub/filament-account-switcher adds the panel UI."
+2026-10-27T12:58:15Z,grupofixit/mpesa,v1.0.0,Grupo FixIT Limitada,SDK oficial do Grupo FixIT para integracao segura com M-Pesa Mocambique (Vodacom)
+2026-10-27T13:01:25Z,michaelkaefer/admin-ui-bundle,0.1.0,Project Contributors,Autogenerate an admin web interface for entities
+2026-10-27T13:17:01Z,veasin/ff-cli,0.0.1,,CLI capability layer for ff: input/output/routing via ext system.
+2026-10-27T13:17:08Z,wilycode/form-csrf,v0.1.0,Simon Piter,Optional session-backed CSRF token field and validator for WilyCode Form.
