@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-27T14:22:54Z,rivalex/lingua,v3.0.0,Alessandro Rivolta,"Self-hosted Laravel translation manager for the TALL stack: edit, sync, import/export and AI-translate your i18n / l10n language files via a Livewire UI. Database & file drivers, vendor translations, CSV/JSON/XLSX/ODS. A native alternative to laravel-lang and external services."
+2026-10-27T14:36:22Z,ipsocode/hypervel-serial,v0.0.1,Ipsocode,"Serial port connections for Hypervel: named connections over a tty, framed protocols with configurable encodings and checksums, coroutine-safe transactions with retries, and a simulator for testing without the hardware"
+2026-10-27T14:52:10Z,jfrintrop/env-validator,v1.1.0,J. Frintrop,"Validate your environment variables against a schema — fail fast at boot or in CI, using the Laravel validation rules you already know."
