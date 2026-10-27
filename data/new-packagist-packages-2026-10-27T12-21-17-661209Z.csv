@@ -1,0 +1,63 @@
+created_at,package,version,author,description
+2026-10-27T11:21:21Z,nexoraiq/connector,1.0.0,,NexorAIQ | AI Commerce Search Connector for Magento 2 (Hyvä and Luma / Blank / other themes)
+2026-10-27T11:26:54Z,liberusoftware/users-roles,1.0.1,,"Shared users, role lookup, user policies, and user factories."
+2026-10-27T11:30:46Z,quire/admin,v0.1.0,YorvoLabs,"Quire's administration panel: manage content, settings, extensions, themes and users in the browser."
+2026-10-27T11:30:46Z,quire/testing,v0.1.0,YorvoLabs,"Test Quire extensions and themes: a minimal test application, a PHPUnit base class and helpers."
+2026-10-27T11:32:58Z,fikamessaging/email,v0.1.0,,Laravel mail transport for Fika transactional email.
+2026-10-27T11:33:44Z,liberusoftware/module-accounting-bank-accounts-filament,1.0.0,,Filament 5 adapter for bank accounts.
+2026-10-27T11:33:50Z,liberusoftware/module-accounting-bank-accounts-livewire,1.0.0,,Livewire 4 adapter for bank accounts.
+2026-10-27T11:33:57Z,liberusoftware/module-accounting-bank-feeds,1.0.0,,"Provider-neutral bank feed connections, imports, mapping, and health."
+2026-10-27T11:34:04Z,liberusoftware/module-accounting-bank-feeds-api,1.0.0,,HTTP API adapter for bank feeds.
+2026-10-27T11:34:10Z,liberusoftware/module-accounting-bank-feeds-filament,1.0.0,,Filament adapter for bank feeds.
+2026-10-27T11:34:14Z,liberusoftware/module-billing-communications,0.1.0,,Provider-neutral Billing Communications domain module.
+2026-10-27T11:34:17Z,liberusoftware/module-accounting-bank-feeds-livewire,1.0.0,,Livewire adapter for bank feeds.
+2026-10-27T11:34:22Z,liberusoftware/module-billing-communications-api,0.1.0,,Api adapter for Billing Communications.
+2026-10-27T11:34:23Z,liberusoftware/module-accounting-bank-reconciliation,1.0.0,,Provider-neutral bank reconciliation domain module.
+2026-10-27T11:34:30Z,liberusoftware/module-accounting-bank-reconciliation-api,1.0.0,,HTTP API adapter for bank reconciliation.
+2026-10-27T11:34:30Z,liberusoftware/module-billing-communications-filament,0.1.0,,Filament adapter for Billing Communications.
+2026-10-27T11:34:36Z,liberusoftware/module-accounting-bank-reconciliation-filament,1.0.0,,Filament adapter for bank reconciliation.
+2026-10-27T11:34:38Z,liberusoftware/module-billing-communications-livewire,0.1.0,,Livewire adapter for Billing Communications.
+2026-10-27T11:34:42Z,liberusoftware/module-accounting-bank-reconciliation-livewire,1.0.0,,Livewire adapter for bank reconciliation.
+2026-10-27T11:34:46Z,liberusoftware/module-billing-core-api,0.1.3,,HTTP API adapter for the Liberu Billing Core module.
+2026-10-27T11:34:49Z,liberusoftware/module-accounting-bank-rules,1.0.0,,Provider-neutral accounting bank rules domain module.
+2026-10-27T11:34:54Z,liberusoftware/module-billing-core-filament,0.1.3,,Filament 5 adapter for the Liberu Billing Core module.
+2026-10-27T11:34:56Z,liberusoftware/module-accounting-bank-rules-api,1.0.0,,API adapter for accounting bank rules.
+2026-10-27T11:35:02Z,liberusoftware/module-accounting-bank-rules-filament,1.0.0,,Filament adapter for accounting bank rules.
+2026-10-27T11:35:02Z,liberusoftware/module-billing-core-livewire,0.1.3,,Livewire 4 adapter for the Liberu Billing Core module.
+2026-10-27T11:35:09Z,liberusoftware/module-accounting-bank-rules-livewire,1.0.0,,Livewire adapter for accounting bank rules.
+2026-10-27T11:35:11Z,liberusoftware/billing-cpanel,0.1.0,,cPanel/WHM hosting account driver for Liberu Billing Hosting.
+2026-10-27T11:35:16Z,liberusoftware/module-accounting-bill-payments,1.0.0,,Provider-neutral supplier bill payment proposals and approval.
+2026-10-27T11:35:18Z,liberusoftware/module-billing-customer-portal,0.1.0,,Provider-neutral Billing Customer Portal domain module.
+2026-10-27T11:35:22Z,liberusoftware/module-accounting-bill-payments-api,1.0.0,,HTTP API adapter for bill payments.
+2026-10-27T11:35:26Z,liberusoftware/module-billing-customer-portal-api,0.1.0,,Api adapter for Billing Customer Portal.
+2026-10-27T11:35:29Z,liberusoftware/module-accounting-bill-payments-filament,1.0.0,,Filament adapter for bill payments.
+2026-10-27T11:35:34Z,liberusoftware/module-billing-customer-portal-filament,0.1.0,,Filament adapter for Billing Customer Portal.
+2026-10-27T11:35:35Z,liberusoftware/module-accounting-bill-payments-livewire,1.0.0,,Livewire adapter for bill payments.
+2026-10-27T11:35:41Z,liberusoftware/module-accounting-branch-and-location-accounting,1.0.0,,"Accounting branches, locations, allocations and performance."
+2026-10-27T11:35:42Z,liberusoftware/module-billing-customer-portal-livewire,0.1.0,,Livewire adapter for Billing Customer Portal.
+2026-10-27T11:35:48Z,liberusoftware/module-accounting-branch-and-location-accounting-api,1.0.0,,Branch and Location Accounting API presentation module.
+2026-10-27T11:35:49Z,liberusoftware/billing-directadmin,0.1.0,,DirectAdmin hosting account driver for Liberu Billing Hosting.
+2026-10-27T11:35:55Z,liberusoftware/module-accounting-branch-and-location-accounting-filament,1.0.0,,Branch and Location Accounting Filament presentation module.
+2026-10-27T11:35:57Z,liberusoftware/module-billing-domains,0.1.0,,Provider-neutral Billing Domains domain module.
+2026-10-27T11:36:02Z,liberusoftware/module-accounting-branch-and-location-accounting-livewire,1.0.0,,Branch and Location Accounting Livewire presentation module.
+2026-10-27T11:36:03Z,liberusoftware/module-maintenance-inspections,0.1.0,,Inspections domain module for Liberu Maintenance
+2026-10-27T11:36:05Z,liberusoftware/module-billing-domains-api,0.1.0,,Api adapter for Billing Domains.
+2026-10-27T11:36:08Z,liberusoftware/module-accounting-budgets,1.0.0,,Accounting budgets domain module
+2026-10-27T11:36:09Z,liberusoftware/module-maintenance-inspections-api,0.1.0,,HTTP API adapter for Maintenance Inspections.
+2026-10-27T11:36:13Z,liberusoftware/module-billing-domains-filament,0.1.0,,Filament adapter for Billing Domains.
+2026-10-27T11:36:14Z,liberusoftware/module-maintenance-inspections-filament,0.1.0,,Filament 5 adapter for Maintenance Inspections.
+2026-10-27T11:36:15Z,liberusoftware/module-accounting-budgets-api,1.0.0,,Accounting budgets API adapter
+2026-10-27T11:36:20Z,liberusoftware/module-billing-domains-livewire,0.1.0,,Livewire adapter for Billing Domains.
+2026-10-27T11:36:20Z,liberusoftware/module-maintenance-inspections-livewire,0.1.0,,Livewire 4 adapter for Maintenance Inspections.
+2026-10-27T11:36:21Z,liberusoftware/module-accounting-budgets-filament,1.0.0,,Accounting budgets Filament adapter
+2026-10-27T11:36:25Z,liberusoftware/module-maintenance-inventory,0.1.0,,Inventory domain module for Liberu Maintenance
+2026-10-27T11:36:28Z,liberusoftware/billing-enom,0.1.0,,Enom registrar adapter for Billing Domains.
+2026-10-27T11:36:28Z,liberusoftware/module-accounting-budgets-livewire,1.0.0,,Accounting budgets Livewire adapter
+2026-10-27T11:36:31Z,liberusoftware/module-maintenance-inventory-api,0.1.0,,Inventory API adapter for Liberu Maintenance
+2026-10-27T11:41:10Z,xqkeji/xq-com-hugerte,v1.0.1,xqkeji.cn,新齐通用后台管理页面系统的使用的在线编辑器hugerte的js、css等前端程序的composer包。
+2026-10-27T11:41:27Z,bahu90/ratting-manager,v1.0.0,Bahu90; Matt Falahe,"Ratting management plugin for SeAT - Track bounty ticks and ESS payouts for every member, with personal and corporation dashboards, leaderboards and ISK per hour"
+2026-10-27T11:44:12Z,nurlan/laravel-inspector,v1.0.1,Nurlan,"Laravel üçün developer inspector: Blade görünüşləri, onlara ötürülən dəyişənlər və Route → Controller → Service → Model axınını səhifənin üzərində göstərir."
+2026-10-27T11:44:59Z,bpmore/statamic-sweep,v1.0.0,Brent Passmore,"Structure-aware search and replace for Statamic 6: preview every change as a diff, apply it as one undoable batch, and leave Bard, Replicator, Grid and Markdown intact."
+2026-10-27T11:47:16Z,arif_ca/svg-upload-security,v1.0.0,,Laravel middleware to inspect and sanitize SVG uploads (requires enshrined/svg-sanitize; installed automatically via Composer)
+2026-10-27T11:53:10Z,quire/skeleton,v0.1.0,,"A new Quire site: the Quire CMS core, its default theme and the admin interface, ready to run with Docker."
+2026-10-27T12:07:09Z,rapttor/yii2-payment,v0.1.0,Rapttor,"Yii2 extension that puts many payment providers (Stripe, Paddle, PayPal, Lemon Squeezy, Monri, Payten, Klarna, Swish, Payoneer...) behind one API, with a local catalog (products, prices, discounts), wallets/coins, subscriptions, webhooks and a backoffice module to enable or disable each provider."
