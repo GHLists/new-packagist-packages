@@ -15,20 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 16:18 UTC
+## Latest list — 2026-10-27 17:19 UTC
 
-New packages created between 2026-10-27 15:20 UTC and 2026-10-27 16:18 UTC.
+New packages created between 2026-10-27 16:18 UTC and 2026-10-27 17:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-27T16-18-49-052781Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-27T17-19-37-552851Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-27 15:26:09 | [borders-dev/craft-imagor](https://www.nuget.org/packages/borders-dev%2Fcraft-imagor) | v1.1.0 | Borders Web Development | Hands Craft's image transforms to imagor (libvips), so the site's server never… |
-| 2026-10-27 15:32:07 | [dartmoon/prestashop-installer](https://www.nuget.org/packages/dartmoon%2Fprestashop-installer) | v1.0.0 | Dartmoon | Global CLI installer for Dartmoon PrestaShop modules |
-| 2026-10-27 15:32:14 | [ttpryg/comment-engine](https://www.nuget.org/packages/ttpryg%2Fcomment-engine) | v1.0.0 | Toto | A framework-agnostic standalone comment engine library for PHP. |
-| 2026-10-27 15:33:24 | [dartmoon/prestashop-module-toolkit](https://www.nuget.org/packages/dartmoon%2Fprestashop-module-toolkit) | v1.0.0 |  | Module development components for PrestaShop 9.2 |
-| 2026-10-27 15:36:50 | [3brs/sentry-throttle-bundle](https://www.nuget.org/packages/3brs%2Fsentry-throttle-bundle) | v1.0.0 | 3BRS | Symfony bundle that throttles Sentry events per fingerprint and per application… |
-| 2026-10-27 15:46:42 | [pollora/woocommerce](https://www.nuget.org/packages/pollora%2Fwoocommerce) | v0.1.0 | Amphibee | WooCommerce for Pollora: its Blade templates, its template resolution, the Comi… |
+| 2026-10-27 16:19:56 | [tryhackx/flarum-homepage-blocks](https://www.nuget.org/packages/tryhackx%2Fflarum-homepage-blocks) | 2.12.3 | TryHackX | Customizable homepage blocks for tracker-style Flarum forums featuring dual sta… |
+| 2026-10-27 16:22:31 | [bernskiold/laravel-import-engine](https://www.nuget.org/packages/bernskiold%2Flaravel-import-engine) | v0.1.0 | Bernskiold; Erik Bernskiöld | Import CSV and Excel files into Laravel. Map the columns, preview the result, r… |
+| 2026-10-27 16:29:02 | [letsdeploy/statamic-turnstile](https://www.nuget.org/packages/letsdeploy%2Fstatamic-turnstile) | 1.0.0 |  |  |
+| 2026-10-27 16:30:16 | [agencenous/wp-ant-it](https://www.nuget.org/packages/agencenous%2Fwp-ant-it) | 0.0.3 | Bastien Ho | Manage an object oriented anthill in WordPress plugins. |
+| 2026-10-27 16:47:30 | [karlmantle/core-security-hardening](https://www.nuget.org/packages/karlmantle%2Fcore-security-hardening) | 1.1.0 |  | Disables various seldom used features of WordPress to improve security. |
+| 2026-10-27 17:04:15 | [particle-academy/change-council](https://www.nuget.org/packages/particle-academy%2Fchange-council) | v0.1.0 |  | A consumer-agent voting ledger for major package changes: a zero-dependency cha… |
+| 2026-10-27 17:11:29 | [dainc007/laravel-discord-server](https://www.nuget.org/packages/dainc007%2Flaravel-discord-server) | v0.1.0 | Daniel Heinze | Manage a Discord server from Laravel: config, a test fake, rate limits shared t… |
+| 2026-10-27 17:14:28 | [noehassiel/preview-bridge](https://www.nuget.org/packages/noehassiel%2Fpreview-bridge) | v0.1.0 | noehassiel | Lets a Laravel site be reviewed inside the noehassiel client portal: allows fra… |
 
 ## Data source
 

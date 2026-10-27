@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-27T16:19:56Z,tryhackx/flarum-homepage-blocks,2.12.3,TryHackX,"Customizable homepage blocks for tracker-style Flarum forums featuring dual statistics (internal & OpenTracker), advanced filters, and rate-limiting protection."
+2026-10-27T16:22:31Z,bernskiold/laravel-import-engine,v0.1.0,Bernskiold; Erik Bernskiöld,"Import CSV and Excel files into Laravel. Map the columns, preview the result, run it on the queue and keep a report of each row."
+2026-10-27T16:29:02Z,letsdeploy/statamic-turnstile,1.0.0,,
+2026-10-27T16:30:16Z,agencenous/wp-ant-it,0.0.3,Bastien Ho,Manage an object oriented anthill in WordPress plugins.
+2026-10-27T16:47:30Z,karlmantle/core-security-hardening,1.1.0,,Disables various seldom used features of WordPress to improve security.
+2026-10-27T17:04:15Z,particle-academy/change-council,v0.1.0,,"A consumer-agent voting ledger for major package changes: a zero-dependency change detector for CI and pre-push, and a Laravel ledger with HITL initiation, two voting rounds, per-consumer silence policy, a hash-chained audit log, Ed25519-signed decision records and a lab UI built from Fancy compone…"
+2026-10-27T17:11:29Z,dainc007/laravel-discord-server,v0.1.0,Daniel Heinze,"Manage a Discord server from Laravel: config, a test fake, rate limits shared through the cache, and a log of every change with Discord audit reasons."
+2026-10-27T17:14:28Z,noehassiel/preview-bridge,v0.1.0,noehassiel,Lets a Laravel site be reviewed inside the noehassiel client portal: allows framing and reports the page the client is on.
