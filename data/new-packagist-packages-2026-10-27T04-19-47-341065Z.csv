@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-27T03:28:36Z,koamishin/auth-php,v1.0.0,Yukazakiri; Koamishin Core Team,"Official PHP and Laravel SDK for Koamishin Centralized Authentication Portal with OAuth2, OIDC, and realtime webhooks."
+2026-10-27T03:38:14Z,hughcube/phpinfo,v1.0.0,hugh.li,Restore phpinfo() plain text in CLI/Swoole/Workerman into 1:1 pixel-perfect native HTML across PHP versions.
+2026-10-27T03:51:08Z,klsoft/keycloak-client,1.0.0,,A PHP library that can be used to secure web applications with Keycloak.
+2026-10-27T03:52:53Z,fastd/dobee-demo,v1.1.1,JanHuang,Demo application package for FastD dobee skeleton
+2026-10-27T03:54:35Z,particle-academy/charlotte,v0.1.0,,"Headless website-builder agent kit for Laravel: CMS page tools over fancy-cms drafts, a structured brief with code-derived fact checks, autonomy modes, and an ordered event log any chat UI can long-poll. Runs on prism-harness with any Prism provider."
+2026-10-27T04:10:23Z,contenir/contenir-navigation-mezzio,v0.1.0,,"Draws a Contenir site's managed menus in Mezzio: each live menu as a Laminas Navigation container, record links addressed through the router, cached by revision."
