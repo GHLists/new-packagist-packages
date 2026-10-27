@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 21:20 UTC
+## Latest list — 2026-10-27 22:21 UTC
 
-New packages created between 2026-10-27 20:21 UTC and 2026-10-27 21:20 UTC.
+New packages created between 2026-10-27 21:20 UTC and 2026-10-27 22:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-27T21-20-56-662592Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-27T22-21-21-603828Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-27 20:45:41 | [xdiego1st/laravel-mapku](https://www.nuget.org/packages/xdiego1st%2Flaravel-mapku) | v1.0.1 | Rasyid Abdul Halim | Enterprise-grade Reusable GIS & Interactive Mapping Package for Laravel based o… |
-| 2026-10-27 20:50:53 | [tryhackx/flarum-homepage-blocks](https://www.nuget.org/packages/tryhackx%2Fflarum-homepage-blocks) | 2.13.0 | TryHackX | Customizable homepage blocks for tracker-style Flarum forums featuring dual sta… |
-| 2026-10-27 21:03:10 | [snb4crazy/laravel-magic-link-auth](https://www.nuget.org/packages/snb4crazy%2Flaravel-magic-link-auth) | v1.0.0 |  | Magic link authentication package for Laravel APIs with Sanctum support. |
+| 2026-10-27 21:48:30 | [fof/translate](https://www.nuget.org/packages/fof%2Ftranslate) | 2.0.0 | IanM | Click-to-translate for posts, discussion titles and polls, with DeepL, OpenAI,… |
+| 2026-10-27 22:06:58 | [atannex/tagging](https://www.nuget.org/packages/atannex%2Ftagging) | v1.0.0 | Atanga Leke Collins | Contextual taxonomies and polymorphic tagging for Laravel: tenants, aliases, hi… |
 
 ## Data source
 

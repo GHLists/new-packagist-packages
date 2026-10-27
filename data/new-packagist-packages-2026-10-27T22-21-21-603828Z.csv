@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-27T21:48:30Z,fof/translate,2.0.0,IanM,"Click-to-translate for posts, discussion titles and polls, with DeepL, OpenAI, Claude and Ollama drivers."
+2026-10-27T22:06:58Z,atannex/tagging,v1.0.0,Atanga Leke Collins,"Contextual taxonomies and polymorphic tagging for Laravel: tenants, aliases, hierarchy, translations, weighted and expiring assignments."
