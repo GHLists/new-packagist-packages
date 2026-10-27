@@ -15,21 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 18:20 UTC
+## Latest list — 2026-10-27 19:19 UTC
 
-New packages created between 2026-10-27 17:19 UTC and 2026-10-27 18:20 UTC.
+New packages created between 2026-10-27 18:20 UTC and 2026-10-27 19:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-27T18-20-48-480137Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-27T19-19-48-957345Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-27 17:32:38 | [tyto-php/foundation](https://www.nuget.org/packages/tyto-php%2Ffoundation) | v0.1.0-rc.1 | Viktor Leite |  |
-| 2026-10-27 17:34:54 | [mojointeractive/craft-observer](https://www.nuget.org/packages/mojointeractive%2Fcraft-observer) | 1.2.0 | mojo | mojo observer's connector for Craft CMS: signed status endpoints, deploy marker… |
-| 2026-10-27 17:41:40 | [spreedly/composer-sdk-server](https://www.nuget.org/packages/spreedly%2Fcomposer-sdk-server) | v1.0.0 | Spreedly | Composer Server SDK for PHP |
-| 2026-10-27 17:43:16 | [spamacom/laravel-html](https://www.nuget.org/packages/spamacom%2Flaravel-html) | v1.0 | Mouhammad Alali; Adam Engebre… | HTML and Form Builders for the Laravel Framework \| Upgraded by Mouhammad Alali |
-| 2026-10-27 18:02:58 | [spamacom/adminlte-templates](https://www.nuget.org/packages/spamacom%2Fadminlte-templates) | 6.1 | Mouhammad Alali | AdminLTE templates for Laravel Generator |
-| 2026-10-27 18:03:30 | [spamacom/laravel-generator-helpers](https://www.nuget.org/packages/spamacom%2Flaravel-generator-helpers) | 5.1 | Mouhammad Alali | Helper functions for generator packages |
-| 2026-10-27 18:03:57 | [spamacom/laravel-ui-adminlte](https://www.nuget.org/packages/spamacom%2Flaravel-ui-adminlte) | 5.2 | Mouhammad Alali | Laravel frontend preset for AdminLTE Theme |
+| 2026-10-27 18:23:16 | [gsu-cetloe/cetloelib-oracle-php](https://www.nuget.org/packages/gsu-cetloe%2Fcetloelib-oracle-php) | v1 | Melody Kimball |  |
+| 2026-10-27 18:31:09 | [logicoy/oe-module-logicoy-erx](https://www.nuget.org/packages/logicoy%2Foe-module-logicoy-erx) | v1.0.9 | LogiCoy | Connects an OpenEMR installation to the LogiCoy eRx network. |
+| 2026-10-27 18:41:58 | [rewi.sh/menu](https://www.nuget.org/packages/rewi.sh%2Fmenu) | 1.0.0 | rewi.sh | Menus, navigation, and navbar builder for Craft CMS — nested nav, element links… |
+| 2026-10-27 18:57:49 | [mailinfra/mailinfra](https://www.nuget.org/packages/mailinfra%2Fmailinfra) | v0.1.0 |  | Официальный SDK MailInfra для PHP — email API для разработчиков |
 
 ## Data source
 

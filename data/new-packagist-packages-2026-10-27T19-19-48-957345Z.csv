@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-27T18:23:16Z,gsu-cetloe/cetloelib-oracle-php,v1,Melody Kimball,
+2026-10-27T18:31:09Z,logicoy/oe-module-logicoy-erx,v1.0.9,LogiCoy,Connects an OpenEMR installation to the LogiCoy eRx network.
+2026-10-27T18:41:58Z,rewi.sh/menu,1.0.0,rewi.sh,"Menus, navigation, and navbar builder for Craft CMS — nested nav, element links, Twig, and GraphQL."
+2026-10-27T18:57:49Z,mailinfra/mailinfra,v0.1.0,,Официальный SDK MailInfra для PHP — email API для разработчиков
