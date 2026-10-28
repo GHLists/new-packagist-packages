@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-28T22:37:18Z,pushonltd/magento-patchline,v0.0.2,PushON Ltd; Jiří Brada,Checks and syncs Adobe's isolated security patches for a Magento store.
+2026-10-28T23:02:45Z,io/auth,v0.1.0,,"Sign-in for Io sites: users with Argon2id passwords, database sessions, TOTP with recovery codes, one-time tokens, a login throttle, and roles built from the permissions the app declares."
+2026-10-28T23:02:58Z,labskai/shopmade-shop,v0.1.0,,"Products, cart, guest checkout with optional Stripe, and orders for Shopmade."
+2026-10-28T23:03:58Z,labskai/shopmade-core,v0.1.0,,"Shopmade core: a small website and customer system you run in Docker, edit over MCP, and extend with Laravel packages."
+2026-10-28T23:11:47Z,pushinbr/pam-native-drawer,0.1.0,,Optional native drawer for PAM Native.
+2026-10-28T23:11:47Z,pushinbr/pam-native-toast,0.1.0,,Optional native toast for PAM Native.
