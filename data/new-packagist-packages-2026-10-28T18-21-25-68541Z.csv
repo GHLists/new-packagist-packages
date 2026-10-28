@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-28T17:30:03Z,tmwk/pdf-section-splitter-bundle,v1.0.0,Mario Figueroa,Bundle desacoplado para Symfony 5.4+ / PHP 8.1+ que segmenta determinísticamente fichas técnicas en PDF en secciones según características tipográficas y genera tablas HTML semánticas.
+2026-10-28T17:38:23Z,jumphp/jumphp,v0.1.0,,JumPHP: write retro 2D / 3D games in PHP that run on the desktop and in the browser (WebAssembly). New project: composer create-project jumphp/jumphp my-game
+2026-10-28T17:41:16Z,cordbolte/statamic-alpine,v1.0.0,Cord Bolte,"Pass Statamic data to Alpine.js (or any JavaScript) as JSON: select fields, join relations, add Glide images and rendered HTML."
+2026-10-28T18:01:24Z,anghelutav/laravel-pdf-templates,v0.1.1,AnghelutaV,"PDF templates for Laravel: visual designer (pdfme) or HTML/CSS with placeholders, filled with JSON. Admin UI, test page and a self-hosted API."

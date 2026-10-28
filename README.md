@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 17:21 UTC
+## Latest list — 2026-10-28 18:21 UTC
 
-New packages created between 2026-10-28 16:21 UTC and 2026-10-28 17:21 UTC.
+New packages created between 2026-10-28 17:21 UTC and 2026-10-28 18:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-28T17-21-42-548333Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-28T18-21-25-68541Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-28 16:33:54 | [alecgarcia/laravel-ai-vertex](https://www.nuget.org/packages/alecgarcia%2Flaravel-ai-vertex) | v0.1.0 |  | A Google Vertex AI driver for the Laravel AI SDK, with Gemini text over generat… |
-| 2026-10-28 16:55:55 | [psyao/kami](https://www.nuget.org/packages/psyao%2Fkami) | v0.1.0 | Steve Aguet | Psyao Kami: a Laravel and Filament CMS for developers, at home on shared hostin… |
-| 2026-10-28 16:58:12 | [pushinbr/pam-native-notifications](https://www.nuget.org/packages/pushinbr%2Fpam-native-notifications) | v0.1.1 |  | Optional native notifications, conversation actions and push rendering for PAM… |
-| 2026-10-28 16:58:12 | [pushinbr/pam-native-webview](https://www.nuget.org/packages/pushinbr%2Fpam-native-webview) | v0.1.1 |  | Optional hardened native WebView for PAM Native. |
+| 2026-10-28 17:30:03 | [tmwk/pdf-section-splitter-bundle](https://www.nuget.org/packages/tmwk%2Fpdf-section-splitter-bundle) | v1.0.0 | Mario Figueroa | Bundle desacoplado para Symfony 5.4+ / PHP 8.1+ que segmenta determinísticament… |
+| 2026-10-28 17:38:23 | [jumphp/jumphp](https://www.nuget.org/packages/jumphp%2Fjumphp) | v0.1.0 |  | JumPHP: write retro 2D / 3D games in PHP that run on the desktop and in the bro… |
+| 2026-10-28 17:41:16 | [cordbolte/statamic-alpine](https://www.nuget.org/packages/cordbolte%2Fstatamic-alpine) | v1.0.0 | Cord Bolte | Pass Statamic data to Alpine.js (or any JavaScript) as JSON: select fields, joi… |
+| 2026-10-28 18:01:24 | [anghelutav/laravel-pdf-templates](https://www.nuget.org/packages/anghelutav%2Flaravel-pdf-templates) | v0.1.1 | AnghelutaV | PDF templates for Laravel: visual designer (pdfme) or HTML/CSS with placeholder… |
 
 ## Data source
 
