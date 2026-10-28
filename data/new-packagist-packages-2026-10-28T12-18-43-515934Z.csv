@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-28T11:24:22Z,biometric-push/laravel-adms,1.0.0,,"ZKTeco ADMS / PUSH (iclock) server for Laravel 8-12+: devices connect to your app over HTTP, punches, users, commands and fingerprint/face templates are stored and managed from PHP, artisan or an optional REST API."
+2026-10-28T11:32:27Z,cabuz/laravel-tembo,v1.0.0,Florin Cabuz,"Laravel SDK for the Tembo API: start background coding agents, manage sessions, agents, projects and repositories, and react to finished sessions with Laravel events."
+2026-10-28T11:32:34Z,catatsumuri/http-download,v1.0.0,Michael Wallner; Philippe Jausions; Wolfram Kriesing; Davey Shafik; catatsumuri,"PEAR HTTP_Download, HTTP_Header and HTTP packaged for Composer, unchanged except for the few lines listed in NOTICE.md"
+2026-10-28T11:34:33Z,saraivaruas/mercado-publico,v1.0.0,Jorge Luis Saraiva Ruas,"Cliente PHP de la API pública de Mercado Público (ChileCompra): licitaciones, órdenes de compra, convenios marco, Compra Ágil y quién compra / quién vende. Sin dependencias."
+2026-10-28T11:34:52Z,selectika/module-ai-commerce,v0.1.0,,"Selectika AI Commerce for Magento: catalog feeds, storefront experiences and analytics"
+2026-10-28T11:54:09Z,enicore/rivena,1.0.0,Enicore Solutions,A PHP framework for admin-focused websites.
+2026-10-28T11:59:58Z,webcito/bs-time-duration,1.0.0,thomas,description
+2026-10-28T12:00:02Z,biometric-push/laravel-amt-push,v1.0.1,,"AMT / M50 WebSocket SDK server for Laravel 8-12+: attendance terminals (AMT800, AMF800, F500 family) connect to your app over WebSocket; punches, users, commands and fingerprint/face/palm templates are managed from PHP or artisan."
