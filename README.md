@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 03:19 UTC
+## Latest list — 2026-10-28 04:23 UTC
 
-New packages created between 2026-10-28 02:21 UTC and 2026-10-28 03:19 UTC.
+New packages created between 2026-10-28 03:19 UTC and 2026-10-28 04:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-28T03-19-11-203123Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-28T04-23-11-394924Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-28 02:29:48 | [privatus/neos-analytics](https://www.nuget.org/packages/privatus%2Fneos-analytics) | v1.0.0 | Two Phase LLC | Adds the cookieless Privatus Analytics tracking script to your Neos site. No co… |
-| 2026-10-28 02:33:11 | [pushinbr/pam-native-analytics](https://www.nuget.org/packages/pushinbr%2Fpam-native-analytics) | v0.1.0 |  | Privacy-safe product analytics (Firebase Analytics without advertising identifi… |
-| 2026-10-28 02:33:30 | [pushinbr/pam-native-lottie](https://www.nuget.org/packages/pushinbr%2Fpam-native-lottie) | v0.1.0 |  | Native Lottie animations for PAM Native: lottie-android and lottie-ios behind o… |
-| 2026-10-28 03:04:06 | [privatus/bolt-privatus-analytics](https://www.nuget.org/packages/privatus%2Fbolt-privatus-analytics) | v1.0.0 | Privatus Analytics | See how many real people visit your Bolt CMS site, without cookies. Adds the Pr… |
-| 2026-10-28 03:04:14 | [privatus/automad-privatus-analytics](https://www.nuget.org/packages/privatus%2Fautomad-privatus-analytics) | v1.0.0 | Privatus Analytics | See how many real people visit your Automad site, without cookies. Adds the Pri… |
+| 2026-10-28 03:29:03 | [binhtq1/kern-cms](https://www.nuget.org/packages/binhtq1%2Fkern-cms) | v0.1.0 | Binh Tran | Kern CMS on Laravel 13 |
+| 2026-10-28 03:35:34 | [contena-cms/contena-rector](https://www.nuget.org/packages/contena-cms%2Fcontena-rector) | 0.6.0 |  | Contena specific Rector |
+| 2026-10-28 03:40:11 | [webimpian/smsniaga-php](https://www.nuget.org/packages/webimpian%2Fsmsniaga-php) | v1.0.0 | Khairul Imran | PHP SDK for the SMS Niaga API: send SMS, track delivery reports, and manage sen… |
+| 2026-10-28 03:59:23 | [dipuxike/laravel-boost-command-code](https://www.nuget.org/packages/dipuxike%2Flaravel-boost-command-code) | 1.0.0 |  | Command Code agent for Laravel Boost. |
 
 ## Data source
 
