@@ -15,22 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 14:20 UTC
+## Latest list — 2026-10-28 15:19 UTC
 
-New packages created between 2026-10-28 13:19 UTC and 2026-10-28 14:20 UTC.
+New packages created between 2026-10-28 14:20 UTC and 2026-10-28 15:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-28T14-20-53-840773Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-28T15-19-13-920086Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-28 13:25:47 | [creacoon/laravel-dashboard-dutch-trains](https://www.nuget.org/packages/creacoon%2Flaravel-dashboard-dutch-trains) | v1.1.0 |  | Fetch upcoming departures for the live departure board tile |
-| 2026-10-28 13:28:03 | [phpwarden/phpwarden](https://www.nuget.org/packages/phpwarden%2Fphpwarden) | v1.0.0 | phpwarden | PHP exposure & exploitation guard — scan PHP engine, Composer deps & WordPress… |
-| 2026-10-28 13:31:21 | [brbunny/brlayer](https://www.nuget.org/packages/brbunny%2Fbrlayer) | v1.0.0 | Kevin Siqueira; Robson V. Lei… | Camada de persistência com PDO e prepared statements: model Active Record com C… |
-| 2026-10-28 13:43:21 | [mojahed/aiapi](https://www.nuget.org/packages/mojahed%2Faiapi) | 1.0.3 | Md. Mojahedul Islam | A Laravel AI API package — connect to any LLM provider with a clean, unified in… |
-| 2026-10-28 13:44:00 | [cabuz/laravel-stedi](https://www.nuget.org/packages/cabuz%2Flaravel-stedi) | v1.1.2 | Florin Cabuz | Laravel SDK for the Stedi healthcare APIs: real-time eligibility checks, claims… |
-| 2026-10-28 14:00:27 | [excelle-insights/sms](https://www.nuget.org/packages/excelle-insights%2Fsms) | v1.0.0 | Excelle Insights | Multi-provider SMS package for Excelle applications |
-| 2026-10-28 14:00:53 | [nth-root/phpstan-security](https://www.nuget.org/packages/nth-root%2Fphpstan-security) | v0.1.0 |  | A PHPStan extension that checks your code for security vulnerabilities |
-| 2026-10-28 14:15:36 | [magepow/custompdffont](https://www.nuget.org/packages/magepow%2Fcustompdffont) | 1.0.0 | Magepow | Customize PDF invoice fonts. |
+| 2026-10-28 14:32:41 | [pdfkiln/pdfkiln](https://www.nuget.org/packages/pdfkiln%2Fpdfkiln) | 1.0.3 |  | Drop-in replacement for wkhtmltopdf, powered by Chromium: vendor/bin/wkhtmltopd… |
+| 2026-10-28 14:49:25 | [ardanayatraa/laravel-mcp-hub](https://www.nuget.org/packages/ardanayatraa%2Flaravel-mcp-hub) | v0.1.0-alpha.1 | Ardana Yatra | Application-owned Laravel source APIs and a scoped MCP Hub client. |
+| 2026-10-28 14:52:33 | [ollily/php-sonar-scanner](https://www.nuget.org/packages/ollily%2Fphp-sonar-scanner) | 0.1.0-BETA | ollily | A sonar-scanner for PHP using composer |
+| 2026-10-28 15:01:40 | [rabbitevents/outbox](https://www.nuget.org/packages/rabbitevents%2Foutbox) | v0.1.0 | Eugene Kirdzei | Delivers RabbitEvents messages through a database outbox: written in the transa… |
+| 2026-10-28 15:05:57 | [coyshdigital/craft-small-change](https://www.nuget.org/packages/coyshdigital%2Fcraft-small-change) | 1.0.0 | Coysh Digital | A small, Stripe-only shop and donations plugin for Craft CMS. Built for chariti… |
+| 2026-10-28 15:06:48 | [dsdcr/tronweb](https://www.nuget.org/packages/dsdcr%2Ftronweb) | v2.1.1 | dsdcr | 专业的PHP SDK，用于与TRON波场区块链网络交互，提供HTTP API封装、智能合约部署与调用、TRC20代币管理、交易构建与签名功能 |
+| 2026-10-28 15:08:30 | [brbunny/brway](https://www.nuget.org/packages/brbunny%2Fbrway) | v1.0.0 | Kevin Siqueira; Robson V. Lei… | Roteador PHP simples para MVC e APIs: verbos RESTful, grupos, rotas nomeadas, m… |
+| 2026-10-28 15:09:20 | [binhtq1/kern-core](https://www.nuget.org/packages/binhtq1%2Fkern-core) | v0.2.0 |  | Upgradeable Kern CMS runtime |
 
 ## Data source
 

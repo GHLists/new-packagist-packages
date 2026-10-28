@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-28T14:32:41Z,pdfkiln/pdfkiln,1.0.3,,"Drop-in replacement for wkhtmltopdf, powered by Chromium: vendor/bin/wkhtmltopdf and vendor/bin/wkhtmltoimage, downloaded on first use"
+2026-10-28T14:49:25Z,ardanayatraa/laravel-mcp-hub,v0.1.0-alpha.1,Ardana Yatra,Application-owned Laravel source APIs and a scoped MCP Hub client.
+2026-10-28T14:52:33Z,ollily/php-sonar-scanner,0.1.0-BETA,ollily,A sonar-scanner for PHP using composer
+2026-10-28T15:01:40Z,rabbitevents/outbox,v0.1.0,Eugene Kirdzei,"Delivers RabbitEvents messages through a database outbox: written in the transaction of the event, retried until sent or expired, coalesced by object key"
+2026-10-28T15:05:57Z,coyshdigital/craft-small-change,1.0.0,Coysh Digital,"A small, Stripe-only shop and donations plugin for Craft CMS. Built for charities, churches and small organisations that don't need Craft Commerce."
+2026-10-28T15:06:48Z,dsdcr/tronweb,v2.1.1,dsdcr,专业的PHP SDK，用于与TRON波场区块链网络交互，提供HTTP API封装、智能合约部署与调用、TRC20代币管理、交易构建与签名功能
+2026-10-28T15:08:30Z,brbunny/brway,v1.0.0,Kevin Siqueira; Robson V. Leite,"Roteador PHP simples para MVC e APIs: verbos RESTful, grupos, rotas nomeadas, middlewares e form spoofing."
+2026-10-28T15:09:20Z,binhtq1/kern-core,v0.2.0,,Upgradeable Kern CMS runtime
