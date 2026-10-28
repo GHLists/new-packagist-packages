@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-28T21:20:33Z,bahu90/mining-manager,v2.1.0,Bahu90; Matt Falahe,"Comprehensive mining management plugin for SeAT - Track mining activities, manage moon extractions, calculate taxes, and generate detailed reports"
+2026-10-28T21:26:04Z,nexus-lab/nexus,v2.0.4,Nexus Core Architecture Team,"Nexus Shield v2 - Next.js-inspired, JSX-compiled, ultra-secure PHP micro-framework boilerplate designed for cPanel shared hosting."
+2026-10-28T21:27:29Z,simp/price,v1.0.0,Chance Nyasulu,This is php package that works with numerical values as amount of entity
+2026-10-28T21:33:14Z,papercut/laravel,v0.3.0,One Learning Community,Blade components that compile to Papercut's PDF layout engine.
+2026-10-28T21:33:15Z,papercut/core,v0.3.0,One Learning Community,"Component-based, page-aware PDF layout engine for modern PHP."
+2026-10-28T21:33:28Z,papercut/docx,v0.3.0,One Learning Community,Word (.docx) export for Papercut documents.
+2026-10-28T21:38:02Z,warpsearch/warpsearch-for-woocommerce,0.1.0,WarpSearch by BigData Boutique,"WarpSearch for WooCommerce: fast, relevant WooCommerce product search with as-you-type results, powered by the WarpSearch serverless search service (https://warpsearch.io)."
+2026-10-28T21:38:09Z,warpsearch/module-search,0.1.0,WarpSearch by BigData Boutique,"WarpSearch for Magento 2 / Adobe Commerce: instant, relevance-ranked product quick search and catalog indexing, powered by the WarpSearch serverless search service (https://warpsearch.io)."
+2026-10-28T21:42:33Z,matthieuthuetdev/simple-ai,v1.0.0,,A simple PHP library to interact with OpenAI models.
+2026-10-28T22:11:35Z,softavis/turnstile-bundle,1.0.0,,Symfony integration for softavis/turnstile
