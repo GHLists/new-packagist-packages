@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-27T23:49:53Z,valtzu/symfony-outgoing-firewall,v0.2.0,,Rule-based firewall for outgoing Symfony HttpClient requests
+2026-10-28T00:02:33Z,socialdept/atp-appview-filament,v0.1.0,,Run and inspect AT Protocol AppViews from a Filament panel in Laravel
