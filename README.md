@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 07:21 UTC
+## Latest list — 2026-10-28 08:20 UTC
 
-New packages created between 2026-10-28 06:19 UTC and 2026-10-28 07:21 UTC.
+New packages created between 2026-10-28 07:21 UTC and 2026-10-28 08:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-28T07-21-18-283245Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-28T08-20-50-735114Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-28 06:31:25 | [bbwdadfg/pdftomd-url-tools](https://www.nuget.org/packages/bbwdadfg%2Fpdftomd-url-tools) | v0.1.0 | wangneo276-lgtm | Free in-browser pdf to md tool. Drop a text PDF, preview Markdown, copy or down… |
-| 2026-10-28 06:56:00 | [hipdevteam/ion-mu](https://www.nuget.org/packages/hipdevteam%2Fion-mu) | v3.5.1 | ION | ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Inte… |
-| 2026-10-28 06:58:44 | [privatus/filament-analytics](https://www.nuget.org/packages/privatus%2Ffilament-analytics) | v1.0.0 | Two Phase LLC | Privatus Analytics dashboard widgets for Filament: visitors, pageviews, a traff… |
+| 2026-10-28 07:33:09 | [clesson-de/silverstripe-interval](https://www.nuget.org/packages/clesson-de%2Fsilverstripe-interval) | 1.0.0 | Kai Feldmaier | ISO-8601 interval field for SilverStripe 6 with user-friendly input and localiz… |
+| 2026-10-28 07:33:45 | [packstub/credits](https://www.nuget.org/packages/packstub%2Fcredits) | v1.0.0 | Packstub | Credits and usage metering for Laravel: per-user or per-team balances, credits… |
 
 ## Data source
 

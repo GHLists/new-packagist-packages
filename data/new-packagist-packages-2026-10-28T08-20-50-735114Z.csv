@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-28T07:33:09Z,clesson-de/silverstripe-interval,1.0.0,Kai Feldmaier,ISO-8601 interval field for SilverStripe 6 with user-friendly input and localized output formatting.
+2026-10-28T07:33:45Z,packstub/credits,v1.0.0,Packstub,"Credits and usage metering for Laravel: per-user or per-team balances, credits that expire and are spent soonest-expiring first, holds you reserve before an AI call and settle once its cost is known, fractional meters that never round a credit away, plan allowances renewed without a cron, idempoten…"
