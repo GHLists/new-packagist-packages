@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-28T02:29:48Z,privatus/neos-analytics,v1.0.0,Two Phase LLC,"Adds the cookieless Privatus Analytics tracking script to your Neos site. No cookies, no cookie pop-up, no bots."
+2026-10-28T02:33:11Z,pushinbr/pam-native-analytics,v0.1.0,,Privacy-safe product analytics (Firebase Analytics without advertising identifiers) for PAM Native.
+2026-10-28T02:33:30Z,pushinbr/pam-native-lottie,v0.1.0,,"Native Lottie animations for PAM Native: lottie-android and lottie-ios behind one host view, paused off-screen, with a bounded composition cache."
+2026-10-28T03:04:06Z,privatus/bolt-privatus-analytics,v1.0.0,Privatus Analytics,"See how many real people visit your Bolt CMS site, without cookies. Adds the Privatus Analytics script to every front-end page."
+2026-10-28T03:04:14Z,privatus/automad-privatus-analytics,v1.0.0,Privatus Analytics,"See how many real people visit your Automad site, without cookies. Adds the Privatus Analytics script to your pages."
