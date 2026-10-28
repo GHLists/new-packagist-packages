@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-28T12:50:50Z,edemsky.m/laravel-media-collections,v0.1.0,,
+2026-10-28T13:02:22Z,dockcodes/dockaccess-alt-generator-symfony,1.0.0,Dock,"Symfony bundle for the dockaccess.org AI alt text generator: connection to the account, a service, a validation constraint, a Messenger handler and console commands."
+2026-10-28T13:05:06Z,dockcodes/dockaccess-alt-generator-laravel,1.0.0,Dock,"Laravel integration of the dockaccess.org AI alt text generator: connection to the account, a facade, a validation rule, a queued job and Artisan commands."
