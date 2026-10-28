@@ -15,16 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 08:20 UTC
+## Latest list — 2026-10-28 09:20 UTC
 
-New packages created between 2026-10-28 07:21 UTC and 2026-10-28 08:20 UTC.
+New packages created between 2026-10-28 08:20 UTC and 2026-10-28 09:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-28T08-20-50-735114Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-28T09-20-52-29602Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-28 07:33:09 | [clesson-de/silverstripe-interval](https://www.nuget.org/packages/clesson-de%2Fsilverstripe-interval) | 1.0.0 | Kai Feldmaier | ISO-8601 interval field for SilverStripe 6 with user-friendly input and localiz… |
-| 2026-10-28 07:33:45 | [packstub/credits](https://www.nuget.org/packages/packstub%2Fcredits) | v1.0.0 | Packstub | Credits and usage metering for Laravel: per-user or per-team balances, credits… |
+| 2026-10-28 08:39:34 | [tevkert/queue-prefork](https://www.nuget.org/packages/tevkert%2Fqueue-prefork) | v1.0.0 | Ando Hakobyan | Cut the memory of Laravel queue workers by up to 80 %: queue:work and Horizon w… |
+| 2026-10-28 08:45:36 | [lck/swoft](https://www.nuget.org/packages/lck%2Fswoft) | v2.0.13 |  | Swoft skeleton application, PHP 8.4 ready maintained fork |
+| 2026-10-28 08:50:22 | [bensomething/craft-namecheck](https://www.nuget.org/packages/bensomething%2Fcraft-namecheck) | 1.0.0-beta.1 |  | Automatically link the names of your entries wherever your content mentions the… |
+| 2026-10-28 08:52:43 | [vinh0809it/keycloak-bundle](https://www.nuget.org/packages/vinh0809it%2Fkeycloak-bundle) | v0.1.0 | Vinh Vo | Keycloak for Symfony: a firewall authenticator over Symfony's OIDC token handle… |
+| 2026-10-28 08:55:47 | [queuey/queuey](https://www.nuget.org/packages/queuey%2Fqueuey) | v1.0.0 | Jaap Elst | A pure-PHP job queue with RabbitMQ transport, wire-compatible with the queuey R… |
+| 2026-10-28 09:02:17 | [queuey/symfony](https://www.nuget.org/packages/queuey%2Fsymfony) | v1.0.0 | Jaap Elst | Symfony bundle for queuey: container wiring, configuration, console commands, e… |
+| 2026-10-28 09:12:20 | [mdestafadilah/satusehat-sdk](https://www.nuget.org/packages/mdestafadilah%2Fsatusehat-sdk) | 0.9.0 | Agung Gumilang | Unofficial API wrapper package to integrate with SATUSEHAT platform (fork of ag… |
 
 ## Data source
 

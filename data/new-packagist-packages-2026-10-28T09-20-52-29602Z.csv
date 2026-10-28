@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-28T08:39:34Z,tevkert/queue-prefork,v1.0.0,Ando Hakobyan,"Cut the memory of Laravel queue workers by up to 80 %: queue:work and Horizon workers run as forks of one template that shares compiled code through opcache. Drop-in, no code changes."
+2026-10-28T08:45:36Z,lck/swoft,v2.0.13,,"Swoft skeleton application, PHP 8.4 ready maintained fork"
+2026-10-28T08:50:22Z,bensomething/craft-namecheck,1.0.0-beta.1,,"Automatically link the names of your entries wherever your content mentions them, and track who mentioned whom."
+2026-10-28T08:52:43Z,vinh0809it/keycloak-bundle,v0.1.0,Vinh Vo,"Keycloak for Symfony: a firewall authenticator over Symfony's OIDC token handler, per-client principal resolution, session cookies, a client for the realm's endpoints, dev tokens and a signing test stub."
+2026-10-28T08:55:47Z,queuey/queuey,v1.0.0,Jaap Elst,"A pure-PHP job queue with RabbitMQ transport, wire-compatible with the queuey Rust library."
+2026-10-28T09:02:17Z,queuey/symfony,v1.0.0,Jaap Elst,"Symfony bundle for queuey: container wiring, configuration, console commands, events and test doubles for the pure-PHP, Rust-wire-compatible job queue."
+2026-10-28T09:12:20Z,mdestafadilah/satusehat-sdk,0.9.0,Agung Gumilang,Unofficial API wrapper package to integrate with SATUSEHAT platform (fork of agumil/satusehat-sdk with PR #13 updates).
