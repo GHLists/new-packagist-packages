@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-28T18:35:31Z,pollora/wp-rocket,v0.1.0,Olivier Gorzalka,"WP Rocket for Pollora, the Laravel framework for WordPress: keeps WP Rocket from writing .htaccess and setting WP_CACHE unless the project asks for it."
+2026-10-28T18:47:44Z,webx-ui/module-cart,v0.89.0,WebX UI,"A guest cart for WebX UI sites: lines of anything a module sells through the Purchasable contract, priced live by their owner, totals as a chain other modules plug into, and cart() for Blade."
+2026-10-28T18:48:00Z,webx-ui/module-users,v0.89.0,WebX UI,"Visitors of a WebX UI site: their own table and the site guard, sign-in and registration by e-mail, and the Visitors seam of the panel bound to them — no way into the panel, no shop inside."
+2026-10-28T18:51:04Z,novasia-estate/listing-import-guard,v1.0.0,NovAsia Estate,"Strict PHP real estate CSV import mapping: explicit currencies, decimal price strings, source provenance and safe spreadsheet exports."
+2026-10-28T18:51:08Z,alexhackney/laravel-zammad,v1.0.0,Alex Hackney,"Zammad helpdesk API client for Laravel, built on Saloon"
+2026-10-28T18:51:45Z,omarabdelwahhab30/zatca,v1.0.1,,"ZATCA (FATOORA) e-invoicing integration package: compliance/production onboarding, XML generation, signing via the ZATCA SDK, reporting, certificate lifecycle."

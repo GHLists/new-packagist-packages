@@ -15,18 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 18:21 UTC
+## Latest list — 2026-10-28 19:19 UTC
 
-New packages created between 2026-10-28 17:21 UTC and 2026-10-28 18:21 UTC.
+New packages created between 2026-10-28 18:21 UTC and 2026-10-28 19:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-28T18-21-25-68541Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-28T19-19-36-763826Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-28 17:30:03 | [tmwk/pdf-section-splitter-bundle](https://www.nuget.org/packages/tmwk%2Fpdf-section-splitter-bundle) | v1.0.0 | Mario Figueroa | Bundle desacoplado para Symfony 5.4+ / PHP 8.1+ que segmenta determinísticament… |
-| 2026-10-28 17:38:23 | [jumphp/jumphp](https://www.nuget.org/packages/jumphp%2Fjumphp) | v0.1.0 |  | JumPHP: write retro 2D / 3D games in PHP that run on the desktop and in the bro… |
-| 2026-10-28 17:41:16 | [cordbolte/statamic-alpine](https://www.nuget.org/packages/cordbolte%2Fstatamic-alpine) | v1.0.0 | Cord Bolte | Pass Statamic data to Alpine.js (or any JavaScript) as JSON: select fields, joi… |
-| 2026-10-28 18:01:24 | [anghelutav/laravel-pdf-templates](https://www.nuget.org/packages/anghelutav%2Flaravel-pdf-templates) | v0.1.1 | AnghelutaV | PDF templates for Laravel: visual designer (pdfme) or HTML/CSS with placeholder… |
+| 2026-10-28 18:35:31 | [pollora/wp-rocket](https://www.nuget.org/packages/pollora%2Fwp-rocket) | v0.1.0 | Olivier Gorzalka | WP Rocket for Pollora, the Laravel framework for WordPress: keeps WP Rocket fro… |
+| 2026-10-28 18:47:44 | [webx-ui/module-cart](https://www.nuget.org/packages/webx-ui%2Fmodule-cart) | v0.89.0 | WebX UI | A guest cart for WebX UI sites: lines of anything a module sells through the Pu… |
+| 2026-10-28 18:48:00 | [webx-ui/module-users](https://www.nuget.org/packages/webx-ui%2Fmodule-users) | v0.89.0 | WebX UI | Visitors of a WebX UI site: their own table and the site guard, sign-in and reg… |
+| 2026-10-28 18:51:04 | [novasia-estate/listing-import-guard](https://www.nuget.org/packages/novasia-estate%2Flisting-import-guard) | v1.0.0 | NovAsia Estate | Strict PHP real estate CSV import mapping: explicit currencies, decimal price s… |
+| 2026-10-28 18:51:08 | [alexhackney/laravel-zammad](https://www.nuget.org/packages/alexhackney%2Flaravel-zammad) | v1.0.0 | Alex Hackney | Zammad helpdesk API client for Laravel, built on Saloon |
+| 2026-10-28 18:51:45 | [omarabdelwahhab30/zatca](https://www.nuget.org/packages/omarabdelwahhab30%2Fzatca) | v1.0.1 |  | ZATCA (FATOORA) e-invoicing integration package: compliance/production onboardi… |
 
 ## Data source
 
