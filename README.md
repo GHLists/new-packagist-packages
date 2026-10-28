@@ -15,21 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 06:19 UTC
+## Latest list — 2026-10-28 07:21 UTC
 
-New packages created between 2026-10-28 05:21 UTC and 2026-10-28 06:19 UTC.
+New packages created between 2026-10-28 06:19 UTC and 2026-10-28 07:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-28T06-19-29-183529Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-28T07-21-18-283245Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-28 05:31:36 | [mitydigital/cargo-australia-post](https://www.nuget.org/packages/mitydigital%2Fcargo-australia-post) | 1.0.0 |  |  |
-| 2026-10-28 05:44:14 | [lck/swoft](https://www.nuget.org/packages/lck%2Fswoft) | v2.0.13 |  | Swoft skeleton application, PHP 8.4 ready maintained fork |
-| 2026-10-28 05:48:34 | [faysoft/kbutils](https://www.nuget.org/packages/faysoft%2Fkbutils) | 1.0.0 | fayfox | 公共工具类 |
-| 2026-10-28 05:58:17 | [phattarachai/laravel-kradan](https://www.nuget.org/packages/phattarachai%2Flaravel-kradan) | v0.1.0 | Phattarachai Chaimongkol | A review board inside your Laravel app: Claude pushes pages that ask for a deci… |
-| 2026-10-28 05:58:44 | [warsita/warsita-php](https://www.nuget.org/packages/warsita%2Fwarsita-php) | v0.1.0 |  | Official PHP client for the Warsita WhatsApp API: send messages, manage session… |
-| 2026-10-28 06:09:10 | [astral-php/astral-testing](https://www.nuget.org/packages/astral-php%2Fastral-testing) | 0.1.0 | astral-php | Helpers de test Astral — HttpTestCase, factories, assertions (events / mails /… |
-| 2026-10-28 06:15:17 | [touhidurabir/envlens](https://www.nuget.org/packages/touhidurabir%2Fenvlens) | 1.0.0 | Touhidur Rahman | Inspect, compare, audit and safely maintain Laravel .env files. |
+| 2026-10-28 06:31:25 | [bbwdadfg/pdftomd-url-tools](https://www.nuget.org/packages/bbwdadfg%2Fpdftomd-url-tools) | v0.1.0 | wangneo276-lgtm | Free in-browser pdf to md tool. Drop a text PDF, preview Markdown, copy or down… |
+| 2026-10-28 06:56:00 | [hipdevteam/ion-mu](https://www.nuget.org/packages/hipdevteam%2Fion-mu) | v3.5.1 | ION | ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Inte… |
+| 2026-10-28 06:58:44 | [privatus/filament-analytics](https://www.nuget.org/packages/privatus%2Ffilament-analytics) | v1.0.0 | Two Phase LLC | Privatus Analytics dashboard widgets for Filament: visitors, pageviews, a traff… |
 
 ## Data source
 
