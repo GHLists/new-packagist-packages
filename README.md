@@ -15,22 +15,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 15:19 UTC
+## Latest list — 2026-10-28 16:21 UTC
 
-New packages created between 2026-10-28 14:20 UTC and 2026-10-28 15:19 UTC.
+New packages created between 2026-10-28 15:19 UTC and 2026-10-28 16:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-28T15-19-13-920086Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-28T16-21-15-47708Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-28 14:32:41 | [pdfkiln/pdfkiln](https://www.nuget.org/packages/pdfkiln%2Fpdfkiln) | 1.0.3 |  | Drop-in replacement for wkhtmltopdf, powered by Chromium: vendor/bin/wkhtmltopd… |
-| 2026-10-28 14:49:25 | [ardanayatraa/laravel-mcp-hub](https://www.nuget.org/packages/ardanayatraa%2Flaravel-mcp-hub) | v0.1.0-alpha.1 | Ardana Yatra | Application-owned Laravel source APIs and a scoped MCP Hub client. |
-| 2026-10-28 14:52:33 | [ollily/php-sonar-scanner](https://www.nuget.org/packages/ollily%2Fphp-sonar-scanner) | 0.1.0-BETA | ollily | A sonar-scanner for PHP using composer |
-| 2026-10-28 15:01:40 | [rabbitevents/outbox](https://www.nuget.org/packages/rabbitevents%2Foutbox) | v0.1.0 | Eugene Kirdzei | Delivers RabbitEvents messages through a database outbox: written in the transa… |
-| 2026-10-28 15:05:57 | [coyshdigital/craft-small-change](https://www.nuget.org/packages/coyshdigital%2Fcraft-small-change) | 1.0.0 | Coysh Digital | A small, Stripe-only shop and donations plugin for Craft CMS. Built for chariti… |
-| 2026-10-28 15:06:48 | [dsdcr/tronweb](https://www.nuget.org/packages/dsdcr%2Ftronweb) | v2.1.1 | dsdcr | 专业的PHP SDK，用于与TRON波场区块链网络交互，提供HTTP API封装、智能合约部署与调用、TRC20代币管理、交易构建与签名功能 |
-| 2026-10-28 15:08:30 | [brbunny/brway](https://www.nuget.org/packages/brbunny%2Fbrway) | v1.0.0 | Kevin Siqueira; Robson V. Lei… | Roteador PHP simples para MVC e APIs: verbos RESTful, grupos, rotas nomeadas, m… |
-| 2026-10-28 15:09:20 | [binhtq1/kern-core](https://www.nuget.org/packages/binhtq1%2Fkern-core) | v0.2.0 |  | Upgradeable Kern CMS runtime |
+| 2026-10-28 15:29:17 | [tpetry/laravel-multi-region](https://www.nuget.org/packages/tpetry%2Flaravel-multi-region) | 1.0.0 | tpetry | Middleware to create multi-region applications with read-after-write consistency |
+| 2026-10-28 15:35:01 | [a2ztools/api](https://www.nuget.org/packages/a2ztools%2Fapi) | v1.0.0 | A2Z Tools | Free API client for website checks: SSL certificate expiry, DNS, WHOIS (RDAP),… |
+| 2026-10-28 15:42:04 | [ghispi/tree-transform](https://www.nuget.org/packages/ghispi%2Ftree-transform) | v0.1.0 | ghispi | Efficient, streaming filtering and transformation of trees (nested set, adjacen… |
+| 2026-10-28 15:44:16 | [pushinbr/pam-native-contacts](https://www.nuget.org/packages/pushinbr%2Fpam-native-contacts) | v0.1.0 |  | Device contacts and the SMS composer for PAM Native: paged contact reads, the n… |
+| 2026-10-28 15:44:16 | [pushinbr/pam-native-location](https://www.nuget.org/packages/pushinbr%2Fpam-native-location) | v0.1.0 |  | Device location for PAM Native: current and last known position, watches, and t… |
+| 2026-10-28 15:44:16 | [pushinbr/pam-native-sensors](https://www.nuget.org/packages/pushinbr%2Fpam-native-sensors) | v0.1.0 |  | Motion sensors for PAM Native: one-shot reads and throttled watches of the acce… |
+| 2026-10-28 15:48:54 | [cloakwp/media-offload](https://www.nuget.org/packages/cloakwp%2Fmedia-offload) | v0.1.0-beta.1 |  | Store WordPress attachments in S3-compatible object storage. |
+| 2026-10-28 15:50:40 | [shaarifsabah/laravel-watchman](https://www.nuget.org/packages/shaarifsabah%2Flaravel-watchman) | v1.0.0 |  | Sanctions screening for Laravel: a native PHP port of Moov Watchman (OFAC, CSL,… |
+| 2026-10-28 15:52:19 | [makallio85/rocksoftware-cakephp-db-sanitizer](https://www.nuget.org/packages/makallio85%2Frocksoftware-cakephp-db-sanitizer) | v1.0.0 |  | CakePHP 5 plugin that masks a copy of a production database: per-column rules w… |
+| 2026-10-28 15:52:36 | [hnraytek/flame-tp](https://www.nuget.org/packages/hnraytek%2Fflame-tp) | v1.0.0 | haoshuaioo | Flame TP skeleton. Install modules to grow your app. |
+| 2026-10-28 16:05:13 | [ilbronza/media-manager](https://www.nuget.org/packages/ilbronza%2Fmedia-manager) | v0.1.0 | Davide Bronzini | Filesystem-backed Laravel media catalogue with stable identities and reconcilia… |
+| 2026-10-28 16:16:14 | [josbeir/cakephp-interact](https://www.nuget.org/packages/josbeir%2Fcakephp-interact) | 0.1.0 |  | Reactive server-rendered PHP islands for CakePHP. |
+| 2026-10-28 16:19:34 | [artisan-build/bonfire](https://www.nuget.org/packages/artisan-build%2Fbonfire) | 0.2.0 |  | A chat package inspired by Campfire from 37 Signals |
 
 ## Data source
 

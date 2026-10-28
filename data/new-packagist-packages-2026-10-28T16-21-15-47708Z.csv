@@ -1,0 +1,14 @@
+created_at,package,version,author,description
+2026-10-28T15:29:17Z,tpetry/laravel-multi-region,1.0.0,tpetry,Middleware to create multi-region applications with read-after-write consistency
+2026-10-28T15:35:01Z,a2ztools/api,v1.0.0,A2Z Tools,"Free API client for website checks: SSL certificate expiry, DNS, WHOIS (RDAP), SPF, DKIM, DMARC, security headers, robots.txt, llms.txt and more."
+2026-10-28T15:42:04Z,ghispi/tree-transform,v0.1.0,ghispi,"Efficient, streaming filtering and transformation of trees (nested set, adjacency list, materialized path, nested arrays) with pluggable strategies. Works with Gedmo Doctrine tree behaviours."
+2026-10-28T15:44:16Z,pushinbr/pam-native-contacts,v0.1.0,,"Device contacts and the SMS composer for PAM Native: paged contact reads, the new contact form and prefilled SMS."
+2026-10-28T15:44:16Z,pushinbr/pam-native-location,v0.1.0,,"Device location for PAM Native: current and last known position, watches, and the location services switch."
+2026-10-28T15:44:16Z,pushinbr/pam-native-sensors,v0.1.0,,"Motion sensors for PAM Native: one-shot reads and throttled watches of the accelerometer, gyroscope, magnetometer and rotation vector."
+2026-10-28T15:48:54Z,cloakwp/media-offload,v0.1.0-beta.1,,Store WordPress attachments in S3-compatible object storage.
+2026-10-28T15:50:40Z,shaarifsabah/laravel-watchman,v1.0.0,,"Sanctions screening for Laravel: a native PHP port of Moov Watchman (OFAC, CSL, FinCEN 311, EU, UK, UN, OpenSanctions) with an optional HTTP driver for the Go server."
+2026-10-28T15:52:19Z,makallio85/rocksoftware-cakephp-db-sanitizer,v1.0.0,,"CakePHP 5 plugin that masks a copy of a production database: per-column rules with deterministic fake data, a coverage check, outbound switches, and a marker that import scripts require."
+2026-10-28T15:52:36Z,hnraytek/flame-tp,v1.0.0,haoshuaioo,Flame TP skeleton. Install modules to grow your app.
+2026-10-28T16:05:13Z,ilbronza/media-manager,v0.1.0,Davide Bronzini,Filesystem-backed Laravel media catalogue with stable identities and reconciliation
+2026-10-28T16:16:14Z,josbeir/cakephp-interact,0.1.0,,Reactive server-rendered PHP islands for CakePHP.
+2026-10-28T16:19:34Z,artisan-build/bonfire,0.2.0,,A chat package inspired by Campfire from 37 Signals
