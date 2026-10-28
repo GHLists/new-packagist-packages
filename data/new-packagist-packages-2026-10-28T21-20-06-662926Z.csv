@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-28T20:29:31Z,crystoline/xpsr-log-monolog,v0.3.0,Adekunle,"Monolog logging for XPSR applications: stderr, file, daily, or syslog output, line or JSON format, and a request ID on every log line"
+2026-10-28T20:29:31Z,crystoline/xpsr-validation,v0.3.0,Adekunle,"Request validation for XPSR applications: input classes checked with Symfony Validator rules, answered with 422 and field errors"
+2026-10-28T20:39:30Z,ilbronza/tasks,v1.0.0,Davide Bronzini,"Laravel task management with conversations, attachments and client participation"
+2026-10-28T20:45:50Z,ksfraser/related-to-core,1.0.0,Kevin Fraser,"Framework-agnostic related-records core: DTOs, repository interface, exceptions, and UI renderer contracts"
+2026-10-28T21:10:35Z,hubmais/h-plugin-waha,2.0.6,,Plugin Laravel to send notification to WhatsApp via Waha
