@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-28T05:31:36Z,mitydigital/cargo-australia-post,1.0.0,,
+2026-10-28T05:44:14Z,lck/swoft,v2.0.13,,"Swoft skeleton application, PHP 8.4 ready maintained fork"
+2026-10-28T05:48:34Z,faysoft/kbutils,1.0.0,fayfox,公共工具类
+2026-10-28T05:58:17Z,phattarachai/laravel-kradan,v0.1.0,Phattarachai Chaimongkol,"A review board inside your Laravel app: Claude pushes pages that ask for a decision; your signed-in users pick options, comment and pin; Claude pulls the answers back."
+2026-10-28T05:58:44Z,warsita/warsita-php,v0.1.0,,"Official PHP client for the Warsita WhatsApp API: send messages, manage sessions, contacts and groups, and verify webhooks. Works with Laravel."
+2026-10-28T06:09:10Z,astral-php/astral-testing,0.1.0,astral-php,"Helpers de test Astral — HttpTestCase, factories, assertions (events / mails / logs)"
+2026-10-28T06:15:17Z,touhidurabir/envlens,1.0.0,Touhidur Rahman,"Inspect, compare, audit and safely maintain Laravel .env files."
