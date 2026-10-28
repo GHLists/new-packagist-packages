@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-28T13:25:47Z,creacoon/laravel-dashboard-dutch-trains,v1.1.0,,Fetch upcoming departures for the live departure board tile
+2026-10-28T13:28:03Z,phpwarden/phpwarden,v1.0.0,phpwarden,"PHP exposure & exploitation guard — scan PHP engine, Composer deps & WordPress against an exploitation-ranked (KEV+EPSS) CVE feed"
+2026-10-28T13:31:21Z,brbunny/brlayer,v1.0.0,Kevin Siqueira; Robson V. Leite,"Camada de persistência com PDO e prepared statements: model Active Record com CRUD, consultas encadeadas e SQL próprio seguro."
+2026-10-28T13:43:21Z,mojahed/aiapi,1.0.3,Md. Mojahedul Islam,"A Laravel AI API package — connect to any LLM provider with a clean, unified interface. Supports OpenAI, Claude, Gemini, Ollama, OpenRouter, Groq, DeepSeek, Mistral and more."
+2026-10-28T13:44:00Z,cabuz/laravel-stedi,v1.1.2,Florin Cabuz,"Laravel SDK for the Stedi healthcare APIs: real-time eligibility checks, claims, claim status, remittances, payers, enrollment and signed webhooks."
+2026-10-28T14:00:27Z,excelle-insights/sms,v1.0.0,Excelle Insights,Multi-provider SMS package for Excelle applications
+2026-10-28T14:00:53Z,nth-root/phpstan-security,v0.1.0,,A PHPStan extension that checks your code for security vulnerabilities
+2026-10-28T14:15:36Z,magepow/custompdffont,1.0.0,Magepow,Customize PDF invoice fonts.

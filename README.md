@@ -15,17 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 13:19 UTC
+## Latest list — 2026-10-28 14:20 UTC
 
-New packages created between 2026-10-28 12:18 UTC and 2026-10-28 13:19 UTC.
+New packages created between 2026-10-28 13:19 UTC and 2026-10-28 14:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-28T13-19-05-296134Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-28T14-20-53-840773Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-28 12:50:50 | [edemsky.m/laravel-media-collections](https://www.nuget.org/packages/edemsky.m%2Flaravel-media-collections) | v0.1.0 |  |  |
-| 2026-10-28 13:02:22 | [dockcodes/dockaccess-alt-generator-symfony](https://www.nuget.org/packages/dockcodes%2Fdockaccess-alt-generator-symfony) | 1.0.0 | Dock | Symfony bundle for the dockaccess.org AI alt text generator: connection to the… |
-| 2026-10-28 13:05:06 | [dockcodes/dockaccess-alt-generator-laravel](https://www.nuget.org/packages/dockcodes%2Fdockaccess-alt-generator-laravel) | 1.0.0 | Dock | Laravel integration of the dockaccess.org AI alt text generator: connection to… |
+| 2026-10-28 13:25:47 | [creacoon/laravel-dashboard-dutch-trains](https://www.nuget.org/packages/creacoon%2Flaravel-dashboard-dutch-trains) | v1.1.0 |  | Fetch upcoming departures for the live departure board tile |
+| 2026-10-28 13:28:03 | [phpwarden/phpwarden](https://www.nuget.org/packages/phpwarden%2Fphpwarden) | v1.0.0 | phpwarden | PHP exposure & exploitation guard — scan PHP engine, Composer deps & WordPress… |
+| 2026-10-28 13:31:21 | [brbunny/brlayer](https://www.nuget.org/packages/brbunny%2Fbrlayer) | v1.0.0 | Kevin Siqueira; Robson V. Lei… | Camada de persistência com PDO e prepared statements: model Active Record com C… |
+| 2026-10-28 13:43:21 | [mojahed/aiapi](https://www.nuget.org/packages/mojahed%2Faiapi) | 1.0.3 | Md. Mojahedul Islam | A Laravel AI API package — connect to any LLM provider with a clean, unified in… |
+| 2026-10-28 13:44:00 | [cabuz/laravel-stedi](https://www.nuget.org/packages/cabuz%2Flaravel-stedi) | v1.1.2 | Florin Cabuz | Laravel SDK for the Stedi healthcare APIs: real-time eligibility checks, claims… |
+| 2026-10-28 14:00:27 | [excelle-insights/sms](https://www.nuget.org/packages/excelle-insights%2Fsms) | v1.0.0 | Excelle Insights | Multi-provider SMS package for Excelle applications |
+| 2026-10-28 14:00:53 | [nth-root/phpstan-security](https://www.nuget.org/packages/nth-root%2Fphpstan-security) | v0.1.0 |  | A PHPStan extension that checks your code for security vulnerabilities |
+| 2026-10-28 14:15:36 | [magepow/custompdffont](https://www.nuget.org/packages/magepow%2Fcustompdffont) | 1.0.0 | Magepow | Customize PDF invoice fonts. |
 
 ## Data source
 
