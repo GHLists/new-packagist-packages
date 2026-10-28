@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-28T16:33:54Z,alecgarcia/laravel-ai-vertex,v0.1.0,,"A Google Vertex AI driver for the Laravel AI SDK, with Gemini text over generateContent or the Interactions API, and embeddings."
+2026-10-28T16:55:55Z,psyao/kami,v0.1.0,Steve Aguet,"Psyao Kami: a Laravel and Filament CMS for developers, at home on shared hosting."
+2026-10-28T16:58:12Z,pushinbr/pam-native-notifications,v0.1.1,,"Optional native notifications, conversation actions and push rendering for PAM Native."
+2026-10-28T16:58:12Z,pushinbr/pam-native-webview,v0.1.1,,Optional hardened native WebView for PAM Native.
