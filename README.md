@@ -15,17 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 01:20 UTC
+## Latest list — 2026-10-28 02:21 UTC
 
-New packages created between 2026-10-28 00:20 UTC and 2026-10-28 01:20 UTC.
+New packages created between 2026-10-28 01:20 UTC and 2026-10-28 02:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-28T01-20-09-733096Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-28T02-21-37-916254Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-28 00:26:08 | [tryhackx/flarum-advanced-pages](https://www.nuget.org/packages/tryhackx%2Fflarum-advanced-pages) | 2.4.3 | TryHackX | Create advanced custom pages with HTML, BBCode, Markdown, PHP, or plain text, f… |
-| 2026-10-28 00:48:22 | [crystoline/xpsr](https://www.nuget.org/packages/crystoline%2Fxpsr) | v0.1.1 | Adekunle | XPSR application skeleton: a PHP framework built around PSR interfaces and inte… |
-| 2026-10-28 01:06:17 | [jackfinal/large-file-upload](https://www.nuget.org/packages/jackfinal%2Flarge-file-upload) | v1.0.0 | Jack Final | An extension of laravel-admin for uploading large files |
+| 2026-10-28 01:20:39 | [jackfinal/clike-editor](https://www.nuget.org/packages/jackfinal%2Fclike-editor) | v1.0.1 | song | Several c-lick language editor extensions for laravel-admin based on code-mirror |
+| 2026-10-28 01:44:44 | [afurgeri/laravel-api-keys](https://www.nuget.org/packages/afurgeri%2Flaravel-api-keys) | v0.1.0 |  | Hashed API keys with a request guard, abilities, rotation and revocation for La… |
+| 2026-10-28 01:51:30 | [google/cloud-observability](https://www.nuget.org/packages/google%2Fcloud-observability) | v0.1.0 |  | Google Cloud Observability Client for PHP |
+| 2026-10-28 01:51:34 | [soerenmeier/meierlabs-seo](https://www.nuget.org/packages/soerenmeier%2Fmeierlabs-seo) | v0.1.0-alpha.0 | Sören Meier | SEO for headless Craft CMS sites built with crelte. |
+| 2026-10-28 01:58:26 | [grafite/cognitive-load](https://www.nuget.org/packages/grafite%2Fcognitive-load) | v1.0.1 | Matt Lantz | An easy to run tooling for analyzing the cognitive load of the code in a Larave… |
+| 2026-10-28 02:15:55 | [alibabacloud/openagent-20260801](https://www.nuget.org/packages/alibabacloud%2Fopenagent-20260801) | 1.0.0 | Alibaba Cloud SDK | Alibaba Cloud OpenAgent (20260801) SDK Library for PHP |
 
 ## Data source
 

@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-28T01:20:39Z,jackfinal/clike-editor,v1.0.1,song,Several c-lick language editor extensions for laravel-admin based on code-mirror
+2026-10-28T01:44:44Z,afurgeri/laravel-api-keys,v0.1.0,,"Hashed API keys with a request guard, abilities, rotation and revocation for Laravel."
+2026-10-28T01:51:30Z,google/cloud-observability,v0.1.0,,Google Cloud Observability Client for PHP
+2026-10-28T01:51:34Z,soerenmeier/meierlabs-seo,v0.1.0-alpha.0,Sören Meier,SEO for headless Craft CMS sites built with crelte.
+2026-10-28T01:58:26Z,grafite/cognitive-load,v1.0.1,Matt Lantz,An easy to run tooling for analyzing the cognitive load of the code in a Laravel application.
+2026-10-28T02:15:55Z,alibabacloud/openagent-20260801,1.0.0,Alibaba Cloud SDK,Alibaba Cloud OpenAgent (20260801) SDK Library for PHP
