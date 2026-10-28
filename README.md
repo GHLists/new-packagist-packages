@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 00:20 UTC
+## Latest list — 2026-10-28 01:20 UTC
 
-New packages created between 2026-10-27 23:20 UTC and 2026-10-28 00:20 UTC.
+New packages created between 2026-10-28 00:20 UTC and 2026-10-28 01:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-28T00-20-29-931736Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-28T01-20-09-733096Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-27 23:49:53 | [valtzu/symfony-outgoing-firewall](https://www.nuget.org/packages/valtzu%2Fsymfony-outgoing-firewall) | v0.2.0 |  | Rule-based firewall for outgoing Symfony HttpClient requests |
-| 2026-10-28 00:02:33 | [socialdept/atp-appview-filament](https://www.nuget.org/packages/socialdept%2Fatp-appview-filament) | v0.1.0 |  | Run and inspect AT Protocol AppViews from a Filament panel in Laravel |
+| 2026-10-28 00:26:08 | [tryhackx/flarum-advanced-pages](https://www.nuget.org/packages/tryhackx%2Fflarum-advanced-pages) | 2.4.3 | TryHackX | Create advanced custom pages with HTML, BBCode, Markdown, PHP, or plain text, f… |
+| 2026-10-28 00:48:22 | [crystoline/xpsr](https://www.nuget.org/packages/crystoline%2Fxpsr) | v0.1.1 | Adekunle | XPSR application skeleton: a PHP framework built around PSR interfaces and inte… |
+| 2026-10-28 01:06:17 | [jackfinal/large-file-upload](https://www.nuget.org/packages/jackfinal%2Flarge-file-upload) | v1.0.0 | Jack Final | An extension of laravel-admin for uploading large files |
 
 ## Data source
 

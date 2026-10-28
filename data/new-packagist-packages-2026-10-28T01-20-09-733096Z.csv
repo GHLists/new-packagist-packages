@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-28T00:26:08Z,tryhackx/flarum-advanced-pages,2.4.3,TryHackX,"Create advanced custom pages with HTML, BBCode, Markdown, PHP, or plain text, featuring nested hierarchies, breadcrumbs, and granular console-managed permissions for Flarum 2.x."
+2026-10-28T00:48:22Z,crystoline/xpsr,v0.1.1,Adekunle,XPSR application skeleton: a PHP framework built around PSR interfaces and interchangeable components
+2026-10-28T01:06:17Z,jackfinal/large-file-upload,v1.0.0,Jack Final,An extension of laravel-admin for uploading large files
