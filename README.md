@@ -15,18 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 04:23 UTC
+## Latest list — 2026-10-28 05:21 UTC
 
-New packages created between 2026-10-28 03:19 UTC and 2026-10-28 04:23 UTC.
+New packages created between 2026-10-28 04:23 UTC and 2026-10-28 05:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-28T04-23-11-394924Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-28T05-21-05-728482Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-28 03:29:03 | [binhtq1/kern-cms](https://www.nuget.org/packages/binhtq1%2Fkern-cms) | v0.1.0 | Binh Tran | Kern CMS on Laravel 13 |
-| 2026-10-28 03:35:34 | [contena-cms/contena-rector](https://www.nuget.org/packages/contena-cms%2Fcontena-rector) | 0.6.0 |  | Contena specific Rector |
-| 2026-10-28 03:40:11 | [webimpian/smsniaga-php](https://www.nuget.org/packages/webimpian%2Fsmsniaga-php) | v1.0.0 | Khairul Imran | PHP SDK for the SMS Niaga API: send SMS, track delivery reports, and manage sen… |
-| 2026-10-28 03:59:23 | [dipuxike/laravel-boost-command-code](https://www.nuget.org/packages/dipuxike%2Flaravel-boost-command-code) | 1.0.0 |  | Command Code agent for Laravel Boost. |
+| 2026-10-28 05:20:12 | [iam-lab/phalcon-stub](https://www.nuget.org/packages/iam-lab%2Fphalcon-stub) | v1.0.0 | Kev Morton | A clean, minimal Phalcon PHP framework stub project for generating new PHfalcon… |
 
 ## Data source
 
