@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-28T09:31:03Z,packstub/filament-gantt,v1.0.0-beta.1,Ion Caliman; Packstub,"A fast Gantt chart and resource timeline for Filament: any Eloquent query with a start and an end becomes draggable bars on a day, week or month axis, grouped by project, assignee or room, with the rules enforced on the server."
+2026-10-28T09:32:40Z,rft/laravel-docker,v1.0.0,,Zero-file Docker runtime (PHP 8.5 + Apache) and Composer commands for Laravel applications.
+2026-10-28T09:33:53Z,zxf/res,v0.0.1,,共享静态资源（字体、css、js、图片）包
+2026-10-28T09:35:32Z,uxf/composer-proxy,1.0.0,UXF,"Composer plugin redirecting package dist downloads through the internal composer-proxy caching proxy, without touching composer.json or composer.lock."
+2026-10-28T09:43:42Z,bitlane/magento,0.1.0,,"Bitlane search for Magento Open Source, Adobe Commerce and Mage-OS 2.4.7 to 2.4.9."
+2026-10-28T09:43:54Z,bitlane/prestashop,v0.3.0,Bitlane,"Bitlane search for PrestaShop 8 and 9: your catalogue in sync with Bitlane in every language, and its search widget in your shop."
+2026-10-28T09:44:04Z,bitlane/wordpress,v0.5.1,Bitlane,"Bitlane search for WordPress and WooCommerce: your catalogue, pages and posts in sync with Bitlane, and its search widget on your site."
+2026-10-28T10:09:54Z,darvis/printserver,v1.0.0,Arvid de Jong,"Queue print jobs in Laravel and let a print box on location fetch them over HTTPS, so no port has to be open on the router."
