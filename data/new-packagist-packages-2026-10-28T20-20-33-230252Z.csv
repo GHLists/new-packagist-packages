@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-10-28T19:42:23Z,juststeveking/sdk-toolbox,v0.0.1,Steve McDougall,"Build PHP SDKs on PSR-18, typed end to end, with the HTTP standards an API client should honour."
+2026-10-28T19:46:48Z,juhe-it-solutions/contao-consent-bundle,1.0.0,JUHE IT-solutions,"Consent banner and settings for Contao 5.7 and 6: consent groups, blocking of scripts and iframes until consent, click-to-load placeholders, pseudonymous consent log."
+2026-10-28T19:48:15Z,pushinbr/pam-native-i18n,v0.1.0,,"Optional message catalogs, translation, locale preferences and formatting for PAM Native."
+2026-10-28T19:48:25Z,twstec/kit-webhooks,v2.0.0-beta.15,TWS,"Webhooks de saída do TWS Laravel Starter Kit, sem telas: endpoints por conta (e por projeto), eventos assinados por endpoint, segredo gerado pelo servidor e guardado cifrado, assinatura HMAC-SHA256 com carimbo de tempo, saída por outbox durável e fila cifrada, novas tentativas com backoff exponenci…"
+2026-10-28T19:50:57Z,nexus-lab/cpanel-installer,v1.0.0,NextPHP Architecture Team,Zero-SSH graphical web installer for NextPHP and Nexus applications on cPanel shared hosting.
+2026-10-28T19:55:22Z,automattic/jetpack-monitor,v0.1.0,,Downtime monitoring for connected sites: the module's email alerts and status from WordPress.com.
+2026-10-28T19:56:29Z,webmasterskaya/php-unisender-api,v1.0.0,Artem Vasilev,Unofficial PHP SDK for the UniSender email and SMS API
+2026-10-28T20:15:18Z,bundle/identity-laravel,v1.0.0,,Laravel scope authorization SDK for Bundle Identity
+2026-10-28T20:17:07Z,overclock/lab-kit,v0.1.0,,Optional bridge between a Laravel app and the Overclock Lab panel.
