@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-29T12:27:17Z,nogrod/dhl-auth-php-sdk,v0.1.0,OpenAPI-Generator contributors,"This API describes how API client can obtain a token which is used to access various Parcel Germany APIs. Using this API is often the first step in making your API call. <p><h3>Preconditions</h3> You will need: * client ID (aka ""API Key"", obtained when you create an app in developer.dhl.com) * clie…"
+2026-10-29T12:29:04Z,tmonier/sylius-b2b-predictive-analytics-plugin,v0.1.0,Thibaut Monier,"Predictive reorder analytics for Sylius 2 B2B: median interval calculation between successive orders per company and product, scheduled recalculation, reorder alerts"
+2026-10-29T12:53:40Z,bbwdadfg/birthdaywebsite-url-tools,v0.1.0,wangneo276-lgtm,"Birthday Website Maker helps you create a personalized birthday website with photos, music, and a heartfelt letter. Preview free, then unlock and share with one link."
