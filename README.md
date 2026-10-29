@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 02:21 UTC
+## Latest list — 2026-10-29 03:21 UTC
 
-New packages created between 2026-10-29 01:20 UTC and 2026-10-29 02:21 UTC.
+New packages created between 2026-10-29 02:21 UTC and 2026-10-29 03:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T02-21-41-669949Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-29T03-21-59-520218Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 01:52:05 | [wayancc/inkdocs](https://www.nuget.org/packages/wayancc%2Finkdocs) | v1.0.0 |  | Fast flat-file documentation engine for PHP 8. Markdown in, cached HTML out. No… |
-| 2026-10-29 01:57:19 | [yii3/debug](https://www.nuget.org/packages/yii3%2Fdebug) | 0.1.0 | Wilmer Arambula | Yii3 adapter for the PHP Forge debug core. |
+| 2026-10-29 02:23:08 | [watsy/laravel](https://www.nuget.org/packages/watsy%2Flaravel) | v0.1.0 | akkadX | Official Laravel package for Watsy: verification codes (OTP) over WhatsApp, Tel… |
+| 2026-10-29 02:38:01 | [videovv/ini](https://www.nuget.org/packages/videovv%2Fini) | v1.3.1 |  | PHP INI Class (PHP 8.4 ready) |
+| 2026-10-29 02:44:57 | [m0d1xd/expo-notification](https://www.nuget.org/packages/m0d1xd%2Fexpo-notification) | v0.1.0 | Mohammed Zakout | Send Expo push notifications from Laravel and track delivery, opens and dismiss… |
+| 2026-10-29 03:20:15 | [eman-development-design/ki](https://www.nuget.org/packages/eman-development-design%2Fki) | 1.0.0 | Ed Lomonaco | A static site generator using Twig & Symfony. |
 
 ## Data source
 

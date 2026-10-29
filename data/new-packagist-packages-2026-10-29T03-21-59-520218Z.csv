@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-29T02:23:08Z,watsy/laravel,v0.1.0,akkadX,"Official Laravel package for Watsy: verification codes (OTP) over WhatsApp, Telegram and SMS for Iraq."
+2026-10-29T02:38:01Z,videovv/ini,v1.3.1,,PHP INI Class (PHP 8.4 ready)
+2026-10-29T02:44:57Z,m0d1xd/expo-notification,v0.1.0,Mohammed Zakout,"Send Expo push notifications from Laravel and track delivery, opens and dismissals per device."
+2026-10-29T03:20:15Z,eman-development-design/ki,1.0.0,Ed Lomonaco,A static site generator using Twig & Symfony.
