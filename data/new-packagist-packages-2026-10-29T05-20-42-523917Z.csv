@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-29T04:37:40Z,wayancc/wyn-forms,v1.0.0,,"Self-hosted form backend: spam-filtered inbox, notifications and uploads for any HTML form. PHP 8.2 + SQLite, no dependencies."
+2026-10-29T04:41:13Z,abetwothree/lang-export,v0.1.0,Abraham Arango,"Export your Laravel translation files as JSON for Vue, React, & Svelte with @tolki/lang"
+2026-10-29T04:54:52Z,tryrelia/relia,v0.1.0,,"Relia for PHP and Laravel: requests, errors, database queries, outgoing calls, queue jobs and logs, explained in plain words. Pure PHP, no extension."
