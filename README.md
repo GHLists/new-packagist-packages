@@ -15,19 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 18:20 UTC
+## Latest list — 2026-10-29 19:19 UTC
 
-New packages created between 2026-10-29 17:21 UTC and 2026-10-29 18:20 UTC.
+New packages created between 2026-10-29 18:20 UTC and 2026-10-29 19:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T18-20-53-122232Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-29T19-19-05-358966Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 17:22:38 | [handersonsilva/laravel-bruno-docs](https://www.nuget.org/packages/handersonsilva%2Flaravel-bruno-docs) | v1.0.0 |  | Serve a Bruno collection as a Swagger UI page in Laravel. |
-| 2026-10-29 17:33:43 | [dmlab/module-price-explain](https://www.nuget.org/packages/dmlab%2Fmodule-price-explain) | 0.0.1 |  | Explains why a Magento 2 cart or order costs what it costs: item price layers,… |
-| 2026-10-29 18:03:59 | [jacobtobies/glass](https://www.nuget.org/packages/jacobtobies%2Fglass) | v1.0.1 | Jacob Tobies | Glass: a frosted-glass skin for Roundcube Webmail, based on Elastic, with adjus… |
-| 2026-10-29 18:04:44 | [generoi/gds-llms](https://www.nuget.org/packages/generoi%2Fgds-llms) | v0.1.0 | Genero | Serves /llms.txt and a markdown version of every page for language models |
-| 2026-10-29 18:18:31 | [tinect/passkeys](https://www.nuget.org/packages/tinect%2Fpasskeys) | 1.0.0 | tinect | Passkey (WebAuthn) login for storefront customers |
+| 2026-10-29 18:38:56 | [simp/adjustment](https://www.nuget.org/packages/simp%2Fadjustment) | v1.0.0 | Chance Nyasulu | This is library for php that can be used to manage additional changes to order… |
+| 2026-10-29 19:07:26 | [ernestdefoe/surveyor](https://www.nuget.org/packages/ernestdefoe%2Fsurveyor) | 1.0.0 | Ernest Defoe | An SEO workspace for Flarum that works alongside FoF SEO, FoF Sitemap and Detou… |
+| 2026-10-29 19:14:08 | [ernestdefoe/buzz](https://www.nuget.org/packages/ernestdefoe%2Fbuzz) | 1.0.0 | Ernest Defoe | Buzz — a live activity feed for Flarum. New discussions, replies, members, rank… |
 
 ## Data source
 

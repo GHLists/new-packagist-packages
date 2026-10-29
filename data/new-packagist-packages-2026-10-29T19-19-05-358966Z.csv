@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-29T18:38:56Z,simp/adjustment,v1.0.0,Chance Nyasulu,This is library for php that can be used to manage additional changes to order entity
+2026-10-29T19:07:26Z,ernestdefoe/surveyor,1.0.0,Ernest Defoe,"An SEO workspace for Flarum that works alongside FoF SEO, FoF Sitemap and Detour: a polite site audit with scores and history, broken-link recovery through Detour, Google Search Console with opportunities, PageSpeed and Core Web Vitals, a regression guard, internal-link analysis, IndexNow, and opti…"
+2026-10-29T19:14:08Z,ernestdefoe/buzz,1.0.0,Ernest Defoe,"Buzz — a live activity feed for Flarum. New discussions, replies, members, ranks, badges, streaks and more pop up across the whole forum as they happen, as a top ticker or bottom toasts. Every visitor only sees what they are allowed to see."
