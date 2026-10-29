@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 10:20 UTC
+## Latest list — 2026-10-29 11:19 UTC
 
-New packages created between 2026-10-29 09:21 UTC and 2026-10-29 10:20 UTC.
+New packages created between 2026-10-29 10:20 UTC and 2026-10-29 11:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T10-20-42-805356Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-29T11-19-51-991086Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 09:33:37 | [devfactorych/ai-spam](https://www.nuget.org/packages/devfactorych%2Fai-spam) | v1.0.0 | Mark Cameron | AI-backed, queued spam protection for Laravel forms, powered by the Laravel AI… |
-| 2026-10-29 09:38:47 | [theshakhawat/laravel-nagad-fdet](https://www.nuget.org/packages/theshakhawat%2Flaravel-nagad-fdet) | v1.0.1 | Shakhawat | Nagad Modified Payment Gateway only for Freelancer Digital Expert Team. More in… |
-| 2026-10-29 09:40:51 | [jield-webdev/jield-api-tools](https://www.nuget.org/packages/jield-webdev%2Fjield-api-tools) | v2.0.0-beta.1 | Johan van der Heide | Own implementation of API endpoints. This repository is based on the Laminas AP… |
-| 2026-10-29 09:58:27 | [ghf/webgeeker-validation](https://www.nuget.org/packages/ghf%2Fwebgeeker-validation) | v0.1.1 | photondragon | Validation for WebGeeker (fork of photondragon/webgeeker-validation, PHP 8.4/8.… |
-| 2026-10-29 10:01:00 | [samt/skipcash-laravel](https://www.nuget.org/packages/samt%2Fskipcash-laravel) | v1.0.0 | Samt | Unofficial, production-grade Laravel SDK for the SkipCash payment gateway (Qata… |
+| 2026-10-29 10:29:03 | [astral-php/astral-cache](https://www.nuget.org/packages/astral-php%2Fastral-cache) | 0.1.0 | astral-php | Cache multi-drivers opt-in pour Astral — array, file, Redis/Memcache (extension… |
+| 2026-10-29 10:31:43 | [sandstorm/backendusermanagement](https://www.nuget.org/packages/sandstorm%2Fbackendusermanagement) | 1.0.0 |  | Backend User Management Package for Neos, includes 2FA, password reset, new use… |
+| 2026-10-29 10:52:55 | [bernskiold/laravel-snowflake](https://www.nuget.org/packages/bernskiold%2Flaravel-snowflake) | 0.1.0 | Bernskiold | Snowflake database driver for Laravel, supporting both the native pdo_snowflake… |
+| 2026-10-29 10:53:57 | [klimadashboard/typo3-klimadashboard](https://www.nuget.org/packages/klimadashboard%2Ftypo3-klimadashboard) | 1.0.0 | Klimadashboard | Embed charts from Klimadashboard (klimadashboard.de / .at / .org) as TYPO3 cont… |
 
 ## Data source
 

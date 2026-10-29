@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-29T10:29:03Z,astral-php/astral-cache,0.1.0,astral-php,"Cache multi-drivers opt-in pour Astral — array, file, Redis/Memcache (extensions)"
+2026-10-29T10:31:43Z,sandstorm/backendusermanagement,1.0.0,,"Backend User Management Package for Neos, includes 2FA, password reset, new user management UI and more"
+2026-10-29T10:52:55Z,bernskiold/laravel-snowflake,0.1.0,Bernskiold,"Snowflake database driver for Laravel, supporting both the native pdo_snowflake extension and ODBC connections."
+2026-10-29T10:53:57Z,klimadashboard/typo3-klimadashboard,1.0.0,Klimadashboard,"Embed charts from Klimadashboard (klimadashboard.de / .at / .org) as TYPO3 content elements: chart picker, region, language, design skin, auto-height, DSGVO-friendly."
