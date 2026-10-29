@@ -15,21 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 22:21 UTC
+## Latest list — 2026-10-29 23:19 UTC
 
-New packages created between 2026-10-29 21:21 UTC and 2026-10-29 22:21 UTC.
+New packages created between 2026-10-29 22:21 UTC and 2026-10-29 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T22-21-08-69149Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-29T23-19-59-748785Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 21:45:55 | [sentinelo/agent-composer](https://www.nuget.org/packages/sentinelo%2Fagent-composer) | v1.1.1 |  | Agent de maintenance Sentinelo pour les applications basées sur Composer — Symf… |
-| 2026-10-29 21:51:34 | [jetro-tools/contao-bundle](https://www.nuget.org/packages/jetro-tools%2Fcontao-bundle) | v1.0.1 | INRI Management Consulting Gm… | Jetro: Termine aus Jetro in Contao-Kalender übernehmen |
-| 2026-10-29 21:52:47 | [ernestdefoe/festoon](https://www.nuget.org/packages/ernestdefoe%2Ffestoon) | 1.0.1 | Ernest Defoe | A holiday theme that changes with the time of year: holiday colors, moving head… |
-| 2026-10-29 22:04:29 | [skorlok/dedicated-server-api](https://www.nuget.org/packages/skorlok%2Fdedicated-server-api) | 1.0.0 | NadeoLive; Skorlok | XML-RPC library to connect to ManiaPlanet server |
-| 2026-10-29 22:04:57 | [skorlok/asynchronous-jobs](https://www.nuget.org/packages/skorlok%2Fasynchronous-jobs) | 1.0.0 | Oliver de Cramer; Skorlok | Execute new php instances easily as you would threads. |
-| 2026-10-29 22:05:10 | [skorlok/manialive-lib](https://www.nuget.org/packages/skorlok%2Fmanialive-lib) | 1.0.0 | NadeoLive; Skorlok | ManiaLive library |
-| 2026-10-29 22:09:02 | [invoapi/invoapi-php](https://www.nuget.org/packages/invoapi%2Finvoapi-php) | v0.1.0 |  | PHP client for the invoapi.de e-invoicing API: create and validate XRechnung, Z… |
+| 2026-10-29 22:22:31 | [olgunozoktas/laravel-trusted-devices](https://www.nuget.org/packages/olgunozoktas%2Flaravel-trusted-devices) | v0.1.0 | Olgun Özoktaş | "Keep me signed in on this machine?" for Laravel: after a two-factor code, a tr… |
+| 2026-10-29 22:36:41 | [infrawrench/bulk-instances](https://www.nuget.org/packages/infrawrench%2Fbulk-instances) | 1.0.0 | Infrawrench LLC | AWS EC2 instance attributes and pricing, with full history, from Infrawrench. |
+| 2026-10-29 22:44:26 | [strukt/ar](https://www.nuget.org/packages/strukt%2Far) | 1.0.0 | pitsolu | A small query builder and active record ORM for SQL databases. |
+| 2026-10-29 23:02:45 | [superroute/sapp](https://www.nuget.org/packages/superroute%2Fsapp) | v0.2.1 | Goodneo Solutions | sApp for PHP: sign-in, the platform app API, Open Platform capabilities and Sup… |
 
 ## Data source
 

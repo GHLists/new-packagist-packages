@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-29T22:22:31Z,olgunozoktas/laravel-trusted-devices,v0.1.0,Olgun Özoktaş,"""Keep me signed in on this machine?"" for Laravel: after a two-factor code, a trusted device skips the code and signs in by itself for the days the user chose. Works with Laravel Fortify."
+2026-10-29T22:36:41Z,infrawrench/bulk-instances,1.0.0,Infrawrench LLC,"AWS EC2 instance attributes and pricing, with full history, from Infrawrench."
+2026-10-29T22:44:26Z,strukt/ar,1.0.0,pitsolu,A small query builder and active record ORM for SQL databases.
+2026-10-29T23:02:45Z,superroute/sapp,v0.2.1,Goodneo Solutions,"sApp for PHP: sign-in, the platform app API, Open Platform capabilities and Superroute webhook verification."
