@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-29T21:45:55Z,sentinelo/agent-composer,v1.1.1,,"Agent de maintenance Sentinelo pour les applications basées sur Composer — Symfony, Sylius, Laravel."
+2026-10-29T21:51:34Z,jetro-tools/contao-bundle,v1.0.1,INRI Management Consulting GmbH,Jetro: Termine aus Jetro in Contao-Kalender übernehmen
+2026-10-29T21:52:47Z,ernestdefoe/festoon,1.0.1,Ernest Defoe,"A holiday theme that changes with the time of year: holiday colors, moving header garlands, decorated widgets and posts, falling snow and real fireworks. US holidays, seasons and holidays from around the world, plus your own."
+2026-10-29T22:04:29Z,skorlok/dedicated-server-api,1.0.0,NadeoLive; Skorlok,XML-RPC library to connect to ManiaPlanet server
+2026-10-29T22:04:57Z,skorlok/asynchronous-jobs,1.0.0,Oliver de Cramer; Skorlok,Execute new php instances easily as you would threads.
+2026-10-29T22:05:10Z,skorlok/manialive-lib,1.0.0,NadeoLive; Skorlok,ManiaLive library
+2026-10-29T22:09:02Z,invoapi/invoapi-php,v0.1.0,,"PHP client for the invoapi.de e-invoicing API: create and validate XRechnung, ZUGFeRD / Factur-X, EN 16931, UBL, CII and Peppol invoices."

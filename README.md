@@ -15,19 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 21:21 UTC
+## Latest list — 2026-10-29 22:21 UTC
 
-New packages created between 2026-10-29 20:22 UTC and 2026-10-29 21:21 UTC.
+New packages created between 2026-10-29 21:21 UTC and 2026-10-29 22:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T21-21-55-75727Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-29T22-21-08-69149Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 20:35:44 | [laravelopenpackages/heartbeat](https://www.nuget.org/packages/laravelopenpackages%2Fheartbeat) | v1.0.0 | Zeeshan Ali | One tiny poll tells every open page what changed — live-feeling Laravel apps wi… |
-| 2026-10-29 20:39:19 | [ernestdefoe/syllabus](https://www.nuget.org/packages/ernestdefoe%2Fsyllabus) | 1.0.0 | Ernest Defoe | Syllabus — courses inside your Flarum forum. Text, video, assignment and quiz l… |
-| 2026-10-29 20:55:14 | [galillei/magento-oauth-client](https://www.nuget.org/packages/galillei%2Fmagento-oauth-client) | v1.0.1 | Vinduesgrossisten | Magento 2 REST API client with OAuth 1.0a (HMAC-SHA256) request signing and a c… |
-| 2026-10-29 21:01:32 | [camanru/fastleo](https://www.nuget.org/packages/camanru%2Ffastleo) | 4.0.0 | Roman Zakharov | Admin panel for Laravel sites: each section is described by a single resource c… |
-| 2026-10-29 21:06:28 | [ernestdefoe/moments](https://www.nuget.org/packages/ernestdefoe%2Fmoments) | 1.0.0 | Ernest Defoe | Moments — a microblogging social feed for Flarum 2. Short posts in a timeline b… |
+| 2026-10-29 21:45:55 | [sentinelo/agent-composer](https://www.nuget.org/packages/sentinelo%2Fagent-composer) | v1.1.1 |  | Agent de maintenance Sentinelo pour les applications basées sur Composer — Symf… |
+| 2026-10-29 21:51:34 | [jetro-tools/contao-bundle](https://www.nuget.org/packages/jetro-tools%2Fcontao-bundle) | v1.0.1 | INRI Management Consulting Gm… | Jetro: Termine aus Jetro in Contao-Kalender übernehmen |
+| 2026-10-29 21:52:47 | [ernestdefoe/festoon](https://www.nuget.org/packages/ernestdefoe%2Ffestoon) | 1.0.1 | Ernest Defoe | A holiday theme that changes with the time of year: holiday colors, moving head… |
+| 2026-10-29 22:04:29 | [skorlok/dedicated-server-api](https://www.nuget.org/packages/skorlok%2Fdedicated-server-api) | 1.0.0 | NadeoLive; Skorlok | XML-RPC library to connect to ManiaPlanet server |
+| 2026-10-29 22:04:57 | [skorlok/asynchronous-jobs](https://www.nuget.org/packages/skorlok%2Fasynchronous-jobs) | 1.0.0 | Oliver de Cramer; Skorlok | Execute new php instances easily as you would threads. |
+| 2026-10-29 22:05:10 | [skorlok/manialive-lib](https://www.nuget.org/packages/skorlok%2Fmanialive-lib) | 1.0.0 | NadeoLive; Skorlok | ManiaLive library |
+| 2026-10-29 22:09:02 | [invoapi/invoapi-php](https://www.nuget.org/packages/invoapi%2Finvoapi-php) | v0.1.0 |  | PHP client for the invoapi.de e-invoicing API: create and validate XRechnung, Z… |
 
 ## Data source
 
