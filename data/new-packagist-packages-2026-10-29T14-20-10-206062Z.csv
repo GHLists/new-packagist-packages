@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-29T13:21:15Z,dzkit/dzkit-php,v0.1.0,Siroukane,"Algerian developer toolkit: CCP/RIP keys, NIF/NIS, phone numbers, licence plates (69 wilayas), DZD amounts in words (French & Arabic), IRG/CNAS payroll."
+2026-10-29T13:22:23Z,atwx/silverstripe-friendlydesk,1.0.0,,Select and embed friendlydesk forms in Silverstripe
+2026-10-29T13:51:56Z,simp/multiform,v1.0.0,Chance Nyasulu,This is php library for build multi steps forms from assoc array
+2026-10-29T13:52:55Z,vitexsoftware/digest-modules,v1.1.0,Vítězslav Dvořák,"System-agnostic data collection modules for accounting digest reports, Zabbix monitoring, and analytics"
+2026-10-29T13:55:09Z,vitexsoftware/digest-renderer,v1.1.0,Vítězslav Dvořák,"Markdown-first rendering library for accounting digest reports (HTML, PDF)"
+2026-10-29T14:05:56Z,jiscariot/iblock-element-reader,v0.1.0,JIscariot,Bitrix iblock element reader: load fields and properties from DB with batch resolve pipeline
+2026-10-29T14:13:03Z,jeffersongoncalves/livewire-logs,2.0.0,Jefferson Gonçalves,Log the errors Livewire hides behind a 419 and add component context to Livewire exception reports.
