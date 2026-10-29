@@ -15,21 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 16:20 UTC
+## Latest list — 2026-10-29 17:21 UTC
 
-New packages created between 2026-10-29 15:22 UTC and 2026-10-29 16:20 UTC.
+New packages created between 2026-10-29 16:20 UTC and 2026-10-29 17:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T16-20-45-349558Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-29T17-21-05-915318Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 15:32:44 | [zerofront/module-zero-cache-warmer](https://www.nuget.org/packages/zerofront%2Fmodule-zero-cache-warmer) | 1.3.5 | Roman Pasichnyk | Zero for Magento Open Source: warms the full page cache after a deploy, a flush… |
-| 2026-10-29 15:32:44 | [zerofront/module-zero-index-doctor](https://www.nuget.org/packages/zerofront%2Fmodule-zero-index-doctor) | 1.3.5 | Roman Pasichnyk | Zero for Magento Open Source: what slows Magento's indexers down or stops them,… |
-| 2026-10-29 15:41:30 | [cosmemilton/acbr-printer-php](https://www.nuget.org/packages/cosmemilton%2Facbr-printer-php) | v0.1.0 |  | Impressão PHP com ACBrPosPrinter, FortesReport e DANFE via runtime Free Pascal/… |
-| 2026-10-29 15:47:26 | [dataemergencia/emergency-bff](https://www.nuget.org/packages/dataemergencia%2Femergency-bff) | v0.1.0 |  | Backend-for-frontend for the DataEmergencia emergency module. |
-| 2026-10-29 15:48:51 | [xiaogan80/flarum-hot-board](https://www.nuget.org/packages/xiaogan80%2Fflarum-hot-board) | v1.3.0 |  | 在讨论列表上方显示「推荐帖子 / 最新帖子 / 热门浏览」三列看板，每条自动填充帖子首图或用户头像。 |
-| 2026-10-29 15:57:05 | [goletter/hyperf-2fa](https://www.nuget.org/packages/goletter%2Fhyperf-2fa) | v1.0.0 | goletter | Google Authenticator (TOTP) 2FA for Hyperf: bind user, per-module verify, idle… |
-| 2026-10-29 16:05:27 | [elcuro/sulu-slug-replacers](https://www.nuget.org/packages/elcuro%2Fsulu-slug-replacers) | v1.0.0 | Juraj Jancuska | Configure the character replacers Sulu applies when generating URL slugs (e.g.… |
+| 2026-10-29 16:44:03 | [ark4ne/openapi-writer](https://www.nuget.org/packages/ark4ne%2Fopenapi-writer) | v1.0.0 |  | Framework-agnostic, fluent and immutable PHP builder for OpenAPI 3.0, 3.1 and 3… |
+| 2026-10-29 16:45:27 | [waynestate/weld](https://www.nuget.org/packages/waynestate%2Fweld) | 0.1.0 |  | The Wayne State app stack, welded into one application. |
+| 2026-10-29 16:59:36 | [silarhi/cap-bundle](https://www.nuget.org/packages/silarhi%2Fcap-bundle) | v0.1.0 | SILARHI | Cap CAPTCHA (trycap.dev) for Symfony forms: a self-hosted, proof-of-work reCAPT… |
+| 2026-10-29 17:02:54 | [astral-php/astral-forum](https://www.nuget.org/packages/astral-php%2Fastral-forum) | 0.1.0 |  | Astral Forum — forums, sujets, posts et FAQ modérée (create-project starter 2.0) |
+| 2026-10-29 17:05:01 | [wyxos/laravel-authentication](https://www.nuget.org/packages/wyxos%2Flaravel-authentication) | 0.2.0 |  | Switchable authentication history, new-device alerts and selected-recipient log… |
+| 2026-10-29 17:08:47 | [betocampoy/champs-cron-monitor](https://www.nuget.org/packages/betocampoy%2Fchamps-cron-monitor) | v0.1.0 | Beto Campoy | Monitoramento das rotinas do cron para projetos Symfony: wrapper com trava e lo… |
 
 ## Data source
 
