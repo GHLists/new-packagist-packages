@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-29T09:33:37Z,devfactorych/ai-spam,v1.0.0,Mark Cameron,"AI-backed, queued spam protection for Laravel forms, powered by the Laravel AI SDK."
+2026-10-29T09:38:47Z,theshakhawat/laravel-nagad-fdet,v1.0.1,Shakhawat,Nagad Modified Payment Gateway only for Freelancer Digital Expert Team. More info visit: https://nagad.banglaqr.online
+2026-10-29T09:40:51Z,jield-webdev/jield-api-tools,v2.0.0-beta.1,Johan van der Heide,Own implementation of API endpoints. This repository is based on the Laminas API tools but includes shared functionality to easily create API endpoints
+2026-10-29T09:58:27Z,ghf/webgeeker-validation,v0.1.1,photondragon,"Validation for WebGeeker (fork of photondragon/webgeeker-validation, PHP 8.4/8.5 support)"
+2026-10-29T10:01:00Z,samt/skipcash-laravel,v1.0.0,Samt,"Unofficial, production-grade Laravel SDK for the SkipCash payment gateway (Qatar): hosted checkout, verified webhooks, refunds, tokenization and recurring payments."
