@@ -1,0 +1,20 @@
+created_at,package,version,author,description
+2026-10-29T03:27:31Z,waynestate/sourdough,0.1.0,"Wayne State University, Enterprise Applications",A starter that makes a Wayne State app with the stack already wired in.
+2026-10-29T03:27:39Z,waynestate/squire,0.1.0,"Wayne State University, Enterprise Applications","The Citadel kit: standard build.sh, release script and health check, and local parity on the Citadel images."
+2026-10-29T03:27:46Z,waynestate/rollcall,0.1.0,"Wayne State University, Enterprise Applications","WELD's fleet scanner: every app answers present with its PHP image, Laravel and auth-package versions and its PROCTOR result, checked against CREED's policy."
+2026-10-29T03:28:00Z,waynestate/pinstripe,0.1.0,,The coding standard for the Wayne State app stack: shared Pint and PHPStan presets.
+2026-10-29T03:31:03Z,waynestate/advisor,0.1.0,"Wayne State University, Enterprise Applications",Wayne State's own MCP server: orients a developer and gives their coding agent read-only tools into every project of the app stack.
+2026-10-29T03:35:53Z,particle-academy/fancy-formula,v0.0.1,Particle Academy,"A deterministic spreadsheet-formula engine with Google Sheets semantics. Formulas are code, inputs are always values, and every output carries a trace of what it read. Malformed input throws with a stable code, a spreadsheet error is a value, and a broken limit aborts: the three never collapse into…"
+2026-10-29T03:36:05Z,webrteu/shipping,v0.1.1,WeBRTeu,Core shipping abstraction for Romanian couriers in Laravel
+2026-10-29T03:36:57Z,ghf/webgeeker-validation,v0.1.0,photondragon,"Validation for WebGeeker (fork of photondragon/webgeeker-validation, PHP 8.4/8.5 support)"
+2026-10-29T03:38:46Z,webrteu/payments,v0.1.1,WeBRTeu,Core payments abstraction for Romanian payment processors in Laravel
+2026-10-29T03:42:26Z,webrteu/fancourier,v0.1.1,WeBRTeu,FAN Courier API v2 integration for Laravel (Romania)
+2026-10-29T03:42:52Z,webrteu/cargus,v0.1.1,WeBRTeu,Cargus (UrgentOnlineAPI) integration for Laravel (Romania)
+2026-10-29T03:43:11Z,webrteu/dpd,v0.1.1,WeBRTeu,DPD Romania API v1 integration for Laravel
+2026-10-29T03:43:31Z,webrteu/gls,v0.1.1,WeBRTeu,GLS (MyGLS API) integration for Laravel (Romania and CEE)
+2026-10-29T03:43:49Z,webrteu/sameday,v0.1.1,WeBRTeu,Sameday Courier and easybox integration for Laravel (Romania)
+2026-10-29T03:50:13Z,relaylayerio/laravel-notification,v0.1.0,,Send Laravel notifications through RelayLayer with a secret key.
+2026-10-29T03:54:19Z,normann/silverstripe-svg-sanitization,1.0.0,Normann Lou,"Sanitises SVG files in Silverstripe CMS, so an uploaded SVG can't run script or load remote resources: uploads are cleaned before they're stored, and a task cleans files already in the asset store."
+2026-10-29T04:09:38Z,webrteu/btipay,v0.1.0,WeBRTeu,BT iPay (Banca Transilvania) payment integration for Laravel
+2026-10-29T04:09:55Z,webrteu/euplatesc,v0.1.0,WeBRTeu,EuPlatesc.ro payment integration for Laravel (Romania)
+2026-10-29T04:10:08Z,webrteu/librapay,v0.1.0,WeBRTeu,LibraPay (Libra Internet Bank) payment integration for Laravel (Romania)
