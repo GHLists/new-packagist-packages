@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-10-29T08:22:48Z,darvis/laravel-api-key-alert,v1.1.0,Arvid de Jong,"Get an email the moment an API key stops working in Laravel: detects rejected keys in Http client calls, reported exceptions, wrapped calls and a daily check, for Google, OpenAI, Anthropic, Mollie and any API you add. Also reminds you daily while APP_DEBUG or APP_ENV is wrong on a server."
+2026-10-29T08:28:51Z,ajangsupardi/zkteco-laravel,v1.0.0,ᑎᗩᒍ,Laravel package for ZKTeco biometric attendance device integration via TCP 4370
+2026-10-29T08:29:04Z,avonez-tech/avonez-auth-client,v1.0.0,AvonezTech,Package to connect to avonez account
+2026-10-29T08:38:04Z,jeremy379/laravel-storage-cli,v1.0.0,,"Read-only Artisan commands to explore Laravel filesystem disks, inspect files, generate URLs, and download files."
+2026-10-29T08:44:40Z,hibira-io/filament,v0.1.0,Hibira,"Live database notifications, an Echo connection light and a live channels widget for Filament panels, on Hibira"
+2026-10-29T08:48:05Z,magepow/preview,1.0.0,Magepow,You quick access product fontend from admin.
+2026-10-29T08:48:35Z,nightdust/common,v1.0.0,,Reusable PHP utilities.
+2026-10-29T08:52:34Z,mmrtonmoybd/omnipay-sslcommerz,v1.0.0,Moshiur Rahman; Omnipay SSLCommerz Contributors,SSLCommerz gateway for the Omnipay PHP payment processing library
+2026-10-29T08:54:40Z,peopleinside/festive-decorations,1.0.2,PeopleInside,"Decorazioni festive e stagionali per Flarum (titoli, logo, menù, festone, neve, lucciole, cappelli natalizi sugli avatar)."
+2026-10-29T09:12:09Z,daycry/doctrine-codeigniter4,v6.0.0,,CodeIgniter 4 adapter for daycry/doctrine
+2026-10-29T09:14:30Z,magepow/animationimage,1.0.0,Magepow,Keep GIF animation working on Magento 2 frontend product images.
+2026-10-29T09:14:43Z,wpelevator/xhprof,v2.3.11,,XHProf: A Hierarchical Profiler for PHP
