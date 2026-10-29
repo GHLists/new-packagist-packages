@@ -15,18 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 11:19 UTC
+## Latest list — 2026-10-29 12:21 UTC
 
-New packages created between 2026-10-29 10:20 UTC and 2026-10-29 11:19 UTC.
+New packages created between 2026-10-29 11:19 UTC and 2026-10-29 12:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T11-19-51-991086Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-29T12-21-59-552772Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 10:29:03 | [astral-php/astral-cache](https://www.nuget.org/packages/astral-php%2Fastral-cache) | 0.1.0 | astral-php | Cache multi-drivers opt-in pour Astral — array, file, Redis/Memcache (extension… |
-| 2026-10-29 10:31:43 | [sandstorm/backendusermanagement](https://www.nuget.org/packages/sandstorm%2Fbackendusermanagement) | 1.0.0 |  | Backend User Management Package for Neos, includes 2FA, password reset, new use… |
-| 2026-10-29 10:52:55 | [bernskiold/laravel-snowflake](https://www.nuget.org/packages/bernskiold%2Flaravel-snowflake) | 0.1.0 | Bernskiold | Snowflake database driver for Laravel, supporting both the native pdo_snowflake… |
-| 2026-10-29 10:53:57 | [klimadashboard/typo3-klimadashboard](https://www.nuget.org/packages/klimadashboard%2Ftypo3-klimadashboard) | 1.0.0 | Klimadashboard | Embed charts from Klimadashboard (klimadashboard.de / .at / .org) as TYPO3 cont… |
+| 2026-10-29 11:33:54 | [islam016/arabic-search](https://www.nuget.org/packages/islam016%2Farabic-search) | v1.0.0 | Islam Gaber | Arabic-aware text normalization and search for PHP and Laravel: find "أحمد" whe… |
+| 2026-10-29 11:34:43 | [se7enxweb/exponential-php-floor](https://www.nuget.org/packages/se7enxweb%2Fexponential-php-floor) | 1.3.0 |  | Lets Exponential 6.0.15 and later install on every PHP version it supports (7.4… |
+| 2026-10-29 11:41:48 | [senanthewnaka/lanka-kit](https://www.nuget.org/packages/senanthewnaka%2Flanka-kit) | v1.2.0 | Senan Thewnaka | Sri Lankan developer toolkit for PHP & Laravel: NIC, Phone, Banks, Currency, Li… |
+| 2026-10-29 11:44:33 | [hardcastle/xahau-php](https://www.nuget.org/packages/hardcastle%2Fxahau-php) | 1.0.0 | Alexander Busse | PHP SDK / Client for the Xahau Network, built on hardcastle/xrpl_php |
+| 2026-10-29 11:46:41 | [wpelevator/php-changesets](https://www.nuget.org/packages/wpelevator%2Fphp-changesets) | 0.1.1 |  | Changeset-based release preparation for PHP projects |
+| 2026-10-29 12:06:13 | [quebracho/x402](https://www.nuget.org/packages/quebracho%2Fx402) | v0.1.0 |  | x402 payments for PHP: EIP-712/EIP-3009 signing, PSR-15 middleware and PSR-18 p… |
 
 ## Data source
 

@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-29T11:33:54Z,islam016/arabic-search,v1.0.0,Islam Gaber,"Arabic-aware text normalization and search for PHP and Laravel: find ""أحمد"" when users type ""احمد"", ignore harakat, tatweel, ة/ه, ى/ي and Arabic-Indic digits, in PHP and in SQL (MySQL, PostgreSQL, SQLite)."
+2026-10-29T11:34:43Z,se7enxweb/exponential-php-floor,1.3.0,,"Lets Exponential 6.0.15 and later install on every PHP version it supports (7.4 to 8.5): each version of this metapackage belongs to one PHP range and requires the extension releases and libraries that run there, so Composer chooses the right set by itself."
+2026-10-29T11:41:48Z,senanthewnaka/lanka-kit,v1.2.0,Senan Thewnaka,"Sri Lankan developer toolkit for PHP & Laravel: NIC, Phone, Banks, Currency, License, Vehicle, Passport, TIN"
+2026-10-29T11:44:33Z,hardcastle/xahau-php,1.0.0,Alexander Busse,"PHP SDK / Client for the Xahau Network, built on hardcastle/xrpl_php"
+2026-10-29T11:46:41Z,wpelevator/php-changesets,0.1.1,,Changeset-based release preparation for PHP projects
+2026-10-29T12:06:13Z,quebracho/x402,v0.1.0,,"x402 payments for PHP: EIP-712/EIP-3009 signing, PSR-15 middleware and PSR-18 paying client."
