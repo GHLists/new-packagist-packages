@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-29T19:23:50Z,sahilphp/installer,v1.0.1,Idrisa John,SahilPHP Installer - Creates new SahilPHP projects with Tailwind CSS or Bootstrap 5
+2026-10-29T19:24:22Z,folklore/laravel-eclair,v0.1.0,Folklore; David Mongeau-Petitpas,"Laravel client for Eclair, the self-hosted media processing server"
+2026-10-29T19:31:02Z,mailvex/mailvex-php,v1.0.1,Mailvex Team,"Official PHP & Laravel SDK for Mailvex Email Infrastructure. Supports single & batch emails, attachments, and webhook verification."
+2026-10-29T19:49:40Z,pikoman/compat-laravel,0.2.0,,"A Laravel broadcast driver for Pikoman: Laravel Echo with @pikoman/compat, signed with Ed25519 keys."
+2026-10-29T19:52:28Z,blackairplane/skylock-laravel,v0.1.0,Black Airplane,"Reports a Laravel app's health and scheduled tasks to SkyLock, Black Airplane's monitoring platform."
+2026-10-29T20:14:05Z,pikoman/compat-php,0.1.0,,"Pusher's PHP library (pusher/pusher-php-server) on Pikoman: the same trigger, triggerBatch and authorizeChannel, signed with Ed25519 keys."
+2026-10-29T20:18:24Z,larasell-dev/extension-starter-kit,v0.1.0,,A Larasell extension

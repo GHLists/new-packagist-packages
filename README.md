@@ -15,17 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 19:19 UTC
+## Latest list — 2026-10-29 20:22 UTC
 
-New packages created between 2026-10-29 18:20 UTC and 2026-10-29 19:19 UTC.
+New packages created between 2026-10-29 19:19 UTC and 2026-10-29 20:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T19-19-05-358966Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-29T20-22-07-082958Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 18:38:56 | [simp/adjustment](https://www.nuget.org/packages/simp%2Fadjustment) | v1.0.0 | Chance Nyasulu | This is library for php that can be used to manage additional changes to order… |
-| 2026-10-29 19:07:26 | [ernestdefoe/surveyor](https://www.nuget.org/packages/ernestdefoe%2Fsurveyor) | 1.0.0 | Ernest Defoe | An SEO workspace for Flarum that works alongside FoF SEO, FoF Sitemap and Detou… |
-| 2026-10-29 19:14:08 | [ernestdefoe/buzz](https://www.nuget.org/packages/ernestdefoe%2Fbuzz) | 1.0.0 | Ernest Defoe | Buzz — a live activity feed for Flarum. New discussions, replies, members, rank… |
+| 2026-10-29 19:23:50 | [sahilphp/installer](https://www.nuget.org/packages/sahilphp%2Finstaller) | v1.0.1 | Idrisa John | SahilPHP Installer - Creates new SahilPHP projects with Tailwind CSS or Bootstr… |
+| 2026-10-29 19:24:22 | [folklore/laravel-eclair](https://www.nuget.org/packages/folklore%2Flaravel-eclair) | v0.1.0 | Folklore; David Mongeau-Petit… | Laravel client for Eclair, the self-hosted media processing server |
+| 2026-10-29 19:31:02 | [mailvex/mailvex-php](https://www.nuget.org/packages/mailvex%2Fmailvex-php) | v1.0.1 | Mailvex Team | Official PHP & Laravel SDK for Mailvex Email Infrastructure. Supports single &… |
+| 2026-10-29 19:49:40 | [pikoman/compat-laravel](https://www.nuget.org/packages/pikoman%2Fcompat-laravel) | 0.2.0 |  | A Laravel broadcast driver for Pikoman: Laravel Echo with @pikoman/compat, sign… |
+| 2026-10-29 19:52:28 | [blackairplane/skylock-laravel](https://www.nuget.org/packages/blackairplane%2Fskylock-laravel) | v0.1.0 | Black Airplane | Reports a Laravel app's health and scheduled tasks to SkyLock, Black Airplane's… |
+| 2026-10-29 20:14:05 | [pikoman/compat-php](https://www.nuget.org/packages/pikoman%2Fcompat-php) | 0.1.0 |  | Pusher's PHP library (pusher/pusher-php-server) on Pikoman: the same trigger, t… |
+| 2026-10-29 20:18:24 | [larasell-dev/extension-starter-kit](https://www.nuget.org/packages/larasell-dev%2Fextension-starter-kit) | v0.1.0 |  | A Larasell extension |
 
 ## Data source
 
