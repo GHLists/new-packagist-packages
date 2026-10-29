@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 17:21 UTC
+## Latest list — 2026-10-29 18:20 UTC
 
-New packages created between 2026-10-29 16:20 UTC and 2026-10-29 17:21 UTC.
+New packages created between 2026-10-29 17:21 UTC and 2026-10-29 18:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T17-21-05-915318Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-29T18-20-53-122232Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 16:44:03 | [ark4ne/openapi-writer](https://www.nuget.org/packages/ark4ne%2Fopenapi-writer) | v1.0.0 |  | Framework-agnostic, fluent and immutable PHP builder for OpenAPI 3.0, 3.1 and 3… |
-| 2026-10-29 16:45:27 | [waynestate/weld](https://www.nuget.org/packages/waynestate%2Fweld) | 0.1.0 |  | The Wayne State app stack, welded into one application. |
-| 2026-10-29 16:59:36 | [silarhi/cap-bundle](https://www.nuget.org/packages/silarhi%2Fcap-bundle) | v0.1.0 | SILARHI | Cap CAPTCHA (trycap.dev) for Symfony forms: a self-hosted, proof-of-work reCAPT… |
-| 2026-10-29 17:02:54 | [astral-php/astral-forum](https://www.nuget.org/packages/astral-php%2Fastral-forum) | 0.1.0 |  | Astral Forum — forums, sujets, posts et FAQ modérée (create-project starter 2.0) |
-| 2026-10-29 17:05:01 | [wyxos/laravel-authentication](https://www.nuget.org/packages/wyxos%2Flaravel-authentication) | 0.2.0 |  | Switchable authentication history, new-device alerts and selected-recipient log… |
-| 2026-10-29 17:08:47 | [betocampoy/champs-cron-monitor](https://www.nuget.org/packages/betocampoy%2Fchamps-cron-monitor) | v0.1.0 | Beto Campoy | Monitoramento das rotinas do cron para projetos Symfony: wrapper com trava e lo… |
+| 2026-10-29 17:22:38 | [handersonsilva/laravel-bruno-docs](https://www.nuget.org/packages/handersonsilva%2Flaravel-bruno-docs) | v1.0.0 |  | Serve a Bruno collection as a Swagger UI page in Laravel. |
+| 2026-10-29 17:33:43 | [dmlab/module-price-explain](https://www.nuget.org/packages/dmlab%2Fmodule-price-explain) | 0.0.1 |  | Explains why a Magento 2 cart or order costs what it costs: item price layers,… |
+| 2026-10-29 18:03:59 | [jacobtobies/glass](https://www.nuget.org/packages/jacobtobies%2Fglass) | v1.0.1 | Jacob Tobies | Glass: a frosted-glass skin for Roundcube Webmail, based on Elastic, with adjus… |
+| 2026-10-29 18:04:44 | [generoi/gds-llms](https://www.nuget.org/packages/generoi%2Fgds-llms) | v0.1.0 | Genero | Serves /llms.txt and a markdown version of every page for language models |
+| 2026-10-29 18:18:31 | [tinect/passkeys](https://www.nuget.org/packages/tinect%2Fpasskeys) | 1.0.0 | tinect | Passkey (WebAuthn) login for storefront customers |
 
 ## Data source
 

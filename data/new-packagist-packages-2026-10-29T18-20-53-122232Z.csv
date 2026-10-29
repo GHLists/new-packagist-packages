@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-29T17:22:38Z,handersonsilva/laravel-bruno-docs,v1.0.0,,Serve a Bruno collection as a Swagger UI page in Laravel.
+2026-10-29T17:33:43Z,dmlab/module-price-explain,0.0.1,,"Explains why a Magento 2 cart or order costs what it costs: item price layers, totals collectors, cart price rules (applied or rejected with the reason) and tax."
+2026-10-29T18:03:59Z,jacobtobies/glass,v1.0.1,Jacob Tobies,"Glass: a frosted-glass skin for Roundcube Webmail, based on Elastic, with adjustable colours"
+2026-10-29T18:04:44Z,generoi/gds-llms,v0.1.0,Genero,Serves /llms.txt and a markdown version of every page for language models
+2026-10-29T18:18:31Z,tinect/passkeys,1.0.0,tinect,Passkey (WebAuthn) login for storefront customers
