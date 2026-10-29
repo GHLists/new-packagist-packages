@@ -15,21 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 20:22 UTC
+## Latest list — 2026-10-29 21:21 UTC
 
-New packages created between 2026-10-29 19:19 UTC and 2026-10-29 20:22 UTC.
+New packages created between 2026-10-29 20:22 UTC and 2026-10-29 21:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T20-22-07-082958Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-29T21-21-55-75727Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 19:23:50 | [sahilphp/installer](https://www.nuget.org/packages/sahilphp%2Finstaller) | v1.0.1 | Idrisa John | SahilPHP Installer - Creates new SahilPHP projects with Tailwind CSS or Bootstr… |
-| 2026-10-29 19:24:22 | [folklore/laravel-eclair](https://www.nuget.org/packages/folklore%2Flaravel-eclair) | v0.1.0 | Folklore; David Mongeau-Petit… | Laravel client for Eclair, the self-hosted media processing server |
-| 2026-10-29 19:31:02 | [mailvex/mailvex-php](https://www.nuget.org/packages/mailvex%2Fmailvex-php) | v1.0.1 | Mailvex Team | Official PHP & Laravel SDK for Mailvex Email Infrastructure. Supports single &… |
-| 2026-10-29 19:49:40 | [pikoman/compat-laravel](https://www.nuget.org/packages/pikoman%2Fcompat-laravel) | 0.2.0 |  | A Laravel broadcast driver for Pikoman: Laravel Echo with @pikoman/compat, sign… |
-| 2026-10-29 19:52:28 | [blackairplane/skylock-laravel](https://www.nuget.org/packages/blackairplane%2Fskylock-laravel) | v0.1.0 | Black Airplane | Reports a Laravel app's health and scheduled tasks to SkyLock, Black Airplane's… |
-| 2026-10-29 20:14:05 | [pikoman/compat-php](https://www.nuget.org/packages/pikoman%2Fcompat-php) | 0.1.0 |  | Pusher's PHP library (pusher/pusher-php-server) on Pikoman: the same trigger, t… |
-| 2026-10-29 20:18:24 | [larasell-dev/extension-starter-kit](https://www.nuget.org/packages/larasell-dev%2Fextension-starter-kit) | v0.1.0 |  | A Larasell extension |
+| 2026-10-29 20:35:44 | [laravelopenpackages/heartbeat](https://www.nuget.org/packages/laravelopenpackages%2Fheartbeat) | v1.0.0 | Zeeshan Ali | One tiny poll tells every open page what changed — live-feeling Laravel apps wi… |
+| 2026-10-29 20:39:19 | [ernestdefoe/syllabus](https://www.nuget.org/packages/ernestdefoe%2Fsyllabus) | 1.0.0 | Ernest Defoe | Syllabus — courses inside your Flarum forum. Text, video, assignment and quiz l… |
+| 2026-10-29 20:55:14 | [galillei/magento-oauth-client](https://www.nuget.org/packages/galillei%2Fmagento-oauth-client) | v1.0.1 | Vinduesgrossisten | Magento 2 REST API client with OAuth 1.0a (HMAC-SHA256) request signing and a c… |
+| 2026-10-29 21:01:32 | [camanru/fastleo](https://www.nuget.org/packages/camanru%2Ffastleo) | 4.0.0 | Roman Zakharov | Admin panel for Laravel sites: each section is described by a single resource c… |
+| 2026-10-29 21:06:28 | [ernestdefoe/moments](https://www.nuget.org/packages/ernestdefoe%2Fmoments) | 1.0.0 | Ernest Defoe | Moments — a microblogging social feed for Flarum 2. Short posts in a timeline b… |
 
 ## Data source
 

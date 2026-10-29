@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-29T20:35:44Z,laravelopenpackages/heartbeat,v1.0.0,Zeeshan Ali,One tiny poll tells every open page what changed — live-feeling Laravel apps without WebSockets.
+2026-10-29T20:39:19Z,ernestdefoe/syllabus,1.0.0,Ernest Defoe,"Syllabus — courses inside your Flarum forum. Text, video, assignment and quiz lessons, drag-and-drop outlines, enrolment and progress, a discussion for every lesson, an instructor panel, certificates with a verification link, and paid courses through member groups."
+2026-10-29T20:55:14Z,galillei/magento-oauth-client,v1.0.1,Vinduesgrossisten,Magento 2 REST API client with OAuth 1.0a (HMAC-SHA256) request signing and a cURL transport
+2026-10-29T21:01:32Z,camanru/fastleo,4.0.0,Roman Zakharov,Admin panel for Laravel sites: each section is described by a single resource class
+2026-10-29T21:06:28Z,ernestdefoe/moments,1.0.0,Ernest Defoe,"Moments — a microblogging social feed for Flarum 2. Short posts in a timeline beside your discussions: photos, video, voice notes, GIFs, nested replies, reactions, reposts, bookmarks, topics, privacy per moment and real-time updates."
