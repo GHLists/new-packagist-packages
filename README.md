@@ -15,15 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 15:22 UTC
+## Latest list — 2026-10-29 16:20 UTC
 
-New packages created between 2026-10-29 14:20 UTC and 2026-10-29 15:22 UTC.
+New packages created between 2026-10-29 15:22 UTC and 2026-10-29 16:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T15-22-34-256698Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-29T16-20-45-349558Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 14:59:39 | [carbon/editor-image](https://www.nuget.org/packages/carbon%2Feditor-image) | 0.1.0 |  | Image focal point and map editor for Neos CMS |
+| 2026-10-29 15:32:44 | [zerofront/module-zero-cache-warmer](https://www.nuget.org/packages/zerofront%2Fmodule-zero-cache-warmer) | 1.3.5 | Roman Pasichnyk | Zero for Magento Open Source: warms the full page cache after a deploy, a flush… |
+| 2026-10-29 15:32:44 | [zerofront/module-zero-index-doctor](https://www.nuget.org/packages/zerofront%2Fmodule-zero-index-doctor) | 1.3.5 | Roman Pasichnyk | Zero for Magento Open Source: what slows Magento's indexers down or stops them,… |
+| 2026-10-29 15:41:30 | [cosmemilton/acbr-printer-php](https://www.nuget.org/packages/cosmemilton%2Facbr-printer-php) | v0.1.0 |  | Impressão PHP com ACBrPosPrinter, FortesReport e DANFE via runtime Free Pascal/… |
+| 2026-10-29 15:47:26 | [dataemergencia/emergency-bff](https://www.nuget.org/packages/dataemergencia%2Femergency-bff) | v0.1.0 |  | Backend-for-frontend for the DataEmergencia emergency module. |
+| 2026-10-29 15:48:51 | [xiaogan80/flarum-hot-board](https://www.nuget.org/packages/xiaogan80%2Fflarum-hot-board) | v1.3.0 |  | 在讨论列表上方显示「推荐帖子 / 最新帖子 / 热门浏览」三列看板，每条自动填充帖子首图或用户头像。 |
+| 2026-10-29 15:57:05 | [goletter/hyperf-2fa](https://www.nuget.org/packages/goletter%2Fhyperf-2fa) | v1.0.0 | goletter | Google Authenticator (TOTP) 2FA for Hyperf: bind user, per-module verify, idle… |
+| 2026-10-29 16:05:27 | [elcuro/sulu-slug-replacers](https://www.nuget.org/packages/elcuro%2Fsulu-slug-replacers) | v1.0.0 | Juraj Jancuska | Configure the character replacers Sulu applies when generating URL slugs (e.g.… |
 
 ## Data source
 

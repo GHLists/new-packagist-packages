@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-29T15:32:44Z,zerofront/module-zero-cache-warmer,1.3.5,Roman Pasichnyk,"Zero for Magento Open Source: warms the full page cache after a deploy, a flush or a save: the home page, categories, CMS pages and best sellers of every store view, through Varnish or the built-in cache."
+2026-10-29T15:32:44Z,zerofront/module-zero-index-doctor,1.3.5,Roman Pasichnyk,"Zero for Magento Open Source: what slows Magento's indexers down or stops them, with the fix for each: database settings, stuck reindexes, cron, modes, reindex times (bin/magento zero:index:doctor, System > Tools > Index Doctor)."
+2026-10-29T15:41:30Z,cosmemilton/acbr-printer-php,v0.1.0,,"Impressão PHP com ACBrPosPrinter, FortesReport e DANFE via runtime Free Pascal/Lazarus"
+2026-10-29T15:47:26Z,dataemergencia/emergency-bff,v0.1.0,,Backend-for-frontend for the DataEmergencia emergency module.
+2026-10-29T15:48:51Z,xiaogan80/flarum-hot-board,v1.3.0,,在讨论列表上方显示「推荐帖子 / 最新帖子 / 热门浏览」三列看板，每条自动填充帖子首图或用户头像。
+2026-10-29T15:57:05Z,goletter/hyperf-2fa,v1.0.0,goletter,"Google Authenticator (TOTP) 2FA for Hyperf: bind user, per-module verify, idle re-challenge"
+2026-10-29T16:05:27Z,elcuro/sulu-slug-replacers,v1.0.0,Juraj Jancuska,Configure the character replacers Sulu applies when generating URL slugs (e.g. ä → a instead of ae)
