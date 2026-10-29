@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 07:21 UTC
+## Latest list — 2026-10-29 08:21 UTC
 
-New packages created between 2026-10-29 06:19 UTC and 2026-10-29 07:21 UTC.
+New packages created between 2026-10-29 07:21 UTC and 2026-10-29 08:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T07-21-42-281Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-29T08-21-06-09546Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 06:22:20 | [tikobus/php-binlog-async](https://www.nuget.org/packages/tikobus%2Fphp-binlog-async) | v0.1.0 | tikobus | MySQL replication-protocol client: register as a replica over amphp/socket and… |
-| 2026-10-29 06:27:25 | [thekaziomar/laravel-smart-upload](https://www.nuget.org/packages/thekaziomar%2Flaravel-smart-upload) | v1.0.0 | Kazi Omar Faruk | A developer-first, zero-database file and chunk upload toolkit for Laravel with… |
-| 2026-10-29 06:40:29 | [laramon/agent](https://www.nuget.org/packages/laramon%2Fagent) | v0.1.0 | Mohamed Sheeraz | Laramon agent: ships requests, queries, jobs, exceptions, logs and host resourc… |
-| 2026-10-29 06:44:44 | [ahraihan/laravel-steadfast-courier](https://www.nuget.org/packages/ahraihan%2Flaravel-steadfast-courier) | v1.0.0 | AH-Raihan | Steadfast Courier API (18 endpoints) and Webhook integration for Laravel |
+| 2026-10-29 07:22:21 | [didit-protocol/sdk-php](https://www.nuget.org/packages/didit-protocol%2Fsdk-php) | v1.0.0 | Didit | The official Didit PHP library: identity verification (KYC), business verificat… |
+| 2026-10-29 07:24:10 | [bluefairy/module-order-comments-hyva](https://www.nuget.org/packages/bluefairy%2Fmodule-order-comments-hyva) | v1.2.2 |  | BlueFairy Order Comments — Hyva Checkout companion module |
+| 2026-10-29 07:31:02 | [firstlightui/local-ai](https://www.nuget.org/packages/firstlightui%2Flocal-ai) | v1.0.0-alpha1 |  | On-device text generation for NativePHP Mobile using the operating system's bui… |
+| 2026-10-29 07:34:53 | [contenir/contenir-preview-mezzio](https://www.nuget.org/packages/contenir%2Fcontenir-preview-mezzio) | v0.1.0 |  | Mezzio renderer for the Contenir preview protocol: answers the CMS's signed pre… |
 
 ## Data source
 

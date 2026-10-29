@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-29T07:22:21Z,didit-protocol/sdk-php,v1.0.0,Didit,"The official Didit PHP library: identity verification (KYC), business verification (KYB), AML screening, liveness, transaction monitoring, Travel Rule and customer authentication."
+2026-10-29T07:24:10Z,bluefairy/module-order-comments-hyva,v1.2.2,,BlueFairy Order Comments — Hyva Checkout companion module
+2026-10-29T07:31:02Z,firstlightui/local-ai,v1.0.0-alpha1,,On-device text generation for NativePHP Mobile using the operating system's built-in models: Apple Foundation Models on iOS and Gemini Nano (ML Kit GenAI) on Android.
+2026-10-29T07:34:53Z,contenir/contenir-preview-mezzio,v0.1.0,,"Mezzio renderer for the Contenir preview protocol: answers the CMS's signed previews at /api/resource/preview by rendering the record's page with its unsaved values, and shared preview links at /preview/{id} behind a code."
