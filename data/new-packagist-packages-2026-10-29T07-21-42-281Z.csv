@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-29T06:22:20Z,tikobus/php-binlog-async,v0.1.0,tikobus,MySQL replication-protocol client: register as a replica over amphp/socket and stream/parse binlog events
+2026-10-29T06:27:25Z,thekaziomar/laravel-smart-upload,v1.0.0,Kazi Omar Faruk,"A developer-first, zero-database file and chunk upload toolkit for Laravel with built-in image optimization, strict security, and database rollback safeguards."
+2026-10-29T06:40:29Z,laramon/agent,v0.1.0,Mohamed Sheeraz,"Laramon agent: ships requests, queries, jobs, exceptions, logs and host resource samples from a Laravel app to a Laramon server."
+2026-10-29T06:44:44Z,ahraihan/laravel-steadfast-courier,v1.0.0,AH-Raihan,Steadfast Courier API (18 endpoints) and Webhook integration for Laravel

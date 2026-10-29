@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 06:19 UTC
+## Latest list — 2026-10-29 07:21 UTC
 
-New packages created between 2026-10-29 05:20 UTC and 2026-10-29 06:19 UTC.
+New packages created between 2026-10-29 06:19 UTC and 2026-10-29 07:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T06-19-25-808717Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-29T07-21-42-281Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 05:27:16 | [zhandos717/moonshine-docx-editor](https://www.nuget.org/packages/zhandos717%2Fmoonshine-docx-editor) | v1.3.1 | Zhandos | WYSIWYG DOCX editor for MoonShine admin panel, built on docen |
-| 2026-10-29 05:40:02 | [vaartix/vaartix-php](https://www.nuget.org/packages/vaartix%2Fvaartix-php) | v0.1.0 | NAP Designs | Official PHP SDK for the Vaartix email API |
-| 2026-10-29 05:46:56 | [gosuccess/endoflife-api](https://www.nuget.org/packages/gosuccess%2Fendoflife-api) | 0.1.0 | GoSuccess GmbH | A modern, strongly-typed, dependency-free PHP client for the endoflife.date API… |
-| 2026-10-29 05:49:31 | [aisdk/typesafe](https://www.nuget.org/packages/aisdk%2Ftypesafe) | v0.10.0 |  | Native TypeSafe Jev decisions for the framework-agnostic PHP AI SDK. |
+| 2026-10-29 06:22:20 | [tikobus/php-binlog-async](https://www.nuget.org/packages/tikobus%2Fphp-binlog-async) | v0.1.0 | tikobus | MySQL replication-protocol client: register as a replica over amphp/socket and… |
+| 2026-10-29 06:27:25 | [thekaziomar/laravel-smart-upload](https://www.nuget.org/packages/thekaziomar%2Flaravel-smart-upload) | v1.0.0 | Kazi Omar Faruk | A developer-first, zero-database file and chunk upload toolkit for Laravel with… |
+| 2026-10-29 06:40:29 | [laramon/agent](https://www.nuget.org/packages/laramon%2Fagent) | v0.1.0 | Mohamed Sheeraz | Laramon agent: ships requests, queries, jobs, exceptions, logs and host resourc… |
+| 2026-10-29 06:44:44 | [ahraihan/laravel-steadfast-courier](https://www.nuget.org/packages/ahraihan%2Flaravel-steadfast-courier) | v1.0.0 | AH-Raihan | Steadfast Courier API (18 endpoints) and Webhook integration for Laravel |
 
 ## Data source
 
