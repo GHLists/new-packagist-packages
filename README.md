@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 05:20 UTC
+## Latest list — 2026-10-29 06:19 UTC
 
-New packages created between 2026-10-29 04:20 UTC and 2026-10-29 05:20 UTC.
+New packages created between 2026-10-29 05:20 UTC and 2026-10-29 06:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T05-20-42-523917Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-29T06-19-25-808717Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 04:37:40 | [wayancc/wyn-forms](https://www.nuget.org/packages/wayancc%2Fwyn-forms) | v1.0.0 |  | Self-hosted form backend: spam-filtered inbox, notifications and uploads for an… |
-| 2026-10-29 04:41:13 | [abetwothree/lang-export](https://www.nuget.org/packages/abetwothree%2Flang-export) | v0.1.0 | Abraham Arango | Export your Laravel translation files as JSON for Vue, React, & Svelte with @to… |
-| 2026-10-29 04:54:52 | [tryrelia/relia](https://www.nuget.org/packages/tryrelia%2Frelia) | v0.1.0 |  | Relia for PHP and Laravel: requests, errors, database queries, outgoing calls,… |
+| 2026-10-29 05:27:16 | [zhandos717/moonshine-docx-editor](https://www.nuget.org/packages/zhandos717%2Fmoonshine-docx-editor) | v1.3.1 | Zhandos | WYSIWYG DOCX editor for MoonShine admin panel, built on docen |
+| 2026-10-29 05:40:02 | [vaartix/vaartix-php](https://www.nuget.org/packages/vaartix%2Fvaartix-php) | v0.1.0 | NAP Designs | Official PHP SDK for the Vaartix email API |
+| 2026-10-29 05:46:56 | [gosuccess/endoflife-api](https://www.nuget.org/packages/gosuccess%2Fendoflife-api) | 0.1.0 | GoSuccess GmbH | A modern, strongly-typed, dependency-free PHP client for the endoflife.date API… |
+| 2026-10-29 05:49:31 | [aisdk/typesafe](https://www.nuget.org/packages/aisdk%2Ftypesafe) | v0.10.0 |  | Native TypeSafe Jev decisions for the framework-agnostic PHP AI SDK. |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-29T05:27:16Z,zhandos717/moonshine-docx-editor,v1.3.1,Zhandos,"WYSIWYG DOCX editor for MoonShine admin panel, built on docen"
+2026-10-29T05:40:02Z,vaartix/vaartix-php,v0.1.0,NAP Designs,Official PHP SDK for the Vaartix email API
+2026-10-29T05:46:56Z,gosuccess/endoflife-api,0.1.0,GoSuccess GmbH,"A modern, strongly-typed, dependency-free PHP client for the endoflife.date API v1."
+2026-10-29T05:49:31Z,aisdk/typesafe,v0.10.0,,Native TypeSafe Jev decisions for the framework-agnostic PHP AI SDK.
