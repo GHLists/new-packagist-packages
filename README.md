@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 00:18 UTC
+## Latest list — 2026-10-29 02:21 UTC
 
-New packages created between 2026-10-28 23:20 UTC and 2026-10-29 00:18 UTC.
+New packages created between 2026-10-29 01:20 UTC and 2026-10-29 02:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T00-18-39-07966Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-29T02-21-41-669949Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-28 23:33:25 | [christianrudde/vaultwarphpen](https://www.nuget.org/packages/christianrudde%2Fvaultwarphpen) | v0.1.0 | Lumundi Versand GmbH; Vaultwa… | PHP port of Vaultwarden, the Bitwarden-compatible server. |
-| 2026-10-28 23:48:52 | [venusian/serve](https://www.nuget.org/packages/venusian%2Fserve) | 0.11.0 | Angel Gonzalez; Taylor Otwell | The webserver component for VenusianPHP Framework. |
+| 2026-10-29 01:52:05 | [wayancc/inkdocs](https://www.nuget.org/packages/wayancc%2Finkdocs) | v1.0.0 |  | Fast flat-file documentation engine for PHP 8. Markdown in, cached HTML out. No… |
+| 2026-10-29 01:57:19 | [yii3/debug](https://www.nuget.org/packages/yii3%2Fdebug) | 0.1.0 | Wilmer Arambula | Yii3 adapter for the PHP Forge debug core. |
 
 ## Data source
 
