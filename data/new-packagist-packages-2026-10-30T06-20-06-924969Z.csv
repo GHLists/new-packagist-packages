@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-30T05:39:08Z,hospodskej-cz/eet-gateway-client,v0.1.0,,"Typed PHP client for the EET Gateway HTTP API v1 (Czech EET 2.0). ext-curl, no other dependencies."
+2026-10-30T06:08:24Z,idbi/blackbox,v1.0.0,,"Request tracing and audit trail for Laravel: request id, client session, who, payload and headers, written after the response is sent."
+2026-10-30T06:16:12Z,tacraft-sociality/flarum-blessing-oauth,1.0.0,,Blessing Skin / TcsSkin OAuth2 login for Flarum 2.
