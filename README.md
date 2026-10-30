@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 23:19 UTC
+## Latest list — 2026-10-30 00:21 UTC
 
-New packages created between 2026-10-29 22:21 UTC and 2026-10-29 23:19 UTC.
+New packages created between 2026-10-29 23:19 UTC and 2026-10-30 00:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-29T23-19-59-748785Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-30T00-21-50-754732Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 22:22:31 | [olgunozoktas/laravel-trusted-devices](https://www.nuget.org/packages/olgunozoktas%2Flaravel-trusted-devices) | v0.1.0 | Olgun Özoktaş | "Keep me signed in on this machine?" for Laravel: after a two-factor code, a tr… |
-| 2026-10-29 22:36:41 | [infrawrench/bulk-instances](https://www.nuget.org/packages/infrawrench%2Fbulk-instances) | 1.0.0 | Infrawrench LLC | AWS EC2 instance attributes and pricing, with full history, from Infrawrench. |
-| 2026-10-29 22:44:26 | [strukt/ar](https://www.nuget.org/packages/strukt%2Far) | 1.0.0 | pitsolu | A small query builder and active record ORM for SQL databases. |
-| 2026-10-29 23:02:45 | [superroute/sapp](https://www.nuget.org/packages/superroute%2Fsapp) | v0.2.1 | Goodneo Solutions | sApp for PHP: sign-in, the platform app API, Open Platform capabilities and Sup… |
+| 2026-10-29 23:34:55 | [pushpasta/email_domains_mapper](https://www.nuget.org/packages/pushpasta%2Femail_domains_mapper) | v1.0.0 | CodeAlDente | Roundcube plugin that selects IMAP, SMTP and optional ManageSieve hosts from de… |
+| 2026-10-30 00:16:46 | [tacraft-social-guild/flarum-login-screen](https://www.nuget.org/packages/tacraft-social-guild%2Fflarum-login-screen) | 1.0.0 | TCS Dev HUB | Customize the login screen for your Flarum forum. |
 
 ## Data source
 

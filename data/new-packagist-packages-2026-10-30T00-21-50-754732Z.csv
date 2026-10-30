@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-29T23:34:55Z,pushpasta/email_domains_mapper,v1.0.0,CodeAlDente,"Roundcube plugin that selects IMAP, SMTP and optional ManageSieve hosts from defined mappings based on the domain of the user's full email login address. Rejects unknown domains before connecting and enables ManageSieve only for domains with a configured Sieve server."
+2026-10-30T00:16:46Z,tacraft-social-guild/flarum-login-screen,1.0.0,TCS Dev HUB,Customize the login screen for your Flarum forum.
