@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 13:19 UTC
+## Latest list — 2026-10-30 14:25 UTC
 
-New packages created between 2026-10-30 12:20 UTC and 2026-10-30 13:19 UTC.
+New packages created between 2026-10-30 13:19 UTC and 2026-10-30 14:25 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-30T13-19-34-10669Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-30T14-25-45-051466Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-30 12:39:03 | [ismailnakkar/laravel-mail-frame](https://www.nuget.org/packages/ismailnakkar%2Flaravel-mail-frame) | v0.1.0 | Ismail Nakkar | One hand-tuned HTML frame for Laravel notification mail, with an ordered block… |
-| 2026-10-30 12:58:55 | [rllngr/kirby-memo](https://www.nuget.org/packages/rllngr%2Fkirby-memo) | 1.0.0 | Nicolas Rollinger | Kirby 5 plugin — a read-only cheat sheet in the Panel, rendered from a Markdown… |
-| 2026-10-30 13:03:21 | [yuriitatur/permissions](https://www.nuget.org/packages/yuriitatur%2Fpermissions) | v0.1.0 | Yurii Tatur | simple permission manager |
-| 2026-10-30 13:07:41 | [cboxdk/laravel-webhooks](https://www.nuget.org/packages/cboxdk%2Flaravel-webhooks) | v0.1.0 | Sylvester Damgaard | Cbox Webhooks: the outbound and inbound webhook engine for Laravel. A persisten… |
-| 2026-10-30 13:09:05 | [ycloudyusa/embedded_groupexpro_schedule](https://www.nuget.org/packages/ycloudyusa%2Fembedded_groupexpro_schedule) | 1.0.0 |  | Provides an Embedded GroupEx Pro Schedule element and block. |
+| 2026-10-30 13:32:41 | [mageenv/module-total-savings-hyva](https://www.nuget.org/packages/mageenv%2Fmodule-total-savings-hyva) | 1.2.0 |  | Hyva storefront integration for MageEnv Total Savings - an Alpine.js Cart Page… |
+| 2026-10-30 13:39:44 | [torno/tcrud](https://www.nuget.org/packages/torno%2Ftcrud) | v1.0.1 |  | CRUD virtual para CodeIgniter 4 con Bootstrap 5 |
+| 2026-10-30 13:48:15 | [phrosthesis/run-tests](https://www.nuget.org/packages/phrosthesis%2Frun-tests) | v0.1.0 | Alexey Tsarkov | Prosthesis for run-tests.php. |
+| 2026-10-30 14:14:07 | [sendora/sendora-laravel](https://www.nuget.org/packages/sendora%2Fsendora-laravel) | v0.1.0 |  | Sendora for Laravel: the API's clients in the container, with a facade, and Lar… |
+| 2026-10-30 14:15:23 | [drupal/art_gallery](https://www.nuget.org/packages/drupal%2Fart_gallery) | 1.0.0 |  | A typography-led Drupal CMS site template for artists and galleries: artworks,… |
 
 ## Data source
 

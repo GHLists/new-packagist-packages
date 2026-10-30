@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-30T13:32:41Z,mageenv/module-total-savings-hyva,1.2.0,,Hyva storefront integration for MageEnv Total Savings - an Alpine.js Cart Page savings card consuming the shared savings payload. No business logic.
+2026-10-30T13:39:44Z,torno/tcrud,v1.0.1,,CRUD virtual para CodeIgniter 4 con Bootstrap 5
+2026-10-30T13:48:15Z,phrosthesis/run-tests,v0.1.0,Alexey Tsarkov,Prosthesis for run-tests.php.
+2026-10-30T14:14:07Z,sendora/sendora-laravel,v0.1.0,,"Sendora for Laravel: the API's clients in the container, with a facade, and Laravel's mail through the API."
+2026-10-30T14:15:23Z,drupal/art_gallery,1.0.0,,"A typography-led Drupal CMS site template for artists and galleries: artworks, artists, exhibitions and freeform Canvas pages, with a built-in lightbox and WCAG 2.2 AA as a release criterion."
