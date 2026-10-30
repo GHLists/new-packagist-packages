@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-30T15:28:28Z,akawaka/sylius-cms-plugin,v1.0.0,,CMS pages with a block-based page builder and live multi-device preview for Sylius 2
+2026-10-30T15:29:24Z,mage2kishan/module-ai-visibility,1.1.0,Kishan Savaliya,"Panth AI Visibility - analytics for Magento 2 that counts AI crawler requests (including full page cache hits), detects shoppers arriving from AI assistants and attributes their orders, with an admin dashboard and insights, discovery of unknown bots, data-health checks and an access log importer fo…"
+2026-10-30T15:35:11Z,sylvainallignol/minify-html,v1.0.1,Sylvain Allignol,Enable minify HTML output for Kirby
+2026-10-30T15:51:07Z,survos/duckdb-bundle,2.45.8,,Read-only DuckDB PDO connections and explicit named local or S3 sources for Symfony.
+2026-10-30T15:52:28Z,sadpcd/laravel-error-reporter,v1.1.0,SADPCD,"Resilient 500 Error Reporter with Flood Protection, Livewire/Inertia Context, and optional Filament UI for Laravel"
