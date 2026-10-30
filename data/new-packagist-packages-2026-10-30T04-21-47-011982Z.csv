@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-30T03:23:35Z,tacraft-sociality/flarum-email-limits,1.0.0,Tacraft Sociality,Only allow registration with whitelisted email suffixes.

@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 03:20 UTC
+## Latest list — 2026-10-30 04:21 UTC
 
-New packages created between 2026-10-30 02:19 UTC and 2026-10-30 03:20 UTC.
+New packages created between 2026-10-30 03:20 UTC and 2026-10-30 04:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-30T03-20-05-516053Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-30T04-21-47-011982Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-30 02:33:01 | [payene/maintenance-bundle](https://www.nuget.org/packages/payene%2Fmaintenance-bundle) | v1.0.0 | Payene | Mode maintenance pour Symfony avec interface d'administration, whitelist et sto… |
-| 2026-10-30 03:16:55 | [sanjayacloud/laravel-plans](https://www.nuget.org/packages/sanjayacloud%2Flaravel-plans) | 0.5.0 | Sanjaya | Free and paid plans for Laravel: feature gating, usage limits, free trials, com… |
+| 2026-10-30 03:23:35 | [tacraft-sociality/flarum-email-limits](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-email-limits) | 1.0.0 | Tacraft Sociality | Only allow registration with whitelisted email suffixes. |
 
 ## Data source
 
