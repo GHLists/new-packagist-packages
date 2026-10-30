@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-30T21:27:45Z,ernestdefoe/quickdraw,1.0.4,Ernest Defoe,"Quickdraw — a floating action button for Flarum discussion pages. Reply, follow, jump to where you left off, copy or share the link, and moderate, from a fan or a panel within thumb reach."
+2026-10-30T21:30:42Z,kiwicaptcha/kiwicaptcha-php,v1.0.1,Bel Consulting OÜ,"KiwiCaptcha: privacy-first, self-hosted proof-of-work anti-abuse engine for PHP. Zero third-party services or tracking; optional first-party telemetry; PHP-native verification (the optional RSW time-lock algorithm uses GMP)."
+2026-10-30T21:30:54Z,kiwicaptcha/kiwicaptcha-risk-php,v1.0.1,Bel Consulting OÜ,"KiwiCaptcha Adaptive Risk Engine for PHP: privacy-first, self-hosted risk scoring for proof-of-work challenge issuance decisions, byte-identical with the cross-language risk-v1 contract."
+2026-10-30T21:31:14Z,bel-consulting/kiwicaptcha-symfony,v1.0.1,Bel Consulting OÜ,"Self-contained Symfony bundle for KiwiCaptcha proof-of-work CAPTCHA. No external services, no tracking — challenges are issued and verified locally via the kiwicaptcha/kiwicaptcha-php core."
+2026-10-30T21:40:13Z,phpstats/phit-polyfill,v0.1.0,,"Pure-PHP polyfill for the phit native extension: descriptive statistics, OLS/logistic/probit/Poisson regression and probability distributions"
+2026-10-30T22:09:57Z,timvandendries/clock,v1.0.0,Tim van den Dries,"Configurable analog, digital and count-down bar clocks"
+2026-10-30T22:13:44Z,piotrpress/github-backup,v1.0.0,Piotr Niewiadomski,CLI tool for bulk downloading GitHub repositories as ZIP archives.
