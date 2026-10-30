@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-30T22:37:37Z,supportmanager/sdk,v0.0.1,,"PHP client SDK for the SupportManager backend API — authentication, session, and tenant-scoped module requests shared across first-party apps."
+2026-10-30T22:44:55Z,hostily/captcha-typo3,0.1.1,hostily,"hostily Captcha spam protection for TYPO3 (EXT:form and powermail), captcha.hostily.de"
+2026-10-30T22:45:02Z,hostily/contao-captcha,0.1.0,hostily,hostily Captcha spam protection for Contao: form field for the form generator (captcha.hostily.de)
+2026-10-30T22:45:09Z,hostily/craft-captcha,0.1.0,,"hostily Captcha for Craft CMS: privacy-friendly spam protection (no cookies) for your own forms, Formie, Freeform and the front-end account forms."
+2026-10-30T22:45:16Z,hostily/module-captcha,0.1.0,,hostily Captcha as a CAPTCHA type for Magento 2 (storefront forms and checkout)
+2026-10-30T23:11:57Z,dravencms/api,0.1.0,Adam Schubert,"Modular read-only REST API for DravenCMS, powered by Apitte"

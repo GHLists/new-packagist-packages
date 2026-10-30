@@ -15,21 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 22:20 UTC
+## Latest list — 2026-10-30 23:19 UTC
 
-New packages created between 2026-10-30 21:21 UTC and 2026-10-30 22:20 UTC.
+New packages created between 2026-10-30 22:20 UTC and 2026-10-30 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-30T22-20-49-712609Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-30T23-19-59-719667Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-30 21:27:45 | [ernestdefoe/quickdraw](https://www.nuget.org/packages/ernestdefoe%2Fquickdraw) | 1.0.4 | Ernest Defoe | Quickdraw — a floating action button for Flarum discussion pages. Reply, follow… |
-| 2026-10-30 21:30:42 | [kiwicaptcha/kiwicaptcha-php](https://www.nuget.org/packages/kiwicaptcha%2Fkiwicaptcha-php) | v1.0.1 | Bel Consulting OÜ | KiwiCaptcha: privacy-first, self-hosted proof-of-work anti-abuse engine for PHP… |
-| 2026-10-30 21:30:54 | [kiwicaptcha/kiwicaptcha-risk-php](https://www.nuget.org/packages/kiwicaptcha%2Fkiwicaptcha-risk-php) | v1.0.1 | Bel Consulting OÜ | KiwiCaptcha Adaptive Risk Engine for PHP: privacy-first, self-hosted risk scori… |
-| 2026-10-30 21:31:14 | [bel-consulting/kiwicaptcha-symfony](https://www.nuget.org/packages/bel-consulting%2Fkiwicaptcha-symfony) | v1.0.1 | Bel Consulting OÜ | Self-contained Symfony bundle for KiwiCaptcha proof-of-work CAPTCHA. No externa… |
-| 2026-10-30 21:40:13 | [phpstats/phit-polyfill](https://www.nuget.org/packages/phpstats%2Fphit-polyfill) | v0.1.0 |  | Pure-PHP polyfill for the phit native extension: descriptive statistics, OLS/lo… |
-| 2026-10-30 22:09:57 | [timvandendries/clock](https://www.nuget.org/packages/timvandendries%2Fclock) | v1.0.0 | Tim van den Dries | Configurable analog, digital and count-down bar clocks |
-| 2026-10-30 22:13:44 | [piotrpress/github-backup](https://www.nuget.org/packages/piotrpress%2Fgithub-backup) | v1.0.0 | Piotr Niewiadomski | CLI tool for bulk downloading GitHub repositories as ZIP archives. |
+| 2026-10-30 22:37:37 | [supportmanager/sdk](https://www.nuget.org/packages/supportmanager%2Fsdk) | v0.0.1 |  | PHP client SDK for the SupportManager backend API — authentication, session, an… |
+| 2026-10-30 22:44:55 | [hostily/captcha-typo3](https://www.nuget.org/packages/hostily%2Fcaptcha-typo3) | 0.1.1 | hostily | hostily Captcha spam protection for TYPO3 (EXT:form and powermail), captcha.hos… |
+| 2026-10-30 22:45:02 | [hostily/contao-captcha](https://www.nuget.org/packages/hostily%2Fcontao-captcha) | 0.1.0 | hostily | hostily Captcha spam protection for Contao: form field for the form generator (… |
+| 2026-10-30 22:45:09 | [hostily/craft-captcha](https://www.nuget.org/packages/hostily%2Fcraft-captcha) | 0.1.0 |  | hostily Captcha for Craft CMS: privacy-friendly spam protection (no cookies) fo… |
+| 2026-10-30 22:45:16 | [hostily/module-captcha](https://www.nuget.org/packages/hostily%2Fmodule-captcha) | 0.1.0 |  | hostily Captcha as a CAPTCHA type for Magento 2 (storefront forms and checkout) |
+| 2026-10-30 23:11:57 | [dravencms/api](https://www.nuget.org/packages/dravencms%2Fapi) | 0.1.0 | Adam Schubert | Modular read-only REST API for DravenCMS, powered by Apitte |
 
 ## Data source
 
