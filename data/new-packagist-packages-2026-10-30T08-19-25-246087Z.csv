@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-30T07:27:22Z,panda-men/think-throttle,v0.1.0,,Atomic Redis Lua rate limiting for ThinkPHP 8 and PHP 8.2+
+2026-10-30T07:53:14Z,laraveladmin/think-scout,v1.0.1,,"Laravel Scout style full-text search for ThinkPHP ORM, with MySQL, PostgreSQL, MongoDB, Meilisearch, collection and null engines."

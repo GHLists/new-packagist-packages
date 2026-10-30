@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 07:20 UTC
+## Latest list — 2026-10-30 08:19 UTC
 
-New packages created between 2026-10-30 06:20 UTC and 2026-10-30 07:20 UTC.
+New packages created between 2026-10-30 07:20 UTC and 2026-10-30 08:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-30T07-20-00-491685Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-30T08-19-25-246087Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-30 06:47:39 | [zeyen/filse](https://www.nuget.org/packages/zeyen%2Ffilse) | v0.0.5 | zeyen | PHP client for the image-hosting / file-uploads gateway: upload, private URL, f… |
-| 2026-10-30 07:10:04 | [mattfor/emoji-mixer](https://www.nuget.org/packages/mattfor%2Femoji-mixer) | v2.2.0 | MattFor | Get the URL of a Google Emoji Kitchen image for two emojis. |
+| 2026-10-30 07:27:22 | [panda-men/think-throttle](https://www.nuget.org/packages/panda-men%2Fthink-throttle) | v0.1.0 |  | Atomic Redis Lua rate limiting for ThinkPHP 8 and PHP 8.2+ |
+| 2026-10-30 07:53:14 | [laraveladmin/think-scout](https://www.nuget.org/packages/laraveladmin%2Fthink-scout) | v1.0.1 |  | Laravel Scout style full-text search for ThinkPHP ORM, with MySQL, PostgreSQL,… |
 
 ## Data source
 
