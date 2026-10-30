@@ -15,15 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 18:21 UTC
+## Latest list — 2026-10-30 19:20 UTC
 
-New packages created between 2026-10-30 17:21 UTC and 2026-10-30 18:21 UTC.
+New packages created between 2026-10-30 18:21 UTC and 2026-10-30 19:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-30T18-21-29-387433Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-30T19-20-22-734826Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-30 17:29:39 | [bluetree-service/api-core](https://www.nuget.org/packages/bluetree-service%2Fapi-core) | 0.1.0 | Michał Adamiak | Minimal JSON API microframework: modules, routing, config cache, console |
+| 2026-10-30 18:24:38 | [organiseyou/mcp-server](https://www.nuget.org/packages/organiseyou%2Fmcp-server) | v1.1.0 |  | Drop-in MCP (Model Context Protocol) server for Laravel applications |
+| 2026-10-30 18:40:23 | [ernestdefoe/kiosk](https://www.nuget.org/packages/ernestdefoe%2Fkiosk) | 1.0.1 | Ernest Defoe | Kiosk — sell anything on your Flarum forum: memberships, premium tags, single d… |
+| 2026-10-30 18:46:16 | [tacraft-sociality/flarum-microsoft-oauth](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-microsoft-oauth) | 1.0.0 | Tacraft Sociality | Log in to your Flarum forum with Microsoft |
+| 2026-10-30 18:46:44 | [craigsimps/assertpdf](https://www.nuget.org/packages/craigsimps%2Fassertpdf) | v0.1.0 |  | Pest and PHPUnit assertions against real PDF text, pages and rendered snapshots. |
+| 2026-10-30 19:01:34 | [tacraft-sociality/flarum-github-oauth](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-github-oauth) | 1.0.0 | TCS Dev Hub | GitHub OAuth login for Flarum 2, with account linking in the security settings. |
+| 2026-10-30 19:03:19 | [dr2gsistemas/erplibs](https://www.nuget.org/packages/dr2gsistemas%2Ferplibs) | v1.1.0 | dr2gsistemas | Librería PHP 8.4+ para ERP: ORM por atributos, migraciones, eventos, validación… |
+| 2026-10-30 19:14:44 | [zapsmtp/zapsmtp-php](https://www.nuget.org/packages/zapsmtp%2Fzapsmtp-php) | v0.1.0-beta.1 |  | The official PHP SDK for the ZapSMTP email API |
+| 2026-10-30 19:14:49 | [zapsmtp/zapsmtp-laravel](https://www.nuget.org/packages/zapsmtp%2Fzapsmtp-laravel) | v0.1.0-beta.1 |  | The official Laravel integration for the ZapSMTP email API: mail driver, webhoo… |
 
 ## Data source
 

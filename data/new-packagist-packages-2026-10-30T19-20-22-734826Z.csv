@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-30T18:24:38Z,organiseyou/mcp-server,v1.1.0,,Drop-in MCP (Model Context Protocol) server for Laravel applications
+2026-10-30T18:40:23Z,ernestdefoe/kiosk,1.0.1,Ernest Defoe,"Kiosk — sell anything on your Flarum forum: memberships, premium tags, single discussions, posting passes, tips, and whatever other extensions make sellable (Atrium albums, Social Groups, Syllabus courses). PayPal, Stripe and crypto. Set up in minutes."
+2026-10-30T18:46:16Z,tacraft-sociality/flarum-microsoft-oauth,1.0.0,Tacraft Sociality,Log in to your Flarum forum with Microsoft
+2026-10-30T18:46:44Z,craigsimps/assertpdf,v0.1.0,,"Pest and PHPUnit assertions against real PDF text, pages and rendered snapshots."
+2026-10-30T19:01:34Z,tacraft-sociality/flarum-github-oauth,1.0.0,TCS Dev Hub,"GitHub OAuth login for Flarum 2, with account linking in the security settings."
+2026-10-30T19:03:19Z,dr2gsistemas/erplibs,v1.1.0,dr2gsistemas,"Librería PHP 8.4+ para ERP: ORM por atributos, migraciones, eventos, validación, serialización, caché, logging, auditoría y servidor API"
+2026-10-30T19:14:44Z,zapsmtp/zapsmtp-php,v0.1.0-beta.1,,The official PHP SDK for the ZapSMTP email API
+2026-10-30T19:14:49Z,zapsmtp/zapsmtp-laravel,v0.1.0-beta.1,,"The official Laravel integration for the ZapSMTP email API: mail driver, webhooks, suppression sync, artisan commands, test fake"
