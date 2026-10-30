@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-30T02:33:01Z,payene/maintenance-bundle,v1.0.0,Payene,"Mode maintenance pour Symfony avec interface d'administration, whitelist et stockage configurable."
+2026-10-30T03:16:55Z,sanjayacloud/laravel-plans,0.5.0,Sanjaya,"Free and paid plans for Laravel: feature gating, usage limits, free trials, complimentary access, optional Stripe billing through Cashier, and a super admin area"
