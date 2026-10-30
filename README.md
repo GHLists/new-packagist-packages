@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 06:20 UTC
+## Latest list — 2026-10-30 07:20 UTC
 
-New packages created between 2026-10-30 05:21 UTC and 2026-10-30 06:20 UTC.
+New packages created between 2026-10-30 06:20 UTC and 2026-10-30 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-30T06-20-06-924969Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-30T07-20-00-491685Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-30 05:39:08 | [hospodskej-cz/eet-gateway-client](https://www.nuget.org/packages/hospodskej-cz%2Feet-gateway-client) | v0.1.0 |  | Typed PHP client for the EET Gateway HTTP API v1 (Czech EET 2.0). ext-curl, no… |
-| 2026-10-30 06:08:24 | [idbi/blackbox](https://www.nuget.org/packages/idbi%2Fblackbox) | v1.0.0 |  | Request tracing and audit trail for Laravel: request id, client session, who, p… |
-| 2026-10-30 06:16:12 | [tacraft-sociality/flarum-blessing-oauth](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-blessing-oauth) | 1.0.0 |  | Blessing Skin / TcsSkin OAuth2 login for Flarum 2. |
+| 2026-10-30 06:47:39 | [zeyen/filse](https://www.nuget.org/packages/zeyen%2Ffilse) | v0.0.5 | zeyen | PHP client for the image-hosting / file-uploads gateway: upload, private URL, f… |
+| 2026-10-30 07:10:04 | [mattfor/emoji-mixer](https://www.nuget.org/packages/mattfor%2Femoji-mixer) | v2.2.0 | MattFor | Get the URL of a Google Emoji Kitchen image for two emojis. |
 
 ## Data source
 
