@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-30T17:29:39Z,bluetree-service/api-core,0.1.0,Michał Adamiak,"Minimal JSON API microframework: modules, routing, config cache, console"

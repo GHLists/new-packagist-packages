@@ -15,18 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 17:21 UTC
+## Latest list — 2026-10-30 18:21 UTC
 
-New packages created between 2026-10-30 16:19 UTC and 2026-10-30 17:21 UTC.
+New packages created between 2026-10-30 17:21 UTC and 2026-10-30 18:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-30T17-21-08-891708Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-30T18-21-29-387433Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-30 16:25:33 | [maristas/sigem-api-client](https://www.nuget.org/packages/maristas%2Fsigem-api-client) | 0.1.0 |  | Cliente HTTP con cache para consumir la API SSO de SIGEM desde sistemas perifer… |
-| 2026-10-30 17:04:19 | [owebstudio/kirby-license](https://www.nuget.org/packages/owebstudio%2Fkirby-license) | 1.0.0 | oweb studio | LemonSqueezy license keys for the paid oweb studio plugins for Kirby |
-| 2026-10-30 17:06:36 | [survos/ai-duckdb-store](https://www.nuget.org/packages/survos%2Fai-duckdb-store) | 2.45.9 | Christopher Hertel; Oskar Sta… | DuckDB vector store bridge for Symfony AI |
-| 2026-10-30 17:12:12 | [akawaka/sylius-seo-plugin](https://www.nuget.org/packages/akawaka%2Fsylius-seo-plugin) | v0.1.0 |  | SEO for Sylius 2: meta tags, canonical, hreflang, Open Graph and Twitter cards… |
+| 2026-10-30 17:29:39 | [bluetree-service/api-core](https://www.nuget.org/packages/bluetree-service%2Fapi-core) | 0.1.0 | Michał Adamiak | Minimal JSON API microframework: modules, routing, config cache, console |
 
 ## Data source
 
