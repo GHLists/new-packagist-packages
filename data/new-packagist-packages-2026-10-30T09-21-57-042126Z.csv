@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-30T08:31:14Z,webx-ui/module-orders,v0.90.0,WebX UI,"Orders and the checkout for WebX UI sites: an order is a snapshot of the cart with milestones the system sets and statuses the shop names, one service every door goes through, and the page where a buyer places it."
+2026-10-30T08:35:27Z,vanta/meminfo,0.2.0,Benoit Jacquemont; Vlad Shashkov; Vanta Team,"PHP extension that dumps the content of PHP memory as JSON, to hunt down memory leaks"
+2026-10-30T08:36:33Z,snorky22/symfony-api-forge,v0.1.0,snorky22,"Generate Symfony services for REST APIs and webhooks from the API's documentation: curl and JSON examples become editable descriptors, from which typed HTTP clients and signed webhook consumers are regenerated."
+2026-10-30T08:40:52Z,esoboy/ui,v0.1.0,,shadcn/ui style component library for Laravel and Livewire.
+2026-10-30T08:44:29Z,sebastian/version-requirement,1.0.0,Sebastian Bergmann,Library for working with version requirements
+2026-10-30T09:03:50Z,justbetter/statamic-images,1.0.0,Bob Wezelman,Responsive picture elements for Statamic assets
+2026-10-30T09:14:29Z,hanshs474/fitv-freeimagetovideo,v0.1.0,hanshs474,"Free image to video AI with no daily cap: your first clip needs no sign-up, then a free account keeps going. Every video comes with sound and no watermark."
+2026-10-30T09:19:19Z,carbon/editor-image,0.2.0,,Image focal point and map editor for Neos CMS
