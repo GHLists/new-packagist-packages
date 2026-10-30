@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 04:21 UTC
+## Latest list — 2026-10-30 05:21 UTC
 
-New packages created between 2026-10-30 03:20 UTC and 2026-10-30 04:21 UTC.
+New packages created between 2026-10-30 04:21 UTC and 2026-10-30 05:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-30T04-21-47-011982Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-30T05-21-17-593431Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-30 03:23:35 | [tacraft-sociality/flarum-email-limits](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-email-limits) | 1.0.0 | Tacraft Sociality | Only allow registration with whitelisted email suffixes. |
+| 2026-10-30 04:32:54 | [mage2kishan/module-error-monitor](https://www.nuget.org/packages/mage2kishan%2Fmodule-error-monitor) | 1.7.0 | Kishan Savaliya | Panth Error Monitor - smart, secure error management for Magento 2. Captures PH… |
+| 2026-10-30 04:42:24 | [relaywa/sdk](https://www.nuget.org/packages/relaywa%2Fsdk) | v0.1.0 |  | RelayWA PHP SDK for WhatsApp messaging, sessions, and webhooks |
+| 2026-10-30 04:59:45 | [atannex/lexicon](https://www.nuget.org/packages/atannex%2Flexicon) | v1.0.0 | Atangageih Leke Collins | Universal lexicographic engine for Laravel: languages, varieties, orthographies… |
 
 ## Data source
 

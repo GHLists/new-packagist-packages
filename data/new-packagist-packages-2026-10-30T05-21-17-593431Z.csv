@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-30T04:32:54Z,mage2kishan/module-error-monitor,1.7.0,Kishan Savaliya,"Panth Error Monitor - smart, secure error management for Magento 2. Captures PHP exceptions and storefront JavaScript console errors into deduplicated, grouped database records, and sends throttled digest email alerts so your inbox is never flooded. Includes an admin review grid, severity-based fil…"
+2026-10-30T04:42:24Z,relaywa/sdk,v0.1.0,,"RelayWA PHP SDK for WhatsApp messaging, sessions, and webhooks"
+2026-10-30T04:59:45Z,atannex/lexicon,v1.0.0,Atangageih Leke Collins,"Universal lexicographic engine for Laravel: languages, varieties, orthographies, lexemes, forms, senses, multilingual definitions, provenance and Unicode-exact, tone-aware search for any human language."
