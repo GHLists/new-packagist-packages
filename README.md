@@ -15,24 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 11:21 UTC
+## Latest list — 2026-10-30 12:20 UTC
 
-New packages created between 2026-10-30 10:20 UTC and 2026-10-30 11:21 UTC.
+New packages created between 2026-10-30 11:21 UTC and 2026-10-30 12:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-30T11-21-56-682185Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-30T12-20-46-407564Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-30 10:26:17 | [konradmichalik/typo3-letterbox](https://www.nuget.org/packages/konradmichalik%2Ftypo3-letterbox) | 0.1.0 | Konrad Michalik; Armin Vieweg | Letterbox - Catches TYPO3 mails in an mbox file and shows them in the backend,… |
-| 2026-10-30 10:27:31 | [realzone22/nativeblade](https://www.nuget.org/packages/realzone22%2Fnativeblade) | 0.1.0 | RealZone22 | Native-feeling Blade components for Laravel with Material Design 3 and iOS them… |
-| 2026-10-30 10:36:39 | [quioteframework/dev-overlay](https://www.nuget.org/packages/quioteframework%2Fdev-overlay) | v1.0.0 | Quiote Contributors | In-browser developer overlay for Quiote: a floating badge injected into HTML pa… |
-| 2026-10-30 10:39:03 | [glue-agency/laravel-glue-backoffice](https://www.nuget.org/packages/glue-agency%2Flaravel-glue-backoffice) | 1.0.0 |  | Reports a Laravel app to the Glue Dashboard after each deploy |
-| 2026-10-30 10:45:27 | [dud/contao-wartung-client](https://www.nuget.org/packages/dud%2Fcontao-wartung-client) | 1.1.0 | Gunnar Haeuschkel | Client-Bundle für den Wartomat (Contao-Wartungssystem von Drum und Dran) |
-| 2026-10-30 10:57:24 | [enabel/permission-bundle](https://www.nuget.org/packages/enabel%2Fpermission-bundle) | v1.0.0 | Damien LAGAE | Permission enums for Symfony: roles, relations and rules declared on each case,… |
-| 2026-10-30 11:02:31 | [ismailnakkar/laravel-money](https://www.nuget.org/packages/ismailnakkar%2Flaravel-money) | v0.1.0 | Ismail Nakkar | Money as an exact decimal string in Laravel: check it, cut it, print it. No flo… |
-| 2026-10-30 11:06:51 | [crystoline/xpsr-lock](https://www.nuget.org/packages/crystoline%2Fxpsr-lock) | v0.5.0 | Adekunle | Locks for XPSR applications on Symfony Lock: files, Redis, Redlock across sever… |
-| 2026-10-30 11:06:51 | [crystoline/xpsr-notifications](https://www.nuget.org/packages/crystoline%2Fxpsr-notifications) | v0.5.0 | Adekunle | Notifications for XPSR applications: email, SMS through Symfony Notifier's prov… |
-| 2026-10-30 11:08:46 | [digiwerft/contao-er24-custom-sections](https://www.nuget.org/packages/digiwerft%2Fcontao-er24-custom-sections) | 1.0.0 | DIGIWERFT GmbH | Eigene Abschnitte an frei wählbarer Stelle in eRecht24-Rechtstexte einfügen, oh… |
+| 2026-10-30 11:22:27 | [statikbe/craft-link-checker](https://www.nuget.org/packages/statikbe%2Fcraft-link-checker) | 1.1.0 | Statik | Finds broken links in the content of Craft CMS entries (links to deleted, disab… |
+| 2026-10-30 11:36:16 | [tacraft-sociality/flarum-qq-oauth](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-qq-oauth) | 1.0.0 | TCS Dev HUB | QQ (Tencent) OAuth login for Flarum 2, with an uploadable custom login button i… |
+| 2026-10-30 11:53:30 | [ryzemcbe/bedrock-protocol](https://www.nuget.org/packages/ryzemcbe%2Fbedrock-protocol) | v1.0.0-beta.1 |  | An implementation of the Minecraft: Bedrock Edition protocol in PHP |
+| 2026-10-30 11:55:13 | [yuriitatur/strategies](https://www.nuget.org/packages/yuriitatur%2Fstrategies) | v0.1.0 | Yurii Tatur | A simple package to update entities in certain declarative way |
+| 2026-10-30 12:00:25 | [tollwerk/tw-console](https://www.nuget.org/packages/tollwerk%2Ftw-console) | v1.0.0 | Klaus Fiedler | Collection of useful ViewHelpers |
+| 2026-10-30 12:10:04 | [rishadblack/authos-client-laravel](https://www.nuget.org/packages/rishadblack%2Fauthos-client-laravel) | v0.0.1 | S M Rishad | Authos client for Laravel applications: the button block, the code exchange, th… |
+| 2026-10-30 12:12:40 | [futuraweb/contao-backend-suite](https://www.nuget.org/packages/futuraweb%2Fcontao-backend-suite) | v1.0.0 | Dinko Skopljak | Backend-Werkzeuge für Contao 5 – ID-/Alias-Suche, Style-Selector für CSS-Klasse… |
 
 ## Data source
 

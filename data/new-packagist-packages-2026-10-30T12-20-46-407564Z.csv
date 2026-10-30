@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-30T11:22:27Z,statikbe/craft-link-checker,1.1.0,Statik,"Finds broken links in the content of Craft CMS entries (links to deleted, disabled or expired entries, deleted assets, own-site URLs that no longer exist) and lists the pages that contain them in a dashboard widget"
+2026-10-30T11:36:16Z,tacraft-sociality/flarum-qq-oauth,1.0.0,TCS Dev HUB,"QQ (Tencent) OAuth login for Flarum 2, with an uploadable custom login button icon."
+2026-10-30T11:53:30Z,ryzemcbe/bedrock-protocol,v1.0.0-beta.1,,An implementation of the Minecraft: Bedrock Edition protocol in PHP
+2026-10-30T11:55:13Z,yuriitatur/strategies,v0.1.0,Yurii Tatur,A simple package to update entities in certain declarative way
+2026-10-30T12:00:25Z,tollwerk/tw-console,v1.0.0,Klaus Fiedler,Collection of useful ViewHelpers
+2026-10-30T12:10:04Z,rishadblack/authos-client-laravel,v0.0.1,S M Rishad,"Authos client for Laravel applications: the button block, the code exchange, the management API and signed webhooks."
+2026-10-30T12:12:40Z,futuraweb/contao-backend-suite,v1.0.0,Dinko Skopljak,"Backend-Werkzeuge für Contao 5 – ID-/Alias-Suche, Style-Selector für CSS-Klassen, Toolbar, Kurzlinks und mehr"
