@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-30T14:27:52Z,ernestdefoe/rotation,1.0.0,Ernest Defoe,"Rotation — members' music listening for Flarum 2: connect Last.fm, now playing and top tracks on profiles, listening-time levels, song, artist and listener leaderboards, widgets, weekly recaps, and players for music links in posts."
+2026-10-30T14:29:06Z,survos/duckdb-api-bundle,2.45.7,,Read-only API Platform 5 state provider for explicitly mapped DuckDB resources over native PDO.
+2026-10-30T14:36:50Z,jeffersongoncalves/livewire-horizon,1.0.0,,
+2026-10-30T14:39:33Z,nedal-network/filament-scrollable-topnav,1.0.0,Emuniq,Makes Filament's top navigation scrollable instead of wrapping into multiple rows when you have many navigation groups/clusters.
+2026-10-30T14:39:57Z,ahmed-ahmed/laravel-ddd,v1.0.0,,A Laravel DDD implementation
+2026-10-30T14:41:11Z,mage-os-italia/module-language-it_it,0.0.26,,it_IT language package.
+2026-10-30T14:46:50Z,ryzemcbe/ryzemp,v1.0.0-beta.3,,RyzeMP: a multiversion Minecraft Bedrock server built on the PocketMine-MP 5 API
+2026-10-30T14:47:02Z,daycry/twig-codeigniter4,v4.0.0,,CodeIgniter 4 adapter for daycry/twig
+2026-10-30T15:05:51Z,xddesigners/silverstripe-sitemap-cache,1.0.0,XD designers,"Static file cache for silverstripe/googlesitemaps (wilr) on SilverStripe 4/5, regenerated out-of-band by a cron task. Backports the static cache that upstream only ships in its CMS 6-only 4.1+ releases."
+2026-10-30T15:06:48Z,milwad/laravel-validate-filament,v1.0.0,Milwad Khosravi,Filament field macros for the milwad/laravel-validate validation rules.
