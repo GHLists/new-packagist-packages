@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-10-30T10:26:17Z,konradmichalik/typo3-letterbox,0.1.0,Konrad Michalik; Armin Vieweg,"Letterbox - Catches TYPO3 mails in an mbox file and shows them in the backend, for local, stage and test systems."
+2026-10-30T10:27:31Z,realzone22/nativeblade,0.1.0,RealZone22,Native-feeling Blade components for Laravel with Material Design 3 and iOS themes
+2026-10-30T10:36:39Z,quioteframework/dev-overlay,v1.0.0,Quiote Contributors,In-browser developer overlay for Quiote: a floating badge injected into HTML pages that collects exception details from the page itself and from every same-origin fetch()/XHR request. Only ever active when core.developer_exceptions is enabled.
+2026-10-30T10:39:03Z,glue-agency/laravel-glue-backoffice,1.0.0,,Reports a Laravel app to the Glue Dashboard after each deploy
+2026-10-30T10:45:27Z,dud/contao-wartung-client,1.1.0,Gunnar Haeuschkel,Client-Bundle für den Wartomat (Contao-Wartungssystem von Drum und Dran)
+2026-10-30T10:57:24Z,enabel/permission-bundle,v1.0.0,Damien LAGAE,"Permission enums for Symfony: roles, relations and rules declared on each case, one voter, a permission matrix"
+2026-10-30T11:02:31Z,ismailnakkar/laravel-money,v0.1.0,Ismail Nakkar,"Money as an exact decimal string in Laravel: check it, cut it, print it. No floats, down to nine decimals."
+2026-10-30T11:06:51Z,crystoline/xpsr-lock,v0.5.0,Adekunle,"Locks for XPSR applications on Symfony Lock: files, Redis, Redlock across several Redis servers, and the application's database"
+2026-10-30T11:06:51Z,crystoline/xpsr-notifications,v0.5.0,Adekunle,"Notifications for XPSR applications: email, SMS through Symfony Notifier's providers, an in-app inbox in the database, and browser push"
+2026-10-30T11:08:46Z,digiwerft/contao-er24-custom-sections,1.0.0,DIGIWERFT GmbH,"Eigene Abschnitte an frei wählbarer Stelle in eRecht24-Rechtstexte einfügen, ohne die Synchronisation mit eRecht24 zu verlieren."

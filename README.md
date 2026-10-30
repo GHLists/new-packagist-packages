@@ -15,21 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 10:20 UTC
+## Latest list — 2026-10-30 11:21 UTC
 
-New packages created between 2026-10-30 09:21 UTC and 2026-10-30 10:20 UTC.
+New packages created between 2026-10-30 10:20 UTC and 2026-10-30 11:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-30T10-20-40-921294Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-30T11-21-56-682185Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-30 09:28:24 | [patrickfischer/monolog-ntfy-safe](https://www.nuget.org/packages/patrickfischer%2Fmonolog-ntfy-safe) | 1.0.2 | Patrick Fischer | A non fatal version of a Monolog handler for ntfy.sh |
-| 2026-10-30 09:30:31 | [waqas-badar/php-saga](https://www.nuget.org/packages/waqas-badar%2Fphp-saga) | v1.0.1 | Waqas Badar; Antigravity (Goo… | A lightweight, framework-agnostic Saga orchestrator for PHP. |
-| 2026-10-30 09:32:45 | [mammothwp/wp-kit](https://www.nuget.org/packages/mammothwp%2Fwp-kit) | v2.0.1 | Mammoth WP | Declare a WordPress feature once and expose it as a REST route, a WP-CLI comman… |
-| 2026-10-30 09:42:59 | [mage2kishan/module-ai-visibility](https://www.nuget.org/packages/mage2kishan%2Fmodule-ai-visibility) | 1.0.0 | Kishan Savaliya | Panth AI Visibility - analytics for Magento 2 that counts AI crawler requests (… |
-| 2026-10-30 09:55:02 | [mammothwp/wp-release](https://www.nuget.org/packages/mammothwp%2Fwp-release) | v1.0.0 | Mammoth WP | Prepare, verify and ship a Mammoth WP plugin release to wordpress.org and GitHu… |
-| 2026-10-30 09:56:28 | [mammothwp/support](https://www.nuget.org/packages/mammothwp%2Fsupport) | v1.1.0 | Mammoth WP | One shared Support screen for every plugin that bundles it: the customer fills… |
-| 2026-10-30 10:17:59 | [artisan-build/telltale-crashes](https://www.nuget.org/packages/artisan-build%2Ftelltale-crashes) | v1.2.0 |  | NativePHP Mobile crash collection and typed Telltale outbox import. |
+| 2026-10-30 10:26:17 | [konradmichalik/typo3-letterbox](https://www.nuget.org/packages/konradmichalik%2Ftypo3-letterbox) | 0.1.0 | Konrad Michalik; Armin Vieweg | Letterbox - Catches TYPO3 mails in an mbox file and shows them in the backend,… |
+| 2026-10-30 10:27:31 | [realzone22/nativeblade](https://www.nuget.org/packages/realzone22%2Fnativeblade) | 0.1.0 | RealZone22 | Native-feeling Blade components for Laravel with Material Design 3 and iOS them… |
+| 2026-10-30 10:36:39 | [quioteframework/dev-overlay](https://www.nuget.org/packages/quioteframework%2Fdev-overlay) | v1.0.0 | Quiote Contributors | In-browser developer overlay for Quiote: a floating badge injected into HTML pa… |
+| 2026-10-30 10:39:03 | [glue-agency/laravel-glue-backoffice](https://www.nuget.org/packages/glue-agency%2Flaravel-glue-backoffice) | 1.0.0 |  | Reports a Laravel app to the Glue Dashboard after each deploy |
+| 2026-10-30 10:45:27 | [dud/contao-wartung-client](https://www.nuget.org/packages/dud%2Fcontao-wartung-client) | 1.1.0 | Gunnar Haeuschkel | Client-Bundle für den Wartomat (Contao-Wartungssystem von Drum und Dran) |
+| 2026-10-30 10:57:24 | [enabel/permission-bundle](https://www.nuget.org/packages/enabel%2Fpermission-bundle) | v1.0.0 | Damien LAGAE | Permission enums for Symfony: roles, relations and rules declared on each case,… |
+| 2026-10-30 11:02:31 | [ismailnakkar/laravel-money](https://www.nuget.org/packages/ismailnakkar%2Flaravel-money) | v0.1.0 | Ismail Nakkar | Money as an exact decimal string in Laravel: check it, cut it, print it. No flo… |
+| 2026-10-30 11:06:51 | [crystoline/xpsr-lock](https://www.nuget.org/packages/crystoline%2Fxpsr-lock) | v0.5.0 | Adekunle | Locks for XPSR applications on Symfony Lock: files, Redis, Redlock across sever… |
+| 2026-10-30 11:06:51 | [crystoline/xpsr-notifications](https://www.nuget.org/packages/crystoline%2Fxpsr-notifications) | v0.5.0 | Adekunle | Notifications for XPSR applications: email, SMS through Symfony Notifier's prov… |
+| 2026-10-30 11:08:46 | [digiwerft/contao-er24-custom-sections](https://www.nuget.org/packages/digiwerft%2Fcontao-er24-custom-sections) | 1.0.0 | DIGIWERFT GmbH | Eigene Abschnitte an frei wählbarer Stelle in eRecht24-Rechtstexte einfügen, oh… |
 
 ## Data source
 
