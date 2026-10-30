@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-30T12:39:03Z,ismailnakkar/laravel-mail-frame,v0.1.0,Ismail Nakkar,"One hand-tuned HTML frame for Laravel notification mail, with an ordered block builder, right-to-left support and a plain-text part."
+2026-10-30T12:58:55Z,rllngr/kirby-memo,1.0.0,Nicolas Rollinger,"Kirby 5 plugin — a read-only cheat sheet in the Panel, rendered from a Markdown file versioned with the site."
+2026-10-30T13:03:21Z,yuriitatur/permissions,v0.1.0,Yurii Tatur,simple permission manager
+2026-10-30T13:07:41Z,cboxdk/laravel-webhooks,v0.1.0,Sylvester Damgaard,"Cbox Webhooks: the outbound and inbound webhook engine for Laravel. A persistent outbox with per-endpoint sequencing, backoff with jitter, batching, a circuit breaker with auto-disable, a per-attempt delivery log, replay, pruning, a monitoring surface, management API controllers and a receiver that…"
+2026-10-30T13:09:05Z,ycloudyusa/embedded_groupexpro_schedule,1.0.0,,Provides an Embedded GroupEx Pro Schedule element and block.

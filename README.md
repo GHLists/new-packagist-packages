@@ -15,21 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 12:20 UTC
+## Latest list — 2026-10-30 13:19 UTC
 
-New packages created between 2026-10-30 11:21 UTC and 2026-10-30 12:20 UTC.
+New packages created between 2026-10-30 12:20 UTC and 2026-10-30 13:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-30T12-20-46-407564Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-30T13-19-34-10669Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-30 11:22:27 | [statikbe/craft-link-checker](https://www.nuget.org/packages/statikbe%2Fcraft-link-checker) | 1.1.0 | Statik | Finds broken links in the content of Craft CMS entries (links to deleted, disab… |
-| 2026-10-30 11:36:16 | [tacraft-sociality/flarum-qq-oauth](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-qq-oauth) | 1.0.0 | TCS Dev HUB | QQ (Tencent) OAuth login for Flarum 2, with an uploadable custom login button i… |
-| 2026-10-30 11:53:30 | [ryzemcbe/bedrock-protocol](https://www.nuget.org/packages/ryzemcbe%2Fbedrock-protocol) | v1.0.0-beta.1 |  | An implementation of the Minecraft: Bedrock Edition protocol in PHP |
-| 2026-10-30 11:55:13 | [yuriitatur/strategies](https://www.nuget.org/packages/yuriitatur%2Fstrategies) | v0.1.0 | Yurii Tatur | A simple package to update entities in certain declarative way |
-| 2026-10-30 12:00:25 | [tollwerk/tw-console](https://www.nuget.org/packages/tollwerk%2Ftw-console) | v1.0.0 | Klaus Fiedler | Collection of useful ViewHelpers |
-| 2026-10-30 12:10:04 | [rishadblack/authos-client-laravel](https://www.nuget.org/packages/rishadblack%2Fauthos-client-laravel) | v0.0.1 | S M Rishad | Authos client for Laravel applications: the button block, the code exchange, th… |
-| 2026-10-30 12:12:40 | [futuraweb/contao-backend-suite](https://www.nuget.org/packages/futuraweb%2Fcontao-backend-suite) | v1.0.0 | Dinko Skopljak | Backend-Werkzeuge für Contao 5 – ID-/Alias-Suche, Style-Selector für CSS-Klasse… |
+| 2026-10-30 12:39:03 | [ismailnakkar/laravel-mail-frame](https://www.nuget.org/packages/ismailnakkar%2Flaravel-mail-frame) | v0.1.0 | Ismail Nakkar | One hand-tuned HTML frame for Laravel notification mail, with an ordered block… |
+| 2026-10-30 12:58:55 | [rllngr/kirby-memo](https://www.nuget.org/packages/rllngr%2Fkirby-memo) | 1.0.0 | Nicolas Rollinger | Kirby 5 plugin — a read-only cheat sheet in the Panel, rendered from a Markdown… |
+| 2026-10-30 13:03:21 | [yuriitatur/permissions](https://www.nuget.org/packages/yuriitatur%2Fpermissions) | v0.1.0 | Yurii Tatur | simple permission manager |
+| 2026-10-30 13:07:41 | [cboxdk/laravel-webhooks](https://www.nuget.org/packages/cboxdk%2Flaravel-webhooks) | v0.1.0 | Sylvester Damgaard | Cbox Webhooks: the outbound and inbound webhook engine for Laravel. A persisten… |
+| 2026-10-30 13:09:05 | [ycloudyusa/embedded_groupexpro_schedule](https://www.nuget.org/packages/ycloudyusa%2Fembedded_groupexpro_schedule) | 1.0.0 |  | Provides an Embedded GroupEx Pro Schedule element and block. |
 
 ## Data source
 
