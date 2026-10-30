@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-30T20:44:26Z,ramon/tag-experts,v0.0.1,Ramon Guilherme,"Recognise members as experts in tags: endorsements, review, and highlighted expert replies."
+2026-10-30T20:44:47Z,ramon/saved-searches,v0.0.1,Ramon Guilherme,Save a search and get notified when new discussions or replies match it.
+2026-10-30T21:02:00Z,hryvinskyi/magento2-bot-verification-pack,1.0.0,Volodymyr Hryvinskyi,Bot Verification for Magento 2 with the Google and Bing crawlers: catches requests that claim a crawler from an address its owner does not publish
+2026-10-30T21:03:13Z,ramon/composer,v0.0.1,Ramon Guilherme,Side-by-side live preview in the Flarum 2 composer.
+2026-10-30T21:09:06Z,tualo/oauth2,0.1.1,,OAuth 2.0 and OpenID Connect authorization server for Tualo Office
+2026-10-30T21:11:00Z,filippotoso/driver-vonage-whatsapp,v1.0.2,Filippo Toso,Vonage WhatsApp driver for BotMan
+2026-10-30T21:14:16Z,darvis/laravel-uploads,v1.0.0,Arvid de Jong,"One Upload model for every file in a Laravel app: attach files to any model in named collections, public or private disks, extra data per upload, signed download links, image conversions and PDF page rendering from config, soft and hard delete, and an optional Livewire upload manager and overview."

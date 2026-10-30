@@ -15,17 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 20:22 UTC
+## Latest list — 2026-10-30 21:21 UTC
 
-New packages created between 2026-10-30 19:20 UTC and 2026-10-30 20:22 UTC.
+New packages created between 2026-10-30 20:22 UTC and 2026-10-30 21:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-30T20-22-11-011549Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-30T21-21-10-687232Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-30 19:22:08 | [louigio04/buscador-cursos](https://www.nuget.org/packages/louigio04%2Fbuscador-cursos) | v1.1.0 | louigio04 | Projeto que busca os cursos no site da Alura |
-| 2026-10-30 19:32:22 | [ernestdefoe/vantage](https://www.nuget.org/packages/ernestdefoe%2Fvantage) | 0.1.1 | Ernest Defoe | Vantage — account analytics for every member: impressions, engagement, profile… |
-| 2026-10-30 19:41:14 | [stejac/zeitangaben](https://www.nuget.org/packages/stejac%2Fzeitangaben) | v0.1.0 | Stefan Jacomeit | Resolves colloquial German time expressions such as Herbstferien, ueber Ostern… |
+| 2026-10-30 20:44:26 | [ramon/tag-experts](https://www.nuget.org/packages/ramon%2Ftag-experts) | v0.0.1 | Ramon Guilherme | Recognise members as experts in tags: endorsements, review, and highlighted exp… |
+| 2026-10-30 20:44:47 | [ramon/saved-searches](https://www.nuget.org/packages/ramon%2Fsaved-searches) | v0.0.1 | Ramon Guilherme | Save a search and get notified when new discussions or replies match it. |
+| 2026-10-30 21:02:00 | [hryvinskyi/magento2-bot-verification-pack](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-bot-verification-pack) | 1.0.0 | Volodymyr Hryvinskyi | Bot Verification for Magento 2 with the Google and Bing crawlers: catches reque… |
+| 2026-10-30 21:03:13 | [ramon/composer](https://www.nuget.org/packages/ramon%2Fcomposer) | v0.0.1 | Ramon Guilherme | Side-by-side live preview in the Flarum 2 composer. |
+| 2026-10-30 21:09:06 | [tualo/oauth2](https://www.nuget.org/packages/tualo%2Foauth2) | 0.1.1 |  | OAuth 2.0 and OpenID Connect authorization server for Tualo Office |
+| 2026-10-30 21:11:00 | [filippotoso/driver-vonage-whatsapp](https://www.nuget.org/packages/filippotoso%2Fdriver-vonage-whatsapp) | v1.0.2 | Filippo Toso | Vonage WhatsApp driver for BotMan |
+| 2026-10-30 21:14:16 | [darvis/laravel-uploads](https://www.nuget.org/packages/darvis%2Flaravel-uploads) | v1.0.0 | Arvid de Jong | One Upload model for every file in a Laravel app: attach files to any model in… |
 
 ## Data source
 
