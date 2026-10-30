@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-30T09:28:24Z,patrickfischer/monolog-ntfy-safe,1.0.2,Patrick Fischer,A non fatal version of a Monolog handler for ntfy.sh
+2026-10-30T09:30:31Z,waqas-badar/php-saga,v1.0.1,Waqas Badar; Antigravity (Google DeepMind),"A lightweight, framework-agnostic Saga orchestrator for PHP."
+2026-10-30T09:32:45Z,mammothwp/wp-kit,v2.0.1,Mammoth WP,"Declare a WordPress feature once and expose it as a REST route, a WP-CLI command and a WordPress Ability from the same definition."
+2026-10-30T09:42:59Z,mage2kishan/module-ai-visibility,1.0.0,Kishan Savaliya,"Panth AI Visibility - analytics for Magento 2 that counts AI crawler requests (including full page cache hits), detects shoppers arriving from AI assistants and attributes their orders, with an admin dashboard and insights, discovery of unknown bots, data-health checks and an access log importer fo…"
+2026-10-30T09:55:02Z,mammothwp/wp-release,v1.0.0,Mammoth WP,"Prepare, verify and ship a Mammoth WP plugin release to wordpress.org and GitHub."
+2026-10-30T09:56:28Z,mammothwp/support,v1.1.0,Mammoth WP,"One shared Support screen for every plugin that bundles it: the customer fills a form, the site sends one email with an optional, previewable site report."
+2026-10-30T10:17:59Z,artisan-build/telltale-crashes,v1.2.0,,NativePHP Mobile crash collection and typed Telltale outbox import.
