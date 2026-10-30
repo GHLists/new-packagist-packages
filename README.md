@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 00:21 UTC
+## Latest list — 2026-10-30 01:20 UTC
 
-New packages created between 2026-10-29 23:19 UTC and 2026-10-30 00:21 UTC.
+New packages created between 2026-10-30 00:21 UTC and 2026-10-30 01:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-30T00-21-50-754732Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-30T01-20-11-789089Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-29 23:34:55 | [pushpasta/email_domains_mapper](https://www.nuget.org/packages/pushpasta%2Femail_domains_mapper) | v1.0.0 | CodeAlDente | Roundcube plugin that selects IMAP, SMTP and optional ManageSieve hosts from de… |
-| 2026-10-30 00:16:46 | [tacraft-social-guild/flarum-login-screen](https://www.nuget.org/packages/tacraft-social-guild%2Fflarum-login-screen) | 1.0.0 | TCS Dev HUB | Customize the login screen for your Flarum forum. |
+| 2026-10-30 01:00:07 | [tacraft-social-guild/flarum-login-screen](https://www.nuget.org/packages/tacraft-social-guild%2Fflarum-login-screen) | 1.0.0 | TCS Dev HUB | Customize the login screen for your Flarum forum. |
+| 2026-10-30 01:03:31 | [ez-php/encryption](https://www.nuget.org/packages/ez-php%2Fencryption) | 2.6.4 | Andreas Uretschnig | Symmetric authenticated encryption (ext-sodium XChaCha20-Poly1305) with key rot… |
 
 ## Data source
 
