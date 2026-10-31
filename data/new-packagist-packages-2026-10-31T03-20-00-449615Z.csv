@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-31T02:29:00Z,gitphp/laravel-foundation,v1.0.0,Sunny Yang,"Foundation utilities for Laravel 13: helpers, global middleware, form requests, API responses, JWT auth, logging, enums, cache, and string, number, array, and date tools."

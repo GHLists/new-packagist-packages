@@ -15,18 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 02:19 UTC
+## Latest list — 2026-10-31 03:20 UTC
 
-New packages created between 2026-10-31 01:20 UTC and 2026-10-31 02:19 UTC.
+New packages created between 2026-10-31 02:19 UTC and 2026-10-31 03:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-31T02-19-18-779038Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T03-20-00-449615Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-31 01:20:49 | [stellarwp/foundation-view](https://www.nuget.org/packages/stellarwp%2Ffoundation-view) | 2.0.0 |  | Render scoped PHP views to strings with immutable runtime directory selection. |
-| 2026-10-31 01:20:57 | [stellarwp/foundation-shutdown](https://www.nuget.org/packages/stellarwp%2Ffoundation-shutdown) | 2.0.0 |  | Run application shutdown tasks once in deterministic priority order. |
-| 2026-10-31 01:24:08 | [edulazaro/larachat](https://www.nuget.org/packages/edulazaro%2Flarachat) | 0.1.1 | Edu Lazaro | A website chat for Laravel that a bot answers and you can take over: retrieval… |
-| 2026-10-31 01:39:50 | [axisvela/praxo-core](https://www.nuget.org/packages/axisvela%2Fpraxo-core) | v0.1.0 | AxisVela | Embeddable MIT-licensed agent framework for PHP: tools, policy, events, memory,… |
+| 2026-10-31 02:29:00 | [gitphp/laravel-foundation](https://www.nuget.org/packages/gitphp%2Flaravel-foundation) | v1.0.0 | Sunny Yang | Foundation utilities for Laravel 13: helpers, global middleware, form requests,… |
 
 ## Data source
 
