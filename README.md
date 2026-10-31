@@ -15,21 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 19:21 UTC
+## Latest list — 2026-10-31 20:20 UTC
 
-New packages created between 2026-10-31 18:19 UTC and 2026-10-31 19:21 UTC.
+New packages created between 2026-10-31 19:21 UTC and 2026-10-31 20:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-31T19-21-02-808471Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T20-20-33-55528Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-31 18:27:31 | [cacheerphp/laravel](https://www.nuget.org/packages/cacheerphp%2Flaravel) | v1.0.0 | Silvio Silva | A Laravel cache driver backed by CacheerPHP: keep using Cache:: and get Cacheer… |
-| 2026-10-31 18:43:52 | [forumify/forumify-ecommerce-plugin](https://www.nuget.org/packages/forumify%2Fforumify-ecommerce-plugin) | 1.0.0 |  | Bring e-commerce to your forumify powered community! |
-| 2026-10-31 19:09:12 | [mammothwp/wp-kit](https://www.nuget.org/packages/mammothwp%2Fwp-kit) | v2.0.2 | Mammoth WP | Declare a WordPress feature once and expose it as a REST route, a WP-CLI comman… |
-| 2026-10-31 19:10:54 | [matthewaprice/phossil-starter](https://www.nuget.org/packages/matthewaprice%2Fphossil-starter) | v0.1.0 | Matthew Price | Starter site for phossil: routes, typed views and components that build to plai… |
-| 2026-10-31 19:11:25 | [mammothwp/wp-self-test](https://www.nuget.org/packages/mammothwp%2Fwp-self-test) | v2.2.5 | Mammoth WP | Manifest-driven self-test suite for WordPress plugins: register a manifest of c… |
-| 2026-10-31 19:11:36 | [mammothwp/support](https://www.nuget.org/packages/mammothwp%2Fsupport) | v1.1.1 | Mammoth WP | One shared Support screen for every plugin that bundles it: the customer fills… |
-| 2026-10-31 19:13:15 | [mammothwp/wp-release](https://www.nuget.org/packages/mammothwp%2Fwp-release) | v1.0.1 | Mammoth WP | Prepare, verify and ship a Mammoth WP plugin release to wordpress.org and GitHu… |
+| 2026-10-31 19:35:03 | [awcodes/panelist](https://www.nuget.org/packages/awcodes%2Fpanelist) | v1.0.0 | Adam Weston | A Filament plugin that turns a resource's list page into a master-detail editor… |
+| 2026-10-31 19:40:18 | [webalternatif/temporal-bundle](https://www.nuget.org/packages/webalternatif%2Ftemporal-bundle) | v0.1.0 | Web\|Alternatif | A bundle to integrate Temporal workflows and activities into Symfony applicatio… |
+| 2026-10-31 19:51:28 | [filippo-toso/wireguard-http](https://www.nuget.org/packages/filippo-toso%2Fwireguard-http) | v1.0.0 | Filippo Toso | Laravel-style HTTP client that sends requests through a WireGuard tunnel. |
+| 2026-10-31 19:54:45 | [filippo-toso/wireguard-proxy](https://www.nuget.org/packages/filippo-toso%2Fwireguard-proxy) | v1.0.0 | Filippo Toso | Forward an HTTP request to a URL inside a WireGuard tunnel. |
+| 2026-10-31 19:58:02 | [filippo-toso/wireguard-transport](https://www.nuget.org/packages/filippo-toso%2Fwireguard-transport) | 1.0.0 | Filippo Toso | PSR-18 HTTP client that sends requests through a userspace WireGuard tunnel. |
+| 2026-10-31 20:04:59 | [faleh/shoppingcart](https://www.nuget.org/packages/faleh%2Fshoppingcart) | v3.5.0 | Rob Gloudemans; Faleh | Laravel Shoppingcart (fork hardevine/shoppingcart) dengan dukungan Laravel 10 s… |
 
 ## Data source
 

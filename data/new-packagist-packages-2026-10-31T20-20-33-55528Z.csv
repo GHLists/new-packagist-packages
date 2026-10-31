@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-31T19:35:03Z,awcodes/panelist,v1.0.0,Adam Weston,A Filament plugin that turns a resource's list page into a master-detail editor with the record list on the left and the form on the right.
+2026-10-31T19:40:18Z,webalternatif/temporal-bundle,v0.1.0,Web|Alternatif,A bundle to integrate Temporal workflows and activities into Symfony applications
+2026-10-31T19:51:28Z,filippo-toso/wireguard-http,v1.0.0,Filippo Toso,Laravel-style HTTP client that sends requests through a WireGuard tunnel.
+2026-10-31T19:54:45Z,filippo-toso/wireguard-proxy,v1.0.0,Filippo Toso,Forward an HTTP request to a URL inside a WireGuard tunnel.
+2026-10-31T19:58:02Z,filippo-toso/wireguard-transport,1.0.0,Filippo Toso,PSR-18 HTTP client that sends requests through a userspace WireGuard tunnel.
+2026-10-31T20:04:59Z,faleh/shoppingcart,v3.5.0,Rob Gloudemans; Faleh,Laravel Shoppingcart (fork hardevine/shoppingcart) dengan dukungan Laravel 10 sampai 13
