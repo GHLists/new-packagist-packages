@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-31T06:35:24Z,phattarachai/tungsten,v0.2.0,Phattarachai Chaimongkol,"An Inertia + React admin panel kernel and UI kit for Laravel: panels, pages, a Thai-first component kit and a query-to-table helper. Hand-written JSX pages instead of declarative resources."
+2026-10-31T06:38:46Z,islam016/laravel-safe-checkout,v1.0.0,Islam Gaber,"Safe checkout for Laravel with Moyasar and Tap: idempotent payment creation, verified webhooks, amount reconciliation against the gateway, and a status state machine that never pays an order twice or marks a wrong amount as paid."

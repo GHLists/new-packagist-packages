@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 06:20 UTC
+## Latest list — 2026-10-31 07:18 UTC
 
-New packages created between 2026-10-31 05:19 UTC and 2026-10-31 06:20 UTC.
+New packages created between 2026-10-31 06:20 UTC and 2026-10-31 07:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-31T06-20-59-900024Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T07-18-31-503843Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-31 05:20:07 | [doppar/ripple](https://www.nuget.org/packages/doppar%2Fripple) | v4.0.0 | xentixar | Server-driven UI for Doppar with Virtual DOM delta rendering |
+| 2026-10-31 06:35:24 | [phattarachai/tungsten](https://www.nuget.org/packages/phattarachai%2Ftungsten) | v0.2.0 | Phattarachai Chaimongkol | An Inertia + React admin panel kernel and UI kit for Laravel: panels, pages, a… |
+| 2026-10-31 06:38:46 | [islam016/laravel-safe-checkout](https://www.nuget.org/packages/islam016%2Flaravel-safe-checkout) | v1.0.0 | Islam Gaber | Safe checkout for Laravel with Moyasar and Tap: idempotent payment creation, ve… |
 
 ## Data source
 
