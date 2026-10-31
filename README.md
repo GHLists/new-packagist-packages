@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 03:20 UTC
+## Latest list — 2026-10-31 04:18 UTC
 
-New packages created between 2026-10-31 02:19 UTC and 2026-10-31 03:20 UTC.
+New packages created between 2026-10-31 03:20 UTC and 2026-10-31 04:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-31T03-20-00-449615Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T04-18-54-346547Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-31 02:29:00 | [gitphp/laravel-foundation](https://www.nuget.org/packages/gitphp%2Flaravel-foundation) | v1.0.0 | Sunny Yang | Foundation utilities for Laravel 13: helpers, global middleware, form requests,… |
+| 2026-10-31 03:28:38 | [braadiv/yii2-dynamicform](https://www.nuget.org/packages/braadiv%2Fyii2-dynamicform) | v2.0.3 | Wanderson Bragança; Braa Sala… | Widget for Yii2 framework to clone form elements in a nested manner. (PHP 8.4 L… |
+| 2026-10-31 03:58:39 | [caligrafy/caligrafy-quill](https://www.nuget.org/packages/caligrafy%2Fcaligrafy-quill) | v2.0.0 | Dory Azar | PHP + VueJS MVC framework |
 
 ## Data source
 
