@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 15:21 UTC
+## Latest list — 2026-10-31 16:18 UTC
 
-New packages created between 2026-10-31 14:20 UTC and 2026-10-31 15:21 UTC.
+New packages created between 2026-10-31 15:21 UTC and 2026-10-31 16:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-31T15-21-16-597888Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T16-18-59-399926Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-31 14:35:08 | [bbwdadfg/bazicalculator-url-tools](https://www.nuget.org/packages/bbwdadfg%2Fbazicalculator-url-tools) | v0.1.1 | wangneo276-lgtm | Free BaZi calculator: Four Pillars, Day Master, Ten Gods, Five Elements and Luc… |
-| 2026-10-31 14:47:49 | [rem42/shadcn-admin-ui](https://www.nuget.org/packages/rem42%2Fshadcn-admin-ui) | v1.0.0 | Rem42 | Tailwind CSS + shadcn/ui (Symfony UX Toolkit) admin theme for Sylius Stack, a d… |
-| 2026-10-31 14:48:53 | [siteation/magento2-commerce365-debugbar](https://www.nuget.org/packages/siteation%2Fmagento2-commerce365-debugbar) | 1.0.0 | Siteation | Commerce365 section for Siteation_DebugBar: customer prices, Hub and Business C… |
-| 2026-10-31 14:59:56 | [tenma/image](https://www.nuget.org/packages/tenma%2Fimage) | v0.1.0 |  | Image size and scaled WebP copies on Tenma, decoded off the event loop by a nat… |
+| 2026-10-31 15:21:58 | [siteation/magento2-commerce365-debugbar](https://www.nuget.org/packages/siteation%2Fmagento2-commerce365-debugbar) | 1.0.1 | Siteation | Commerce365 section for Siteation_DebugBar: customer prices, Hub and Business C… |
+| 2026-10-31 15:29:06 | [kinetis/queue-failed-jobs](https://www.nuget.org/packages/kinetis%2Fqueue-failed-jobs) | v1.0.0 | Alon Noy | Retained failed jobs for kinetis/queue — every job the worker gives up on is re… |
+| 2026-10-31 15:29:36 | [basekit-laravel/basekit-laravel-media](https://www.nuget.org/packages/basekit-laravel%2Fbasekit-laravel-media) | v1.0.0 | Gergő Tar | Media library for Laravel: metadata for files on a filesystem disk, a folder hi… |
+| 2026-10-31 15:32:19 | [semitexa/notifications](https://www.nuget.org/packages/semitexa%2Fnotifications) | 2026.10.31.0849 | Semitexa | Semitexa Notifications - one notification, many channels (mail, database inbox,… |
+| 2026-10-31 15:37:37 | [zivalix/zivalix](https://www.nuget.org/packages/zivalix%2Fzivalix) | v0.1.0 | ZIVALIX Founders | The official reserved package for ZIVALIX Agency to prevent dependency confusio… |
 
 ## Data source
 

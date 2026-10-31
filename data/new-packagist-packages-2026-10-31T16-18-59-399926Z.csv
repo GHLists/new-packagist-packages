@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-31T15:21:58Z,siteation/magento2-commerce365-debugbar,1.0.1,Siteation,"Commerce365 section for Siteation_DebugBar: customer prices, Hub and Business Central calls, and findings"
+2026-10-31T15:29:06Z,kinetis/queue-failed-jobs,v1.0.0,Alon Noy,"Retained failed jobs for kinetis/queue — every job the worker gives up on is recorded in a MySQL/Postgres table before the backend deletes it, with commands to list, retry, forget and prune the records."
+2026-10-31T15:29:36Z,basekit-laravel/basekit-laravel-media,v1.0.0,Gergő Tar,"Media library for Laravel: metadata for files on a filesystem disk, a folder hierarchy and a Filament admin screen."
+2026-10-31T15:32:19Z,semitexa/notifications,2026.10.31.0849,Semitexa,"Semitexa Notifications - one notification, many channels (mail, database inbox, your own), with per-recipient preferences"
+2026-10-31T15:37:37Z,zivalix/zivalix,v0.1.0,ZIVALIX Founders,The official reserved package for ZIVALIX Agency to prevent dependency confusion.
