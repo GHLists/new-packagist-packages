@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-31T21:25:35Z,nowo-tech/sms-kit-bundle,v1.0.0,Héctor Franco Aceituno; Nowo.tech,"SMS sending for Symfony with a provider registry (Twilio, SMS Bridge, log, null), runtime configuration stored in instance settings with encrypted credentials, a test command, a send-test admin action and an AuthKit adapter."
+2026-10-31T21:43:14Z,maxcxam/larsadmin-medialibrary,v1.0.1,Maksym Rudenko,spatie/laravel-medialibrary fields (single file and gallery) for the larsadmin admin panel.
+2026-10-31T21:52:48Z,nowo-tech/mail-kit-bundle,v1.0.0,Héctor Franco Aceituno; Nowo.tech,"Runtime-configurable mailer for Symfony on top of Instance Settings: DSN and sender validation, SSRF-safe hosts, test e-mail, Resend key check, sent-mail log with retention and an AuthKit mail-ready adapter."
+2026-10-31T22:06:19Z,drivkraft/valkyrie,v1.0.0,Kim Eric Helle,"Role-based authorization for Laravel — roles, permissions and abilities with scoped grants for teams and multi-tenancy, ownership rules, forbids that always win, and Gate integration."
