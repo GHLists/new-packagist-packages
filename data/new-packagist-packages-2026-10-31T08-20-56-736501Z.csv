@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-31T07:23:55Z,nowo-tech/milkdown-editor-bundle,v1.0.0,Héctor Franco Aceituno; Nowo.tech,"Symfony form type for Markdown editing with Milkdown and a reduced Crepe build, plus a league/commonmark renderer for the same dialect (page links, mentions, icons, directives)."
+2026-10-31T07:39:40Z,atannex/bridge,v1.0.0,Atanga Leke Collins,"Expose explicitly registered, validated and authorized Laravel operations to JavaScript and TypeScript clients over a small versioned protocol, with generated TypeScript contracts, pluggable authentication, tenant context and standard errors."
