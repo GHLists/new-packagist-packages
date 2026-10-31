@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-31T00:51:39Z,siberfx/laravel-bunq,v1.0.1,SiberFX,"bunq payment gateway for Laravel 13+: payment requests, payouts, webhooks, events and a Cashier-style billable trait."

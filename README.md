@@ -15,20 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 23:19 UTC
+## Latest list — 2026-10-31 01:20 UTC
 
-New packages created between 2026-10-30 22:20 UTC and 2026-10-30 23:19 UTC.
+New packages created between 2026-10-31 00:21 UTC and 2026-10-31 01:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-30T23-19-59-719667Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T01-20-28-133603Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-30 22:37:37 | [supportmanager/sdk](https://www.nuget.org/packages/supportmanager%2Fsdk) | v0.0.1 |  | PHP client SDK for the SupportManager backend API — authentication, session, an… |
-| 2026-10-30 22:44:55 | [hostily/captcha-typo3](https://www.nuget.org/packages/hostily%2Fcaptcha-typo3) | 0.1.1 | hostily | hostily Captcha spam protection for TYPO3 (EXT:form and powermail), captcha.hos… |
-| 2026-10-30 22:45:02 | [hostily/contao-captcha](https://www.nuget.org/packages/hostily%2Fcontao-captcha) | 0.1.0 | hostily | hostily Captcha spam protection for Contao: form field for the form generator (… |
-| 2026-10-30 22:45:09 | [hostily/craft-captcha](https://www.nuget.org/packages/hostily%2Fcraft-captcha) | 0.1.0 |  | hostily Captcha for Craft CMS: privacy-friendly spam protection (no cookies) fo… |
-| 2026-10-30 22:45:16 | [hostily/module-captcha](https://www.nuget.org/packages/hostily%2Fmodule-captcha) | 0.1.0 |  | hostily Captcha as a CAPTCHA type for Magento 2 (storefront forms and checkout) |
-| 2026-10-30 23:11:57 | [dravencms/api](https://www.nuget.org/packages/dravencms%2Fapi) | 0.1.0 | Adam Schubert | Modular read-only REST API for DravenCMS, powered by Apitte |
+| 2026-10-31 00:51:39 | [siberfx/laravel-bunq](https://www.nuget.org/packages/siberfx%2Flaravel-bunq) | v1.0.1 | SiberFX | bunq payment gateway for Laravel 13+: payment requests, payouts, webhooks, even… |
 
 ## Data source
 
