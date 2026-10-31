@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-31T04:25:32Z,hibira-io/filament-approvals,v0.1.0,Hibira,"A live Filament inbox for Laravel AI SDK tool approvals: your agent pauses before a risky tool call, your team approves, rejects or edits it, and the agent carries on, on Hibira"
+2026-10-31T04:28:09Z,hibira-io/filament-support,v0.1.0,Hibira,"AI live chat support for Filament: a chat widget for your website, answered first by AI with your own API key and handed to your team in a live Filament inbox, on Hibira"
+2026-10-31T04:28:46Z,larasell-dev/phpstan-rules,v0.1.0,Nils Haberkamp,PHPStan rules shared by the Larasell packages
+2026-10-31T04:30:44Z,osopostal/laravel,v0.0.1,,Integración oficial de OsoPostal para Laravel: cliente de la API de códigos postales de México y reglas de validación.
