@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-31T13:23:32Z,rapttor/yii2-metadata,v1.0.0,Rapttor,"Yii2 component for per-record metadata kept as JSON in one shared table (key, remote table, remote id): get, set, patch, atomic modify with revision check, history of changed values, export and delete per account."
+2026-10-31T13:28:07Z,ryzecompany/invmenu,v4.7.5,Muqsit; RyzeCompany,Virtual inventory API for multiversion RyzeMP
+2026-10-31T13:41:19Z,futuraweb/contao-backend-suite,v2.1.0,Dinko Skopljak,"Backend-Werkzeuge für Contao 5 – ID-/Alias-Suche, Style-Selector für CSS-Klassen, Toolbar, Kurzlinks und mehr"
+2026-10-31T13:47:05Z,jaocero/conversational-forms,v0.9.0,Jay-Are Ocero,"Typeform-style conversational forms for Filament. One question at a time, fully in your Laravel app."
+2026-10-31T13:50:11Z,routegroup/php-ing-pay,v1.0.0,Kajetan Nobel,ING Pay payment gateway client for plain PHP
+2026-10-31T13:52:56Z,routegroup/laravel-ing-pay,v1.0.0,Kajetan Nobel,Laravel integration for the ING Pay payment gateway

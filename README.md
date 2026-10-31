@@ -15,19 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 13:19 UTC
+## Latest list — 2026-10-31 14:20 UTC
 
-New packages created between 2026-10-31 12:20 UTC and 2026-10-31 13:19 UTC.
+New packages created between 2026-10-31 13:19 UTC and 2026-10-31 14:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-31T13-19-44-545492Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T14-20-48-435181Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-31 12:28:19 | [imazeo/sdk](https://www.nuget.org/packages/imazeo%2Fsdk) | 1.0.0 | Imazeo | Official Imazeo PHP SDK for server-side image, transform, PDF, QR, and barcode… |
-| 2026-10-31 12:32:16 | [pjadanowski/atlas](https://www.nuget.org/packages/pjadanowski%2Fatlas) | v0.1.0 | Paweł Jadanowski | Atlas — fast, static, three-column OpenAPI documentation for Laravel Scramble (… |
-| 2026-10-31 12:53:33 | [survos/geoboundaries-bundle](https://www.nuget.org/packages/survos%2Fgeoboundaries-bundle) | 2.45.11 |  | Symfony bundle for fetching packaged geoBoundaries (administrative boundary pol… |
-| 2026-10-31 12:59:49 | [survos/mapillary](https://www.nuget.org/packages/survos%2Fmapillary) | 2.45.12 |  | Typed read-only Mapillary API v4 image client using Symfony HttpClient and Seri… |
-| 2026-10-31 12:59:54 | [survos/mapillary-bundle](https://www.nuget.org/packages/survos%2Fmapillary-bundle) | 2.45.13 |  | Thin Symfony integration for the survos/mapillary API client. |
+| 2026-10-31 13:23:32 | [rapttor/yii2-metadata](https://www.nuget.org/packages/rapttor%2Fyii2-metadata) | v1.0.0 | Rapttor | Yii2 component for per-record metadata kept as JSON in one shared table (key, r… |
+| 2026-10-31 13:28:07 | [ryzecompany/invmenu](https://www.nuget.org/packages/ryzecompany%2Finvmenu) | v4.7.5 | Muqsit; RyzeCompany | Virtual inventory API for multiversion RyzeMP |
+| 2026-10-31 13:41:19 | [futuraweb/contao-backend-suite](https://www.nuget.org/packages/futuraweb%2Fcontao-backend-suite) | v2.1.0 | Dinko Skopljak | Backend-Werkzeuge für Contao 5 – ID-/Alias-Suche, Style-Selector für CSS-Klasse… |
+| 2026-10-31 13:47:05 | [jaocero/conversational-forms](https://www.nuget.org/packages/jaocero%2Fconversational-forms) | v0.9.0 | Jay-Are Ocero | Typeform-style conversational forms for Filament. One question at a time, fully… |
+| 2026-10-31 13:50:11 | [routegroup/php-ing-pay](https://www.nuget.org/packages/routegroup%2Fphp-ing-pay) | v1.0.0 | Kajetan Nobel | ING Pay payment gateway client for plain PHP |
+| 2026-10-31 13:52:56 | [routegroup/laravel-ing-pay](https://www.nuget.org/packages/routegroup%2Flaravel-ing-pay) | v1.0.0 | Kajetan Nobel | Laravel integration for the ING Pay payment gateway |
 
 ## Data source
 
