@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 10:19 UTC
+## Latest list — 2026-10-31 11:18 UTC
 
-New packages created between 2026-10-31 09:21 UTC and 2026-10-31 10:19 UTC.
+New packages created between 2026-10-31 10:19 UTC and 2026-10-31 11:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-31T10-19-36-742177Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T11-18-19-873342Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-31 09:25:39 | [milwad/pcreators](https://www.nuget.org/packages/milwad%2Fpcreators) | v1.0.0 | Milwad Khosravi | An interactive CLI to scaffold a production-ready PHP/Laravel package in second… |
-| 2026-10-31 09:41:25 | [norialabs/approvals](https://www.nuget.org/packages/norialabs%2Fapprovals) | v0.1.2 |  | Maker-checker approvals for Laravel. Holds Eloquent creates, updates and delete… |
+| 2026-10-31 10:24:41 | [wilbere/bagisto-bcv](https://www.nuget.org/packages/wilbere%2Fbagisto-bcv) | v1.0.0 | wilbere | Tasa BCV oficial automática, precio dual (USD/Bs.) y congelamiento por orden pa… |
+| 2026-10-31 10:49:49 | [eamirgh/digipay-laravel](https://www.nuget.org/packages/eamirgh%2Fdigipay-laravel) | v1.0.0 | Amir Ghaffari | Production-grade scalable Digipay UPG integration for Laravel 11, 12, 13+ |
+| 2026-10-31 10:59:56 | [mapo-89/laravel-nginx-proxy-manager-api](https://www.nuget.org/packages/mapo-89%2Flaravel-nginx-proxy-manager-api) | v1.0.0 | mapo-89 | Laravel API client for Nginx Proxy Manager |
 
 ## Data source
 

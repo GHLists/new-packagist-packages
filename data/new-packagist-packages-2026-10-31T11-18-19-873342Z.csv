@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-31T10:24:41Z,wilbere/bagisto-bcv,v1.0.0,wilbere,"Tasa BCV oficial automática, precio dual (USD/Bs.) y congelamiento por orden para Bagisto (Laravel)."
+2026-10-31T10:49:49Z,eamirgh/digipay-laravel,v1.0.0,Amir Ghaffari,"Production-grade scalable Digipay UPG integration for Laravel 11, 12, 13+"
+2026-10-31T10:59:56Z,mapo-89/laravel-nginx-proxy-manager-api,v1.0.0,mapo-89,Laravel API client for Nginx Proxy Manager
