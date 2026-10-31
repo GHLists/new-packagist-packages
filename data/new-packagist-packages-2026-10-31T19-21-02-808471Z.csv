@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-10-31T18:27:31Z,cacheerphp/laravel,v1.0.0,Silvio Silva,"A Laravel cache driver backed by CacheerPHP: keep using Cache:: and get CacheerPHP's stores, failover, encryption and monitoring underneath."
+2026-10-31T18:43:52Z,forumify/forumify-ecommerce-plugin,1.0.0,,Bring e-commerce to your forumify powered community!
+2026-10-31T19:09:12Z,mammothwp/wp-kit,v2.0.2,Mammoth WP,"Declare a WordPress feature once and expose it as a REST route, a WP-CLI command and a WordPress Ability from the same definition."
+2026-10-31T19:10:54Z,matthewaprice/phossil-starter,v0.1.0,Matthew Price,"Starter site for phossil: routes, typed views and components that build to plain static HTML."
+2026-10-31T19:11:25Z,mammothwp/wp-self-test,v2.2.5,Mammoth WP,"Manifest-driven self-test suite for WordPress plugins: register a manifest of cases from your plugin folder and run them from wp-admin, WP-CLI, the Abilities API and a pre-push hook."
+2026-10-31T19:11:36Z,mammothwp/support,v1.1.1,Mammoth WP,"One shared Support screen for every plugin that bundles it: the customer fills a form, the site sends one email with an optional, previewable site report."
+2026-10-31T19:13:15Z,mammothwp/wp-release,v1.0.1,Mammoth WP,"Prepare, verify and ship a Mammoth WP plugin release to wordpress.org and GitHub."
