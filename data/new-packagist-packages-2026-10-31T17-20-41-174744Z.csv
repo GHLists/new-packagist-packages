@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-31T16:51:19Z,bbwdadfg/hospitalbagchecklist-url-tools,v0.1.0,wangneo276-lgtm,"A free hospital bag checklist that tracks what you have, what to buy, what’s packed, what to ask your hospital and what to grab last. Saved on your device; print or PDF."
+2026-10-31T16:53:50Z,ernestdefoe/flarumverse,1.0.0,Ernest Defoe,Flarumverse — Flarum forums pair with each other and show each other's new discussions on a Flarumverse page. Every link goes back to the forum it came from. No central server.
+2026-10-31T16:59:40Z,crazypartsnatcher/oem-normalizer,v1.0.2,CrazyPartSnatcher Engineering,"Zero-dependency PHP utility to normalize, validate, and cross-reference commercial vehicle, truck, and trailer OEM part numbers (MAN, Mercedes-Benz, DAF, Bosch, Hella, Febi)."
+2026-10-31T17:07:33Z,rem42/sylius-admin-kit-bundle,v1.0.0,Rem42,"Opt-in admin features (quick filter, active filters, environment indicator, entity filter autocomplete) for Sylius Stack admin UIs, with shadcn and bootstrap (Tabler) themes."

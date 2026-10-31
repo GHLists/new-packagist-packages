@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 16:18 UTC
+## Latest list — 2026-10-31 17:20 UTC
 
-New packages created between 2026-10-31 15:21 UTC and 2026-10-31 16:18 UTC.
+New packages created between 2026-10-31 16:18 UTC and 2026-10-31 17:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-31T16-18-59-399926Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T17-20-41-174744Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-31 15:21:58 | [siteation/magento2-commerce365-debugbar](https://www.nuget.org/packages/siteation%2Fmagento2-commerce365-debugbar) | 1.0.1 | Siteation | Commerce365 section for Siteation_DebugBar: customer prices, Hub and Business C… |
-| 2026-10-31 15:29:06 | [kinetis/queue-failed-jobs](https://www.nuget.org/packages/kinetis%2Fqueue-failed-jobs) | v1.0.0 | Alon Noy | Retained failed jobs for kinetis/queue — every job the worker gives up on is re… |
-| 2026-10-31 15:29:36 | [basekit-laravel/basekit-laravel-media](https://www.nuget.org/packages/basekit-laravel%2Fbasekit-laravel-media) | v1.0.0 | Gergő Tar | Media library for Laravel: metadata for files on a filesystem disk, a folder hi… |
-| 2026-10-31 15:32:19 | [semitexa/notifications](https://www.nuget.org/packages/semitexa%2Fnotifications) | 2026.10.31.0849 | Semitexa | Semitexa Notifications - one notification, many channels (mail, database inbox,… |
-| 2026-10-31 15:37:37 | [zivalix/zivalix](https://www.nuget.org/packages/zivalix%2Fzivalix) | v0.1.0 | ZIVALIX Founders | The official reserved package for ZIVALIX Agency to prevent dependency confusio… |
+| 2026-10-31 16:51:19 | [bbwdadfg/hospitalbagchecklist-url-tools](https://www.nuget.org/packages/bbwdadfg%2Fhospitalbagchecklist-url-tools) | v0.1.0 | wangneo276-lgtm | A free hospital bag checklist that tracks what you have, what to buy, what’s pa… |
+| 2026-10-31 16:53:50 | [ernestdefoe/flarumverse](https://www.nuget.org/packages/ernestdefoe%2Fflarumverse) | 1.0.0 | Ernest Defoe | Flarumverse — Flarum forums pair with each other and show each other's new disc… |
+| 2026-10-31 16:59:40 | [crazypartsnatcher/oem-normalizer](https://www.nuget.org/packages/crazypartsnatcher%2Foem-normalizer) | v1.0.2 | CrazyPartSnatcher Engineering | Zero-dependency PHP utility to normalize, validate, and cross-reference commerc… |
+| 2026-10-31 17:07:33 | [rem42/sylius-admin-kit-bundle](https://www.nuget.org/packages/rem42%2Fsylius-admin-kit-bundle) | v1.0.0 | Rem42 | Opt-in admin features (quick filter, active filters, environment indicator, ent… |
 
 ## Data source
 
