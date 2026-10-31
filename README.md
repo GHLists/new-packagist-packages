@@ -15,16 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 08:20 UTC
+## Latest list — 2026-10-31 09:21 UTC
 
-New packages created between 2026-10-31 07:18 UTC and 2026-10-31 08:20 UTC.
+New packages created between 2026-10-31 08:20 UTC and 2026-10-31 09:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-31T08-20-56-736501Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T09-21-38-263237Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-31 07:23:55 | [nowo-tech/milkdown-editor-bundle](https://www.nuget.org/packages/nowo-tech%2Fmilkdown-editor-bundle) | v1.0.0 | Héctor Franco Aceituno; Nowo.… | Symfony form type for Markdown editing with Milkdown and a reduced Crepe build,… |
-| 2026-10-31 07:39:40 | [atannex/bridge](https://www.nuget.org/packages/atannex%2Fbridge) | v1.0.0 | Atanga Leke Collins | Expose explicitly registered, validated and authorized Laravel operations to Ja… |
+| 2026-10-31 08:29:27 | [wu/giorgio-im-socket](https://www.nuget.org/packages/wu%2Fgiorgio-im-socket) | 1.0.0 |  | Laravel backend integration for Giorgio IM, powered by Giorgio Socket. |
+| 2026-10-31 08:30:20 | [kkxdev/laravel-collective-html-spatie-html-bridge](https://www.nuget.org/packages/kkxdev%2Flaravel-collective-html-spatie-html-bridge) | v1.0.0 | kkxdev | LaravelCollective/HTML compatibility wrapper backed by Spatie Laravel HTML — pr… |
+| 2026-10-31 08:57:10 | [kipchak/driver-clickhouse](https://www.nuget.org/packages/kipchak%2Fdriver-clickhouse) | 1.0 |  | A ClickHouse driver for analytics queries and high-volume inserts from the Kipc… |
+| 2026-10-31 08:57:12 | [kipchak/driver-vector](https://www.nuget.org/packages/kipchak%2Fdriver-vector) | 1.0 |  | A vector database driver for semantic search and RAG with Qdrant, pgvector or O… |
+| 2026-10-31 08:57:15 | [kipchak/middleware-response-cache](https://www.nuget.org/packages/kipchak%2Fmiddleware-response-cache) | 1.0 |  | Response Cache Middleware for the Kipchak API Development Kit (ADK). A shared H… |
+| 2026-10-31 08:57:17 | [kipchak/middleware-feature-flags](https://www.nuget.org/packages/kipchak%2Fmiddleware-feature-flags) | 1.0 |  | Feature Flag Middleware for the Kipchak API Development Kit (ADK). Gates routes… |
 
 ## Data source
 

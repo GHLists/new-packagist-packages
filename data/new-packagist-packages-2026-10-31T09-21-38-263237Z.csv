@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-10-31T08:29:27Z,wu/giorgio-im-socket,1.0.0,,"Laravel backend integration for Giorgio IM, powered by Giorgio Socket."
+2026-10-31T08:30:20Z,kkxdev/laravel-collective-html-spatie-html-bridge,v1.0.0,kkxdev,LaravelCollective/HTML compatibility wrapper backed by Spatie Laravel HTML — preserves existing Blade templates while migrating off laravelcollective/html.
+2026-10-31T08:57:10Z,kipchak/driver-clickhouse,1.0,,A ClickHouse driver for analytics queries and high-volume inserts from the Kipchak API Development Kit (ADK)
+2026-10-31T08:57:12Z,kipchak/driver-vector,1.0,,"A vector database driver for semantic search and RAG with Qdrant, pgvector or OpenSearch from the Kipchak API Development Kit (ADK)"
+2026-10-31T08:57:15Z,kipchak/middleware-response-cache,1.0,,"Response Cache Middleware for the Kipchak API Development Kit (ADK). A shared HTTP cache (RFC 9111) with ETags, conditional requests and invalidation, on Filecache, Memcached or Valkey."
+2026-10-31T08:57:17Z,kipchak/middleware-feature-flags,1.0,,"Feature Flag Middleware for the Kipchak API Development Kit (ADK). Gates routes on flags from Unleash, Flagsmith or GrowthBook, with rollouts that stay sticky per consumer or API key."
