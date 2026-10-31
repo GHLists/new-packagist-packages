@@ -15,18 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 05:19 UTC
+## Latest list — 2026-10-31 06:20 UTC
 
-New packages created between 2026-10-31 04:18 UTC and 2026-10-31 05:19 UTC.
+New packages created between 2026-10-31 05:19 UTC and 2026-10-31 06:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-31T05-19-38-513934Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T06-20-59-900024Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-31 04:25:32 | [hibira-io/filament-approvals](https://www.nuget.org/packages/hibira-io%2Ffilament-approvals) | v0.1.0 | Hibira | A live Filament inbox for Laravel AI SDK tool approvals: your agent pauses befo… |
-| 2026-10-31 04:28:09 | [hibira-io/filament-support](https://www.nuget.org/packages/hibira-io%2Ffilament-support) | v0.1.0 | Hibira | AI live chat support for Filament: a chat widget for your website, answered fir… |
-| 2026-10-31 04:28:46 | [larasell-dev/phpstan-rules](https://www.nuget.org/packages/larasell-dev%2Fphpstan-rules) | v0.1.0 | Nils Haberkamp | PHPStan rules shared by the Larasell packages |
-| 2026-10-31 04:30:44 | [osopostal/laravel](https://www.nuget.org/packages/osopostal%2Flaravel) | v0.0.1 |  | Integración oficial de OsoPostal para Laravel: cliente de la API de códigos pos… |
+| 2026-10-31 05:20:07 | [doppar/ripple](https://www.nuget.org/packages/doppar%2Fripple) | v4.0.0 | xentixar | Server-driven UI for Doppar with Virtual DOM delta rendering |
 
 ## Data source
 
