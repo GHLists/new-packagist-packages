@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 17:20 UTC
+## Latest list — 2026-10-31 18:19 UTC
 
-New packages created between 2026-10-31 16:18 UTC and 2026-10-31 17:20 UTC.
+New packages created between 2026-10-31 17:20 UTC and 2026-10-31 18:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-31T17-20-41-174744Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T18-19-54-167222Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-31 16:51:19 | [bbwdadfg/hospitalbagchecklist-url-tools](https://www.nuget.org/packages/bbwdadfg%2Fhospitalbagchecklist-url-tools) | v0.1.0 | wangneo276-lgtm | A free hospital bag checklist that tracks what you have, what to buy, what’s pa… |
-| 2026-10-31 16:53:50 | [ernestdefoe/flarumverse](https://www.nuget.org/packages/ernestdefoe%2Fflarumverse) | 1.0.0 | Ernest Defoe | Flarumverse — Flarum forums pair with each other and show each other's new disc… |
-| 2026-10-31 16:59:40 | [crazypartsnatcher/oem-normalizer](https://www.nuget.org/packages/crazypartsnatcher%2Foem-normalizer) | v1.0.2 | CrazyPartSnatcher Engineering | Zero-dependency PHP utility to normalize, validate, and cross-reference commerc… |
-| 2026-10-31 17:07:33 | [rem42/sylius-admin-kit-bundle](https://www.nuget.org/packages/rem42%2Fsylius-admin-kit-bundle) | v1.0.0 | Rem42 | Opt-in admin features (quick filter, active filters, environment indicator, ent… |
+| 2026-10-31 17:23:23 | [awcodes/thermal](https://www.nuget.org/packages/awcodes%2Fthermal) | v1.0.0 | Adam Weston | Heatmap visualizations for Filament: calendar activity grids and custom tile la… |
+| 2026-10-31 17:28:54 | [nestapi/nestapi](https://www.nuget.org/packages/nestapi%2Fnestapi) | v1.0.0 | Hossein Saberi | Dynamic PHP client for the NestAPI web services |
+| 2026-10-31 17:56:38 | [nowo-tech/health-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fhealth-kit-bundle) | v1.0.0 | Héctor Franco Aceituno; Nowo.… | Liveness and readiness endpoints with pluggable probes (Doctrine, Redis, Messen… |
+| 2026-10-31 18:16:10 | [knackline/laravel-olm](https://www.nuget.org/packages/knackline%2Flaravel-olm) | 1.0.0 | Rajkumar Samra | Laravel package for on-device / local language models (MLX, Ollama, LM Studio,… |
 
 ## Data source
 

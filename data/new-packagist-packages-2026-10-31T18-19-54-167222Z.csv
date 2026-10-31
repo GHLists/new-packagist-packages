@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-31T17:23:23Z,awcodes/thermal,v1.0.0,Adam Weston,Heatmap visualizations for Filament: calendar activity grids and custom tile layouts.
+2026-10-31T17:28:54Z,nestapi/nestapi,v1.0.0,Hossein Saberi,Dynamic PHP client for the NestAPI web services
+2026-10-31T17:56:38Z,nowo-tech/health-kit-bundle,v1.0.0,Héctor Franco Aceituno; Nowo.tech,"Liveness and readiness endpoints with pluggable probes (Doctrine, Redis, Messenger queue depth, FrankenPHP) and a token-guarded Prometheus /metrics endpoint for Symfony apps."
+2026-10-31T18:16:10Z,knackline/laravel-olm,1.0.0,Rajkumar Samra,"Laravel package for on-device / local language models (MLX, Ollama, LM Studio, llama.cpp, vLLM)"
