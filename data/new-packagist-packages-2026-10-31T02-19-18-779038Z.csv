@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-31T01:20:49Z,stellarwp/foundation-view,2.0.0,,Render scoped PHP views to strings with immutable runtime directory selection.
+2026-10-31T01:20:57Z,stellarwp/foundation-shutdown,2.0.0,,Run application shutdown tasks once in deterministic priority order.
+2026-10-31T01:24:08Z,edulazaro/larachat,0.1.1,Edu Lazaro,"A website chat for Laravel that a bot answers and you can take over: retrieval over your own pages (JSON or Meilisearch), a cheap model that turns away off-topic questions before the expensive one is called, deterministic guards against prompt injection and abuse, lead capture, a private inbox to r…"
+2026-10-31T01:39:50Z,axisvela/praxo-core,v0.1.0,AxisVela,"Embeddable MIT-licensed agent framework for PHP: tools, policy, events, memory, middleware, and an agent loop"
