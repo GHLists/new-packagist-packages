@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-31T22:52:06Z,sushidev/php-pdf-concater,v0.1.0,Sushi Dev GmbH,Merge PDFs from PHP with a fast Rust engine.
+2026-10-31T23:19:05Z,phasync/canvas,v0.1.0,Frode Børli,"The browser's 2D canvas API for PHP, over GD or Imagick"

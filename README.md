@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 22:19 UTC
+## Latest list — 2026-10-31 23:19 UTC
 
-New packages created between 2026-10-31 21:21 UTC and 2026-10-31 22:19 UTC.
+New packages created between 2026-10-31 22:19 UTC and 2026-10-31 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-31T22-19-30-139244Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T23-19-50-688864Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-31 21:25:35 | [nowo-tech/sms-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fsms-kit-bundle) | v1.0.0 | Héctor Franco Aceituno; Nowo.… | SMS sending for Symfony with a provider registry (Twilio, SMS Bridge, log, null… |
-| 2026-10-31 21:43:14 | [maxcxam/larsadmin-medialibrary](https://www.nuget.org/packages/maxcxam%2Flarsadmin-medialibrary) | v1.0.1 | Maksym Rudenko | spatie/laravel-medialibrary fields (single file and gallery) for the larsadmin… |
-| 2026-10-31 21:52:48 | [nowo-tech/mail-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fmail-kit-bundle) | v1.0.0 | Héctor Franco Aceituno; Nowo.… | Runtime-configurable mailer for Symfony on top of Instance Settings: DSN and se… |
-| 2026-10-31 22:06:19 | [drivkraft/valkyrie](https://www.nuget.org/packages/drivkraft%2Fvalkyrie) | v1.0.0 | Kim Eric Helle | Role-based authorization for Laravel — roles, permissions and abilities with sc… |
+| 2026-10-31 22:52:06 | [sushidev/php-pdf-concater](https://www.nuget.org/packages/sushidev%2Fphp-pdf-concater) | v0.1.0 | Sushi Dev GmbH | Merge PDFs from PHP with a fast Rust engine. |
+| 2026-10-31 23:19:05 | [phasync/canvas](https://www.nuget.org/packages/phasync%2Fcanvas) | v0.1.0 | Frode Børli | The browser's 2D canvas API for PHP, over GD or Imagick |
 
 ## Data source
 
