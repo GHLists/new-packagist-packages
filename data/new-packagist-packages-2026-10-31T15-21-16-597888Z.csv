@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-10-31T14:35:08Z,bbwdadfg/bazicalculator-url-tools,v0.1.1,wangneo276-lgtm,"Free BaZi calculator: Four Pillars, Day Master, Ten Gods, Five Elements and Luck Pillars with true solar time. Plus Zi Wei Dou Shu, Liu Yao, Mei Hua, Qi Men and the Chinese Almanac."
+2026-10-31T14:47:49Z,rem42/shadcn-admin-ui,v1.0.0,Rem42,"Tailwind CSS + shadcn/ui (Symfony UX Toolkit) admin theme for Sylius Stack, a drop-in alternative to sylius/bootstrap-admin-ui."
+2026-10-31T14:48:53Z,siteation/magento2-commerce365-debugbar,1.0.0,Siteation,"Commerce365 section for Siteation_DebugBar: customer prices, Hub and Business Central calls, and findings"
+2026-10-31T14:59:56Z,tenma/image,v0.1.0,,"Image size and scaled WebP copies on Tenma, decoded off the event loop by a native plugin, with limits against decompression bombs."

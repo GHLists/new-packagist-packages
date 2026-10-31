@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 14:20 UTC
+## Latest list — 2026-10-31 15:21 UTC
 
-New packages created between 2026-10-31 13:19 UTC and 2026-10-31 14:20 UTC.
+New packages created between 2026-10-31 14:20 UTC and 2026-10-31 15:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-31T14-20-48-435181Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T15-21-16-597888Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-31 13:23:32 | [rapttor/yii2-metadata](https://www.nuget.org/packages/rapttor%2Fyii2-metadata) | v1.0.0 | Rapttor | Yii2 component for per-record metadata kept as JSON in one shared table (key, r… |
-| 2026-10-31 13:28:07 | [ryzecompany/invmenu](https://www.nuget.org/packages/ryzecompany%2Finvmenu) | v4.7.5 | Muqsit; RyzeCompany | Virtual inventory API for multiversion RyzeMP |
-| 2026-10-31 13:41:19 | [futuraweb/contao-backend-suite](https://www.nuget.org/packages/futuraweb%2Fcontao-backend-suite) | v2.1.0 | Dinko Skopljak | Backend-Werkzeuge für Contao 5 – ID-/Alias-Suche, Style-Selector für CSS-Klasse… |
-| 2026-10-31 13:47:05 | [jaocero/conversational-forms](https://www.nuget.org/packages/jaocero%2Fconversational-forms) | v0.9.0 | Jay-Are Ocero | Typeform-style conversational forms for Filament. One question at a time, fully… |
-| 2026-10-31 13:50:11 | [routegroup/php-ing-pay](https://www.nuget.org/packages/routegroup%2Fphp-ing-pay) | v1.0.0 | Kajetan Nobel | ING Pay payment gateway client for plain PHP |
-| 2026-10-31 13:52:56 | [routegroup/laravel-ing-pay](https://www.nuget.org/packages/routegroup%2Flaravel-ing-pay) | v1.0.0 | Kajetan Nobel | Laravel integration for the ING Pay payment gateway |
+| 2026-10-31 14:35:08 | [bbwdadfg/bazicalculator-url-tools](https://www.nuget.org/packages/bbwdadfg%2Fbazicalculator-url-tools) | v0.1.1 | wangneo276-lgtm | Free BaZi calculator: Four Pillars, Day Master, Ten Gods, Five Elements and Luc… |
+| 2026-10-31 14:47:49 | [rem42/shadcn-admin-ui](https://www.nuget.org/packages/rem42%2Fshadcn-admin-ui) | v1.0.0 | Rem42 | Tailwind CSS + shadcn/ui (Symfony UX Toolkit) admin theme for Sylius Stack, a d… |
+| 2026-10-31 14:48:53 | [siteation/magento2-commerce365-debugbar](https://www.nuget.org/packages/siteation%2Fmagento2-commerce365-debugbar) | 1.0.0 | Siteation | Commerce365 section for Siteation_DebugBar: customer prices, Hub and Business C… |
+| 2026-10-31 14:59:56 | [tenma/image](https://www.nuget.org/packages/tenma%2Fimage) | v0.1.0 |  | Image size and scaled WebP copies on Tenma, decoded off the event loop by a nat… |
 
 ## Data source
 
