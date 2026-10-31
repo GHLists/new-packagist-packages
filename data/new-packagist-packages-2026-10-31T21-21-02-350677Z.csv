@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-10-31T20:55:43Z,nowo-tech/instance-settings-bundle,v1.1.0,Héctor Franco Aceituno; Nowo.tech,"Runtime instance settings for Symfony apps: one settings store split into tagged sections, encrypted secret fields, admin forms and import / export (portability)."
