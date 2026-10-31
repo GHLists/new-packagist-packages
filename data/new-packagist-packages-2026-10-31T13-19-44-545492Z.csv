@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-10-31T12:28:19Z,imazeo/sdk,1.0.0,Imazeo,"Official Imazeo PHP SDK for server-side image, transform, PDF, QR, and barcode APIs"
+2026-10-31T12:32:16Z,pjadanowski/atlas,v0.1.0,Paweł Jadanowski,"Atlas — fast, static, three-column OpenAPI documentation for Laravel Scramble (and any OpenAPI 3.x spec)."
+2026-10-31T12:53:33Z,survos/geoboundaries-bundle,2.45.11,,Symfony bundle for fetching packaged geoBoundaries (administrative boundary polygons) authority databases.
+2026-10-31T12:59:49Z,survos/mapillary,2.45.12,,Typed read-only Mapillary API v4 image client using Symfony HttpClient and Serializer.
+2026-10-31T12:59:54Z,survos/mapillary-bundle,2.45.13,,Thin Symfony integration for the survos/mapillary API client.
