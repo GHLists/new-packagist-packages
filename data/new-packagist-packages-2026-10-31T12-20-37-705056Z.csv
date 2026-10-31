@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-10-31T11:39:50Z,wilbere/bagisto-manual-payments,v1.1.0,wilbere,"Pasarela de pagos manuales verificados (Pago Móvil, Transferencias, Zelle, Binance Pay) para Bagisto 2.5+"
+2026-10-31T11:42:54Z,reirev/fastgtp,v0.1.0,,"PHP client for fastgtp, an HTTP API for Go engines and KataGo analysis."
+2026-10-31T11:45:01Z,tenma/redis,v0.1.0,,"A Valkey server of the app's own on Tenma, for Redis clients: started next to the app through a native plugin, stopped with it."
+2026-10-31T11:46:42Z,mistrfilda/amqp,v0.1.0,,"RabbitMQ integration with typed JSON messages, producers, consumers and Symfony Console commands."
+2026-10-31T11:54:15Z,qiyuanlabs/refit,v0.1.0,QiYuan Labs LLC,"Check and fix PHP 8.x compatibility in WordPress plugins and plain PHP code, with a report your client can read."
+2026-10-31T11:56:28Z,altayofficial/bedrockstructure,1.0.0+bedrock-1.26.…,,"Read, write and edit Minecraft Bedrock Edition .mcstructure files on Altay"
+2026-10-31T12:11:14Z,survos/panorama-bundle,v0.1.3,,Reusable panorama tours and historical photograph overlays for Symfony UX
+2026-10-31T12:11:28Z,facturalo-pe/facturalo-php,v1.0.0,Facturalo,"SDK oficial de Facturalo para PHP: emite facturas, boletas, notas y guías de remisión ante SUNAT, consulta RUC/DNI y verifica webhooks."

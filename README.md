@@ -15,17 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 11:18 UTC
+## Latest list — 2026-10-31 12:20 UTC
 
-New packages created between 2026-10-31 10:19 UTC and 2026-10-31 11:18 UTC.
+New packages created between 2026-10-31 11:18 UTC and 2026-10-31 12:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-31T11-18-19-873342Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T12-20-37-705056Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-31 10:24:41 | [wilbere/bagisto-bcv](https://www.nuget.org/packages/wilbere%2Fbagisto-bcv) | v1.0.0 | wilbere | Tasa BCV oficial automática, precio dual (USD/Bs.) y congelamiento por orden pa… |
-| 2026-10-31 10:49:49 | [eamirgh/digipay-laravel](https://www.nuget.org/packages/eamirgh%2Fdigipay-laravel) | v1.0.0 | Amir Ghaffari | Production-grade scalable Digipay UPG integration for Laravel 11, 12, 13+ |
-| 2026-10-31 10:59:56 | [mapo-89/laravel-nginx-proxy-manager-api](https://www.nuget.org/packages/mapo-89%2Flaravel-nginx-proxy-manager-api) | v1.0.0 | mapo-89 | Laravel API client for Nginx Proxy Manager |
+| 2026-10-31 11:39:50 | [wilbere/bagisto-manual-payments](https://www.nuget.org/packages/wilbere%2Fbagisto-manual-payments) | v1.1.0 | wilbere | Pasarela de pagos manuales verificados (Pago Móvil, Transferencias, Zelle, Bina… |
+| 2026-10-31 11:42:54 | [reirev/fastgtp](https://www.nuget.org/packages/reirev%2Ffastgtp) | v0.1.0 |  | PHP client for fastgtp, an HTTP API for Go engines and KataGo analysis. |
+| 2026-10-31 11:45:01 | [tenma/redis](https://www.nuget.org/packages/tenma%2Fredis) | v0.1.0 |  | A Valkey server of the app's own on Tenma, for Redis clients: started next to t… |
+| 2026-10-31 11:46:42 | [mistrfilda/amqp](https://www.nuget.org/packages/mistrfilda%2Famqp) | v0.1.0 |  | RabbitMQ integration with typed JSON messages, producers, consumers and Symfony… |
+| 2026-10-31 11:54:15 | [qiyuanlabs/refit](https://www.nuget.org/packages/qiyuanlabs%2Frefit) | v0.1.0 | QiYuan Labs LLC | Check and fix PHP 8.x compatibility in WordPress plugins and plain PHP code, wi… |
+| 2026-10-31 11:56:28 | [altayofficial/bedrockstructure](https://www.nuget.org/packages/altayofficial%2Fbedrockstructure) | 1.0.0+bedrock-1.26.… |  | Read, write and edit Minecraft Bedrock Edition .mcstructure files on Altay |
+| 2026-10-31 12:11:14 | [survos/panorama-bundle](https://www.nuget.org/packages/survos%2Fpanorama-bundle) | v0.1.3 |  | Reusable panorama tours and historical photograph overlays for Symfony UX |
+| 2026-10-31 12:11:28 | [facturalo-pe/facturalo-php](https://www.nuget.org/packages/facturalo-pe%2Ffacturalo-php) | v1.0.0 | Facturalo | SDK oficial de Facturalo para PHP: emite facturas, boletas, notas y guías de re… |
 
 ## Data source
 
