@@ -15,20 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 09:21 UTC
+## Latest list — 2026-10-31 10:19 UTC
 
-New packages created between 2026-10-31 08:20 UTC and 2026-10-31 09:21 UTC.
+New packages created between 2026-10-31 09:21 UTC and 2026-10-31 10:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-10-31T09-21-38-263237Z.csv)
+[Full CSV](data/new-packagist-packages-2026-10-31T10-19-36-742177Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-10-31 08:29:27 | [wu/giorgio-im-socket](https://www.nuget.org/packages/wu%2Fgiorgio-im-socket) | 1.0.0 |  | Laravel backend integration for Giorgio IM, powered by Giorgio Socket. |
-| 2026-10-31 08:30:20 | [kkxdev/laravel-collective-html-spatie-html-bridge](https://www.nuget.org/packages/kkxdev%2Flaravel-collective-html-spatie-html-bridge) | v1.0.0 | kkxdev | LaravelCollective/HTML compatibility wrapper backed by Spatie Laravel HTML — pr… |
-| 2026-10-31 08:57:10 | [kipchak/driver-clickhouse](https://www.nuget.org/packages/kipchak%2Fdriver-clickhouse) | 1.0 |  | A ClickHouse driver for analytics queries and high-volume inserts from the Kipc… |
-| 2026-10-31 08:57:12 | [kipchak/driver-vector](https://www.nuget.org/packages/kipchak%2Fdriver-vector) | 1.0 |  | A vector database driver for semantic search and RAG with Qdrant, pgvector or O… |
-| 2026-10-31 08:57:15 | [kipchak/middleware-response-cache](https://www.nuget.org/packages/kipchak%2Fmiddleware-response-cache) | 1.0 |  | Response Cache Middleware for the Kipchak API Development Kit (ADK). A shared H… |
-| 2026-10-31 08:57:17 | [kipchak/middleware-feature-flags](https://www.nuget.org/packages/kipchak%2Fmiddleware-feature-flags) | 1.0 |  | Feature Flag Middleware for the Kipchak API Development Kit (ADK). Gates routes… |
+| 2026-10-31 09:25:39 | [milwad/pcreators](https://www.nuget.org/packages/milwad%2Fpcreators) | v1.0.0 | Milwad Khosravi | An interactive CLI to scaffold a production-ready PHP/Laravel package in second… |
+| 2026-10-31 09:41:25 | [norialabs/approvals](https://www.nuget.org/packages/norialabs%2Fapprovals) | v0.1.2 |  | Maker-checker approvals for Laravel. Holds Eloquent creates, updates and delete… |
 
 ## Data source
 

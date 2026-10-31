@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-10-31T09:25:39Z,milwad/pcreators,v1.0.0,Milwad Khosravi,An interactive CLI to scaffold a production-ready PHP/Laravel package in seconds.
+2026-10-31T09:41:25Z,norialabs/approvals,v0.1.2,,"Maker-checker approvals for Laravel. Holds Eloquent creates, updates and deletes, pivot writes and custom actions until the right people approve, with multi-step and grouped approvers, rule-based policies, delegation, expiry, escalation, an audit trail, tenancy, and configurable keys and tables."
