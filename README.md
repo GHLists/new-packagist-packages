@@ -15,19 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 17:18 UTC
+## Latest list — 2026-11-01 18:18 UTC
 
-New packages created between 2026-11-01 16:20 UTC and 2026-11-01 17:18 UTC.
+New packages created between 2026-11-01 17:18 UTC and 2026-11-01 18:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-01T17-18-58-313411Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-01T18-18-41-452341Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-01 16:33:25 | [zinxan/native-core](https://www.nuget.org/packages/zinxan%2Fnative-core) | v0.2.1 |  | The shared NativeWatch client that zinxan/native-desktop and zinxan/native-mobi… |
-| 2026-11-01 16:35:38 | [zinxan/native-desktop](https://www.nuget.org/packages/zinxan%2Fnative-desktop) | v0.2.0 |  | Error tracking for NativePHP desktop apps, reported to NativeWatch. |
-| 2026-11-01 16:35:39 | [zinxan/native-mobile](https://www.nuget.org/packages/zinxan%2Fnative-mobile) | v0.2.0 |  | Error tracking for NativePHP iOS and Android apps, reported to NativeWatch. |
-| 2026-11-01 17:06:30 | [rapttor/yii2-feedback](https://www.nuget.org/packages/rapttor%2Fyii2-feedback) | v0.1.1 | Rapttor | Yii2 extension: a feedback widget (closable floating button, menu trigger) with… |
-| 2026-11-01 17:16:18 | [awengan/hyperf-admin](https://www.nuget.org/packages/awengan%2Fhyperf-admin) | v0.0.1 | Awengan | Hyperf 3.1 后台面板组件：Vue 3 + Naive UI，原生 ESM 无构建，自带登录、RBAC、CRUD、审计日志 |
+| 2026-11-01 17:36:03 | [everrest/context-gate](https://www.nuget.org/packages/everrest%2Fcontext-gate) | v0.1.0 | EverRest | Secure MCP gateway for Laravel: the AI receives only what a contract allows. |
+| 2026-11-01 17:37:34 | [arzcode/filament-head](https://www.nuget.org/packages/arzcode%2Ffilament-head) | 0.1.0 | Arzcode | Edit laravel/head metadata (title, description, Open Graph, canonical, robots)… |
+| 2026-11-01 17:50:25 | [noldors/lighthouse-extensions](https://www.nuget.org/packages/noldors%2Flighthouse-extensions) | v0.1.0 |  | Reusable Laravel Lighthouse directives and scalars. |
+| 2026-11-01 17:52:47 | [tacraft-sociality/flarum-onebot-notify](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-onebot-notify) | 1.0.3 | TaCraft-Sociality | Send OneBot (QQ) notifications about new discussions and posts from Flarum |
+| 2026-11-01 17:53:52 | [noldors/lighthouse-idempotency](https://www.nuget.org/packages/noldors%2Flighthouse-idempotency) | v0.1.0 |  | Transactional PostgreSQL idempotency for Laravel Lighthouse mutations. |
+| 2026-11-01 17:56:39 | [unlyx/unlyx-php](https://www.nuget.org/packages/unlyx%2Funlyx-php) | v1.0.0 | Unlyx | Official PHP SDK for the Unlyx REST API v1 (account, services, orders, webhooks… |
+| 2026-11-01 18:06:00 | [tusharkhan/semantic-sec](https://www.nuget.org/packages/tusharkhan%2Fsemantic-sec) | v0.1.0 | Tushar Khan | LLM-assisted authorization and IDOR scanner for Laravel applications. |
 
 ## Data source
 

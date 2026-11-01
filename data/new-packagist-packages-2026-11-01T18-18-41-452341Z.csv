@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-01T17:36:03Z,everrest/context-gate,v0.1.0,EverRest,Secure MCP gateway for Laravel: the AI receives only what a contract allows.
+2026-11-01T17:37:34Z,arzcode/filament-head,0.1.0,Arzcode,"Edit laravel/head metadata (title, description, Open Graph, canonical, robots) per Eloquent record from a Filament panel."
+2026-11-01T17:50:25Z,noldors/lighthouse-extensions,v0.1.0,,Reusable Laravel Lighthouse directives and scalars.
+2026-11-01T17:52:47Z,tacraft-sociality/flarum-onebot-notify,1.0.3,TaCraft-Sociality,Send OneBot (QQ) notifications about new discussions and posts from Flarum
+2026-11-01T17:53:52Z,noldors/lighthouse-idempotency,v0.1.0,,Transactional PostgreSQL idempotency for Laravel Lighthouse mutations.
+2026-11-01T17:56:39Z,unlyx/unlyx-php,v1.0.0,Unlyx,"Official PHP SDK for the Unlyx REST API v1 (account, services, orders, webhooks, usage)."
+2026-11-01T18:06:00Z,tusharkhan/semantic-sec,v0.1.0,Tushar Khan,LLM-assisted authorization and IDOR scanner for Laravel applications.
