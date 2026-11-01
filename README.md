@@ -15,19 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 12:20 UTC
+## Latest list — 2026-11-01 13:19 UTC
 
-New packages created between 2026-11-01 11:20 UTC and 2026-11-01 12:20 UTC.
+New packages created between 2026-11-01 12:20 UTC and 2026-11-01 13:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-01T12-20-43-400989Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-01T13-19-42-834888Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-01 11:20:32 | [nowo-tech/messenger-monitor-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fmessenger-monitor-kit-bundle) | v1.0.0 | Héctor Franco Aceituno; Nowo.… | Symfony Messenger monitoring on top of zenstruck/messenger-monitor-bundle: runt… |
-| 2026-11-01 11:24:06 | [spkm/aruba-central](https://www.nuget.org/packages/spkm%2Faruba-central) | v1.0.0 | Simon Mitchell | Integrate with the Aruba Central APIs, classic and new, using SaloonPHP |
-| 2026-11-01 11:25:13 | [dongasai/dbcheck](https://www.nuget.org/packages/dongasai%2Fdbcheck) | 1.0.2 |  | 数据库结构/数据自检与修复框架（按表三类检查：表结构、固定数据、字段明细） |
-| 2026-11-01 11:56:31 | [abdur-rahaman/laravel-seo](https://www.nuget.org/packages/abdur-rahaman%2Flaravel-seo) | v1.1.0 | Abdurrahaman | A comprehensive SEO management package for Laravel applications, inspired by Yo… |
-| 2026-11-01 12:01:16 | [hub-io/laravel-hubio-sync](https://www.nuget.org/packages/hub-io%2Flaravel-hubio-sync) | v0.1.0 | Hubio s.r.o.; Ján Hamrák | Backup, sharing and photo synchronization of Hubio NativePHP apps through Hubio… |
+| 2026-11-01 12:29:47 | [rightform/rightform](https://www.nuget.org/packages/rightform%2Frightform) | v1.0.0 | rightform Aleksander Jagusiak | Holds the rightform vendor name on Packagist for packages made by rightform. Co… |
+| 2026-11-01 12:33:19 | [php-script/editor-filament](https://www.nuget.org/packages/php-script%2Feditor-filament) | v0.1.0 | Robert Kummer | Filament 5 form field (PhpScriptEditor) for the <php-script-editor> web compone… |
+| 2026-11-01 12:33:35 | [php-script/editor-laravel](https://www.nuget.org/packages/php-script%2Feditor-laravel) | v0.1.0 | Robert Kummer | Laravel integration (Blade component, config endpoint, lint response, validatio… |
+| 2026-11-01 12:34:41 | [owebstudio/kirby-search-insights](https://www.nuget.org/packages/owebstudio%2Fkirby-search-insights) | 1.0.0 | oweb studio | Shows what visitors search for on your Kirby site, which searches find nothing… |
+| 2026-11-01 12:42:10 | [dynv/dynv](https://www.nuget.org/packages/dynv%2Fdynv) | v0.1.0 |  | Dependency-free PHP client for the Dynv local agent |
+| 2026-11-01 12:48:19 | [kayedspace/laravel-mcp-bridge](https://www.nuget.org/packages/kayedspace%2Flaravel-mcp-bridge) | v0.1.0 | Ali Youssef Kayed | Turn what your Laravel app already declares (routes, Artisan commands, jobs, ac… |
+| 2026-11-01 12:50:16 | [eveshipfit/esf-format](https://www.nuget.org/packages/eveshipfit%2Fesf-format) | v1.0.0 | EVEShipFit Team | Read and write esf/1, the plain-text format for EVE Online ship fits |
 
 ## Data source
 

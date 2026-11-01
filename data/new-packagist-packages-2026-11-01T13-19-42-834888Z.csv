@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-01T12:29:47Z,rightform/rightform,v1.0.0,rightform Aleksander Jagusiak,Holds the rightform vendor name on Packagist for packages made by rightform. Contains no code.
+2026-11-01T12:33:19Z,php-script/editor-filament,v0.1.0,Robert Kummer,Filament 5 form field (PhpScriptEditor) for the <php-script-editor> web component (php-script v2).
+2026-11-01T12:33:35Z,php-script/editor-laravel,v0.1.0,Robert Kummer,"Laravel integration (Blade component, config endpoint, lint response, validation rule) for the <php-script-editor> web component (php-script v2)."
+2026-11-01T12:34:41Z,owebstudio/kirby-search-insights,1.0.0,oweb studio,"Shows what visitors search for on your Kirby site, which searches find nothing and which results they open."
+2026-11-01T12:42:10Z,dynv/dynv,v0.1.0,,Dependency-free PHP client for the Dynv local agent
+2026-11-01T12:48:19Z,kayedspace/laravel-mcp-bridge,v0.1.0,Ali Youssef Kayed,"Turn what your Laravel app already declares (routes, Artisan commands, jobs, actions and models) into an MCP server for AI agents, on top of laravel/mcp."
+2026-11-01T12:50:16Z,eveshipfit/esf-format,v1.0.0,EVEShipFit Team,"Read and write esf/1, the plain-text format for EVE Online ship fits"
