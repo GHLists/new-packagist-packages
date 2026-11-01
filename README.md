@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 06:19 UTC
+## Latest list — 2026-11-01 07:20 UTC
 
-New packages created between 2026-11-01 05:20 UTC and 2026-11-01 06:19 UTC.
+New packages created between 2026-11-01 06:19 UTC and 2026-11-01 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-01T06-19-13-570307Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-01T07-20-13-801784Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-01 05:41:57 | [epixel/licence-guard](https://www.nuget.org/packages/epixel%2Flicence-guard) | v1.0.0 |  | Checks a signed licence file before a Laravel application opens. |
-| 2026-11-01 05:47:36 | [hipdevteam/ion-mu](https://www.nuget.org/packages/hipdevteam%2Fion-mu) | v3.5.3 | ION | ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Inte… |
-| 2026-11-01 06:08:43 | [rulli/laravel-onedrive](https://www.nuget.org/packages/rulli%2Flaravel-onedrive) | v1.0.0 | Rulli Wuji Wijianto | Laravel package untuk OneDrive Personal (Microsoft account) dengan login perman… |
+| 2026-11-01 07:18:07 | [kylewlawrence/gravity-forms-api-client-php](https://www.nuget.org/packages/kylewlawrence%2Fgravity-forms-api-client-php) | v13.0.0 | KyleWLawrence | GForms API PHP SDK |
 
 ## Data source
 
