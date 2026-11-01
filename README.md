@@ -15,21 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 18:18 UTC
+## Latest list — 2026-11-01 19:19 UTC
 
-New packages created between 2026-11-01 17:18 UTC and 2026-11-01 18:18 UTC.
+New packages created between 2026-11-01 18:18 UTC and 2026-11-01 19:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-01T18-18-41-452341Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-01T19-19-55-873449Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-01 17:36:03 | [everrest/context-gate](https://www.nuget.org/packages/everrest%2Fcontext-gate) | v0.1.0 | EverRest | Secure MCP gateway for Laravel: the AI receives only what a contract allows. |
-| 2026-11-01 17:37:34 | [arzcode/filament-head](https://www.nuget.org/packages/arzcode%2Ffilament-head) | 0.1.0 | Arzcode | Edit laravel/head metadata (title, description, Open Graph, canonical, robots)… |
-| 2026-11-01 17:50:25 | [noldors/lighthouse-extensions](https://www.nuget.org/packages/noldors%2Flighthouse-extensions) | v0.1.0 |  | Reusable Laravel Lighthouse directives and scalars. |
-| 2026-11-01 17:52:47 | [tacraft-sociality/flarum-onebot-notify](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-onebot-notify) | 1.0.3 | TaCraft-Sociality | Send OneBot (QQ) notifications about new discussions and posts from Flarum |
-| 2026-11-01 17:53:52 | [noldors/lighthouse-idempotency](https://www.nuget.org/packages/noldors%2Flighthouse-idempotency) | v0.1.0 |  | Transactional PostgreSQL idempotency for Laravel Lighthouse mutations. |
-| 2026-11-01 17:56:39 | [unlyx/unlyx-php](https://www.nuget.org/packages/unlyx%2Funlyx-php) | v1.0.0 | Unlyx | Official PHP SDK for the Unlyx REST API v1 (account, services, orders, webhooks… |
-| 2026-11-01 18:06:00 | [tusharkhan/semantic-sec](https://www.nuget.org/packages/tusharkhan%2Fsemantic-sec) | v0.1.0 | Tushar Khan | LLM-assisted authorization and IDOR scanner for Laravel applications. |
+| 2026-11-01 18:22:59 | [tacraft-sociality/flarum-auto-dpr](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-auto-dpr) | 1.0.0 | Tacraft Sociality | Automatically and permanently delete user-deleted (hidden) discussions and post… |
+| 2026-11-01 19:15:46 | [wssolutions/contao-web-content-access](https://www.nuget.org/packages/wssolutions%2Fcontao-web-content-access) | v1.0.0 | WS SOLUTIONS LLC | Accessibility for Contao sites (BFSG / European Accessibility Act): accessibili… |
 
 ## Data source
 
