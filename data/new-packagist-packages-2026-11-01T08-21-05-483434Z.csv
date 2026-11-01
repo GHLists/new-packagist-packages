@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-01T07:21:07Z,kylewlawrence/laravel-betterstack-api,v13.0.0,KyleWLawrence,Laravel API for BetterStack
+2026-11-01T07:21:08Z,kylewlawrence/gravity-forms-laravel,v13.0.0,KyleWLawrence,Laravel wrapper for kylewlawrence/gravity-forms-api-client-php package
+2026-11-01T07:23:49Z,kylewlawrence/laravel-mainwp-api,v13.0.0,KyleWLawrence,Laravel API for MainWP
+2026-11-01T07:26:09Z,kumanphp/kuman,0.1.0,,Long-running PHP microframework on Workerman with Express-style routing.
+2026-11-01T07:27:24Z,kylewlawrence/laravel-bunny-api,v13.0.0,KyleWLawrence,Laravel API for Bunny
+2026-11-01T07:27:25Z,kylewlawrence/laravel-cloudflare-api,v13.0.0,KyleWLawrence,Laravel API for Cloudflare
+2026-11-01T07:54:32Z,radebatz/openapi-json-schema,0.1.0,Martin Rademacher,"Describes classes without OpenAPI attributes in the document swagger-php builds, using the schemas symfony/json-schema generates from PropertyInfo, the serializer and validator constraints."
+2026-11-01T07:58:42Z,hipdevteam/ion-mu,v3.5.4,ION,ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Intelligence
+2026-11-01T08:01:17Z,eamirgh/basalam-laravel,v1.0.0,Amir Ghaffari,Comprehensive Laravel package for Basalam API Gateway and Core with DTO interface contracts and zero third-party SDK dependencies
+2026-11-01T08:13:07Z,soe-moe/laravel-module-generator,1.0,Soe Moe Oo,"Artisan commands for scaffolding modular Laravel applications, with optional Inertia.js (React or Vue) support."
