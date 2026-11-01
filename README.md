@@ -15,16 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 16:20 UTC
+## Latest list — 2026-11-01 17:18 UTC
 
-New packages created between 2026-11-01 15:20 UTC and 2026-11-01 16:20 UTC.
+New packages created between 2026-11-01 16:20 UTC and 2026-11-01 17:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-01T16-20-58-607036Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-01T17-18-58-313411Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-01 16:01:59 | [makallio85/rocksoftware-cakephp-files](https://www.nuget.org/packages/makallio85%2Frocksoftware-cakephp-files) | v0.1.0 |  | CakePHP 5 plugin for stored files: intake checks, content-addressed storage, te… |
-| 2026-11-01 16:18:02 | [soml/soml](https://www.nuget.org/packages/soml%2Fsoml) | v0.0.2 | Sindre Sorhus | Read and write SOML, a config format for humans |
+| 2026-11-01 16:33:25 | [zinxan/native-core](https://www.nuget.org/packages/zinxan%2Fnative-core) | v0.2.1 |  | The shared NativeWatch client that zinxan/native-desktop and zinxan/native-mobi… |
+| 2026-11-01 16:35:38 | [zinxan/native-desktop](https://www.nuget.org/packages/zinxan%2Fnative-desktop) | v0.2.0 |  | Error tracking for NativePHP desktop apps, reported to NativeWatch. |
+| 2026-11-01 16:35:39 | [zinxan/native-mobile](https://www.nuget.org/packages/zinxan%2Fnative-mobile) | v0.2.0 |  | Error tracking for NativePHP iOS and Android apps, reported to NativeWatch. |
+| 2026-11-01 17:06:30 | [rapttor/yii2-feedback](https://www.nuget.org/packages/rapttor%2Fyii2-feedback) | v0.1.1 | Rapttor | Yii2 extension: a feedback widget (closable floating button, menu trigger) with… |
+| 2026-11-01 17:16:18 | [awengan/hyperf-admin](https://www.nuget.org/packages/awengan%2Fhyperf-admin) | v0.0.1 | Awengan | Hyperf 3.1 后台面板组件：Vue 3 + Naive UI，原生 ESM 无构建，自带登录、RBAC、CRUD、审计日志 |
 
 ## Data source
 

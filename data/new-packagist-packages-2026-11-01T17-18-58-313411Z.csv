@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-01T16:33:25Z,zinxan/native-core,v0.2.1,,The shared NativeWatch client that zinxan/native-desktop and zinxan/native-mobile build on.
+2026-11-01T16:35:38Z,zinxan/native-desktop,v0.2.0,,"Error tracking for NativePHP desktop apps, reported to NativeWatch."
+2026-11-01T16:35:39Z,zinxan/native-mobile,v0.2.0,,"Error tracking for NativePHP iOS and Android apps, reported to NativeWatch."
+2026-11-01T17:06:30Z,rapttor/yii2-feedback,v0.1.1,Rapttor,"Yii2 extension: a feedback widget (closable floating button, menu trigger) with consented page snapshots, 22 languages, and a small admin inbox. Stores feedback in one shared table."
+2026-11-01T17:16:18Z,awengan/hyperf-admin,v0.0.1,Awengan,Hyperf 3.1 后台面板组件：Vue 3 + Naive UI，原生 ESM 无构建，自带登录、RBAC、CRUD、审计日志
