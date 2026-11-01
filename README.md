@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 19:19 UTC
+## Latest list — 2026-11-01 20:19 UTC
 
-New packages created between 2026-11-01 18:18 UTC and 2026-11-01 19:19 UTC.
+New packages created between 2026-11-01 19:19 UTC and 2026-11-01 20:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-01T19-19-55-873449Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-01T20-19-39-294069Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-01 18:22:59 | [tacraft-sociality/flarum-auto-dpr](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-auto-dpr) | 1.0.0 | Tacraft Sociality | Automatically and permanently delete user-deleted (hidden) discussions and post… |
-| 2026-11-01 19:15:46 | [wssolutions/contao-web-content-access](https://www.nuget.org/packages/wssolutions%2Fcontao-web-content-access) | v1.0.0 | WS SOLUTIONS LLC | Accessibility for Contao sites (BFSG / European Accessibility Act): accessibili… |
+| 2026-11-01 19:33:38 | [360fusion/contao-backend-classic](https://www.nuget.org/packages/360fusion%2Fcontao-backend-classic) | 1.1.0 |  | Contao 5.7 back end: the Classic theme (the 5.6 colours) and filters above the… |
+| 2026-11-01 19:49:45 | [joeka/class](https://www.nuget.org/packages/joeka%2Fclass) | v1.0.0 | youssefkaramev | db class |
+| 2026-11-01 19:49:45 | [joeka/php-class](https://www.nuget.org/packages/joeka%2Fphp-class) | v1.0.0 | youssefkaramev | db class |
 
 ## Data source
 

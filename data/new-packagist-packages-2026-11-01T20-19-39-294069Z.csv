@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-01T19:33:38Z,360fusion/contao-backend-classic,1.1.0,,"Contao 5.7 back end: the Classic theme (the 5.6 colours) and filters above the list, as per-user settings"
+2026-11-01T19:49:45Z,joeka/class,v1.0.0,youssefkaramev,db class
+2026-11-01T19:49:45Z,joeka/php-class,v1.0.0,youssefkaramev,db class
