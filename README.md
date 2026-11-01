@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 03:19 UTC
+## Latest list — 2026-11-01 04:20 UTC
 
-New packages created between 2026-11-01 02:21 UTC and 2026-11-01 03:19 UTC.
+New packages created between 2026-11-01 03:19 UTC and 2026-11-01 04:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-01T03-19-20-105493Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-01T04-20-16-51573Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-01 02:21:14 | [wodzy/cakephp-disposable-email](https://www.nuget.org/packages/wodzy%2Fcakephp-disposable-email) | v1.0.1 | Walid Oukaci | CakePHP plugin that blocks disposable (throwaway) email addresses, powered by w… |
-| 2026-11-01 02:40:02 | [webware/asciidoc-php](https://www.nuget.org/packages/webware%2Fasciidoc-php) | 0.1.0 | Joey (aka Tyrsson) Smith | A PHP port of the Asciidoctor toolchain that converts AsciiDoc source files to… |
-| 2026-11-01 02:41:37 | [hamada-emam-tech/einvoice-eta](https://www.nuget.org/packages/hamada-emam-tech%2Feinvoice-eta) | v0.1.0 |  | Egypt ETA eInvoicing for hamada-emam-tech/einvoice: the v1.0 JSON document, ETA… |
-| 2026-11-01 02:41:38 | [hamada-emam-tech/einvoice-keysource-agent](https://www.nuget.org/packages/hamada-emam-tech%2Feinvoice-keysource-agent) | v0.1.0 |  | A KeySource for hamada-emam-tech/einvoice that signs with a USB token or HSM th… |
-| 2026-11-01 02:46:30 | [oocscommerce/magento2-souin-cache](https://www.nuget.org/packages/oocscommerce%2Fmagento2-souin-cache) | 1.0.0 |  | Souin (Caddy cache-handler) full page cache application for Magento 2 |
+| 2026-11-01 03:31:56 | [wuwx/sm3](https://www.nuget.org/packages/wuwx%2Fsm3) | v1.0.0 | wuwx | SM3 (GB/T 32905) hash in pure PHP |
+| 2026-11-01 03:37:43 | [stougeiro/base-contract](https://www.nuget.org/packages/stougeiro%2Fbase-contract) | v0.1.0 | stougeiro | Runtime-agnostic contracts and abstract bases for modular HTTP applications. |
+| 2026-11-01 03:38:13 | [kipchak/driver-nats](https://www.nuget.org/packages/kipchak%2Fdriver-nats) | 1.0 |  | A NATS and JetStream driver for messaging, request/reply, durable streams and k… |
+| 2026-11-01 03:55:41 | [coinvello/sdk](https://www.nuget.org/packages/coinvello%2Fsdk) | v0.1.1 | CoinVello | Official CoinVello API client for PHP (non-custodial crypto payments). No Guzzl… |
+| 2026-11-01 04:12:59 | [thewonderjoy/gaze-php](https://www.nuget.org/packages/thewonderjoy%2Fgaze-php) | v1.0.0 | thewonderjoy | Framework-agnostic PHP client for Gaze, a fast debug app: gaze() helper, Ray-st… |
 
 ## Data source
 

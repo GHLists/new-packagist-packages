@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-01T03:31:56Z,wuwx/sm3,v1.0.0,wuwx,SM3 (GB/T 32905) hash in pure PHP
+2026-11-01T03:37:43Z,stougeiro/base-contract,v0.1.0,stougeiro,Runtime-agnostic contracts and abstract bases for modular HTTP applications.
+2026-11-01T03:38:13Z,kipchak/driver-nats,1.0,,"A NATS and JetStream driver for messaging, request/reply, durable streams and key-value buckets from the Kipchak API Development Kit (ADK)"
+2026-11-01T03:55:41Z,coinvello/sdk,v0.1.1,CoinVello,Official CoinVello API client for PHP (non-custodial crypto payments). No Guzzle: ext-curl only.
+2026-11-01T04:12:59Z,thewonderjoy/gaze-php,v1.0.0,thewonderjoy,"Framework-agnostic PHP client for Gaze, a fast debug app: gaze() helper, Ray-style fluent API, native protocol v1."
