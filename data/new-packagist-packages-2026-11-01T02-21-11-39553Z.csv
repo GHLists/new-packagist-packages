@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-01T01:20:54Z,tru-laravel-club/blsc-guide,v0.1.0,,A step-by-step contributor guide for the BIG Little Science Centre website. Install it as a dev dependency only.
+2026-11-01T01:53:25Z,wodzy/disposable-email,v1.0.0,Walid Oukaci,"Lightweight, dependency-free PHP library that blocks disposable (throwaway) email addresses, with your own block lists and never-blocked domains."
