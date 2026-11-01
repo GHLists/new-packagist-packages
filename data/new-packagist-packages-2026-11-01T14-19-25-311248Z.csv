@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-01T13:33:26Z,spkm/fortinac,v1.0.1,Simon Mitchell,Integrate with the Fortinet FortiNAC-F REST API using SaloonPHP
+2026-11-01T13:33:47Z,marko/queue-redis,0.12.0,,Redis queue driver for Marko Framework
+2026-11-01T13:39:24Z,evolvaru/laravel-query-duplicates,v0.1.0,,Detect duplicated SQL queries and N+1 queries inside Laravel HTTP requests.
+2026-11-01T13:47:36Z,jelix/ldap-client,v1.0.0-beta.1,Laurent Jouanneau,library to authenticate against an Ldap server or Active Directory. Users accounts can also be managed.
+2026-11-01T13:57:36Z,khurrambaig/hr-management,v1.0.0,Mirza Khurram Baig,"HR management package: departments, employees, attendance, leaves and annual leave settlements for Laravel 11+."
+2026-11-01T14:15:15Z,dbout/wp-foundation,v1.0.0-rc.1,Dimitri BOUTEILLE,"Lightweight application foundation for WordPress: service container, attribute-based routing and WP-CLI commands, Twig views, validation, cache and security hardening, built on Symfony and Illuminate components."

@@ -15,21 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 13:19 UTC
+## Latest list — 2026-11-01 14:19 UTC
 
-New packages created between 2026-11-01 12:20 UTC and 2026-11-01 13:19 UTC.
+New packages created between 2026-11-01 13:19 UTC and 2026-11-01 14:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-01T13-19-42-834888Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-01T14-19-25-311248Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-01 12:29:47 | [rightform/rightform](https://www.nuget.org/packages/rightform%2Frightform) | v1.0.0 | rightform Aleksander Jagusiak | Holds the rightform vendor name on Packagist for packages made by rightform. Co… |
-| 2026-11-01 12:33:19 | [php-script/editor-filament](https://www.nuget.org/packages/php-script%2Feditor-filament) | v0.1.0 | Robert Kummer | Filament 5 form field (PhpScriptEditor) for the <php-script-editor> web compone… |
-| 2026-11-01 12:33:35 | [php-script/editor-laravel](https://www.nuget.org/packages/php-script%2Feditor-laravel) | v0.1.0 | Robert Kummer | Laravel integration (Blade component, config endpoint, lint response, validatio… |
-| 2026-11-01 12:34:41 | [owebstudio/kirby-search-insights](https://www.nuget.org/packages/owebstudio%2Fkirby-search-insights) | 1.0.0 | oweb studio | Shows what visitors search for on your Kirby site, which searches find nothing… |
-| 2026-11-01 12:42:10 | [dynv/dynv](https://www.nuget.org/packages/dynv%2Fdynv) | v0.1.0 |  | Dependency-free PHP client for the Dynv local agent |
-| 2026-11-01 12:48:19 | [kayedspace/laravel-mcp-bridge](https://www.nuget.org/packages/kayedspace%2Flaravel-mcp-bridge) | v0.1.0 | Ali Youssef Kayed | Turn what your Laravel app already declares (routes, Artisan commands, jobs, ac… |
-| 2026-11-01 12:50:16 | [eveshipfit/esf-format](https://www.nuget.org/packages/eveshipfit%2Fesf-format) | v1.0.0 | EVEShipFit Team | Read and write esf/1, the plain-text format for EVE Online ship fits |
+| 2026-11-01 13:33:26 | [spkm/fortinac](https://www.nuget.org/packages/spkm%2Ffortinac) | v1.0.1 | Simon Mitchell | Integrate with the Fortinet FortiNAC-F REST API using SaloonPHP |
+| 2026-11-01 13:33:47 | [marko/queue-redis](https://www.nuget.org/packages/marko%2Fqueue-redis) | 0.12.0 |  | Redis queue driver for Marko Framework |
+| 2026-11-01 13:39:24 | [evolvaru/laravel-query-duplicates](https://www.nuget.org/packages/evolvaru%2Flaravel-query-duplicates) | v0.1.0 |  | Detect duplicated SQL queries and N+1 queries inside Laravel HTTP requests. |
+| 2026-11-01 13:47:36 | [jelix/ldap-client](https://www.nuget.org/packages/jelix%2Fldap-client) | v1.0.0-beta.1 | Laurent Jouanneau | library to authenticate against an Ldap server or Active Directory. Users accou… |
+| 2026-11-01 13:57:36 | [khurrambaig/hr-management](https://www.nuget.org/packages/khurrambaig%2Fhr-management) | v1.0.0 | Mirza Khurram Baig | HR management package: departments, employees, attendance, leaves and annual le… |
+| 2026-11-01 14:15:15 | [dbout/wp-foundation](https://www.nuget.org/packages/dbout%2Fwp-foundation) | v1.0.0-rc.1 | Dimitri BOUTEILLE | Lightweight application foundation for WordPress: service container, attribute-… |
 
 ## Data source
 
