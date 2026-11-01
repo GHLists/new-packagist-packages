@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 10:20 UTC
+## Latest list — 2026-11-01 11:20 UTC
 
-New packages created between 2026-11-01 09:20 UTC and 2026-11-01 10:20 UTC.
+New packages created between 2026-11-01 10:20 UTC and 2026-11-01 11:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-01T10-20-55-421445Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-01T11-20-30-83738Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-01 09:47:18 | [abdurrahaman/laravel-seo](https://www.nuget.org/packages/abdurrahaman%2Flaravel-seo) | v1.0.0 | Abdurrahaman | A comprehensive SEO management package for Laravel applications, inspired by Yo… |
+| 2026-11-01 11:02:38 | [voku/agent-skills](https://www.nuget.org/packages/voku%2Fagent-skills) | v0.1.0 |  | Portable, tool-neutral engineering skills for coding agents. |
+| 2026-11-01 11:08:42 | [passioncorners/up-keep-agent](https://www.nuget.org/packages/passioncorners%2Fup-keep-agent) | v1.0.0 |  | Reports a Laravel app's errors, health and server stats to up-keep on one secre… |
+| 2026-11-01 11:10:34 | [tualo/dbchecker](https://www.nuget.org/packages/tualo%2Fdbchecker) | 1.0.1 |  | DB Vitality Package Tualo Office |
 
 ## Data source
 
