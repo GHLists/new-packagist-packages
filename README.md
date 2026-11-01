@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 09:20 UTC
+## Latest list — 2026-11-01 10:20 UTC
 
-New packages created between 2026-11-01 08:21 UTC and 2026-11-01 09:20 UTC.
+New packages created between 2026-11-01 09:20 UTC and 2026-11-01 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-01T09-20-51-354275Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-01T10-20-55-421445Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-01 08:29:11 | [kumanphp/app](https://www.nuget.org/packages/kumanphp%2Fapp) | 0.1 |  | Application skeleton for the Kuman microframework. |
+| 2026-11-01 09:47:18 | [abdurrahaman/laravel-seo](https://www.nuget.org/packages/abdurrahaman%2Flaravel-seo) | v1.0.0 | Abdurrahaman | A comprehensive SEO management package for Laravel applications, inspired by Yo… |
 
 ## Data source
 
