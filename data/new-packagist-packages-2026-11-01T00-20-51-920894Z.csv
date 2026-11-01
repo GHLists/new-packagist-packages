@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-10-31T23:30:39Z,cacheerphp/laravel,v1.0.1,Silvio Silva,"A Laravel cache driver backed by CacheerPHP: keep using Cache:: and get CacheerPHP's stores, failover, encryption and monitoring underneath."
+2026-10-31T23:39:33Z,mj-zana/skeleton-api,v2.9.0,,"A starting point for a Zana JSON API: modules, bearer tokens, problem JSON errors, a database, and instructions for AI coding agents"
+2026-10-31T23:51:11Z,mtubis/html-translator-bundle,v0.1.0,Magdalena Tubis,"Symfony bundle for mtubis/html-translator: translate HTML with LLMs (OpenAI, Anthropic, Gemini, Ollama, …) while preserving markup — configuration, services, HttpClient, cache, console and profiler."
