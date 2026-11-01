@@ -1,0 +1,29 @@
+created_at,package,version,author,description
+2026-11-01T14:19:31Z,windandkite/module-storyblok-schema,3.0.0,Wind and Kite,"Generate, validate and import Storyblok component schemas from Magento blok templates"
+2026-11-01T14:42:14Z,zarbinco/laravel-nearby,v1.0.0,Zarbinco,Geographic distance calculations and Eloquent proximity queries for Laravel.
+2026-11-01T14:47:45Z,jevo/templatesedit-evo,0.0.3,,TemplatesEdit plugin for Evolution CMS
+2026-11-01T14:57:25Z,pixelperfectat/magento2-module-sales-email,1.0.0,,Modern order confirmation and shipment emails with a configurable invitation block
+2026-11-01T14:57:46Z,pixelperfectat/magento2-module-discount-lines,1.0.0,,"Itemised discount lines (coupon, automatic, gift, free shipping) in cart, checkout and sales documents"
+2026-11-01T14:58:54Z,alia/magento2,0.1.0,,"Connects a Magento store to Alia for popups, discount codes and revenue reporting."
+2026-11-01T15:03:21Z,pixelperfectat/magento2-module-discount-lines-hyva-checkout,1.0.0,,Hyvä Checkout renderer for the Discount Lines module: one price summary line per discount
+2026-11-01T15:03:25Z,pixelperfectat/magento2-module-discount-lines-hyva-theme,1.0.0,,Hyvä default theme cart renderer for the Discount Lines module: one totals line per discount
+2026-11-01T15:03:29Z,pixelperfectat/magento2-module-discount-lines-luma,1.0.0,,Luma cart and checkout renderer for the Discount Lines module: one totals line per discount
+2026-11-01T15:03:33Z,pixelperfectat/magento2-module-discount-lines-amasty-promo,1.0.0,,Amasty Free Gift adapter for the Discount Lines module: gift coupons show as a gift line
+2026-11-01T15:03:37Z,pixelperfectat/magento2-module-discount-lines-mageplaza-giftcard,1.0.0,,"Mageplaza Gift Card adapter for the Discount Lines module: masked, contract-conformant gift card lines on every surface"
+2026-11-01T15:04:23Z,letterncms/composer-plugin,0.1.0,,Puts plugins in the site's plugins/ folder and keeps a site's front controller current.
+2026-11-01T15:04:52Z,letterncms/blocks,0.1.0,,"Live block editing with the site renderer, reusable components and templates, styles, data bindings and Block Markdown."
+2026-11-01T15:05:12Z,letterncms/site,0.1.0,,"Design system (content/design), page templates, routing, rendering, previews and static builds."
+2026-11-01T15:05:28Z,letterncms/media,0.1.0,,"Media library: safe uploads, folders, alt text, focal points and responsive AVIF/WebP images."
+2026-11-01T15:05:41Z,letterncms/navigation,0.1.0,,"Menus: nested links to entries and URLs, edited with drag and drop, shown with the Repeat block and kept in sync when pages move."
+2026-11-01T15:05:54Z,letterncms/seo,0.1.0,,"Search and generative engine optimization: meta tags, social cards, JSON-LD, sitemap, robots and AI crawlers, llms.txt, Markdown twins, redirects and on-page checks."
+2026-11-01T15:06:07Z,letterncms/forms,0.1.0,,"Form builder on the block editor, spam-protected submissions for static sites, notifications, confirmations, webhooks and an inbox."
+2026-11-01T15:06:20Z,letterncms/mail,0.1.0,,"Email delivery for the CMS and its plugins: SMTP, sendmail or log, provider plugins, branded templates and a delivery log."
+2026-11-01T15:06:38Z,letterncms/assistant,0.1.0,,"An AI assistant inside the admin that builds and edits the site with abilities, as the signed-in user."
+2026-11-01T15:06:52Z,letterncms/mcp,0.1.0,,"Connect AI clients over the Model Context Protocol: every ability becomes a tool, signed in with OAuth."
+2026-11-01T15:07:09Z,letterncms/analytics,0.1.0,,"Site analytics on your own server: page views per day by default, with visitors, sources and devices as an option."
+2026-11-01T15:07:23Z,letterncms/collab,0.1.0,,"Work together: who is viewing or editing a page, comment threads with @mentions and email notifications, and an inbox of what needs you."
+2026-11-01T15:07:38Z,letterncms/i18n,0.1.0,,"Multilingual sites: languages, translations linked to their original, localized URLs, hreflang, language switcher and AI translation."
+2026-11-01T15:07:49Z,letterncms/brevo,0.1.0,,Send email through Brevo's transactional API.
+2026-11-01T15:09:54Z,cgoit/contao-sitewatch-bundle,v0.1.0,Carsten Götzinger,"Meldet den Zustand einer Contao-Installation (Versionen, Wartungsmodus, Log-Fehler) per Push an Sitewatch. Für Hosting ohne eigene Programme, z. B. Shared Hosting."
+2026-11-01T15:13:06Z,letterncms/cms,0.1.0,,"The kernel — plugins, abilities, content, users and APIs."
+2026-11-01T15:13:45Z,letterncms/lettern,v0.1.0,,"A new site. Run composer install, or open it in a browser and it fetches the release itself."
