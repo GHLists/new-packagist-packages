@@ -15,16 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 02:21 UTC
+## Latest list — 2026-11-01 03:19 UTC
 
-New packages created between 2026-11-01 01:18 UTC and 2026-11-01 02:21 UTC.
+New packages created between 2026-11-01 02:21 UTC and 2026-11-01 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-01T02-21-11-39553Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-01T03-19-20-105493Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-01 01:20:54 | [tru-laravel-club/blsc-guide](https://www.nuget.org/packages/tru-laravel-club%2Fblsc-guide) | v0.1.0 |  | A step-by-step contributor guide for the BIG Little Science Centre website. Ins… |
-| 2026-11-01 01:53:25 | [wodzy/disposable-email](https://www.nuget.org/packages/wodzy%2Fdisposable-email) | v1.0.0 | Walid Oukaci | Lightweight, dependency-free PHP library that blocks disposable (throwaway) ema… |
+| 2026-11-01 02:21:14 | [wodzy/cakephp-disposable-email](https://www.nuget.org/packages/wodzy%2Fcakephp-disposable-email) | v1.0.1 | Walid Oukaci | CakePHP plugin that blocks disposable (throwaway) email addresses, powered by w… |
+| 2026-11-01 02:40:02 | [webware/asciidoc-php](https://www.nuget.org/packages/webware%2Fasciidoc-php) | 0.1.0 | Joey (aka Tyrsson) Smith | A PHP port of the Asciidoctor toolchain that converts AsciiDoc source files to… |
+| 2026-11-01 02:41:37 | [hamada-emam-tech/einvoice-eta](https://www.nuget.org/packages/hamada-emam-tech%2Feinvoice-eta) | v0.1.0 |  | Egypt ETA eInvoicing for hamada-emam-tech/einvoice: the v1.0 JSON document, ETA… |
+| 2026-11-01 02:41:38 | [hamada-emam-tech/einvoice-keysource-agent](https://www.nuget.org/packages/hamada-emam-tech%2Feinvoice-keysource-agent) | v0.1.0 |  | A KeySource for hamada-emam-tech/einvoice that signs with a USB token or HSM th… |
+| 2026-11-01 02:46:30 | [oocscommerce/magento2-souin-cache](https://www.nuget.org/packages/oocscommerce%2Fmagento2-souin-cache) | 1.0.0 |  | Souin (Caddy cache-handler) full page cache application for Magento 2 |
 
 ## Data source
 
