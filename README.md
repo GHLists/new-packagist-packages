@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 05:20 UTC
+## Latest list — 2026-11-01 06:19 UTC
 
-New packages created between 2026-11-01 04:20 UTC and 2026-11-01 05:20 UTC.
+New packages created between 2026-11-01 05:20 UTC and 2026-11-01 06:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-01T05-20-15-683955Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-01T06-19-13-570307Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-01 04:55:15 | [tacraft-sociality/flarum-qq-oauth](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-qq-oauth) | 1.0.0 | TCS Dev HUB | QQ (Tencent) OAuth login for Flarum 2, with an uploadable custom login button i… |
+| 2026-11-01 05:41:57 | [epixel/licence-guard](https://www.nuget.org/packages/epixel%2Flicence-guard) | v1.0.0 |  | Checks a signed licence file before a Laravel application opens. |
+| 2026-11-01 05:47:36 | [hipdevteam/ion-mu](https://www.nuget.org/packages/hipdevteam%2Fion-mu) | v3.5.3 | ION | ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Inte… |
+| 2026-11-01 06:08:43 | [rulli/laravel-onedrive](https://www.nuget.org/packages/rulli%2Flaravel-onedrive) | v1.0.0 | Rulli Wuji Wijianto | Laravel package untuk OneDrive Personal (Microsoft account) dengan login perman… |
 
 ## Data source
 
