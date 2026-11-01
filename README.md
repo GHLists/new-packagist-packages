@@ -15,17 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 11:20 UTC
+## Latest list — 2026-11-01 12:20 UTC
 
-New packages created between 2026-11-01 10:20 UTC and 2026-11-01 11:20 UTC.
+New packages created between 2026-11-01 11:20 UTC and 2026-11-01 12:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-01T11-20-30-83738Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-01T12-20-43-400989Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-01 11:02:38 | [voku/agent-skills](https://www.nuget.org/packages/voku%2Fagent-skills) | v0.1.0 |  | Portable, tool-neutral engineering skills for coding agents. |
-| 2026-11-01 11:08:42 | [passioncorners/up-keep-agent](https://www.nuget.org/packages/passioncorners%2Fup-keep-agent) | v1.0.0 |  | Reports a Laravel app's errors, health and server stats to up-keep on one secre… |
-| 2026-11-01 11:10:34 | [tualo/dbchecker](https://www.nuget.org/packages/tualo%2Fdbchecker) | 1.0.1 |  | DB Vitality Package Tualo Office |
+| 2026-11-01 11:20:32 | [nowo-tech/messenger-monitor-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fmessenger-monitor-kit-bundle) | v1.0.0 | Héctor Franco Aceituno; Nowo.… | Symfony Messenger monitoring on top of zenstruck/messenger-monitor-bundle: runt… |
+| 2026-11-01 11:24:06 | [spkm/aruba-central](https://www.nuget.org/packages/spkm%2Faruba-central) | v1.0.0 | Simon Mitchell | Integrate with the Aruba Central APIs, classic and new, using SaloonPHP |
+| 2026-11-01 11:25:13 | [dongasai/dbcheck](https://www.nuget.org/packages/dongasai%2Fdbcheck) | 1.0.2 |  | 数据库结构/数据自检与修复框架（按表三类检查：表结构、固定数据、字段明细） |
+| 2026-11-01 11:56:31 | [abdur-rahaman/laravel-seo](https://www.nuget.org/packages/abdur-rahaman%2Flaravel-seo) | v1.1.0 | Abdurrahaman | A comprehensive SEO management package for Laravel applications, inspired by Yo… |
+| 2026-11-01 12:01:16 | [hub-io/laravel-hubio-sync](https://www.nuget.org/packages/hub-io%2Flaravel-hubio-sync) | v0.1.0 | Hubio s.r.o.; Ján Hamrák | Backup, sharing and photo synchronization of Hubio NativePHP apps through Hubio… |
 
 ## Data source
 

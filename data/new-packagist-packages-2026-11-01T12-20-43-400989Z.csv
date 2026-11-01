@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-01T11:20:32Z,nowo-tech/messenger-monitor-kit-bundle,v1.0.0,Héctor Franco Aceituno; Nowo.tech,"Symfony Messenger monitoring on top of zenstruck/messenger-monitor-bundle: runtime recording toggle, batched purge and retention, safe retry to the original transport, queue depth, payload redaction and a UiKit admin UI."
+2026-11-01T11:24:06Z,spkm/aruba-central,v1.0.0,Simon Mitchell,"Integrate with the Aruba Central APIs, classic and new, using SaloonPHP"
+2026-11-01T11:25:13Z,dongasai/dbcheck,1.0.2,,数据库结构/数据自检与修复框架（按表三类检查：表结构、固定数据、字段明细）
+2026-11-01T11:56:31Z,abdur-rahaman/laravel-seo,v1.1.0,Abdurrahaman,"A comprehensive SEO management package for Laravel applications, inspired by Yoast SEO."
+2026-11-01T12:01:16Z,hub-io/laravel-hubio-sync,v0.1.0,Hubio s.r.o.; Ján Hamrák,"Backup, sharing and photo synchronization of Hubio NativePHP apps through Hubio.Space (api/sync/v1/{app})."
