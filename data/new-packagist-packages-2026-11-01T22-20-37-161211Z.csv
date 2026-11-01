@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-01T21:31:09Z,uams-web/aether-redirects,v0.1.0,UAMS Web Services; Josh Daugherty,"Redirect rules for Statamic: a redirects global set served on the 404 path, rules on redirect domains, an edge redirect manifest, and a marketing-redirect request and approval workflow."
+2026-11-01T21:31:09Z,uams-web/statamic-redirects,v0.1.0,UAMS Web Services; Josh Daugherty,"Redirect rules for Statamic: a redirects global set served on the 404 path, rules on redirect domains, an edge redirect manifest, and a marketing-redirect request and approval workflow."
