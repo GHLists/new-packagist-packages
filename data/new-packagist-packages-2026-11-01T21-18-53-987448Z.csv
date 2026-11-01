@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-01T20:45:12Z,proclame/clubplanner-be-php-sdk,v1.0.0,,PHP SDK for the Club Planner Partner API.
+2026-11-01T20:50:23Z,korzen/bot-protection,1.0.0,Korzen,Korzen Bot Protection for PHP: asks POST /v1/decide before a protected action and fails open. A PSR-15 middleware and a Laravel middleware.
+2026-11-01T20:54:03Z,gyro/attribute-collector,v0.9,Benjamin Eberlei,Collects PHP attribute targets from the root package and from its Composer dependencies.
