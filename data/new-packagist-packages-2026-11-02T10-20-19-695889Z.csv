@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-02T09:27:35Z,poli-page/laravel,v0.13.0,Poli Page,Laravel package for the Poli Page PDF rendering API
+2026-11-02T09:27:38Z,poli-page/symfony,v0.13.0,Poli Page,Symfony bundle for the Poli Page PDF rendering API
+2026-11-02T09:36:46Z,actualizer/sulu-passkey,v0.1.0,,"Passkey (WebAuthn) login for the Sulu admin, with management in the user profile."
+2026-11-02T09:45:50Z,neomasterr/php-cron-scheduler,v4.1,Giuseppe Occhipinti; Carsten Windler,PHP Cron Job Scheduler
+2026-11-02T09:48:05Z,tomylana93/jcf,v1.0.0,,"A modern, modular starterkit for building simple, purposeful applications."
+2026-11-02T09:57:14Z,mage2kishan/module-error-monitor,1.8.1,Kishan Savaliya,"Panth Error Monitor - smart, secure error management for Magento 2. Captures PHP exceptions and storefront JavaScript console errors into deduplicated, grouped database records, and sends throttled digest email alerts so your inbox is never flooded. Includes an admin review grid, severity-based fil…"

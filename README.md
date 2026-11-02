@@ -15,23 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 09:22 UTC
+## Latest list — 2026-11-02 10:20 UTC
 
-New packages created between 2026-11-02 08:20 UTC and 2026-11-02 09:22 UTC.
+New packages created between 2026-11-02 09:22 UTC and 2026-11-02 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-02T09-22-01-439937Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-02T10-20-19-695889Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-02 08:20:55 | [kopexa/mautic-oauth-bundle](https://www.nuget.org/packages/kopexa%2Fmautic-oauth-bundle) | v0.2.1 | Kopexa | OAuth 2.1 authorization server for Mautic (authorization code + PKCE S256, refr… |
-| 2026-11-02 08:20:58 | [kopexa/mautic-mcp-bundle](https://www.nuget.org/packages/kopexa%2Fmautic-mcp-bundle) | v0.4.1 | Kopexa | Model Context Protocol (MCP) server for Mautic: lets Claude, ChatGPT and other… |
-| 2026-11-02 08:21:00 | [kopexa/mautic-postal-bundle](https://www.nuget.org/packages/kopexa%2Fmautic-postal-bundle) | v0.1.1 | Kopexa | Postal mail server integration for Mautic: bounce and delivery-failure webhooks… |
-| 2026-11-02 08:30:52 | [glue-agency/akeneo-glue-backoffice](https://www.nuget.org/packages/glue-agency%2Fakeneo-glue-backoffice) | 1.0.1 |  | Reports an Akeneo PIM to the Glue Dashboard after each deploy |
-| 2026-11-02 08:34:15 | [pkc/barcode-qrcode](https://www.nuget.org/packages/pkc%2Fbarcode-qrcode) | v1.0.0 | PKC | Laravel Barcode & QR Code generator with SVG, HTML, and optional PNG output |
-| 2026-11-02 08:37:12 | [colombia-kit/colombia-kit](https://www.nuget.org/packages/colombia-kit%2Fcolombia-kit) | v0.1.0 |  | Utilidades para datos colombianos en PHP: NIT con dígito de verificación, depar… |
-| 2026-11-02 08:44:15 | [infinityinnovationsdev/codeigniter4-encrypted-env](https://www.nuget.org/packages/infinityinnovationsdev%2Fcodeigniter4-encrypted-env) | v1.1.1 |  | Optional AES-256-GCM encrypted environment values for CodeIgniter 4 |
-| 2026-11-02 08:52:44 | [innoge/laravel-msgraph-mailbox](https://www.nuget.org/packages/innoge%2Flaravel-msgraph-mailbox) | v1.0.0 | Tim Geisendoerfer | Observe Microsoft 365 mailboxes via Microsoft Graph change notifications and de… |
-| 2026-11-02 09:07:59 | [fivejars/media_directories_element](https://www.nuget.org/packages/fivejars%2Fmedia_directories_element) | 1.0.0 | Five Jars | Provides the media_directories form element: the Media Directories browser widg… |
+| 2026-11-02 09:27:35 | [poli-page/laravel](https://www.nuget.org/packages/poli-page%2Flaravel) | v0.13.0 | Poli Page | Laravel package for the Poli Page PDF rendering API |
+| 2026-11-02 09:27:38 | [poli-page/symfony](https://www.nuget.org/packages/poli-page%2Fsymfony) | v0.13.0 | Poli Page | Symfony bundle for the Poli Page PDF rendering API |
+| 2026-11-02 09:36:46 | [actualizer/sulu-passkey](https://www.nuget.org/packages/actualizer%2Fsulu-passkey) | v0.1.0 |  | Passkey (WebAuthn) login for the Sulu admin, with management in the user profil… |
+| 2026-11-02 09:45:50 | [neomasterr/php-cron-scheduler](https://www.nuget.org/packages/neomasterr%2Fphp-cron-scheduler) | v4.1 | Giuseppe Occhipinti; Carsten… | PHP Cron Job Scheduler |
+| 2026-11-02 09:48:05 | [tomylana93/jcf](https://www.nuget.org/packages/tomylana93%2Fjcf) | v1.0.0 |  | A modern, modular starterkit for building simple, purposeful applications. |
+| 2026-11-02 09:57:14 | [mage2kishan/module-error-monitor](https://www.nuget.org/packages/mage2kishan%2Fmodule-error-monitor) | 1.8.1 | Kishan Savaliya | Panth Error Monitor - smart, secure error management for Magento 2. Captures PH… |
 
 ## Data source
 
