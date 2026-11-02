@@ -15,20 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 18:22 UTC
+## Latest list — 2026-11-02 19:22 UTC
 
-New packages created between 2026-11-02 17:20 UTC and 2026-11-02 18:22 UTC.
+New packages created between 2026-11-02 18:22 UTC and 2026-11-02 19:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-02T18-22-50-204224Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-02T19-22-39-375373Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-02 17:36:12 | [liberusoftware/real-estate-vr-design-api](https://www.nuget.org/packages/liberusoftware%2Freal-estate-vr-design-api) | 1.0.0 |  | Versioned API adapter for real-estate VR designs. |
-| 2026-11-02 17:36:24 | [liberusoftware/real-estate-vr-design-livewire](https://www.nuget.org/packages/liberusoftware%2Freal-estate-vr-design-livewire) | 1.0.0 |  | Livewire VR property design studio. |
-| 2026-11-02 17:40:56 | [janalis/porta-assist](https://www.nuget.org/packages/janalis%2Fporta-assist) | v0.1.1 |  | Work on one project together, live: a host shares it over the network, guests j… |
-| 2026-11-02 17:42:34 | [pdftoolkit/html-to-pdf](https://www.nuget.org/packages/pdftoolkit%2Fhtml-to-pdf) | v0.1.0 | Mathias STRASSER | Object-oriented HTML and CSS pagination to tagged PDF in native PHP |
-| 2026-11-02 17:49:25 | [balt1794/contao-alt-text-generator-ai](https://www.nuget.org/packages/balt1794%2Fcontao-alt-text-generator-ai) | 1.0.0 | Bryam Loaiza | Write SEO-friendly alt text for the images in your Contao file manager with AI,… |
-| 2026-11-02 18:08:05 | [damconsultants/tectake](https://www.nuget.org/packages/damconsultants%2Ftectake) | 1.0.0 | DamConsultants | DamConsultants Tectake for Magento 2 |
+| 2026-11-02 18:26:28 | [janalis/easyadmin-embedded-list](https://www.nuget.org/packages/janalis%2Feasyadmin-embedded-list) | v0.1.0 |  | Embedded lists for EasyAdmin forms: show a related entity's own CRUD index, pag… |
+| 2026-11-02 19:10:28 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.11.0 |  | The skeleton application for the Laravel framework. |
+| 2026-11-02 19:19:37 | [ehundu/andamio-evento](https://www.nuget.org/packages/ehundu%2Fandamio-evento) | v1.0.0 |  | Un sitio para un evento hecho con Ehundu, con cuenta atrás, programa por días,… |
 
 ## Data source
 

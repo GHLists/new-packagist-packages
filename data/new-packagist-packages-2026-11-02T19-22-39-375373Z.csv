@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-02T18:26:28Z,janalis/easyadmin-embedded-list,v0.1.0,,"Embedded lists for EasyAdmin forms: show a related entity's own CRUD index, paginated, sortable and filterable, inside an edit form."
+2026-11-02T19:10:28Z,nubos/starterkit,v1.11.0,,The skeleton application for the Laravel framework.
+2026-11-02T19:19:37Z,ehundu/andamio-evento,v1.0.0,,"Un sitio para un evento hecho con Ehundu, con cuenta atrás, programa por días, ponentes con su ficha, entradas que salen y caducan en su fecha, calendario, lugar y páginas legales de modelo, para empezar."
