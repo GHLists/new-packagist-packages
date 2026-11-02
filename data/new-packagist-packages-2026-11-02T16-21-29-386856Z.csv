@@ -1,0 +1,360 @@
+created_at,package,version,author,description
+2026-11-02T15:35:55Z,liberusoftware/module-accounting-general-ledger,1.0.0,,"Journals, balanced postings, reversals, corrections, allocations, accruals, prepayments, and balances."
+2026-11-02T15:35:55Z,liberusoftware/module-cms-recommendations-livewire,0.1.0,,Livewire adapter for CMS Recommendations.
+2026-11-02T15:35:56Z,liberusoftware/module-crm-forms-and-surveys,v1.0.0,,"Schema-driven forms and surveys with consent, attribution, spam controls and follow-up"
+2026-11-02T15:36:01Z,liberusoftware/module-accounting-general-ledger-api,1.0.0,,Authenticated API adapter for the accounting general ledger.
+2026-11-02T15:36:02Z,liberusoftware/module-cms-redirects,0.1.0,,CMS Redirects domain module.
+2026-11-02T15:36:03Z,liberusoftware/module-crm-forms-and-surveys-api,v1.0.0,,"HTTP presentation for forms, surveys and submissions"
+2026-11-02T15:36:07Z,liberusoftware/module-accounting-general-ledger-filament,1.0.0,,Filament adapter for the accounting general ledger.
+2026-11-02T15:36:08Z,liberusoftware/module-cms-redirects-api,0.1.0,,API adapter for CMS Redirects.
+2026-11-02T15:36:11Z,liberusoftware/module-crm-forms-and-surveys-filament,v1.0.0,,Filament form and survey builder
+2026-11-02T15:36:12Z,whitemarket/sdk,v0.1.0,,"Official PHP SDK for the WhiteMarket partner API (CS2 skins marketplace): GraphQL, export files, live updates."
+2026-11-02T15:36:13Z,liberusoftware/module-accounting-general-ledger-livewire,1.0.0,,Livewire adapter for the accounting general ledger.
+2026-11-02T15:36:15Z,liberusoftware/module-cms-redirects-filament,0.1.0,,Filament adapter for CMS Redirects.
+2026-11-02T15:36:18Z,liberusoftware/module-crm-forms-and-surveys-livewire,v1.0.0,,Livewire form and survey submission workspace
+2026-11-02T15:36:20Z,liberusoftware/module-accounting-goods-and-service-receipts,1.0.0,,"Goods and service receipts, quantities, variance, returns, attachments and accruals."
+2026-11-02T15:36:22Z,liberusoftware/module-cms-redirects-livewire,0.1.0,,Livewire adapter for CMS Redirects.
+2026-11-02T15:36:25Z,liberusoftware/module-crm-goals-and-performance,v1.0.0,,"Goals, targets, scorecards, leaderboards, reviews, coaching and performance history"
+2026-11-02T15:36:27Z,liberusoftware/module-accounting-goods-and-service-receipts-api,1.0.0,,HTTP API for goods and service receipts.
+2026-11-02T15:36:29Z,liberusoftware/module-cms-regions-and-widgets,0.1.0,,CMS regions and widgets domain module.
+2026-11-02T15:36:32Z,liberusoftware/module-crm-goals-and-performance-api,v1.0.0,,"HTTP presentation for goals, scorecards and reviews"
+2026-11-02T15:36:33Z,liberusoftware/module-accounting-goods-and-service-receipts-filament,1.0.0,,Filament 5 UI for goods and service receipts.
+2026-11-02T15:36:36Z,liberusoftware/module-cms-regions-and-widgets-api,0.1.0,,API adapter for CMS Regions and Widgets.
+2026-11-02T15:36:38Z,liberusoftware/module-crm-goals-and-performance-filament,v1.0.0,,Filament performance workspace
+2026-11-02T15:36:39Z,liberusoftware/module-accounting-goods-and-service-receipts-livewire,1.0.0,,Livewire 4 UI for goods and service receipts.
+2026-11-02T15:36:42Z,liberusoftware/module-cms-regions-and-widgets-filament,0.1.0,,Filament adapter for CMS Regions and Widgets.
+2026-11-02T15:36:44Z,liberusoftware/module-crm-goals-and-performance-livewire,v1.0.0,,"Livewire goals, leaderboard and review workspace"
+2026-11-02T15:36:46Z,liberusoftware/module-accounting-intercompany,1.0.0,,"Intercompany counterparties, trading rules, paired transactions, settlement, evidence and reconciliation."
+2026-11-02T15:36:49Z,liberusoftware/module-cms-regions-and-widgets-livewire,0.1.0,,Livewire adapter for CMS Regions and Widgets.
+2026-11-02T15:36:50Z,liberusoftware/module-crm-journey-orchestration,v1.0.0,,"Triggered and scheduled journeys with branching, controls, experiments and publication"
+2026-11-02T15:36:53Z,liberusoftware/module-accounting-intercompany-api,1.0.0,,HTTP API for intercompany accounting.
+2026-11-02T15:36:55Z,liberusoftware/module-cms-related-content,0.1.0,,CMS related content domain module.
+2026-11-02T15:36:57Z,liberusoftware/module-crm-journey-orchestration-api,v1.0.0,,HTTP presentation for journeys and runs
+2026-11-02T15:37:00Z,liberusoftware/module-accounting-intercompany-filament,1.0.0,,Filament 5 UI for intercompany accounting.
+2026-11-02T15:37:03Z,liberusoftware/module-cms-related-content-api,0.1.0,,API adapter for CMS Related Content.
+2026-11-02T15:37:05Z,liberusoftware/module-crm-journey-orchestration-filament,v1.0.0,,Filament journey builder workspace
+2026-11-02T15:37:08Z,liberusoftware/module-accounting-intercompany-livewire,1.0.0,,Livewire 4 UI for intercompany accounting.
+2026-11-02T15:37:09Z,liberusoftware/module-cms-related-content-filament,0.1.0,,Filament adapter for CMS Related Content.
+2026-11-02T15:37:11Z,liberusoftware/module-crm-journey-orchestration-livewire,v1.0.0,,Livewire journey builder and run dashboard
+2026-11-02T15:37:14Z,liberusoftware/module-accounting-inventory-accounting,1.0.0,,"Inventory valuation, cost layers, cost of sales, landed costs, adjustments, write-downs and reconciliation."
+2026-11-02T15:37:16Z,liberusoftware/module-cms-related-content-livewire,0.1.0,,Livewire adapter for CMS Related Content.
+2026-11-02T15:37:17Z,liberusoftware/module-crm-knowledge,v1.0.0,,"Internal and public knowledge articles, versions, approvals, feedback and stale-content controls"
+2026-11-02T15:37:20Z,liberusoftware/module-accounting-inventory-accounting-api,1.0.0,,HTTP API for inventory accounting.
+2026-11-02T15:37:23Z,liberusoftware/module-cms-revisions,0.1.0,,CMS immutable revisions and editorial versioning.
+2026-11-02T15:37:23Z,liberusoftware/module-crm-knowledge-api,v1.0.0,,HTTP presentation for knowledge articles and feedback
+2026-11-02T15:37:27Z,liberusoftware/module-accounting-inventory-accounting-filament,1.0.0,,Filament 5 UI for inventory accounting.
+2026-11-02T15:37:29Z,liberusoftware/module-crm-knowledge-filament,v1.0.0,,Filament knowledge article workspace
+2026-11-02T15:37:33Z,liberusoftware/module-accounting-inventory-accounting-livewire,1.0.0,,Livewire 4 UI for inventory accounting.
+2026-11-02T15:37:35Z,liberusoftware/module-cms-revisions-filament,0.1.0,,Filament adapter for CMS Revisions.
+2026-11-02T15:37:37Z,liberusoftware/module-crm-knowledge-livewire,v1.0.0,,Livewire knowledge search and review workspace
+2026-11-02T15:37:40Z,liberusoftware/module-accounting-job-estimates,1.0.0,,"Job estimates, versions, approvals, actual comparison and estimate at completion."
+2026-11-02T15:37:42Z,liberusoftware/module-cms-revisions-livewire,0.1.0,,Livewire adapter for CMS Revisions.
+2026-11-02T15:37:43Z,liberusoftware/module-crm-landing-pages-and-funnels,v1.0.0,,"Multi-step funnels, landing pages, forms, domains, publishing and conversion tracking"
+2026-11-02T15:37:46Z,liberusoftware/module-accounting-job-estimates-api,1.0.0,,HTTP API for job estimates.
+2026-11-02T15:37:48Z,liberusoftware/module-cms-rich-text-editor,0.1.0,,CMS semantic rich text editing and sanitization.
+2026-11-02T15:37:49Z,liberusoftware/module-crm-landing-pages-and-funnels-api,v1.0.0,,HTTP presentation for funnels and conversion events
+2026-11-02T15:37:52Z,liberusoftware/module-accounting-job-estimates-filament,1.0.0,,Filament 5 UI for job estimates.
+2026-11-02T15:37:55Z,liberusoftware/module-cms-rich-text-editor-api,0.1.0,,API adapter for CMS Rich Text Editor.
+2026-11-02T15:37:58Z,liberusoftware/module-accounting-job-estimates-livewire,1.0.0,,Livewire 4 UI for job estimates.
+2026-11-02T15:37:59Z,liberusoftware/module-crm-landing-pages-and-funnels-filament,v1.0.0,,Filament funnel builder workspace
+2026-11-02T15:38:01Z,liberusoftware/module-cms-rich-text-editor-filament,0.1.0,,Filament adapter for CMS Rich Text Editor.
+2026-11-02T15:38:05Z,liberusoftware/module-crm-landing-pages-and-funnels-livewire,v1.0.0,,Livewire funnel preview and conversion workspace
+2026-11-02T15:38:08Z,liberusoftware/module-cms-rich-text-editor-livewire,0.1.0,,Livewire adapter for CMS Rich Text Editor.
+2026-11-02T15:38:12Z,liberusoftware/module-crm-lead-capture,v1.0.0,,"Multichannel lead inbox, capture sources, forms, surveys, referrals and attribution metadata"
+2026-11-02T15:38:16Z,liberusoftware/module-cms-security-operations,0.1.0,,CMS security operations and integrity tooling.
+2026-11-02T15:38:18Z,liberusoftware/module-crm-lead-capture-api,v1.0.0,,HTTP presentation for multichannel lead capture
+2026-11-02T15:38:23Z,liberusoftware/module-cms-security-operations-api,0.1.0,,API adapter for CMS Security Operations.
+2026-11-02T15:38:29Z,liberusoftware/module-cms-security-operations-filament,0.1.0,,Filament adapter for CMS Security Operations.
+2026-11-02T15:38:29Z,liberusoftware/module-crm-lead-capture-filament,v1.0.0,,Filament lead inbox and attribution workspace
+2026-11-02T15:38:35Z,liberusoftware/module-crm-lead-capture-livewire,v1.0.0,,Livewire lead inbox and source activity workspace
+2026-11-02T15:38:36Z,liberusoftware/module-cms-security-operations-livewire,0.1.0,,Livewire adapter for CMS Security Operations.
+2026-11-02T15:38:41Z,liberusoftware/module-accounting-kpi-and-goals-livewire,1.0.0,,Livewire 4 UI for KPI and goals.
+2026-11-02T15:38:41Z,liberusoftware/module-crm-lead-qualification,v1.0.0,,"Lead lifecycle, scoring, qualification rules, nurture, disqualification and conversion"
+2026-11-02T15:38:45Z,liberusoftware/module-cms-seo-api,0.1.0,,API adapter for CMS SEO.
+2026-11-02T15:38:47Z,liberusoftware/module-accounting-leases,1.0.0,,"Accounting leases, schedules, right-of-use assets, liabilities, modifications and disclosures."
+2026-11-02T15:38:49Z,liberusoftware/module-crm-lead-qualification-api,v1.0.0,,HTTP presentation for lead qualification and lifecycle
+2026-11-02T15:38:51Z,liberusoftware/module-cms-seo-filament,0.1.0,,Filament adapter for CMS SEO.
+2026-11-02T15:38:54Z,liberusoftware/module-accounting-leases-api,1.0.0,,HTTP API for accounting leases.
+2026-11-02T15:38:55Z,liberusoftware/module-crm-lead-qualification-filament,v1.0.0,,Filament qualification and lifecycle workspace
+2026-11-02T15:38:58Z,liberusoftware/module-cms-seo-livewire,0.1.0,,Livewire adapter for CMS SEO.
+2026-11-02T15:39:00Z,liberusoftware/module-accounting-leases-filament,1.0.0,,Filament 5 UI for accounting leases.
+2026-11-02T15:39:01Z,liberusoftware/module-crm-lead-qualification-livewire,v1.0.0,,Livewire qualification and nurture workspace
+2026-11-02T15:39:06Z,liberusoftware/module-cms-site-factory,0.1.0,,"CMS site templates, provisioning, and lifecycle operations."
+2026-11-02T15:39:07Z,liberusoftware/module-accounting-leases-livewire,1.0.0,,Livewire 4 UI for accounting leases.
+2026-11-02T15:39:08Z,liberusoftware/module-crm-learning-and-courses,v1.0.0,,"Courses, lessons, cohorts, enrollment, progress, assessments, certificates and entitlements"
+2026-11-02T15:39:13Z,liberusoftware/module-cms-site-factory-api,0.1.0,,API adapter for CMS Site Factory.
+2026-11-02T15:39:14Z,liberusoftware/module-accounting-management-reporting,1.0.0,,"Management report packs, narratives, charts, schedules, review, delivery and archive."
+2026-11-02T15:39:14Z,liberusoftware/module-crm-learning-and-courses-api,v1.0.0,,HTTP presentation for learning and course access
+2026-11-02T15:39:20Z,liberusoftware/module-accounting-management-reporting-api,1.0.0,,HTTP API for management reporting.
+2026-11-02T15:39:20Z,liberusoftware/module-cms-site-factory-filament,0.1.0,,Filament adapter for CMS Site Factory.
+2026-11-02T15:39:21Z,liberusoftware/module-crm-learning-and-courses-filament,v1.0.0,,Filament course and learner workspace
+2026-11-02T15:39:26Z,liberusoftware/module-accounting-management-reporting-filament,1.0.0,,Filament 5 UI for management reporting.
+2026-11-02T15:39:27Z,liberusoftware/module-crm-learning-and-courses-livewire,v1.0.0,,Livewire learner portal and course progress workspace
+2026-11-02T15:39:28Z,liberusoftware/module-cms-site-factory-livewire,0.1.0,,Livewire adapter for CMS Site Factory.
+2026-11-02T15:39:32Z,liberusoftware/module-accounting-management-reporting-livewire,1.0.0,,Livewire 4 UI for management reporting.
+2026-11-02T15:39:33Z,liberusoftware/module-crm-loyalty,v1.0.0,,"Loyalty programs, tiers, points ledger, rewards, expiry, fraud controls and statements"
+2026-11-02T15:39:36Z,liberusoftware/module-cms-site-recipes,0.1.0,,Versioned CMS site recipes and starter bundles.
+2026-11-02T15:39:38Z,liberusoftware/module-accounting-matching-intelligence,1.0.0,,"Matching suggestions, confidence, evidence, feedback and safe automation thresholds."
+2026-11-02T15:39:39Z,liberusoftware/module-crm-loyalty-api,v1.0.0,,HTTP presentation for loyalty programs and statements
+2026-11-02T15:39:43Z,liberusoftware/module-cms-site-recipes-api,0.1.0,,API adapter for CMS Site Recipes.
+2026-11-02T15:39:44Z,liberusoftware/module-accounting-matching-intelligence-api,1.0.0,,HTTP API for matching intelligence.
+2026-11-02T15:39:45Z,liberusoftware/module-crm-loyalty-filament,v1.0.0,,Filament loyalty program and member workspace
+2026-11-02T15:39:49Z,liberusoftware/module-cms-site-recipes-filament,0.1.0,,Filament adapter for CMS Site Recipes.
+2026-11-02T15:39:50Z,liberusoftware/module-accounting-matching-intelligence-filament,1.0.0,,Filament 5 UI for matching intelligence.
+2026-11-02T15:39:51Z,liberusoftware/module-crm-loyalty-livewire,v1.0.0,,Livewire member statements and loyalty workspace
+2026-11-02T15:39:56Z,liberusoftware/module-accounting-matching-intelligence-livewire,1.0.0,,Livewire 4 UI for matching intelligence.
+2026-11-02T15:39:56Z,liberusoftware/module-cms-site-recipes-livewire,0.1.0,,Livewire adapter for CMS Site Recipes.
+2026-11-02T15:39:57Z,liberusoftware/module-crm-marketing-agent,v1.0.0,,"Marketing assistance, variations, recommendations, governance checks, experiments and approvals"
+2026-11-02T15:40:02Z,liberusoftware/module-accounting-migration-framework,1.0.0,,"Accounting migration sources, mappings, dry runs, batches, resume, errors and reconciliation."
+2026-11-02T15:40:04Z,liberusoftware/module-cms-sitemaps-api,0.1.0,,API adapter for CMS Sitemaps.
+2026-11-02T15:40:04Z,liberusoftware/module-crm-marketing-agent-api,v1.0.0,,HTTP presentation for governed marketing assistance
+2026-11-02T15:40:09Z,liberusoftware/module-accounting-migration-framework-api,1.0.0,,HTTP API for the accounting migration framework.
+2026-11-02T15:40:10Z,liberusoftware/module-crm-marketing-agent-filament,v1.0.0,,Filament workspace for marketing assistance and governance
+2026-11-02T15:40:11Z,liberusoftware/module-cms-sitemaps-filament,0.1.0,,Filament adapter for CMS Sitemaps.
+2026-11-02T15:40:15Z,liberusoftware/module-accounting-migration-framework-filament,1.0.0,,Filament 5 UI for migration framework operations.
+2026-11-02T15:40:17Z,liberusoftware/module-crm-marketing-agent-livewire,v1.0.0,,Livewire marketing assistance workspace
+2026-11-02T15:40:18Z,liberusoftware/module-cms-sitemaps-livewire,0.1.0,,Livewire adapter for CMS Sitemaps.
+2026-11-02T15:40:22Z,liberusoftware/module-accounting-migration-framework-livewire,1.0.0,,Livewire 4 UI for migration framework operations.
+2026-11-02T15:40:23Z,liberusoftware/module-crm-marketing-development-funds,v1.0.0,,"Partner marketing fund budgets, requests, approvals, evidence, claims, reimbursements and ROI"
+2026-11-02T15:40:25Z,liberusoftware/module-cms-static-publishing,0.1.0,,"CMS static builds, manifests, previews, and rollback."
+2026-11-02T15:40:28Z,liberusoftware/module-accounting-mileage,1.0.0,,"Accounting mileage capture, policy, approval, reimbursement and reporting."
+2026-11-02T15:40:29Z,liberusoftware/module-crm-marketing-development-funds-api,v1.0.0,,HTTP presentation for partner marketing funds
+2026-11-02T15:40:31Z,liberusoftware/module-cms-static-publishing-api,0.1.0,,API adapter for CMS Static Publishing.
+2026-11-02T15:40:35Z,liberusoftware/module-accounting-mileage-api,1.0.0,,HTTP API for accounting mileage.
+2026-11-02T15:40:35Z,liberusoftware/module-crm-marketing-development-funds-filament,v1.0.0,,Filament workspace for partner marketing funds
+2026-11-02T15:40:37Z,liberusoftware/module-cms-static-publishing-filament,0.1.0,,Filament adapter for CMS Static Publishing.
+2026-11-02T15:40:41Z,liberusoftware/module-accounting-mileage-filament,1.0.0,,Filament 5 UI for accounting mileage.
+2026-11-02T15:40:42Z,liberusoftware/module-crm-marketing-development-funds-livewire,v1.0.0,,Livewire partner marketing fund workspace
+2026-11-02T15:40:44Z,liberusoftware/module-cms-static-publishing-livewire,0.1.0,,Livewire adapter for CMS Static Publishing.
+2026-11-02T15:40:48Z,liberusoftware/module-accounting-mileage-livewire,1.0.0,,Livewire 4 UI for accounting mileage.
+2026-11-02T15:40:48Z,liberusoftware/module-crm-marketing-resources,v1.0.0,,"Brand kits, reusable content, campaign files, templates, approvals, rights and media references"
+2026-11-02T15:40:50Z,liberusoftware/module-cms-structured-collections,0.1.0,,Canonical compatibility package for CMS structured collections.
+2026-11-02T15:40:54Z,liberusoftware/module-accounting-multi-currency,1.0.0,,Multi-currency rates and revaluation domain module.
+2026-11-02T15:40:54Z,liberusoftware/module-crm-marketing-resources-api,v1.0.0,,HTTP presentation for governed marketing resources
+2026-11-02T15:40:57Z,liberusoftware/module-cms-structured-collections-api,0.1.0,,Canonical API package identity for CMS structured collections.
+2026-11-02T15:41:00Z,liberusoftware/module-crm-marketing-resources-filament,v1.0.0,,Filament resource for governed marketing assets
+2026-11-02T15:41:01Z,liberusoftware/module-accounting-multi-currency-api,1.0.0,,Multi-currency API adapter.
+2026-11-02T15:41:04Z,liberusoftware/module-cms-structured-collections-filament,0.1.0,,Canonical Filament package identity for CMS structured collections.
+2026-11-02T15:41:07Z,liberusoftware/module-crm-marketing-resources-livewire,v1.0.0,,Livewire governed marketing resource workspace
+2026-11-02T15:41:08Z,liberusoftware/module-accounting-multi-currency-filament,1.0.0,,Multi-currency Filament 5 adapter.
+2026-11-02T15:41:10Z,liberusoftware/module-cms-structured-collections-livewire,0.1.0,,Canonical Livewire package identity for CMS structured collections.
+2026-11-02T15:41:13Z,liberusoftware/module-crm-memberships,v1.0.0,,"Membership plans, gated resources, access grants, renewals, bundles and member portal"
+2026-11-02T15:41:14Z,liberusoftware/module-accounting-multi-currency-livewire,1.0.0,,Multi-currency Livewire 4 adapter.
+2026-11-02T15:41:17Z,liberusoftware/module-cms-syndication-and-feeds,0.1.0,,"CMS RSS, Atom, structured feeds, imports, and syndication."
+2026-11-02T15:41:20Z,liberusoftware/module-crm-memberships-api,v1.0.0,,HTTP presentation for membership plans and access
+2026-11-02T15:41:21Z,liberusoftware/module-accounting-multi-entity,1.0.0,,Multi-entity accounting domain module.
+2026-11-02T15:41:24Z,liberusoftware/module-cms-syndication-and-feeds-api,0.1.0,,API adapter for CMS Syndication and Feeds.
+2026-11-02T15:41:27Z,liberusoftware/module-accounting-multi-entity-api,1.0.0,,Multi-entity API adapter.
+2026-11-02T15:41:27Z,liberusoftware/module-crm-memberships-filament,v1.0.0,,Filament resource for membership plans and access
+2026-11-02T15:41:30Z,liberusoftware/module-cms-syndication-and-feeds-filament,0.1.0,,Filament adapter for CMS Syndication and Feeds.
+2026-11-02T15:41:33Z,liberusoftware/module-accounting-multi-entity-filament,1.0.0,,Multi-entity Filament 5 adapter.
+2026-11-02T15:41:33Z,liberusoftware/module-crm-memberships-livewire,v1.0.0,,Livewire member portal and membership workspace
+2026-11-02T15:41:37Z,liberusoftware/module-cms-syndication-and-feeds-livewire,0.1.0,,Livewire adapter for CMS Syndication and Feeds.
+2026-11-02T15:41:40Z,liberusoftware/module-accounting-multi-entity-livewire,1.0.0,,Multi-entity Livewire 4 adapter.
+2026-11-02T15:41:40Z,liberusoftware/module-crm-mobile-messaging,v1.0.0,,"Consent-aware mobile campaigns, templates, opt-out, quiet hours, sender governance and delivery handling"
+2026-11-02T15:41:44Z,liberusoftware/module-cms-taxonomy,0.1.0,,"CMS vocabularies, hierarchical terms, synonyms, localization, and assignments."
+2026-11-02T15:41:46Z,liberusoftware/module-accounting-opening-balances,1.0.0,,Opening balances migration and reconciliation domain module.
+2026-11-02T15:41:47Z,liberusoftware/module-crm-mobile-messaging-api,v1.0.0,,HTTP presentation for consent-aware mobile messaging
+2026-11-02T15:41:50Z,liberusoftware/module-cms-taxonomy-api,0.1.0,,API adapter for CMS Taxonomy.
+2026-11-02T15:41:53Z,liberusoftware/module-accounting-opening-balances-api,1.0.0,,Opening balances API adapter.
+2026-11-02T15:41:54Z,liberusoftware/module-crm-mobile-messaging-filament,v1.0.0,,Filament resource for mobile campaigns and delivery
+2026-11-02T15:41:57Z,liberusoftware/module-cms-taxonomy-filament,0.1.0,,Filament adapter for CMS Taxonomy.
+2026-11-02T15:41:59Z,liberusoftware/module-accounting-opening-balances-filament,1.0.0,,Opening balances Filament 5 adapter.
+2026-11-02T15:42:01Z,liberusoftware/module-crm-mobile-messaging-livewire,v1.0.0,,Livewire mobile messaging campaign workspace
+2026-11-02T15:42:05Z,liberusoftware/module-cms-taxonomy-livewire,0.1.0,,Livewire adapter for CMS Taxonomy.
+2026-11-02T15:42:08Z,liberusoftware/module-accounting-opening-balances-livewire,1.0.0,,Opening balances Livewire 4 adapter.
+2026-11-02T15:42:08Z,liberusoftware/module-crm-omnichannel-service,v1.0.0,,"Tenant-scoped conversations, intake, routing, agent workspace, macros, suggestions, swarming and collision control"
+2026-11-02T15:42:11Z,liberusoftware/module-cms-theme-integration,0.1.0,,"CMS site/channel theme bindings, regions, view contracts, and components."
+2026-11-02T15:42:15Z,liberusoftware/module-accounting-operational-reports,1.0.0,,Operational reporting domain module.
+2026-11-02T15:42:15Z,liberusoftware/module-crm-omnichannel-service-api,v1.0.0,,HTTP presentation for omnichannel conversations and workspace operations
+2026-11-02T15:42:18Z,liberusoftware/module-cms-theme-integration-api,0.1.0,,API adapter for CMS Theme Integration.
+2026-11-02T15:42:21Z,liberusoftware/module-crm-omnichannel-service-filament,v1.0.0,,Filament workspace resource for omnichannel conversations
+2026-11-02T15:42:22Z,liberusoftware/module-accounting-operational-reports-api,1.0.0,,Operational reports API adapter.
+2026-11-02T15:42:25Z,liberusoftware/module-cms-theme-integration-filament,0.1.0,,Filament adapter for CMS Theme Integration.
+2026-11-02T15:42:29Z,liberusoftware/module-accounting-operational-reports-filament,1.0.0,,Operational reports Filament 5 adapter.
+2026-11-02T15:42:29Z,liberusoftware/module-crm-omnichannel-service-livewire,v1.0.0,,Livewire agent workspace for omnichannel conversations
+2026-11-02T15:42:32Z,liberusoftware/module-cms-theme-integration-livewire,0.1.0,,Livewire adapter for CMS Theme Integration.
+2026-11-02T15:42:36Z,liberusoftware/module-crm-orders-and-payments-workspace,v1.0.0,,"Payment links, deposits, orders, subscriptions, statuses, refunds, disputes and handoff records"
+2026-11-02T15:42:37Z,liberusoftware/module-accounting-operational-reports-livewire,1.0.0,,Operational reports Livewire 4 adapter.
+2026-11-02T15:42:39Z,liberusoftware/module-cms-theme-marketplace,0.1.0,,"CMS theme manifests, compatibility, licensing, installation, reviews, and ratings."
+2026-11-02T15:42:42Z,liberusoftware/module-crm-orders-and-payments-workspace-api,v1.0.0,,HTTP presentation for orders and payments
+2026-11-02T15:42:43Z,liberusoftware/module-accounting-payment-reconciliation,1.0.0,,Provider-neutral payment settlement reconciliation domain module.
+2026-11-02T15:42:45Z,liberusoftware/module-cms-theme-marketplace-api,0.1.0,,API adapter for CMS Theme Marketplace.
+2026-11-02T15:42:49Z,liberusoftware/module-crm-orders-and-payments-workspace-filament,v1.0.0,,Filament resource for orders and payments
+2026-11-02T15:42:50Z,liberusoftware/module-accounting-payment-reconciliation-api,1.0.0,,Payment reconciliation API adapter.
+2026-11-02T15:42:51Z,liberusoftware/module-cms-theme-marketplace-filament,0.1.0,,Filament adapter for CMS Theme Marketplace.
+2026-11-02T15:42:56Z,liberusoftware/module-accounting-payment-reconciliation-filament,1.0.0,,Payment reconciliation Filament 5 adapter.
+2026-11-02T15:42:56Z,liberusoftware/module-crm-orders-and-payments-workspace-livewire,v1.0.0,,Livewire workspace dashboard for orders and payments
+2026-11-02T15:42:58Z,liberusoftware/module-cms-theme-marketplace-livewire,0.1.0,,Livewire adapter for CMS Theme Marketplace.
+2026-11-02T15:43:02Z,liberusoftware/module-crm-partner-relationship-management,v1.0.0,,"Partner accounts, onboarding, agreements, enablement and performance"
+2026-11-02T15:43:03Z,liberusoftware/module-accounting-payment-reconciliation-livewire,1.0.0,,Payment reconciliation Livewire 4 adapter.
+2026-11-02T15:43:08Z,liberusoftware/module-cms-translation-assistant,0.1.0,,"CMS translation drafts, glossary/style checks, confidence, review, and provenance."
+2026-11-02T15:43:09Z,liberusoftware/module-crm-partner-relationship-management-api,v1.0.0,,Partner lifecycle and performance API
+2026-11-02T15:43:10Z,liberusoftware/module-accounting-payroll-integration,1.0.0,,Payroll integration domain module.
+2026-11-02T15:43:15Z,liberusoftware/module-cms-translation-assistant-api,0.1.0,,API adapter for CMS Translation Assistant.
+2026-11-02T15:43:15Z,liberusoftware/module-crm-partner-relationship-management-filament,v1.0.0,,Partner administration
+2026-11-02T15:43:16Z,liberusoftware/module-accounting-payroll-integration-api,1.0.0,,Payroll integration API adapter.
+2026-11-02T15:43:21Z,liberusoftware/module-crm-partner-relationship-management-livewire,v1.0.0,,Partner dashboard
+2026-11-02T15:43:22Z,liberusoftware/module-accounting-payroll-integration-filament,1.0.0,,Payroll integration Filament adapter.
+2026-11-02T15:43:22Z,liberusoftware/module-cms-translation-assistant-filament,0.1.0,,Filament adapter for CMS Translation Assistant.
+2026-11-02T15:43:28Z,liberusoftware/module-accounting-payroll-integration-livewire,1.0.0,,Payroll integration Livewire adapter.
+2026-11-02T15:43:28Z,liberusoftware/module-cms-translation-assistant-livewire,0.1.0,,Livewire adapter for CMS Translation Assistant.
+2026-11-02T15:43:28Z,liberusoftware/module-crm-personalization,v1.0.0,,"Consent-aware rules and decisioning for content, offers, channels, time, locale and lifecycle"
+2026-11-02T15:43:34Z,liberusoftware/module-crm-personalization-api,v1.0.0,,Consent-aware personalization API
+2026-11-02T15:43:35Z,liberusoftware/module-accounting-payroll-journals,1.0.0,,Payroll journals domain module.
+2026-11-02T15:43:36Z,liberusoftware/module-cms-translation-management,0.1.0,,"CMS translation jobs, assignments, vendors, review, memory, and reconciliation."
+2026-11-02T15:43:40Z,liberusoftware/module-crm-personalization-filament,v1.0.0,,Personalization rule administration
+2026-11-02T15:43:42Z,liberusoftware/module-accounting-payroll-journals-api,1.0.0,,Payroll journals API adapter.
+2026-11-02T15:43:43Z,liberusoftware/module-cms-translation-management-api,0.1.0,,API adapter for CMS Translation Management.
+2026-11-02T15:43:47Z,liberusoftware/module-crm-personalization-livewire,v1.0.0,,Personalization dashboard
+2026-11-02T15:43:48Z,liberusoftware/module-accounting-payroll-journals-filament,1.0.0,,Payroll journals Filament adapter.
+2026-11-02T15:43:49Z,liberusoftware/module-cms-translation-management-filament,0.1.0,,Filament adapter for CMS Translation Management.
+2026-11-02T15:43:53Z,liberusoftware/module-crm-playbooks-and-enablement,v1.0.0,,"Guided scripts, qualification, coaching, recommendations and usage analytics"
+2026-11-02T15:43:54Z,liberusoftware/module-accounting-payroll-journals-livewire,1.0.0,,Payroll journals Livewire adapter.
+2026-11-02T15:43:57Z,liberusoftware/module-cms-translation-management-livewire,0.1.0,,Livewire adapter for CMS Translation Management.
+2026-11-02T15:43:59Z,liberusoftware/module-crm-playbooks-and-enablement-api,v1.0.0,,Playbook and enablement API
+2026-11-02T15:44:00Z,liberusoftware/module-accounting-payroll-liabilities,1.0.0,,Payroll liabilities domain module.
+2026-11-02T15:44:05Z,liberusoftware/module-cms-video-and-audio,0.1.0,,"CMS video and audio assets, tracks, transcoding, streaming, and playback metadata."
+2026-11-02T15:44:07Z,liberusoftware/module-accounting-payroll-liabilities-api,1.0.0,,Payroll liabilities API adapter.
+2026-11-02T15:44:07Z,liberusoftware/module-crm-playbooks-and-enablement-filament,v1.0.0,,Playbook administration
+2026-11-02T15:44:12Z,liberusoftware/module-cms-video-and-audio-api,0.1.0,,API adapter for CMS Video and Audio.
+2026-11-02T15:44:13Z,liberusoftware/module-accounting-payroll-liabilities-filament,1.0.0,,Payroll liabilities Filament adapter.
+2026-11-02T15:44:13Z,liberusoftware/module-crm-playbooks-and-enablement-livewire,v1.0.0,,Playbook and coaching dashboard
+2026-11-02T15:44:19Z,liberusoftware/module-accounting-payroll-liabilities-livewire,1.0.0,,Payroll liabilities Livewire adapter.
+2026-11-02T15:44:19Z,liberusoftware/module-cms-video-and-audio-filament,0.1.0,,Filament adapter for CMS Video and Audio.
+2026-11-02T15:44:19Z,liberusoftware/module-crm-predictive-models,v1.0.0,,"Scoring, risk, forecasts, model registry, evaluation, drift and explanations"
+2026-11-02T15:44:25Z,liberusoftware/module-accounting-payroll-payments,1.0.0,,Payroll payments domain module.
+2026-11-02T15:44:26Z,liberusoftware/module-crm-predictive-models-api,v1.0.0,,Predictive scoring and model governance API
+2026-11-02T15:44:28Z,liberusoftware/module-cms-video-and-audio-livewire,0.1.0,,Livewire adapter for CMS Video and Audio.
+2026-11-02T15:44:31Z,liberusoftware/module-accounting-payroll-payments-api,1.0.0,,Payroll payments API adapter.
+2026-11-02T15:44:32Z,liberusoftware/module-crm-predictive-models-filament,v1.0.0,,Predictive model administration
+2026-11-02T15:44:37Z,liberusoftware/module-cms-views-and-query-builder-api,0.1.0,,API adapter for CMS Views and Query Builder.
+2026-11-02T15:44:38Z,liberusoftware/module-accounting-payroll-payments-filament,1.0.0,,Payroll payments Filament adapter.
+2026-11-02T15:44:38Z,liberusoftware/module-crm-predictive-models-livewire,v1.0.0,,Predictive intelligence dashboard
+2026-11-02T15:44:44Z,liberusoftware/module-accounting-payroll-payments-livewire,1.0.0,,Payroll payments Livewire adapter.
+2026-11-02T15:44:44Z,liberusoftware/module-cms-views-and-query-builder-filament,0.1.0,,Filament adapter for CMS Views and Query Builder.
+2026-11-02T15:44:45Z,liberusoftware/module-crm-product-workspace,v1.0.0,,"Sales catalog projections, bundles, entitlements and synchronization"
+2026-11-02T15:44:51Z,liberusoftware/module-crm-product-workspace-api,v1.0.0,,HTTP presentation for the CRM product workspace
+2026-11-02T15:44:54Z,liberusoftware/module-accounting-periods,1.0.0,,"Accounting period states, posting controls, locks, reopen approval, and evidence."
+2026-11-02T15:44:55Z,liberusoftware/module-cms-views-and-query-builder-livewire,0.1.0,,Livewire adapter for CMS Views and Query Builder.
+2026-11-02T15:44:57Z,liberusoftware/module-crm-product-workspace-filament,v1.0.0,,Filament presentation for the CRM product workspace
+2026-11-02T15:44:59Z,liberusoftware/module-accounting-periods-api,1.0.0,,Authenticated API adapter for accounting periods.
+2026-11-02T15:45:02Z,liberusoftware/module-cms-web-delivery,0.1.0,,"CMS canonical web delivery, preview, redirects, metadata, and edge invalidation."
+2026-11-02T15:45:04Z,liberusoftware/module-crm-product-workspace-livewire,v1.0.0,,Livewire presentation for the CRM product workspace
+2026-11-02T15:45:06Z,liberusoftware/module-accounting-periods-filament,1.0.0,,Filament adapter for accounting periods.
+2026-11-02T15:45:09Z,liberusoftware/module-cms-web-delivery-api,0.1.0,,API adapter for CMS Web Delivery.
+2026-11-02T15:45:11Z,liberusoftware/module-crm-projects,v1.0.0,,"Post-sale projects, delivery planning, risks, visibility and handoff"
+2026-11-02T15:45:13Z,liberusoftware/module-accounting-periods-livewire,1.0.0,,Livewire adapter for accounting periods.
+2026-11-02T15:45:16Z,liberusoftware/module-cms-web-delivery-filament,0.1.0,,Filament adapter for CMS Web Delivery.
+2026-11-02T15:45:19Z,liberusoftware/module-accounting-plaid,1.0.0,,Plaid adapter for the Accounting Bank Feeds contract.
+2026-11-02T15:45:22Z,liberusoftware/module-cms-web-delivery-livewire,0.1.0,,Livewire adapter for CMS Web Delivery.
+2026-11-02T15:45:23Z,liberusoftware/module-crm-projects-filament,v1.0.0,,Project delivery administration
+2026-11-02T15:45:29Z,liberusoftware/module-accounting-policies,1.0.0,,"Effective-dated accounting recognition, capitalization, depreciation, FX, tax, rounding, write-off, materiality, and approval rules."
+2026-11-02T15:45:30Z,liberusoftware/module-crm-projects-livewire,v1.0.0,,Project delivery dashboard
+2026-11-02T15:45:32Z,liberusoftware/module-cms-wordpress-migration,0.1.0,,"Provider-neutral WordPress migration runs, records, and source identifiers."
+2026-11-02T15:45:35Z,liberusoftware/module-accounting-policies-api,1.0.0,,Authenticated API adapter for accounting policy rules.
+2026-11-02T15:45:37Z,liberusoftware/module-crm-proposals-and-quotes,v1.0.0,,"Branded proposals, quote versions, approvals, delivery, engagement and acceptance"
+2026-11-02T15:45:41Z,liberusoftware/module-accounting-policies-filament,1.0.0,,Filament adapter for accounting policy rules.
+2026-11-02T15:45:46Z,liberusoftware/module-cms-wordpress-migration-filament,0.1.0,,Filament adapter for CMS WordPress Migration.
+2026-11-02T15:45:47Z,liberusoftware/module-accounting-policies-livewire,1.0.0,,Livewire adapter for accounting policy rules.
+2026-11-02T15:45:50Z,liberusoftware/module-crm-proposals-and-quotes-filament,v1.0.0,,Proposal administration
+2026-11-02T15:45:53Z,liberusoftware/module-accounting-product-and-service-items,1.0.0,,Product and service items domain module.
+2026-11-02T15:45:54Z,liberusoftware/module-cms-wordpress-migration-livewire,0.1.0,,Livewire adapter for CMS WordPress Migration.
+2026-11-02T15:45:56Z,liberusoftware/module-crm-proposals-and-quotes-livewire,v1.0.0,,Proposal dashboard
+2026-11-02T15:46:01Z,liberusoftware/module-accounting-product-and-service-items-api,1.0.0,,Product and service items API adapter.
+2026-11-02T15:46:03Z,liberusoftware/module-crm-prospecting,v1.0.0,,"Ideal customer profiles, prospect research, contact credits and compliant handoff"
+2026-11-02T15:46:08Z,liberusoftware/module-accounting-product-and-service-items-filament,1.0.0,,Product and service items Filament adapter.
+2026-11-02T15:46:09Z,liberusoftware/module-crm-prospecting-agent,v1.0.0,,"Approved research, personalization, sequence preparation and policy review"
+2026-11-02T15:46:14Z,liberusoftware/module-accounting-product-and-service-items-livewire,1.0.0,,Product and service items Livewire adapter.
+2026-11-02T15:46:16Z,liberusoftware/module-crm-prospecting-agent-api,v1.0.0,,Policy-controlled prospecting agent API
+2026-11-02T15:46:20Z,liberusoftware/module-accounting-project-billing,1.0.0,,Project billing domain module.
+2026-11-02T15:46:23Z,liberusoftware/module-crm-prospecting-agent-filament,v1.0.0,,Prospecting agent administration
+2026-11-02T15:46:26Z,liberusoftware/module-accounting-project-billing-api,1.0.0,,Project billing API adapter.
+2026-11-02T15:46:29Z,liberusoftware/module-crm-prospecting-agent-livewire,v1.0.0,,Prospecting agent dashboard
+2026-11-02T15:46:32Z,liberusoftware/module-accounting-project-billing-filament,1.0.0,,Project billing Filament adapter.
+2026-11-02T15:46:38Z,liberusoftware/module-accounting-project-billing-livewire,1.0.0,,Project billing Livewire adapter.
+2026-11-02T15:46:42Z,liberusoftware/module-crm-prospecting-filament,v1.0.0,,Prospecting administration
+2026-11-02T15:46:44Z,liberusoftware/module-accounting-project-costing,1.0.0,,Project costing domain module.
+2026-11-02T15:46:49Z,liberusoftware/module-crm-prospecting-livewire,v1.0.0,,Prospecting dashboard
+2026-11-02T15:46:50Z,liberusoftware/module-accounting-project-costing-api,1.0.0,,Project costing API adapter.
+2026-11-02T15:46:55Z,liberusoftware/module-crm-quotas-and-incentives,v1.0.0,,"Quotas, attainment, crediting, commissions, disputes, approvals and exports"
+2026-11-02T15:46:57Z,liberusoftware/module-accounting-project-costing-filament,1.0.0,,Project costing Filament adapter.
+2026-11-02T15:47:03Z,liberusoftware/module-accounting-project-costing-livewire,1.0.0,,Project costing Livewire adapter.
+2026-11-02T15:47:09Z,liberusoftware/module-crm-quotas-and-incentives-filament,v1.0.0,,Quota and commission administration
+2026-11-02T15:47:10Z,liberusoftware/module-accounting-project-profitability,1.0.0,,Project profitability domain module.
+2026-11-02T15:47:15Z,liberusoftware/module-crm-quotas-and-incentives-livewire,v1.0.0,,Quota attainment dashboard
+2026-11-02T15:47:16Z,liberusoftware/module-accounting-project-profitability-api,1.0.0,,Project profitability API adapter.
+2026-11-02T15:47:21Z,liberusoftware/module-crm-referrals,v1.0.0,,"Referral programs, attribution, qualification, rewards and fraud controls"
+2026-11-02T15:47:23Z,liberusoftware/module-accounting-project-profitability-filament,1.0.0,,Project profitability Filament adapter.
+2026-11-02T15:47:29Z,liberusoftware/module-accounting-project-profitability-livewire,1.0.0,,Project profitability Livewire adapter.
+2026-11-02T15:47:33Z,liberusoftware/module-crm-referrals-filament,v1.0.0,,Referral administration
+2026-11-02T15:47:36Z,liberusoftware/module-accounting-projects-and-jobs,1.0.0,,Accounting projects and jobs domain module
+2026-11-02T15:47:39Z,liberusoftware/module-crm-referrals-livewire,v1.0.0,,Referral dashboard
+2026-11-02T15:47:43Z,liberusoftware/module-accounting-projects-and-jobs-api,1.0.0,,Projects and jobs API adapter.
+2026-11-02T15:47:45Z,huseyinfiliz/author-moderation,1.0.0,Hüseyin Filiz,Let discussion authors moderate their own discussions with administrator-controlled permissions.
+2026-11-02T15:47:46Z,liberusoftware/module-crm-reputation-management,v1.0.0,,"Reviews, monitoring, responses, sentiment and reputation reporting"
+2026-11-02T15:47:49Z,liberusoftware/module-accounting-projects-and-jobs-filament,1.0.0,,Projects and jobs Filament adapter.
+2026-11-02T15:47:55Z,liberusoftware/module-accounting-projects-and-jobs-livewire,1.0.0,,Projects and jobs Livewire adapter.
+2026-11-02T15:48:00Z,liberusoftware/module-crm-reputation-management-filament,v1.0.0,,Reputation administration
+2026-11-02T15:48:01Z,liberusoftware/module-accounting-purchase-orders,1.0.0,,Accounting purchase orders domain module
+2026-11-02T15:48:06Z,liberusoftware/module-crm-reputation-management-livewire,v1.0.0,,Reputation dashboard
+2026-11-02T15:48:08Z,liberusoftware/module-accounting-purchase-orders-api,1.0.0,,Purchase orders API adapter.
+2026-11-02T15:48:12Z,liberusoftware/module-crm-resource-planning,v1.0.0,,"Skills, capacity, allocation, utilization, bookings, conflicts, rates and forecasts"
+2026-11-02T15:48:14Z,liberusoftware/module-accounting-purchase-orders-filament,1.0.0,,Purchase orders Filament adapter.
+2026-11-02T15:48:21Z,liberusoftware/module-accounting-purchase-orders-livewire,1.0.0,,Purchase orders Livewire adapter.
+2026-11-02T15:48:24Z,liberusoftware/module-crm-resource-planning-filament,v1.0.0,,Resource planning administration
+2026-11-02T15:48:28Z,liberusoftware/module-accounting-purchase-requisitions,1.0.0,,Accounting purchase requisitions domain module
+2026-11-02T15:48:31Z,liberusoftware/module-crm-resource-planning-livewire,v1.0.0,,Resource planning dashboard
+2026-11-02T15:48:34Z,liberusoftware/module-accounting-purchase-requisitions-api,1.0.0,,Purchase requisitions API adapter.
+2026-11-02T15:48:37Z,liberusoftware/module-crm-revenue-intelligence,v1.0.0,,"Pipeline health, scoring and revenue alerts"
+2026-11-02T15:48:40Z,liberusoftware/module-accounting-purchase-requisitions-filament,1.0.0,,Purchase requisitions Filament adapter.
+2026-11-02T15:48:47Z,liberusoftware/module-accounting-purchase-requisitions-livewire,1.0.0,,Purchase requisitions Livewire adapter.
+2026-11-02T15:48:49Z,liberusoftware/module-crm-revenue-intelligence-filament,v1.0.0,,Revenue intelligence administration
+2026-11-02T15:48:53Z,liberusoftware/module-accounting-quickbooks-online-migration,1.0.0,,Accounting QuickBooks Online migration domain module
+2026-11-02T15:48:55Z,liberusoftware/module-crm-revenue-intelligence-livewire,v1.0.0,,Revenue intelligence dashboard
+2026-11-02T15:49:00Z,liberusoftware/module-accounting-quickbooks-online-migration-api,1.0.0,,QuickBooks Online migration API adapter.
+2026-11-02T15:49:02Z,liberusoftware/module-crm-revenue-lifecycle,v1.0.0,,"Team-scoped opportunity-to-order orchestration, assets, entitlements, renewals, changes, usage and fallout"
+2026-11-02T15:49:08Z,liberusoftware/module-accounting-quickbooks-online-migration-filament,1.0.0,,QuickBooks Online migration Filament adapter.
+2026-11-02T15:49:09Z,liberusoftware/module-crm-revenue-lifecycle-api,v1.0.0,,Revenue lifecycle orchestration API
+2026-11-02T15:49:14Z,liberusoftware/module-accounting-quickbooks-online-migration-livewire,1.0.0,,QuickBooks Online migration Livewire adapter.
+2026-11-02T15:49:15Z,liberusoftware/module-crm-revenue-lifecycle-filament,v1.0.0,,Revenue assets administration
+2026-11-02T15:49:21Z,liberusoftware/module-accounting-receipt-management,1.0.0,,Accounting receipt management domain module
+2026-11-02T15:49:22Z,liberusoftware/module-crm-revenue-lifecycle-livewire,v1.0.0,,Revenue lifecycle dashboard
+2026-11-02T15:49:27Z,liberusoftware/module-accounting-receipt-management-api,1.0.0,,Receipt management API adapter.
+2026-11-02T15:49:28Z,liberusoftware/module-crm-routing,v1.0.0,,"Team-scoped rules, territories, skills, languages, availability, workload, SLA and assignment fallback"
+2026-11-02T15:49:33Z,liberusoftware/module-accounting-receipt-management-filament,1.0.0,,Receipt management Filament adapter.
+2026-11-02T15:49:39Z,liberusoftware/module-accounting-receipt-management-livewire,1.0.0,,Receipt management Livewire adapter.
+2026-11-02T15:49:43Z,liberusoftware/module-crm-routing-filament,v1.0.0,,Filament routing assignment resource
+2026-11-02T15:49:46Z,liberusoftware/module-accounting-recurring-transactions,1.0.0,,Accounting recurring transactions domain module
+2026-11-02T15:49:49Z,liberusoftware/module-crm-routing-livewire,v1.0.0,,Livewire routing dashboard
+2026-11-02T15:49:52Z,liberusoftware/module-accounting-recurring-transactions-api,1.0.0,,Recurring transactions API adapter.
+2026-11-02T15:49:55Z,liberusoftware/module-crm-saas-packaging,v1.0.0,,"Team-scoped plans, entitlements, limits, trials, lifecycle and billing references"
+2026-11-02T15:49:58Z,liberusoftware/module-accounting-recurring-transactions-filament,1.0.0,,Recurring transactions Filament adapter.
+2026-11-02T15:50:04Z,liberusoftware/module-accounting-recurring-transactions-livewire,1.0.0,,Recurring transactions Livewire adapter.
+2026-11-02T15:50:07Z,liberusoftware/module-crm-saas-packaging-filament,v1.0.0,,Filament subscription resource
+2026-11-02T15:50:11Z,liberusoftware/module-accounting-regional-packs,1.0.0,,Accounting regional packs domain module
+2026-11-02T15:50:13Z,liberusoftware/module-crm-saas-packaging-livewire,v1.0.0,,Livewire subscription dashboard
+2026-11-02T15:50:18Z,liberusoftware/module-accounting-regional-packs-api,1.0.0,,Regional packs API adapter.
+2026-11-02T15:50:20Z,liberusoftware/module-crm-sales-engagement,v1.0.0,,"Team-scoped sequences, multichannel steps, enrollments, tasks, throttles, stop rules and experiments"
+2026-11-02T15:50:22Z,alexpechkarev/laravelshoppingcart,13.0,Darryl Fernandez; Alexander Pechkarev,"Laravel Shopping cart compatible with Laravel 11, 12, and 13"
+2026-11-02T15:50:24Z,liberusoftware/module-accounting-regional-packs-filament,1.0.0,,Regional packs Filament adapter.
+2026-11-02T15:50:31Z,liberusoftware/module-accounting-regional-packs-livewire,1.0.0,,Regional packs Livewire adapter.
+2026-11-02T15:50:33Z,liberusoftware/module-crm-sales-engagement-filament,v1.0.0,,Filament sequence resource
+2026-11-02T15:50:37Z,liberusoftware/module-accounting-reimbursements,1.0.0,,Accounting reimbursements domain module
+2026-11-02T15:50:39Z,liberusoftware/module-crm-sales-engagement-livewire,v1.0.0,,Livewire engagement queue dashboard
+2026-11-02T15:50:45Z,liberusoftware/module-accounting-reimbursements-api,1.0.0,,Reimbursements API adapter.
+2026-11-02T15:50:45Z,liberusoftware/module-crm-sales-pipelines,v1.0.0,,"Team-scoped pipelines, stages, opportunities, products, history, rotting and loss reasons"
+2026-11-02T15:50:51Z,liberusoftware/module-accounting-reimbursements-filament,1.0.0,,Reimbursements Filament adapter.
+2026-11-02T15:50:58Z,liberusoftware/module-crm-sales-pipelines-filament,v1.0.0,,Filament opportunity resource
+2026-11-02T15:51:00Z,liberusoftware/module-accounting-reimbursements-livewire,1.0.0,,Reimbursements Livewire adapter.
+2026-11-02T15:51:05Z,liberusoftware/module-crm-sales-pipelines-livewire,v1.0.0,,Livewire sales pipeline board
+2026-11-02T15:51:07Z,liberusoftware/module-accounting-revenue-recognition,1.0.0,,Accounting revenue recognition domain module
+2026-11-02T15:51:11Z,liberusoftware/module-crm-sales-workspace,v1.0.0,,"Team-scoped prioritized seller feed, inbox, risk indicators, agenda, next actions, quick updates and history"
+2026-11-02T15:51:14Z,liberusoftware/module-accounting-revenue-recognition-api,1.0.0,,Revenue recognition API adapter.
+2026-11-02T15:51:21Z,liberusoftware/module-accounting-revenue-recognition-filament,1.0.0,,Revenue recognition Filament adapter.
+2026-11-02T15:51:24Z,liberusoftware/module-crm-sales-workspace-filament,v1.0.0,,Filament seller workspace resource
+2026-11-02T15:51:27Z,liberusoftware/module-accounting-revenue-recognition-livewire,1.0.0,,Revenue recognition Livewire adapter.
+2026-11-02T15:51:31Z,liberusoftware/module-crm-sales-workspace-livewire,v1.0.0,,Livewire prioritized seller dashboard
+2026-11-02T15:51:33Z,liberusoftware/module-accounting-review,1.0.0,,Accounting review domain module
+2026-11-02T15:51:37Z,liberusoftware/module-crm-sandbox-and-release-management,v1.0.0,,"Team-scoped configuration snapshots, test data policy, change sets, validation, promotion, rollback and comparison"
+2026-11-02T15:51:40Z,liberusoftware/module-accounting-review-api,1.0.0,,Accounting review API adapter
