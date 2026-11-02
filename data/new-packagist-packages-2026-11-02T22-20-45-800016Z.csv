@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-02T21:25:01Z,owebstudio/kirby-analytics,1.0.0,oweb studio,"Self-hosted, cookieless visitor statistics for Kirby with a native Panel dashboard. Free, with an optional Pro license."
+2026-11-02T22:04:56Z,refberg/sylius-payu-plugin,v1.0.0,Refberg,"PayU REST API payment gateway for Sylius 2, built on Payment Requests (no Payum)."
+2026-11-02T22:05:12Z,sharkyphp/contracts,v2.0.0,bytesharky,"SharkyPHP contracts, shared interfaces for framework components."
+2026-11-02T22:10:48Z,pkoutsogiannis/ucache,v1.1.0,Periklis Koutsogiannis,"A shared-memory key-value cache for PHP 7.2 to 8.5 on Windows x64 (IIS, FastCGI)."
+2026-11-02T22:13:36Z,ahmedelsied/filament-media-browser,v1.0.0,,Filament media browser with a default driver and a Spatie Media driver.
