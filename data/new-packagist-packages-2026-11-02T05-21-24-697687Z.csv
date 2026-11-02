@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-02T04:24:03Z,subarist/waterhole-user-cover,v1.0.0,,User cover images for Waterhole
+2026-11-02T04:34:42Z,atannex/foundation,v1.0.0,Atanga Leke Collins,"Headless foundation for Atannex Laravel packages: package descriptors, dependency and capability checks, a predictable package lifecycle, named definition registries, extension points, execution context and diagnostics."
+2026-11-02T04:51:58Z,eric-sa/zca-php,v2.0.0,,Unofficial Zalo API for PHP (port of zca-js)

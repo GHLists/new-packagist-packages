@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 04:20 UTC
+## Latest list — 2026-11-02 05:21 UTC
 
-New packages created between 2026-11-02 03:19 UTC and 2026-11-02 04:20 UTC.
+New packages created between 2026-11-02 04:20 UTC and 2026-11-02 05:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-02T04-20-55-222958Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-02T05-21-24-697687Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-02 03:48:25 | [atannex/atannex-provider](https://www.nuget.org/packages/atannex%2Fatannex-provider) | v1.0.0 | Atanga Leke Collins | A base Laravel service provider for packages: declare config files, routes, mig… |
-| 2026-11-02 03:59:44 | [polidog/rosanna-state](https://www.nuget.org/packages/polidog%2Frosanna-state) | v0.1.0 | polidog | Server-side state for Rosanna: hooks, signed actions, CSRF, snapshots, storage… |
+| 2026-11-02 04:24:03 | [subarist/waterhole-user-cover](https://www.nuget.org/packages/subarist%2Fwaterhole-user-cover) | v1.0.0 |  | User cover images for Waterhole |
+| 2026-11-02 04:34:42 | [atannex/foundation](https://www.nuget.org/packages/atannex%2Ffoundation) | v1.0.0 | Atanga Leke Collins | Headless foundation for Atannex Laravel packages: package descriptors, dependen… |
+| 2026-11-02 04:51:58 | [eric-sa/zca-php](https://www.nuget.org/packages/eric-sa%2Fzca-php) | v2.0.0 |  | Unofficial Zalo API for PHP (port of zca-js) |
 
 ## Data source
 
