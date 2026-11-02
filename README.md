@@ -15,18 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 00:18 UTC
+## Latest list — 2026-11-02 01:20 UTC
 
-New packages created between 2026-11-01 23:20 UTC and 2026-11-02 00:18 UTC.
+New packages created between 2026-11-02 00:18 UTC and 2026-11-02 01:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-02T00-18-30-580556Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-02T01-20-30-36152Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-01 23:37:11 | [vagabit/fos-js-routing-security-bundle](https://www.nuget.org/packages/vagabit%2Ffos-js-routing-security-bundle) | v1.0.0 | Martino Piccinato | Role-filtered and security.yaml access-control-aware route exposure for FOSJsRo… |
-| 2026-11-02 00:01:45 | [polidog/rosanna](https://www.nuget.org/packages/polidog%2Frosanna) | v0.1.0 | polidog | Server-side PHP components in the shape of React: H, Element, Renderer and the… |
-| 2026-11-02 00:03:08 | [wapplersystems/mapmagic](https://www.nuget.org/packages/wapplersystems%2Fmapmagic) | 14.1.1 | WapplerSystems; TYPO3 Core Te… | TYPO3 Map Magic - Flexible TYPO3 map framework. |
-| 2026-11-02 00:03:25 | [polidog/rosanna-defer](https://www.nuget.org/packages/polidog%2Frosanna-defer) | v0.1.1 | polidog | Deferred fragments for Rosanna: placeholders, a GET endpoint, client caching an… |
+| 2026-11-02 00:28:54 | [anthonyiles/worktree-isolation](https://www.nuget.org/packages/anthonyiles%2Fworktree-isolation) | v0.6.0 |  | Gives every git worktree of a PHP project its own dependencies, env files and d… |
+| 2026-11-02 00:33:27 | [trevweb/mymobileworkers-api-client](https://www.nuget.org/packages/trevweb%2Fmymobileworkers-api-client) | v1.0.1 | Trevor | PHP HTTP API client for the MyMobileWorkers API |
+| 2026-11-02 00:37:58 | [kitloom/filament-skeleton](https://www.nuget.org/packages/kitloom%2Ffilament-skeleton) | v1.13.0 |  | Grow on Laravel, run it with AI: the kitloom site with the Filament admin edito… |
+| 2026-11-02 00:38:04 | [kitloom/nova-skeleton](https://www.nuget.org/packages/kitloom%2Fnova-skeleton) | v1.13.0 |  | Grow on Laravel, run it with AI: the kitloom site with the Laravel Nova admin e… |
+| 2026-11-02 00:51:49 | [gitpcl/probe](https://www.nuget.org/packages/gitpcl%2Fprobe) | v0.8.1 |  | Agent-first Laravel testing runtime: warm PHP workers, compact JSON probes, sel… |
+| 2026-11-02 01:09:49 | [oliverkroener/ok-cookiebot](https://www.nuget.org/packages/oliverkroener%2Fok-cookiebot) | 3.1.0 | Oliver Kroener | Provides a backend module to manage privacy cookie consent scripts for Cookiebo… |
 
 ## Data source
 

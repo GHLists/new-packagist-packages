@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-02T00:28:54Z,anthonyiles/worktree-isolation,v0.6.0,,"Gives every git worktree of a PHP project its own dependencies, env files and databases."
+2026-11-02T00:33:27Z,trevweb/mymobileworkers-api-client,v1.0.1,Trevor,PHP HTTP API client for the MyMobileWorkers API
+2026-11-02T00:37:58Z,kitloom/filament-skeleton,v1.13.0,,"Grow on Laravel, run it with AI: the kitloom site with the Filament admin editors already know, an MCP server for AI agents, and a way in for the WordPress site you have."
+2026-11-02T00:38:04Z,kitloom/nova-skeleton,v1.13.0,,"Grow on Laravel, run it with AI: the kitloom site with the Laravel Nova admin editors already know, an MCP server for AI agents, and a way in for the WordPress site you have."
+2026-11-02T00:51:49Z,gitpcl/probe,v0.8.1,,"Agent-first Laravel testing runtime: warm PHP workers, compact JSON probes, selective tests, and optional browser, mutation, and formal checks."
+2026-11-02T01:09:49Z,oliverkroener/ok-cookiebot,3.1.0,Oliver Kroener,Provides a backend module to manage privacy cookie consent scripts for Cookiebot.
