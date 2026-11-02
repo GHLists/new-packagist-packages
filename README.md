@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 02:19 UTC
+## Latest list — 2026-11-02 04:20 UTC
 
-New packages created between 2026-11-02 01:20 UTC and 2026-11-02 02:19 UTC.
+New packages created between 2026-11-02 03:19 UTC and 2026-11-02 04:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-02T02-19-05-194515Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-02T04-20-55-222958Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-02 01:42:45 | [trevol/trevol-php](https://www.nuget.org/packages/trevol%2Ftrevol-php) | v0.1.0 | Joshua Montclair (Trevol) | SDK de PHP para la API de Trevol (facturación electrónica y demás documentos an… |
-| 2026-11-02 01:51:13 | [omacy/ledgerbeetle](https://www.nuget.org/packages/omacy%2Fledgerbeetle) | v0.1.1 | Shamsuddeen | Double-entry ledger for Laravel, backed by TigerBeetle. |
+| 2026-11-02 03:48:25 | [atannex/atannex-provider](https://www.nuget.org/packages/atannex%2Fatannex-provider) | v1.0.0 | Atanga Leke Collins | A base Laravel service provider for packages: declare config files, routes, mig… |
+| 2026-11-02 03:59:44 | [polidog/rosanna-state](https://www.nuget.org/packages/polidog%2Frosanna-state) | v0.1.0 | polidog | Server-side state for Rosanna: hooks, signed actions, CSRF, snapshots, storage… |
 
 ## Data source
 

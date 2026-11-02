@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-02T03:48:25Z,atannex/atannex-provider,v1.0.0,Atanga Leke Collins,"A base Laravel service provider for packages: declare config files, routes, migrations, translations, views, commands, middleware aliases, listeners, bindings, assets, requirements and optional integrations once, and they are registered at the right point of Laravel's lifecycle."
+2026-11-02T03:59:44Z,polidog/rosanna-state,v0.1.0,polidog,"Server-side state for Rosanna: hooks, signed actions, CSRF, snapshots, storage and rosanna.js"
