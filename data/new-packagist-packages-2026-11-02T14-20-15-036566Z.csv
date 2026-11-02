@@ -1,0 +1,53 @@
+created_at,package,version,author,description
+2026-11-02T13:27:54Z,bitshost/upmvc-payments-pack,v0.2.0,Adrian D,"Installable payments pack for upMVC SaaS: gateway contracts, tenant-scoped payment records, thin APIs. Pair with bitshost/upmvc-saas-pack for multi-tenant products."
+2026-11-02T13:29:02Z,bitshost/upmvc-saas,v1.1.0,Adrian D,"upMVC-SaaS — thin composed multi-tenant starter: Packagist kernel + saas-pack (+ optional payments). App owns public/, .env, packages.php, and domain modules only."
+2026-11-02T13:32:53Z,juksgraphic/dashboardanalytic,v1.0.0,Kingsley Guillaume,This is my package dashboardanalytic
+2026-11-02T13:35:28Z,lexo/laravel-health-endpoints,v1.0.0,LEXO GmbH,Secure health check endpoints for Laravel applications.
+2026-11-02T14:07:14Z,liberusoftware/tenancy,1.0.0,,Shared Filament and Jetstream team tenancy with scoped runtime context and Eloquent isolation.
+2026-11-02T14:08:11Z,adachsoft/code-graph-php,v0.1.0,Arkadiusz Adach,Extracts PHP source declarations and relationships into a typed code graph.
+2026-11-02T14:09:31Z,smbpunt/timeline-graph-bundle,v0.1.0,smbpunt,"Symfony profiler panel that draws how a request flows through your services, and replays it step by step."
+2026-11-02T14:11:07Z,liberusoftware/module-accounting-business-insights-api,1.0.0,,Accounting business insights API
+2026-11-02T14:11:13Z,liberusoftware/module-accounting-business-insights-filament,1.0.0,,Accounting business insights Filament adapter
+2026-11-02T14:11:20Z,liberusoftware/module-accounting-business-insights-livewire,1.0.0,,Accounting business insights Livewire adapter
+2026-11-02T14:11:26Z,liberusoftware/module-accounting-carbon-accounting,1.0.0,,Accounting carbon accounting
+2026-11-02T14:11:33Z,liberusoftware/module-accounting-carbon-accounting-api,1.0.0,,Accounting carbon accounting API
+2026-11-02T14:11:39Z,liberusoftware/module-accounting-carbon-accounting-filament,1.0.0,,Accounting carbon accounting Filament adapter
+2026-11-02T14:11:46Z,liberusoftware/module-accounting-carbon-accounting-livewire,1.0.0,,Accounting carbon accounting Livewire adapter
+2026-11-02T14:11:52Z,liberusoftware/module-accounting-cash-coding,1.0.0,,Provider-neutral accounting cash coding domain module.
+2026-11-02T14:11:59Z,liberusoftware/module-accounting-cash-coding-api,1.0.0,,API adapter for accounting cash coding.
+2026-11-02T14:12:05Z,liberusoftware/module-accounting-cash-coding-filament,1.0.0,,Filament adapter for accounting cash coding.
+2026-11-02T14:12:16Z,liberusoftware/module-billing-hosting-api,0.1.0,,Api adapter for Billing Hosting.
+2026-11-02T14:12:24Z,liberusoftware/module-billing-hosting-filament,0.1.0,,Filament adapter for Billing Hosting.
+2026-11-02T14:12:30Z,liberusoftware/module-maintenance-inventory-filament,0.1.0,,Inventory Filament adapter for Liberu Maintenance
+2026-11-02T14:12:35Z,liberusoftware/module-billing-hosting-livewire,0.1.0,,Livewire adapter for Billing Hosting.
+2026-11-02T14:12:37Z,liberusoftware/module-maintenance-inventory-livewire,0.1.0,,Inventory Livewire adapter for Liberu Maintenance
+2026-11-02T14:12:38Z,liberusoftware/module-crm-contracts,v1.0.0,,
+2026-11-02T14:12:43Z,liberusoftware/module-maintenance-labor-and-time,0.1.0,,Labor and time domain module for Liberu Maintenance
+2026-11-02T14:12:45Z,liberusoftware/module-billing-invoicing,0.1.0,,"Provider-neutral invoicing schedules, lines, tax, credits, adjustments, PDFs, delivery, and finalization."
+2026-11-02T14:12:45Z,liberusoftware/module-crm-contracts-api,v1.0.0,,
+2026-11-02T14:12:50Z,liberusoftware/module-maintenance-labor-and-time-api,0.1.0,,Labor and time API adapter for Liberu Maintenance
+2026-11-02T14:12:52Z,liberusoftware/module-crm-contracts-filament,v1.0.0,,
+2026-11-02T14:12:54Z,liberusoftware/module-billing-invoicing-api,0.1.0,,HTTP API adapter for Liberu Billing Invoicing.
+2026-11-02T14:12:57Z,liberusoftware/module-maintenance-labor-and-time-filament,0.1.0,,Labor and time Filament adapter for Liberu Maintenance
+2026-11-02T14:12:59Z,liberusoftware/module-crm-contracts-livewire,v1.0.0,,
+2026-11-02T14:13:04Z,liberusoftware/module-billing-invoicing-filament,0.1.0,,Filament 5 adapter for Liberu Billing Invoicing.
+2026-11-02T14:13:04Z,liberusoftware/module-maintenance-labor-and-time-livewire,0.1.0,,Labor and time Livewire adapter for Liberu Maintenance
+2026-11-02T14:13:15Z,liberusoftware/module-billing-invoicing-livewire,0.1.0,,Livewire 4 adapter for Liberu Billing Invoicing.
+2026-11-02T14:13:21Z,liberusoftware/module-maintenance-preventative-maintenance,0.1.0,,Preventative maintenance domain module for Liberu Maintenance
+2026-11-02T14:13:24Z,liberusoftware/module-billing-isp,0.1.0,,Provider-neutral Billing ISP domain module.
+2026-11-02T14:13:29Z,liberusoftware/module-maintenance-preventative-maintenance-api,0.1.0,,Preventative maintenance API adapter for Liberu Maintenance
+2026-11-02T14:13:34Z,liberusoftware/module-billing-isp-api,0.1.0,,Api adapter for Billing ISP.
+2026-11-02T14:13:36Z,liberusoftware/module-maintenance-preventative-maintenance-filament,0.1.0,,Preventative maintenance Filament adapter for Liberu Maintenance
+2026-11-02T14:13:43Z,liberusoftware/module-billing-isp-filament,0.1.0,,Filament adapter for Billing ISP.
+2026-11-02T14:13:43Z,liberusoftware/module-maintenance-preventative-maintenance-livewire,0.1.0,,Preventative maintenance Livewire adapter for Liberu Maintenance
+2026-11-02T14:13:51Z,liberusoftware/module-maintenance-procurement,0.1.0,,Procurement domain module for Liberu Maintenance
+2026-11-02T14:13:53Z,liberusoftware/module-billing-isp-livewire,0.1.0,,Livewire adapter for Billing ISP.
+2026-11-02T14:13:58Z,liberusoftware/module-maintenance-procurement-api,0.1.0,,Procurement API adapter for Liberu Maintenance
+2026-11-02T14:14:02Z,liberusoftware/billing-liberu-control-panel,0.1.0,,Liberu Control Panel hosting account driver for Liberu Billing Hosting.
+2026-11-02T14:14:05Z,liberusoftware/module-maintenance-procurement-filament,0.1.0,,Procurement Filament adapter for Liberu Maintenance
+2026-11-02T14:14:12Z,liberusoftware/module-billing-orders,0.1.0,,"Provider-neutral quotes, carts, checkout, fraud review, agreements, and orders for Liberu Billing."
+2026-11-02T14:14:12Z,liberusoftware/module-maintenance-procurement-livewire,0.1.0,,Procurement Livewire adapter for Liberu Maintenance
+2026-11-02T14:14:22Z,liberusoftware/module-billing-orders-api,0.1.0,,HTTP API adapter for Liberu Billing Orders.
+2026-11-02T14:14:28Z,liberusoftware/module-maintenance-scheduling,0.1.0,,Scheduling domain module for Liberu Maintenance
+2026-11-02T14:14:32Z,liberusoftware/module-billing-orders-filament,0.1.0,,Filament adapter for Liberu Billing Orders.
+2026-11-02T14:14:34Z,liberusoftware/module-maintenance-scheduling-api,0.1.0,,Scheduling API adapter for Liberu Maintenance
