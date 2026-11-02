@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-02T07:39:11Z,laraveladmin/sharding,1.0.0,laraveladmin,"Declarative logical table sharding for Hyperf models: time or capacity modes, transparent CRUD, pagination, aggregates and online backfill."
+2026-11-02T07:44:01Z,toppng/png-alpha-benchmark-toolkit,v1.0.2,Islam Gamal,"Lossless ISO/IEC 15948 PNG Alpha-Channel Analysis, Scanline Filter Optimization & Cutout Matting Benchmark Suite"
+2026-11-02T08:11:46Z,anjan-talukdar/laravel-sweep,v1.0.0,Anjan Talukdar,"A powerful, multi-database, storage-agnostic data purging and sequence reset library for Laravel."

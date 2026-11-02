@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 07:21 UTC
+## Latest list — 2026-11-02 08:20 UTC
 
-New packages created between 2026-11-02 06:20 UTC and 2026-11-02 07:21 UTC.
+New packages created between 2026-11-02 07:21 UTC and 2026-11-02 08:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-02T07-21-11-475543Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-02T08-20-23-112616Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-02 06:20:12 | [pdfgate/statamic](https://www.nuget.org/packages/pdfgate%2Fstatamic) | v1.0.0 | PDFGate | Statamic addon for the PDFGate API: export entries and pages as PDF, and compre… |
-| 2026-11-02 06:42:46 | [jevo/jtemplates](https://www.nuget.org/packages/jevo%2Fjtemplates) | 0.0.1 |  | Configurable resource editing forms for Evolution CMS |
-| 2026-11-02 06:43:08 | [bbwdadfg/fengshuibedroom-url-tools](https://www.nuget.org/packages/bbwdadfg%2Ffengshuibedroom-url-tools) | v0.1.0 | wangneo276-lgtm | Upload a bedroom photo for an AI feng shui bedroom check: bed position, door li… |
+| 2026-11-02 07:39:11 | [laraveladmin/sharding](https://www.nuget.org/packages/laraveladmin%2Fsharding) | 1.0.0 | laraveladmin | Declarative logical table sharding for Hyperf models: time or capacity modes, t… |
+| 2026-11-02 07:44:01 | [toppng/png-alpha-benchmark-toolkit](https://www.nuget.org/packages/toppng%2Fpng-alpha-benchmark-toolkit) | v1.0.2 | Islam Gamal | Lossless ISO/IEC 15948 PNG Alpha-Channel Analysis, Scanline Filter Optimization… |
+| 2026-11-02 08:11:46 | [anjan-talukdar/laravel-sweep](https://www.nuget.org/packages/anjan-talukdar%2Flaravel-sweep) | v1.0.0 | Anjan Talukdar | A powerful, multi-database, storage-agnostic data purging and sequence reset li… |
 
 ## Data source
 
