@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 06:20 UTC
+## Latest list — 2026-11-02 07:21 UTC
 
-New packages created between 2026-11-02 05:21 UTC and 2026-11-02 06:20 UTC.
+New packages created between 2026-11-02 06:20 UTC and 2026-11-02 07:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-02T06-20-02-224864Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-02T07-21-11-475543Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-02 06:07:41 | [raving-dev/shell](https://www.nuget.org/packages/raving-dev%2Fshell) | v1.0.0 | Alexey Yashin | Shell wrap for php |
+| 2026-11-02 06:20:12 | [pdfgate/statamic](https://www.nuget.org/packages/pdfgate%2Fstatamic) | v1.0.0 | PDFGate | Statamic addon for the PDFGate API: export entries and pages as PDF, and compre… |
+| 2026-11-02 06:42:46 | [jevo/jtemplates](https://www.nuget.org/packages/jevo%2Fjtemplates) | 0.0.1 |  | Configurable resource editing forms for Evolution CMS |
+| 2026-11-02 06:43:08 | [bbwdadfg/fengshuibedroom-url-tools](https://www.nuget.org/packages/bbwdadfg%2Ffengshuibedroom-url-tools) | v0.1.0 | wangneo276-lgtm | Upload a bedroom photo for an AI feng shui bedroom check: bed position, door li… |
 
 ## Data source
 
