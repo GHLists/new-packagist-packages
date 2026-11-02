@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 23:20 UTC
+## Latest list — 2026-11-02 00:18 UTC
 
-New packages created between 2026-11-01 22:20 UTC and 2026-11-01 23:20 UTC.
+New packages created between 2026-11-01 23:20 UTC and 2026-11-02 00:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-01T23-20-50-447681Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-02T00-18-30-580556Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-01 22:23:45 | [smstunnel/smstunnel-magento](https://www.nuget.org/packages/smstunnel%2Fsmstunnel-magento) | 1.0.0 | Narcis Bodea | SMSTunnel for Magento: order texts sent from your own Android phone, from your… |
-| 2026-11-01 22:30:00 | [guardlms/laravel](https://www.nuget.org/packages/guardlms%2Flaravel) | v0.1.0 |  | Report installed Laravel, Composer and server inventory to GuardLMS. |
-| 2026-11-01 23:08:30 | [sahilphp/vue](https://www.nuget.org/packages/sahilphp%2Fvue) | v1.0.2 |  | SahilPHP starter-kit for Vue 3 and TypeScript projects |
+| 2026-11-01 23:37:11 | [vagabit/fos-js-routing-security-bundle](https://www.nuget.org/packages/vagabit%2Ffos-js-routing-security-bundle) | v1.0.0 | Martino Piccinato | Role-filtered and security.yaml access-control-aware route exposure for FOSJsRo… |
+| 2026-11-02 00:01:45 | [polidog/rosanna](https://www.nuget.org/packages/polidog%2Frosanna) | v0.1.0 | polidog | Server-side PHP components in the shape of React: H, Element, Renderer and the… |
+| 2026-11-02 00:03:08 | [wapplersystems/mapmagic](https://www.nuget.org/packages/wapplersystems%2Fmapmagic) | 14.1.1 | WapplerSystems; TYPO3 Core Te… | TYPO3 Map Magic - Flexible TYPO3 map framework. |
+| 2026-11-02 00:03:25 | [polidog/rosanna-defer](https://www.nuget.org/packages/polidog%2Frosanna-defer) | v0.1.1 | polidog | Deferred fragments for Rosanna: placeholders, a GET endpoint, client caching an… |
 
 ## Data source
 

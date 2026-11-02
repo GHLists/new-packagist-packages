@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-01T23:37:11Z,vagabit/fos-js-routing-security-bundle,v1.0.0,Martino Piccinato,Role-filtered and security.yaml access-control-aware route exposure for FOSJsRoutingBundle
+2026-11-02T00:01:45Z,polidog/rosanna,v0.1.0,polidog,"Server-side PHP components in the shape of React: H, Element, Renderer and the PSX compiler"
+2026-11-02T00:03:08Z,wapplersystems/mapmagic,14.1.1,WapplerSystems; TYPO3 Core Team,TYPO3 Map Magic - Flexible TYPO3 map framework.
+2026-11-02T00:03:25Z,polidog/rosanna-defer,v0.1.1,polidog,"Deferred fragments for Rosanna: placeholders, a GET endpoint, client caching and rosanna-defer.js, without sessions or state"
