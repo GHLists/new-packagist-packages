@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-02T11:19:37Z,filaforge-studio/filaforge-studio,v0.1.0,,RTL-first visual page builder for Filament 5
+2026-11-02T11:49:07Z,solophp/rate-limiter,v1.0.0,Vitaliy Olos,"Atomic per-key rate limits for PHP: fixed or renewable windows in Redis, with an in-memory twin for tests."
+2026-11-02T11:50:07Z,nubos/starterkit,v1.4.0,,The skeleton application for the Laravel framework.
+2026-11-02T12:07:54Z,kirbydesk/kirby-workflow,0.1.0,Christian Fickinger,"Publish content from Staging to the live website, right from the Panel – and more editorial workflows."
+2026-11-02T12:12:09Z,adachsoft/code-graph-contract,v0.1.0,Arkadiusz Adach,Typed graph models and serialization contracts for representing source-code structure and dependencies.
+2026-11-02T12:14:59Z,adamb/user,1.4.2,Adam Binnersley,A user class
