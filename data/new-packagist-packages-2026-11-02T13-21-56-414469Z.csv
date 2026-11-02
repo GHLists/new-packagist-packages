@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-02T12:24:40Z,evo-mark/laravel-actions-ide-helper,v2.0.0,Craig Riley; Alexander Wulf,Generate a new IDE Helper file for Laravel Actions.
+2026-11-02T12:37:55Z,krafsys/vercy-storage,v1.0.2,,Laravel SDK for Vercy Cloud Storage: upload files and get public URLs with thumbnail and WebP variants.
+2026-11-02T12:39:07Z,aaix/laravel-islands-gallery,v1.0.0,Jonas Gnioui,"An image gallery for Laravel Islands: an inline carousel with thumbnails and a lightbox with zoom, pan, swipe and keyboard control."
+2026-11-02T12:48:23Z,aaix/laravel-archipelago,v1.0.1,Jonas Gnioui,"The whole Laravel Islands set in one install: islands, data grid, search, gallery and file manager."
+2026-11-02T12:50:19Z,sorge-it/cdp-browser-installer,v1.0.0,Stefan Sorge,"Installs a pinned, SHA-256-checked chrome-headless-shell from Chrome for Testing as a Composer dev dependency: the same headless Chrome for every developer and CI run, without Node. Built for agentic engineering."

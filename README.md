@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 12:21 UTC
+## Latest list — 2026-11-02 13:21 UTC
 
-New packages created between 2026-11-02 11:19 UTC and 2026-11-02 12:21 UTC.
+New packages created between 2026-11-02 12:21 UTC and 2026-11-02 13:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-02T12-21-17-325537Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-02T13-21-56-414469Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-02 11:19:37 | [filaforge-studio/filaforge-studio](https://www.nuget.org/packages/filaforge-studio%2Ffilaforge-studio) | v0.1.0 |  | RTL-first visual page builder for Filament 5 |
-| 2026-11-02 11:49:07 | [solophp/rate-limiter](https://www.nuget.org/packages/solophp%2Frate-limiter) | v1.0.0 | Vitaliy Olos | Atomic per-key rate limits for PHP: fixed or renewable windows in Redis, with a… |
-| 2026-11-02 11:50:07 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.4.0 |  | The skeleton application for the Laravel framework. |
-| 2026-11-02 12:07:54 | [kirbydesk/kirby-workflow](https://www.nuget.org/packages/kirbydesk%2Fkirby-workflow) | 0.1.0 | Christian Fickinger | Publish content from Staging to the live website, right from the Panel – and mo… |
-| 2026-11-02 12:12:09 | [adachsoft/code-graph-contract](https://www.nuget.org/packages/adachsoft%2Fcode-graph-contract) | v0.1.0 | Arkadiusz Adach | Typed graph models and serialization contracts for representing source-code str… |
-| 2026-11-02 12:14:59 | [adamb/user](https://www.nuget.org/packages/adamb%2Fuser) | 1.4.2 | Adam Binnersley | A user class |
+| 2026-11-02 12:24:40 | [evo-mark/laravel-actions-ide-helper](https://www.nuget.org/packages/evo-mark%2Flaravel-actions-ide-helper) | v2.0.0 | Craig Riley; Alexander Wulf | Generate a new IDE Helper file for Laravel Actions. |
+| 2026-11-02 12:37:55 | [krafsys/vercy-storage](https://www.nuget.org/packages/krafsys%2Fvercy-storage) | v1.0.2 |  | Laravel SDK for Vercy Cloud Storage: upload files and get public URLs with thum… |
+| 2026-11-02 12:39:07 | [aaix/laravel-islands-gallery](https://www.nuget.org/packages/aaix%2Flaravel-islands-gallery) | v1.0.0 | Jonas Gnioui | An image gallery for Laravel Islands: an inline carousel with thumbnails and a… |
+| 2026-11-02 12:48:23 | [aaix/laravel-archipelago](https://www.nuget.org/packages/aaix%2Flaravel-archipelago) | v1.0.1 | Jonas Gnioui | The whole Laravel Islands set in one install: islands, data grid, search, galle… |
+| 2026-11-02 12:50:19 | [sorge-it/cdp-browser-installer](https://www.nuget.org/packages/sorge-it%2Fcdp-browser-installer) | v1.0.0 | Stefan Sorge | Installs a pinned, SHA-256-checked chrome-headless-shell from Chrome for Testin… |
 
 ## Data source
 
