@@ -15,20 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 01:20 UTC
+## Latest list — 2026-11-02 02:19 UTC
 
-New packages created between 2026-11-02 00:18 UTC and 2026-11-02 01:20 UTC.
+New packages created between 2026-11-02 01:20 UTC and 2026-11-02 02:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-02T01-20-30-36152Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-02T02-19-05-194515Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-02 00:28:54 | [anthonyiles/worktree-isolation](https://www.nuget.org/packages/anthonyiles%2Fworktree-isolation) | v0.6.0 |  | Gives every git worktree of a PHP project its own dependencies, env files and d… |
-| 2026-11-02 00:33:27 | [trevweb/mymobileworkers-api-client](https://www.nuget.org/packages/trevweb%2Fmymobileworkers-api-client) | v1.0.1 | Trevor | PHP HTTP API client for the MyMobileWorkers API |
-| 2026-11-02 00:37:58 | [kitloom/filament-skeleton](https://www.nuget.org/packages/kitloom%2Ffilament-skeleton) | v1.13.0 |  | Grow on Laravel, run it with AI: the kitloom site with the Filament admin edito… |
-| 2026-11-02 00:38:04 | [kitloom/nova-skeleton](https://www.nuget.org/packages/kitloom%2Fnova-skeleton) | v1.13.0 |  | Grow on Laravel, run it with AI: the kitloom site with the Laravel Nova admin e… |
-| 2026-11-02 00:51:49 | [gitpcl/probe](https://www.nuget.org/packages/gitpcl%2Fprobe) | v0.8.1 |  | Agent-first Laravel testing runtime: warm PHP workers, compact JSON probes, sel… |
-| 2026-11-02 01:09:49 | [oliverkroener/ok-cookiebot](https://www.nuget.org/packages/oliverkroener%2Fok-cookiebot) | 3.1.0 | Oliver Kroener | Provides a backend module to manage privacy cookie consent scripts for Cookiebo… |
+| 2026-11-02 01:42:45 | [trevol/trevol-php](https://www.nuget.org/packages/trevol%2Ftrevol-php) | v0.1.0 | Joshua Montclair (Trevol) | SDK de PHP para la API de Trevol (facturación electrónica y demás documentos an… |
+| 2026-11-02 01:51:13 | [omacy/ledgerbeetle](https://www.nuget.org/packages/omacy%2Fledgerbeetle) | v0.1.1 | Shamsuddeen | Double-entry ledger for Laravel, backed by TigerBeetle. |
 
 ## Data source
 
