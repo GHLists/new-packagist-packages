@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 19:22 UTC
+## Latest list — 2026-11-02 20:20 UTC
 
-New packages created between 2026-11-02 18:22 UTC and 2026-11-02 19:22 UTC.
+New packages created between 2026-11-02 19:22 UTC and 2026-11-02 20:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-02T19-22-39-375373Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-02T20-20-08-248696Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-02 18:26:28 | [janalis/easyadmin-embedded-list](https://www.nuget.org/packages/janalis%2Feasyadmin-embedded-list) | v0.1.0 |  | Embedded lists for EasyAdmin forms: show a related entity's own CRUD index, pag… |
-| 2026-11-02 19:10:28 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.11.0 |  | The skeleton application for the Laravel framework. |
-| 2026-11-02 19:19:37 | [ehundu/andamio-evento](https://www.nuget.org/packages/ehundu%2Fandamio-evento) | v1.0.0 |  | Un sitio para un evento hecho con Ehundu, con cuenta atrás, programa por días,… |
+| 2026-11-02 20:11:26 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.13.0 |  | The skeleton application for the Laravel framework. |
 
 ## Data source
 
