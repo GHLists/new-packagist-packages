@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-02T08:20:55Z,kopexa/mautic-oauth-bundle,v0.2.1,Kopexa,"OAuth 2.1 authorization server for Mautic (authorization code + PKCE S256, refresh tokens, dynamic client registration, RFC 8414 metadata, JWKS). Used by MCP clients such as Claude and ChatGPT."
+2026-11-02T08:20:58Z,kopexa/mautic-mcp-bundle,v0.4.1,Kopexa,"Model Context Protocol (MCP) server for Mautic: lets Claude, ChatGPT and other MCP clients read contacts, segments, emails and campaigns and write email and campaign drafts, with the user's Mautic permissions. OAuth 2.1 via kopexa/mautic-oauth-bundle."
+2026-11-02T08:21:00Z,kopexa/mautic-postal-bundle,v0.1.1,Kopexa,Postal mail server integration for Mautic: bounce and delivery-failure webhooks with signature verification.
+2026-11-02T08:30:52Z,glue-agency/akeneo-glue-backoffice,1.0.1,,Reports an Akeneo PIM to the Glue Dashboard after each deploy
+2026-11-02T08:34:15Z,pkc/barcode-qrcode,v1.0.0,PKC,"Laravel Barcode & QR Code generator with SVG, HTML, and optional PNG output"
+2026-11-02T08:37:12Z,colombia-kit/colombia-kit,v0.1.0,,"Utilidades para datos colombianos en PHP: NIT con dígito de verificación, departamentos y municipios DIVIPOLA del DANE y parser de direcciones. Sin dependencias."
+2026-11-02T08:44:15Z,infinityinnovationsdev/codeigniter4-encrypted-env,v1.1.1,,Optional AES-256-GCM encrypted environment values for CodeIgniter 4
+2026-11-02T08:52:44Z,innoge/laravel-msgraph-mailbox,v1.0.0,Tim Geisendoerfer,"Observe Microsoft 365 mailboxes via Microsoft Graph change notifications and delta queries, and act on their messages"
+2026-11-02T09:07:59Z,fivejars/media_directories_element,1.0.0,Five Jars,Provides the media_directories form element: the Media Directories browser widget for custom forms.
