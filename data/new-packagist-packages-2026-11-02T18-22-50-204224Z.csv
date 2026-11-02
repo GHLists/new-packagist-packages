@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-02T17:36:12Z,liberusoftware/real-estate-vr-design-api,1.0.0,,Versioned API adapter for real-estate VR designs.
+2026-11-02T17:36:24Z,liberusoftware/real-estate-vr-design-livewire,1.0.0,,Livewire VR property design studio.
+2026-11-02T17:40:56Z,janalis/porta-assist,v0.1.1,,"Work on one project together, live: a host shares it over the network, guests join, everyone edits the same files and sees each other's carets"
+2026-11-02T17:42:34Z,pdftoolkit/html-to-pdf,v0.1.0,Mathias STRASSER,Object-oriented HTML and CSS pagination to tagged PDF in native PHP
+2026-11-02T17:49:25Z,balt1794/contao-alt-text-generator-ai,1.0.0,Bryam Loaiza,"Write SEO-friendly alt text for the images in your Contao file manager with AI, in bulk, in 131 languages, with review before saving."
+2026-11-02T18:08:05Z,damconsultants/tectake,1.0.0,DamConsultants,DamConsultants Tectake for Magento 2
