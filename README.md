@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 07:21 UTC
+## Latest list — 2026-11-03 08:19 UTC
 
-New packages created between 2026-11-03 06:21 UTC and 2026-11-03 07:21 UTC.
+New packages created between 2026-11-03 07:21 UTC and 2026-11-03 08:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-03T07-21-42-58299Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-03T08-19-02-424703Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-03 06:53:24 | [tracewick/tracewick](https://www.nuget.org/packages/tracewick%2Ftracewick) | v0.1.0 | Tracewick contributors | Sampling profiler for PHP built on ext-excimer: flame graphs, pprof and continu… |
-| 2026-11-03 06:54:05 | [mage2kishan/module-ai-visibility](https://www.nuget.org/packages/mage2kishan%2Fmodule-ai-visibility) | 1.3.0 | Kishan Savaliya | Panth AI Visibility - analytics for Magento 2 that counts AI crawler requests (… |
-| 2026-11-03 07:05:24 | [nowo-tech/storage-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fstorage-kit-bundle) | v1.0.0 | Héctor Franco Aceituno; Nowo.… | S3-compatible object storage for Symfony: per-scope buckets with encrypted cred… |
+| 2026-11-03 07:29:46 | [dwiky-danov/business-error-handler](https://www.nuget.org/packages/dwiky-danov%2Fbusiness-error-handler) | v1.0.0 |  | Framework-agnostic global error handling with safe API responses and optional K… |
+| 2026-11-03 07:48:43 | [desu-php/shoppingcart](https://www.nuget.org/packages/desu-php%2Fshoppingcart) | v5.0.0 | Rob Gloudemans; Patrick Henni… | Session and database shopping carts for Laravel, with discounts, taxes and mult… |
+| 2026-11-03 07:51:42 | [eloquage/laravel-cache-swoole-table](https://www.nuget.org/packages/eloquage%2Flaravel-cache-swoole-table) | v0.1.1 |  | A Laravel Cache driver using Swoole\Table for shared memory storage. |
 
 ## Data source
 

@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-03T07:29:46Z,dwiky-danov/business-error-handler,v1.0.0,,Framework-agnostic global error handling with safe API responses and optional Kibana logging.
+2026-11-03T07:48:43Z,desu-php/shoppingcart,v5.0.0,Rob Gloudemans; Patrick Henninger,"Session and database shopping carts for Laravel, with discounts, taxes and multiple instances."
+2026-11-03T07:51:42Z,eloquage/laravel-cache-swoole-table,v0.1.1,,A Laravel Cache driver using Swoole\Table for shared memory storage.
