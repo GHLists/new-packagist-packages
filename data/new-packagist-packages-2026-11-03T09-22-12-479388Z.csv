@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-03T08:24:38Z,microweber-packages/microweber-deps-arcanedev-php-html,v9.0.2,,Arcanedev PHP-Html — Microweber fork with Laravel 13 support. Replaces arcanedev/php-html.
+2026-11-03T08:24:46Z,microweber-packages/microweber-deps-arcanedev-support,v12.0.2,,Arcanedev Support — Microweber fork with Laravel 13 support. Replaces arcanedev/support.
+2026-11-03T08:24:53Z,microweber-packages/microweber-deps-laravel-repository,v1.2.2,,Base repository implementation for Laravel — Microweber fork with Laravel 13 support. Replaces torann/laravel-repository.
+2026-11-03T08:27:37Z,blaueskreuz/module-age-verification-mrz,1.0.0-beta1,,Verifies the age of customers at checkout from the machine-readable zone (MRZ) of an ID card or passport.
+2026-11-03T08:33:39Z,mathsgod/light-linq,v1.0.0,,A provider-based LINQ-style query library for PHP
+2026-11-03T08:33:39Z,mathsgod/php-linq,v1.0.0,,A provider-based LINQ-style query library for PHP
+2026-11-03T08:40:07Z,signedly/sdk,v0.1.0,Signedly,"Signedly REST API client for PHP: send documents for e-signature, track them and verify webhooks"
