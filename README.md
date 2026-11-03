@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 18:19 UTC
+## Latest list — 2026-11-03 19:21 UTC
 
-New packages created between 2026-11-03 17:21 UTC and 2026-11-03 18:19 UTC.
+New packages created between 2026-11-03 18:19 UTC and 2026-11-03 19:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-03T18-19-09-467705Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-03T19-21-41-957215Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-03 17:38:42 | [hazelchat/agent-plugin](https://www.nuget.org/packages/hazelchat%2Fagent-plugin) | v1.0.0 | Hazelchat | Adds your Hazelchat AI chat agent to every page of an October CMS site from one… |
-| 2026-11-03 17:57:18 | [muhpuc40/chunkit](https://www.nuget.org/packages/muhpuc40%2Fchunkit) | v0.1.0 | Minhaj | Chunked, resumable, server-authoritative file uploads for Laravel 11/12 with a… |
-| 2026-11-03 17:58:43 | [ramon/magic-link](https://www.nuget.org/packages/ramon%2Fmagic-link) | v1.0.0 | Ramon Guilherme | Passwordless sign in and sign up for Flarum 2 with a magic link and a one-time… |
-| 2026-11-03 18:00:45 | [atannex/news-publisher](https://www.nuget.org/packages/atannex%2Fnews-publisher) | v0.1.0 |  | Headless Laravel news ingestion, editorial review and safe Facebook Page publis… |
-| 2026-11-03 18:09:53 | [semsen1/image-safe-area](https://www.nuget.org/packages/semsen1%2Fimage-safe-area) | v1.0.0 |  | Nova image field with safe area overlay |
+| 2026-11-03 18:25:39 | [ocherenkov/laravel-searchable-trait](https://www.nuget.org/packages/ocherenkov%2Flaravel-searchable-trait) | v1.0.1 | Oleh Cherenkov | A reusable Eloquent trait for case-insensitive searches across columns, concate… |
+| 2026-11-03 18:26:07 | [sol-parts/payum-upc](https://www.nuget.org/packages/sol-parts%2Fpayum-upc) | v1.0.0 | Andrii Didenko | Payum gateway for UPC e-Commerce Connect: hosted checkout, signed notifications… |
+| 2026-11-03 18:31:19 | [sightpress/plugin-core](https://www.nuget.org/packages/sightpress%2Fplugin-core) | 1.0.0 |  | The code every SightPress plugin shares: the Plugin API, public value types, te… |
+| 2026-11-03 18:43:54 | [wg-vn/lunar-table-rate-shipping](https://www.nuget.org/packages/wg-vn%2Flunar-table-rate-shipping) | v2.0.0-alpha.6.1 | Lunar; Vested Networks | Lunar's table rate shipping add-on for the Inertia panel (lunarphp/panel 2.x),… |
+| 2026-11-03 19:00:09 | [prinsfrank/core-14-font-metrics](https://www.nuget.org/packages/prinsfrank%2Fcore-14-font-metrics) | v1.0.0 |  | Font metrics for the core 14 PostScript Fonts |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-03T18:25:39Z,ocherenkov/laravel-searchable-trait,v1.0.1,Oleh Cherenkov,"A reusable Eloquent trait for case-insensitive searches across columns, concatenated fields, and relationships."
+2026-11-03T18:26:07Z,sol-parts/payum-upc,v1.0.0,Andrii Didenko,"Payum gateway for UPC e-Commerce Connect: hosted checkout, signed notifications, payment status and full refunds"
+2026-11-03T18:31:19Z,sightpress/plugin-core,1.0.0,,"The code every SightPress plugin shares: the Plugin API, public value types, test kit and shared quality rules."
+2026-11-03T18:43:54Z,wg-vn/lunar-table-rate-shipping,v2.0.0-alpha.6.1,Lunar; Vested Networks,"Lunar's table rate shipping add-on for the Inertia panel (lunarphp/panel 2.x), without Filament. Forked from lunarphp/table-rate-shipping."
+2026-11-03T19:00:09Z,prinsfrank/core-14-font-metrics,v1.0.0,,Font metrics for the core 14 PostScript Fonts
