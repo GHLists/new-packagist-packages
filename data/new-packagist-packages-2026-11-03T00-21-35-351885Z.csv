@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-03T00:05:06Z,sophialabs/cronos-flow-sdk,v0.1.0,Team Sophia,"SDK oficial da API publica do CronosFlow: envio de WhatsApp com ritmo seguro, idempotencia e repeticao controlada."
+2026-11-03T00:11:50Z,raudssus/locale-simple,v0.200.0,,"Gettext-style translation helpers (l, ln, lp, ld, ...) with sprintf formatting. Same API as the Perl, Python, JavaScript, Go and Rust siblings."
