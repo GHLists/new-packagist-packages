@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-11-03T13:21:51Z,gilles-g/dump-loader-bundle,v0.1.0,gilles-g,"Symfony bundle loading a SQL dump into the application database, with a live web UI."
+2026-11-03T13:22:43Z,crystoline/xpsr-auth-oauth2-server,v0.7.0,Adekunle,"An OAuth2 authorization server for XPSR applications, on league/oauth2-server: client credentials, authorization code with PKCE, and refresh tokens; the oauth2 guard driver; clients, scopes, and consent"
+2026-11-03T13:22:43Z,crystoline/xpsr-broadcast,v0.7.0,Adekunle,"Live updates to browsers for XPSR applications, through a Mercure hub: publish updates to topics from code, events, or a queue job after the transaction commits; authorize signed-in users for private topics with a cookie; hub_url() in templates"
+2026-11-03T13:22:43Z,crystoline/xpsr-health,v0.7.0,Adekunle,"Health checks for XPSR applications: live and ready endpoints for load balancers and orchestrators, a health command, and checks of the database, cache, queue and its workers, scheduler, locks, disk space, and HTTP dependencies"
+2026-11-03T13:22:43Z,crystoline/xpsr-orm-cycle,v0.7.0,Adekunle,"Cycle ORM for XPSR applications: attribute-mapped entities on XPSR's database connections, with one shared transaction, migrations generated from the schema, entity behaviors, and a user provider"
+2026-11-03T13:22:43Z,crystoline/xpsr-translation,v0.7.0,Adekunle,"Translations for XPSR applications on Symfony Translation: message files per locale, the locale of each request from its route, session, cookie, or Accept-Language header, trans() in code and templates, translated validation messages, and commands for missing keys"
+2026-11-03T13:48:10Z,rajtik76/nette-console,v0.1.2,,"Artisan-like console for Nette: Symfony Console in DI, package auto-discovery and make: generators"
+2026-11-03T13:48:31Z,rajtik76/nette-migrations,v0.1.3,,"Laravel-like migrations, schema builder, seeders and factories for Nette Database (SQLite, MySQL, PostgreSQL)"
+2026-11-03T13:48:35Z,spearsystems/lcp-sdk,v1.1.1,,LCP Lead Context Protocol SDK for PHP
+2026-11-03T13:53:51Z,golpilolz/media-library,v0.0.1,Arthur Haton,Media library for Symfony Form
+2026-11-03T14:04:31Z,schachbulle/contao-allinkl-bundle,0.1.0,Frank Hoppe,"Verwaltet Domains, Subdomains, DNS, Postfächer, Datenbanken, FTP-Zugänge, Cronjobs und mehr eines All-Inkl-Webhostings über die KAS-API direkt im Contao-Backend."
