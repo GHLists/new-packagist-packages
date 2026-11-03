@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 05:20 UTC
+## Latest list — 2026-11-03 07:21 UTC
 
-New packages created between 2026-11-03 04:21 UTC and 2026-11-03 05:20 UTC.
+New packages created between 2026-11-03 06:21 UTC and 2026-11-03 07:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-03T05-20-44-887053Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-03T07-21-42-58299Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-03 04:25:13 | [vtinnovations/file-inspector](https://www.nuget.org/packages/vtinnovations%2Ffile-inspector) | v1.0.1 | V&T Innovations Team | File Inspector Bundle. |
-| 2026-11-03 04:54:04 | [decionis/php-client](https://www.nuget.org/packages/decionis%2Fphp-client) | v0.1.0 |  | PHP client for the Decionis execution authority: evaluate decisions, read Decis… |
+| 2026-11-03 06:53:24 | [tracewick/tracewick](https://www.nuget.org/packages/tracewick%2Ftracewick) | v0.1.0 | Tracewick contributors | Sampling profiler for PHP built on ext-excimer: flame graphs, pprof and continu… |
+| 2026-11-03 06:54:05 | [mage2kishan/module-ai-visibility](https://www.nuget.org/packages/mage2kishan%2Fmodule-ai-visibility) | 1.3.0 | Kishan Savaliya | Panth AI Visibility - analytics for Magento 2 that counts AI crawler requests (… |
+| 2026-11-03 07:05:24 | [nowo-tech/storage-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fstorage-kit-bundle) | v1.0.0 | Héctor Franco Aceituno; Nowo.… | S3-compatible object storage for Symfony: per-scope buckets with encrypted cred… |
 
 ## Data source
 

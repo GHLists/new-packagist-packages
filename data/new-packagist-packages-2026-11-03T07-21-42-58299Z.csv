@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-03T06:53:24Z,tracewick/tracewick,v0.1.0,Tracewick contributors,"Sampling profiler for PHP built on ext-excimer: flame graphs, pprof and continuous profiling exports (alpha)."
+2026-11-03T06:54:05Z,mage2kishan/module-ai-visibility,1.3.0,Kishan Savaliya,"Panth AI Visibility - analytics for Magento 2 that counts AI crawler requests (including full page cache hits), detects shoppers arriving from AI assistants and attributes their orders, with an admin dashboard and insights, discovery of unknown bots, data-health checks and an access log importer fo…"
+2026-11-03T07:05:24Z,nowo-tech/storage-kit-bundle,v1.0.0,Héctor Franco Aceituno; Nowo.tech,"S3-compatible object storage for Symfony: per-scope buckets with encrypted credentials, image uploads for Markdown editors, reference-aware purge, verified bucket moves and an SSRF-guarded endpoint test."
