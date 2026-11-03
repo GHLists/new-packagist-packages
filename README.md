@@ -15,21 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 09:22 UTC
+## Latest list — 2026-11-03 10:18 UTC
 
-New packages created between 2026-11-03 08:19 UTC and 2026-11-03 09:22 UTC.
+New packages created between 2026-11-03 09:22 UTC and 2026-11-03 10:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-03T09-22-12-479388Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-03T10-18-57-252083Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-03 08:24:38 | [microweber-packages/microweber-deps-arcanedev-php-html](https://www.nuget.org/packages/microweber-packages%2Fmicroweber-deps-arcanedev-php-html) | v9.0.2 |  | Arcanedev PHP-Html — Microweber fork with Laravel 13 support. Replaces arcanede… |
-| 2026-11-03 08:24:46 | [microweber-packages/microweber-deps-arcanedev-support](https://www.nuget.org/packages/microweber-packages%2Fmicroweber-deps-arcanedev-support) | v12.0.2 |  | Arcanedev Support — Microweber fork with Laravel 13 support. Replaces arcanedev… |
-| 2026-11-03 08:24:53 | [microweber-packages/microweber-deps-laravel-repository](https://www.nuget.org/packages/microweber-packages%2Fmicroweber-deps-laravel-repository) | v1.2.2 |  | Base repository implementation for Laravel — Microweber fork with Laravel 13 su… |
-| 2026-11-03 08:27:37 | [blaueskreuz/module-age-verification-mrz](https://www.nuget.org/packages/blaueskreuz%2Fmodule-age-verification-mrz) | 1.0.0-beta1 |  | Verifies the age of customers at checkout from the machine-readable zone (MRZ)… |
-| 2026-11-03 08:33:39 | [mathsgod/light-linq](https://www.nuget.org/packages/mathsgod%2Flight-linq) | v1.0.0 |  | A provider-based LINQ-style query library for PHP |
-| 2026-11-03 08:33:39 | [mathsgod/php-linq](https://www.nuget.org/packages/mathsgod%2Fphp-linq) | v1.0.0 |  | A provider-based LINQ-style query library for PHP |
-| 2026-11-03 08:40:07 | [signedly/sdk](https://www.nuget.org/packages/signedly%2Fsdk) | v0.1.0 | Signedly | Signedly REST API client for PHP: send documents for e-signature, track them an… |
+| 2026-11-03 09:57:50 | [yoopies/francetravail-php](https://www.nuget.org/packages/yoopies%2Ffrancetravail-php) | 1.0.0 | AntoineLemaire | France Travail (francetravail.io) API client built on top of Guzzle |
+| 2026-11-03 09:59:40 | [visuellverstehen/statamic-glossary-tooltips](https://www.nuget.org/packages/visuellverstehen%2Fstatamic-glossary-tooltips) | v2.0.0 | visuellverstehen | Provides glossary tooltips for your bard content. |
+| 2026-11-03 10:06:42 | [opaige/opaige-php](https://www.nuget.org/packages/opaige%2Fopaige-php) | v1.0.0 |  | The Opaige API for PHP: visa requirements, file review, forms, bookings, lodgem… |
 
 ## Data source
 

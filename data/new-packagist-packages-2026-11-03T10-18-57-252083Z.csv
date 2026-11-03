@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-03T09:57:50Z,yoopies/francetravail-php,1.0.0,AntoineLemaire,France Travail (francetravail.io) API client built on top of Guzzle
+2026-11-03T09:59:40Z,visuellverstehen/statamic-glossary-tooltips,v2.0.0,visuellverstehen,Provides glossary tooltips for your bard content.
+2026-11-03T10:06:42Z,opaige/opaige-php,v1.0.0,,"The Opaige API for PHP: visa requirements, file review, forms, bookings, lodgements and webhooks."
