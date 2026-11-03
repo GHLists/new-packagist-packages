@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-03T22:29:45Z,alvesbeto/mysql2pdo,v1.0.0,Beto Souza,"Legacy mysql_* functions for PHP 8+, implemented on ext-pdo (MySQL driver compatibility shim)"
+2026-11-03T22:44:15Z,sharkyphp/project,v2.0.1,bytesharky,A new SharkyPHP project.
+2026-11-03T23:05:46Z,uptools-io/trustorder-for-woo,v1.0.0,uptools.io,Cash-on-delivery buyer reputation for WooCommerce from hashed identities (TrustOrder API client).

@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 22:20 UTC
+## Latest list — 2026-11-03 23:21 UTC
 
-New packages created between 2026-11-03 21:19 UTC and 2026-11-03 22:20 UTC.
+New packages created between 2026-11-03 22:20 UTC and 2026-11-03 23:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-03T22-20-39-33153Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-03T23-21-39-804181Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-03 22:02:17 | [nakipelo/orchid-2fa-totp](https://www.nuget.org/packages/nakipelo%2Forchid-2fa-totp) | 0.1.0 | nakipelo | TOTP (Google Authenticator and compatible apps) channel for nakipelo/orchid-2fa… |
+| 2026-11-03 22:29:45 | [alvesbeto/mysql2pdo](https://www.nuget.org/packages/alvesbeto%2Fmysql2pdo) | v1.0.0 | Beto Souza | Legacy mysql_* functions for PHP 8+, implemented on ext-pdo (MySQL driver compa… |
+| 2026-11-03 22:44:15 | [sharkyphp/project](https://www.nuget.org/packages/sharkyphp%2Fproject) | v2.0.1 | bytesharky | A new SharkyPHP project. |
+| 2026-11-03 23:05:46 | [uptools-io/trustorder-for-woo](https://www.nuget.org/packages/uptools-io%2Ftrustorder-for-woo) | v1.0.0 | uptools.io | Cash-on-delivery buyer reputation for WooCommerce from hashed identities (Trust… |
 
 ## Data source
 
