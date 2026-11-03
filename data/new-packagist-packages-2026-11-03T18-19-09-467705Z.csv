@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-03T17:38:42Z,hazelchat/agent-plugin,v1.0.0,Hazelchat,Adds your Hazelchat AI chat agent to every page of an October CMS site from one installation code.
+2026-11-03T17:57:18Z,muhpuc40/chunkit,v0.1.0,Minhaj,"Chunked, resumable, server-authoritative file uploads for Laravel 11/12 with a queued merge and zero extra infrastructure."
+2026-11-03T17:58:43Z,ramon/magic-link,v1.0.0,Ramon Guilherme,Passwordless sign in and sign up for Flarum 2 with a magic link and a one-time code sent by email
+2026-11-03T18:00:45Z,atannex/news-publisher,v0.1.0,,"Headless Laravel news ingestion, editorial review and safe Facebook Page publishing."
+2026-11-03T18:09:53Z,semsen1/image-safe-area,v1.0.0,,Nova image field with safe area overlay
