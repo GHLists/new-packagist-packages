@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-03T22:02:17Z,nakipelo/orchid-2fa-totp,0.1.0,nakipelo,TOTP (Google Authenticator and compatible apps) channel for nakipelo/orchid-2fa: two-factor authentication of the Laravel Orchid admin panel with an authenticator app.
