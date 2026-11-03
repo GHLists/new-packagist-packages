@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-03T14:20:39Z,tualo/ds-sftp-import,1.0.2,,SFTP import package for Tualo Office package
+2026-11-03T14:22:43Z,gp247/mcp,2.0.0,GP247,"MCP server for GP247 / S-Cart: let the site owner's AI agents (Claude, Cursor, VS Code…) work with the shop under the same admin permissions"
+2026-11-03T14:31:26Z,rajtik76/nette-middleware,v0.2.0,,Laravel-style route middleware for Nette Application
+2026-11-03T14:45:38Z,apip/wallet,v1.0.3,apip,apip.io Wallet
+2026-11-03T14:48:17Z,urbania/apple-news,v1.0.0,Folklore; David Mongeau-Petitpas,
+2026-11-03T15:00:08Z,julien-its/emails-queue-s8,1.0.0,Julien IT Solutions,Symfony Easy Emails Queue Bundle for Symfony 8
+2026-11-03T15:00:51Z,vielhuber/linkedinmcp,v0.1.1,,Minimal PHP helper and MCP server for LinkedIn posting and member data portability.

@@ -15,25 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 14:20 UTC
+## Latest list — 2026-11-03 15:19 UTC
 
-New packages created between 2026-11-03 13:19 UTC and 2026-11-03 14:20 UTC.
+New packages created between 2026-11-03 14:20 UTC and 2026-11-03 15:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-03T14-20-07-417803Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-03T15-19-49-348385Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-03 13:21:51 | [gilles-g/dump-loader-bundle](https://www.nuget.org/packages/gilles-g%2Fdump-loader-bundle) | v0.1.0 | gilles-g | Symfony bundle loading a SQL dump into the application database, with a live we… |
-| 2026-11-03 13:22:43 | [crystoline/xpsr-auth-oauth2-server](https://www.nuget.org/packages/crystoline%2Fxpsr-auth-oauth2-server) | v0.7.0 | Adekunle | An OAuth2 authorization server for XPSR applications, on league/oauth2-server:… |
-| 2026-11-03 13:22:43 | [crystoline/xpsr-broadcast](https://www.nuget.org/packages/crystoline%2Fxpsr-broadcast) | v0.7.0 | Adekunle | Live updates to browsers for XPSR applications, through a Mercure hub: publish… |
-| 2026-11-03 13:22:43 | [crystoline/xpsr-health](https://www.nuget.org/packages/crystoline%2Fxpsr-health) | v0.7.0 | Adekunle | Health checks for XPSR applications: live and ready endpoints for load balancer… |
-| 2026-11-03 13:22:43 | [crystoline/xpsr-orm-cycle](https://www.nuget.org/packages/crystoline%2Fxpsr-orm-cycle) | v0.7.0 | Adekunle | Cycle ORM for XPSR applications: attribute-mapped entities on XPSR's database c… |
-| 2026-11-03 13:22:43 | [crystoline/xpsr-translation](https://www.nuget.org/packages/crystoline%2Fxpsr-translation) | v0.7.0 | Adekunle | Translations for XPSR applications on Symfony Translation: message files per lo… |
-| 2026-11-03 13:48:10 | [rajtik76/nette-console](https://www.nuget.org/packages/rajtik76%2Fnette-console) | v0.1.2 |  | Artisan-like console for Nette: Symfony Console in DI, package auto-discovery a… |
-| 2026-11-03 13:48:31 | [rajtik76/nette-migrations](https://www.nuget.org/packages/rajtik76%2Fnette-migrations) | v0.1.3 |  | Laravel-like migrations, schema builder, seeders and factories for Nette Databa… |
-| 2026-11-03 13:48:35 | [spearsystems/lcp-sdk](https://www.nuget.org/packages/spearsystems%2Flcp-sdk) | v1.1.1 |  | LCP Lead Context Protocol SDK for PHP |
-| 2026-11-03 13:53:51 | [golpilolz/media-library](https://www.nuget.org/packages/golpilolz%2Fmedia-library) | v0.0.1 | Arthur Haton | Media library for Symfony Form |
-| 2026-11-03 14:04:31 | [schachbulle/contao-allinkl-bundle](https://www.nuget.org/packages/schachbulle%2Fcontao-allinkl-bundle) | 0.1.0 | Frank Hoppe | Verwaltet Domains, Subdomains, DNS, Postfächer, Datenbanken, FTP-Zugänge, Cronj… |
+| 2026-11-03 14:20:39 | [tualo/ds-sftp-import](https://www.nuget.org/packages/tualo%2Fds-sftp-import) | 1.0.2 |  | SFTP import package for Tualo Office package |
+| 2026-11-03 14:22:43 | [gp247/mcp](https://www.nuget.org/packages/gp247%2Fmcp) | 2.0.0 | GP247 | MCP server for GP247 / S-Cart: let the site owner's AI agents (Claude, Cursor,… |
+| 2026-11-03 14:31:26 | [rajtik76/nette-middleware](https://www.nuget.org/packages/rajtik76%2Fnette-middleware) | v0.2.0 |  | Laravel-style route middleware for Nette Application |
+| 2026-11-03 14:45:38 | [apip/wallet](https://www.nuget.org/packages/apip%2Fwallet) | v1.0.3 | apip | apip.io Wallet |
+| 2026-11-03 14:48:17 | [urbania/apple-news](https://www.nuget.org/packages/urbania%2Fapple-news) | v1.0.0 | Folklore; David Mongeau-Petit… |  |
+| 2026-11-03 15:00:08 | [julien-its/emails-queue-s8](https://www.nuget.org/packages/julien-its%2Femails-queue-s8) | 1.0.0 | Julien IT Solutions | Symfony Easy Emails Queue Bundle for Symfony 8 |
+| 2026-11-03 15:00:51 | [vielhuber/linkedinmcp](https://www.nuget.org/packages/vielhuber%2Flinkedinmcp) | v0.1.1 |  | Minimal PHP helper and MCP server for LinkedIn posting and member data portabil… |
 
 ## Data source
 
