@@ -15,19 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 19:21 UTC
+## Latest list — 2026-11-03 20:21 UTC
 
-New packages created between 2026-11-03 18:19 UTC and 2026-11-03 19:21 UTC.
+New packages created between 2026-11-03 19:21 UTC and 2026-11-03 20:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-03T19-21-41-957215Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-03T20-21-21-046343Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-03 18:25:39 | [ocherenkov/laravel-searchable-trait](https://www.nuget.org/packages/ocherenkov%2Flaravel-searchable-trait) | v1.0.1 | Oleh Cherenkov | A reusable Eloquent trait for case-insensitive searches across columns, concate… |
-| 2026-11-03 18:26:07 | [sol-parts/payum-upc](https://www.nuget.org/packages/sol-parts%2Fpayum-upc) | v1.0.0 | Andrii Didenko | Payum gateway for UPC e-Commerce Connect: hosted checkout, signed notifications… |
-| 2026-11-03 18:31:19 | [sightpress/plugin-core](https://www.nuget.org/packages/sightpress%2Fplugin-core) | 1.0.0 |  | The code every SightPress plugin shares: the Plugin API, public value types, te… |
-| 2026-11-03 18:43:54 | [wg-vn/lunar-table-rate-shipping](https://www.nuget.org/packages/wg-vn%2Flunar-table-rate-shipping) | v2.0.0-alpha.6.1 | Lunar; Vested Networks | Lunar's table rate shipping add-on for the Inertia panel (lunarphp/panel 2.x),… |
-| 2026-11-03 19:00:09 | [prinsfrank/core-14-font-metrics](https://www.nuget.org/packages/prinsfrank%2Fcore-14-font-metrics) | v1.0.0 |  | Font metrics for the core 14 PostScript Fonts |
+| 2026-11-03 20:03:02 | [webflixtec/sdk-php-nfsn](https://www.nuget.org/packages/webflixtec%2Fsdk-php-nfsn) | v1.0.0 | a21ns1g4ts; Weslley | SDK PHP das APIs para emissão de Nota Fiscal de Serviço Nacional |
+| 2026-11-03 20:11:39 | [smart-dato/asendia-sync-sdk](https://www.nuget.org/packages/smart-dato%2Fasendia-sync-sdk) | 0.0.2 | SmartDato | Laravel SDK for the Asendia Sync shipping API (parcels, labels, manifests, trac… |
 
 ## Data source
 

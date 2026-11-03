@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-03T20:03:02Z,webflixtec/sdk-php-nfsn,v1.0.0,a21ns1g4ts; Weslley,SDK PHP das APIs para emissão de Nota Fiscal de Serviço Nacional
+2026-11-03T20:11:39Z,smart-dato/asendia-sync-sdk,0.0.2,SmartDato,"Laravel SDK for the Asendia Sync shipping API (parcels, labels, manifests, tracking, PUDO points, customs documents)"
