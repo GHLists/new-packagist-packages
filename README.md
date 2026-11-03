@@ -15,21 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 02:21 UTC
+## Latest list — 2026-11-03 04:21 UTC
 
-New packages created between 2026-11-03 01:20 UTC and 2026-11-03 02:21 UTC.
+New packages created between 2026-11-03 03:20 UTC and 2026-11-03 04:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-03T02-21-37-43403Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-03T04-21-36-121163Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-03 01:50:25 | [roayapay/platform-core](https://www.nuget.org/packages/roayapay%2Fplatform-core) | v1.0.0 | RoayaPay Engineering | RoayaPay Platform Core: the official RoayaPay engineering standard for Laravel… |
-| 2026-11-03 01:51:43 | [hibira-io/craft-hibira](https://www.nuget.org/packages/hibira-io%2Fcraft-hibira) | v0.1.0 | Hibira | Realtime for Craft CMS on Hibira: editing presence and saved warnings in the co… |
-| 2026-11-03 01:57:53 | [lowelllab/dpop-core](https://www.nuget.org/packages/lowelllab%2Fdpop-core) | v0.1.0-beta.1 |  | Framework-independent strict RFC 9449 DPoP verification and authentication coor… |
-| 2026-11-03 01:58:29 | [lowelllab/hyperf-dpop](https://www.nuget.org/packages/lowelllab%2Fhyperf-dpop) | v0.1.0-beta.1 |  | Hyperf integration for strict DPoP authentication, nonce and atomic replay prot… |
-| 2026-11-03 01:58:43 | [ashraftalha/laravel-opconsole](https://www.nuget.org/packages/ashraftalha%2Flaravel-opconsole) | v1.2.2 | Ashraf Talha | Monitor. Diagnose. Maintain. An administrative operations console for Laravel a… |
-| 2026-11-03 02:05:36 | [noone-silent/data-transfer-object](https://www.nuget.org/packages/noone-silent%2Fdata-transfer-object) | v1.0.0 | Brent Roose | Data transfer objects with batteries included |
-| 2026-11-03 02:07:24 | [abduns/laravel-db-backup](https://www.nuget.org/packages/abduns%2Flaravel-db-backup) | v1.0.0 | Abduns | Back up a Laravel database (PostgreSQL, MySQL/MariaDB or SQLite) to any filesys… |
+| 2026-11-03 03:28:38 | [stougeiro/app](https://www.nuget.org/packages/stougeiro%2Fapp) | v0.2.0 | stougeiro | A PHP 8.2 application foundation for shared hosting, built on the Stougeiro run… |
+| 2026-11-03 03:29:03 | [mage2kishan/module-ai-visibility](https://www.nuget.org/packages/mage2kishan%2Fmodule-ai-visibility) | 1.2.0 | Kishan Savaliya | Panth AI Visibility - analytics for Magento 2 that counts AI crawler requests (… |
+| 2026-11-03 03:43:00 | [borodulin/yii2-camunda](https://www.nuget.org/packages/borodulin%2Fyii2-camunda) | 1.0.1 | Andrey Borodulin | The Camunda Rest API extension for the Yii2 framework |
+| 2026-11-03 03:43:13 | [conquer/flot](https://www.nuget.org/packages/conquer%2Fflot) | 1.0.0 | Andrey Borodulin | Yii2 flot widget |
+| 2026-11-03 03:43:20 | [conquer/fullcalendar](https://www.nuget.org/packages/conquer%2Ffullcalendar) | 1.0.0 | Andrey Borodulin | Yii2 fullcalendar widget |
+| 2026-11-03 03:44:05 | [conquer/simplelineicons](https://www.nuget.org/packages/conquer%2Fsimplelineicons) | 1.0.0 | Andrey Borodulin | Yii2 simplelineicons widget |
 
 ## Data source
 

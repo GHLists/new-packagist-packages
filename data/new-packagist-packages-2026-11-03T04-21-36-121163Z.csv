@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-03T03:28:38Z,stougeiro/app,v0.2.0,stougeiro,"A PHP 8.2 application foundation for shared hosting, built on the Stougeiro runtime and module contracts."
+2026-11-03T03:29:03Z,mage2kishan/module-ai-visibility,1.2.0,Kishan Savaliya,"Panth AI Visibility - analytics for Magento 2 that counts AI crawler requests (including full page cache hits), detects shoppers arriving from AI assistants and attributes their orders, with an admin dashboard and insights, discovery of unknown bots, data-health checks and an access log importer fo…"
+2026-11-03T03:43:00Z,borodulin/yii2-camunda,1.0.1,Andrey Borodulin,The Camunda Rest API extension for the Yii2 framework
+2026-11-03T03:43:13Z,conquer/flot,1.0.0,Andrey Borodulin,Yii2 flot widget
+2026-11-03T03:43:20Z,conquer/fullcalendar,1.0.0,Andrey Borodulin,Yii2 fullcalendar widget
+2026-11-03T03:44:05Z,conquer/simplelineicons,1.0.0,Andrey Borodulin,Yii2 simplelineicons widget
