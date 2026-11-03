@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-03T20:26:12Z,tamino-gateway/sdk,v1.0.0,Tamino,"Official PHP SDK for the Tamino payments API (/v1): Pix, boleto, cards, payouts, balance and webhooks."
+2026-11-03T20:28:56Z,sandritsch91/php-science,1.0.0,,"Exact, dimension-aware physical quantities and SI units for PHP"
+2026-11-03T20:39:52Z,r2soft/nfse-nacional,v1.0.0,,"Emissão de NFS-e pelo padrão nacional (API Sefin Nacional): DPS 1.01 assinada, mTLS"
+2026-11-03T21:02:45Z,phpoffice/phpdatabase,0.1.0,Franck Lefevre,"PhpOffice\PhpDatabase - Read, Create and Write database documents (ACCDB, ODB, SQLite) in PHP"
