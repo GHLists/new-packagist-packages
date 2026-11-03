@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-03T01:50:25Z,roayapay/platform-core,v1.0.0,RoayaPay Engineering,"RoayaPay Platform Core: the official RoayaPay engineering standard for Laravel 12 APIs (unified responses, API code registry, bilingual validation, unified exceptions, monitoring, audit trail and idempotency)."
+2026-11-03T01:51:43Z,hibira-io/craft-hibira,v0.1.0,Hibira,"Realtime for Craft CMS on Hibira: editing presence and saved warnings in the control panel, live entry updates on the front end, Commerce order status, and Twig/PHP event publishing."
+2026-11-03T01:57:53Z,lowelllab/dpop-core,v0.1.0-beta.1,,Framework-independent strict RFC 9449 DPoP verification and authentication coordination.
+2026-11-03T01:58:29Z,lowelllab/hyperf-dpop,v0.1.0-beta.1,,"Hyperf integration for strict DPoP authentication, nonce and atomic replay protection."
+2026-11-03T01:58:43Z,ashraftalha/laravel-opconsole,v1.2.2,Ashraf Talha,"Monitor. Diagnose. Maintain. An administrative operations console for Laravel applications: health checks, safe Artisan operations, and a log viewer behind explicit authorization."
+2026-11-03T02:05:36Z,noone-silent/data-transfer-object,v1.0.0,Brent Roose,Data transfer objects with batteries included
+2026-11-03T02:07:24Z,abduns/laravel-db-backup,v1.0.0,Abduns,"Back up a Laravel database (PostgreSQL, MySQL/MariaDB or SQLite) to any filesystem disk, with a backup history, retention and a staleness check."
