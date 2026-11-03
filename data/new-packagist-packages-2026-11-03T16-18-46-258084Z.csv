@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-03T15:22:07Z,omaacha/2fa,v1.0.0,Otmane Maacha,"Multi-Factor Authentication (TOTP, Multi-Channel OTP, Recovery Codes, Trusted Devices, Sudo Mode) for Laravel APIs"
+2026-11-03T15:23:04Z,scrapfly/scrapfly-sdk,v0.0.1,Scrapfly,"Official PHP SDK for the Scrapfly platform: web scraping, screenshots, AI extraction, crawling, and a remote anti-bot browser."
+2026-11-03T15:28:10Z,dlundgren/phagrancy,1.0.0,David Lundgren,Private Vagrant Cloud
+2026-11-03T15:36:33Z,chrismou/streamseal,0.1.0,Chris Chrisostomou,"Streaming authenticated file encryption for PHP on libsodium secretstream (XChaCha20-Poly1305). Encrypts a stream of any size in flat memory; tampering, truncation and appended data are detected on decrypt. Zero dependencies."
+2026-11-03T15:52:53Z,alvesbeto/mysql2i,v1.0.1,Beto Souza,"Legacy mysql_* functions for PHP 8+, implemented on ext-mysqli (compatibility shim)"
+2026-11-03T16:01:44Z,justbetter/magento2-sentry-logrocket,1.0.0,JustBetter B.V.,Magento 2 LogRocket integration for JustBetter Sentry
