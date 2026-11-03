@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-03T10:30:10Z,bedud5495/php_xpub,v1.1.0,bedud5495,"Derive BTC, LTC, DOGE, BCH, DASH and ETH extended public keys and addresses without GMP."
+2026-11-03T10:34:48Z,sentry/sentry-php-tracer,0.1.0,,Experimental Sentry tracing extension for PHP
+2026-11-03T10:43:23Z,fortytwo-studio/colour-palettes,1.0.0,FortyTwo Studio,"Colour palettes with solid colours, gradients and custom attributes."
+2026-11-03T10:46:50Z,nakipelo/orchid-2fa,0.1.0,nakipelo,"Two-factor authentication for the Laravel Orchid admin panel: a one-time code by e-mail at password login, trusted devices, profile screen and admin reset."
+2026-11-03T10:59:13Z,complianty/typo3-connector,v0.1.0,Complianty,"Shows the Complianty website scan status, starts scans and outputs the approved privacy policy in TYPO3."
