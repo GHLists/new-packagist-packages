@@ -15,20 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 04:21 UTC
+## Latest list — 2026-11-03 05:20 UTC
 
-New packages created between 2026-11-03 03:20 UTC and 2026-11-03 04:21 UTC.
+New packages created between 2026-11-03 04:21 UTC and 2026-11-03 05:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-03T04-21-36-121163Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-03T05-20-44-887053Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-03 03:28:38 | [stougeiro/app](https://www.nuget.org/packages/stougeiro%2Fapp) | v0.2.0 | stougeiro | A PHP 8.2 application foundation for shared hosting, built on the Stougeiro run… |
-| 2026-11-03 03:29:03 | [mage2kishan/module-ai-visibility](https://www.nuget.org/packages/mage2kishan%2Fmodule-ai-visibility) | 1.2.0 | Kishan Savaliya | Panth AI Visibility - analytics for Magento 2 that counts AI crawler requests (… |
-| 2026-11-03 03:43:00 | [borodulin/yii2-camunda](https://www.nuget.org/packages/borodulin%2Fyii2-camunda) | 1.0.1 | Andrey Borodulin | The Camunda Rest API extension for the Yii2 framework |
-| 2026-11-03 03:43:13 | [conquer/flot](https://www.nuget.org/packages/conquer%2Fflot) | 1.0.0 | Andrey Borodulin | Yii2 flot widget |
-| 2026-11-03 03:43:20 | [conquer/fullcalendar](https://www.nuget.org/packages/conquer%2Ffullcalendar) | 1.0.0 | Andrey Borodulin | Yii2 fullcalendar widget |
-| 2026-11-03 03:44:05 | [conquer/simplelineicons](https://www.nuget.org/packages/conquer%2Fsimplelineicons) | 1.0.0 | Andrey Borodulin | Yii2 simplelineicons widget |
+| 2026-11-03 04:25:13 | [vtinnovations/file-inspector](https://www.nuget.org/packages/vtinnovations%2Ffile-inspector) | v1.0.1 | V&T Innovations Team | File Inspector Bundle. |
+| 2026-11-03 04:54:04 | [decionis/php-client](https://www.nuget.org/packages/decionis%2Fphp-client) | v0.1.0 |  | PHP client for the Decionis execution authority: evaluate decisions, read Decis… |
 
 ## Data source
 
