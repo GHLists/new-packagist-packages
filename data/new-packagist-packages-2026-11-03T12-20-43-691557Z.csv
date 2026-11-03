@@ -1,0 +1,39 @@
+created_at,package,version,author,description
+2026-11-03T11:20:54Z,microweber-packages/microweber-url,v1.0.0,Microweber Dev Team,URL management package for Microweber - can be used standalone with any Laravel application
+2026-11-03T11:21:02Z,microweber-packages/microweber-zip,v1.0.0,Microweber,"Standalone Laravel zip package: create and extract ZIP archives with zip-bomb protection, path traversal guards, and optional file-allowance checks"
+2026-11-03T11:36:36Z,microweber-packages/frontend-assets,v1.0.0,,Microweber CMS - Frontend Assets
+2026-11-03T11:37:58Z,microweber-packages/frontend-assets-libs,v1.0.0,,Library for frontend assets
+2026-11-03T11:38:17Z,microweber-packages/microweber-activity-log,v1.0.0,Microweber,Microweber CMS.
+2026-11-03T11:38:26Z,microweber-packages/microweber-ai-tools,v1.0.0,Microweber,"Standalone Laravel AI tool-calling framework with a tool registry, base tools, and external service tools"
+2026-11-03T11:38:34Z,microweber-packages/microweber-cdn-sync,v1.0.0,Microweber,Standalone CDN sync package for Laravel. Syncs any Eloquent model's files to S3-compatible storage via a polymorphic sync log.
+2026-11-03T11:38:44Z,microweber-packages/microweber-config-merge,v1.0.0,Microweber,Package-priority config merging for Laravel – lets package/module config values override application defaults instead of the other way around.
+2026-11-03T11:38:53Z,microweber-packages/microweber-content-field,v1.0.0,Microweber,Standalone content-field persistence layer for Laravel. Manages content_fields and content_fields_drafts tables with multilanguage support.
+2026-11-03T11:39:02Z,microweber-packages/microweber-css-framework-bootstrap,v1.0.0,Microweber Team,Shared Microweber CSS framework based on Bootstrap with semantic --mw- CSS variables
+2026-11-03T11:39:12Z,microweber-packages/microweber-db-export,v1.0.0,Microweber,"Database export, import, and cross-connection migration for Laravel. Supports SQLite, MySQL, and PostgreSQL with chunked transfers, auto-increment preservation, index detection, and JSON streaming."
+2026-11-03T11:39:21Z,microweber-packages/microweber-db-migrator,v1.0.0,Microweber,"Standalone Laravel database migrator and schema builder. Provides a custom migrator, table builder, and schema installer that can be reused across any Laravel application."
+2026-11-03T11:39:29Z,microweber-packages/microweber-disposable-email-checker,v1.0.0,Microweber,Disposable / temporary email address checker for Laravel apps — usable standalone or inside Microweber CMS
+2026-11-03T11:39:38Z,microweber-packages/microweber-dusk,v1.0.0,,Microweber Dusk browser test suite — portable across CMS configurations
+2026-11-03T11:39:47Z,microweber-packages/microweber-env-writer,v1.0.0,Peter Ivanov; Microweber,"A standalone .env file writer for Laravel. Reads, updates and appends key-value pairs while preserving comments and preventing duplicate keys."
+2026-11-03T11:39:55Z,microweber-packages/microweber-filament-modal-teleport,v1.0.0,Peter Ivanov; Microweber; Bozhidar Slaveykov,"Fixes inline Filament action modals rendered un-clickable because the focus-trap marks an ANCESTOR (.fi-main) `inert`, which propagates into the modal. Clears the stray inert in place (no DOM move, so Livewire wire:model/wire:submit keep working). Self-healing MutationObserver; supports nested/stac…"
+2026-11-03T11:40:05Z,microweber-packages/microweber-filament-registry,v1.0.0,Peter Ivanov; Microweber; Bozhidar Slaveykov,"Standalone Filament panel registry for dynamically registering resources, pages, widgets, plugins and clusters. Reusable across any Laravel app with Filament panels."
+2026-11-03T11:40:16Z,microweber-packages/microweber-filament-theme,v1.0.0,Bozhidar,Microweber CMS - Filament admin panel theme
+2026-11-03T11:40:29Z,microweber-packages/microweber-file-uploader,v1.0.0,Microweber,"Standalone Laravel file upload service with MIME validation, size limits, security checks, chunked uploads, and image processing"
+2026-11-03T11:40:37Z,microweber-packages/microweber-format,v1.0.0,Microweber,"Reusable Laravel formatting & utility package – dates, strings, arrays, encoding, XSS/HTML cleaning helpers. Accessible via app()->format facade."
+2026-11-03T11:40:46Z,microweber-packages/microweber-fortify,v1.0.0,Microweber,Microweber Fortify - Two-Factor Authentication package for Microweber CMS and standalone Laravel apps
+2026-11-03T11:40:54Z,microweber-packages/microweber-frontend,v1.0.0,Microweber,Microweber CMS.
+2026-11-03T11:41:03Z,microweber-packages/microweber-image-optimization,v1.0.0,Microweber Team,"Standalone Laravel package for image optimization: WebP conversion, lazy loading, responsive images, and cache management. Reusable in any Laravel app."
+2026-11-03T11:41:14Z,microweber-packages/microweber-livewire-modal,v1.0.0,Microweber; Bozhidar Slaveykov,"Standalone Livewire modal package for Laravel. Supports stacked/nested modals, unique multi-instance IDs, skins, and configurable close/backdrop/escape options. Drop-in replacement for wire-elements/modal with multi-instance fixes."
+2026-11-03T11:41:23Z,microweber-packages/microweber-mail-sender,v1.0.0,Microweber Team,"Standalone Laravel package for sending email via configurable transports (SMTP, PHP mail, Gmail, cPanel, Plesk). Reusable in any Laravel app. Extracted from Microweber CMS MailSender."
+2026-11-03T11:41:32Z,microweber-packages/microweber-media-pixum,v1.0.0,Microweber Team,Standalone Laravel package for generating and serving placeholder (pixum) images. No exit() calls — fully testable.
+2026-11-03T11:41:41Z,microweber-packages/microweber-minifier,v1.0.0,Microweber Team,Standalone Laravel package for JS and CSS minification. Reusable in any Laravel app. Based on fixed JShrink for JavaScript.
+2026-11-03T11:41:50Z,microweber-packages/microweber-module-registry,v1.0.0,Microweber; Peter Ivanov; Bozhidar Slaveykov,"Standalone Microweber module registry for Laravel. Register, discover, render modules and scan blade skins/templates. Usable inside the CMS or any standalone Laravel app."
+2026-11-03T11:42:00Z,microweber-packages/microweber-modules,v1.0.0,Sam Maosa,Microweber Filament modules integration (supersedes coolsam/savannabits filament-modules). Organize Filament code into modules using nwidart/laravel-modules.
+2026-11-03T11:42:21Z,microweber-packages/microweber-pagination,v1.0.0,Microweber,"Unified, reusable pagination package for Laravel — Bootstrap, Tailwind, dropdown styles with size variants and windowed page links."
+2026-11-03T11:42:42Z,microweber-packages/microweber-passport,v1.0.0,Microweber,Microweber Passport – OAuth2 API token management built on Laravel Passport. Usable standalone in any Laravel app or inside Microweber CMS.
+2026-11-03T11:42:52Z,microweber-packages/microweber-phpquery,v1.0.0,Microweber Dev Team,PHPQuery - server-side CSS3 selector driven DOM API based on jQuery. Standalone Laravel package.
+2026-11-03T11:43:02Z,microweber-packages/microweber-social-login,v1.0.0,Microweber,"Social login package for Microweber CMS and standalone Laravel apps – provides OAuth login via Facebook, Google, GitHub, Twitter, LinkedIn and Microweber"
+2026-11-03T11:43:12Z,microweber-packages/microweber-svg-icons,v1.0.0,Microweber,"Microweber SVG Icons – Blade-Icons-compatible icon set for the Microweber CMS admin panel, modules, and templates."
+2026-11-03T11:43:22Z,microweber-packages/microweber-thumbnailer,v1.0.0,Microweber Team,Standalone Laravel package for image thumbnail generation
+2026-11-03T11:50:28Z,schachbulle/contao-claude-bundle,0.5.0,Frank Hoppe,"Stellt eine Contao-Installation als MCP-Server für Claude bereit: Seiten, Artikel, Nachrichten, Dateien und Datensätze lesen und pflegen, immer mit den Rechten des eigenen Backend-Zugangs."
+2026-11-03T11:54:30Z,calmlens/sdk,v0.18.2,,"CalmLens PHP SDK for moderation, storage, events and CDN delivery"
+2026-11-03T12:18:21Z,aoaite/smtp-tool,v1.0.0,Dauren Bakimbayev,SMTP Client/Library for SMTP-server testing purposes.
