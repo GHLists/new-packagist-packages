@@ -1,0 +1,14 @@
+created_at,package,version,author,description
+2026-11-04T16:22:51Z,beziworld/laravel-serwersms,v1.0.0,Kamil Ćwiertnia,"Laravel integration for SerwerSMS.pl: SMS, MMS and voice sending, notification channel, delivery reports, HLR and multiple accounts."
+2026-11-04T16:23:04Z,beziworld/laravel-smsplanet,v1.0.0,Kamil Ćwiertnia,"Laravel integration for SMSPlanet.pl: SMS and MMS sending, notification channel, signed delivery webhooks and multiple accounts."
+2026-11-04T16:23:17Z,beziworld/laravel-allegro,v1.0.0,Kamil Ćwiertnia,"Allegro REST API client for Laravel: OAuth2 (code with PKCE, device flow, client credentials), multiple seller accounts, orders and offer event polling, fulfillment, tracking numbers, Wysylam z Allegro shipments, billing, messaging and returns."
+2026-11-04T16:36:20Z,sursolver/sursolver,v0.1.0,SurSolver,"Official PHP client for the SurSolver captcha solver API. Solve reCAPTCHA v3, Cloudflare Turnstile, Cloudflare Challenge (cf_clearance), GeeTest, DataDome, AWS WAF, Akamai, Kasada and image captchas from PHP with one call."
+2026-11-04T16:48:17Z,beziworld/laravel-previo,v1.0.0,Kamil Ćwiertnia,"Laravel client for the whole Previo hotel PMS API (XML, REST, POS, EQC): hotels, rates, availability, reservations, guests, rooms, billing and code lists."
+2026-11-04T16:49:57Z,beziworld/laravel-krs,v1.0.0,Kamil Ćwiertnia,"Laravel client for the Polish National Court Register (KRS) open API: company extracts, representation, shareholders, status and the daily change bulletin"
+2026-11-04T16:51:43Z,beziworld/laravel-cpanel,v1.0.0,Kamil Ćwiertnia,"Laravel client for cPanel UAPI and WHM API 1: accounts, packages, domains, DNS, e-mail, MySQL, SSL, FTP, cron, files, backups and SSO, for many servers."
+2026-11-04T16:51:59Z,beziworld/laravel-plesk,v1.0.0,Kamil Ćwiertnia,"Laravel client for the Plesk REST API and XML API: customers, domains, DNS, databases, mail, SSL, CLI gate and secret keys, for many servers."
+2026-11-04T16:52:16Z,beziworld/laravel-cloudflare,v1.0.0,Kamil Ćwiertnia,"Laravel client for the Cloudflare API v4: zones, DNS records, cache purge, SSL/TLS, rulesets, IP access rules, Workers routes, Turnstile validation and trusted proxy IP ranges."
+2026-11-04T17:01:31Z,unicom360/unicom360-php,v0.1.0,Techrode Solutions Limited,"Official PHP SDK for the Unicom360 SMS, email and WhatsApp messaging API"
+2026-11-04T17:18:14Z,beziworld/laravel-ceidg,v1.0.0,Kamil Ćwiertnia,"Laravel client for the official CEIDG API v3: look up Polish sole proprietorships by NIP or REGON, search the register, validate and watch business status"
+2026-11-04T17:18:30Z,beziworld/laravel-gls,v1.0.0,Kamil Ćwiertnia,"GLS Poland (ADE-Plus WebAPI) client for Laravel: consignments, labels, pickup confirmations, ParcelShop search, services and tracking over SOAP, without ext-soap."
+2026-11-04T17:19:48Z,fractionroyalty/fraction-royalty-calc,1.0.0,Fraction Royalty,Tiny helpers for oil and gas fraction royalty calculations

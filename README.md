@@ -15,22 +15,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 16:21 UTC
+## Latest list — 2026-11-04 17:20 UTC
 
-New packages created between 2026-11-04 15:19 UTC and 2026-11-04 16:21 UTC.
+New packages created between 2026-11-04 16:21 UTC and 2026-11-04 17:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T16-21-39-05764Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T17-20-02-857903Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 15:20:44 | [webong/cogent](https://www.nuget.org/packages/webong%2Fcogent) | v0.1.0 | Webong | Laravel Eloquent collection extensions: plug, include and count relations witho… |
-| 2026-11-04 15:34:53 | [yogadimas/belajar-php-composer-hello](https://www.nuget.org/packages/yogadimas%2Fbelajar-php-composer-hello) | 2.0.0 | Yogadimas | Library Composer Hello |
-| 2026-11-04 15:38:28 | [ryanc342/laravel-agent-starter](https://www.nuget.org/packages/ryanc342%2Flaravel-agent-starter) | v1.0.0 |  | Laravel Agent Starter: a Laravel + Inertia + React starter kit with agent guida… |
-| 2026-11-04 15:43:54 | [coworkingview/craft-coworkingview](https://www.nuget.org/packages/coworkingview%2Fcraft-coworkingview) | 1.0.0 | CoworkingView | Flexible office and coworking prices by city from the CoworkingView Price Index. |
-| 2026-11-04 15:50:45 | [statamic-addon/paper](https://www.nuget.org/packages/statamic-addon%2Fpaper) | v2.0.0 |  | Import Paper artboards as Visual Editor sections. Local tool: the browser canno… |
-| 2026-11-04 15:50:59 | [ibaranov/db-backup-sender](https://www.nuget.org/packages/ibaranov%2Fdb-backup-sender) | v1.0.3 | Your Vendor | Почасовое резервное копирование баз MySQL/MariaDB Laravel-проектов с отправкой… |
-| 2026-11-04 15:54:21 | [thelia/cookie-consent-manager-module](https://www.nuget.org/packages/thelia%2Fcookie-consent-manager-module) | 1.0.0 |  | Consent management platform for Thelia 3: banner, consent registry, Google Cons… |
-| 2026-11-04 15:56:06 | [helga-agentur/drush-policy-commands](https://www.nuget.org/packages/helga-agentur%2Fdrush-policy-commands) | v1.0.0 |  | Drush policy commands that restrict destructive commands (sql:drop, sql:sync, c… |
+| 2026-11-04 16:22:51 | [beziworld/laravel-serwersms](https://www.nuget.org/packages/beziworld%2Flaravel-serwersms) | v1.0.0 | Kamil Ćwiertnia | Laravel integration for SerwerSMS.pl: SMS, MMS and voice sending, notification… |
+| 2026-11-04 16:23:04 | [beziworld/laravel-smsplanet](https://www.nuget.org/packages/beziworld%2Flaravel-smsplanet) | v1.0.0 | Kamil Ćwiertnia | Laravel integration for SMSPlanet.pl: SMS and MMS sending, notification channel… |
+| 2026-11-04 16:23:17 | [beziworld/laravel-allegro](https://www.nuget.org/packages/beziworld%2Flaravel-allegro) | v1.0.0 | Kamil Ćwiertnia | Allegro REST API client for Laravel: OAuth2 (code with PKCE, device flow, clien… |
+| 2026-11-04 16:36:20 | [sursolver/sursolver](https://www.nuget.org/packages/sursolver%2Fsursolver) | v0.1.0 | SurSolver | Official PHP client for the SurSolver captcha solver API. Solve reCAPTCHA v3, C… |
+| 2026-11-04 16:48:17 | [beziworld/laravel-previo](https://www.nuget.org/packages/beziworld%2Flaravel-previo) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the whole Previo hotel PMS API (XML, REST, POS, EQC): hotels… |
+| 2026-11-04 16:49:57 | [beziworld/laravel-krs](https://www.nuget.org/packages/beziworld%2Flaravel-krs) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the Polish National Court Register (KRS) open API: company e… |
+| 2026-11-04 16:51:43 | [beziworld/laravel-cpanel](https://www.nuget.org/packages/beziworld%2Flaravel-cpanel) | v1.0.0 | Kamil Ćwiertnia | Laravel client for cPanel UAPI and WHM API 1: accounts, packages, domains, DNS,… |
+| 2026-11-04 16:51:59 | [beziworld/laravel-plesk](https://www.nuget.org/packages/beziworld%2Flaravel-plesk) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the Plesk REST API and XML API: customers, domains, DNS, dat… |
+| 2026-11-04 16:52:16 | [beziworld/laravel-cloudflare](https://www.nuget.org/packages/beziworld%2Flaravel-cloudflare) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the Cloudflare API v4: zones, DNS records, cache purge, SSL/… |
+| 2026-11-04 17:01:31 | [unicom360/unicom360-php](https://www.nuget.org/packages/unicom360%2Funicom360-php) | v0.1.0 | Techrode Solutions Limited | Official PHP SDK for the Unicom360 SMS, email and WhatsApp messaging API |
+| 2026-11-04 17:18:14 | [beziworld/laravel-ceidg](https://www.nuget.org/packages/beziworld%2Flaravel-ceidg) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the official CEIDG API v3: look up Polish sole proprietorshi… |
+| 2026-11-04 17:18:30 | [beziworld/laravel-gls](https://www.nuget.org/packages/beziworld%2Flaravel-gls) | v1.0.0 | Kamil Ćwiertnia | GLS Poland (ADE-Plus WebAPI) client for Laravel: consignments, labels, pickup c… |
+| 2026-11-04 17:19:48 | [fractionroyalty/fraction-royalty-calc](https://www.nuget.org/packages/fractionroyalty%2Ffraction-royalty-calc) | 1.0.0 | Fraction Royalty | Tiny helpers for oil and gas fraction royalty calculations |
 
 ## Data source
 
