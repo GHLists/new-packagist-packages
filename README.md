@@ -15,19 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 05:19 UTC
+## Latest list — 2026-11-04 06:21 UTC
 
-New packages created between 2026-11-04 04:19 UTC and 2026-11-04 05:19 UTC.
+New packages created between 2026-11-04 05:19 UTC and 2026-11-04 06:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T05-19-03-741904Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T06-21-26-081087Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 04:28:54 | [aoding9/qiniu-laravel-storage](https://www.nuget.org/packages/aoding9%2Fqiniu-laravel-storage) | 9.1.0 | zgldh; abcsun | Qiniu Resource (Cloud) Storage SDK for Laravel (fork of zgldh/qiniu-laravel-sto… |
-| 2026-11-04 04:28:55 | [aoding9/laravel-admin](https://www.nuget.org/packages/aoding9%2Flaravel-admin) | 2.4.4 | aoding9; Shine; jqh | Dcat admin fork based on PrintNow/dcat-admin — Laravel 10-13 / PHP 8.1+ (incl.… |
-| 2026-11-04 04:28:55 | [aoding9/laravel-feie-printer](https://www.nuget.org/packages/aoding9%2Flaravel-feie-printer) | 1.0.0 | Georgie | laravel feie printer |
-| 2026-11-04 04:45:52 | [softmedialabs/laravel-route-annotation](https://www.nuget.org/packages/softmedialabs%2Flaravel-route-annotation) | v1.0.0 | Achmad Miftahul Rizqi | Comprehensive PHP 8 Attribute-based Route Annotation library for Laravel |
-| 2026-11-04 05:02:03 | [aoding9/qiniu-php-sdk](https://www.nuget.org/packages/aoding9%2Fqiniu-php-sdk) | 7.14.0 | Qiniu | Qiniu Resource (Cloud) Storage SDK for PHP (fork with PHP 8.4+ nullable fixes) |
+| 2026-11-04 05:22:32 | [pharaonic/laravel-dynamic-config](https://www.nuget.org/packages/pharaonic%2Flaravel-dynamic-config) | 13.0.0 | Moamen Eltouny (Raggi) | Store Laravel configuration values in the database, globally, per identifier or… |
+| 2026-11-04 05:54:07 | [contenir/contenir-audience-mezzio](https://www.nuget.org/packages/contenir%2Fcontenir-audience-mezzio) | v0.1.0 |  | The site half of contenir/contenir-audience for Mezzio: a Subscriptions service… |
+| 2026-11-04 05:54:19 | [contenir-extension/campaign-monitor](https://www.nuget.org/packages/contenir-extension%2Fcampaign-monitor) | v0.1.0 |  | The Campaign Monitor add-on for Contenir CMS: keeps a Campaign Monitor list in… |
+| 2026-11-04 05:54:31 | [contenir-extension/mailchimp](https://www.nuget.org/packages/contenir-extension%2Fmailchimp) | v0.1.0 |  | The Mailchimp add-on for Contenir CMS: keeps a Mailchimp audience in step with… |
+| 2026-11-04 05:55:35 | [sameoldnick/laravel-notification-preferences](https://www.nuget.org/packages/sameoldnick%2Flaravel-notification-preferences) | v1.0.0 | Nick Hamnett | A Laravel package for managing user notification preferences by notification ty… |
+| 2026-11-04 06:13:07 | [hipdevteam/ion-mu](https://www.nuget.org/packages/hipdevteam%2Fion-mu) | v3.5.5 | ION | ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Inte… |
 
 ## Data source
 

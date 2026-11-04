@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-04T05:22:32Z,pharaonic/laravel-dynamic-config,13.0.0,Moamen Eltouny (Raggi),"Store Laravel configuration values in the database, globally, per identifier or per model, and load them into the config repository with Config::dynamic()->load()."
+2026-11-04T05:54:07Z,contenir/contenir-audience-mezzio,v0.1.0,,"The site half of contenir/contenir-audience for Mezzio: a Subscriptions service a sign-up handler calls, which writes the sign-up to the add-on's outbox in the site's database, wired from the same bindings the CMS add-on reads."
+2026-11-04T05:54:19Z,contenir-extension/campaign-monitor,v0.1.0,,"The Campaign Monitor add-on for Contenir CMS: keeps a Campaign Monitor list in step with the site's sign-ups and records, through an outbox, and hears back about unsubscribes and bounces."
+2026-11-04T05:54:31Z,contenir-extension/mailchimp,v0.1.0,,"The Mailchimp add-on for Contenir CMS: keeps a Mailchimp audience in step with the site's sign-ups and records, through an outbox, and hears back about unsubscribes, cleaned addresses and complaints."
+2026-11-04T05:55:35Z,sameoldnick/laravel-notification-preferences,v1.0.0,Nick Hamnett,A Laravel package for managing user notification preferences by notification type and delivery channel.
+2026-11-04T06:13:07Z,hipdevteam/ion-mu,v3.5.5,ION,ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Intelligence
