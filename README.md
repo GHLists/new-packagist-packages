@@ -15,27 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 17:20 UTC
+## Latest list — 2026-11-04 18:21 UTC
 
-New packages created between 2026-11-04 16:21 UTC and 2026-11-04 17:20 UTC.
+New packages created between 2026-11-04 17:20 UTC and 2026-11-04 18:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T17-20-02-857903Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T18-21-31-491008Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 16:22:51 | [beziworld/laravel-serwersms](https://www.nuget.org/packages/beziworld%2Flaravel-serwersms) | v1.0.0 | Kamil Ćwiertnia | Laravel integration for SerwerSMS.pl: SMS, MMS and voice sending, notification… |
-| 2026-11-04 16:23:04 | [beziworld/laravel-smsplanet](https://www.nuget.org/packages/beziworld%2Flaravel-smsplanet) | v1.0.0 | Kamil Ćwiertnia | Laravel integration for SMSPlanet.pl: SMS and MMS sending, notification channel… |
-| 2026-11-04 16:23:17 | [beziworld/laravel-allegro](https://www.nuget.org/packages/beziworld%2Flaravel-allegro) | v1.0.0 | Kamil Ćwiertnia | Allegro REST API client for Laravel: OAuth2 (code with PKCE, device flow, clien… |
-| 2026-11-04 16:36:20 | [sursolver/sursolver](https://www.nuget.org/packages/sursolver%2Fsursolver) | v0.1.0 | SurSolver | Official PHP client for the SurSolver captcha solver API. Solve reCAPTCHA v3, C… |
-| 2026-11-04 16:48:17 | [beziworld/laravel-previo](https://www.nuget.org/packages/beziworld%2Flaravel-previo) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the whole Previo hotel PMS API (XML, REST, POS, EQC): hotels… |
-| 2026-11-04 16:49:57 | [beziworld/laravel-krs](https://www.nuget.org/packages/beziworld%2Flaravel-krs) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the Polish National Court Register (KRS) open API: company e… |
-| 2026-11-04 16:51:43 | [beziworld/laravel-cpanel](https://www.nuget.org/packages/beziworld%2Flaravel-cpanel) | v1.0.0 | Kamil Ćwiertnia | Laravel client for cPanel UAPI and WHM API 1: accounts, packages, domains, DNS,… |
-| 2026-11-04 16:51:59 | [beziworld/laravel-plesk](https://www.nuget.org/packages/beziworld%2Flaravel-plesk) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the Plesk REST API and XML API: customers, domains, DNS, dat… |
-| 2026-11-04 16:52:16 | [beziworld/laravel-cloudflare](https://www.nuget.org/packages/beziworld%2Flaravel-cloudflare) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the Cloudflare API v4: zones, DNS records, cache purge, SSL/… |
-| 2026-11-04 17:01:31 | [unicom360/unicom360-php](https://www.nuget.org/packages/unicom360%2Funicom360-php) | v0.1.0 | Techrode Solutions Limited | Official PHP SDK for the Unicom360 SMS, email and WhatsApp messaging API |
-| 2026-11-04 17:18:14 | [beziworld/laravel-ceidg](https://www.nuget.org/packages/beziworld%2Flaravel-ceidg) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the official CEIDG API v3: look up Polish sole proprietorshi… |
-| 2026-11-04 17:18:30 | [beziworld/laravel-gls](https://www.nuget.org/packages/beziworld%2Flaravel-gls) | v1.0.0 | Kamil Ćwiertnia | GLS Poland (ADE-Plus WebAPI) client for Laravel: consignments, labels, pickup c… |
-| 2026-11-04 17:19:48 | [fractionroyalty/fraction-royalty-calc](https://www.nuget.org/packages/fractionroyalty%2Ffraction-royalty-calc) | 1.0.0 | Fraction Royalty | Tiny helpers for oil and gas fraction royalty calculations |
+| 2026-11-04 17:34:43 | [beziworld/laravel-poczta-polska](https://www.nuget.org/packages/beziworld%2Flaravel-poczta-polska) | v1.0.0 | Kamil Ćwiertnia | Laravel client for Poczta Polska: e-Nadawca shipping API (Pocztex, parcels, COD… |
+| 2026-11-04 17:48:40 | [inboxcabin/inboxcabin](https://www.nuget.org/packages/inboxcabin%2Finboxcabin) | v0.1.0 | InboxCabin | InboxCabin virtual office mailboxes helper (placeholder package) |
+| 2026-11-04 17:51:15 | [beziworld/laravel-idosell](https://www.nuget.org/packages/beziworld%2Flaravel-idosell) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the IdoSell Shop Admin API: multiple shops, typed orders, pr… |
+| 2026-11-04 17:51:32 | [beziworld/laravel-shoper](https://www.nuget.org/packages/beziworld%2Flaravel-shoper) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the Shoper REST API: multiple shops, token caching with re-a… |
+| 2026-11-04 18:01:07 | [webx-ui/payment-liqpay](https://www.nuget.org/packages/webx-ui%2Fpayment-liqpay) | v0.93.0 | WebX UI | LiqPay for WebX UI payments: the gateway, its keys and settings, and one method… |
 
 ## Data source
 

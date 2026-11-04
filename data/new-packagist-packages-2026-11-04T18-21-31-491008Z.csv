@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-04T17:34:43Z,beziworld/laravel-poczta-polska,v1.0.0,Kamil Ćwiertnia,"Laravel client for Poczta Polska: e-Nadawca shipping API (Pocztex, parcels, COD, pickup points, labels, envelopes) and the public parcel tracking web service, without ext-soap."
+2026-11-04T17:48:40Z,inboxcabin/inboxcabin,v0.1.0,InboxCabin,InboxCabin virtual office mailboxes helper (placeholder package)
+2026-11-04T17:51:15Z,beziworld/laravel-idosell,v1.0.0,Kamil Ćwiertnia,"Laravel client for the IdoSell Shop Admin API: multiple shops, typed orders, products, stock and prices, customers, packages and labels, returns, RMA, sales documents, webhooks with events and rate limit handling."
+2026-11-04T17:51:32Z,beziworld/laravel-shoper,v1.0.0,Kamil Ćwiertnia,"Laravel client for the Shoper REST API: multiple shops, token caching with re-authentication, typed orders, products, stocks and customers, parcels, bulk requests, leaky bucket rate limiting and verified webhooks with events."
+2026-11-04T18:01:07Z,webx-ui/payment-liqpay,v0.93.0,WebX UI,"LiqPay for WebX UI payments: the gateway, its keys and settings, and one method type — the hosted page of LiqPay with the choice of what it offers."
