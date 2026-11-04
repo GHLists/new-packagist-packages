@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-04T01:30:48Z,jeffersongoncalves/kv-cli,1.1.0,Jefferson Goncalves,"Read-only CLI to inspect Redis (keys, values of any type, INFO) through named connection profiles with SSH tunnel support and table/json/csv output, built for pairing with an LLM."
+2026-11-04T01:42:53Z,mzm/mydigitalid,v1.2.0,,MyDigital ID (MIMOS/Keycloak OpenID Connect) SSO login integration for Laravel applications.

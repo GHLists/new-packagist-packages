@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 01:19 UTC
+## Latest list — 2026-11-04 02:20 UTC
 
-New packages created between 2026-11-04 00:19 UTC and 2026-11-04 01:19 UTC.
+New packages created between 2026-11-04 01:19 UTC and 2026-11-04 02:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T01-19-11-533822Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T02-20-26-753888Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 00:30:02 | [phpete1/snitch](https://www.nuget.org/packages/phpete1%2Fsnitch) | v1.0.1 | Peter Stuart | Scan your PHP project for leaked secrets with one command, powered by Betterlea… |
+| 2026-11-04 01:30:48 | [jeffersongoncalves/kv-cli](https://www.nuget.org/packages/jeffersongoncalves%2Fkv-cli) | 1.1.0 | Jefferson Goncalves | Read-only CLI to inspect Redis (keys, values of any type, INFO) through named c… |
+| 2026-11-04 01:42:53 | [mzm/mydigitalid](https://www.nuget.org/packages/mzm%2Fmydigitalid) | v1.2.0 |  | MyDigital ID (MIMOS/Keycloak OpenID Connect) SSO login integration for Laravel… |
 
 ## Data source
 
