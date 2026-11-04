@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-11-04T18:26:12Z,beziworld/laravel-edoreczenia,v1.0.0,Kamil Ćwiertnia,"Laravel client for Polish e-Doręczenia: UA API mailbox (send, receive, attachments, evidences), BAE address search, signed JWT auth, poller and events"
+2026-11-04T18:31:16Z,rmb32/barn-paths,v2.0.0,Roger Barnfather,Finds a barn (the nearest .barn/barn.json) and says where each tool's files live inside it
+2026-11-04T18:36:59Z,beziworld/laravel-teryt,v1.0.0,Kamil Ćwiertnia,"Laravel integration of the Polish TERYT register (GUS): TERC/SIMC/ULIC import into Eloquent models, TERYT ws1 SOAP client, postal codes and address validation"
+2026-11-04T18:38:50Z,beziworld/laravel-jpk,v1.0.0,Kamil Ćwiertnia,"Polish JPK (SAF-T) for Laravel: JPK_V7M(3)/JPK_V7K(3), JPK_FA(4) and JPK_MAG builders validated against bundled official XSD, plus encrypted submission to the e-Dokumenty gateway with UPO polling."
+2026-11-04T18:50:19Z,spkm/topdesk,v1.0.0,Simon Mitchell,Integrate with the TOPdesk API using SaloonPHP
+2026-11-04T18:51:44Z,greenfieldr/golb_events,14.0.0,Marcel Küpper,Golb Events - Events The Page Way! An add-on to the TYPO3 blog extension Golb that uses regular pages as events.
+2026-11-04T18:53:57Z,beziworld/laravel-inpost-pay,v1.0.0,Kamil Ćwiertnia,"Laravel client for the InPost Pay merchant API: basket binding, orders, refunds and signed InPost Pay callbacks"
+2026-11-04T18:54:15Z,beziworld/laravel-saldeo,v1.0.0,Kamil Ćwiertnia,"Laravel client for the SaldeoSMART API-XML: companies, contractors, documents, OCR, invoices and bank statements for accounting offices"
+2026-11-04T18:54:33Z,beziworld/laravel-erli,v1.0.0,Kamil Ćwiertnia,"Laravel client for the Erli.pl marketplace Shop API: products, stock and prices, orders, order change polling, tracking, hooks and multiple seller accounts"
+2026-11-04T18:55:43Z,leestratman/wp-content-bundle,v1.0.0,,"Export and import WordPress content bundles: portable slices of content with their media, for fixtures and test sites. A declared format (spec/) with a WP-CLI implementation."
+2026-11-04T18:58:03Z,maco-studios/corsair,v0.0.1,"Marcos ""Marcão"" Aurelio","Docker-powered local dev environment for Magento 1, Magento 2, OpenMage, Mage-OS, and MahoCommerce."
