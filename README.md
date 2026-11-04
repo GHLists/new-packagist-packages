@@ -15,23 +15,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 12:20 UTC
+## Latest list — 2026-11-04 13:21 UTC
 
-New packages created between 2026-11-04 10:20 UTC and 2026-11-04 12:20 UTC.
+New packages created between 2026-11-04 12:20 UTC and 2026-11-04 13:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T12-20-37-868943Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T13-21-29-298337Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 10:21:00 | [adamb/blocking](https://www.nuget.org/packages/adamb%2Fblocking) | 1.1.7 | Adam Binnersley | Block IP by either IP or range and check to see if string contains blocked word… |
-| 2026-11-04 10:21:58 | [netgen/remote-media-ibexa](https://www.nuget.org/packages/netgen%2Fremote-media-ibexa) | 1.0.0 | Netgen | Netgen Remote Media & Ibexa CMS integration |
-| 2026-11-04 10:22:40 | [adamb/user](https://www.nuget.org/packages/adamb%2Fuser) | 1.4.3 | Adam Binnersley | A user class |
-| 2026-11-04 10:39:12 | [mtorromeo/fpm-proctitle](https://www.nuget.org/packages/mtorromeo%2Ffpm-proctitle) | 1.0.0 | Massimiliano Torromeo | Automatic, configurable process titles for php-fpm workers while they serve a r… |
-| 2026-11-04 10:56:08 | [kumulo/symfony-ux-dsfr](https://www.nuget.org/packages/kumulo%2Fsymfony-ux-dsfr) | v0.1-alpha |  | Symfony UX DSFR bundle |
-| 2026-11-04 11:15:19 | [ecomalo/ecomalo-php](https://www.nuget.org/packages/ecomalo%2Fecomalo-php) | v1.0.0 |  | Connect a Laravel or plain PHP shop to EcomAlo: send orders, receive signed sta… |
-| 2026-11-04 11:43:28 | [itmosoft/laravel-inventory](https://www.nuget.org/packages/itmosoft%2Flaravel-inventory) | v1.0.0 |  | A reusable Laravel inventory package for stock locations, stock levels, movemen… |
-| 2026-11-04 11:51:22 | [itmosoft/laravel-pricing](https://www.nuget.org/packages/itmosoft%2Flaravel-pricing) | v1.0.0 |  | A reusable Laravel pricing package with polymorphic prices, currency support, s… |
-| 2026-11-04 12:08:59 | [itmosoft/laravel-promotions](https://www.nuget.org/packages/itmosoft%2Flaravel-promotions) | v1.0.0 |  | A reusable Laravel promotions package with coupons, discount campaigns, eligibi… |
+| 2026-11-04 12:22:18 | [mozex/iminify-php](https://www.nuget.org/packages/mozex%2Fiminify-php) | 1.0.0 | Mozex | PHP client for the Iminify image optimization API, with an optimizer for Spatie… |
+| 2026-11-04 12:23:25 | [stolt/php-lean](https://www.nuget.org/packages/stolt%2Fphp-lean) | v0.9.1 | Raphael Stolt | A library and CLI for validating and managing package release contents in lean… |
+| 2026-11-04 12:28:09 | [spkm/jamf](https://www.nuget.org/packages/spkm%2Fjamf) | v0.0.1 | Simon Mitchell | Integrate with the Jamf Pro API and Classic API using SaloonPHP |
+| 2026-11-04 12:29:33 | [adamjenkins/moodle-format_spiffy](https://www.nuget.org/packages/adamjenkins%2Fmoodle-format_spiffy) | v0.1.0 | Adam Jenkins | A course format of colourful activity cards: students work inside the card, one… |
+| 2026-11-04 12:35:23 | [mozex/iminify-laravel](https://www.nuget.org/packages/mozex%2Fiminify-laravel) | 1.0.0 | Mozex | Laravel wrapper for the Iminify image optimization API, with webhooks and an op… |
+| 2026-11-04 12:53:02 | [studioastra/multilang-bundle](https://www.nuget.org/packages/studioastra%2Fmultilang-bundle) | v1.0.0 |  | Symfony bundle for multilingual sites: pre-filled translations (14 languages),… |
+| 2026-11-04 12:57:18 | [miasssite/yu_social](https://www.nuget.org/packages/miasssite%2Fyu_social) | 1.0.0 |  | Social links block for Drupal 11 |
+| 2026-11-04 13:04:45 | [itmosoft/laravel-tax](https://www.nuget.org/packages/itmosoft%2Flaravel-tax) | v1.0.0 |  | A reusable Laravel tax package with tax classes, rates, location-based rules, a… |
+| 2026-11-04 13:06:31 | [runapi-ai/muse-video](https://www.nuget.org/packages/runapi-ai%2Fmuse-video) | v0.2.0 | RunAPI | RunAPI Muse Video Composer package for PHP applications |
+| 2026-11-04 13:10:09 | [studioastra/image-optimizer-bundle](https://www.nuget.org/packages/studioastra%2Fimage-optimizer-bundle) | v1.0.0 | Studio Astra | Symfony bundle that losslessly optimizes every uploaded image (weight, format,… |
+| 2026-11-04 13:14:37 | [itmosoft/laravel-cart](https://www.nuget.org/packages/itmosoft%2Flaravel-cart) | v1.0.1 |  | A reusable Laravel shopping cart package with persistent carts, items, quantity… |
 
 ## Data source
 

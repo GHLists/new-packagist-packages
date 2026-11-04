@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-11-04T12:22:18Z,mozex/iminify-php,1.0.0,Mozex,"PHP client for the Iminify image optimization API, with an optimizer for Spatie's image packages"
+2026-11-04T12:23:25Z,stolt/php-lean,v0.9.1,Raphael Stolt,A library and CLI for validating and managing package release contents in lean distribution archives.
+2026-11-04T12:28:09Z,spkm/jamf,v0.0.1,Simon Mitchell,Integrate with the Jamf Pro API and Classic API using SaloonPHP
+2026-11-04T12:29:33Z,adamjenkins/moodle-format_spiffy,v0.1.0,Adam Jenkins,"A course format of colourful activity cards: students work inside the card, one step at a time, and teachers see what needs their attention on the course page."
+2026-11-04T12:35:23Z,mozex/iminify-laravel,1.0.0,Mozex,"Laravel wrapper for the Iminify image optimization API, with webhooks and an optimizer for Spatie's Media Library"
+2026-11-04T12:53:02Z,studioastra/multilang-bundle,v1.0.0,,"Symfony bundle for multilingual sites: pre-filled translations (14 languages), LTR/RTL handling, locale-prefixed URLs and a Tailwind + Alpine.js language switcher Twig component."
+2026-11-04T12:57:18Z,miasssite/yu_social,1.0.0,,Social links block for Drupal 11
+2026-11-04T13:04:45Z,itmosoft/laravel-tax,v1.0.0,,"A reusable Laravel tax package with tax classes, rates, location-based rules, and inclusive or exclusive tax calculations. Supports Laravel 12 and 13."
+2026-11-04T13:06:31Z,runapi-ai/muse-video,v0.2.0,RunAPI,RunAPI Muse Video Composer package for PHP applications
+2026-11-04T13:10:09Z,studioastra/image-optimizer-bundle,v1.0.0,Studio Astra,"Symfony bundle that losslessly optimizes every uploaded image (weight, format, metadata) and serves device-adapted responsive variants (AVIF/WebP, srcset, Client Hints)."
+2026-11-04T13:14:37Z,itmosoft/laravel-cart,v1.0.1,,"A reusable Laravel shopping cart package with persistent carts, items, quantity management, and price snapshots. Supports Laravel 12 and 13."
