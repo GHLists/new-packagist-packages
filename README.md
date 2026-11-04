@@ -15,18 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 22:26 UTC
+## Latest list — 2026-11-04 23:20 UTC
 
-New packages created between 2026-11-04 21:22 UTC and 2026-11-04 22:26 UTC.
+New packages created between 2026-11-04 22:26 UTC and 2026-11-04 23:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T22-26-38-282766Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T23-20-40-536904Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 21:23:04 | [openroam/sdk](https://www.nuget.org/packages/openroam%2Fsdk) | v0.1.0-rc.2 | OpenRoam | Official OpenRoam Partner API client: eSIMs, airtime, utility payments, gift ca… |
-| 2026-11-04 21:37:54 | [beziworld/laravel-ml](https://www.nuget.org/packages/beziworld%2Flaravel-ml) | v1.0.0 | Kamil Ćwiertnia | Laravel-first machine learning on Rubix ML: Eloquent datasets, model classes, v… |
-| 2026-11-04 21:56:56 | [maxcode/module-faq](https://www.nuget.org/packages/maxcode%2Fmodule-faq) | 1.0.0 |  | FAQ unique et indépendante pour Magento 2 : groupes et questions par vue de mag… |
-| 2026-11-04 22:23:27 | [maxcode/module-core](https://www.nuget.org/packages/maxcode%2Fmodule-core) | 1.0.0 |  | EN: Shared foundation of the Maxcode modules for Magento 2: a single admin tab,… |
+| 2026-11-04 22:51:41 | [maxcode/module-product-question](https://www.nuget.org/packages/maxcode%2Fmodule-product-question) | 1.0.0 |  | Product page block that sends shoppers to the contact form with the product alr… |
 
 ## Data source
 
