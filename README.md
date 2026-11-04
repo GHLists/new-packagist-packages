@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 04:19 UTC
+## Latest list — 2026-11-04 05:19 UTC
 
-New packages created between 2026-11-04 03:20 UTC and 2026-11-04 04:19 UTC.
+New packages created between 2026-11-04 04:19 UTC and 2026-11-04 05:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T04-19-59-258252Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T05-19-03-741904Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 03:38:26 | [tacraft-sociality/flarum-sign-confirm-password](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-sign-confirm-password) | 1.0.0 | Tacraft Sociality | Adds a confirm password field to the sign up modal. |
-| 2026-11-04 03:47:16 | [mdestafadilah/cloudflare-d1-php](https://www.nuget.org/packages/mdestafadilah%2Fcloudflare-d1-php) | v1.0.0 | Yorman | A lightweight PHP client for Cloudflare D1 database |
-| 2026-11-04 03:54:25 | [webrteu/factura](https://www.nuget.org/packages/webrteu%2Ffactura) | v0.1.0 | WeBRTeu | Laravel provider for webrteu/invoicing that issues invoices through a self-host… |
-| 2026-11-04 03:59:23 | [webrteu/invoicing](https://www.nuget.org/packages/webrteu%2Finvoicing) | v2.0.0 | WeBRTeu | Invoicing core for Laravel (Romania): one API for SmartBill and other invoicing… |
-| 2026-11-04 04:00:59 | [webrteu/smartbill](https://www.nuget.org/packages/webrteu%2Fsmartbill) | v2.0.0 | WeBRTeu | SmartBill provider for webrteu/invoicing (Romania) |
+| 2026-11-04 04:28:54 | [aoding9/qiniu-laravel-storage](https://www.nuget.org/packages/aoding9%2Fqiniu-laravel-storage) | 9.1.0 | zgldh; abcsun | Qiniu Resource (Cloud) Storage SDK for Laravel (fork of zgldh/qiniu-laravel-sto… |
+| 2026-11-04 04:28:55 | [aoding9/laravel-admin](https://www.nuget.org/packages/aoding9%2Flaravel-admin) | 2.4.4 | aoding9; Shine; jqh | Dcat admin fork based on PrintNow/dcat-admin — Laravel 10-13 / PHP 8.1+ (incl.… |
+| 2026-11-04 04:28:55 | [aoding9/laravel-feie-printer](https://www.nuget.org/packages/aoding9%2Flaravel-feie-printer) | 1.0.0 | Georgie | laravel feie printer |
+| 2026-11-04 04:45:52 | [softmedialabs/laravel-route-annotation](https://www.nuget.org/packages/softmedialabs%2Flaravel-route-annotation) | v1.0.0 | Achmad Miftahul Rizqi | Comprehensive PHP 8 Attribute-based Route Annotation library for Laravel |
+| 2026-11-04 05:02:03 | [aoding9/qiniu-php-sdk](https://www.nuget.org/packages/aoding9%2Fqiniu-php-sdk) | 7.14.0 | Qiniu | Qiniu Resource (Cloud) Storage SDK for PHP (fork with PHP 8.4+ nullable fixes) |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-04T04:28:54Z,aoding9/qiniu-laravel-storage,9.1.0,zgldh; abcsun,Qiniu Resource (Cloud) Storage SDK for Laravel (fork of zgldh/qiniu-laravel-storage)
+2026-11-04T04:28:55Z,aoding9/laravel-admin,2.4.4,aoding9; Shine; jqh,Dcat admin fork based on PrintNow/dcat-admin — Laravel 10-13 / PHP 8.1+ (incl. 8.5)
+2026-11-04T04:28:55Z,aoding9/laravel-feie-printer,1.0.0,Georgie,laravel feie printer
+2026-11-04T04:45:52Z,softmedialabs/laravel-route-annotation,v1.0.0,Achmad Miftahul Rizqi,Comprehensive PHP 8 Attribute-based Route Annotation library for Laravel
+2026-11-04T05:02:03Z,aoding9/qiniu-php-sdk,7.14.0,Qiniu,Qiniu Resource (Cloud) Storage SDK for PHP (fork with PHP 8.4+ nullable fixes)
