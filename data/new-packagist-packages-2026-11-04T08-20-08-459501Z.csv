@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-04T07:23:06Z,itmosoft/laravel-product-catalog,v1.0.0,,"A reusable Laravel product catalog package with products, categories, brands, attributes, and variants."
+2026-11-04T07:48:00Z,tacraft-sociality/flarum-user-uid,1.0.0,Tacraft Sociality,Show the numeric user id on the user card.
+2026-11-04T08:07:59Z,leqq00/phalapiredis,v8.0.0,dongxuepeng; leqq00,兼容 phalapi/redis 所有方法；Redis 增强版，支持 PHP 8.0+。
