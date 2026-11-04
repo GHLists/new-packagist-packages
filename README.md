@@ -15,25 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 13:21 UTC
+## Latest list — 2026-11-04 14:20 UTC
 
-New packages created between 2026-11-04 12:20 UTC and 2026-11-04 13:21 UTC.
+New packages created between 2026-11-04 13:21 UTC and 2026-11-04 14:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T13-21-29-298337Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T14-20-47-533253Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 12:22:18 | [mozex/iminify-php](https://www.nuget.org/packages/mozex%2Fiminify-php) | 1.0.0 | Mozex | PHP client for the Iminify image optimization API, with an optimizer for Spatie… |
-| 2026-11-04 12:23:25 | [stolt/php-lean](https://www.nuget.org/packages/stolt%2Fphp-lean) | v0.9.1 | Raphael Stolt | A library and CLI for validating and managing package release contents in lean… |
-| 2026-11-04 12:28:09 | [spkm/jamf](https://www.nuget.org/packages/spkm%2Fjamf) | v0.0.1 | Simon Mitchell | Integrate with the Jamf Pro API and Classic API using SaloonPHP |
-| 2026-11-04 12:29:33 | [adamjenkins/moodle-format_spiffy](https://www.nuget.org/packages/adamjenkins%2Fmoodle-format_spiffy) | v0.1.0 | Adam Jenkins | A course format of colourful activity cards: students work inside the card, one… |
-| 2026-11-04 12:35:23 | [mozex/iminify-laravel](https://www.nuget.org/packages/mozex%2Fiminify-laravel) | 1.0.0 | Mozex | Laravel wrapper for the Iminify image optimization API, with webhooks and an op… |
-| 2026-11-04 12:53:02 | [studioastra/multilang-bundle](https://www.nuget.org/packages/studioastra%2Fmultilang-bundle) | v1.0.0 |  | Symfony bundle for multilingual sites: pre-filled translations (14 languages),… |
-| 2026-11-04 12:57:18 | [miasssite/yu_social](https://www.nuget.org/packages/miasssite%2Fyu_social) | 1.0.0 |  | Social links block for Drupal 11 |
-| 2026-11-04 13:04:45 | [itmosoft/laravel-tax](https://www.nuget.org/packages/itmosoft%2Flaravel-tax) | v1.0.0 |  | A reusable Laravel tax package with tax classes, rates, location-based rules, a… |
-| 2026-11-04 13:06:31 | [runapi-ai/muse-video](https://www.nuget.org/packages/runapi-ai%2Fmuse-video) | v0.2.0 | RunAPI | RunAPI Muse Video Composer package for PHP applications |
-| 2026-11-04 13:10:09 | [studioastra/image-optimizer-bundle](https://www.nuget.org/packages/studioastra%2Fimage-optimizer-bundle) | v1.0.0 | Studio Astra | Symfony bundle that losslessly optimizes every uploaded image (weight, format,… |
-| 2026-11-04 13:14:37 | [itmosoft/laravel-cart](https://www.nuget.org/packages/itmosoft%2Flaravel-cart) | v1.0.1 |  | A reusable Laravel shopping cart package with persistent carts, items, quantity… |
+| 2026-11-04 13:26:06 | [cre8-it/creatorsapi-php-sdk](https://www.nuget.org/packages/cre8-it%2Fcreatorsapi-php-sdk) | v2.0.0 | Amazon Creators | Amazon Creators API PHP SDK with Login with Amazon authentication (upstream 1.3… |
+| 2026-11-04 13:30:31 | [kommandhub/shipbubble-sw](https://www.nuget.org/packages/kommandhub%2Fshipbubble-sw) | 1.0.0 | Kommandhub Limited | Live Shipbubble courier rates at checkout, shipment booking from the order, tra… |
+| 2026-11-04 13:39:47 | [seadragon/laravel-log-alerts](https://www.nuget.org/packages/seadragon%2Flaravel-log-alerts) | v0.0.3 |  | Daily email summaries of recent Laravel application errors. |
+| 2026-11-04 13:49:53 | [jason/filament-chat-assistant](https://www.nuget.org/packages/jason%2Ffilament-chat-assistant) | v1.0.0 | Jason.Chen | AI chat assistant dialog plugin for Filament panels |
+| 2026-11-04 13:50:00 | [flouviahq/cord](https://www.nuget.org/packages/flouviahq%2Fcord) | v1.1.0 | Flouvia | SDK de PHP para la API de Cord: cotizaciones, facturas, webhooks verificados, t… |
 
 ## Data source
 

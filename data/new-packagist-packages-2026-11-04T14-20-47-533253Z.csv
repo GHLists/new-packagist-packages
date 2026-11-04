@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-04T13:26:06Z,cre8-it/creatorsapi-php-sdk,v2.0.0,Amazon Creators,Amazon Creators API PHP SDK with Login with Amazon authentication (upstream 1.3.0)
+2026-11-04T13:30:31Z,kommandhub/shipbubble-sw,1.0.0,Kommandhub Limited,"Live Shipbubble courier rates at checkout, shipment booking from the order, tracking emails and automatic delivery status updates, all on the merchant's own Shipbubble account."
+2026-11-04T13:39:47Z,seadragon/laravel-log-alerts,v0.0.3,,Daily email summaries of recent Laravel application errors.
+2026-11-04T13:49:53Z,jason/filament-chat-assistant,v1.0.0,Jason.Chen,AI chat assistant dialog plugin for Filament panels
+2026-11-04T13:50:00Z,flouviahq/cord,v1.1.0,Flouvia,"SDK de PHP para la API de Cord: cotizaciones, facturas, webhooks verificados, tipos de PHPStan y modo prueba. Sin dependencias."
