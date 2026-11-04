@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-03T23:31:41Z,superconductor/web,0.11.0,Angel Gonzalez,The Streaming/HTTP transport for Superconductor MCP.
+2026-11-03T23:42:53Z,coyote6/laravel-settings,v1.0.0,Tanner Naeher,"Site-wide and per-model settings for Laravel, stored in their own tables with real foreign keys and named by enums."
+2026-11-04T00:06:11Z,laravelopenpackages/workflow,v1.0.0,Zeeshan Ali,"Workflows for Eloquent models: states, guarded moves, tasks with deadlines and a full history — authorised through your own Gate."

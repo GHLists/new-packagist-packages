@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 23:21 UTC
+## Latest list — 2026-11-04 00:19 UTC
 
-New packages created between 2026-11-03 22:20 UTC and 2026-11-03 23:21 UTC.
+New packages created between 2026-11-03 23:21 UTC and 2026-11-04 00:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-03T23-21-39-804181Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T00-19-04-243319Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-03 22:29:45 | [alvesbeto/mysql2pdo](https://www.nuget.org/packages/alvesbeto%2Fmysql2pdo) | v1.0.0 | Beto Souza | Legacy mysql_* functions for PHP 8+, implemented on ext-pdo (MySQL driver compa… |
-| 2026-11-03 22:44:15 | [sharkyphp/project](https://www.nuget.org/packages/sharkyphp%2Fproject) | v2.0.1 | bytesharky | A new SharkyPHP project. |
-| 2026-11-03 23:05:46 | [uptools-io/trustorder-for-woo](https://www.nuget.org/packages/uptools-io%2Ftrustorder-for-woo) | v1.0.0 | uptools.io | Cash-on-delivery buyer reputation for WooCommerce from hashed identities (Trust… |
+| 2026-11-03 23:31:41 | [superconductor/web](https://www.nuget.org/packages/superconductor%2Fweb) | 0.11.0 | Angel Gonzalez | The Streaming/HTTP transport for Superconductor MCP. |
+| 2026-11-03 23:42:53 | [coyote6/laravel-settings](https://www.nuget.org/packages/coyote6%2Flaravel-settings) | v1.0.0 | Tanner Naeher | Site-wide and per-model settings for Laravel, stored in their own tables with r… |
+| 2026-11-04 00:06:11 | [laravelopenpackages/workflow](https://www.nuget.org/packages/laravelopenpackages%2Fworkflow) | v1.0.0 | Zeeshan Ali | Workflows for Eloquent models: states, guarded moves, tasks with deadlines and… |
 
 ## Data source
 
