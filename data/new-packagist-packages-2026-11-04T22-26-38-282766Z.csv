@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-04T21:23:04Z,openroam/sdk,v0.1.0-rc.2,OpenRoam,"Official OpenRoam Partner API client: eSIMs, airtime, utility payments, gift cards, hotels and flights."
+2026-11-04T21:37:54Z,beziworld/laravel-ml,v1.0.0,Kamil Ćwiertnia,"Laravel-first machine learning on Rubix ML: Eloquent datasets, model classes, versioned persistence, queued training, predictions and php-ml style tools"
+2026-11-04T21:56:56Z,maxcode/module-faq,1.0.0,,"FAQ unique et indépendante pour Magento 2 : groupes et questions par vue de magasin, page FAQ, widget et blocs sur les fiches produit, catégories et pages CMS, balisage FAQPage, import depuis Mageprince FAQ et MageWorx FAQ. / One independent FAQ for Magento 2: groups and questions per store view, F…"
+2026-11-04T22:23:27Z,maxcode/module-core,1.0.0,,"EN: Shared foundation of the Maxcode modules for Magento 2: a single admin tab, a catalogue page of the Maxcode modules, built-in documentation and an upgrade banner. No telemetry; the only network request is the update check you start yourself. FR : Socle commun des modules Maxcode pour Magento 2…"
