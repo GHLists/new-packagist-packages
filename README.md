@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 08:20 UTC
+## Latest list — 2026-11-04 09:18 UTC
 
-New packages created between 2026-11-04 07:21 UTC and 2026-11-04 08:20 UTC.
+New packages created between 2026-11-04 08:20 UTC and 2026-11-04 09:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T08-20-08-459501Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T09-18-52-96611Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 07:23:06 | [itmosoft/laravel-product-catalog](https://www.nuget.org/packages/itmosoft%2Flaravel-product-catalog) | v1.0.0 |  | A reusable Laravel product catalog package with products, categories, brands, a… |
-| 2026-11-04 07:48:00 | [tacraft-sociality/flarum-user-uid](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-user-uid) | 1.0.0 | Tacraft Sociality | Show the numeric user id on the user card. |
-| 2026-11-04 08:07:59 | [leqq00/phalapiredis](https://www.nuget.org/packages/leqq00%2Fphalapiredis) | v8.0.0 | dongxuepeng; leqq00 | 兼容 phalapi/redis 所有方法；Redis 增强版，支持 PHP 8.0+。 |
+| 2026-11-04 08:46:58 | [yolow92/pagesift](https://www.nuget.org/packages/yolow92%2Fpagesift) | v1.1.0 | YOLOW92 | PHP (ext-ffi) binding of libpagesift: HTML, PDF, Office and other documents to… |
+| 2026-11-04 08:48:23 | [amanuellegese/omnipay-arifpay](https://www.nuget.org/packages/amanuellegese%2Fomnipay-arifpay) | v0.1.0 | Amanuel Legese | ArifPay driver for the Omnipay PHP payment processing library |
+| 2026-11-04 09:00:59 | [solophp/tokens](https://www.nuget.org/packages/solophp%2Ftokens) | v1.0.0 | Vitaliy Olos | Tokens for reset links, invitations and sessions: random secrets stored only as… |
+| 2026-11-04 09:11:05 | [prasanth/form-builder](https://www.nuget.org/packages/prasanth%2Fform-builder) | v1.0.0 | Prasanth Kumar | Dynamic Form Builder Package |
 
 ## Data source
 
