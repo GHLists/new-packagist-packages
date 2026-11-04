@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-04T14:26:12Z,jinganix/pbwire,v0.1.1,jinganix,"Dynamic protobuf over the pbwire C ABI, schema at runtime, no generated code"
+2026-11-04T14:26:59Z,codebrainbv/omnikassapayment,1.2.3,,Accepting payments with Rabo Smart Pay
+2026-11-04T14:50:31Z,itmosoft/laravel-checkout,v1.0.1,,"A reusable Laravel checkout orchestration package with address snapshots, cart validation, shipping selection, and checkout state management. Supports Laravel 12 and 13."
+2026-11-04T14:54:59Z,pharaonic/laravel-likes,13.0.1,Moamen Eltouny (Raggi),"Polymorphic likes for Laravel Eloquent models, with database-enforced uniqueness and explicit changed-state results."
+2026-11-04T14:55:50Z,pronamic/pronamic-pay-wp-icons,v1.0.0,Pronamic; Remco Tolsma,WordPress icon collection with payment method icons by Pronamic Pay.
+2026-11-04T14:56:48Z,considbrs-webdev/modularity-simpleview-events,v1.0.0,Consid,Modularity Simpleview Events Module
+2026-11-04T14:59:45Z,itmosoft/laravel-orders,v1.0.1,,Order management for Laravel applications with immutable item snapshots and auditable status transitions.
+2026-11-04T15:03:17Z,nandordudas/state-machine,v2.0.0,,"A small, strictly typed finite state machine for PHP (inspired by xstate.js and mouadziani/xstate)"
+2026-11-04T15:17:29Z,romain-genin/symfony-starter,v1.0.1,Romain Genin,"Starter Symfony 8 : Tailwind CSS v4, Alpine.js, Turbo, Twig Components, EasyAdmin 5, Brevo, données chiffrées, SEO & accessibilité, Docker (local + Coolify)."
