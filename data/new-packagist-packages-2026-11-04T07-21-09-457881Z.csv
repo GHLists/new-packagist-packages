@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-04T06:30:57Z,itmosoft/laravel-api-response,v1.0.1,,"Consistent, configurable JSON API responses for Laravel applications."
+2026-11-04T06:49:13Z,zcoders/zauth,1.0.0,,
+2026-11-04T06:51:49Z,nouxwell/cipher-layer,v0.1.0,Hüseyin Balın,"Field-level encryption, blind-index search, streaming file encryption and key lifecycle tooling for PHP, with Doctrine and Symfony integration."
+2026-11-04T06:57:46Z,jurager/eav,1.0.0,Yuri Gerassimov,"Flexible Entity-Attribute-Value (EAV) system for Laravel with typed storage, localization, and attribute inheritance"
+2026-11-04T07:04:50Z,webx-ui/module-delivery,v0.92.0,WebX UI,"Delivery for a WebX UI shop: the registry of method types and carriers, the shop's own pick-up points and courier, the methods a locality has with their prices, and the popular towns of the checkout."
+2026-11-04T07:05:02Z,webx-ui/delivery-novaposhta,v0.92.0,WebX UI,"Nova Poshta for WebX UI delivery: the carrier, its key and sender settings, a thin read-guarded client of its JSON API, and three method types — branch, parcel locker, courier."
+2026-11-04T07:05:06Z,webx-ui/geography,v0.92.0,WebX UI,"The shared geography of a WebX UI site: countries, regions and localities in the site's languages, the key their names are matched by, and the search a checkout picks a town with."
+2026-11-04T07:05:11Z,webx-ui/module-payments,v0.92.0,WebX UI,"Payments for a WebX UI shop: the methods of the site, the attempts to pay an order, and the journal of every exchange with a payment gateway — raw bodies as sent and received, the shop's keys masked, append-only."
+2026-11-04T07:11:45Z,itmosoft/laravel-query-filters,v1.0.0,,"A lightweight, allowlist-based query filtering, searching, and sorting package for Laravel Eloquent."

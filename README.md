@@ -15,20 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 06:21 UTC
+## Latest list — 2026-11-04 07:21 UTC
 
-New packages created between 2026-11-04 05:19 UTC and 2026-11-04 06:21 UTC.
+New packages created between 2026-11-04 06:21 UTC and 2026-11-04 07:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T06-21-26-081087Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T07-21-09-457881Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 05:22:32 | [pharaonic/laravel-dynamic-config](https://www.nuget.org/packages/pharaonic%2Flaravel-dynamic-config) | 13.0.0 | Moamen Eltouny (Raggi) | Store Laravel configuration values in the database, globally, per identifier or… |
-| 2026-11-04 05:54:07 | [contenir/contenir-audience-mezzio](https://www.nuget.org/packages/contenir%2Fcontenir-audience-mezzio) | v0.1.0 |  | The site half of contenir/contenir-audience for Mezzio: a Subscriptions service… |
-| 2026-11-04 05:54:19 | [contenir-extension/campaign-monitor](https://www.nuget.org/packages/contenir-extension%2Fcampaign-monitor) | v0.1.0 |  | The Campaign Monitor add-on for Contenir CMS: keeps a Campaign Monitor list in… |
-| 2026-11-04 05:54:31 | [contenir-extension/mailchimp](https://www.nuget.org/packages/contenir-extension%2Fmailchimp) | v0.1.0 |  | The Mailchimp add-on for Contenir CMS: keeps a Mailchimp audience in step with… |
-| 2026-11-04 05:55:35 | [sameoldnick/laravel-notification-preferences](https://www.nuget.org/packages/sameoldnick%2Flaravel-notification-preferences) | v1.0.0 | Nick Hamnett | A Laravel package for managing user notification preferences by notification ty… |
-| 2026-11-04 06:13:07 | [hipdevteam/ion-mu](https://www.nuget.org/packages/hipdevteam%2Fion-mu) | v3.5.5 | ION | ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Inte… |
+| 2026-11-04 06:30:57 | [itmosoft/laravel-api-response](https://www.nuget.org/packages/itmosoft%2Flaravel-api-response) | v1.0.1 |  | Consistent, configurable JSON API responses for Laravel applications. |
+| 2026-11-04 06:49:13 | [zcoders/zauth](https://www.nuget.org/packages/zcoders%2Fzauth) | 1.0.0 |  |  |
+| 2026-11-04 06:51:49 | [nouxwell/cipher-layer](https://www.nuget.org/packages/nouxwell%2Fcipher-layer) | v0.1.0 | Hüseyin Balın | Field-level encryption, blind-index search, streaming file encryption and key l… |
+| 2026-11-04 06:57:46 | [jurager/eav](https://www.nuget.org/packages/jurager%2Feav) | 1.0.0 | Yuri Gerassimov | Flexible Entity-Attribute-Value (EAV) system for Laravel with typed storage, lo… |
+| 2026-11-04 07:04:50 | [webx-ui/module-delivery](https://www.nuget.org/packages/webx-ui%2Fmodule-delivery) | v0.92.0 | WebX UI | Delivery for a WebX UI shop: the registry of method types and carriers, the sho… |
+| 2026-11-04 07:05:02 | [webx-ui/delivery-novaposhta](https://www.nuget.org/packages/webx-ui%2Fdelivery-novaposhta) | v0.92.0 | WebX UI | Nova Poshta for WebX UI delivery: the carrier, its key and sender settings, a t… |
+| 2026-11-04 07:05:06 | [webx-ui/geography](https://www.nuget.org/packages/webx-ui%2Fgeography) | v0.92.0 | WebX UI | The shared geography of a WebX UI site: countries, regions and localities in th… |
+| 2026-11-04 07:05:11 | [webx-ui/module-payments](https://www.nuget.org/packages/webx-ui%2Fmodule-payments) | v0.92.0 | WebX UI | Payments for a WebX UI shop: the methods of the site, the attempts to pay an or… |
+| 2026-11-04 07:11:45 | [itmosoft/laravel-query-filters](https://www.nuget.org/packages/itmosoft%2Flaravel-query-filters) | v1.0.0 |  | A lightweight, allowlist-based query filtering, searching, and sorting package… |
 
 ## Data source
 
