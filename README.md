@@ -15,20 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 10:20 UTC
+## Latest list — 2026-11-04 12:20 UTC
 
-New packages created between 2026-11-04 09:18 UTC and 2026-11-04 10:20 UTC.
+New packages created between 2026-11-04 10:20 UTC and 2026-11-04 12:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T10-20-26-339865Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T12-20-37-868943Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 09:27:04 | [vaersaagod/consentmate](https://www.nuget.org/packages/vaersaagod%2Fconsentmate) | 1.0.0 |  | No means no, mate! |
-| 2026-11-04 09:29:49 | [rizalahmaddd/laravel-rawprint](https://www.nuget.org/packages/rizalahmaddd%2Flaravel-rawprint) | v1.0.0 | rizalahmaddd | Print RAW ESC/P, ESC/POS and ZPL data from Laravel to RawPrint Agent without a… |
-| 2026-11-04 09:40:07 | [ehundu/andamio-curriculum](https://www.nuget.org/packages/ehundu%2Fandamio-curriculum) | v1.0.0 |  | Un currículum hecho con Ehundu: tus datos en un solo fichero y, de ellos, la we… |
-| 2026-11-04 09:40:07 | [oleksyuk/laravel-gleif-sdk](https://www.nuget.org/packages/oleksyuk%2Flaravel-gleif-sdk) | v0.1.0 | Maks Oleksyuk | Laravel SDK for the GLEIF LEI API, built on Saloon |
-| 2026-11-04 09:46:28 | [deko/codec-decodec](https://www.nuget.org/packages/deko%2Fcodec-decodec) | v0.1.1 | deko | Library of symmetric encryption algorithms |
-| 2026-11-04 09:54:01 | [watcher-php/laravel](https://www.nuget.org/packages/watcher-php%2Flaravel) | v0.1.2 |  | Security intelligence and protection layer for Laravel applications: static ana… |
+| 2026-11-04 10:21:00 | [adamb/blocking](https://www.nuget.org/packages/adamb%2Fblocking) | 1.1.7 | Adam Binnersley | Block IP by either IP or range and check to see if string contains blocked word… |
+| 2026-11-04 10:21:58 | [netgen/remote-media-ibexa](https://www.nuget.org/packages/netgen%2Fremote-media-ibexa) | 1.0.0 | Netgen | Netgen Remote Media & Ibexa CMS integration |
+| 2026-11-04 10:22:40 | [adamb/user](https://www.nuget.org/packages/adamb%2Fuser) | 1.4.3 | Adam Binnersley | A user class |
+| 2026-11-04 10:39:12 | [mtorromeo/fpm-proctitle](https://www.nuget.org/packages/mtorromeo%2Ffpm-proctitle) | 1.0.0 | Massimiliano Torromeo | Automatic, configurable process titles for php-fpm workers while they serve a r… |
+| 2026-11-04 10:56:08 | [kumulo/symfony-ux-dsfr](https://www.nuget.org/packages/kumulo%2Fsymfony-ux-dsfr) | v0.1-alpha |  | Symfony UX DSFR bundle |
+| 2026-11-04 11:15:19 | [ecomalo/ecomalo-php](https://www.nuget.org/packages/ecomalo%2Fecomalo-php) | v1.0.0 |  | Connect a Laravel or plain PHP shop to EcomAlo: send orders, receive signed sta… |
+| 2026-11-04 11:43:28 | [itmosoft/laravel-inventory](https://www.nuget.org/packages/itmosoft%2Flaravel-inventory) | v1.0.0 |  | A reusable Laravel inventory package for stock locations, stock levels, movemen… |
+| 2026-11-04 11:51:22 | [itmosoft/laravel-pricing](https://www.nuget.org/packages/itmosoft%2Flaravel-pricing) | v1.0.0 |  | A reusable Laravel pricing package with polymorphic prices, currency support, s… |
+| 2026-11-04 12:08:59 | [itmosoft/laravel-promotions](https://www.nuget.org/packages/itmosoft%2Flaravel-promotions) | v1.0.0 |  | A reusable Laravel promotions package with coupons, discount campaigns, eligibi… |
 
 ## Data source
 

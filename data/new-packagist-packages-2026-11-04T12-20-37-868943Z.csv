@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-04T10:21:00Z,adamb/blocking,1.1.7,Adam Binnersley,Block IP by either IP or range and check to see if string contains blocked word or phrase
+2026-11-04T10:21:58Z,netgen/remote-media-ibexa,1.0.0,Netgen,Netgen Remote Media & Ibexa CMS integration
+2026-11-04T10:22:40Z,adamb/user,1.4.3,Adam Binnersley,A user class
+2026-11-04T10:39:12Z,mtorromeo/fpm-proctitle,1.0.0,Massimiliano Torromeo,"Automatic, configurable process titles for php-fpm workers while they serve a request"
+2026-11-04T10:56:08Z,kumulo/symfony-ux-dsfr,v0.1-alpha,,Symfony UX DSFR bundle
+2026-11-04T11:15:19Z,ecomalo/ecomalo-php,v1.0.0,,"Connect a Laravel or plain PHP shop to EcomAlo: send orders, receive signed status and tracking webhooks, sync products and stock."
+2026-11-04T11:43:28Z,itmosoft/laravel-inventory,v1.0.0,,"A reusable Laravel inventory package for stock locations, stock levels, movements, and reservations."
+2026-11-04T11:51:22Z,itmosoft/laravel-pricing,v1.0.0,,"A reusable Laravel pricing package with polymorphic prices, currency support, scheduled pricing, quantity breaks, and contextual price resolution."
+2026-11-04T12:08:59Z,itmosoft/laravel-promotions,v1.0.0,,"A reusable Laravel promotions package with coupons, discount campaigns, eligibility rules, and usage limits. Supports Laravel 12 and 13."
