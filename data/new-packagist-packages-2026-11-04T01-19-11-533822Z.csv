@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-04T00:30:02Z,phpete1/snitch,v1.0.1,Peter Stuart,"Scan your PHP project for leaked secrets with one command, powered by Betterleaks."

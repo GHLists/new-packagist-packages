@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 00:19 UTC
+## Latest list — 2026-11-04 01:19 UTC
 
-New packages created between 2026-11-03 23:21 UTC and 2026-11-04 00:19 UTC.
+New packages created between 2026-11-04 00:19 UTC and 2026-11-04 01:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T00-19-04-243319Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T01-19-11-533822Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-03 23:31:41 | [superconductor/web](https://www.nuget.org/packages/superconductor%2Fweb) | 0.11.0 | Angel Gonzalez | The Streaming/HTTP transport for Superconductor MCP. |
-| 2026-11-03 23:42:53 | [coyote6/laravel-settings](https://www.nuget.org/packages/coyote6%2Flaravel-settings) | v1.0.0 | Tanner Naeher | Site-wide and per-model settings for Laravel, stored in their own tables with r… |
-| 2026-11-04 00:06:11 | [laravelopenpackages/workflow](https://www.nuget.org/packages/laravelopenpackages%2Fworkflow) | v1.0.0 | Zeeshan Ali | Workflows for Eloquent models: states, guarded moves, tasks with deadlines and… |
+| 2026-11-04 00:30:02 | [phpete1/snitch](https://www.nuget.org/packages/phpete1%2Fsnitch) | v1.0.1 | Peter Stuart | Scan your PHP project for leaked secrets with one command, powered by Betterlea… |
 
 ## Data source
 
