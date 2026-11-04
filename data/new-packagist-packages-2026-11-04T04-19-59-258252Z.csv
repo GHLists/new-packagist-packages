@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-04T03:38:26Z,tacraft-sociality/flarum-sign-confirm-password,1.0.0,Tacraft Sociality,Adds a confirm password field to the sign up modal.
+2026-11-04T03:47:16Z,mdestafadilah/cloudflare-d1-php,v1.0.0,Yorman,A lightweight PHP client for Cloudflare D1 database
+2026-11-04T03:54:25Z,webrteu/factura,v0.1.0,WeBRTeu,Laravel provider for webrteu/invoicing that issues invoices through a self-hosted factura.webrt.eu e-Factura server (ANAF SPV)
+2026-11-04T03:59:23Z,webrteu/invoicing,v2.0.0,WeBRTeu,Invoicing core for Laravel (Romania): one API for SmartBill and other invoicing providers
+2026-11-04T04:00:59Z,webrteu/smartbill,v2.0.0,WeBRTeu,SmartBill provider for webrteu/invoicing (Romania)

@@ -15,16 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 02:20 UTC
+## Latest list — 2026-11-04 04:19 UTC
 
-New packages created between 2026-11-04 01:19 UTC and 2026-11-04 02:20 UTC.
+New packages created between 2026-11-04 03:20 UTC and 2026-11-04 04:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T02-20-26-753888Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T04-19-59-258252Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 01:30:48 | [jeffersongoncalves/kv-cli](https://www.nuget.org/packages/jeffersongoncalves%2Fkv-cli) | 1.1.0 | Jefferson Goncalves | Read-only CLI to inspect Redis (keys, values of any type, INFO) through named c… |
-| 2026-11-04 01:42:53 | [mzm/mydigitalid](https://www.nuget.org/packages/mzm%2Fmydigitalid) | v1.2.0 |  | MyDigital ID (MIMOS/Keycloak OpenID Connect) SSO login integration for Laravel… |
+| 2026-11-04 03:38:26 | [tacraft-sociality/flarum-sign-confirm-password](https://www.nuget.org/packages/tacraft-sociality%2Fflarum-sign-confirm-password) | 1.0.0 | Tacraft Sociality | Adds a confirm password field to the sign up modal. |
+| 2026-11-04 03:47:16 | [mdestafadilah/cloudflare-d1-php](https://www.nuget.org/packages/mdestafadilah%2Fcloudflare-d1-php) | v1.0.0 | Yorman | A lightweight PHP client for Cloudflare D1 database |
+| 2026-11-04 03:54:25 | [webrteu/factura](https://www.nuget.org/packages/webrteu%2Ffactura) | v0.1.0 | WeBRTeu | Laravel provider for webrteu/invoicing that issues invoices through a self-host… |
+| 2026-11-04 03:59:23 | [webrteu/invoicing](https://www.nuget.org/packages/webrteu%2Finvoicing) | v2.0.0 | WeBRTeu | Invoicing core for Laravel (Romania): one API for SmartBill and other invoicing… |
+| 2026-11-04 04:00:59 | [webrteu/smartbill](https://www.nuget.org/packages/webrteu%2Fsmartbill) | v2.0.0 | WeBRTeu | SmartBill provider for webrteu/invoicing (Romania) |
 
 ## Data source
 
