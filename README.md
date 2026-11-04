@@ -15,23 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 15:19 UTC
+## Latest list — 2026-11-04 16:21 UTC
 
-New packages created between 2026-11-04 14:20 UTC and 2026-11-04 15:19 UTC.
+New packages created between 2026-11-04 15:19 UTC and 2026-11-04 16:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T15-19-51-354828Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T16-21-39-05764Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 14:26:12 | [jinganix/pbwire](https://www.nuget.org/packages/jinganix%2Fpbwire) | v0.1.1 | jinganix | Dynamic protobuf over the pbwire C ABI, schema at runtime, no generated code |
-| 2026-11-04 14:26:59 | [codebrainbv/omnikassapayment](https://www.nuget.org/packages/codebrainbv%2Fomnikassapayment) | 1.2.3 |  | Accepting payments with Rabo Smart Pay |
-| 2026-11-04 14:50:31 | [itmosoft/laravel-checkout](https://www.nuget.org/packages/itmosoft%2Flaravel-checkout) | v1.0.1 |  | A reusable Laravel checkout orchestration package with address snapshots, cart… |
-| 2026-11-04 14:54:59 | [pharaonic/laravel-likes](https://www.nuget.org/packages/pharaonic%2Flaravel-likes) | 13.0.1 | Moamen Eltouny (Raggi) | Polymorphic likes for Laravel Eloquent models, with database-enforced uniquenes… |
-| 2026-11-04 14:55:50 | [pronamic/pronamic-pay-wp-icons](https://www.nuget.org/packages/pronamic%2Fpronamic-pay-wp-icons) | v1.0.0 | Pronamic; Remco Tolsma | WordPress icon collection with payment method icons by Pronamic Pay. |
-| 2026-11-04 14:56:48 | [considbrs-webdev/modularity-simpleview-events](https://www.nuget.org/packages/considbrs-webdev%2Fmodularity-simpleview-events) | v1.0.0 | Consid | Modularity Simpleview Events Module |
-| 2026-11-04 14:59:45 | [itmosoft/laravel-orders](https://www.nuget.org/packages/itmosoft%2Flaravel-orders) | v1.0.1 |  | Order management for Laravel applications with immutable item snapshots and aud… |
-| 2026-11-04 15:03:17 | [nandordudas/state-machine](https://www.nuget.org/packages/nandordudas%2Fstate-machine) | v2.0.0 |  | A small, strictly typed finite state machine for PHP (inspired by xstate.js and… |
-| 2026-11-04 15:17:29 | [romain-genin/symfony-starter](https://www.nuget.org/packages/romain-genin%2Fsymfony-starter) | v1.0.1 | Romain Genin | Starter Symfony 8 : Tailwind CSS v4, Alpine.js, Turbo, Twig Components, EasyAdm… |
+| 2026-11-04 15:20:44 | [webong/cogent](https://www.nuget.org/packages/webong%2Fcogent) | v0.1.0 | Webong | Laravel Eloquent collection extensions: plug, include and count relations witho… |
+| 2026-11-04 15:34:53 | [yogadimas/belajar-php-composer-hello](https://www.nuget.org/packages/yogadimas%2Fbelajar-php-composer-hello) | 2.0.0 | Yogadimas | Library Composer Hello |
+| 2026-11-04 15:38:28 | [ryanc342/laravel-agent-starter](https://www.nuget.org/packages/ryanc342%2Flaravel-agent-starter) | v1.0.0 |  | Laravel Agent Starter: a Laravel + Inertia + React starter kit with agent guida… |
+| 2026-11-04 15:43:54 | [coworkingview/craft-coworkingview](https://www.nuget.org/packages/coworkingview%2Fcraft-coworkingview) | 1.0.0 | CoworkingView | Flexible office and coworking prices by city from the CoworkingView Price Index. |
+| 2026-11-04 15:50:45 | [statamic-addon/paper](https://www.nuget.org/packages/statamic-addon%2Fpaper) | v2.0.0 |  | Import Paper artboards as Visual Editor sections. Local tool: the browser canno… |
+| 2026-11-04 15:50:59 | [ibaranov/db-backup-sender](https://www.nuget.org/packages/ibaranov%2Fdb-backup-sender) | v1.0.3 | Your Vendor | Почасовое резервное копирование баз MySQL/MariaDB Laravel-проектов с отправкой… |
+| 2026-11-04 15:54:21 | [thelia/cookie-consent-manager-module](https://www.nuget.org/packages/thelia%2Fcookie-consent-manager-module) | 1.0.0 |  | Consent management platform for Thelia 3: banner, consent registry, Google Cons… |
+| 2026-11-04 15:56:06 | [helga-agentur/drush-policy-commands](https://www.nuget.org/packages/helga-agentur%2Fdrush-policy-commands) | v1.0.0 |  | Drush policy commands that restrict destructive commands (sql:drop, sql:sync, c… |
 
 ## Data source
 

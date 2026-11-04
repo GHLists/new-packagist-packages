@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-04T15:20:44Z,webong/cogent,v0.1.0,Webong,"Laravel Eloquent collection extensions: plug, include and count relations without extra queries."
+2026-11-04T15:34:53Z,yogadimas/belajar-php-composer-hello,2.0.0,Yogadimas,Library Composer Hello
+2026-11-04T15:38:28Z,ryanc342/laravel-agent-starter,v1.0.0,,Laravel Agent Starter: a Laravel + Inertia + React starter kit with agent guidance and automated architecture checks.
+2026-11-04T15:43:54Z,coworkingview/craft-coworkingview,1.0.0,CoworkingView,Flexible office and coworking prices by city from the CoworkingView Price Index.
+2026-11-04T15:50:45Z,statamic-addon/paper,v2.0.0,,Import Paper artboards as Visual Editor sections. Local tool: the browser cannot reach Paper.
+2026-11-04T15:50:59Z,ibaranov/db-backup-sender,v1.0.3,Your Vendor,Почасовое резервное копирование баз MySQL/MariaDB Laravel-проектов с отправкой дампа на удалённый приёмник
+2026-11-04T15:54:21Z,thelia/cookie-consent-manager-module,1.0.0,,"Consent management platform for Thelia 3: banner, consent registry, Google Consent Mode v2, published versions."
+2026-11-04T15:56:06Z,helga-agentur/drush-policy-commands,v1.0.0,,"Drush policy commands that restrict destructive commands (sql:drop, sql:sync, core:rsync, site:install) to local targets."
