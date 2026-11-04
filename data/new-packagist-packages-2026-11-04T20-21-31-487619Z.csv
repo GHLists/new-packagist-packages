@@ -1,0 +1,16 @@
+created_at,package,version,author,description
+2026-11-04T19:23:17Z,ashraftalha/laravel-opconsole,v1.11.0,Ashraf Talha,"Monitor. Diagnose. Maintain. An administrative operations console for Laravel applications: health checks, safe Artisan operations, and a log viewer behind explicit authorization."
+2026-11-04T19:27:11Z,beziworld/laravel-debt-registers,v1.0.0,Kamil Ćwiertnia,"Laravel client for Polish debt registers: KRD (Krajowy Rejestr Długów) debtor checks over Chase 3.3 and debt submissions over Siddin/Nicci 3.2, with drivers and multiple accounts."
+2026-11-04T19:28:03Z,beziworld/laravel-paypo,v1.0.0,Kamil Ćwiertnia,"PayPo buy now, pay later gateway for Laravel: transactions, confirmation, refunds, cancellations and HMAC-signed notifications."
+2026-11-04T19:28:20Z,beziworld/laravel-opinions,v1.0.0,Kamil Ćwiertnia,"Customer review services for Laravel: Trusted Shops (eTrusted) invitations, reviews and cached ratings, Ceneo Zaufane Opinie transaction script, unified data objects and a rating badge."
+2026-11-04T19:29:36Z,damconsultants/canto,1.0.0,DamConsultants,DamConsultants Canto for Magento 2
+2026-11-04T19:38:26Z,filagora/filagora-forum-bugreports,v0.1.0,,"Bug reports on forum threads, an optional add-on for filagora-forums."
+2026-11-04T19:46:00Z,beziworld/laravel-ups,v1.0.0,Kamil Ćwiertnia,"UPS REST API client for Laravel: OAuth2, shipments with GIF/ZPL/EPL labels and customs forms, void, label recovery, rating, tracking, address validation, Access Point locator, pickups and paperless documents."
+2026-11-04T19:46:18Z,beziworld/laravel-fedex,v1.0.0,Kamil Ćwiertnia,"FedEx REST API client for Laravel: OAuth2, shipments with PDF/PNG/ZPL labels and commercial invoices, cancel, rates, tracking with typed events, proof of delivery, tracking webhooks, address validation, locations and pickups."
+2026-11-04T19:46:35Z,beziworld/laravel-dhl-express,v1.0.0,Kamil Ćwiertnia,"DHL Express MyDHL API client for Laravel: shipments with PDF/ZPL labels and commercial invoices, rates, products, tracking with typed events, proof of delivery, pickups and address validation."
+2026-11-04T19:50:12Z,beziworld/laravel-wezel-krajowy,v1.0.0,Kamil Ćwiertnia,"Log in with the Polish National Electronic Identification Node (login.gov.pl, Profil Zaufany, mObywatel, e-dowod, bank identities) in Laravel via SAML 2.0 artifact binding"
+2026-11-04T19:56:20Z,beziworld/laravel-ambro,v1.0.0,Kamil Ćwiertnia,"Laravel client for the Ambro Express courier SOAP API: shipments, pallets and furniture, labels, waybills, manifests, courier pickups and tracking, without ext-soap."
+2026-11-04T19:56:39Z,beziworld/laravel-geis,v1.0.0,Kamil Ćwiertnia,"Laravel client for the Geis GService REST API (Geis Polska, CZ, SK): parcel and cargo shipments, orders, labels, pickup lists, pickups, tracking and routing."
+2026-11-04T20:05:56Z,beziworld/laravel-edi-epp,v1.0.0,Kamil Ćwiertnia,"Read and write InsERT EDI++ (.epp) exchange files for Subiekt GT, Subiekt nexo, Rewizor and Rachmistrz from Laravel: typed builders, streaming reader, spec validation."
+2026-11-04T20:14:20Z,mainstay/cms,v0.1.0,,"A CMS for Laravel: content modelled in PHP, edited in a Blade admin, rendered by the host app's Blade views or served headless over a REST and MCP API."
+2026-11-04T20:14:21Z,mainstay/ui,v0.1.0,,The Mainstay design system: tokens and Blade components for the CMS admin.

@@ -15,25 +15,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 19:20 UTC
+## Latest list — 2026-11-04 20:21 UTC
 
-New packages created between 2026-11-04 18:21 UTC and 2026-11-04 19:20 UTC.
+New packages created between 2026-11-04 19:20 UTC and 2026-11-04 20:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T19-20-03-241497Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T20-21-31-487619Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 18:26:12 | [beziworld/laravel-edoreczenia](https://www.nuget.org/packages/beziworld%2Flaravel-edoreczenia) | v1.0.0 | Kamil Ćwiertnia | Laravel client for Polish e-Doręczenia: UA API mailbox (send, receive, attachme… |
-| 2026-11-04 18:31:16 | [rmb32/barn-paths](https://www.nuget.org/packages/rmb32%2Fbarn-paths) | v2.0.0 | Roger Barnfather | Finds a barn (the nearest .barn/barn.json) and says where each tool's files liv… |
-| 2026-11-04 18:36:59 | [beziworld/laravel-teryt](https://www.nuget.org/packages/beziworld%2Flaravel-teryt) | v1.0.0 | Kamil Ćwiertnia | Laravel integration of the Polish TERYT register (GUS): TERC/SIMC/ULIC import i… |
-| 2026-11-04 18:38:50 | [beziworld/laravel-jpk](https://www.nuget.org/packages/beziworld%2Flaravel-jpk) | v1.0.0 | Kamil Ćwiertnia | Polish JPK (SAF-T) for Laravel: JPK_V7M(3)/JPK_V7K(3), JPK_FA(4) and JPK_MAG bu… |
-| 2026-11-04 18:50:19 | [spkm/topdesk](https://www.nuget.org/packages/spkm%2Ftopdesk) | v1.0.0 | Simon Mitchell | Integrate with the TOPdesk API using SaloonPHP |
-| 2026-11-04 18:51:44 | [greenfieldr/golb_events](https://www.nuget.org/packages/greenfieldr%2Fgolb_events) | 14.0.0 | Marcel Küpper | Golb Events - Events The Page Way! An add-on to the TYPO3 blog extension Golb t… |
-| 2026-11-04 18:53:57 | [beziworld/laravel-inpost-pay](https://www.nuget.org/packages/beziworld%2Flaravel-inpost-pay) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the InPost Pay merchant API: basket binding, orders, refunds… |
-| 2026-11-04 18:54:15 | [beziworld/laravel-saldeo](https://www.nuget.org/packages/beziworld%2Flaravel-saldeo) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the SaldeoSMART API-XML: companies, contractors, documents,… |
-| 2026-11-04 18:54:33 | [beziworld/laravel-erli](https://www.nuget.org/packages/beziworld%2Flaravel-erli) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the Erli.pl marketplace Shop API: products, stock and prices… |
-| 2026-11-04 18:55:43 | [leestratman/wp-content-bundle](https://www.nuget.org/packages/leestratman%2Fwp-content-bundle) | v1.0.0 |  | Export and import WordPress content bundles: portable slices of content with th… |
-| 2026-11-04 18:58:03 | [maco-studios/corsair](https://www.nuget.org/packages/maco-studios%2Fcorsair) | v0.0.1 | Marcos "Marcão" Aurelio | Docker-powered local dev environment for Magento 1, Magento 2, OpenMage, Mage-O… |
+| 2026-11-04 19:23:17 | [ashraftalha/laravel-opconsole](https://www.nuget.org/packages/ashraftalha%2Flaravel-opconsole) | v1.11.0 | Ashraf Talha | Monitor. Diagnose. Maintain. An administrative operations console for Laravel a… |
+| 2026-11-04 19:27:11 | [beziworld/laravel-debt-registers](https://www.nuget.org/packages/beziworld%2Flaravel-debt-registers) | v1.0.0 | Kamil Ćwiertnia | Laravel client for Polish debt registers: KRD (Krajowy Rejestr Długów) debtor c… |
+| 2026-11-04 19:28:03 | [beziworld/laravel-paypo](https://www.nuget.org/packages/beziworld%2Flaravel-paypo) | v1.0.0 | Kamil Ćwiertnia | PayPo buy now, pay later gateway for Laravel: transactions, confirmation, refun… |
+| 2026-11-04 19:28:20 | [beziworld/laravel-opinions](https://www.nuget.org/packages/beziworld%2Flaravel-opinions) | v1.0.0 | Kamil Ćwiertnia | Customer review services for Laravel: Trusted Shops (eTrusted) invitations, rev… |
+| 2026-11-04 19:29:36 | [damconsultants/canto](https://www.nuget.org/packages/damconsultants%2Fcanto) | 1.0.0 | DamConsultants | DamConsultants Canto for Magento 2 |
+| 2026-11-04 19:38:26 | [filagora/filagora-forum-bugreports](https://www.nuget.org/packages/filagora%2Ffilagora-forum-bugreports) | v0.1.0 |  | Bug reports on forum threads, an optional add-on for filagora-forums. |
+| 2026-11-04 19:46:00 | [beziworld/laravel-ups](https://www.nuget.org/packages/beziworld%2Flaravel-ups) | v1.0.0 | Kamil Ćwiertnia | UPS REST API client for Laravel: OAuth2, shipments with GIF/ZPL/EPL labels and… |
+| 2026-11-04 19:46:18 | [beziworld/laravel-fedex](https://www.nuget.org/packages/beziworld%2Flaravel-fedex) | v1.0.0 | Kamil Ćwiertnia | FedEx REST API client for Laravel: OAuth2, shipments with PDF/PNG/ZPL labels an… |
+| 2026-11-04 19:46:35 | [beziworld/laravel-dhl-express](https://www.nuget.org/packages/beziworld%2Flaravel-dhl-express) | v1.0.0 | Kamil Ćwiertnia | DHL Express MyDHL API client for Laravel: shipments with PDF/ZPL labels and com… |
+| 2026-11-04 19:50:12 | [beziworld/laravel-wezel-krajowy](https://www.nuget.org/packages/beziworld%2Flaravel-wezel-krajowy) | v1.0.0 | Kamil Ćwiertnia | Log in with the Polish National Electronic Identification Node (login.gov.pl, P… |
+| 2026-11-04 19:56:20 | [beziworld/laravel-ambro](https://www.nuget.org/packages/beziworld%2Flaravel-ambro) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the Ambro Express courier SOAP API: shipments, pallets and f… |
+| 2026-11-04 19:56:39 | [beziworld/laravel-geis](https://www.nuget.org/packages/beziworld%2Flaravel-geis) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the Geis GService REST API (Geis Polska, CZ, SK): parcel and… |
+| 2026-11-04 20:05:56 | [beziworld/laravel-edi-epp](https://www.nuget.org/packages/beziworld%2Flaravel-edi-epp) | v1.0.0 | Kamil Ćwiertnia | Read and write InsERT EDI++ (.epp) exchange files for Subiekt GT, Subiekt nexo,… |
+| 2026-11-04 20:14:20 | [mainstay/cms](https://www.nuget.org/packages/mainstay%2Fcms) | v0.1.0 |  | A CMS for Laravel: content modelled in PHP, edited in a Blade admin, rendered b… |
+| 2026-11-04 20:14:21 | [mainstay/ui](https://www.nuget.org/packages/mainstay%2Fui) | v0.1.0 |  | The Mainstay design system: tokens and Blade components for the CMS admin. |
 
 ## Data source
 
