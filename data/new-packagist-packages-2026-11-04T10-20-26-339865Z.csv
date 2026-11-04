@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-04T09:27:04Z,vaersaagod/consentmate,1.0.0,,"No means no, mate!"
+2026-11-04T09:29:49Z,rizalahmaddd/laravel-rawprint,v1.0.0,rizalahmaddd,"Print RAW ESC/P, ESC/POS and ZPL data from Laravel to RawPrint Agent without a print dialog."
+2026-11-04T09:40:07Z,ehundu/andamio-curriculum,v1.0.0,,"Un currículum hecho con Ehundu: tus datos en un solo fichero y, de ellos, la web, el PDF, el JSON Resume y la tarjeta de contacto, para empezar."
+2026-11-04T09:40:07Z,oleksyuk/laravel-gleif-sdk,v0.1.0,Maks Oleksyuk,"Laravel SDK for the GLEIF LEI API, built on Saloon"
+2026-11-04T09:46:28Z,deko/codec-decodec,v0.1.1,deko,Library of symmetric encryption algorithms
+2026-11-04T09:54:01Z,watcher-php/laravel,v0.1.2,,"Security intelligence and protection layer for Laravel applications: static analysis, runtime threat detection, incident management and notifications."

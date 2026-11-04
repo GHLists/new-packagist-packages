@@ -15,18 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 09:18 UTC
+## Latest list — 2026-11-04 10:20 UTC
 
-New packages created between 2026-11-04 08:20 UTC and 2026-11-04 09:18 UTC.
+New packages created between 2026-11-04 09:18 UTC and 2026-11-04 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T09-18-52-96611Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T10-20-26-339865Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 08:46:58 | [yolow92/pagesift](https://www.nuget.org/packages/yolow92%2Fpagesift) | v1.1.0 | YOLOW92 | PHP (ext-ffi) binding of libpagesift: HTML, PDF, Office and other documents to… |
-| 2026-11-04 08:48:23 | [amanuellegese/omnipay-arifpay](https://www.nuget.org/packages/amanuellegese%2Fomnipay-arifpay) | v0.1.0 | Amanuel Legese | ArifPay driver for the Omnipay PHP payment processing library |
-| 2026-11-04 09:00:59 | [solophp/tokens](https://www.nuget.org/packages/solophp%2Ftokens) | v1.0.0 | Vitaliy Olos | Tokens for reset links, invitations and sessions: random secrets stored only as… |
-| 2026-11-04 09:11:05 | [prasanth/form-builder](https://www.nuget.org/packages/prasanth%2Fform-builder) | v1.0.0 | Prasanth Kumar | Dynamic Form Builder Package |
+| 2026-11-04 09:27:04 | [vaersaagod/consentmate](https://www.nuget.org/packages/vaersaagod%2Fconsentmate) | 1.0.0 |  | No means no, mate! |
+| 2026-11-04 09:29:49 | [rizalahmaddd/laravel-rawprint](https://www.nuget.org/packages/rizalahmaddd%2Flaravel-rawprint) | v1.0.0 | rizalahmaddd | Print RAW ESC/P, ESC/POS and ZPL data from Laravel to RawPrint Agent without a… |
+| 2026-11-04 09:40:07 | [ehundu/andamio-curriculum](https://www.nuget.org/packages/ehundu%2Fandamio-curriculum) | v1.0.0 |  | Un currículum hecho con Ehundu: tus datos en un solo fichero y, de ellos, la we… |
+| 2026-11-04 09:40:07 | [oleksyuk/laravel-gleif-sdk](https://www.nuget.org/packages/oleksyuk%2Flaravel-gleif-sdk) | v0.1.0 | Maks Oleksyuk | Laravel SDK for the GLEIF LEI API, built on Saloon |
+| 2026-11-04 09:46:28 | [deko/codec-decodec](https://www.nuget.org/packages/deko%2Fcodec-decodec) | v0.1.1 | deko | Library of symmetric encryption algorithms |
+| 2026-11-04 09:54:01 | [watcher-php/laravel](https://www.nuget.org/packages/watcher-php%2Flaravel) | v0.1.2 |  | Security intelligence and protection layer for Laravel applications: static ana… |
 
 ## Data source
 
