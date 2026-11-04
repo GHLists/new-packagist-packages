@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-04T20:23:02Z,bode/module-metrics,v1.2.0,,"OpenTelemetry metrics for Magento 2 with a hard low-cardinality contract: HTTP, cron, indexers, queues, cache, outbound HTTP and a state collector. A no-op without ext-opentelemetry."
+2026-11-04T20:23:02Z,bode/module-tracing,v1.2.0,,"OpenTelemetry traces for Magento 2: HTTP, cron, CLI, indexers, cache, queues, outbound HTTP. Vendor-neutral, a no-op without ext-opentelemetry."
+2026-11-04T20:33:17Z,cgarciagl/ragnos,v1.0.2,Carlos García Trujillo,Ragnos Framework - Declarative admin/CRUD framework for PHP built on CodeIgniter 4
+2026-11-04T20:40:23Z,hosmelq/laravel-message-preview,v1.0.0,Hosmel Quintana,Preview Laravel mailables and mail notifications in the browser.
+2026-11-04T20:42:59Z,bode/module-logs,v1.2.0,,"Structured JSON logs for Magento 2: every log record and exception as one OpenTelemetry-shaped JSON line with trace and span ids, the emitting class, the cron job or CLI command and structured exception data."
+2026-11-04T20:48:11Z,beziworld/laravel-firmao,v1.0.0,Kamil Ćwiertnia,"Laravel client for the Firmao CRM/ERP REST API: customers, products, invoices, offers, tasks, stock documents and more"
+2026-11-04T20:54:21Z,beziworld/laravel-nfz,v1.0.1,Kamil Ćwiertnia,"Laravel integration with the Polish National Health Fund (NFZ): waiting times, contracts and statistics open APIs plus eWUS patient insurance verification, without ext-soap."
+2026-11-04T21:08:01Z,beziworld/laravel-gus-bdl,v1.0.0,Kamil Ćwiertnia,"Laravel client for the GUS Local Data Bank (Bank Danych Lokalnych, BDL) API: subjects, variables, territorial units, statistical data series, ETag caching and quota-aware rate limiting"
+2026-11-04T21:08:18Z,beziworld/laravel-dane-gov,v1.0.0,Kamil Ćwiertnia,"Laravel client for the dane.gov.pl open data API: datasets, resources, institutions, showcases, search with facets, a streaming tabular data reader and file downloads"
+2026-11-04T21:09:44Z,spkm/duo-security,v1.0.1,Simon Mitchell,Integrate with the Duo Security Admin and Auth APIs using SaloonPHP

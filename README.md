@@ -15,29 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 20:21 UTC
+## Latest list — 2026-11-04 21:22 UTC
 
-New packages created between 2026-11-04 19:20 UTC and 2026-11-04 20:21 UTC.
+New packages created between 2026-11-04 20:21 UTC and 2026-11-04 21:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T20-21-31-487619Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-04T21-22-14-183481Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 19:23:17 | [ashraftalha/laravel-opconsole](https://www.nuget.org/packages/ashraftalha%2Flaravel-opconsole) | v1.11.0 | Ashraf Talha | Monitor. Diagnose. Maintain. An administrative operations console for Laravel a… |
-| 2026-11-04 19:27:11 | [beziworld/laravel-debt-registers](https://www.nuget.org/packages/beziworld%2Flaravel-debt-registers) | v1.0.0 | Kamil Ćwiertnia | Laravel client for Polish debt registers: KRD (Krajowy Rejestr Długów) debtor c… |
-| 2026-11-04 19:28:03 | [beziworld/laravel-paypo](https://www.nuget.org/packages/beziworld%2Flaravel-paypo) | v1.0.0 | Kamil Ćwiertnia | PayPo buy now, pay later gateway for Laravel: transactions, confirmation, refun… |
-| 2026-11-04 19:28:20 | [beziworld/laravel-opinions](https://www.nuget.org/packages/beziworld%2Flaravel-opinions) | v1.0.0 | Kamil Ćwiertnia | Customer review services for Laravel: Trusted Shops (eTrusted) invitations, rev… |
-| 2026-11-04 19:29:36 | [damconsultants/canto](https://www.nuget.org/packages/damconsultants%2Fcanto) | 1.0.0 | DamConsultants | DamConsultants Canto for Magento 2 |
-| 2026-11-04 19:38:26 | [filagora/filagora-forum-bugreports](https://www.nuget.org/packages/filagora%2Ffilagora-forum-bugreports) | v0.1.0 |  | Bug reports on forum threads, an optional add-on for filagora-forums. |
-| 2026-11-04 19:46:00 | [beziworld/laravel-ups](https://www.nuget.org/packages/beziworld%2Flaravel-ups) | v1.0.0 | Kamil Ćwiertnia | UPS REST API client for Laravel: OAuth2, shipments with GIF/ZPL/EPL labels and… |
-| 2026-11-04 19:46:18 | [beziworld/laravel-fedex](https://www.nuget.org/packages/beziworld%2Flaravel-fedex) | v1.0.0 | Kamil Ćwiertnia | FedEx REST API client for Laravel: OAuth2, shipments with PDF/PNG/ZPL labels an… |
-| 2026-11-04 19:46:35 | [beziworld/laravel-dhl-express](https://www.nuget.org/packages/beziworld%2Flaravel-dhl-express) | v1.0.0 | Kamil Ćwiertnia | DHL Express MyDHL API client for Laravel: shipments with PDF/ZPL labels and com… |
-| 2026-11-04 19:50:12 | [beziworld/laravel-wezel-krajowy](https://www.nuget.org/packages/beziworld%2Flaravel-wezel-krajowy) | v1.0.0 | Kamil Ćwiertnia | Log in with the Polish National Electronic Identification Node (login.gov.pl, P… |
-| 2026-11-04 19:56:20 | [beziworld/laravel-ambro](https://www.nuget.org/packages/beziworld%2Flaravel-ambro) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the Ambro Express courier SOAP API: shipments, pallets and f… |
-| 2026-11-04 19:56:39 | [beziworld/laravel-geis](https://www.nuget.org/packages/beziworld%2Flaravel-geis) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the Geis GService REST API (Geis Polska, CZ, SK): parcel and… |
-| 2026-11-04 20:05:56 | [beziworld/laravel-edi-epp](https://www.nuget.org/packages/beziworld%2Flaravel-edi-epp) | v1.0.0 | Kamil Ćwiertnia | Read and write InsERT EDI++ (.epp) exchange files for Subiekt GT, Subiekt nexo,… |
-| 2026-11-04 20:14:20 | [mainstay/cms](https://www.nuget.org/packages/mainstay%2Fcms) | v0.1.0 |  | A CMS for Laravel: content modelled in PHP, edited in a Blade admin, rendered b… |
-| 2026-11-04 20:14:21 | [mainstay/ui](https://www.nuget.org/packages/mainstay%2Fui) | v0.1.0 |  | The Mainstay design system: tokens and Blade components for the CMS admin. |
+| 2026-11-04 20:23:02 | [bode/module-metrics](https://www.nuget.org/packages/bode%2Fmodule-metrics) | v1.2.0 |  | OpenTelemetry metrics for Magento 2 with a hard low-cardinality contract: HTTP,… |
+| 2026-11-04 20:23:02 | [bode/module-tracing](https://www.nuget.org/packages/bode%2Fmodule-tracing) | v1.2.0 |  | OpenTelemetry traces for Magento 2: HTTP, cron, CLI, indexers, cache, queues, o… |
+| 2026-11-04 20:33:17 | [cgarciagl/ragnos](https://www.nuget.org/packages/cgarciagl%2Fragnos) | v1.0.2 | Carlos García Trujillo | Ragnos Framework - Declarative admin/CRUD framework for PHP built on CodeIgnite… |
+| 2026-11-04 20:40:23 | [hosmelq/laravel-message-preview](https://www.nuget.org/packages/hosmelq%2Flaravel-message-preview) | v1.0.0 | Hosmel Quintana | Preview Laravel mailables and mail notifications in the browser. |
+| 2026-11-04 20:42:59 | [bode/module-logs](https://www.nuget.org/packages/bode%2Fmodule-logs) | v1.2.0 |  | Structured JSON logs for Magento 2: every log record and exception as one OpenT… |
+| 2026-11-04 20:48:11 | [beziworld/laravel-firmao](https://www.nuget.org/packages/beziworld%2Flaravel-firmao) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the Firmao CRM/ERP REST API: customers, products, invoices,… |
+| 2026-11-04 20:54:21 | [beziworld/laravel-nfz](https://www.nuget.org/packages/beziworld%2Flaravel-nfz) | v1.0.1 | Kamil Ćwiertnia | Laravel integration with the Polish National Health Fund (NFZ): waiting times,… |
+| 2026-11-04 21:08:01 | [beziworld/laravel-gus-bdl](https://www.nuget.org/packages/beziworld%2Flaravel-gus-bdl) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the GUS Local Data Bank (Bank Danych Lokalnych, BDL) API: su… |
+| 2026-11-04 21:08:18 | [beziworld/laravel-dane-gov](https://www.nuget.org/packages/beziworld%2Flaravel-dane-gov) | v1.0.0 | Kamil Ćwiertnia | Laravel client for the dane.gov.pl open data API: datasets, resources, institut… |
+| 2026-11-04 21:09:44 | [spkm/duo-security](https://www.nuget.org/packages/spkm%2Fduo-security) | v1.0.1 | Simon Mitchell | Integrate with the Duo Security Admin and Auth APIs using SaloonPHP |
 
 ## Data source
 
