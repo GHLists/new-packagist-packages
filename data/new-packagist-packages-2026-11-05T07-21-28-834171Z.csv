@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-05T06:21:09Z,itmosoft/laravel-returns,v1.0.0,,Return merchandise authorization and inspection workflows for Laravel commerce applications.
+2026-11-05T06:27:23Z,iamjuan/spamast-sso-client,v1.0.3,,"SPAMAST SSO client for Laravel apps: sign in from the hub, pending accounts, and a hub API for the mobile app."
+2026-11-05T06:28:11Z,itmosoft/laravel-refunds,v1.0.0,,Payment-provider-agnostic refund records and workflows for Laravel applications.
+2026-11-05T06:32:44Z,itmosoft/laravel-invoices,v1.0.0,,"Invoice records, line snapshots, numbering and payment tracking for Laravel applications."
+2026-11-05T06:38:02Z,itmosoft/laravel-payments,v1.0.0,,"Gateway-agnostic payment intents, transactions and webhook event tracking for Laravel applications."
+2026-11-05T07:09:16Z,runchance/rcmaker-php,v1.0.0,wobless,"High-performance PHP applications with project initialization, isolated app processes and standalone delivery."
+2026-11-05T07:11:37Z,eduardoapatat/laravel-inertia-datatable,v0.1.0,Eduardo Apata Tito,"Server-side DataTables for Laravel + Inertia + React: pagination, sorting, filters, faceted counts and global search resolved on the server, with a shadcn/TanStack Table UI."

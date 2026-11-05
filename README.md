@@ -15,17 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 06:19 UTC
+## Latest list — 2026-11-05 07:21 UTC
 
-New packages created between 2026-11-05 05:21 UTC and 2026-11-05 06:19 UTC.
+New packages created between 2026-11-05 06:19 UTC and 2026-11-05 07:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T06-19-58-1603Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T07-21-28-834171Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-05 05:45:53 | [jyim/laravel-plugin-market](https://www.nuget.org/packages/jyim%2Flaravel-plugin-market) | 1.0.0 | augustdai |  |
-| 2026-11-05 05:46:13 | [jyim/laravel-plugin](https://www.nuget.org/packages/jyim%2Flaravel-plugin) | 1.0.0 | augustdai |  |
-| 2026-11-05 06:13:17 | [itmosoft/laravel-shipping](https://www.nuget.org/packages/itmosoft%2Flaravel-shipping) | v1.0.0 |  | Shipping zones, methods, rates, quotes, shipments and tracking for Laravel appl… |
+| 2026-11-05 06:21:09 | [itmosoft/laravel-returns](https://www.nuget.org/packages/itmosoft%2Flaravel-returns) | v1.0.0 |  | Return merchandise authorization and inspection workflows for Laravel commerce… |
+| 2026-11-05 06:27:23 | [iamjuan/spamast-sso-client](https://www.nuget.org/packages/iamjuan%2Fspamast-sso-client) | v1.0.3 |  | SPAMAST SSO client for Laravel apps: sign in from the hub, pending accounts, an… |
+| 2026-11-05 06:28:11 | [itmosoft/laravel-refunds](https://www.nuget.org/packages/itmosoft%2Flaravel-refunds) | v1.0.0 |  | Payment-provider-agnostic refund records and workflows for Laravel applications. |
+| 2026-11-05 06:32:44 | [itmosoft/laravel-invoices](https://www.nuget.org/packages/itmosoft%2Flaravel-invoices) | v1.0.0 |  | Invoice records, line snapshots, numbering and payment tracking for Laravel app… |
+| 2026-11-05 06:38:02 | [itmosoft/laravel-payments](https://www.nuget.org/packages/itmosoft%2Flaravel-payments) | v1.0.0 |  | Gateway-agnostic payment intents, transactions and webhook event tracking for L… |
+| 2026-11-05 07:09:16 | [runchance/rcmaker-php](https://www.nuget.org/packages/runchance%2Frcmaker-php) | v1.0.0 | wobless | High-performance PHP applications with project initialization, isolated app pro… |
+| 2026-11-05 07:11:37 | [eduardoapatat/laravel-inertia-datatable](https://www.nuget.org/packages/eduardoapatat%2Flaravel-inertia-datatable) | v0.1.0 | Eduardo Apata Tito | Server-side DataTables for Laravel + Inertia + React: pagination, sorting, filt… |
 
 ## Data source
 
