@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-05T05:45:53Z,jyim/laravel-plugin-market,1.0.0,augustdai,
+2026-11-05T05:46:13Z,jyim/laravel-plugin,1.0.0,augustdai,
+2026-11-05T06:13:17Z,itmosoft/laravel-shipping,v1.0.0,,"Shipping zones, methods, rates, quotes, shipments and tracking for Laravel applications."

@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 05:21 UTC
+## Latest list — 2026-11-05 06:19 UTC
 
-New packages created between 2026-11-05 04:21 UTC and 2026-11-05 05:21 UTC.
+New packages created between 2026-11-05 05:21 UTC and 2026-11-05 06:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T05-21-42-407112Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T06-19-58-1603Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-05 04:58:21 | [themusicdev/eventbrite](https://www.nuget.org/packages/themusicdev%2Feventbrite) | v0.1.0 |  | Eventbrite API v3 client - PSR-18 HTTP, PSR-16 cache, framework agnostic |
-| 2026-11-05 05:12:51 | [lara-pack/database-backup](https://www.nuget.org/packages/lara-pack%2Fdatabase-backup) | v1.0.0 | Bhagaskara | Scheduled database backups for Laravel, configured from .env: schedule, retenti… |
-| 2026-11-05 05:16:59 | [rimba/knowledge](https://www.nuget.org/packages/rimba%2Fknowledge) | 1.1.0 |  | Controlled documents, learning and qualification for the Rimba application. |
+| 2026-11-05 05:45:53 | [jyim/laravel-plugin-market](https://www.nuget.org/packages/jyim%2Flaravel-plugin-market) | 1.0.0 | augustdai |  |
+| 2026-11-05 05:46:13 | [jyim/laravel-plugin](https://www.nuget.org/packages/jyim%2Flaravel-plugin) | 1.0.0 | augustdai |  |
+| 2026-11-05 06:13:17 | [itmosoft/laravel-shipping](https://www.nuget.org/packages/itmosoft%2Flaravel-shipping) | v1.0.0 |  | Shipping zones, methods, rates, quotes, shipments and tracking for Laravel appl… |
 
 ## Data source
 
