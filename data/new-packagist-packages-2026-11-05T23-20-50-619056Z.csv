@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-05T22:47:06Z,webwizardsusa/filament-rich-editor-plus,v0.1.0,Jamie Holly,"A plugin-driven, TipTap based rich editor for Filament with a Gutenberg style block toolbar."
+2026-11-05T22:56:56Z,nubos/starterkit,v1.19.0,,The skeleton application for the Laravel framework.
+2026-11-05T23:03:07Z,rzkhrv/php-wallet-core-protobuf,4.8.7,,PHP Protobuf classes generated from Trust Wallet Core schemas
