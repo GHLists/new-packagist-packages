@@ -15,21 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 18:20 UTC
+## Latest list — 2026-11-05 19:20 UTC
 
-New packages created between 2026-11-05 17:19 UTC and 2026-11-05 18:20 UTC.
+New packages created between 2026-11-05 18:20 UTC and 2026-11-05 19:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T18-20-25-959528Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T19-20-33-507388Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-05 17:22:20 | [jlorente/laravel-appsflyer](https://www.nuget.org/packages/jlorente%2Flaravel-appsflyer) | 1.0.0 | José Lorente | Laravel 5.6 integration for the Jlorente Appsflyer package. |
-| 2026-11-05 17:22:21 | [php-io-extensions/fontconfig](https://www.nuget.org/packages/php-io-extensions%2Ffontconfig) | v0.11.0 | Project Saturn Studios, LLC | 1:1 PHP bindings of fontconfig: configuration, patterns, font matching and sort… |
-| 2026-11-05 17:27:00 | [isapp/filament-firebase-auth](https://www.nuget.org/packages/isapp%2Ffilament-firebase-auth) | v5.0.0 | ISAPP; ISAP OÜ | Firebase Authentication for Filament panels through Laravel auth contracts. |
-| 2026-11-05 17:28:53 | [beliq/shopware-beliq](https://www.nuget.org/packages/beliq%2Fshopware-beliq) | 0.1.0 | beliq | Generate compliant EN 16931 e-invoices from Shopware orders through the beliq A… |
-| 2026-11-05 17:36:25 | [nowo-tech/slack-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fslack-kit-bundle) | v1.0.0 | Héctor Franco Aceituno; Nowo.… | Slack for Symfony: a hardened Web API client, signed interactions and Events AP… |
-| 2026-11-05 17:54:13 | [larevio/persian-providers](https://www.nuget.org/packages/larevio%2Fpersian-providers) | 1.0.0 | larevio | Laravel integrations for Iranian payment, SMS, inquiry, and exchange providers |
-| 2026-11-05 18:07:05 | [nandordudas/state-machine](https://www.nuget.org/packages/nandordudas%2Fstate-machine) | v3.0.0 |  | A small, strictly typed finite state machine for PHP (inspired by xstate.js and… |
+| 2026-11-05 18:24:44 | [shaungbhone/shopper-po](https://www.nuget.org/packages/shaungbhone%2Fshopper-po) | v1.0.0 |  | Purchase orders and auditable receiving for Laravel Shopper 2.12. |
+| 2026-11-05 18:33:53 | [wfeller/laravel-schedule-monitor-healthchecksio](https://www.nuget.org/packages/wfeller%2Flaravel-schedule-monitor-healthchecksio) | 1.0.0 |  | Send spatie/laravel-schedule-monitor pings to Healthchecks.io instead of Oh Dea… |
+| 2026-11-05 18:38:56 | [pijler/impersonation](https://www.nuget.org/packages/pijler%2Fimpersonation) | v0.1.0 | João Pedro Lopes | Secure user impersonation for Laravel, with per-request authorization, audit ev… |
+| 2026-11-05 18:40:36 | [pijler/actions](https://www.nuget.org/packages/pijler%2Factions) | v0.1.0 | João Pedro Lopes | Typed, testable, and queueable actions for Laravel, with workflows to orchestra… |
+| 2026-11-05 18:48:47 | [exeque/lumberjack-agent](https://www.nuget.org/packages/exeque%2Flumberjack-agent) | v0.1.0 | Morten Harders | The local agent that takes batches from your apps and sends them on to Lumberja… |
+| 2026-11-05 18:51:54 | [mkerstner/aurora](https://www.nuget.org/packages/mkerstner%2Faurora) | 1.0.1 | Matthias Kerstner | A modern, mobile-first refresh of Roundcube's Elastic skin: a persistent phone… |
+| 2026-11-05 18:59:11 | [rgusseinov/arc-skeleton](https://www.nuget.org/packages/rgusseinov%2Farc-skeleton) | v0.1.2 |  | Application skeleton for the Arc framework |
+| 2026-11-05 18:59:52 | [uzapoint/digitax-client](https://www.nuget.org/packages/uzapoint%2Fdigitax-client) | v1.0.0 | Caleb Chege | DigiTax (KRA eTIMS) v2 API client for Uzapoint Laravel microservices |
 
 ## Data source
 

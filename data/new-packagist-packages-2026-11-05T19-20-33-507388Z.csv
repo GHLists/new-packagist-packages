@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-05T18:24:44Z,shaungbhone/shopper-po,v1.0.0,,Purchase orders and auditable receiving for Laravel Shopper 2.12.
+2026-11-05T18:33:53Z,wfeller/laravel-schedule-monitor-healthchecksio,1.0.0,,Send spatie/laravel-schedule-monitor pings to Healthchecks.io instead of Oh Dear.
+2026-11-05T18:38:56Z,pijler/impersonation,v0.1.0,João Pedro Lopes,"Secure user impersonation for Laravel, with per-request authorization, audit events, and session time limits."
+2026-11-05T18:40:36Z,pijler/actions,v0.1.0,João Pedro Lopes,"Typed, testable, and queueable actions for Laravel, with workflows to orchestrate them."
+2026-11-05T18:48:47Z,exeque/lumberjack-agent,v0.1.0,Morten Harders,"The local agent that takes batches from your apps and sends them on to Lumberjack, with retry and a disk spool."
+2026-11-05T18:51:54Z,mkerstner/aurora,1.0.1,Matthias Kerstner,"A modern, mobile-first refresh of Roundcube's Elastic skin: a persistent phone tab bar, a design-token system, an accent of its own, and WCAG 2.2 AA colours and focus indicators in light and dark."
+2026-11-05T18:59:11Z,rgusseinov/arc-skeleton,v0.1.2,,Application skeleton for the Arc framework
+2026-11-05T18:59:52Z,uzapoint/digitax-client,v1.0.0,Caleb Chege,DigiTax (KRA eTIMS) v2 API client for Uzapoint Laravel microservices
