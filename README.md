@@ -15,20 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 14:21 UTC
+## Latest list — 2026-11-05 15:21 UTC
 
-New packages created between 2026-11-05 13:21 UTC and 2026-11-05 14:21 UTC.
+New packages created between 2026-11-05 14:21 UTC and 2026-11-05 15:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T14-21-47-442036Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T15-21-44-780114Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-05 13:24:56 | [crabphp/crab](https://www.nuget.org/packages/crabphp%2Fcrab) | v0.1.1 |  | A starting point for an application on the Crab framework |
-| 2026-11-05 13:30:46 | [nobuhiko/eccube-cloud-logging](https://www.nuget.org/packages/nobuhiko%2Feccube-cloud-logging) | v0.1.0 | KIMOTO Nobuhiko | EC-CUBE を Cloud Run などで動かすときのログ（Cloud Logging の JSON・個人情報を伏せる・リクエストの trace）。Mon… |
-| 2026-11-05 13:44:06 | [blutrixx/nativephp-geo-location](https://www.nuget.org/packages/blutrixx%2Fnativephp-geo-location) | v1.1.0 | Blutrixx | NativePHP Mobile plugin: location in the foreground and in the background. A fo… |
-| 2026-11-05 13:46:47 | [js199069/laravel-persian-rag](https://www.nuget.org/packages/js199069%2Flaravel-persian-rag) | v0.1.0 | js199069 | Persian RAG for Laravel: OCR-aware extraction, hybrid pgvector search, role-bas… |
-| 2026-11-05 13:52:56 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.16.0 |  | The skeleton application for the Laravel framework. |
-| 2026-11-05 14:03:25 | [bdevs/supabase-laravel](https://www.nuget.org/packages/bdevs%2Fsupabase-laravel) | v0.1.0 | BlackDevs; Md Mahabubul Alam | Laravel package for integrating with Supabase (Auth, Storage, Edge Functions). |
+| 2026-11-05 14:22:25 | [julienbohy/git-profiler-bundle](https://www.nuget.org/packages/julienbohy%2Fgit-profiler-bundle) | 0.3.0 | Julien Bohy | Displays Git information (branch, commit and working state) in the Symfony Web… |
+| 2026-11-05 14:24:04 | [browserpilot/browserpilot](https://www.nuget.org/packages/browserpilot%2Fbrowserpilot) | v0.1.0 | Ross Ewing | Give your Laravel agents a browser, with a human on standby. |
+| 2026-11-05 14:24:20 | [happenv-com/laravel-model-search](https://www.nuget.org/packages/happenv-com%2Flaravel-model-search) | v0.1.0 |  | Universal record search for Laravel models, backed by PostgreSQL trigram indexe… |
+| 2026-11-05 14:37:05 | [rpayvn/rpay-sdk](https://www.nuget.org/packages/rpayvn%2Frpay-sdk) | v1.0.0 |  | Official RPAY Payment & Banking SDK for PHP (Laravel, WordPress, Pure PHP) — Un… |
+| 2026-11-05 14:49:47 | [thunder-solution/sdk](https://www.nuget.org/packages/thunder-solution%2Fsdk) | v1.0.0 | Thunder Solution Co., Ltd. | Official Thunder SDK for PHP: verify Thai bank slips and TrueMoney Wallet recei… |
+| 2026-11-05 14:50:03 | [intragile/laravel-hungarian-validation](https://www.nuget.org/packages/intragile%2Flaravel-hungarian-validation) | v1.0.1 | IntrAgile Kft. | Validation, normalisation, formatting and test data for Hungarian identifiers:… |
 
 ## Data source
 

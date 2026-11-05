@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-05T14:22:25Z,julienbohy/git-profiler-bundle,0.3.0,Julien Bohy,"Displays Git information (branch, commit and working state) in the Symfony Web Profiler."
+2026-11-05T14:24:04Z,browserpilot/browserpilot,v0.1.0,Ross Ewing,"Give your Laravel agents a browser, with a human on standby."
+2026-11-05T14:24:20Z,happenv-com/laravel-model-search,v0.1.0,,"Universal record search for Laravel models, backed by PostgreSQL trigram indexes."
+2026-11-05T14:37:05Z,rpayvn/rpay-sdk,v1.0.0,,"Official RPAY Payment & Banking SDK for PHP (Laravel, WordPress, Pure PHP) — Unified Bank (VietQR 15 Banks) & Crypto (USDT/USDC 18 Networks), Multi-Domain White-Label, LSGD Polling & HMAC-SHA256 Webhooks."
+2026-11-05T14:49:47Z,thunder-solution/sdk,v1.0.0,"Thunder Solution Co., Ltd.","Official Thunder SDK for PHP: verify Thai bank slips and TrueMoney Wallet receipts, generate payment QR codes and check webhook signatures."
+2026-11-05T14:50:03Z,intragile/laravel-hungarian-validation,v1.0.1,IntrAgile Kft.,"Validation, normalisation, formatting and test data for Hungarian identifiers: tax number, EU VAT number, tax ID, TAJ, bank account, IBAN, company registration number and postal code. Magyar azonosítók validálása: adószám, adóazonosító jel, TAJ-szám, bankszámlaszám, IBAN, cégjegyzékszám, irányítósz…"
