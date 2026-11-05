@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 23:20 UTC
+## Latest list — 2026-11-05 00:21 UTC
 
-New packages created between 2026-11-04 22:26 UTC and 2026-11-04 23:20 UTC.
+New packages created between 2026-11-04 23:20 UTC and 2026-11-05 00:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-04T23-20-40-536904Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T00-21-35-824501Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 22:51:41 | [maxcode/module-product-question](https://www.nuget.org/packages/maxcode%2Fmodule-product-question) | 1.0.0 |  | Product page block that sends shoppers to the contact form with the product alr… |
+| 2026-11-04 23:51:13 | [furan/magento-infra-health](https://www.nuget.org/packages/furan%2Fmagento-infra-health) | v0.1.1 | Francis Gallagher | Magento 2 admin dashboard for infrastructure health |
 
 ## Data source
 
