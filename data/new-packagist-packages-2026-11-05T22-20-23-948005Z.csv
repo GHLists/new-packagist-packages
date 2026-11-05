@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-05T21:39:14Z,evapanel/smm-api-client,v1.0.1,Eva Panel,"A small PHP client for the standard SMM panel API (v2): services, orders, status, balance, refill and cancel."
+2026-11-05T21:45:48Z,alfonsobries/laravel-grok-bot,v1.0.0,Alfonso Bribiesca,Laravel notification channel for Grok Bot: send any notification to a Grok Bot routine through its webhook trigger.
+2026-11-05T21:59:24Z,nubos/starterkit,v1.18.0,,The skeleton application for the Laravel framework.
+2026-11-05T22:06:27Z,shipit-software/csv-validator,v0.1.0,,Validate UTF-8 CSV structure and report precise diagnostic positions.
