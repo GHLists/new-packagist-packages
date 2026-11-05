@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-11-05T12:21:27Z,intragile/laravel-nav-online-szamla,v1.0.1,IntrAgile Kft.,"Complete, Laravel-native client for the Hungarian NAV Online Számla (Online Invoice) v3.0 API."
+2026-11-05T12:21:58Z,osmanov/pecl-eio,4.0.0,,Provides interface to libeio library.
+2026-11-05T12:31:10Z,sevaske/taqnyat-api,1.0.0,sevaske,"Framework-agnostic PHP client for the Taqnyat SMS API (taqnyat.sa): send plain and templated SMS, scheduled messages, PSR-18 compatible."
+2026-11-05T13:01:40Z,mlocati/install-php-extensions,0.0.1,Michele Locati,Easily install PHP extensions
+2026-11-05T13:08:33Z,kopexa/mautic-preferences-center,v0.1.0,Kopexa,"Preference center for Mautic: choose which categories appear as topics, in which order and with which text, keep hidden topics untouched when contacts save, and notify other systems through Mautic webhooks when preferences change."
+2026-11-05T13:12:55Z,crabphp/runs,v0.1.0,,"Durable runs for the Crab framework: work of many steps that goes on from where it was, across crashes, deploys and days of waiting"
+2026-11-05T13:13:05Z,crabphp/actors,v0.1.0,,"Actors for the Crab framework: one for each key, taking its messages one at a time and keeping its memory while it runs"
+2026-11-05T13:13:16Z,crabphp/redis,v0.1.0,,Redis for the Crab framework: a cache store and a queue store that wait without holding a worker
+2026-11-05T13:13:27Z,crabphp/s3,v0.1.0,,"S3 for the Crab framework: a disk on Amazon S3, Cloudflare R2, MinIO or any service that speaks S3's API, that waits without holding a worker"
+2026-11-05T13:13:37Z,crabphp/openapi,v0.1.0,,OpenAPI documents generated from Crab routes and action signatures
+2026-11-05T13:13:48Z,crabphp/clockwerk,v0.1.0,,"A dashboard for an application on the Crab framework: requests, the queue, scheduled tasks, workers and exceptions"
+2026-11-05T13:14:39Z,slimfony/core,v0.1.0,,"Ultra-lightweight, secure Symfony-component based microservice core for FrankenPHP worker mode."
