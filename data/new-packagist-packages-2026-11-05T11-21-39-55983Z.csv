@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-05T10:25:03Z,ihsan/umm-alqura-prayer-times,v0.1.0,,"Offline PHP library for Islamic prayer (adhan) times using the official Umm al-Qura method, calibrated against the official calendar, with automatic Ramadan Isha and built-in Saudi cities."
+2026-11-05T10:52:23Z,dpezer/silverstripe-remote-assets,1.0.0,Darjan Pezer,"Serve missing asset files from a remote Silverstripe site on the frontend, without storing them locally."
+2026-11-05T10:59:29Z,elgentos/m2-vatfallback-graph-ql,1.0.0,Sander Jongsma,Provides graph ql endpoint to dutchento/m2-vatfallback
+2026-11-05T11:09:47Z,nmirceac/sms-tools-2,0.0.3,Mircea Nicolae,"Laravel client for the WeAnswer SMS Toolkit (API v2): send SMS, track delivery and receive replies via signed webhooks."
+2026-11-05T11:17:25Z,ibexa/doctrine-migrations,v4.6.33,,Symfony Bundle providing service-based Doctrine Migrations infrastructure for Ibexa packages

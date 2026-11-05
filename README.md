@@ -15,21 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 10:22 UTC
+## Latest list — 2026-11-05 11:21 UTC
 
-New packages created between 2026-11-05 09:21 UTC and 2026-11-05 10:22 UTC.
+New packages created between 2026-11-05 10:22 UTC and 2026-11-05 11:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T10-22-00-742646Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T11-21-39-55983Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-05 09:24:25 | [andreybolonin/modernorm-bundle](https://www.nuget.org/packages/andreybolonin%2Fmodernorm-bundle) | v0.1.0-beta.1 |  | Symfony integration and Profiler for ModernORM, the PostgreSQL-first ORM. |
-| 2026-11-05 09:27:31 | [djthossi/shippy-pro-sdk](https://www.nuget.org/packages/djthossi%2Fshippy-pro-sdk) | 1.0.0 | Sebastian Thoss | Typed, object-oriented PHP SDK for the ShippyPro API |
-| 2026-11-05 09:29:16 | [fayne/shopping-cart](https://www.nuget.org/packages/fayne%2Fshopping-cart) | v1.0.0 | Fayne Guo | This is a custom shopping cart package for Laravel projects |
-| 2026-11-05 09:32:44 | [fayne/laravel-filament-promotion](https://www.nuget.org/packages/fayne%2Flaravel-filament-promotion) | v1.0.0 |  | Promotion rules and discount calculation for Laravel and Filament. |
-| 2026-11-05 09:36:47 | [fayne/laravel-filament-commerce](https://www.nuget.org/packages/fayne%2Flaravel-filament-commerce) | v1.0.0 |  | Multi-tenant commerce domain for Laravel and Filament. |
-| 2026-11-05 09:44:19 | [xakki/log-symfony](https://www.nuget.org/packages/xakki%2Flog-symfony) | 0.4.0 |  | Symfony/Monolog log enrichment, redaction and formatters |
-| 2026-11-05 09:46:30 | [n445/easy-admin-messenger-manager](https://www.nuget.org/packages/n445%2Feasy-admin-messenger-manager) | v0.1.1 |  | Symfony Messenger manager for EasyAdmin: queues overview, failed messages, sing… |
+| 2026-11-05 10:25:03 | [ihsan/umm-alqura-prayer-times](https://www.nuget.org/packages/ihsan%2Fumm-alqura-prayer-times) | v0.1.0 |  | Offline PHP library for Islamic prayer (adhan) times using the official Umm al-… |
+| 2026-11-05 10:52:23 | [dpezer/silverstripe-remote-assets](https://www.nuget.org/packages/dpezer%2Fsilverstripe-remote-assets) | 1.0.0 | Darjan Pezer | Serve missing asset files from a remote Silverstripe site on the frontend, with… |
+| 2026-11-05 10:59:29 | [elgentos/m2-vatfallback-graph-ql](https://www.nuget.org/packages/elgentos%2Fm2-vatfallback-graph-ql) | 1.0.0 | Sander Jongsma | Provides graph ql endpoint to dutchento/m2-vatfallback |
+| 2026-11-05 11:09:47 | [nmirceac/sms-tools-2](https://www.nuget.org/packages/nmirceac%2Fsms-tools-2) | 0.0.3 | Mircea Nicolae | Laravel client for the WeAnswer SMS Toolkit (API v2): send SMS, track delivery… |
+| 2026-11-05 11:17:25 | [ibexa/doctrine-migrations](https://www.nuget.org/packages/ibexa%2Fdoctrine-migrations) | v4.6.33 |  | Symfony Bundle providing service-based Doctrine Migrations infrastructure for I… |
 
 ## Data source
 
