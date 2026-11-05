@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-05T11:26:53Z,o3-shop/paypal-checkout,v1.0.0,O3-Shop; OXID eSales AG,O3-Shop PayPal Checkout module (fork of oxid-solution-catalysts/paypal-module)
+2026-11-05T11:34:48Z,martin-juul/doctrine-duckdb-driver,1.0.0,Martin Juul Christiansen,Doctrine DBAL driver and platform for DuckDB through the native ext-duckdb extension
+2026-11-05T11:40:50Z,intragile/laravel-nav-online-szamla,v1.0.0,IntrAgile Kft.,"Complete, Laravel-native client for the Hungarian NAV Online Számla (Online Invoice) v3.0 API."
+2026-11-05T11:42:10Z,k1roshio/octane-driver-rearm,v0.1.2,k1roshio,Laravel Octane driver and MessagePack Unix-socket worker for the Rearm Rust application server
+2026-11-05T11:49:56Z,mindtwo/base-security-txt,v1.0.0,mindtwo GmbH,Framework-agnostic core of the mindtwo security.txt packages: validates input and renders an RFC 9116 security.txt whose expiry follows the last confirmation.
+2026-11-05T11:49:56Z,mindtwo/craftcms-security-txt,v1.0.0,mindtwo GmbH,"Craft CMS plugin that serves an RFC 9116 security.txt per site, maintained in the control panel, with an expiry that follows the last save."
+2026-11-05T11:49:56Z,mindtwo/statamic-security-txt,v1.0.0,mindtwo GmbH,"Statamic addon that serves an RFC 9116 security.txt per site from a global set, with an expiry that follows the last save."
+2026-11-05T11:49:56Z,mindtwo/wordpress-security-txt,v1.0.0,mindtwo GmbH,"WordPress plugin that serves an RFC 9116 security.txt maintained under Settings, with an expiry that follows the last save."
+2026-11-05T12:00:23Z,motivar/extend-wp,1.15.0,Motivar,Extend WordPress with custom functionality
