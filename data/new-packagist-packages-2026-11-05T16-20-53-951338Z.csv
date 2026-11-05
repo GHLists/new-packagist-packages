@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-05T15:33:37Z,sevaske/laravel-taqnyat,1.0.0,sevaske,"Laravel integration for the Taqnyat SMS API (taqnyat.sa): facade, notification channel, templates from config, test fake and artisan commands."
+2026-11-05T15:34:13Z,todu-io/lar-extend,1.0.3,,Laravel 插件式开发支持器
+2026-11-05T15:47:21Z,nickdekruijk/laravel-bot-noise,1.0.0,Nick de Kruijk,"Keeps bot traffic out of your Laravel error tracking: filters Livewire probe exceptions, refuses arrays sent to non-array properties and cleans invalid UTF-8 from the query string"
+2026-11-05T16:15:48Z,doi6doi/asmtabify,v0.1,Zoltán Várnagy,"Tabulates assembly source by its jumps, so loops and ifs become visible"
+2026-11-05T16:16:07Z,liberusoftware/webhooks-api,1.0.2,,Webhooks api presentation adapter.

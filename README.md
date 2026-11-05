@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 15:21 UTC
+## Latest list — 2026-11-05 16:20 UTC
 
-New packages created between 2026-11-05 14:21 UTC and 2026-11-05 15:21 UTC.
+New packages created between 2026-11-05 15:21 UTC and 2026-11-05 16:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T15-21-44-780114Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T16-20-53-951338Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-05 14:22:25 | [julienbohy/git-profiler-bundle](https://www.nuget.org/packages/julienbohy%2Fgit-profiler-bundle) | 0.3.0 | Julien Bohy | Displays Git information (branch, commit and working state) in the Symfony Web… |
-| 2026-11-05 14:24:04 | [browserpilot/browserpilot](https://www.nuget.org/packages/browserpilot%2Fbrowserpilot) | v0.1.0 | Ross Ewing | Give your Laravel agents a browser, with a human on standby. |
-| 2026-11-05 14:24:20 | [happenv-com/laravel-model-search](https://www.nuget.org/packages/happenv-com%2Flaravel-model-search) | v0.1.0 |  | Universal record search for Laravel models, backed by PostgreSQL trigram indexe… |
-| 2026-11-05 14:37:05 | [rpayvn/rpay-sdk](https://www.nuget.org/packages/rpayvn%2Frpay-sdk) | v1.0.0 |  | Official RPAY Payment & Banking SDK for PHP (Laravel, WordPress, Pure PHP) — Un… |
-| 2026-11-05 14:49:47 | [thunder-solution/sdk](https://www.nuget.org/packages/thunder-solution%2Fsdk) | v1.0.0 | Thunder Solution Co., Ltd. | Official Thunder SDK for PHP: verify Thai bank slips and TrueMoney Wallet recei… |
-| 2026-11-05 14:50:03 | [intragile/laravel-hungarian-validation](https://www.nuget.org/packages/intragile%2Flaravel-hungarian-validation) | v1.0.1 | IntrAgile Kft. | Validation, normalisation, formatting and test data for Hungarian identifiers:… |
+| 2026-11-05 15:33:37 | [sevaske/laravel-taqnyat](https://www.nuget.org/packages/sevaske%2Flaravel-taqnyat) | 1.0.0 | sevaske | Laravel integration for the Taqnyat SMS API (taqnyat.sa): facade, notification… |
+| 2026-11-05 15:34:13 | [todu-io/lar-extend](https://www.nuget.org/packages/todu-io%2Flar-extend) | 1.0.3 |  | Laravel 插件式开发支持器 |
+| 2026-11-05 15:47:21 | [nickdekruijk/laravel-bot-noise](https://www.nuget.org/packages/nickdekruijk%2Flaravel-bot-noise) | 1.0.0 | Nick de Kruijk | Keeps bot traffic out of your Laravel error tracking: filters Livewire probe ex… |
+| 2026-11-05 16:15:48 | [doi6doi/asmtabify](https://www.nuget.org/packages/doi6doi%2Fasmtabify) | v0.1 | Zoltán Várnagy | Tabulates assembly source by its jumps, so loops and ifs become visible |
+| 2026-11-05 16:16:07 | [liberusoftware/webhooks-api](https://www.nuget.org/packages/liberusoftware%2Fwebhooks-api) | 1.0.2 |  | Webhooks api presentation adapter. |
 
 ## Data source
 
