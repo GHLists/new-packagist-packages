@@ -15,21 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 02:19 UTC
+## Latest list — 2026-11-05 03:20 UTC
 
-New packages created between 2026-11-05 01:20 UTC and 2026-11-05 02:19 UTC.
+New packages created between 2026-11-05 02:19 UTC and 2026-11-05 03:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T02-19-03-23589Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T03-20-20-132212Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-05 01:26:45 | [webware/query-param-router](https://www.nuget.org/packages/webware%2Fquery-param-router) | 1.0.0-alpha.3 | Joey (aka Tyrsson) Smith | Mezzio router that matches routes on query parameters as well as path and HTTP… |
-| 2026-11-05 01:26:45 | [webware/smf-legacy-router](https://www.nuget.org/packages/webware%2Fsmf-legacy-router) | 1.0.0-alpha.3 | Joey (aka Tyrsson) Smith | Mezzio router that matches routes on query parameters as well as path and HTTP… |
-| 2026-11-05 01:29:34 | [email-validation/sdk](https://www.nuget.org/packages/email-validation%2Fsdk) | v1.0.0 | email-validation.org | Official PHP client for the email-validation.org email validation API. |
-| 2026-11-05 01:37:55 | [waffle-commons/testing](https://www.nuget.org/packages/waffle-commons%2Ftesting) | 0.1.0-beta7 | Leslie Petrimaux | Kernel testing bridge for the Waffle framework: in-process request dispatch thr… |
-| 2026-11-05 01:39:38 | [waffle-commons/openapi](https://www.nuget.org/packages/waffle-commons%2Fopenapi) | 0.1.0-beta7 | Leslie Petrimaux | OpenAPI 3.1 document generation for the Waffle framework, built from #[Route] a… |
-| 2026-11-05 01:39:46 | [waffle-commons/serializer](https://www.nuget.org/packages/waffle-commons%2Fserializer) | 0.1.0-beta7 | Leslie Petrimaux | Compiled, reflection-free DTO serialization and Accept-header content negotiati… |
-| 2026-11-05 01:45:58 | [waffle-commons/queue](https://www.nuget.org/packages/waffle-commons%2Fqueue) | 0.1.0-beta7 | Leslie Petrimaux | Background job processing for the Waffle framework: a Redis Streams driver with… |
+| 2026-11-05 02:33:17 | [mathsgod/light-entity](https://www.nuget.org/packages/mathsgod%2Flight-entity) | v1.0.0 |  | A PDO-based entity ORM built on light-linq |
+| 2026-11-05 02:35:14 | [boysfromthefactory/laravel-archivable](https://www.nuget.org/packages/boysfromthefactory%2Flaravel-archivable) | v0.2.0 | Boys From The Factory | Move old Eloquent records to a separate archive database, the Prunable way. |
+| 2026-11-05 02:51:34 | [eii/filament-turnstile](https://www.nuget.org/packages/eii%2Ffilament-turnstile) | v1.0.0 |  | Cloudflare Turnstile integration for Filament 5 forms. |
 
 ## Data source
 
