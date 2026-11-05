@@ -15,18 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 17:19 UTC
+## Latest list — 2026-11-05 18:20 UTC
 
-New packages created between 2026-11-05 16:20 UTC and 2026-11-05 17:19 UTC.
+New packages created between 2026-11-05 17:19 UTC and 2026-11-05 18:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T17-19-04-062542Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T18-20-25-959528Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-05 16:43:58 | [happenv-com/filament-model-search](https://www.nuget.org/packages/happenv-com%2Ffilament-model-search) | v0.1.0 | Happenv sp. z o.o.; webard | Filament integration for happenv-com/laravel-model-search: a command palette, t… |
-| 2026-11-05 16:54:09 | [augustash/mna_offers](https://www.nuget.org/packages/augustash%2Fmna_offers) | 1.0.3 |  | Schedules the offers on Minnesota Air dealer sites from one screen and imports… |
-| 2026-11-05 16:58:06 | [getodden/botguard](https://www.nuget.org/packages/getodden%2Fbotguard) | v0.1.0 |  | Progressive bot protection for Laravel forms: honeypot, timing, rate limits, so… |
-| 2026-11-05 16:59:38 | [payerurl/telegram-crypto-gateway-instant-payout](https://www.nuget.org/packages/payerurl%2Ftelegram-crypto-gateway-instant-payout) | 1.0.1 | Rashiqul Rony | telegram crypto payment gateway laravel |
+| 2026-11-05 17:22:20 | [jlorente/laravel-appsflyer](https://www.nuget.org/packages/jlorente%2Flaravel-appsflyer) | 1.0.0 | José Lorente | Laravel 5.6 integration for the Jlorente Appsflyer package. |
+| 2026-11-05 17:22:21 | [php-io-extensions/fontconfig](https://www.nuget.org/packages/php-io-extensions%2Ffontconfig) | v0.11.0 | Project Saturn Studios, LLC | 1:1 PHP bindings of fontconfig: configuration, patterns, font matching and sort… |
+| 2026-11-05 17:27:00 | [isapp/filament-firebase-auth](https://www.nuget.org/packages/isapp%2Ffilament-firebase-auth) | v5.0.0 | ISAPP; ISAP OÜ | Firebase Authentication for Filament panels through Laravel auth contracts. |
+| 2026-11-05 17:28:53 | [beliq/shopware-beliq](https://www.nuget.org/packages/beliq%2Fshopware-beliq) | 0.1.0 | beliq | Generate compliant EN 16931 e-invoices from Shopware orders through the beliq A… |
+| 2026-11-05 17:36:25 | [nowo-tech/slack-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fslack-kit-bundle) | v1.0.0 | Héctor Franco Aceituno; Nowo.… | Slack for Symfony: a hardened Web API client, signed interactions and Events AP… |
+| 2026-11-05 17:54:13 | [larevio/persian-providers](https://www.nuget.org/packages/larevio%2Fpersian-providers) | 1.0.0 | larevio | Laravel integrations for Iranian payment, SMS, inquiry, and exchange providers |
+| 2026-11-05 18:07:05 | [nandordudas/state-machine](https://www.nuget.org/packages/nandordudas%2Fstate-machine) | v3.0.0 |  | A small, strictly typed finite state machine for PHP (inspired by xstate.js and… |
 
 ## Data source
 

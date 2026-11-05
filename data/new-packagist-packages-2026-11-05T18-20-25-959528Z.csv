@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-05T17:22:20Z,jlorente/laravel-appsflyer,1.0.0,José Lorente,Laravel 5.6 integration for the Jlorente Appsflyer package.
+2026-11-05T17:22:21Z,php-io-extensions/fontconfig,v0.11.0,"Project Saturn Studios, LLC","1:1 PHP bindings of fontconfig: configuration, patterns, font matching and sorting, and character sets"
+2026-11-05T17:27:00Z,isapp/filament-firebase-auth,v5.0.0,ISAPP; ISAP OÜ,Firebase Authentication for Filament panels through Laravel auth contracts.
+2026-11-05T17:28:53Z,beliq/shopware-beliq,0.1.0,beliq,Generate compliant EN 16931 e-invoices from Shopware orders through the beliq API.
+2026-11-05T17:36:25Z,nowo-tech/slack-kit-bundle,v1.0.0,Héctor Franco Aceituno; Nowo.tech,"Slack for Symfony: a hardened Web API client, signed interactions and Events API ingress with replay protection, MAC-signed button values, an interactions router with verified actors, verified account linking, a Block Kit builder and an optional Notifier transport."
+2026-11-05T17:54:13Z,larevio/persian-providers,1.0.0,larevio,"Laravel integrations for Iranian payment, SMS, inquiry, and exchange providers"
+2026-11-05T18:07:05Z,nandordudas/state-machine,v3.0.0,,"A small, strictly typed finite state machine for PHP (inspired by xstate.js and mouadziani/xstate)"
