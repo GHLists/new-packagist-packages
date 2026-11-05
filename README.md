@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 20:19 UTC
+## Latest list — 2026-11-05 21:18 UTC
 
-New packages created between 2026-11-05 19:20 UTC and 2026-11-05 20:19 UTC.
+New packages created between 2026-11-05 20:19 UTC and 2026-11-05 21:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T20-19-56-90427Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T21-18-55-329407Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-05 19:37:31 | [aifinpay/drupal-connector](https://www.nuget.org/packages/aifinpay%2Fdrupal-connector) | v1.0.0 |  | AiFinPay for Drupal: AI agents pay for protected pages (HTTP 402); prepaid rece… |
-| 2026-11-05 19:47:45 | [filafly/filament-lucide-icons](https://www.nuget.org/packages/filafly%2Ffilament-lucide-icons) | v1.0.1 | Nolan Nordlund | Lucide icon pack for Filament Icons: replaces every Filament UI icon with Lucide |
+| 2026-11-05 20:30:46 | [mj-zana/outbox](https://www.nuget.org/packages/mj-zana%2Foutbox) | v2.14.0 |  | A transactional outbox and inbox for Zana: events stored with the change they d… |
+| 2026-11-05 20:59:09 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.17.0 |  | The skeleton application for the Laravel framework. |
 
 ## Data source
 
