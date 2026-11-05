@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-05T01:26:45Z,webware/query-param-router,1.0.0-alpha.3,Joey (aka Tyrsson) Smith,Mezzio router that matches routes on query parameters as well as path and HTTP method.
+2026-11-05T01:26:45Z,webware/smf-legacy-router,1.0.0-alpha.3,Joey (aka Tyrsson) Smith,Mezzio router that matches routes on query parameters as well as path and HTTP method.
+2026-11-05T01:29:34Z,email-validation/sdk,v1.0.0,email-validation.org,Official PHP client for the email-validation.org email validation API.
+2026-11-05T01:37:55Z,waffle-commons/testing,0.1.0-beta7,Leslie Petrimaux,"Kernel testing bridge for the Waffle framework: in-process request dispatch through the real pipeline, plus time, queue, mailer and HTTP-client test doubles."
+2026-11-05T01:39:38Z,waffle-commons/openapi,0.1.0-beta7,Leslie Petrimaux,"OpenAPI 3.1 document generation for the Waffle framework, built from #[Route] attributes and typed DTOs."
+2026-11-05T01:39:46Z,waffle-commons/serializer,0.1.0-beta7,Leslie Petrimaux,"Compiled, reflection-free DTO serialization and Accept-header content negotiation for the Waffle framework."
+2026-11-05T01:45:58Z,waffle-commons/queue,0.1.0-beta7,Leslie Petrimaux,Background job processing for the Waffle framework: a Redis Streams driver with bounded retries and a dead-letter store.

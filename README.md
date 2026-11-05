@@ -15,15 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 00:21 UTC
+## Latest list — 2026-11-05 02:19 UTC
 
-New packages created between 2026-11-04 23:20 UTC and 2026-11-05 00:21 UTC.
+New packages created between 2026-11-05 01:20 UTC and 2026-11-05 02:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T00-21-35-824501Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T02-19-03-23589Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-04 23:51:13 | [furan/magento-infra-health](https://www.nuget.org/packages/furan%2Fmagento-infra-health) | v0.1.1 | Francis Gallagher | Magento 2 admin dashboard for infrastructure health |
+| 2026-11-05 01:26:45 | [webware/query-param-router](https://www.nuget.org/packages/webware%2Fquery-param-router) | 1.0.0-alpha.3 | Joey (aka Tyrsson) Smith | Mezzio router that matches routes on query parameters as well as path and HTTP… |
+| 2026-11-05 01:26:45 | [webware/smf-legacy-router](https://www.nuget.org/packages/webware%2Fsmf-legacy-router) | 1.0.0-alpha.3 | Joey (aka Tyrsson) Smith | Mezzio router that matches routes on query parameters as well as path and HTTP… |
+| 2026-11-05 01:29:34 | [email-validation/sdk](https://www.nuget.org/packages/email-validation%2Fsdk) | v1.0.0 | email-validation.org | Official PHP client for the email-validation.org email validation API. |
+| 2026-11-05 01:37:55 | [waffle-commons/testing](https://www.nuget.org/packages/waffle-commons%2Ftesting) | 0.1.0-beta7 | Leslie Petrimaux | Kernel testing bridge for the Waffle framework: in-process request dispatch thr… |
+| 2026-11-05 01:39:38 | [waffle-commons/openapi](https://www.nuget.org/packages/waffle-commons%2Fopenapi) | 0.1.0-beta7 | Leslie Petrimaux | OpenAPI 3.1 document generation for the Waffle framework, built from #[Route] a… |
+| 2026-11-05 01:39:46 | [waffle-commons/serializer](https://www.nuget.org/packages/waffle-commons%2Fserializer) | 0.1.0-beta7 | Leslie Petrimaux | Compiled, reflection-free DTO serialization and Accept-header content negotiati… |
+| 2026-11-05 01:45:58 | [waffle-commons/queue](https://www.nuget.org/packages/waffle-commons%2Fqueue) | 0.1.0-beta7 | Leslie Petrimaux | Background job processing for the Waffle framework: a Redis Streams driver with… |
 
 ## Data source
 
