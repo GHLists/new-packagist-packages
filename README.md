@@ -15,22 +15,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 08:19 UTC
+## Latest list — 2026-11-05 09:21 UTC
 
-New packages created between 2026-11-05 07:21 UTC and 2026-11-05 08:19 UTC.
+New packages created between 2026-11-05 08:19 UTC and 2026-11-05 09:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T08-19-58-184143Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T09-21-47-120615Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-05 07:31:32 | [fayne/laravel-filament-post-release-status](https://www.nuget.org/packages/fayne%2Flaravel-filament-post-release-status) | v1.0.0 |  | Tenant publication status and immutable release history for Filament. |
-| 2026-11-05 07:40:42 | [jyim/laravel-plugin](https://www.nuget.org/packages/jyim%2Flaravel-plugin) | 2.0.0 | augustdai | Laravel 10x 适配版插件系统 |
-| 2026-11-05 07:40:48 | [tausi/tausi-php](https://www.nuget.org/packages/tausi%2Ftausi-php) | v0.1.0 |  | Official PHP SDK for Tausi: verify sessions and manage users from your PHP back… |
-| 2026-11-05 07:50:09 | [byiftikhar/telescope-inspector](https://www.nuget.org/packages/byiftikhar%2Ftelescope-inspector) | v1.0.1 |  | A lightweight, searchable viewer for Laravel Telescope that reads Telescope's o… |
-| 2026-11-05 07:53:19 | [jyim/laravel-plugin-market](https://www.nuget.org/packages/jyim%2Flaravel-plugin-market) | 2.0.0 | augustdai | Laravel 10.x 适配版插件市场 |
-| 2026-11-05 08:04:00 | [xelqun/forms](https://www.nuget.org/packages/xelqun%2Fforms) | v0.1.0 | Jay-Are Ocero | PHP-defined, schema-driven forms for Laravel, Inertia and Vue. |
-| 2026-11-05 08:06:23 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.15.0 |  | The skeleton application for the Laravel framework. |
-| 2026-11-05 08:13:45 | [fayne/laravel-filament-menu](https://www.nuget.org/packages/fayne%2Flaravel-filament-menu) | v1.0.0 |  | Menu management for Filament CMS. |
+| 2026-11-05 08:22:08 | [fayne/laravel-filament-audit](https://www.nuget.org/packages/fayne%2Flaravel-filament-audit) | v1.0.0 | Fayne Guo | Optional queued operation auditing for CMS and Filament. |
+| 2026-11-05 08:25:41 | [fayne/laravel-filament-sso](https://www.nuget.org/packages/fayne%2Flaravel-filament-sso) | v1.0.0 | Fayne Guo | Single sign-on integrations for Laravel and Filament. |
+| 2026-11-05 08:26:04 | [doctrine/orm-plugin-second-level-cache](https://www.nuget.org/packages/doctrine%2Form-plugin-second-level-cache) | 1.0.1 | Benjamin Eberlei | Required package to make second level cache working on doctrine/orm from versio… |
+| 2026-11-05 08:34:24 | [rishi-raj-jain/flysystem-neon](https://www.nuget.org/packages/rishi-raj-jain%2Fflysystem-neon) | v1.0.0 | Rishi Raj Jain | Flysystem adapter for Neon Object Storage (branchable, S3-compatible storage on… |
+| 2026-11-05 08:46:45 | [fayne/laravel-filament-qrcode](https://www.nuget.org/packages/fayne%2Flaravel-filament-qrcode) | v1.0.0 |  | QR code generation for Laravel and Filament. |
+| 2026-11-05 08:51:31 | [jyim/laravel-schema-extend](https://www.nuget.org/packages/jyim%2Flaravel-schema-extend) | 1.0.0 | augustdai | Laravel 10.x 适配版：为迁移提供表注释 / 自增起始值 / 带长度的整型列（源自 zedisdog/laravel-schema-extend） |
+| 2026-11-05 09:01:14 | [sting_bo/php-gome](https://www.nuget.org/packages/sting_bo%2Fphp-gome) | v1.0.0 | Sting Bo | Calling Match Engine Of Go Service |
+| 2026-11-05 09:04:55 | [actself/role-permission](https://www.nuget.org/packages/actself%2Frole-permission) | v1.0 |  | Flexible role and permission management package for Laravel |
+| 2026-11-05 09:09:59 | [fayne/laravel-filament-store-locator](https://www.nuget.org/packages/fayne%2Flaravel-filament-store-locator) | v1.0.0 |  | Store locator for Laravel and Filament. |
+| 2026-11-05 09:12:57 | [pnscripts/sheafgate-lite](https://www.nuget.org/packages/pnscripts%2Fsheafgate-lite) | v1.0.0 | PN Scripts | Sheafgate Lite: import XLSX, ODS and CSV files through Filament's own importer,… |
+| 2026-11-05 09:16:39 | [fayne/laravel-filament-event](https://www.nuget.org/packages/fayne%2Flaravel-filament-event) | v1.0.0 | Fayne Guo | Event management for Laravel and Filament. |
+| 2026-11-05 09:19:18 | [fayne/laravel-filament-page](https://www.nuget.org/packages/fayne%2Flaravel-filament-page) | v1.0.0 |  | Page management for Filament CMS. |
 
 ## Data source
 

@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-11-05T08:22:08Z,fayne/laravel-filament-audit,v1.0.0,Fayne Guo,Optional queued operation auditing for CMS and Filament.
+2026-11-05T08:25:41Z,fayne/laravel-filament-sso,v1.0.0,Fayne Guo,Single sign-on integrations for Laravel and Filament.
+2026-11-05T08:26:04Z,doctrine/orm-plugin-second-level-cache,1.0.1,Benjamin Eberlei,Required package to make second level cache working on doctrine/orm from version 3.8+ on.
+2026-11-05T08:34:24Z,rishi-raj-jain/flysystem-neon,v1.0.0,Rishi Raj Jain,"Flysystem adapter for Neon Object Storage (branchable, S3-compatible storage on Neon)."
+2026-11-05T08:46:45Z,fayne/laravel-filament-qrcode,v1.0.0,,QR code generation for Laravel and Filament.
+2026-11-05T08:51:31Z,jyim/laravel-schema-extend,1.0.0,augustdai,Laravel 10.x 适配版：为迁移提供表注释 / 自增起始值 / 带长度的整型列（源自 zedisdog/laravel-schema-extend）
+2026-11-05T09:01:14Z,sting_bo/php-gome,v1.0.0,Sting Bo,Calling Match Engine Of Go Service
+2026-11-05T09:04:55Z,actself/role-permission,v1.0,,Flexible role and permission management package for Laravel
+2026-11-05T09:09:59Z,fayne/laravel-filament-store-locator,v1.0.0,,Store locator for Laravel and Filament.
+2026-11-05T09:12:57Z,pnscripts/sheafgate-lite,v1.0.0,PN Scripts,"Sheafgate Lite: import XLSX, ODS and CSV files through Filament's own importer, with column mapping, validation, queued chunks and the failed-rows download unchanged."
+2026-11-05T09:16:39Z,fayne/laravel-filament-event,v1.0.0,Fayne Guo,Event management for Laravel and Filament.
+2026-11-05T09:19:18Z,fayne/laravel-filament-page,v1.0.0,,Page management for Filament CMS.
