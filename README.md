@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 16:20 UTC
+## Latest list — 2026-11-05 17:19 UTC
 
-New packages created between 2026-11-05 15:21 UTC and 2026-11-05 16:20 UTC.
+New packages created between 2026-11-05 16:20 UTC and 2026-11-05 17:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T16-20-53-951338Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T17-19-04-062542Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-05 15:33:37 | [sevaske/laravel-taqnyat](https://www.nuget.org/packages/sevaske%2Flaravel-taqnyat) | 1.0.0 | sevaske | Laravel integration for the Taqnyat SMS API (taqnyat.sa): facade, notification… |
-| 2026-11-05 15:34:13 | [todu-io/lar-extend](https://www.nuget.org/packages/todu-io%2Flar-extend) | 1.0.3 |  | Laravel 插件式开发支持器 |
-| 2026-11-05 15:47:21 | [nickdekruijk/laravel-bot-noise](https://www.nuget.org/packages/nickdekruijk%2Flaravel-bot-noise) | 1.0.0 | Nick de Kruijk | Keeps bot traffic out of your Laravel error tracking: filters Livewire probe ex… |
-| 2026-11-05 16:15:48 | [doi6doi/asmtabify](https://www.nuget.org/packages/doi6doi%2Fasmtabify) | v0.1 | Zoltán Várnagy | Tabulates assembly source by its jumps, so loops and ifs become visible |
-| 2026-11-05 16:16:07 | [liberusoftware/webhooks-api](https://www.nuget.org/packages/liberusoftware%2Fwebhooks-api) | 1.0.2 |  | Webhooks api presentation adapter. |
+| 2026-11-05 16:43:58 | [happenv-com/filament-model-search](https://www.nuget.org/packages/happenv-com%2Ffilament-model-search) | v0.1.0 | Happenv sp. z o.o.; webard | Filament integration for happenv-com/laravel-model-search: a command palette, t… |
+| 2026-11-05 16:54:09 | [augustash/mna_offers](https://www.nuget.org/packages/augustash%2Fmna_offers) | 1.0.3 |  | Schedules the offers on Minnesota Air dealer sites from one screen and imports… |
+| 2026-11-05 16:58:06 | [getodden/botguard](https://www.nuget.org/packages/getodden%2Fbotguard) | v0.1.0 |  | Progressive bot protection for Laravel forms: honeypot, timing, rate limits, so… |
+| 2026-11-05 16:59:38 | [payerurl/telegram-crypto-gateway-instant-payout](https://www.nuget.org/packages/payerurl%2Ftelegram-crypto-gateway-instant-payout) | 1.0.1 | Rashiqul Rony | telegram crypto payment gateway laravel |
 
 ## Data source
 

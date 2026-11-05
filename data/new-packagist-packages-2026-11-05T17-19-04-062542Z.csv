@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-05T16:43:58Z,happenv-com/filament-model-search,v0.1.0,Happenv sp. z o.o.; webard,"Filament integration for happenv-com/laravel-model-search: a command palette, table search, select search and global search backed by one record index."
+2026-11-05T16:54:09Z,augustash/mna_offers,1.0.3,,Schedules the offers on Minnesota Air dealer sites from one screen and imports the coupons already on their pages.
+2026-11-05T16:58:06Z,getodden/botguard,v0.1.0,,"Progressive bot protection for Laravel forms: honeypot, timing, rate limits, soft scoring, and Cloudflare Turnstile escalation."
+2026-11-05T16:59:38Z,payerurl/telegram-crypto-gateway-instant-payout,1.0.1,Rashiqul Rony,telegram crypto payment gateway laravel
