@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-05T13:24:56Z,crabphp/crab,v0.1.1,,A starting point for an application on the Crab framework
+2026-11-05T13:30:46Z,nobuhiko/eccube-cloud-logging,v0.1.0,KIMOTO Nobuhiko,EC-CUBE を Cloud Run などで動かすときのログ（Cloud Logging の JSON・個人情報を伏せる・リクエストの trace）。Monolog 2 / 3 の部品と EC-CUBE 2 系のつなぎ
+2026-11-05T13:44:06Z,blutrixx/nativephp-geo-location,v1.1.0,Blutrixx,NativePHP Mobile plugin: location in the foreground and in the background. A foreground service writes fixes to a buffer on the phone and PHP reads them later.
+2026-11-05T13:46:47Z,js199069/laravel-persian-rag,v0.1.0,js199069,"Persian RAG for Laravel: OCR-aware extraction, hybrid pgvector search, role-based access control, and cited answers."
+2026-11-05T13:52:56Z,nubos/starterkit,v1.16.0,,The skeleton application for the Laravel framework.
+2026-11-05T14:03:25Z,bdevs/supabase-laravel,v0.1.0,BlackDevs; Md Mahabubul Alam,"Laravel package for integrating with Supabase (Auth, Storage, Edge Functions)."

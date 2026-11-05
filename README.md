@@ -15,26 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 13:21 UTC
+## Latest list — 2026-11-05 14:21 UTC
 
-New packages created between 2026-11-05 12:20 UTC and 2026-11-05 13:21 UTC.
+New packages created between 2026-11-05 13:21 UTC and 2026-11-05 14:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T13-21-55-351583Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T14-21-47-442036Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-05 12:21:27 | [intragile/laravel-nav-online-szamla](https://www.nuget.org/packages/intragile%2Flaravel-nav-online-szamla) | v1.0.1 | IntrAgile Kft. | Complete, Laravel-native client for the Hungarian NAV Online Számla (Online Inv… |
-| 2026-11-05 12:21:58 | [osmanov/pecl-eio](https://www.nuget.org/packages/osmanov%2Fpecl-eio) | 4.0.0 |  | Provides interface to libeio library. |
-| 2026-11-05 12:31:10 | [sevaske/taqnyat-api](https://www.nuget.org/packages/sevaske%2Ftaqnyat-api) | 1.0.0 | sevaske | Framework-agnostic PHP client for the Taqnyat SMS API (taqnyat.sa): send plain… |
-| 2026-11-05 13:01:40 | [mlocati/install-php-extensions](https://www.nuget.org/packages/mlocati%2Finstall-php-extensions) | 0.0.1 | Michele Locati | Easily install PHP extensions |
-| 2026-11-05 13:08:33 | [kopexa/mautic-preferences-center](https://www.nuget.org/packages/kopexa%2Fmautic-preferences-center) | v0.1.0 | Kopexa | Preference center for Mautic: choose which categories appear as topics, in whic… |
-| 2026-11-05 13:12:55 | [crabphp/runs](https://www.nuget.org/packages/crabphp%2Fruns) | v0.1.0 |  | Durable runs for the Crab framework: work of many steps that goes on from where… |
-| 2026-11-05 13:13:05 | [crabphp/actors](https://www.nuget.org/packages/crabphp%2Factors) | v0.1.0 |  | Actors for the Crab framework: one for each key, taking its messages one at a t… |
-| 2026-11-05 13:13:16 | [crabphp/redis](https://www.nuget.org/packages/crabphp%2Fredis) | v0.1.0 |  | Redis for the Crab framework: a cache store and a queue store that wait without… |
-| 2026-11-05 13:13:27 | [crabphp/s3](https://www.nuget.org/packages/crabphp%2Fs3) | v0.1.0 |  | S3 for the Crab framework: a disk on Amazon S3, Cloudflare R2, MinIO or any ser… |
-| 2026-11-05 13:13:37 | [crabphp/openapi](https://www.nuget.org/packages/crabphp%2Fopenapi) | v0.1.0 |  | OpenAPI documents generated from Crab routes and action signatures |
-| 2026-11-05 13:13:48 | [crabphp/clockwerk](https://www.nuget.org/packages/crabphp%2Fclockwerk) | v0.1.0 |  | A dashboard for an application on the Crab framework: requests, the queue, sche… |
-| 2026-11-05 13:14:39 | [slimfony/core](https://www.nuget.org/packages/slimfony%2Fcore) | v0.1.0 |  | Ultra-lightweight, secure Symfony-component based microservice core for Franken… |
+| 2026-11-05 13:24:56 | [crabphp/crab](https://www.nuget.org/packages/crabphp%2Fcrab) | v0.1.1 |  | A starting point for an application on the Crab framework |
+| 2026-11-05 13:30:46 | [nobuhiko/eccube-cloud-logging](https://www.nuget.org/packages/nobuhiko%2Feccube-cloud-logging) | v0.1.0 | KIMOTO Nobuhiko | EC-CUBE を Cloud Run などで動かすときのログ（Cloud Logging の JSON・個人情報を伏せる・リクエストの trace）。Mon… |
+| 2026-11-05 13:44:06 | [blutrixx/nativephp-geo-location](https://www.nuget.org/packages/blutrixx%2Fnativephp-geo-location) | v1.1.0 | Blutrixx | NativePHP Mobile plugin: location in the foreground and in the background. A fo… |
+| 2026-11-05 13:46:47 | [js199069/laravel-persian-rag](https://www.nuget.org/packages/js199069%2Flaravel-persian-rag) | v0.1.0 | js199069 | Persian RAG for Laravel: OCR-aware extraction, hybrid pgvector search, role-bas… |
+| 2026-11-05 13:52:56 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.16.0 |  | The skeleton application for the Laravel framework. |
+| 2026-11-05 14:03:25 | [bdevs/supabase-laravel](https://www.nuget.org/packages/bdevs%2Fsupabase-laravel) | v0.1.0 | BlackDevs; Md Mahabubul Alam | Laravel package for integrating with Supabase (Auth, Storage, Edge Functions). |
 
 ## Data source
 
