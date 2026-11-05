@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-05T09:24:25Z,andreybolonin/modernorm-bundle,v0.1.0-beta.1,,"Symfony integration and Profiler for ModernORM, the PostgreSQL-first ORM."
+2026-11-05T09:27:31Z,djthossi/shippy-pro-sdk,1.0.0,Sebastian Thoss,"Typed, object-oriented PHP SDK for the ShippyPro API"
+2026-11-05T09:29:16Z,fayne/shopping-cart,v1.0.0,Fayne Guo,This is a custom shopping cart package for Laravel projects
+2026-11-05T09:32:44Z,fayne/laravel-filament-promotion,v1.0.0,,Promotion rules and discount calculation for Laravel and Filament.
+2026-11-05T09:36:47Z,fayne/laravel-filament-commerce,v1.0.0,,Multi-tenant commerce domain for Laravel and Filament.
+2026-11-05T09:44:19Z,xakki/log-symfony,0.4.0,,"Symfony/Monolog log enrichment, redaction and formatters"
+2026-11-05T09:46:30Z,n445/easy-admin-messenger-manager,v0.1.1,,"Symfony Messenger manager for EasyAdmin: queues overview, failed messages, single and batch retry, optional history."
