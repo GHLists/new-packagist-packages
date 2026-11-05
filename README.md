@@ -15,21 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 07:21 UTC
+## Latest list — 2026-11-05 08:19 UTC
 
-New packages created between 2026-11-05 06:19 UTC and 2026-11-05 07:21 UTC.
+New packages created between 2026-11-05 07:21 UTC and 2026-11-05 08:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T07-21-28-834171Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T08-19-58-184143Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-05 06:21:09 | [itmosoft/laravel-returns](https://www.nuget.org/packages/itmosoft%2Flaravel-returns) | v1.0.0 |  | Return merchandise authorization and inspection workflows for Laravel commerce… |
-| 2026-11-05 06:27:23 | [iamjuan/spamast-sso-client](https://www.nuget.org/packages/iamjuan%2Fspamast-sso-client) | v1.0.3 |  | SPAMAST SSO client for Laravel apps: sign in from the hub, pending accounts, an… |
-| 2026-11-05 06:28:11 | [itmosoft/laravel-refunds](https://www.nuget.org/packages/itmosoft%2Flaravel-refunds) | v1.0.0 |  | Payment-provider-agnostic refund records and workflows for Laravel applications. |
-| 2026-11-05 06:32:44 | [itmosoft/laravel-invoices](https://www.nuget.org/packages/itmosoft%2Flaravel-invoices) | v1.0.0 |  | Invoice records, line snapshots, numbering and payment tracking for Laravel app… |
-| 2026-11-05 06:38:02 | [itmosoft/laravel-payments](https://www.nuget.org/packages/itmosoft%2Flaravel-payments) | v1.0.0 |  | Gateway-agnostic payment intents, transactions and webhook event tracking for L… |
-| 2026-11-05 07:09:16 | [runchance/rcmaker-php](https://www.nuget.org/packages/runchance%2Frcmaker-php) | v1.0.0 | wobless | High-performance PHP applications with project initialization, isolated app pro… |
-| 2026-11-05 07:11:37 | [eduardoapatat/laravel-inertia-datatable](https://www.nuget.org/packages/eduardoapatat%2Flaravel-inertia-datatable) | v0.1.0 | Eduardo Apata Tito | Server-side DataTables for Laravel + Inertia + React: pagination, sorting, filt… |
+| 2026-11-05 07:31:32 | [fayne/laravel-filament-post-release-status](https://www.nuget.org/packages/fayne%2Flaravel-filament-post-release-status) | v1.0.0 |  | Tenant publication status and immutable release history for Filament. |
+| 2026-11-05 07:40:42 | [jyim/laravel-plugin](https://www.nuget.org/packages/jyim%2Flaravel-plugin) | 2.0.0 | augustdai | Laravel 10x 适配版插件系统 |
+| 2026-11-05 07:40:48 | [tausi/tausi-php](https://www.nuget.org/packages/tausi%2Ftausi-php) | v0.1.0 |  | Official PHP SDK for Tausi: verify sessions and manage users from your PHP back… |
+| 2026-11-05 07:50:09 | [byiftikhar/telescope-inspector](https://www.nuget.org/packages/byiftikhar%2Ftelescope-inspector) | v1.0.1 |  | A lightweight, searchable viewer for Laravel Telescope that reads Telescope's o… |
+| 2026-11-05 07:53:19 | [jyim/laravel-plugin-market](https://www.nuget.org/packages/jyim%2Flaravel-plugin-market) | 2.0.0 | augustdai | Laravel 10.x 适配版插件市场 |
+| 2026-11-05 08:04:00 | [xelqun/forms](https://www.nuget.org/packages/xelqun%2Fforms) | v0.1.0 | Jay-Are Ocero | PHP-defined, schema-driven forms for Laravel, Inertia and Vue. |
+| 2026-11-05 08:06:23 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.15.0 |  | The skeleton application for the Laravel framework. |
+| 2026-11-05 08:13:45 | [fayne/laravel-filament-menu](https://www.nuget.org/packages/fayne%2Flaravel-filament-menu) | v1.0.0 |  | Menu management for Filament CMS. |
 
 ## Data source
 

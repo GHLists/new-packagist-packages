@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-05T07:31:32Z,fayne/laravel-filament-post-release-status,v1.0.0,,Tenant publication status and immutable release history for Filament.
+2026-11-05T07:40:42Z,jyim/laravel-plugin,2.0.0,augustdai,Laravel 10x 适配版插件系统
+2026-11-05T07:40:48Z,tausi/tausi-php,v0.1.0,,"Official PHP SDK for Tausi: verify sessions and manage users from your PHP backend, or sign users in from server-rendered apps."
+2026-11-05T07:50:09Z,byiftikhar/telescope-inspector,v1.0.1,,"A lightweight, searchable viewer for Laravel Telescope that reads Telescope's own API in small batches."
+2026-11-05T07:53:19Z,jyim/laravel-plugin-market,2.0.0,augustdai,Laravel 10.x 适配版插件市场
+2026-11-05T08:04:00Z,xelqun/forms,v0.1.0,Jay-Are Ocero,"PHP-defined, schema-driven forms for Laravel, Inertia and Vue."
+2026-11-05T08:06:23Z,nubos/starterkit,v1.15.0,,The skeleton application for the Laravel framework.
+2026-11-05T08:13:45Z,fayne/laravel-filament-menu,v1.0.0,,Menu management for Filament CMS.
