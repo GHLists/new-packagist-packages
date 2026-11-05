@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 03:20 UTC
+## Latest list — 2026-11-05 05:21 UTC
 
-New packages created between 2026-11-05 02:19 UTC and 2026-11-05 03:20 UTC.
+New packages created between 2026-11-05 04:21 UTC and 2026-11-05 05:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T03-20-20-132212Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-05T05-21-42-407112Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-05 02:33:17 | [mathsgod/light-entity](https://www.nuget.org/packages/mathsgod%2Flight-entity) | v1.0.0 |  | A PDO-based entity ORM built on light-linq |
-| 2026-11-05 02:35:14 | [boysfromthefactory/laravel-archivable](https://www.nuget.org/packages/boysfromthefactory%2Flaravel-archivable) | v0.2.0 | Boys From The Factory | Move old Eloquent records to a separate archive database, the Prunable way. |
-| 2026-11-05 02:51:34 | [eii/filament-turnstile](https://www.nuget.org/packages/eii%2Ffilament-turnstile) | v1.0.0 |  | Cloudflare Turnstile integration for Filament 5 forms. |
+| 2026-11-05 04:58:21 | [themusicdev/eventbrite](https://www.nuget.org/packages/themusicdev%2Feventbrite) | v0.1.0 |  | Eventbrite API v3 client - PSR-18 HTTP, PSR-16 cache, framework agnostic |
+| 2026-11-05 05:12:51 | [lara-pack/database-backup](https://www.nuget.org/packages/lara-pack%2Fdatabase-backup) | v1.0.0 | Bhagaskara | Scheduled database backups for Laravel, configured from .env: schedule, retenti… |
+| 2026-11-05 05:16:59 | [rimba/knowledge](https://www.nuget.org/packages/rimba%2Fknowledge) | 1.1.0 |  | Controlled documents, learning and qualification for the Rimba application. |
 
 ## Data source
 

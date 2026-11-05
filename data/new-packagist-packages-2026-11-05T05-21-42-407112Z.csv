@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-05T04:58:21Z,themusicdev/eventbrite,v0.1.0,,"Eventbrite API v3 client - PSR-18 HTTP, PSR-16 cache, framework agnostic"
+2026-11-05T05:12:51Z,lara-pack/database-backup,v1.0.0,Bhagaskara,"Scheduled database backups for Laravel, configured from .env: schedule, retention, zstd/gzip compression, any disk or Google Drive."
+2026-11-05T05:16:59Z,rimba/knowledge,1.1.0,,"Controlled documents, learning and qualification for the Rimba application."
