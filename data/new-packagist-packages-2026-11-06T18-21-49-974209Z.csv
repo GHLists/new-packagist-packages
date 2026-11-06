@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-06T17:35:33Z,maco-studios/mage-os-installer,v0.0.4,,An interactive Mage-OS project installer and Composer project factory.
+2026-11-06T17:41:15Z,siberfx/laravel-logger,1.0.1,Selim Gormus,"A tiny, zero-config Eloquent activity logger that stores old/new values together with relational snapshots (belongsTo, hasMany, belongsToMany + pivot)."
+2026-11-06T17:42:28Z,muckiware/core,0.0.2.0,,Muckidrive core component
+2026-11-06T17:48:40Z,hryvinskyi/magento2-admin-ui,1.0.0,Volodymyr Hryvinskyi,"A shared look for Magento 2 admin screens: one opt-in stylesheet of hui-* components (buttons, cards, notices, fields, controls, badges, status, code blocks, lists, disclosures) on themeable custom properties, with its own typeface"

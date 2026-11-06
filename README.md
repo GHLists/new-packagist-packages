@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 17:21 UTC
+## Latest list — 2026-11-06 18:21 UTC
 
-New packages created between 2026-11-06 16:21 UTC and 2026-11-06 17:21 UTC.
+New packages created between 2026-11-06 17:21 UTC and 2026-11-06 18:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T17-21-48-510915Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T18-21-49-974209Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 16:22:58 | [janalis/porta-phpunit](https://www.nuget.org/packages/janalis%2Fporta-phpunit) | v0.1.4 |  | Runs PHPUnit tests from the editor: the test at the caret, the file, the suite,… |
-| 2026-11-06 16:44:12 | [uni-method/frame](https://www.nuget.org/packages/uni-method%2Fframe) | 1.0.0 | Alexander Kompaneytsev | Declarative REST API layer for PHP: a config describes models, relations and ac… |
-| 2026-11-06 16:49:21 | [afropin/afropin-php](https://www.nuget.org/packages/afropin%2Fafropin-php) | v1.0.0 | AfroPin Software Limited | PHP library for the AfroPin gift card API: sell, top up and redeem PINs, quotes… |
-| 2026-11-06 17:02:08 | [uni-method/symfony-lib](https://www.nuget.org/packages/uni-method%2Fsymfony-lib) | 1.0.0 | Alexander Kompaneytsev | Symfony bundle for UniMethod Frame: turns a declarative config into a REST API… |
+| 2026-11-06 17:35:33 | [maco-studios/mage-os-installer](https://www.nuget.org/packages/maco-studios%2Fmage-os-installer) | v0.0.4 |  | An interactive Mage-OS project installer and Composer project factory. |
+| 2026-11-06 17:41:15 | [siberfx/laravel-logger](https://www.nuget.org/packages/siberfx%2Flaravel-logger) | 1.0.1 | Selim Gormus | A tiny, zero-config Eloquent activity logger that stores old/new values togethe… |
+| 2026-11-06 17:42:28 | [muckiware/core](https://www.nuget.org/packages/muckiware%2Fcore) | 0.0.2.0 |  | Muckidrive core component |
+| 2026-11-06 17:48:40 | [hryvinskyi/magento2-admin-ui](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-admin-ui) | 1.0.0 | Volodymyr Hryvinskyi | A shared look for Magento 2 admin screens: one opt-in stylesheet of hui-* compo… |
 
 ## Data source
 
