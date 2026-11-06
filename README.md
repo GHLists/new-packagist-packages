@@ -15,15 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 05:19 UTC
+## Latest list — 2026-11-06 06:19 UTC
 
-New packages created between 2026-11-06 04:21 UTC and 2026-11-06 05:19 UTC.
+New packages created between 2026-11-06 05:19 UTC and 2026-11-06 06:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T05-19-19-259044Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T06-19-55-004396Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 04:52:53 | [fraudnova/fraudnova-php](https://www.nuget.org/packages/fraudnova%2Ffraudnova-php) | v1.0.0 | FraudNova | Official PHP client for the FraudNova fraud-detection API: fraud scores and ris… |
+| 2026-11-06 05:23:48 | [shafqatjan/laravel-amp-mail](https://www.nuget.org/packages/shafqatjan%2Flaravel-amp-mail) | v1.0.0 | Shafqat Jan | Send interactive AMP emails (Gmail, Yahoo Mail, Mail.ru) from Laravel mailables |
+| 2026-11-06 05:49:00 | [sunrice/commerce](https://www.nuget.org/packages/sunrice%2Fcommerce) | v0.1.0 |  | An e-commerce package for Sunrice CMS: catalog, cart, checkout, orders, payment… |
+| 2026-11-06 05:58:21 | [ibraheem-ghazi/laravel-ai-flow](https://www.nuget.org/packages/ibraheem-ghazi%2Flaravel-ai-flow) | 1.0 |  | Composable queued AI workflows for Laravel with steps, tasks, structured genera… |
+| 2026-11-06 06:12:00 | [stateforge/scenario-ai](https://www.nuget.org/packages/stateforge%2Fscenario-ai) | 1.0 | Christina Koenig | AI-assisted generation of Scenarios, Parameter Types, and coding agent skills. |
+| 2026-11-06 06:14:55 | [stateforge/scenario-laravel-ai](https://www.nuget.org/packages/stateforge%2Fscenario-laravel-ai) | 1.0 | Christina Koenig | Laravel adapter for Stateforge Scenario AI - AI-assisted generation of Scenario… |
 
 ## Data source
 

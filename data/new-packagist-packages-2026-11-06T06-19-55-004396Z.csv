@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-06T05:23:48Z,shafqatjan/laravel-amp-mail,v1.0.0,Shafqat Jan,"Send interactive AMP emails (Gmail, Yahoo Mail, Mail.ru) from Laravel mailables"
+2026-11-06T05:49:00Z,sunrice/commerce,v0.1.0,,"An e-commerce package for Sunrice CMS: catalog, cart, checkout, orders, payments, shipping, promotions and customer accounts."
+2026-11-06T05:58:21Z,ibraheem-ghazi/laravel-ai-flow,1.0,,"Composable queued AI workflows for Laravel with steps, tasks, structured generation, and progress tracking."
+2026-11-06T06:12:00Z,stateforge/scenario-ai,1.0,Christina Koenig,"AI-assisted generation of Scenarios, Parameter Types, and coding agent skills."
+2026-11-06T06:14:55Z,stateforge/scenario-laravel-ai,1.0,Christina Koenig,"Laravel adapter for Stateforge Scenario AI - AI-assisted generation of Scenarios, Parameter Types, and coding agent skills."
