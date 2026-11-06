@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-06T11:41:44Z,vos/label-classifier,v1,,Suggests labels for pull requests by answering per-label policy questions against a shared context
+2026-11-06T12:00:11Z,intragile/laravel-reverb-kit,v1.0.0,IntrAgile Kft.,"Production toolkit for Laravel Reverb: a static `reverb:doctor` deploy gate (also as laravel/doctor diagnostics), nginx/Caddy/Traefik and Docker Swarm/compose generators, and an opt-in broadcast payload size guard."

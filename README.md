@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 11:20 UTC
+## Latest list — 2026-11-06 12:22 UTC
 
-New packages created between 2026-11-06 10:19 UTC and 2026-11-06 11:20 UTC.
+New packages created between 2026-11-06 11:20 UTC and 2026-11-06 12:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T11-20-06-545159Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T12-22-13-928404Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 10:26:17 | [pdir/contao-matomo-ai-tracking](https://www.nuget.org/packages/pdir%2Fcontao-matomo-ai-tracking) | 1.0.0 | pdir GmbH; Mathias Arzberger | Serverseitiges Tracking von AI-Chatbots (ChatGPT-User, Claude-User, Perplexity-… |
-| 2026-11-06 10:30:00 | [raylongsolutions/gst-gateway](https://www.nuget.org/packages/raylongsolutions%2Fgst-gateway) | v1.0.0 | Raylong Solutions | Generate GST e-invoices (IRN) and e-way bills from PHP with GST Gateway by Rayl… |
-| 2026-11-06 10:31:48 | [chaima24/algeria-geo-laravel](https://www.nuget.org/packages/chaima24%2Falgeria-geo-laravel) | v1.0.0 | chaima24 | Algerian geography for Laravel: 69 wilayas and 1,541 communes, with optional re… |
-| 2026-11-06 10:43:23 | [cgv/localized-resource](https://www.nuget.org/packages/cgv%2Flocalized-resource) | v1.0.0 |  | Comando para crear recursos localizados de Filament |
+| 2026-11-06 11:41:44 | [vos/label-classifier](https://www.nuget.org/packages/vos%2Flabel-classifier) | v1 |  | Suggests labels for pull requests by answering per-label policy questions again… |
+| 2026-11-06 12:00:11 | [intragile/laravel-reverb-kit](https://www.nuget.org/packages/intragile%2Flaravel-reverb-kit) | v1.0.0 | IntrAgile Kft. | Production toolkit for Laravel Reverb: a static `reverb:doctor` deploy gate (al… |
 
 ## Data source
 
