@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 22:20 UTC
+## Latest list — 2026-11-06 23:19 UTC
 
-New packages created between 2026-11-06 21:20 UTC and 2026-11-06 22:20 UTC.
+New packages created between 2026-11-06 22:20 UTC and 2026-11-06 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T22-20-36-841995Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T23-19-27-85818Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 21:49:33 | [artisan-toolbox/front-awesome](https://www.nuget.org/packages/artisan-toolbox%2Ffront-awesome) | 1.0.0-alpha.1 | Allan Mariucci Carvalho | Reusable Vue components and frontend integrations for Laravel and Inertia appli… |
-| 2026-11-06 21:57:42 | [nyoncode/laravel-package-console](https://www.nuget.org/packages/nyoncode%2Flaravel-package-console) | 1.0.0 | Ondřej Nyklíček | Artisan-like generators and scaffolding for developing Laravel 12 and 13 packag… |
-| 2026-11-06 22:19:08 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.22.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-06 22:43:54 | [diephp/telegraph](https://www.nuget.org/packages/diephp%2Ftelegraph) | v2.0.1 | Fabio Ivona | Focused Laravel Telegram integration for Restsify notifications and bot callbac… |
+| 2026-11-06 23:05:43 | [store-doc/laravel-storage-driver](https://www.nuget.org/packages/store-doc%2Flaravel-storage-driver) | v1.0.0 | Store-Doc Team | Laravel Storage Driver for Store-Doc S3-compatible storage service with complet… |
+| 2026-11-06 23:09:17 | [vallic/domain-investors](https://www.nuget.org/packages/vallic%2Fdomain-investors) | 1.0.0 |  | Sell your own domain names from your own site: a Drupal Commerce starter for on… |
 
 ## Data source
 

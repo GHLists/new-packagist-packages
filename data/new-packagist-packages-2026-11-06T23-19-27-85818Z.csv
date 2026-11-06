@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-06T22:43:54Z,diephp/telegraph,v2.0.1,Fabio Ivona,Focused Laravel Telegram integration for Restsify notifications and bot callbacks
+2026-11-06T23:05:43Z,store-doc/laravel-storage-driver,v1.0.0,Store-Doc Team,Laravel Storage Driver for Store-Doc S3-compatible storage service with complete Storage facade support
+2026-11-06T23:09:17Z,vallic/domain-investors,1.0.0,,"Sell your own domain names from your own site: a Drupal Commerce starter for one domain owner, ready for Vallic Cloud."
