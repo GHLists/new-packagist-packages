@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-06T13:25:06Z,aldanux/statamic-polls,v0.1.0,Aldanux,"Simple, reusable polls and voting for Statamic. Options from any collection or plain text, one vote per visitor, static-cache friendly."
+2026-11-06T13:48:00Z,filagora/filagora-ai,v0.1.0,,"AI chat, usage records and provider plumbing for Filagora applications."
+2026-11-06T13:49:28Z,js199069/mutagent,v0.1.0,js199069,"LLM-written PHPUnit tests, strengthened until they kill mutants (Infection), with honest equivalent-mutant reporting."
+2026-11-06T13:51:55Z,muno92/asn1-tools,v0.1.0,muno92,ASN.1 reader and writer (BER/DER) for PHP
+2026-11-06T13:59:51Z,itw/gatecha,14.0.0,,"GateCHA (self-hosted ALTCHA) spam protection for TYPO3 EXT:form: direct challenge, server-side verification, Human Interaction Signals (HIS)"
+2026-11-06T14:10:27Z,nelsius/nelsius-pay-laravel,v2.0.0,Nelson Siebi,The official Laravel package and Service Provider for Nelsius Pay API V2
+2026-11-06T14:14:45Z,adachsoft/plugin-discovery,v0.1.0,Arkadiusz Adach,Discovers plugin declarations from installed Composer packages.

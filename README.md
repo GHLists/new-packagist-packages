@@ -15,18 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 13:22 UTC
+## Latest list — 2026-11-06 14:22 UTC
 
-New packages created between 2026-11-06 12:22 UTC and 2026-11-06 13:22 UTC.
+New packages created between 2026-11-06 13:22 UTC and 2026-11-06 14:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T13-22-08-546223Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T14-22-05-716052Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 12:44:52 | [netipar/laravel-dev-login](https://www.nuget.org/packages/netipar%2Flaravel-dev-login) | v0.1.0 | NETipar | Switch-gated dev login for Laravel: sign the browser in as any user with one UR… |
-| 2026-11-06 12:47:12 | [medienbaecker/kirby-base-select](https://www.nuget.org/packages/medienbaecker%2Fkirby-base-select) | 1.0.0 | Thomas Günther | A select field for the Kirby Panel with icons, images, info, fonts and themes o… |
-| 2026-11-06 13:15:02 | [taba2177/log-issues-github](https://www.nuget.org/packages/taba2177%2Flog-issues-github) | v0.1.0 | taba2177 | Turn Laravel production errors into deduplicated, redacted GitHub issues that a… |
-| 2026-11-06 13:20:34 | [zapj/zap-php-framework](https://www.nuget.org/packages/zapj%2Fzap-php-framework) | v1.0.9 | z | zap php framework |
+| 2026-11-06 13:25:06 | [aldanux/statamic-polls](https://www.nuget.org/packages/aldanux%2Fstatamic-polls) | v0.1.0 | Aldanux | Simple, reusable polls and voting for Statamic. Options from any collection or… |
+| 2026-11-06 13:48:00 | [filagora/filagora-ai](https://www.nuget.org/packages/filagora%2Ffilagora-ai) | v0.1.0 |  | AI chat, usage records and provider plumbing for Filagora applications. |
+| 2026-11-06 13:49:28 | [js199069/mutagent](https://www.nuget.org/packages/js199069%2Fmutagent) | v0.1.0 | js199069 | LLM-written PHPUnit tests, strengthened until they kill mutants (Infection), wi… |
+| 2026-11-06 13:51:55 | [muno92/asn1-tools](https://www.nuget.org/packages/muno92%2Fasn1-tools) | v0.1.0 | muno92 | ASN.1 reader and writer (BER/DER) for PHP |
+| 2026-11-06 13:59:51 | [itw/gatecha](https://www.nuget.org/packages/itw%2Fgatecha) | 14.0.0 |  | GateCHA (self-hosted ALTCHA) spam protection for TYPO3 EXT:form: direct challen… |
+| 2026-11-06 14:10:27 | [nelsius/nelsius-pay-laravel](https://www.nuget.org/packages/nelsius%2Fnelsius-pay-laravel) | v2.0.0 | Nelson Siebi | The official Laravel package and Service Provider for Nelsius Pay API V2 |
+| 2026-11-06 14:14:45 | [adachsoft/plugin-discovery](https://www.nuget.org/packages/adachsoft%2Fplugin-discovery) | v0.1.0 | Arkadiusz Adach | Discovers plugin declarations from installed Composer packages. |
 
 ## Data source
 
