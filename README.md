@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 03:20 UTC
+## Latest list — 2026-11-06 04:21 UTC
 
-New packages created between 2026-11-06 02:19 UTC and 2026-11-06 03:20 UTC.
+New packages created between 2026-11-06 03:20 UTC and 2026-11-06 04:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T03-20-12-237612Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T04-21-15-238258Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 02:25:48 | [vitalrix/vitalrix](https://www.nuget.org/packages/vitalrix%2Fvitalrix) | v0.1.0 |  | Send traces, metrics and logs from PHP to VitalRix in one call (OpenTelemetry u… |
-| 2026-11-06 02:32:54 | [nodda/client](https://www.nuget.org/packages/nodda%2Fclient) | v1.2.0 | Nodda | Cliente oficial de la API de Nodda para emitir y consultar facturas VERI*FACTU… |
-| 2026-11-06 02:58:09 | [spiritualized/thetvdbapi](https://www.nuget.org/packages/spiritualized%2Fthetvdbapi) | v1.0.0 | spiritualized | PHP implementation for the 4th version of the TheTVDb API. |
-| 2026-11-06 03:02:49 | [skyraptor/laravel-versioned-storage](https://www.nuget.org/packages/skyraptor%2Flaravel-versioned-storage) | v0.1.0-beta.1 | Patrick Henninger | Versioned, safe storage for Laravel. |
-| 2026-11-06 03:11:12 | [ptadmin/admin](https://www.nuget.org/packages/ptadmin%2Fadmin) | v0.1.0 | Zane | PTAdmin base Laravel application for composer create-project. |
+| 2026-11-06 03:21:33 | [imbrett/laravel-api-query](https://www.nuget.org/packages/imbrett%2Flaravel-api-query) | v1.1.0 |  | Composable query scopes for searching, filtering, and sorting Eloquent models v… |
+| 2026-11-06 03:21:33 | [imbrett/laravel-listener-attributes](https://www.nuget.org/packages/imbrett%2Flaravel-listener-attributes) | v1.1.0 |  | Attribute-driven event listener registration for Laravel. |
+| 2026-11-06 03:28:52 | [volareinc/laravel-admin](https://www.nuget.org/packages/volareinc%2Flaravel-admin) | v1.9.0 | volareinc; zsong | laravel admin (fork of https://github.com/z-song/laravel-admin) |
+| 2026-11-06 03:55:50 | [zubaer/laravel-zubquant](https://www.nuget.org/packages/zubaer%2Flaravel-zubquant) | v1.0.0 | Md. Zubaer Ahammed | Post-Quantum Cryptography for Laravel (Hybrid X-Wing ML-KEM-768 + X25519 Eloque… |
+| 2026-11-06 03:55:50 | [zubaer/zubquant](https://www.nuget.org/packages/zubaer%2Fzubquant) | v1.0.0 | Md. Zubaer Ahammed | Zero-dependency Post-Quantum Cryptography SDK for PHP 8.1+ (NIST FIPS 203 ML-KE… |
 
 ## Data source
 

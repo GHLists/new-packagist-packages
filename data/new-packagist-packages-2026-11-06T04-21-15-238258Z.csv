@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-06T03:21:33Z,imbrett/laravel-api-query,v1.1.0,,"Composable query scopes for searching, filtering, and sorting Eloquent models via request data."
+2026-11-06T03:21:33Z,imbrett/laravel-listener-attributes,v1.1.0,,Attribute-driven event listener registration for Laravel.
+2026-11-06T03:28:52Z,volareinc/laravel-admin,v1.9.0,volareinc; zsong,laravel admin (fork of https://github.com/z-song/laravel-admin)
+2026-11-06T03:55:50Z,zubaer/laravel-zubquant,v1.0.0,Md. Zubaer Ahammed,"Post-Quantum Cryptography for Laravel (Hybrid X-Wing ML-KEM-768 + X25519 Eloquent Casts, Quantum-Signed Webhooks via ML-DSA-65, and Artisan Keygen)."
+2026-11-06T03:55:50Z,zubaer/zubquant,v1.0.0,Md. Zubaer Ahammed,"Zero-dependency Post-Quantum Cryptography SDK for PHP 8.1+ (NIST FIPS 203 ML-KEM-768, IETF X-Wing Hybrid KEM, FIPS 204 ML-DSA-65, AES-256-GCM), 100% wire-compatible with the zubquant NPM package."
