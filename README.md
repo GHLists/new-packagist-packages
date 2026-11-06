@@ -15,20 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 20:21 UTC
+## Latest list — 2026-11-06 21:20 UTC
 
-New packages created between 2026-11-06 19:19 UTC and 2026-11-06 20:21 UTC.
+New packages created between 2026-11-06 20:21 UTC and 2026-11-06 21:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T20-21-54-006352Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T21-20-43-029541Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 19:20:25 | [bref/laravel-websockets](https://www.nuget.org/packages/bref%2Flaravel-websockets) | 0.1.0 | Matthieu Napoli | WebSockets for Laravel on AWS Lambda with Bref and API Gateway |
-| 2026-11-06 19:31:28 | [c-point-labs/laravel-hostyourai](https://www.nuget.org/packages/c-point-labs%2Flaravel-hostyourai) | v0.1.0 | Maarten Tolhuijs | HostYourAI for Laravel: a Prism provider for chat and a typed client for the de… |
-| 2026-11-06 19:31:50 | [webx-ui/module-catalog-collections](https://www.nuget.org/packages/webx-ui%2Fmodule-catalog-collections) | v0.94.0 | WebX UI | Product collections of the WebX UI catalogue: a named block of products a manag… |
-| 2026-11-06 19:31:50 | [webx-ui/module-catalog-feeds](https://www.nuget.org/packages/webx-ui%2Fmodule-catalog-feeds) | v0.94.0 | WebX UI | Product feeds for the WebX UI catalogue: files for marketplaces and ad platform… |
-| 2026-11-06 19:38:56 | [roy-sandip/laravel-view-extended](https://www.nuget.org/packages/roy-sandip%2Flaravel-view-extended) | v1.0.1 |  | Additional, extensible Artisan commands for generating Laravel views. |
-| 2026-11-06 19:41:22 | [siberfx/telegram-bot](https://www.nuget.org/packages/siberfx%2Ftelegram-bot) | v0.1.2 | Selim Görmüş | A clean, modern Telegram bot framework for Laravel 13: hears/patterns, conversa… |
+| 2026-11-06 20:24:50 | [mltstephane/laravel-quality](https://www.nuget.org/packages/mltstephane%2Flaravel-quality) | v1.0.2 |  | Shared static analysis and architecture rules for Laravel projects: Larastan ba… |
+| 2026-11-06 20:49:05 | [earlyforge/earlyforge-sdk](https://www.nuget.org/packages/earlyforge%2Fearlyforge-sdk) | v0.1.0 |  | PHP client for the EarlyForge Trends API (free Pulse mirror and paid full trend… |
 
 ## Data source
 

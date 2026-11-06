@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-06T20:24:50Z,mltstephane/laravel-quality,v1.0.2,,"Shared static analysis and architecture rules for Laravel projects: Larastan base config, Pest arch preset and a quality:install command."
+2026-11-06T20:49:05Z,earlyforge/earlyforge-sdk,v0.1.0,,PHP client for the EarlyForge Trends API (free Pulse mirror and paid full trends feed)
