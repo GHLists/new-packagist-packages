@@ -15,19 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 19:19 UTC
+## Latest list — 2026-11-06 20:21 UTC
 
-New packages created between 2026-11-06 18:21 UTC and 2026-11-06 19:19 UTC.
+New packages created between 2026-11-06 19:19 UTC and 2026-11-06 20:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T19-19-48-898709Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T20-21-54-006352Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 18:24:43 | [goletter/hyperf-observability](https://www.nuget.org/packages/goletter%2Fhyperf-observability) | v1.0.0 | goletter | Hyperf ECS 日志管道与 OpenTelemetry 链路上下文。 |
-| 2026-11-06 18:25:17 | [cheevauva/uua](https://www.nuget.org/packages/cheevauva%2Fuua) | v0.1.1 | cheevauva | Universal Unit Architecture for PHP |
-| 2026-11-06 18:42:02 | [mithridatem/mvc-script-generator](https://www.nuget.org/packages/mithridatem%2Fmvc-script-generator) | v1.0.3 |  | Generateur Bash de projets MVC PHP (basic, advanced web et API JWT) |
-| 2026-11-06 18:52:21 | [totalcrm/cdek-php-sdk](https://www.nuget.org/packages/totalcrm%2Fcdek-php-sdk) | v1.0.0 | Aleksandr Romanenko; TotalCRM | CDEK 2.0 SDK PHP by TotalCRM |
-| 2026-11-06 19:07:30 | [1994/flatpack-statamic](https://www.nuget.org/packages/1994%2Fflatpack-statamic) | v1.0.0 | 1994 | Compile Statamic's flat-file content at deploy into PHP files OPcache serves fr… |
+| 2026-11-06 19:20:25 | [bref/laravel-websockets](https://www.nuget.org/packages/bref%2Flaravel-websockets) | 0.1.0 | Matthieu Napoli | WebSockets for Laravel on AWS Lambda with Bref and API Gateway |
+| 2026-11-06 19:31:28 | [c-point-labs/laravel-hostyourai](https://www.nuget.org/packages/c-point-labs%2Flaravel-hostyourai) | v0.1.0 | Maarten Tolhuijs | HostYourAI for Laravel: a Prism provider for chat and a typed client for the de… |
+| 2026-11-06 19:31:50 | [webx-ui/module-catalog-collections](https://www.nuget.org/packages/webx-ui%2Fmodule-catalog-collections) | v0.94.0 | WebX UI | Product collections of the WebX UI catalogue: a named block of products a manag… |
+| 2026-11-06 19:31:50 | [webx-ui/module-catalog-feeds](https://www.nuget.org/packages/webx-ui%2Fmodule-catalog-feeds) | v0.94.0 | WebX UI | Product feeds for the WebX UI catalogue: files for marketplaces and ad platform… |
+| 2026-11-06 19:38:56 | [roy-sandip/laravel-view-extended](https://www.nuget.org/packages/roy-sandip%2Flaravel-view-extended) | v1.0.1 |  | Additional, extensible Artisan commands for generating Laravel views. |
+| 2026-11-06 19:41:22 | [siberfx/telegram-bot](https://www.nuget.org/packages/siberfx%2Ftelegram-bot) | v0.1.2 | Selim Görmüş | A clean, modern Telegram bot framework for Laravel 13: hears/patterns, conversa… |
 
 ## Data source
 

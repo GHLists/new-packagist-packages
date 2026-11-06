@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-06T19:20:25Z,bref/laravel-websockets,0.1.0,Matthieu Napoli,WebSockets for Laravel on AWS Lambda with Bref and API Gateway
+2026-11-06T19:31:28Z,c-point-labs/laravel-hostyourai,v0.1.0,Maarten Tolhuijs,HostYourAI for Laravel: a Prism provider for chat and a typed client for the decision API.
+2026-11-06T19:31:50Z,webx-ui/module-catalog-collections,v0.94.0,WebX UI,"Product collections of the WebX UI catalogue: a named block of products a manager puts together once, by hand or by a filter, for the site to print wherever it is placed."
+2026-11-06T19:31:50Z,webx-ui/module-catalog-feeds,v0.94.0,WebX UI,"Product feeds for the WebX UI catalogue: files for marketplaces and ad platforms, set up in the panel from a template, built in the queue and served at a permanent address with a key."
+2026-11-06T19:38:56Z,roy-sandip/laravel-view-extended,v1.0.1,,"Additional, extensible Artisan commands for generating Laravel views."
+2026-11-06T19:41:22Z,siberfx/telegram-bot,v0.1.2,Selim Görmüş,"A clean, modern Telegram bot framework for Laravel 13: hears/patterns, conversations, keyboards, attachments, middleware, storage, long polling, a console tinker and a fluent testing API."
