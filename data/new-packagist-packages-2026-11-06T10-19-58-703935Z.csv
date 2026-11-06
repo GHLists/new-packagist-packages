@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-06T09:24:56Z,mattleads/agent-publishing-bundle,v0.1.1,Matvei (Matt) Mochalkin,"Publishing API and MCP server for Symfony sites: AI agents, marketing platforms and webmasters draft, approve and publish articles and read view and referrer counts. No frontend."
+2026-11-06T09:36:03Z,ithilbert/dev-tools,1.0.0,Jörg Hilbert,Gemeinsame Entwicklerwerkzeuge für Laravel-13-Projekte der IT-Hilbert GmbH (nur als Dev-Abhängigkeit installieren)
+2026-11-06T09:52:29Z,intragile/laravel-observability,v1.0.0,IntrAgile Kft.,"Observability kit for Laravel on top of spatie/laravel-health and spatie/laravel-prometheus: Loki-ready JSON logging with SQL redaction, extra health checks, fail-closed Prometheus basic auth, a grouped Slack error digest, and a doctor command that probes the whole chain live."
+2026-11-06T10:14:05Z,mikepagedev/portfolio-frontend,v1.0.0,Mike Page,"Public portfolio and case-study pages for Laravel, with or without Filament."
+2026-11-06T10:17:10Z,atannex/domain-routing,v1.0.0,Atangageih Leke Collins,"Multi-domain routing for Laravel: sites bound to hosts, site-scoped routes, cross-domain URLs, canonical hosts, per-site maintenance and cross-domain sign-in. Works alone or with atannex/tenancy."
