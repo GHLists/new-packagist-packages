@@ -15,19 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 04:21 UTC
+## Latest list — 2026-11-06 05:19 UTC
 
-New packages created between 2026-11-06 03:20 UTC and 2026-11-06 04:21 UTC.
+New packages created between 2026-11-06 04:21 UTC and 2026-11-06 05:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T04-21-15-238258Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T05-19-19-259044Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 03:21:33 | [imbrett/laravel-api-query](https://www.nuget.org/packages/imbrett%2Flaravel-api-query) | v1.1.0 |  | Composable query scopes for searching, filtering, and sorting Eloquent models v… |
-| 2026-11-06 03:21:33 | [imbrett/laravel-listener-attributes](https://www.nuget.org/packages/imbrett%2Flaravel-listener-attributes) | v1.1.0 |  | Attribute-driven event listener registration for Laravel. |
-| 2026-11-06 03:28:52 | [volareinc/laravel-admin](https://www.nuget.org/packages/volareinc%2Flaravel-admin) | v1.9.0 | volareinc; zsong | laravel admin (fork of https://github.com/z-song/laravel-admin) |
-| 2026-11-06 03:55:50 | [zubaer/laravel-zubquant](https://www.nuget.org/packages/zubaer%2Flaravel-zubquant) | v1.0.0 | Md. Zubaer Ahammed | Post-Quantum Cryptography for Laravel (Hybrid X-Wing ML-KEM-768 + X25519 Eloque… |
-| 2026-11-06 03:55:50 | [zubaer/zubquant](https://www.nuget.org/packages/zubaer%2Fzubquant) | v1.0.0 | Md. Zubaer Ahammed | Zero-dependency Post-Quantum Cryptography SDK for PHP 8.1+ (NIST FIPS 203 ML-KE… |
+| 2026-11-06 04:52:53 | [fraudnova/fraudnova-php](https://www.nuget.org/packages/fraudnova%2Ffraudnova-php) | v1.0.0 | FraudNova | Official PHP client for the FraudNova fraud-detection API: fraud scores and ris… |
 
 ## Data source
 

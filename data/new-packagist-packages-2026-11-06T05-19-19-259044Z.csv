@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-06T04:52:53Z,fraudnova/fraudnova-php,v1.0.0,FraudNova,"Official PHP client for the FraudNova fraud-detection API: fraud scores and risk flags for IP addresses, email addresses and phone numbers."
