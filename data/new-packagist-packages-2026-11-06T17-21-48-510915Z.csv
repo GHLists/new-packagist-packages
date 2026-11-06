@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-06T16:22:58Z,janalis/porta-phpunit,v0.1.4,,"Runs PHPUnit tests from the editor: the test at the caret, the file, the suite, or the ones that failed"
+2026-11-06T16:44:12Z,uni-method/frame,1.0.0,Alexander Kompaneytsev,"Declarative REST API layer for PHP: a config describes models, relations and actions; the framework maps requests to your entities, validates structure, enforces access and builds responses"
+2026-11-06T16:49:21Z,afropin/afropin-php,v1.0.0,AfroPin Software Limited,"PHP library for the AfroPin gift card API: sell, top up and redeem PINs, quotes, stores and webhooks"
+2026-11-06T17:02:08Z,uni-method/symfony-lib,1.0.0,Alexander Kompaneytsev,"Symfony bundle for UniMethod Frame: turns a declarative config into a REST API with routing, request and response mapping, constraint checks, access control and error handling"

@@ -15,22 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 16:21 UTC
+## Latest list — 2026-11-06 17:21 UTC
 
-New packages created between 2026-11-06 15:19 UTC and 2026-11-06 16:21 UTC.
+New packages created between 2026-11-06 16:21 UTC and 2026-11-06 17:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T16-21-29-315719Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T17-21-48-510915Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 15:23:20 | [medienbaecker/kirby-og-image](https://www.nuget.org/packages/medienbaecker%2Fkirby-og-image) | 1.0.0 | Thomas Günther | Generated social media cards for Kirby |
-| 2026-11-06 15:33:47 | [ee-forge/craft-recurrence](https://www.nuget.org/packages/ee-forge%2Fcraft-recurrence) | 1.0.0 | EE Forge | Recurring dates for native Craft entries, with indexed occurrences, dated URLs,… |
-| 2026-11-06 15:44:21 | [lesekloden/lesekloden-screenshots](https://www.nuget.org/packages/lesekloden%2Flesekloden-screenshots) | v1.0.0 | Simen F. Kristoffersen | Capture page sections as PNG screenshots in Laravel using Browsershot. |
-| 2026-11-06 15:47:22 | [lesekloden/lesekloden-qr](https://www.nuget.org/packages/lesekloden%2Flesekloden-qr) | v1.0.0 | Simen F. Kristoffersen | Generate branded PNG QR codes from configured URLs in Laravel. |
-| 2026-11-06 15:55:47 | [useflex/avatars](https://www.nuget.org/packages/useflex%2Favatars) | v0.1.1 |  | Illustrated profile avatars with a lightweight, self-hosted catalogue. |
-| 2026-11-06 16:02:15 | [olgunozoktas/laravel-security-check](https://www.nuget.org/packages/olgunozoktas%2Flaravel-security-check) | v0.1.0 | Olgun Özoktaş | Security checks for Laravel and Livewire apps without AI: `php artisan security… |
-| 2026-11-06 16:06:08 | [glavweb/admin-bundle](https://www.nuget.org/packages/glavweb%2Fadmin-bundle) | v1.0.0 | Andrey Nilov; Glavweb Communi… | Sonata Admin extras for Glavweb projects |
-| 2026-11-06 16:08:05 | [blutrixx/nativephp-alarms](https://www.nuget.org/packages/blutrixx%2Fnativephp-alarms) | v1.1.0 | Blutrixx | NativePHP Mobile plugin: reminders that fire on time with the app closed. Exact… |
+| 2026-11-06 16:22:58 | [janalis/porta-phpunit](https://www.nuget.org/packages/janalis%2Fporta-phpunit) | v0.1.4 |  | Runs PHPUnit tests from the editor: the test at the caret, the file, the suite,… |
+| 2026-11-06 16:44:12 | [uni-method/frame](https://www.nuget.org/packages/uni-method%2Fframe) | 1.0.0 | Alexander Kompaneytsev | Declarative REST API layer for PHP: a config describes models, relations and ac… |
+| 2026-11-06 16:49:21 | [afropin/afropin-php](https://www.nuget.org/packages/afropin%2Fafropin-php) | v1.0.0 | AfroPin Software Limited | PHP library for the AfroPin gift card API: sell, top up and redeem PINs, quotes… |
+| 2026-11-06 17:02:08 | [uni-method/symfony-lib](https://www.nuget.org/packages/uni-method%2Fsymfony-lib) | 1.0.0 | Alexander Kompaneytsev | Symfony bundle for UniMethod Frame: turns a declarative config into a REST API… |
 
 ## Data source
 
