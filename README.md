@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 18:21 UTC
+## Latest list — 2026-11-06 19:19 UTC
 
-New packages created between 2026-11-06 17:21 UTC and 2026-11-06 18:21 UTC.
+New packages created between 2026-11-06 18:21 UTC and 2026-11-06 19:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T18-21-49-974209Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T19-19-48-898709Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 17:35:33 | [maco-studios/mage-os-installer](https://www.nuget.org/packages/maco-studios%2Fmage-os-installer) | v0.0.4 |  | An interactive Mage-OS project installer and Composer project factory. |
-| 2026-11-06 17:41:15 | [siberfx/laravel-logger](https://www.nuget.org/packages/siberfx%2Flaravel-logger) | 1.0.1 | Selim Gormus | A tiny, zero-config Eloquent activity logger that stores old/new values togethe… |
-| 2026-11-06 17:42:28 | [muckiware/core](https://www.nuget.org/packages/muckiware%2Fcore) | 0.0.2.0 |  | Muckidrive core component |
-| 2026-11-06 17:48:40 | [hryvinskyi/magento2-admin-ui](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-admin-ui) | 1.0.0 | Volodymyr Hryvinskyi | A shared look for Magento 2 admin screens: one opt-in stylesheet of hui-* compo… |
+| 2026-11-06 18:24:43 | [goletter/hyperf-observability](https://www.nuget.org/packages/goletter%2Fhyperf-observability) | v1.0.0 | goletter | Hyperf ECS 日志管道与 OpenTelemetry 链路上下文。 |
+| 2026-11-06 18:25:17 | [cheevauva/uua](https://www.nuget.org/packages/cheevauva%2Fuua) | v0.1.1 | cheevauva | Universal Unit Architecture for PHP |
+| 2026-11-06 18:42:02 | [mithridatem/mvc-script-generator](https://www.nuget.org/packages/mithridatem%2Fmvc-script-generator) | v1.0.3 |  | Generateur Bash de projets MVC PHP (basic, advanced web et API JWT) |
+| 2026-11-06 18:52:21 | [totalcrm/cdek-php-sdk](https://www.nuget.org/packages/totalcrm%2Fcdek-php-sdk) | v1.0.0 | Aleksandr Romanenko; TotalCRM | CDEK 2.0 SDK PHP by TotalCRM |
+| 2026-11-06 19:07:30 | [1994/flatpack-statamic](https://www.nuget.org/packages/1994%2Fflatpack-statamic) | v1.0.0 | 1994 | Compile Statamic's flat-file content at deploy into PHP files OPcache serves fr… |
 
 ## Data source
 

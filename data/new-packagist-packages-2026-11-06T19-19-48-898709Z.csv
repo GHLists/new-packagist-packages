@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-06T18:24:43Z,goletter/hyperf-observability,v1.0.0,goletter,Hyperf ECS 日志管道与 OpenTelemetry 链路上下文。
+2026-11-06T18:25:17Z,cheevauva/uua,v0.1.1,cheevauva,Universal Unit Architecture for PHP
+2026-11-06T18:42:02Z,mithridatem/mvc-script-generator,v1.0.3,,"Generateur Bash de projets MVC PHP (basic, advanced web et API JWT)"
+2026-11-06T18:52:21Z,totalcrm/cdek-php-sdk,v1.0.0,Aleksandr Romanenko; TotalCRM,CDEK 2.0 SDK PHP by TotalCRM
+2026-11-06T19:07:30Z,1994/flatpack-statamic,v1.0.0,1994,Compile Statamic's flat-file content at deploy into PHP files OPcache serves from memory. Content stays in your Markdown and YAML files.
