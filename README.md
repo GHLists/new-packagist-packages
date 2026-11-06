@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 23:20 UTC
+## Latest list — 2026-11-06 02:19 UTC
 
-New packages created between 2026-11-05 22:20 UTC and 2026-11-05 23:20 UTC.
+New packages created between 2026-11-06 01:19 UTC and 2026-11-06 02:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-05T23-20-50-619056Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T02-19-02-603687Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-05 22:47:06 | [webwizardsusa/filament-rich-editor-plus](https://www.nuget.org/packages/webwizardsusa%2Ffilament-rich-editor-plus) | v0.1.0 | Jamie Holly | A plugin-driven, TipTap based rich editor for Filament with a Gutenberg style b… |
-| 2026-11-05 22:56:56 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.19.0 |  | The skeleton application for the Laravel framework. |
-| 2026-11-05 23:03:07 | [rzkhrv/php-wallet-core-protobuf](https://www.nuget.org/packages/rzkhrv%2Fphp-wallet-core-protobuf) | 4.8.7 |  | PHP Protobuf classes generated from Trust Wallet Core schemas |
+| 2026-11-06 02:00:41 | [njdigitallab/larapermissions](https://www.nuget.org/packages/njdigitallab%2Flarapermissions) | v1.0.0 | Jenry Ollivierre | Larapermissions is a laravel package that allows you to integrate permissions i… |
 
 ## Data source
 
