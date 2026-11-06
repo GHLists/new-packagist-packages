@@ -15,15 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 02:19 UTC
+## Latest list — 2026-11-06 03:20 UTC
 
-New packages created between 2026-11-06 01:19 UTC and 2026-11-06 02:19 UTC.
+New packages created between 2026-11-06 02:19 UTC and 2026-11-06 03:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T02-19-02-603687Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T03-20-12-237612Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 02:00:41 | [njdigitallab/larapermissions](https://www.nuget.org/packages/njdigitallab%2Flarapermissions) | v1.0.0 | Jenry Ollivierre | Larapermissions is a laravel package that allows you to integrate permissions i… |
+| 2026-11-06 02:25:48 | [vitalrix/vitalrix](https://www.nuget.org/packages/vitalrix%2Fvitalrix) | v0.1.0 |  | Send traces, metrics and logs from PHP to VitalRix in one call (OpenTelemetry u… |
+| 2026-11-06 02:32:54 | [nodda/client](https://www.nuget.org/packages/nodda%2Fclient) | v1.2.0 | Nodda | Cliente oficial de la API de Nodda para emitir y consultar facturas VERI*FACTU… |
+| 2026-11-06 02:58:09 | [spiritualized/thetvdbapi](https://www.nuget.org/packages/spiritualized%2Fthetvdbapi) | v1.0.0 | spiritualized | PHP implementation for the 4th version of the TheTVDb API. |
+| 2026-11-06 03:02:49 | [skyraptor/laravel-versioned-storage](https://www.nuget.org/packages/skyraptor%2Flaravel-versioned-storage) | v0.1.0-beta.1 | Patrick Henninger | Versioned, safe storage for Laravel. |
+| 2026-11-06 03:11:12 | [ptadmin/admin](https://www.nuget.org/packages/ptadmin%2Fadmin) | v0.1.0 | Zane | PTAdmin base Laravel application for composer create-project. |
 
 ## Data source
 

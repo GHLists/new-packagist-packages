@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-06T02:25:48Z,vitalrix/vitalrix,v0.1.0,,"Send traces, metrics and logs from PHP to VitalRix in one call (OpenTelemetry under the hood)."
+2026-11-06T02:32:54Z,nodda/client,v1.2.0,Nodda,Cliente oficial de la API de Nodda para emitir y consultar facturas VERI*FACTU (AEAT).
+2026-11-06T02:58:09Z,spiritualized/thetvdbapi,v1.0.0,spiritualized,PHP implementation for the 4th version of the TheTVDb API.
+2026-11-06T03:02:49Z,skyraptor/laravel-versioned-storage,v0.1.0-beta.1,Patrick Henninger,"Versioned, safe storage for Laravel."
+2026-11-06T03:11:12Z,ptadmin/admin,v0.1.0,Zane,PTAdmin base Laravel application for composer create-project.
