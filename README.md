@@ -15,21 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 08:21 UTC
+## Latest list — 2026-11-06 09:21 UTC
 
-New packages created between 2026-11-06 07:19 UTC and 2026-11-06 08:21 UTC.
+New packages created between 2026-11-06 08:21 UTC and 2026-11-06 09:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T08-21-18-978658Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T09-21-58-71682Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 07:27:53 | [adems/dapur-multiwebsite](https://www.nuget.org/packages/adems%2Fdapur-multiwebsite) | 1.0.0 | Ade M Saragih | Modul multi-website untuk Dapur AdeMS: satu inti Dapur melayani banyak website |
-| 2026-11-06 07:34:51 | [tualo/pdfgear](https://www.nuget.org/packages/tualo%2Fpdfgear) | 1.0.1 |  | A PDF builder using HTML or DOCX templates. |
-| 2026-11-06 07:37:15 | [intragile/php-text-extractor](https://www.nuget.org/packages/intragile%2Fphp-text-extractor) | v1.0.0 | IntrAgile Kft. | Extract plain text from PDF, DOCX, XLSX, PPTX, ODT, ODS, ODP, RTF, HTML, CSV an… |
-| 2026-11-06 07:48:29 | [atannex/tenancy](https://www.nuget.org/packages/atannex%2Ftenancy) | v1.0.1 | Atangageih Leke Collins | Enterprise multi-tenancy for Laravel: tenant identification by domain, subdomai… |
-| 2026-11-06 07:51:47 | [ichnois/ichnois](https://www.nuget.org/packages/ichnois%2Fichnois) | v1.0.0 | Ichnois | PHP SDK for Ichnois (https://ichnois-h2jw.onrender.com) |
-| 2026-11-06 07:55:48 | [intragile/laravel-text-extractor](https://www.nuget.org/packages/intragile%2Flaravel-text-extractor) | v1.0.0 | IntrAgile Kft. | Laravel integration for intragile/php-text-extractor: extract text from PDF, Of… |
-| 2026-11-06 07:58:00 | [xelqun/tables](https://www.nuget.org/packages/xelqun%2Ftables) | v0.1.0 | Jay-Are Ocero | PHP-defined, schema-driven tables for Laravel, Inertia and Vue. |
+| 2026-11-06 08:33:22 | [pixonaut/pixonaut-php](https://www.nuget.org/packages/pixonaut%2Fpixonaut-php) | v1.0.0 |  | PHP SDK for the Pixonaut public API. |
+| 2026-11-06 08:48:52 | [rekhu/core](https://www.nuget.org/packages/rekhu%2Fcore) | v0.1.0 | Rekhu | Rekhu Core for Laravel: install Rekhu's knowers (Rekhu Machines first) into you… |
+| 2026-11-06 08:51:35 | [mikepagedev/filament-portfolio](https://www.nuget.org/packages/mikepagedev%2Ffilament-portfolio) | v1.0.0 | Mike Page | Portfolio projects and case studies for Filament panels. |
+| 2026-11-06 08:57:44 | [sightpress/plugin-articles](https://www.nuget.org/packages/sightpress%2Fplugin-articles) | v1.0.0 |  | The official SightPress plugin for articles, categories, tags, archives and fee… |
+| 2026-11-06 08:57:48 | [sightpress/plugin-community-helper](https://www.nuget.org/packages/sightpress%2Fplugin-community-helper) | v1.0.0 |  | The official SightPress plugin for comments, likes, share links and saved pages. |
+| 2026-11-06 08:58:04 | [sightpress/plugin-ai-helper](https://www.nuget.org/packages/sightpress%2Fplugin-ai-helper) | v1.0.0 |  | The official SightPress plugin for optional AI assistance. |
+| 2026-11-06 08:58:08 | [sightpress/plugin-file-importer](https://www.nuget.org/packages/sightpress%2Fplugin-file-importer) | v1.0.0 |  | The official SightPress plugin for importing content. |
+| 2026-11-06 09:06:52 | [crabphp/arc](https://www.nuget.org/packages/crabphp%2Farc) | v0.1.1 |  | Arc, the Crab template engine: components compiled once to plain PHP |
 
 ## Data source
 
