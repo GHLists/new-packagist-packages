@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-06T12:44:52Z,netipar/laravel-dev-login,v0.1.0,NETipar,"Switch-gated dev login for Laravel: sign the browser in as any user with one URL for manual, Playwright and AI-agent testing. The route does not exist until you turn it on."
+2026-11-06T12:47:12Z,medienbaecker/kirby-base-select,1.0.0,Thomas Günther,"A select field for the Kirby Panel with icons, images, info, fonts and themes on every option"
+2026-11-06T13:15:02Z,taba2177/log-issues-github,v0.1.0,taba2177,"Turn Laravel production errors into deduplicated, redacted GitHub issues that an AI coding agent can pick up and fix."
+2026-11-06T13:20:34Z,zapj/zap-php-framework,v1.0.9,z,zap php framework

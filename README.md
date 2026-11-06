@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 12:22 UTC
+## Latest list — 2026-11-06 13:22 UTC
 
-New packages created between 2026-11-06 11:20 UTC and 2026-11-06 12:22 UTC.
+New packages created between 2026-11-06 12:22 UTC and 2026-11-06 13:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T12-22-13-928404Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T13-22-08-546223Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 11:41:44 | [vos/label-classifier](https://www.nuget.org/packages/vos%2Flabel-classifier) | v1 |  | Suggests labels for pull requests by answering per-label policy questions again… |
-| 2026-11-06 12:00:11 | [intragile/laravel-reverb-kit](https://www.nuget.org/packages/intragile%2Flaravel-reverb-kit) | v1.0.0 | IntrAgile Kft. | Production toolkit for Laravel Reverb: a static `reverb:doctor` deploy gate (al… |
+| 2026-11-06 12:44:52 | [netipar/laravel-dev-login](https://www.nuget.org/packages/netipar%2Flaravel-dev-login) | v0.1.0 | NETipar | Switch-gated dev login for Laravel: sign the browser in as any user with one UR… |
+| 2026-11-06 12:47:12 | [medienbaecker/kirby-base-select](https://www.nuget.org/packages/medienbaecker%2Fkirby-base-select) | 1.0.0 | Thomas Günther | A select field for the Kirby Panel with icons, images, info, fonts and themes o… |
+| 2026-11-06 13:15:02 | [taba2177/log-issues-github](https://www.nuget.org/packages/taba2177%2Flog-issues-github) | v0.1.0 | taba2177 | Turn Laravel production errors into deduplicated, redacted GitHub issues that a… |
+| 2026-11-06 13:20:34 | [zapj/zap-php-framework](https://www.nuget.org/packages/zapj%2Fzap-php-framework) | v1.0.9 | z | zap php framework |
 
 ## Data source
 
