@@ -15,19 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 06:19 UTC
+## Latest list — 2026-11-06 07:19 UTC
 
-New packages created between 2026-11-06 05:19 UTC and 2026-11-06 06:19 UTC.
+New packages created between 2026-11-06 06:19 UTC and 2026-11-06 07:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T06-19-55-004396Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T07-19-43-484806Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 05:23:48 | [shafqatjan/laravel-amp-mail](https://www.nuget.org/packages/shafqatjan%2Flaravel-amp-mail) | v1.0.0 | Shafqat Jan | Send interactive AMP emails (Gmail, Yahoo Mail, Mail.ru) from Laravel mailables |
-| 2026-11-06 05:49:00 | [sunrice/commerce](https://www.nuget.org/packages/sunrice%2Fcommerce) | v0.1.0 |  | An e-commerce package for Sunrice CMS: catalog, cart, checkout, orders, payment… |
-| 2026-11-06 05:58:21 | [ibraheem-ghazi/laravel-ai-flow](https://www.nuget.org/packages/ibraheem-ghazi%2Flaravel-ai-flow) | 1.0 |  | Composable queued AI workflows for Laravel with steps, tasks, structured genera… |
-| 2026-11-06 06:12:00 | [stateforge/scenario-ai](https://www.nuget.org/packages/stateforge%2Fscenario-ai) | 1.0 | Christina Koenig | AI-assisted generation of Scenarios, Parameter Types, and coding agent skills. |
-| 2026-11-06 06:14:55 | [stateforge/scenario-laravel-ai](https://www.nuget.org/packages/stateforge%2Fscenario-laravel-ai) | 1.0 | Christina Koenig | Laravel adapter for Stateforge Scenario AI - AI-assisted generation of Scenario… |
+| 2026-11-06 06:24:34 | [kawayanmedia/persistence](https://www.nuget.org/packages/kawayanmedia%2Fpersistence) | 0.1.0 |  | Tiny database abstraction used by the Kawayan Media HR packages for their write… |
+| 2026-11-06 06:24:37 | [kawayanmedia/dtr-pdf](https://www.nuget.org/packages/kawayanmedia%2Fdtr-pdf) | 0.1.0 |  | Framework-agnostic Daily Time Record (DTR) computation and PDF generator |
+| 2026-11-06 06:24:39 | [kawayanmedia/pds](https://www.nuget.org/packages/kawayanmedia%2Fpds) | 0.1.0 |  | Framework-agnostic Personal Data Sheet (PDS / CS Form 212) PDF generator |
+| 2026-11-06 06:24:41 | [kawayanmedia/leave-forms](https://www.nuget.org/packages/kawayanmedia%2Fleave-forms) | 0.1.0 |  | Framework-agnostic Service Record, leave certification, leave application, CTO,… |
+| 2026-11-06 06:36:51 | [stateforge/scenario-symfony-ai](https://www.nuget.org/packages/stateforge%2Fscenario-symfony-ai) | 1.0.0 | Christina Koenig | Symfony adapter for Stateforge Scenario AI - AI-assisted generation of Scenario… |
+| 2026-11-06 06:58:57 | [konekqr/laravel](https://www.nuget.org/packages/konekqr%2Flaravel) | v0.1.0 |  | Konek QR API client, facade and webhook verification middleware for Laravel. |
 
 ## Data source
 

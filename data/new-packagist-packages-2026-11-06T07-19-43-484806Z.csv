@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-06T06:24:34Z,kawayanmedia/persistence,0.1.0,,Tiny database abstraction used by the Kawayan Media HR packages for their write side
+2026-11-06T06:24:37Z,kawayanmedia/dtr-pdf,0.1.0,,Framework-agnostic Daily Time Record (DTR) computation and PDF generator
+2026-11-06T06:24:39Z,kawayanmedia/pds,0.1.0,,Framework-agnostic Personal Data Sheet (PDS / CS Form 212) PDF generator
+2026-11-06T06:24:41Z,kawayanmedia/leave-forms,0.1.0,,"Framework-agnostic Service Record, leave certification, leave application, CTO, money value and retirement schedule PDFs"
+2026-11-06T06:36:51Z,stateforge/scenario-symfony-ai,1.0.0,Christina Koenig,"Symfony adapter for Stateforge Scenario AI - AI-assisted generation of Scenarios, Parameter Types, and coding agent skills."
+2026-11-06T06:58:57Z,konekqr/laravel,v0.1.0,,"Konek QR API client, facade and webhook verification middleware for Laravel."
