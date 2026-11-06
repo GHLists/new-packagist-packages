@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-06T21:49:33Z,artisan-toolbox/front-awesome,1.0.0-alpha.1,Allan Mariucci Carvalho,Reusable Vue components and frontend integrations for Laravel and Inertia applications.
+2026-11-06T21:57:42Z,nyoncode/laravel-package-console,1.0.0,Ondřej Nyklíček,"Artisan-like generators and scaffolding for developing Laravel 12 and 13 packages, with first-class laravel-package-toolkit support"
+2026-11-06T22:19:08Z,nubos/starterkit,v1.22.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."

@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 21:20 UTC
+## Latest list — 2026-11-06 22:20 UTC
 
-New packages created between 2026-11-06 20:21 UTC and 2026-11-06 21:20 UTC.
+New packages created between 2026-11-06 21:20 UTC and 2026-11-06 22:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T21-20-43-029541Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T22-20-36-841995Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 20:24:50 | [mltstephane/laravel-quality](https://www.nuget.org/packages/mltstephane%2Flaravel-quality) | v1.0.2 |  | Shared static analysis and architecture rules for Laravel projects: Larastan ba… |
-| 2026-11-06 20:49:05 | [earlyforge/earlyforge-sdk](https://www.nuget.org/packages/earlyforge%2Fearlyforge-sdk) | v0.1.0 |  | PHP client for the EarlyForge Trends API (free Pulse mirror and paid full trend… |
+| 2026-11-06 21:49:33 | [artisan-toolbox/front-awesome](https://www.nuget.org/packages/artisan-toolbox%2Ffront-awesome) | 1.0.0-alpha.1 | Allan Mariucci Carvalho | Reusable Vue components and frontend integrations for Laravel and Inertia appli… |
+| 2026-11-06 21:57:42 | [nyoncode/laravel-package-console](https://www.nuget.org/packages/nyoncode%2Flaravel-package-console) | 1.0.0 | Ondřej Nyklíček | Artisan-like generators and scaffolding for developing Laravel 12 and 13 packag… |
+| 2026-11-06 22:19:08 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.22.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
 
 ## Data source
 
