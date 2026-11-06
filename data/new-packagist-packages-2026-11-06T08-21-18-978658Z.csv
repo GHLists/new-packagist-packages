@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-06T07:27:53Z,adems/dapur-multiwebsite,1.0.0,Ade M Saragih,Modul multi-website untuk Dapur AdeMS: satu inti Dapur melayani banyak website
+2026-11-06T07:34:51Z,tualo/pdfgear,1.0.1,,A PDF builder using HTML or DOCX templates.
+2026-11-06T07:37:15Z,intragile/php-text-extractor,v1.0.0,IntrAgile Kft.,"Extract plain text from PDF, DOCX, XLSX, PPTX, ODT, ODS, ODP, RTF, HTML, CSV and images with no Composer dependencies, bounded memory and a result that tells empty files from failures."
+2026-11-06T07:48:29Z,atannex/tenancy,v1.0.1,Atangageih Leke Collins,"Enterprise multi-tenancy for Laravel: tenant identification by domain, subdomain, path or header, a fail-closed shared-database tier, schema and database-per-tenant tiers, tenant-aware infrastructure, lifecycle, plans, members and audit."
+2026-11-06T07:51:47Z,ichnois/ichnois,v1.0.0,Ichnois,PHP SDK for Ichnois (https://ichnois-h2jw.onrender.com)
+2026-11-06T07:55:48Z,intragile/laravel-text-extractor,v1.0.0,IntrAgile Kft.,"Laravel integration for intragile/php-text-extractor: extract text from PDF, Office, OpenDocument, RTF, HTML, CSV and images on any Storage disk, with a facade, config and a doctor command."
+2026-11-06T07:58:00Z,xelqun/tables,v0.1.0,Jay-Are Ocero,"PHP-defined, schema-driven tables for Laravel, Inertia and Vue."
