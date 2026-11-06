@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-06T14:27:52Z,digitalgdn/oauth2-sheepcrm,v1.0.0,DigitalGdn,SheepCRM OAuth 2.0 support for the PHP League's OAuth 2.0 Client
+2026-11-06T14:35:35Z,silin/magento-perf-check,v0.1.1,Mykola Silin,Static analysis for Magento 2 and Mage-OS performance and Full Page Cache anti-patterns: PHPStan rules plus XML checks.
+2026-11-06T14:47:13Z,browser-grpc/eventbus-grpc,v0.38.0,,Event bus over gRPC for PHP: generated grpcdc.events.v1 publish/subscribe clients over the grpc-dc runtime.
+2026-11-06T14:53:56Z,tinvar/framework,v0.4.0,,Tinvar: a PHP 8.5 core with a React Server Components renderer.
+2026-11-06T14:53:56Z,tinvar/skeleton,v0.4.0,,A new Tinvar application: composer create-project tinvar/skeleton my-app
+2026-11-06T14:58:00Z,damconsultants/cmcpro,1.0.0,DamConsultants,DamConsultants Cmcpro for Magento 2
+2026-11-06T14:58:42Z,nubos/starterkit,v1.20.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-06T14:58:49Z,js199069/agentlock,v0.1.0,js199069,"Catch AI coding agents that weaken tests to make them pass, and lock the tests they must not touch."
+2026-11-06T15:02:33Z,xelqun/panels,v0.1.0,Jay-Are Ocero,"PHP-defined admin panels for Laravel, Inertia and Vue, with navigation, authentication, CRUD pages and dashboards."
+2026-11-06T15:12:55Z,vanilo/snapshot,6.1.0,,Vanilo Snapshot Module

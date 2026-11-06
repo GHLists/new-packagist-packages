@@ -15,21 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 14:22 UTC
+## Latest list — 2026-11-06 15:19 UTC
 
-New packages created between 2026-11-06 13:22 UTC and 2026-11-06 14:22 UTC.
+New packages created between 2026-11-06 14:22 UTC and 2026-11-06 15:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T14-22-05-716052Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T15-19-39-061187Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 13:25:06 | [aldanux/statamic-polls](https://www.nuget.org/packages/aldanux%2Fstatamic-polls) | v0.1.0 | Aldanux | Simple, reusable polls and voting for Statamic. Options from any collection or… |
-| 2026-11-06 13:48:00 | [filagora/filagora-ai](https://www.nuget.org/packages/filagora%2Ffilagora-ai) | v0.1.0 |  | AI chat, usage records and provider plumbing for Filagora applications. |
-| 2026-11-06 13:49:28 | [js199069/mutagent](https://www.nuget.org/packages/js199069%2Fmutagent) | v0.1.0 | js199069 | LLM-written PHPUnit tests, strengthened until they kill mutants (Infection), wi… |
-| 2026-11-06 13:51:55 | [muno92/asn1-tools](https://www.nuget.org/packages/muno92%2Fasn1-tools) | v0.1.0 | muno92 | ASN.1 reader and writer (BER/DER) for PHP |
-| 2026-11-06 13:59:51 | [itw/gatecha](https://www.nuget.org/packages/itw%2Fgatecha) | 14.0.0 |  | GateCHA (self-hosted ALTCHA) spam protection for TYPO3 EXT:form: direct challen… |
-| 2026-11-06 14:10:27 | [nelsius/nelsius-pay-laravel](https://www.nuget.org/packages/nelsius%2Fnelsius-pay-laravel) | v2.0.0 | Nelson Siebi | The official Laravel package and Service Provider for Nelsius Pay API V2 |
-| 2026-11-06 14:14:45 | [adachsoft/plugin-discovery](https://www.nuget.org/packages/adachsoft%2Fplugin-discovery) | v0.1.0 | Arkadiusz Adach | Discovers plugin declarations from installed Composer packages. |
+| 2026-11-06 14:27:52 | [digitalgdn/oauth2-sheepcrm](https://www.nuget.org/packages/digitalgdn%2Foauth2-sheepcrm) | v1.0.0 | DigitalGdn | SheepCRM OAuth 2.0 support for the PHP League's OAuth 2.0 Client |
+| 2026-11-06 14:35:35 | [silin/magento-perf-check](https://www.nuget.org/packages/silin%2Fmagento-perf-check) | v0.1.1 | Mykola Silin | Static analysis for Magento 2 and Mage-OS performance and Full Page Cache anti-… |
+| 2026-11-06 14:47:13 | [browser-grpc/eventbus-grpc](https://www.nuget.org/packages/browser-grpc%2Feventbus-grpc) | v0.38.0 |  | Event bus over gRPC for PHP: generated grpcdc.events.v1 publish/subscribe clien… |
+| 2026-11-06 14:53:56 | [tinvar/framework](https://www.nuget.org/packages/tinvar%2Fframework) | v0.4.0 |  | Tinvar: a PHP 8.5 core with a React Server Components renderer. |
+| 2026-11-06 14:53:56 | [tinvar/skeleton](https://www.nuget.org/packages/tinvar%2Fskeleton) | v0.4.0 |  | A new Tinvar application: composer create-project tinvar/skeleton my-app |
+| 2026-11-06 14:58:00 | [damconsultants/cmcpro](https://www.nuget.org/packages/damconsultants%2Fcmcpro) | 1.0.0 | DamConsultants | DamConsultants Cmcpro for Magento 2 |
+| 2026-11-06 14:58:42 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.20.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-06 14:58:49 | [js199069/agentlock](https://www.nuget.org/packages/js199069%2Fagentlock) | v0.1.0 | js199069 | Catch AI coding agents that weaken tests to make them pass, and lock the tests… |
+| 2026-11-06 15:02:33 | [xelqun/panels](https://www.nuget.org/packages/xelqun%2Fpanels) | v0.1.0 | Jay-Are Ocero | PHP-defined admin panels for Laravel, Inertia and Vue, with navigation, authent… |
+| 2026-11-06 15:12:55 | [vanilo/snapshot](https://www.nuget.org/packages/vanilo%2Fsnapshot) | 6.1.0 |  | Vanilo Snapshot Module |
 
 ## Data source
 
