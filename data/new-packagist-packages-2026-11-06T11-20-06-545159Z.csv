@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-06T10:26:17Z,pdir/contao-matomo-ai-tracking,1.0.0,pdir GmbH; Mathias Arzberger,"Serverseitiges Tracking von AI-Chatbots (ChatGPT-User, Claude-User, Perplexity-User, …) in Matomo für Contao 5 und 6"
+2026-11-06T10:30:00Z,raylongsolutions/gst-gateway,v1.0.0,Raylong Solutions,Generate GST e-invoices (IRN) and e-way bills from PHP with GST Gateway by Raylong Solutions.
+2026-11-06T10:31:48Z,chaima24/algeria-geo-laravel,v1.0.0,chaima24,"Algerian geography for Laravel: 69 wilayas and 1,541 communes, with optional regions and dairas."
+2026-11-06T10:43:23Z,cgv/localized-resource,v1.0.0,,Comando para crear recursos localizados de Filament
