@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-06T15:23:20Z,medienbaecker/kirby-og-image,1.0.0,Thomas Günther,Generated social media cards for Kirby
+2026-11-06T15:33:47Z,ee-forge/craft-recurrence,1.0.0,EE Forge,"Recurring dates for native Craft entries, with indexed occurrences, dated URLs, per-date overrides and ICS feeds."
+2026-11-06T15:44:21Z,lesekloden/lesekloden-screenshots,v1.0.0,Simen F. Kristoffersen,Capture page sections as PNG screenshots in Laravel using Browsershot.
+2026-11-06T15:47:22Z,lesekloden/lesekloden-qr,v1.0.0,Simen F. Kristoffersen,Generate branded PNG QR codes from configured URLs in Laravel.
+2026-11-06T15:55:47Z,useflex/avatars,v0.1.1,,"Illustrated profile avatars with a lightweight, self-hosted catalogue."
+2026-11-06T16:02:15Z,olgunozoktas/laravel-security-check,v0.1.0,Olgun Özoktaş,"Security checks for Laravel and Livewire apps without AI: `php artisan security:check` reads the config, the routes and the source, one file for each check, and a finding at or above --fail-on exits non-zero for CI and pull requests."
+2026-11-06T16:06:08Z,glavweb/admin-bundle,v1.0.0,Andrey Nilov; Glavweb Community,Sonata Admin extras for Glavweb projects
+2026-11-06T16:08:05Z,blutrixx/nativephp-alarms,v1.1.0,Blutrixx,"NativePHP Mobile plugin: reminders that fire on time with the app closed. Exact alarms, restored after reboot, no server."

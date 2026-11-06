@@ -15,24 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 15:19 UTC
+## Latest list — 2026-11-06 16:21 UTC
 
-New packages created between 2026-11-06 14:22 UTC and 2026-11-06 15:19 UTC.
+New packages created between 2026-11-06 15:19 UTC and 2026-11-06 16:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T15-19-39-061187Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-06T16-21-29-315719Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 14:27:52 | [digitalgdn/oauth2-sheepcrm](https://www.nuget.org/packages/digitalgdn%2Foauth2-sheepcrm) | v1.0.0 | DigitalGdn | SheepCRM OAuth 2.0 support for the PHP League's OAuth 2.0 Client |
-| 2026-11-06 14:35:35 | [silin/magento-perf-check](https://www.nuget.org/packages/silin%2Fmagento-perf-check) | v0.1.1 | Mykola Silin | Static analysis for Magento 2 and Mage-OS performance and Full Page Cache anti-… |
-| 2026-11-06 14:47:13 | [browser-grpc/eventbus-grpc](https://www.nuget.org/packages/browser-grpc%2Feventbus-grpc) | v0.38.0 |  | Event bus over gRPC for PHP: generated grpcdc.events.v1 publish/subscribe clien… |
-| 2026-11-06 14:53:56 | [tinvar/framework](https://www.nuget.org/packages/tinvar%2Fframework) | v0.4.0 |  | Tinvar: a PHP 8.5 core with a React Server Components renderer. |
-| 2026-11-06 14:53:56 | [tinvar/skeleton](https://www.nuget.org/packages/tinvar%2Fskeleton) | v0.4.0 |  | A new Tinvar application: composer create-project tinvar/skeleton my-app |
-| 2026-11-06 14:58:00 | [damconsultants/cmcpro](https://www.nuget.org/packages/damconsultants%2Fcmcpro) | 1.0.0 | DamConsultants | DamConsultants Cmcpro for Magento 2 |
-| 2026-11-06 14:58:42 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.20.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
-| 2026-11-06 14:58:49 | [js199069/agentlock](https://www.nuget.org/packages/js199069%2Fagentlock) | v0.1.0 | js199069 | Catch AI coding agents that weaken tests to make them pass, and lock the tests… |
-| 2026-11-06 15:02:33 | [xelqun/panels](https://www.nuget.org/packages/xelqun%2Fpanels) | v0.1.0 | Jay-Are Ocero | PHP-defined admin panels for Laravel, Inertia and Vue, with navigation, authent… |
-| 2026-11-06 15:12:55 | [vanilo/snapshot](https://www.nuget.org/packages/vanilo%2Fsnapshot) | 6.1.0 |  | Vanilo Snapshot Module |
+| 2026-11-06 15:23:20 | [medienbaecker/kirby-og-image](https://www.nuget.org/packages/medienbaecker%2Fkirby-og-image) | 1.0.0 | Thomas Günther | Generated social media cards for Kirby |
+| 2026-11-06 15:33:47 | [ee-forge/craft-recurrence](https://www.nuget.org/packages/ee-forge%2Fcraft-recurrence) | 1.0.0 | EE Forge | Recurring dates for native Craft entries, with indexed occurrences, dated URLs,… |
+| 2026-11-06 15:44:21 | [lesekloden/lesekloden-screenshots](https://www.nuget.org/packages/lesekloden%2Flesekloden-screenshots) | v1.0.0 | Simen F. Kristoffersen | Capture page sections as PNG screenshots in Laravel using Browsershot. |
+| 2026-11-06 15:47:22 | [lesekloden/lesekloden-qr](https://www.nuget.org/packages/lesekloden%2Flesekloden-qr) | v1.0.0 | Simen F. Kristoffersen | Generate branded PNG QR codes from configured URLs in Laravel. |
+| 2026-11-06 15:55:47 | [useflex/avatars](https://www.nuget.org/packages/useflex%2Favatars) | v0.1.1 |  | Illustrated profile avatars with a lightweight, self-hosted catalogue. |
+| 2026-11-06 16:02:15 | [olgunozoktas/laravel-security-check](https://www.nuget.org/packages/olgunozoktas%2Flaravel-security-check) | v0.1.0 | Olgun Özoktaş | Security checks for Laravel and Livewire apps without AI: `php artisan security… |
+| 2026-11-06 16:06:08 | [glavweb/admin-bundle](https://www.nuget.org/packages/glavweb%2Fadmin-bundle) | v1.0.0 | Andrey Nilov; Glavweb Communi… | Sonata Admin extras for Glavweb projects |
+| 2026-11-06 16:08:05 | [blutrixx/nativephp-alarms](https://www.nuget.org/packages/blutrixx%2Fnativephp-alarms) | v1.1.0 | Blutrixx | NativePHP Mobile plugin: reminders that fire on time with the app closed. Exact… |
 
 ## Data source
 
