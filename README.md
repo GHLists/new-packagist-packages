@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 05:19 UTC
+## Latest list — 2026-11-07 06:19 UTC
 
-New packages created between 2026-11-07 04:20 UTC and 2026-11-07 05:19 UTC.
+New packages created between 2026-11-07 05:19 UTC and 2026-11-07 06:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T05-19-58-247317Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T06-19-54-572606Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 05:04:12 | [pharaonic/laravel-notification-dependencies](https://www.nuget.org/packages/pharaonic%2Flaravel-notification-dependencies) | 13.0.0 | Moamen Eltouny (Raggi) | Attach Laravel database notifications to Eloquent models and delete them automa… |
+| 2026-11-07 06:06:19 | [spaceavocado/illogical](https://www.nuget.org/packages/spaceavocado%2Fillogical) | v1.0.0 | David Horak | A micro conditional engine used to parse raw logical and comparison expressions… |
 
 ## Data source
 
