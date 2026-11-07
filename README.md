@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 19:19 UTC
+## Latest list — 2026-11-07 20:20 UTC
 
-New packages created between 2026-11-07 18:21 UTC and 2026-11-07 19:19 UTC.
+New packages created between 2026-11-07 19:19 UTC and 2026-11-07 20:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T19-19-29-958208Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T20-20-57-023079Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 18:55:35 | [codehq-dk/my-dashboard-widget-tester](https://www.nuget.org/packages/codehq-dk%2Fmy-dashboard-widget-tester) | 1.0.0 | Jesper Østergaard Jensen | Mydashboard widget tester for development of new widgets |
-| 2026-11-07 18:57:27 | [noldors/oauth2-jwt-bearer](https://www.nuget.org/packages/noldors%2Foauth2-jwt-bearer) | v0.1.0 |  | RFC 7523 JWT Bearer Grant for League OAuth2 Server with optional Laravel Passpo… |
-| 2026-11-07 19:12:35 | [dskripchenko/laravel-llm](https://www.nuget.org/packages/dskripchenko%2Flaravel-llm) | v0.1.0 | Denis Skripchenko | Local LLMs for Laravel through OpenAI-compatible APIs (Ollama, vLLM, LM Studio,… |
+| 2026-11-07 19:41:27 | [labyrinthe/connect-laravel](https://www.nuget.org/packages/labyrinthe%2Fconnect-laravel) | v1.2.0 | Labyrinthe Connect | Laravel integration for Labyrinthe Connect: SMS notification channel, OTP helpe… |
+| 2026-11-07 20:01:59 | [jield/framework](https://www.nuget.org/packages/jield%2Fframework) | v0.1.0-alpha.1 | Johan van der Heide | A modular PHP framework built on top of Laminas, Doctrine, and other powerful l… |
 
 ## Data source
 

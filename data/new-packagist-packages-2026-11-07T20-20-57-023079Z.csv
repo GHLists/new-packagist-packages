@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-07T19:41:27Z,labyrinthe/connect-laravel,v1.2.0,Labyrinthe Connect,"Laravel integration for Labyrinthe Connect: SMS notification channel, OTP helpers and validation rules, signed webhooks, test fake."
+2026-11-07T20:01:59Z,jield/framework,v0.1.0-alpha.1,Johan van der Heide,"A modular PHP framework built on top of Laminas, Doctrine, and other powerful libraries, designed to provide a flexible and scalable foundation for web applications."
