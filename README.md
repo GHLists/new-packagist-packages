@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 07:20 UTC
+## Latest list — 2026-11-07 08:21 UTC
 
-New packages created between 2026-11-07 06:19 UTC and 2026-11-07 07:20 UTC.
+New packages created between 2026-11-07 07:20 UTC and 2026-11-07 08:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T07-20-53-523872Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T08-21-39-502908Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 07:07:26 | [cotizave/sdk](https://www.nuget.org/packages/cotizave%2Fsdk) | v0.1.0 | Cotizave | Official PHP SDK for the Cotizave API v2 — multi-country exchange-rate referenc… |
+| 2026-11-07 07:30:09 | [srikanta159/net_routeros_php](https://www.nuget.org/packages/srikanta159%2Fnet_routeros_php) | v1.0.0 | Srikanta Das; Vasil Rangelov | Modern PHP client for MikroTik RouterOS API with complete RouterOS v7 and v6 co… |
+| 2026-11-07 08:11:59 | [yaknet/api-client-services](https://www.nuget.org/packages/yaknet%2Fapi-client-services) | v1.0.1 | YakNet Bilişim | Official PHP API Client & Cloud Services SDK for YakNet Developer Console (Clou… |
 
 ## Data source
 
