@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 09:21 UTC
+## Latest list — 2026-11-07 10:20 UTC
 
-New packages created between 2026-11-07 08:21 UTC and 2026-11-07 09:21 UTC.
+New packages created between 2026-11-07 09:21 UTC and 2026-11-07 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T09-21-23-016497Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T10-20-29-72071Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 08:31:03 | [cboxdk/laravel-assistant-client](https://www.nuget.org/packages/cboxdk%2Flaravel-assistant-client) | v0.1.0 |  | Cbox Assistant client for Laravel: signed tools, product support and curated kn… |
-| 2026-11-07 09:17:46 | [tribble/emoji](https://www.nuget.org/packages/tribble%2Femoji) | 1.0.1 | Alex Brindley | Fluent emoji for tribble |
-| 2026-11-07 09:19:15 | [rapttor/yii2-postar](https://www.nuget.org/packages/rapttor%2Fyii2-postar) | v0.1.0 | Rapttor | Symfony Mailer transport for the Postar mail API (POST /v1/send) for yiisoft/yi… |
+| 2026-11-07 09:48:51 | [php-concept/brick-view-plates](https://www.nuget.org/packages/php-concept%2Fbrick-view-plates) | v1.1.2 |  | Concept stack brick: Plates view engine |
+| 2026-11-07 09:48:51 | [php-concept/brick-view-twig](https://www.nuget.org/packages/php-concept%2Fbrick-view-twig) | v1.1.2 |  | Concept stack brick: Twig view engine |
+| 2026-11-07 10:00:30 | [undpaul/guzzle-oauth2-plugin](https://www.nuget.org/packages/undpaul%2Fguzzle-oauth2-plugin) | 4.0.1 | Bojan Zivanovic; Damien Tourn… | An OAuth2 middleware for Guzzle based on commerceguys/guzzle-oauth2-plugin |
 
 ## Data source
 

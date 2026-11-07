@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-07T09:48:51Z,php-concept/brick-view-plates,v1.1.2,,Concept stack brick: Plates view engine
+2026-11-07T09:48:51Z,php-concept/brick-view-twig,v1.1.2,,Concept stack brick: Twig view engine
+2026-11-07T10:00:30Z,undpaul/guzzle-oauth2-plugin,4.0.1,Bojan Zivanovic; Damien Tournoud; Patrick Dawkins; Daniel Macedo,An OAuth2 middleware for Guzzle based on commerceguys/guzzle-oauth2-plugin
