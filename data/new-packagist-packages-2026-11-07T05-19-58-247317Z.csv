@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-07T05:04:12Z,pharaonic/laravel-notification-dependencies,13.0.0,Moamen Eltouny (Raggi),Attach Laravel database notifications to Eloquent models and delete them automatically when any of those models is deleted.

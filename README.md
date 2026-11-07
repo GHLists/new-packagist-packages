@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 04:20 UTC
+## Latest list — 2026-11-07 05:19 UTC
 
-New packages created between 2026-11-07 03:21 UTC and 2026-11-07 04:20 UTC.
+New packages created between 2026-11-07 04:20 UTC and 2026-11-07 05:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T04-20-36-897703Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T05-19-58-247317Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 03:29:23 | [itmosoft/laravel-subscriptions](https://www.nuget.org/packages/itmosoft%2Flaravel-subscriptions) | v1.0.1 |  | Plan and subscription lifecycle management for Laravel applications. |
-| 2026-11-07 03:35:27 | [fflch/fixfflch](https://www.nuget.org/packages/fflch%2Ffixfflch) | 1.0.0 | Thiago Gomes Verissimo | Ajustes e correções customizadas para os sites da FFLCH USP. |
-| 2026-11-07 04:04:25 | [withvisionstack/performatic-framework](https://www.nuget.org/packages/withvisionstack%2Fperformatic-framework) | v1.1.0 |  | Framework PHP procedural com motor Rust — API sem Laravel, validação declarativ… |
+| 2026-11-07 05:04:12 | [pharaonic/laravel-notification-dependencies](https://www.nuget.org/packages/pharaonic%2Flaravel-notification-dependencies) | 13.0.0 | Moamen Eltouny (Raggi) | Attach Laravel database notifications to Eloquent models and delete them automa… |
 
 ## Data source
 
