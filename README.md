@@ -15,17 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 10:20 UTC
+## Latest list — 2026-11-07 11:21 UTC
 
-New packages created between 2026-11-07 09:21 UTC and 2026-11-07 10:20 UTC.
+New packages created between 2026-11-07 10:20 UTC and 2026-11-07 11:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T10-20-29-72071Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T11-21-41-665133Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 09:48:51 | [php-concept/brick-view-plates](https://www.nuget.org/packages/php-concept%2Fbrick-view-plates) | v1.1.2 |  | Concept stack brick: Plates view engine |
-| 2026-11-07 09:48:51 | [php-concept/brick-view-twig](https://www.nuget.org/packages/php-concept%2Fbrick-view-twig) | v1.1.2 |  | Concept stack brick: Twig view engine |
-| 2026-11-07 10:00:30 | [undpaul/guzzle-oauth2-plugin](https://www.nuget.org/packages/undpaul%2Fguzzle-oauth2-plugin) | 4.0.1 | Bojan Zivanovic; Damien Tourn… | An OAuth2 middleware for Guzzle based on commerceguys/guzzle-oauth2-plugin |
+| 2026-11-07 10:22:40 | [adedsec/nova-translated-labels](https://www.nuget.org/packages/adedsec%2Fnova-translated-labels) | v0.2.1 | Aref Maddah | Translate Laravel Nova menu groups, resources, fields, filters, actions and opt… |
+| 2026-11-07 10:26:34 | [syedgalib/plugin-scaffold-cli](https://www.nuget.org/packages/syedgalib%2Fplugin-scaffold-cli) | v0.1.2 |  | Interactive setup command for WP Plugin Scaffold |
+| 2026-11-07 10:42:00 | [syedgalib/wp-plugin-scaffold](https://www.nuget.org/packages/syedgalib%2Fwp-plugin-scaffold) | v0.0.1 | Syed Galib |  |
+| 2026-11-07 10:47:48 | [deadxfire/srin](https://www.nuget.org/packages/deadxfire%2Fsrin) | v1.0.1 | Arindam Makar | Srin - Lightweight, Secure Core PHP Static Website Engine developed by Arindam… |
+| 2026-11-07 11:14:22 | [relicsoftware/barakah-payment-gateway](https://www.nuget.org/packages/relicsoftware%2Fbarakah-payment-gateway) | v1.0.0 |  | The skeleton application for the Laravel framework. |
 
 ## Data source
 

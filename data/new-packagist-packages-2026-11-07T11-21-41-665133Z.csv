@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-07T10:22:40Z,adedsec/nova-translated-labels,v0.2.1,Aref Maddah,"Translate Laravel Nova menu groups, resources, fields, filters, actions and options from one lang file, and show each label's real database name in grey under it."
+2026-11-07T10:26:34Z,syedgalib/plugin-scaffold-cli,v0.1.2,,Interactive setup command for WP Plugin Scaffold
+2026-11-07T10:42:00Z,syedgalib/wp-plugin-scaffold,v0.0.1,Syed Galib,
+2026-11-07T10:47:48Z,deadxfire/srin,v1.0.1,Arindam Makar,"Srin - Lightweight, Secure Core PHP Static Website Engine developed by Arindam Makar"
+2026-11-07T11:14:22Z,relicsoftware/barakah-payment-gateway,v1.0.0,,The skeleton application for the Laravel framework.
