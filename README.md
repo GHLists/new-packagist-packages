@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 14:19 UTC
+## Latest list — 2026-11-07 15:20 UTC
 
-New packages created between 2026-11-07 13:19 UTC and 2026-11-07 14:19 UTC.
+New packages created between 2026-11-07 14:19 UTC and 2026-11-07 15:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T14-19-35-167324Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T15-20-30-916168Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 13:21:13 | [clesson-de/silverstripe-codeguard](https://www.nuget.org/packages/clesson-de%2Fsilverstripe-codeguard) | 0.0.1 |  | A read-only quality and security gate for SilverStripe modules and applications. |
-| 2026-11-07 13:25:20 | [ahmedsalheia/pyhp](https://www.nuget.org/packages/ahmedsalheia%2Fpyhp) | v0.1.0 | Ahmed Salheia | Use Python libraries (pandas, NumPy, ...) from PHP through a persistent Python… |
-| 2026-11-07 13:27:38 | [maco-studios/hephaestus](https://www.nuget.org/packages/maco-studios%2Fhephaestus) | v0.0.20 | Marcos "Marcão" Aurelio | An interactive Composer project factory for standalone Mage-OS projects. |
-| 2026-11-07 14:09:40 | [tualo/modsecuritylog](https://www.nuget.org/packages/tualo%2Fmodsecuritylog) | 1.0.1 | Thomas Hoffmann | ModSecurity Audit-Log Viewer for tualo office |
+| 2026-11-07 14:33:23 | [tualo/apachelog](https://www.nuget.org/packages/tualo%2Fapachelog) | 1.0.2 | Thomas Hoffmann | Apache Access/Error-Log Viewer for tualo office |
+| 2026-11-07 14:42:43 | [tualo/tualolog](https://www.nuget.org/packages/tualo%2Ftualolog) | 1.0.1 | Thomas Hoffmann | Tualo Application-Log Viewer for tualo office |
+| 2026-11-07 15:09:36 | [jeslage/statamic-emojis](https://www.nuget.org/packages/jeslage%2Fstatamic-emojis) | v1.0.0 | Johannes Eslage | Emoji picker for Statamic: Emoji and Emoji Text fieldtypes, a Bard button, shor… |
 
 ## Data source
 
