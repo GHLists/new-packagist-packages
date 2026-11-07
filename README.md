@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 06:19 UTC
+## Latest list — 2026-11-07 07:20 UTC
 
-New packages created between 2026-11-07 05:19 UTC and 2026-11-07 06:19 UTC.
+New packages created between 2026-11-07 06:19 UTC and 2026-11-07 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T06-19-54-572606Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T07-20-53-523872Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 06:06:19 | [spaceavocado/illogical](https://www.nuget.org/packages/spaceavocado%2Fillogical) | v1.0.0 | David Horak | A micro conditional engine used to parse raw logical and comparison expressions… |
+| 2026-11-07 07:07:26 | [cotizave/sdk](https://www.nuget.org/packages/cotizave%2Fsdk) | v0.1.0 | Cotizave | Official PHP SDK for the Cotizave API v2 — multi-country exchange-rate referenc… |
 
 ## Data source
 
