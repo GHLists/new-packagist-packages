@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 13:19 UTC
+## Latest list — 2026-11-07 14:19 UTC
 
-New packages created between 2026-11-07 12:19 UTC and 2026-11-07 13:19 UTC.
+New packages created between 2026-11-07 13:19 UTC and 2026-11-07 14:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T13-19-49-358912Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T14-19-35-167324Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 12:31:24 | [opscale-co/nova-genbi](https://www.nuget.org/packages/opscale-co%2Fnova-genbi) | 1.0.0 | Opscale | Generative BI for Laravel Nova: chat with an AI that reads your database schema… |
-| 2026-11-07 12:58:20 | [fruitcake/magento2-health-check](https://www.nuget.org/packages/fruitcake%2Fmagento2-health-check) | v0.1.0 | Fruitcake | Magento 2 health check endpoint with pluggable checks |
-| 2026-11-07 13:01:19 | [sovware/plugin-scaffold-cli](https://www.nuget.org/packages/sovware%2Fplugin-scaffold-cli) | v0.1.0 |  | Interactive setup command for WP Plugin Scaffold |
-| 2026-11-07 13:03:04 | [sovware/wp-plugin-scaffold](https://www.nuget.org/packages/sovware%2Fwp-plugin-scaffold) | v0.0.1 | Syed Galib |  |
+| 2026-11-07 13:21:13 | [clesson-de/silverstripe-codeguard](https://www.nuget.org/packages/clesson-de%2Fsilverstripe-codeguard) | 0.0.1 |  | A read-only quality and security gate for SilverStripe modules and applications. |
+| 2026-11-07 13:25:20 | [ahmedsalheia/pyhp](https://www.nuget.org/packages/ahmedsalheia%2Fpyhp) | v0.1.0 | Ahmed Salheia | Use Python libraries (pandas, NumPy, ...) from PHP through a persistent Python… |
+| 2026-11-07 13:27:38 | [maco-studios/hephaestus](https://www.nuget.org/packages/maco-studios%2Fhephaestus) | v0.0.20 | Marcos "Marcão" Aurelio | An interactive Composer project factory for standalone Mage-OS projects. |
+| 2026-11-07 14:09:40 | [tualo/modsecuritylog](https://www.nuget.org/packages/tualo%2Fmodsecuritylog) | 1.0.1 | Thomas Hoffmann | ModSecurity Audit-Log Viewer for tualo office |
 
 ## Data source
 

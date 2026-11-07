@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-07T13:21:13Z,clesson-de/silverstripe-codeguard,0.0.1,,A read-only quality and security gate for SilverStripe modules and applications.
+2026-11-07T13:25:20Z,ahmedsalheia/pyhp,v0.1.0,Ahmed Salheia,"Use Python libraries (pandas, NumPy, ...) from PHP through a persistent Python worker and object proxies."
+2026-11-07T13:27:38Z,maco-studios/hephaestus,v0.0.20,"Marcos ""Marcão"" Aurelio",An interactive Composer project factory for standalone Mage-OS projects.
+2026-11-07T14:09:40Z,tualo/modsecuritylog,1.0.1,Thomas Hoffmann,ModSecurity Audit-Log Viewer for tualo office
