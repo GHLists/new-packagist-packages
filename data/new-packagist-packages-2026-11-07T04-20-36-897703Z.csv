@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-07T03:29:23Z,itmosoft/laravel-subscriptions,v1.0.1,,Plan and subscription lifecycle management for Laravel applications.
+2026-11-07T03:35:27Z,fflch/fixfflch,1.0.0,Thiago Gomes Verissimo,Ajustes e correções customizadas para os sites da FFLCH USP.
+2026-11-07T04:04:25Z,withvisionstack/performatic-framework,v1.1.0,,"Framework PHP procedural com motor Rust — API sem Laravel, validação declarativa, OpenAPI automático"

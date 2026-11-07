@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 02:21 UTC
+## Latest list — 2026-11-07 04:20 UTC
 
-New packages created between 2026-11-07 01:21 UTC and 2026-11-07 02:21 UTC.
+New packages created between 2026-11-07 03:21 UTC and 2026-11-07 04:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T02-21-49-894126Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T04-20-36-897703Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 01:43:52 | [inilim/sensitive-value](https://www.nuget.org/packages/inilim%2Fsensitive-value) | 0.1.20261107 | inilim; Web community |  |
-| 2026-11-07 02:02:09 | [netherphp/filter](https://www.nuget.org/packages/netherphp%2Ffilter) | v0.0.1 | bobmagicii | Commonly used input/output data filters. |
-| 2026-11-07 02:03:47 | [netherphp/datastore](https://www.nuget.org/packages/netherphp%2Fdatastore) | v0.0.1 | bobmagicii | Redux of Datastore from Common |
+| 2026-11-07 03:29:23 | [itmosoft/laravel-subscriptions](https://www.nuget.org/packages/itmosoft%2Flaravel-subscriptions) | v1.0.1 |  | Plan and subscription lifecycle management for Laravel applications. |
+| 2026-11-07 03:35:27 | [fflch/fixfflch](https://www.nuget.org/packages/fflch%2Ffixfflch) | 1.0.0 | Thiago Gomes Verissimo | Ajustes e correções customizadas para os sites da FFLCH USP. |
+| 2026-11-07 04:04:25 | [withvisionstack/performatic-framework](https://www.nuget.org/packages/withvisionstack%2Fperformatic-framework) | v1.1.0 |  | Framework PHP procedural com motor Rust — API sem Laravel, validação declarativ… |
 
 ## Data source
 
