@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-07T16:31:30Z,siberfx/flysystem-wasabi,0.1.1,Selim Görmüş,Wasabi Hot Cloud Storage filesystem driver for Laravel 12 and 13 (Flysystem v3).
+2026-11-07T16:35:46Z,tihloh/smsgate,v0.1.0,Christian Borsal Bustamante,"Framework-independent SMSGate integration: approved Android gateways, personalized SMS queues, and durable incoming events."
+2026-11-07T16:36:47Z,clesson-de/silverstripe-pdf-templates,1.0.0,Kai Feldmaier,"PDF template management for Silverstripe CMS. Define page layouts with margins, backgrounds and font colours, then generate PDFs via FPDF."
+2026-11-07T16:47:10Z,simonschaufi/typo3-cms-scanner,v14.0.0,Christian Kuhn; Oliver Hader; Marcus Schwemer; Simon Schaufelberger,TYPO3 CMS static file analysis
