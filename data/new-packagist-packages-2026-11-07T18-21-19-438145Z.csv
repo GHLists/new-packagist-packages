@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-07T17:22:21Z,noldors/deptrac-config,v0.1.0,,Opt-in native Deptrac presets for explicit PHP architecture boundaries.

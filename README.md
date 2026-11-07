@@ -15,18 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 17:21 UTC
+## Latest list — 2026-11-07 18:21 UTC
 
-New packages created between 2026-11-07 16:19 UTC and 2026-11-07 17:21 UTC.
+New packages created between 2026-11-07 17:21 UTC and 2026-11-07 18:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T17-21-01-990082Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T18-21-19-438145Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 16:31:30 | [siberfx/flysystem-wasabi](https://www.nuget.org/packages/siberfx%2Fflysystem-wasabi) | 0.1.1 | Selim Görmüş | Wasabi Hot Cloud Storage filesystem driver for Laravel 12 and 13 (Flysystem v3). |
-| 2026-11-07 16:35:46 | [tihloh/smsgate](https://www.nuget.org/packages/tihloh%2Fsmsgate) | v0.1.0 | Christian Borsal Bustamante | Framework-independent SMSGate integration: approved Android gateways, personali… |
-| 2026-11-07 16:36:47 | [clesson-de/silverstripe-pdf-templates](https://www.nuget.org/packages/clesson-de%2Fsilverstripe-pdf-templates) | 1.0.0 | Kai Feldmaier | PDF template management for Silverstripe CMS. Define page layouts with margins,… |
-| 2026-11-07 16:47:10 | [simonschaufi/typo3-cms-scanner](https://www.nuget.org/packages/simonschaufi%2Ftypo3-cms-scanner) | v14.0.0 | Christian Kuhn; Oliver Hader;… | TYPO3 CMS static file analysis |
+| 2026-11-07 17:22:21 | [noldors/deptrac-config](https://www.nuget.org/packages/noldors%2Fdeptrac-config) | v0.1.0 |  | Opt-in native Deptrac presets for explicit PHP architecture boundaries. |
 
 ## Data source
 
