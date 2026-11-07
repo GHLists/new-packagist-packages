@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-07T15:29:36Z,andydefer/laravel-support,v0.2.0,Andy Kani,Client support ticketing system for Laravel with polymorphic author/assignee and notification-based messages.
+2026-11-07T15:31:07Z,phview/framework,v1.0.0,Rafael Faria,Declarative Server-Side Rendering (SSR) engine in PHP with native Alpine.js integration
+2026-11-07T15:33:03Z,prestashopheaven/build-tools,v1.0.1,George van Engers,"The PrestaHaven module factory: the ps-module command (checks, PHPStan per PrestaShop version, release zip with scoped packages, Docker test shops, docs, translations, publishing, git workflow, definition-of-done stamps). Successor of module-dev-tools."
+2026-11-07T15:37:54Z,lgu-bayambang-ict-office/lgu-laravel-development-standards,v1.0.0,Ricky Bulalakaw; Information and Communications Technology Office (ICTO),"Philippine LGU statutory engineering standards, architecture traits, AI compliance auditor, and governance protocols for Laravel."
+2026-11-07T15:49:43Z,shoplygg/shoply-php,v0.9.0,,"Shoply's API from your own server: every route as a method, safe retries, pages, checking webhooks, and OAuth for apps."
+2026-11-07T16:02:24Z,payerurl/telegrambot-crypto-payment-instant-payout,1.0.0,Rashiqul Rony,telegram crypto payment gateway laravel
