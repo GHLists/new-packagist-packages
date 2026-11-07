@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 23:19 UTC
+## Latest list — 2026-11-07 00:21 UTC
 
-New packages created between 2026-11-06 22:20 UTC and 2026-11-06 23:19 UTC.
+New packages created between 2026-11-06 23:19 UTC and 2026-11-07 00:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-06T23-19-27-85818Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T00-21-48-84922Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 22:43:54 | [diephp/telegraph](https://www.nuget.org/packages/diephp%2Ftelegraph) | v2.0.1 | Fabio Ivona | Focused Laravel Telegram integration for Restsify notifications and bot callbac… |
-| 2026-11-06 23:05:43 | [store-doc/laravel-storage-driver](https://www.nuget.org/packages/store-doc%2Flaravel-storage-driver) | v1.0.0 | Store-Doc Team | Laravel Storage Driver for Store-Doc S3-compatible storage service with complet… |
-| 2026-11-06 23:09:17 | [vallic/domain-investors](https://www.nuget.org/packages/vallic%2Fdomain-investors) | 1.0.0 |  | Sell your own domain names from your own site: a Drupal Commerce starter for on… |
+| 2026-11-06 23:45:05 | [nmangold/drush-updbex](https://www.nuget.org/packages/nmangold%2Fdrush-updbex) | 1.0.0 |  | A standalone Drush command to rebuild caches, run database updates, and conditi… |
+| 2026-11-06 23:51:18 | [johannesclimacus/laravel-tui](https://www.nuget.org/packages/johannesclimacus%2Flaravel-tui) | v0.1.0-alpha.1 | johannesclimacus | TUI for Laravel |
+| 2026-11-07 00:09:58 | [jonpurvis/monzo-php-sdk](https://www.nuget.org/packages/jonpurvis%2Fmonzo-php-sdk) | v1.0.0 | Jon Purvis | Framework-agnostic Monzo Developer API SDK built with Saloon |
 
 ## Data source
 
