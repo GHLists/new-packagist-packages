@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 01:21 UTC
+## Latest list — 2026-11-07 02:21 UTC
 
-New packages created between 2026-11-07 00:21 UTC and 2026-11-07 01:21 UTC.
+New packages created between 2026-11-07 01:21 UTC and 2026-11-07 02:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T01-21-24-591011Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T02-21-49-894126Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 00:47:04 | [wumx-labs/noxaeapi-sdk-php](https://www.nuget.org/packages/wumx-labs%2Fnoxaeapi-sdk-php) | 0.7.0 | Wumx Labs | Official PHP SDK for the NoxAeApi Minecraft REST API suite and Velocity Network… |
-| 2026-11-07 01:00:13 | [scottkeckwarren/leash](https://www.nuget.org/packages/scottkeckwarren%2Fleash) | v0.1.0 |  | Keep your keywords on a leash: link the first mention of each keyword in markdo… |
-| 2026-11-07 01:17:21 | [ouhssini/laravel-demo-mode](https://www.nuget.org/packages/ouhssini%2Flaravel-demo-mode) | v1.0.0 |  | A lightweight demo mode package for Laravel applications with Inertia support. |
+| 2026-11-07 01:43:52 | [inilim/sensitive-value](https://www.nuget.org/packages/inilim%2Fsensitive-value) | 0.1.20261107 | inilim; Web community |  |
+| 2026-11-07 02:02:09 | [netherphp/filter](https://www.nuget.org/packages/netherphp%2Ffilter) | v0.0.1 | bobmagicii | Commonly used input/output data filters. |
+| 2026-11-07 02:03:47 | [netherphp/datastore](https://www.nuget.org/packages/netherphp%2Fdatastore) | v0.0.1 | bobmagicii | Redux of Datastore from Common |
 
 ## Data source
 
