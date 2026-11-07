@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-07T22:25:23Z,faghy/laracashbook,v1.0.1,Serafino Christian,"A simple Laravel cash book: track income and expenses for several entities, with categories, filters, CSV export, trash and a summary dashboard."
+2026-11-07T22:29:56Z,nirgendheim/frontend-focusbox,0.1.1,,Focusbox: Fotobooth- und Galerie-Layout fuer das fremeo Frontend.
+2026-11-07T22:36:55Z,ernestdefoe/lectern,1.0.0,Ernest Defoe,"Lectern — read PDFs, Word documents and spreadsheets right inside the post: thumbnails, search, zoom, print and full screen for PDFs, pages for Word, sheets for Excel. Works with FoF Upload and plain links, in any editor. Viewers load only when someone opens a file, and files never leave your forum."
+2026-11-07T22:42:50Z,fvildoso/sii-dte-php,v2026.11.07-4242190…,Felipe E. Vildoso Castillo,Librería PHP para integración con DTE (Documentos Tributarios Electrónicos) del SII de Chile
+2026-11-07T23:03:32Z,jeslage/statamic-emojis,v1.0.0,Johannes Eslage,"Emoji picker for Statamic: Emoji and Emoji Text fieldtypes, a Bard button, shortcode suggestions, custom emojis and Noto, Fluent or OpenMoji sets"

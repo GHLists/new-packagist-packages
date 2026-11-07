@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 22:20 UTC
+## Latest list — 2026-11-07 23:19 UTC
 
-New packages created between 2026-11-07 21:19 UTC and 2026-11-07 22:20 UTC.
+New packages created between 2026-11-07 22:20 UTC and 2026-11-07 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T22-20-16-915249Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T23-19-21-983228Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 21:23:32 | [ophelix/ophelix-php](https://www.nuget.org/packages/ophelix%2Fophelix-php) | v0.1.0 | Lunify SAS | Bibliothèque PHP officielle de l'API Ophelix : facturation de l'Assurance Malad… |
-| 2026-11-07 21:27:50 | [flagbearer/flagbearer](https://www.nuget.org/packages/flagbearer%2Fflagbearer) | v0.1.0 |  | Flagbearer PHP SDK |
-| 2026-11-07 21:46:31 | [goaop/goaop-yii3-bridge](https://www.nuget.org/packages/goaop%2Fgoaop-yii3-bridge) | 1.0.0 | Lisachenko Alexander | Integration bridge for Go! AOP framework and Yii3 |
-| 2026-11-07 21:55:16 | [ankane/php-memcheck](https://www.nuget.org/packages/ankane%2Fphp-memcheck) | v0.1.0 | Andrew Kane | Check PHP FFI bindings for memory issues |
-| 2026-11-07 22:01:24 | [flytachi/winter-sdk-s5w](https://www.nuget.org/packages/flytachi%2Fwinter-sdk-s5w) | v1.0.0 | Flytachi | PHP SDK for S5W, the file store and CDN: buckets, folders, uploads with resumab… |
-| 2026-11-07 22:01:47 | [romanfedorskij/seed](https://www.nuget.org/packages/romanfedorskij%2Fseed) | v0.1.0 | Roman Fedorskij | Framework-agnostic toolkit for versioned, fingerprinted data seeds |
+| 2026-11-07 22:25:23 | [faghy/laracashbook](https://www.nuget.org/packages/faghy%2Flaracashbook) | v1.0.1 | Serafino Christian | A simple Laravel cash book: track income and expenses for several entities, wit… |
+| 2026-11-07 22:29:56 | [nirgendheim/frontend-focusbox](https://www.nuget.org/packages/nirgendheim%2Ffrontend-focusbox) | 0.1.1 |  | Focusbox: Fotobooth- und Galerie-Layout fuer das fremeo Frontend. |
+| 2026-11-07 22:36:55 | [ernestdefoe/lectern](https://www.nuget.org/packages/ernestdefoe%2Flectern) | 1.0.0 | Ernest Defoe | Lectern — read PDFs, Word documents and spreadsheets right inside the post: thu… |
+| 2026-11-07 22:42:50 | [fvildoso/sii-dte-php](https://www.nuget.org/packages/fvildoso%2Fsii-dte-php) | v2026.11.07-4242190… | Felipe E. Vildoso Castillo | Librería PHP para integración con DTE (Documentos Tributarios Electrónicos) del… |
+| 2026-11-07 23:03:32 | [jeslage/statamic-emojis](https://www.nuget.org/packages/jeslage%2Fstatamic-emojis) | v1.0.0 | Johannes Eslage | Emoji picker for Statamic: Emoji and Emoji Text fieldtypes, a Bard button, shor… |
 
 ## Data source
 
