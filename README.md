@@ -15,19 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 11:21 UTC
+## Latest list — 2026-11-07 12:19 UTC
 
-New packages created between 2026-11-07 10:20 UTC and 2026-11-07 11:21 UTC.
+New packages created between 2026-11-07 11:21 UTC and 2026-11-07 12:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T11-21-41-665133Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T12-19-03-925602Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 10:22:40 | [adedsec/nova-translated-labels](https://www.nuget.org/packages/adedsec%2Fnova-translated-labels) | v0.2.1 | Aref Maddah | Translate Laravel Nova menu groups, resources, fields, filters, actions and opt… |
-| 2026-11-07 10:26:34 | [syedgalib/plugin-scaffold-cli](https://www.nuget.org/packages/syedgalib%2Fplugin-scaffold-cli) | v0.1.2 |  | Interactive setup command for WP Plugin Scaffold |
-| 2026-11-07 10:42:00 | [syedgalib/wp-plugin-scaffold](https://www.nuget.org/packages/syedgalib%2Fwp-plugin-scaffold) | v0.0.1 | Syed Galib |  |
-| 2026-11-07 10:47:48 | [deadxfire/srin](https://www.nuget.org/packages/deadxfire%2Fsrin) | v1.0.1 | Arindam Makar | Srin - Lightweight, Secure Core PHP Static Website Engine developed by Arindam… |
-| 2026-11-07 11:14:22 | [relicsoftware/barakah-payment-gateway](https://www.nuget.org/packages/relicsoftware%2Fbarakah-payment-gateway) | v1.0.0 |  | The skeleton application for the Laravel framework. |
+| 2026-11-07 11:39:35 | [cabaoctavio/laravel-query-log](https://www.nuget.org/packages/cabaoctavio%2Flaravel-query-log) | v1.0.0 | Octavio Caba | Eloquent model trait that logs the SQL query built so far, at any point of the… |
+| 2026-11-07 12:01:29 | [itsjustvita/laravel-retention](https://www.nuget.org/packages/itsjustvita%2Flaravel-retention) | v0.1.0 | Vitalis Feist-Wurm | Declare data retention rules on Eloquent models, enforce them automatically and… |
 
 ## Data source
 

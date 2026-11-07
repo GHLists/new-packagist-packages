@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-07T11:39:35Z,cabaoctavio/laravel-query-log,v1.0.0,Octavio Caba,"Eloquent model trait that logs the SQL query built so far, at any point of the builder chain."
+2026-11-07T12:01:29Z,itsjustvita/laravel-retention,v0.1.0,Vitalis Feist-Wurm,"Declare data retention rules on Eloquent models, enforce them automatically and generate a DIN 66398 deletion concept (Löschkonzept) from the same declarations."
