@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-07T21:23:32Z,ophelix/ophelix-php,v0.1.0,Lunify SAS,Bibliothèque PHP officielle de l'API Ophelix : facturation de l'Assurance Maladie.
+2026-11-07T21:27:50Z,flagbearer/flagbearer,v0.1.0,,Flagbearer PHP SDK
+2026-11-07T21:46:31Z,goaop/goaop-yii3-bridge,1.0.0,Lisachenko Alexander,Integration bridge for Go! AOP framework and Yii3
+2026-11-07T21:55:16Z,ankane/php-memcheck,v0.1.0,Andrew Kane,Check PHP FFI bindings for memory issues
+2026-11-07T22:01:24Z,flytachi/winter-sdk-s5w,v1.0.0,Flytachi,"PHP SDK for S5W, the file store and CDN: buckets, folders, uploads with resumable chunking and deduplication, image processing, typed entities and errors."
+2026-11-07T22:01:47Z,romanfedorskij/seed,v0.1.0,Roman Fedorskij,"Framework-agnostic toolkit for versioned, fingerprinted data seeds"
