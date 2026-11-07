@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 00:21 UTC
+## Latest list — 2026-11-07 01:21 UTC
 
-New packages created between 2026-11-06 23:19 UTC and 2026-11-07 00:21 UTC.
+New packages created between 2026-11-07 00:21 UTC and 2026-11-07 01:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T00-21-48-84922Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T01-21-24-591011Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-06 23:45:05 | [nmangold/drush-updbex](https://www.nuget.org/packages/nmangold%2Fdrush-updbex) | 1.0.0 |  | A standalone Drush command to rebuild caches, run database updates, and conditi… |
-| 2026-11-06 23:51:18 | [johannesclimacus/laravel-tui](https://www.nuget.org/packages/johannesclimacus%2Flaravel-tui) | v0.1.0-alpha.1 | johannesclimacus | TUI for Laravel |
-| 2026-11-07 00:09:58 | [jonpurvis/monzo-php-sdk](https://www.nuget.org/packages/jonpurvis%2Fmonzo-php-sdk) | v1.0.0 | Jon Purvis | Framework-agnostic Monzo Developer API SDK built with Saloon |
+| 2026-11-07 00:47:04 | [wumx-labs/noxaeapi-sdk-php](https://www.nuget.org/packages/wumx-labs%2Fnoxaeapi-sdk-php) | 0.7.0 | Wumx Labs | Official PHP SDK for the NoxAeApi Minecraft REST API suite and Velocity Network… |
+| 2026-11-07 01:00:13 | [scottkeckwarren/leash](https://www.nuget.org/packages/scottkeckwarren%2Fleash) | v0.1.0 |  | Keep your keywords on a leash: link the first mention of each keyword in markdo… |
+| 2026-11-07 01:17:21 | [ouhssini/laravel-demo-mode](https://www.nuget.org/packages/ouhssini%2Flaravel-demo-mode) | v1.0.0 |  | A lightweight demo mode package for Laravel applications with Inertia support. |
 
 ## Data source
 
