@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-07T18:55:35Z,codehq-dk/my-dashboard-widget-tester,1.0.0,Jesper Østergaard Jensen,Mydashboard widget tester for development of new widgets
+2026-11-07T18:57:27Z,noldors/oauth2-jwt-bearer,v0.1.0,,RFC 7523 JWT Bearer Grant for League OAuth2 Server with optional Laravel Passport integration.
+2026-11-07T19:12:35Z,dskripchenko/laravel-llm,v0.1.0,Denis Skripchenko,"Local LLMs for Laravel through OpenAI-compatible APIs (Ollama, vLLM, LM Studio, llama.cpp): providers and purpose routes in the database with fallback, versioned prompt templates, structured output validated against a JSON schema, a call log with pruning, token quotas, a process-engine effect and a…"

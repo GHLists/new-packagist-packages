@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 18:21 UTC
+## Latest list — 2026-11-07 19:19 UTC
 
-New packages created between 2026-11-07 17:21 UTC and 2026-11-07 18:21 UTC.
+New packages created between 2026-11-07 18:21 UTC and 2026-11-07 19:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T18-21-19-438145Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T19-19-29-958208Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 17:22:21 | [noldors/deptrac-config](https://www.nuget.org/packages/noldors%2Fdeptrac-config) | v0.1.0 |  | Opt-in native Deptrac presets for explicit PHP architecture boundaries. |
+| 2026-11-07 18:55:35 | [codehq-dk/my-dashboard-widget-tester](https://www.nuget.org/packages/codehq-dk%2Fmy-dashboard-widget-tester) | 1.0.0 | Jesper Østergaard Jensen | Mydashboard widget tester for development of new widgets |
+| 2026-11-07 18:57:27 | [noldors/oauth2-jwt-bearer](https://www.nuget.org/packages/noldors%2Foauth2-jwt-bearer) | v0.1.0 |  | RFC 7523 JWT Bearer Grant for League OAuth2 Server with optional Laravel Passpo… |
+| 2026-11-07 19:12:35 | [dskripchenko/laravel-llm](https://www.nuget.org/packages/dskripchenko%2Flaravel-llm) | v0.1.0 | Denis Skripchenko | Local LLMs for Laravel through OpenAI-compatible APIs (Ollama, vLLM, LM Studio,… |
 
 ## Data source
 
