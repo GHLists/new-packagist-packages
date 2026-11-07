@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 08:21 UTC
+## Latest list — 2026-11-07 09:21 UTC
 
-New packages created between 2026-11-07 07:20 UTC and 2026-11-07 08:21 UTC.
+New packages created between 2026-11-07 08:21 UTC and 2026-11-07 09:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T08-21-39-502908Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T09-21-23-016497Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 07:30:09 | [srikanta159/net_routeros_php](https://www.nuget.org/packages/srikanta159%2Fnet_routeros_php) | v1.0.0 | Srikanta Das; Vasil Rangelov | Modern PHP client for MikroTik RouterOS API with complete RouterOS v7 and v6 co… |
-| 2026-11-07 08:11:59 | [yaknet/api-client-services](https://www.nuget.org/packages/yaknet%2Fapi-client-services) | v1.0.1 | YakNet Bilişim | Official PHP API Client & Cloud Services SDK for YakNet Developer Console (Clou… |
+| 2026-11-07 08:31:03 | [cboxdk/laravel-assistant-client](https://www.nuget.org/packages/cboxdk%2Flaravel-assistant-client) | v0.1.0 |  | Cbox Assistant client for Laravel: signed tools, product support and curated kn… |
+| 2026-11-07 09:17:46 | [tribble/emoji](https://www.nuget.org/packages/tribble%2Femoji) | 1.0.1 | Alex Brindley | Fluent emoji for tribble |
+| 2026-11-07 09:19:15 | [rapttor/yii2-postar](https://www.nuget.org/packages/rapttor%2Fyii2-postar) | v0.1.0 | Rapttor | Symfony Mailer transport for the Postar mail API (POST /v1/send) for yiisoft/yi… |
 
 ## Data source
 

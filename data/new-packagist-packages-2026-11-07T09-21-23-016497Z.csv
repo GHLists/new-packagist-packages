@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-07T08:31:03Z,cboxdk/laravel-assistant-client,v0.1.0,,"Cbox Assistant client for Laravel: signed tools, product support and curated knowledge."
+2026-11-07T09:17:46Z,tribble/emoji,1.0.1,Alex Brindley,Fluent emoji for tribble
+2026-11-07T09:19:15Z,rapttor/yii2-postar,v0.1.0,Rapttor,Symfony Mailer transport for the Postar mail API (POST /v1/send) for yiisoft/yii2-symfonymailer: configure mail sending with one DSN.
