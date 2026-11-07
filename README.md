@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 20:20 UTC
+## Latest list — 2026-11-07 21:19 UTC
 
-New packages created between 2026-11-07 19:19 UTC and 2026-11-07 20:20 UTC.
+New packages created between 2026-11-07 20:20 UTC and 2026-11-07 21:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-07T20-20-57-023079Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-07T21-19-55-510944Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 19:41:27 | [labyrinthe/connect-laravel](https://www.nuget.org/packages/labyrinthe%2Fconnect-laravel) | v1.2.0 | Labyrinthe Connect | Laravel integration for Labyrinthe Connect: SMS notification channel, OTP helpe… |
-| 2026-11-07 20:01:59 | [jield/framework](https://www.nuget.org/packages/jield%2Fframework) | v0.1.0-alpha.1 | Johan van der Heide | A modular PHP framework built on top of Laminas, Doctrine, and other powerful l… |
+| 2026-11-07 20:43:00 | [fom/module-page-builder-image-resize](https://www.nuget.org/packages/fom%2Fmodule-page-builder-image-resize) | 1.0.0 | Friends of Magento | Per-image desktop and mobile resize settings for Magento Page Builder images an… |
+| 2026-11-07 20:43:00 | [fom/module-page-builder-image-resize-examples](https://www.nuget.org/packages/fom%2Fmodule-page-builder-image-resize-examples) | 1.0.0 | Friends of Magento | Image resize support for the official Page Builder FAQ and Quote example conten… |
 
 ## Data source
 
