@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-07T12:31:24Z,opscale-co/nova-genbi,1.0.0,Opscale,"Generative BI for Laravel Nova: chat with an AI that reads your database schema, writes read-only SQL, and builds native Nova dashboards and streamed exportable reports"
+2026-11-07T12:58:20Z,fruitcake/magento2-health-check,v0.1.0,Fruitcake,Magento 2 health check endpoint with pluggable checks
+2026-11-07T13:01:19Z,sovware/plugin-scaffold-cli,v0.1.0,,Interactive setup command for WP Plugin Scaffold
+2026-11-07T13:03:04Z,sovware/wp-plugin-scaffold,v0.0.1,Syed Galib,
