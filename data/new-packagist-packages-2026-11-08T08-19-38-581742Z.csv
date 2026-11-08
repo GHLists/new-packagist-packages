@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-08T07:49:59Z,kraenzle-ritter/skos,v0.1.0,Andreas Kränzle,"SKOS vocabularies in PHP: concepts and concept schemes as plain value objects, written to Turtle, RDF/XML and N-Triples with EasyRdf. Labels per language, notations, notes, broader/narrower/related with inverses completed, mapping properties, top concepts and subtrees. Framework-agnostic; consumed…"

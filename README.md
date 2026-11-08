@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 06:19 UTC
+## Latest list — 2026-11-08 08:19 UTC
 
-New packages created between 2026-11-08 05:19 UTC and 2026-11-08 06:19 UTC.
+New packages created between 2026-11-08 07:19 UTC and 2026-11-08 08:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-08T06-19-45-420783Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-08T08-19-38-581742Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-08 05:26:30 | [dipesh/date](https://www.nuget.org/packages/dipesh%2Fdate) | v1.0.0 | dipesh pokhrel | System-level BS (Bikram Sambat) date value object for PHP: parsing, components,… |
-| 2026-11-08 05:36:01 | [fraudnova/fraudnova-php](https://www.nuget.org/packages/fraudnova%2Ffraudnova-php) | v1.0.1 | FraudNova | Official PHP client for the FraudNova fraud-detection API: fraud scores and ris… |
+| 2026-11-08 07:49:59 | [kraenzle-ritter/skos](https://www.nuget.org/packages/kraenzle-ritter%2Fskos) | v0.1.0 | Andreas Kränzle | SKOS vocabularies in PHP: concepts and concept schemes as plain value objects,… |
 
 ## Data source
 
