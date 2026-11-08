@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 11:21 UTC
+## Latest list — 2026-11-08 12:20 UTC
 
-New packages created between 2026-11-08 10:21 UTC and 2026-11-08 11:21 UTC.
+New packages created between 2026-11-08 11:21 UTC and 2026-11-08 12:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-08T11-21-09-15947Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-08T12-20-11-746863Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-08 10:25:01 | [gismatul/laravel-support-chat](https://www.nuget.org/packages/gismatul%2Flaravel-support-chat) | v1.2.0 | Gismat Mammadov | Website live-chat widget for Laravel where your team answers from Telegram or f… |
-| 2026-11-08 10:25:02 | [gismatul/nova-support-chat](https://www.nuget.org/packages/gismatul%2Fnova-support-chat) | v1.2.0 | Gismat Mammadov | Laravel Nova admin panel for gismatul/laravel-support-chat: read, answer and cl… |
-| 2026-11-08 10:40:37 | [mulertech/blog-bundle](https://www.nuget.org/packages/mulertech%2Fblog-bundle) | v1.0.0 | Sébastien Muler | Symfony bundle for a Markdown blog: shared article model, admin, public pages,… |
-| 2026-11-08 10:59:22 | [codebypinar/glpi-guard](https://www.nuget.org/packages/codebypinar%2Fglpi-guard) | v0.1.0 | Pınar Topuz | Read-only security audit for your own GLPI installation: known vulnerabilities,… |
+| 2026-11-08 11:33:31 | [cpsit/import-export-core](https://www.nuget.org/packages/cpsit%2Fimport-export-core) | 0.1.0 | Dirk Wenzel | Core library for import/export functionality |
+| 2026-11-08 11:41:58 | [pdir/contao-workmate-agent-bundle](https://www.nuget.org/packages/pdir%2Fcontao-workmate-agent-bundle) | v1.0.1 | pdir GmbH | Workmate agent for Contao projects: commits the database backup and composer.lo… |
+| 2026-11-08 12:18:05 | [ikhbarnuridev/filament-mega-menu](https://www.nuget.org/packages/ikhbarnuridev%2Ffilament-mega-menu) | v1.0.0 | ikhbarnuridev | Topbar navigation groups that overflow onto a second row become a full-width me… |
 
 ## Data source
 

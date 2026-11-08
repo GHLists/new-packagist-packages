@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-08T11:33:31Z,cpsit/import-export-core,0.1.0,Dirk Wenzel,Core library for import/export functionality
+2026-11-08T11:41:58Z,pdir/contao-workmate-agent-bundle,v1.0.1,pdir GmbH,Workmate agent for Contao projects: commits the database backup and composer.lock before and after a Contao update
+2026-11-08T12:18:05Z,ikhbarnuridev/filament-mega-menu,v1.0.0,ikhbarnuridev,Topbar navigation groups that overflow onto a second row become a full-width mega menu instead.
