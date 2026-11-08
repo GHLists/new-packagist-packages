@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 08:19 UTC
+## Latest list — 2026-11-08 10:21 UTC
 
-New packages created between 2026-11-08 07:19 UTC and 2026-11-08 08:19 UTC.
+New packages created between 2026-11-08 09:20 UTC and 2026-11-08 10:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-08T08-19-38-581742Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-08T10-21-28-266694Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-08 07:49:59 | [kraenzle-ritter/skos](https://www.nuget.org/packages/kraenzle-ritter%2Fskos) | v0.1.0 | Andreas Kränzle | SKOS vocabularies in PHP: concepts and concept schemes as plain value objects,… |
+| 2026-11-08 09:38:53 | [agrekom/customization-baselinker](https://www.nuget.org/packages/agrekom%2Fcustomization-baselinker) | v1.1.0 |  | Customization for BaseLinker |
 
 ## Data source
 
