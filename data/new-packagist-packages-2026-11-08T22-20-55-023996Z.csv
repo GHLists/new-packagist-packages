@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-08T21:23:25Z,jeffersongoncalves/filament-centrifugo,1.0.1,,
+2026-11-08T21:31:04Z,pembayaranku/php-sdk,1.0.0,PT MEDIA SIRINGO ABADI,Official PHP SDK for PembayaranKU Merchant API V1
+2026-11-08T21:35:25Z,henzeb/housepedia-intelligence,v1.0.0,Henze Berkheij,Framework-independent PHP SDK for the Housepedia Intelligence API
+2026-11-08T21:35:29Z,henzeb/housepedia-intelligence-laravel,v1.0.0,Henze Berkheij,Laravel integration for the Housepedia Intelligence PHP SDK
+2026-11-08T21:40:35Z,kusikusicms/routes,v13.2.0,,"Run-time routes for KusikusiCMS entities: slug-based paths, redirects and a catch-all resolver."
