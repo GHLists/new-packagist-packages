@@ -15,15 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 10:21 UTC
+## Latest list — 2026-11-08 11:21 UTC
 
-New packages created between 2026-11-08 09:20 UTC and 2026-11-08 10:21 UTC.
+New packages created between 2026-11-08 10:21 UTC and 2026-11-08 11:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-08T10-21-28-266694Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-08T11-21-09-15947Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-08 09:38:53 | [agrekom/customization-baselinker](https://www.nuget.org/packages/agrekom%2Fcustomization-baselinker) | v1.1.0 |  | Customization for BaseLinker |
+| 2026-11-08 10:25:01 | [gismatul/laravel-support-chat](https://www.nuget.org/packages/gismatul%2Flaravel-support-chat) | v1.2.0 | Gismat Mammadov | Website live-chat widget for Laravel where your team answers from Telegram or f… |
+| 2026-11-08 10:25:02 | [gismatul/nova-support-chat](https://www.nuget.org/packages/gismatul%2Fnova-support-chat) | v1.2.0 | Gismat Mammadov | Laravel Nova admin panel for gismatul/laravel-support-chat: read, answer and cl… |
+| 2026-11-08 10:40:37 | [mulertech/blog-bundle](https://www.nuget.org/packages/mulertech%2Fblog-bundle) | v1.0.0 | Sébastien Muler | Symfony bundle for a Markdown blog: shared article model, admin, public pages,… |
+| 2026-11-08 10:59:22 | [codebypinar/glpi-guard](https://www.nuget.org/packages/codebypinar%2Fglpi-guard) | v0.1.0 | Pınar Topuz | Read-only security audit for your own GLPI installation: known vulnerabilities,… |
 
 ## Data source
 

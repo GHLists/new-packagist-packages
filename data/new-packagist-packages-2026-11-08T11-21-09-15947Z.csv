@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-08T10:25:01Z,gismatul/laravel-support-chat,v1.2.0,Gismat Mammadov,Website live-chat widget for Laravel where your team answers from Telegram or from an admin panel.
+2026-11-08T10:25:02Z,gismatul/nova-support-chat,v1.2.0,Gismat Mammadov,"Laravel Nova admin panel for gismatul/laravel-support-chat: read, answer and close website chat conversations."
+2026-11-08T10:40:37Z,mulertech/blog-bundle,v1.0.0,Sébastien Muler,"Symfony bundle for a Markdown blog: shared article model, admin, public pages, full-text search, social sharing and SEO, with one article per language"
+2026-11-08T10:59:22Z,codebypinar/glpi-guard,v0.1.0,Pınar Topuz,"Read-only security audit for your own GLPI installation: known vulnerabilities, default accounts, risky configuration, exposed files — with a fix for every finding."
