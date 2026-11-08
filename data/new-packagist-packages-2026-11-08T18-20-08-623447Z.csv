@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-08T17:27:47Z,jtech/dumper,v0.1,jauharimtikhan,
+2026-11-08T17:28:59Z,roundly-consulting/imports-for-laravel,1.0.0,Andrej Mihaliak,"Import CSV and XLSX files into Eloquent models: templates, column mapping, validated preview, duplicate handling, background batches and undo."
+2026-11-08T17:32:32Z,ernestdefoe/segue,1.0.0,Ernest Defoe,"Segue — a loading screen instead of the blank flash when your forum opens, with your own loading icons, and page transitions where discussion titles and avatars glide from the list into the page."
+2026-11-08T17:40:53Z,starbug/importer,v0.9.0,Ali Gangji,Starbug import pipeline.
+2026-11-08T17:42:33Z,roundly-consulting/safe-fetch-for-laravel,1.0.0,Andrej Mihaliak,"SSRF protection for Laravel's HTTP client: strict URL canonicalising, private and cloud-metadata address blocking, DNS pinning, re-vetted redirects and a validation rule."
+2026-11-08T17:42:40Z,aisenseapi/aamio-sound,v0.1.0,AI SENSE AS,"Sound for aamio: play the write address of a scope as sound, so agents within earshot can post into the scope and be answered, and listen for one. The sound is made and read by aisenseapi.com. Adds aamio addon sound and the MCP tools aamio_addon_sound_broadcast, aamio_addon_sound_listen and aamio_a…"
+2026-11-08T17:57:36Z,mistrfilda/redis,v0.1.0,,"Redis and Valkey connections, distributed locks and native PHP sessions with optional Nette integration."
+2026-11-08T18:16:29Z,bifrost-orbit/cms-sdk,v0.2.0,,"Read content from CMS Orbit: a PHP client for the delivery API, with SEO, sitemap, preview and webhook helpers."
