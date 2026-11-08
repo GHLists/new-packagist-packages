@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-08T19:25:04Z,smartgroup/identified-error,v1.0.0,,Symfony bundle for correlating error pages with Monolog records using an error identifier.
