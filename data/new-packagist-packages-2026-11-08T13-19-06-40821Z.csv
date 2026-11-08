@@ -1,0 +1,14 @@
+created_at,package,version,author,description
+2026-11-08T12:22:43Z,adilazhari/laravel-trace,v0.1.0,Adil Azhari,Application-level tracing for Laravel applications.
+2026-11-08T12:27:12Z,ggcode/etunnel,v1.0.1,,"Expose local services to the internet in one line of code: instant public HTTPS URLs with automatic TLS, through NAT and firewalls, no signup. Webhook-friendly ngrok-style reverse tunnel, with SDKs in 20 languages and a single-binary Go server."
+2026-11-08T12:28:30Z,ulsyairil/ai-local-guardrails,v0.1.0,,"Framework-agnostic, local-only guardrails for LLM input and output. Adapters for Laravel, CodeIgniter 4 and Symfony."
+2026-11-08T12:42:31Z,muckiware/facility-menu-plugin,1.0.0,muckiware,"Muckiware Facility Menu Plugin for Shopware 6, admin menu entries for the Muckiware Facility Plugin"
+2026-11-08T12:45:51Z,justinholtweb/craft-carrier-posts,5.1.0,Justin Holt,"South-east European posts for Carrier — Hrvatska pošta, Pošta Slovenije, Magyar Posta and ELTA Courier."
+2026-11-08T12:46:32Z,aliqsm/laravel-authkit,v1.0.0,Ali,"A reusable Laravel authentication package supporting web and API authentication, two-factor authentication, password reset, and email verification."
+2026-11-08T12:47:31Z,pdir/contao-block-editor-bundle,0.1.0,pdir GmbH,"Fast, block-based visual editor for Contao – edit content elements inline, directly in the frontend preview."
+2026-11-08T12:52:30Z,uslanozan/laravel-cache-contract,v0.1.0,Ozan Uslan; Barış Tepe; Ayselin Aydoğdu,"Central, reviewable cache definitions for Laravel: generated keys, duplicate detection, Eloquent model caching and CI enforcement on top of Laravel's cache and Redis."
+2026-11-08T13:07:36Z,henzeb/housepedia-intelligence,v1.0.0,Henze Berkheij,Framework-independent PHP SDK for the Housepedia Intelligence API
+2026-11-08T13:07:41Z,henzeb/housepedia-intelligence-laravel,v1.0.0,Henze Berkheij,Laravel integration for the Housepedia Intelligence PHP SDK
+2026-11-08T13:09:34Z,mhujer/phpstan-pimcore,v0.3.0,Martin Hujer,PHPStan extension for Pimcore
+2026-11-08T13:10:19Z,particle-academy/google-meet-php,v0.2.0,Particle Academy,"Google Meet for PHP — the service descriptor, its faker, its webhook verification, one class per operation, and a fancy-flow-php executor per node. Plain HTTP on particle-academy/fancy-connector-core; no vendor SDK."
+2026-11-08T13:10:52Z,mammatus/app,0.1.0,,🚂 Main entry point for all MammatusPHP applications
