@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-08T14:26:17Z,capimail/capimail-php,v0.1.1,CapiMail,"Official PHP SDK for CapiMail with Laravel integration: transactional email, a Laravel mail transport, suppressions, credits, Email Validation, OTP, Domain Health and webhook verification."
+2026-11-08T14:32:27Z,byfareska/crud,v0.1.0,Karol Szarafinowski,"Symfony bundle for admin panels: CRUDs from an attribute (Doctrine or DTO + use case drivers), a UI kit of Twig components, dashboards of widgets and a command palette - built on Symfony UX Live Components."
+2026-11-08T14:50:55Z,smwks/laravel-ai-kit,v0.5.0,Ralph Schindler,A component kit (turn/event data model + Livewire chat UI) for laravel/ai agents.
+2026-11-08T15:13:30Z,venusian/silk,0.11.0,Angel Gonzalez,"Self-drawn, springy widgets for Venusian Surface."
