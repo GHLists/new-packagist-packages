@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 00:21 UTC
+## Latest list — 2026-11-08 01:21 UTC
 
-New packages created between 2026-11-07 23:19 UTC and 2026-11-08 00:21 UTC.
+New packages created between 2026-11-08 00:21 UTC and 2026-11-08 01:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-08T00-21-02-605776Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-08T01-21-25-92046Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-07 23:56:44 | [codecruz/spain-postal-codes](https://www.nuget.org/packages/codecruz%2Fspain-postal-codes) | v1.0.0 | codecruz | Spanish postal codes, municipalities and provinces from official INE data. Offl… |
-| 2026-11-08 00:01:27 | [backdrop-dev/framework](https://www.nuget.org/packages/backdrop-dev%2Fframework) | v1.0.0 | Benjamin Lu | Backdrop Framework: A framework for developing ClassicPress and WordPress theme… |
-| 2026-11-08 00:08:32 | [lalbert/tokenizer-engine-for-wp](https://www.nuget.org/packages/lalbert%2Ftokenizer-engine-for-wp) | 0.1.0 |  | Search, related content and internal links for WordPress, with Elasticsearch-li… |
+| 2026-11-08 01:09:56 | [peterwilsoncc/code-bin-block](https://www.nuget.org/packages/peterwilsoncc%2Fcode-bin-block) | 1.1.0 | Peter Wilson | Code Bin Block. |
+| 2026-11-08 01:16:48 | [tribble/core](https://www.nuget.org/packages/tribble%2Fcore) | 1.0.0 | Alex Brindley | The core package for tribble |
 
 ## Data source
 
