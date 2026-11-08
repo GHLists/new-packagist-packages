@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-08T15:27:33Z,deltamichael/mention-permissions,0.1.0,DeltaMichael,Restrict user mentions by Flarum group permissions.
+2026-11-08T15:30:18Z,jovian/venusian-ogx,v0.11.0,Angel Gonzalez,"The 'opengl' rendering engine for Venusian Surface: a GpuDevice over ext-opengl that draws Surface's draw lists in an OpenGL 4.1 core or OpenGL ES 3.1 context, its own offscreen or one a canvas lends."
+2026-11-08T15:30:18Z,jovian/venusian-opengl,v0.11.0,Angel Gonzalez,"The 'opengl' rendering engine for Venusian Surface: a GpuDevice over ext-opengl that draws Surface's draw lists in an OpenGL 4.1 core or OpenGL ES 3.1 context, its own offscreen or one a canvas lends."
+2026-11-08T15:31:16Z,jovian/venusian-glfw,v0.11.0,Angel Gonzalez,"The 'glfw' stager for Venusian Surface: staged windows on GLFW 3.4 through ext-glfw, presented through their OpenGL context, on macOS and Linux."
+2026-11-08T15:32:32Z,jovian/venusian-sdl3,v0.11.0,Angel Gonzalez,"The 'sdl3' rendering engine for Venusian Surface: a GpuDevice over ext-sdl3's SDL_GPU that draws Surface's draw lists on the GPU, on macOS and Linux, and presents into an SDL window."
+2026-11-08T15:34:41Z,jovian/venusian-metal,v0.11.0,Angel Gonzalez,The 'metal' rendering engine for Venusian Surface: a GpuDevice over ext-metal that draws Surface's draw lists on the Mac's GPU and presents into a CAMetalLayer.
+2026-11-08T15:36:17Z,jovian/venusian-vulkan,v0.11.0,Angel Gonzalez,"The 'vulkan' rendering engine for Venusian Surface: a GpuDevice over ext-vulkan that draws Surface's draw lists on V3DV, MoltenVK or any Vulkan 1.1+ GPU and presents into a surface a canvas lends."
+2026-11-08T16:14:14Z,kwaadpepper/laravel-storage-manager,v0.1.0-beta.1,Jérémy Munsch,A Laravel file manager that can handle multiple storages

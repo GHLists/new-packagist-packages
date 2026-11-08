@@ -15,18 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 15:19 UTC
+## Latest list — 2026-11-08 16:20 UTC
 
-New packages created between 2026-11-08 14:19 UTC and 2026-11-08 15:19 UTC.
+New packages created between 2026-11-08 15:19 UTC and 2026-11-08 16:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-08T15-19-46-126917Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-08T16-20-51-007346Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-08 14:26:17 | [capimail/capimail-php](https://www.nuget.org/packages/capimail%2Fcapimail-php) | v0.1.1 | CapiMail | Official PHP SDK for CapiMail with Laravel integration: transactional email, a… |
-| 2026-11-08 14:32:27 | [byfareska/crud](https://www.nuget.org/packages/byfareska%2Fcrud) | v0.1.0 | Karol Szarafinowski | Symfony bundle for admin panels: CRUDs from an attribute (Doctrine or DTO + use… |
-| 2026-11-08 14:50:55 | [smwks/laravel-ai-kit](https://www.nuget.org/packages/smwks%2Flaravel-ai-kit) | v0.5.0 | Ralph Schindler | A component kit (turn/event data model + Livewire chat UI) for laravel/ai agent… |
-| 2026-11-08 15:13:30 | [venusian/silk](https://www.nuget.org/packages/venusian%2Fsilk) | 0.11.0 | Angel Gonzalez | Self-drawn, springy widgets for Venusian Surface. |
+| 2026-11-08 15:27:33 | [deltamichael/mention-permissions](https://www.nuget.org/packages/deltamichael%2Fmention-permissions) | 0.1.0 | DeltaMichael | Restrict user mentions by Flarum group permissions. |
+| 2026-11-08 15:30:18 | [jovian/venusian-ogx](https://www.nuget.org/packages/jovian%2Fvenusian-ogx) | v0.11.0 | Angel Gonzalez | The 'opengl' rendering engine for Venusian Surface: a GpuDevice over ext-opengl… |
+| 2026-11-08 15:30:18 | [jovian/venusian-opengl](https://www.nuget.org/packages/jovian%2Fvenusian-opengl) | v0.11.0 | Angel Gonzalez | The 'opengl' rendering engine for Venusian Surface: a GpuDevice over ext-opengl… |
+| 2026-11-08 15:31:16 | [jovian/venusian-glfw](https://www.nuget.org/packages/jovian%2Fvenusian-glfw) | v0.11.0 | Angel Gonzalez | The 'glfw' stager for Venusian Surface: staged windows on GLFW 3.4 through ext-… |
+| 2026-11-08 15:32:32 | [jovian/venusian-sdl3](https://www.nuget.org/packages/jovian%2Fvenusian-sdl3) | v0.11.0 | Angel Gonzalez | The 'sdl3' rendering engine for Venusian Surface: a GpuDevice over ext-sdl3's S… |
+| 2026-11-08 15:34:41 | [jovian/venusian-metal](https://www.nuget.org/packages/jovian%2Fvenusian-metal) | v0.11.0 | Angel Gonzalez | The 'metal' rendering engine for Venusian Surface: a GpuDevice over ext-metal t… |
+| 2026-11-08 15:36:17 | [jovian/venusian-vulkan](https://www.nuget.org/packages/jovian%2Fvenusian-vulkan) | v0.11.0 | Angel Gonzalez | The 'vulkan' rendering engine for Venusian Surface: a GpuDevice over ext-vulkan… |
+| 2026-11-08 16:14:14 | [kwaadpepper/laravel-storage-manager](https://www.nuget.org/packages/kwaadpepper%2Flaravel-storage-manager) | v0.1.0-beta.1 | Jérémy Munsch | A Laravel file manager that can handle multiple storages |
 
 ## Data source
 
