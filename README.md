@@ -15,22 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 16:20 UTC
+## Latest list — 2026-11-08 17:19 UTC
 
-New packages created between 2026-11-08 15:19 UTC and 2026-11-08 16:20 UTC.
+New packages created between 2026-11-08 16:20 UTC and 2026-11-08 17:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-08T16-20-51-007346Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-08T17-19-18-461667Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-08 15:27:33 | [deltamichael/mention-permissions](https://www.nuget.org/packages/deltamichael%2Fmention-permissions) | 0.1.0 | DeltaMichael | Restrict user mentions by Flarum group permissions. |
-| 2026-11-08 15:30:18 | [jovian/venusian-ogx](https://www.nuget.org/packages/jovian%2Fvenusian-ogx) | v0.11.0 | Angel Gonzalez | The 'opengl' rendering engine for Venusian Surface: a GpuDevice over ext-opengl… |
-| 2026-11-08 15:30:18 | [jovian/venusian-opengl](https://www.nuget.org/packages/jovian%2Fvenusian-opengl) | v0.11.0 | Angel Gonzalez | The 'opengl' rendering engine for Venusian Surface: a GpuDevice over ext-opengl… |
-| 2026-11-08 15:31:16 | [jovian/venusian-glfw](https://www.nuget.org/packages/jovian%2Fvenusian-glfw) | v0.11.0 | Angel Gonzalez | The 'glfw' stager for Venusian Surface: staged windows on GLFW 3.4 through ext-… |
-| 2026-11-08 15:32:32 | [jovian/venusian-sdl3](https://www.nuget.org/packages/jovian%2Fvenusian-sdl3) | v0.11.0 | Angel Gonzalez | The 'sdl3' rendering engine for Venusian Surface: a GpuDevice over ext-sdl3's S… |
-| 2026-11-08 15:34:41 | [jovian/venusian-metal](https://www.nuget.org/packages/jovian%2Fvenusian-metal) | v0.11.0 | Angel Gonzalez | The 'metal' rendering engine for Venusian Surface: a GpuDevice over ext-metal t… |
-| 2026-11-08 15:36:17 | [jovian/venusian-vulkan](https://www.nuget.org/packages/jovian%2Fvenusian-vulkan) | v0.11.0 | Angel Gonzalez | The 'vulkan' rendering engine for Venusian Surface: a GpuDevice over ext-vulkan… |
-| 2026-11-08 16:14:14 | [kwaadpepper/laravel-storage-manager](https://www.nuget.org/packages/kwaadpepper%2Flaravel-storage-manager) | v0.1.0-beta.1 | Jérémy Munsch | A Laravel file manager that can handle multiple storages |
+| 2026-11-08 16:22:29 | [nowo-tech/mcp-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fmcp-kit-bundle) | v1.0.0 | Héctor Franco Aceituno; Nowo.… | Model Context Protocol (MCP) server for Symfony: stateless Streamable HTTP (JSO… |
+| 2026-11-08 16:52:19 | [class-atlas/laravel-flitt](https://www.nuget.org/packages/class-atlas%2Flaravel-flitt) | v1.0.0-beta.1 | Irakli Kirkitadze | Laravel client for the Flitt payment gateway: hosted checkout, order status, re… |
+| 2026-11-08 17:00:25 | [particle-academy/twilio-php](https://www.nuget.org/packages/particle-academy%2Ftwilio-php) | v0.1.0 | Particle Academy | Twilio for PHP — the service descriptor, its faker, its webhook verification, o… |
 
 ## Data source
 

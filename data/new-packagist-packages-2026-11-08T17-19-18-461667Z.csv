@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-08T16:22:29Z,nowo-tech/mcp-kit-bundle,v1.0.0,Héctor Franco Aceituno; Nowo.tech,"Model Context Protocol (MCP) server for Symfony: stateless Streamable HTTP (JSON only, revisions 2026-07-28, 2025-11-25 and 2025-06-18), host-provided token authentication, a compiled tool registry with JSON Schema validation and an untrusted-content envelope for agent-facing tools."
+2026-11-08T16:52:19Z,class-atlas/laravel-flitt,v1.0.0-beta.1,Irakli Kirkitadze,"Laravel client for the Flitt payment gateway: hosted checkout, order status, recurring charges, payouts and signed callbacks."
+2026-11-08T17:00:25Z,particle-academy/twilio-php,v0.1.0,Particle Academy,"Twilio for PHP — the service descriptor, its faker, its webhook verification, one class per operation, and a fancy-flow-php executor per node. Plain HTTP on particle-academy/fancy-connector-core; no vendor SDK."
