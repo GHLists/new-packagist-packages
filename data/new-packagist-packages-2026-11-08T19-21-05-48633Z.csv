@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-08T18:25:45Z,utafitilabs/imap-bundle,v0.1.0,Ezekiel Mjema,"Read-only IMAP mailbox watching for Symfony: an IMAP IDLE client, an RFC 822/MIME reader and a long-running watcher, written on PHP built-ins only."
+2026-11-08T18:41:00Z,apartejs/laravel,v0.1.0,,"aparté for Laravel: an AI chat for Blade, Livewire and Filament, wired to the Laravel AI SDK."
+2026-11-08T18:47:03Z,szabrob/laravel-billingo,v0.1.0,Szabó Róbert,"Laravel integration for the Billingo API - create, send and manage invoices, partners and products."
+2026-11-08T18:53:05Z,smronju/nativephp-geolocation,1.0.0,Mohammad Shoriful Islam Ronju,"Implements NativePHP Mobile's Geolocation::getCurrentPosition(), checkPermissions() and requestPermissions() on both platforms — Fused Location Provider (with a LocationManager fallback) on Android, Core Location on iOS. nativephp/mobile core registers the Geolocation bridge functions on neither."
+2026-11-08T19:03:01Z,variant/magento-extension,v1.0.1,Variant,"Variant for Magento Open Source / Adobe Commerce: loads Variant's storefront runtime (Variant_Connector) and applies Variant's experiment discounts, price tests and bundles in Magento's own cart (Variant_Pricing)."
+2026-11-08T19:03:33Z,goodport/laravel-js-error-logger,v0.0.1,goodport,Capture browser JavaScript errors and write them to a Laravel log channel.

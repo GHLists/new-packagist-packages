@@ -15,22 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 18:20 UTC
+## Latest list — 2026-11-08 19:21 UTC
 
-New packages created between 2026-11-08 17:19 UTC and 2026-11-08 18:20 UTC.
+New packages created between 2026-11-08 18:20 UTC and 2026-11-08 19:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-08T18-20-08-623447Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-08T19-21-05-48633Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-08 17:27:47 | [jtech/dumper](https://www.nuget.org/packages/jtech%2Fdumper) | v0.1 | jauharimtikhan |  |
-| 2026-11-08 17:28:59 | [roundly-consulting/imports-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fimports-for-laravel) | 1.0.0 | Andrej Mihaliak | Import CSV and XLSX files into Eloquent models: templates, column mapping, vali… |
-| 2026-11-08 17:32:32 | [ernestdefoe/segue](https://www.nuget.org/packages/ernestdefoe%2Fsegue) | 1.0.0 | Ernest Defoe | Segue — a loading screen instead of the blank flash when your forum opens, with… |
-| 2026-11-08 17:40:53 | [starbug/importer](https://www.nuget.org/packages/starbug%2Fimporter) | v0.9.0 | Ali Gangji | Starbug import pipeline. |
-| 2026-11-08 17:42:33 | [roundly-consulting/safe-fetch-for-laravel](https://www.nuget.org/packages/roundly-consulting%2Fsafe-fetch-for-laravel) | 1.0.0 | Andrej Mihaliak | SSRF protection for Laravel's HTTP client: strict URL canonicalising, private a… |
-| 2026-11-08 17:42:40 | [aisenseapi/aamio-sound](https://www.nuget.org/packages/aisenseapi%2Faamio-sound) | v0.1.0 | AI SENSE AS | Sound for aamio: play the write address of a scope as sound, so agents within e… |
-| 2026-11-08 17:57:36 | [mistrfilda/redis](https://www.nuget.org/packages/mistrfilda%2Fredis) | v0.1.0 |  | Redis and Valkey connections, distributed locks and native PHP sessions with op… |
-| 2026-11-08 18:16:29 | [bifrost-orbit/cms-sdk](https://www.nuget.org/packages/bifrost-orbit%2Fcms-sdk) | v0.2.0 |  | Read content from CMS Orbit: a PHP client for the delivery API, with SEO, sitem… |
+| 2026-11-08 18:25:45 | [utafitilabs/imap-bundle](https://www.nuget.org/packages/utafitilabs%2Fimap-bundle) | v0.1.0 | Ezekiel Mjema | Read-only IMAP mailbox watching for Symfony: an IMAP IDLE client, an RFC 822/MI… |
+| 2026-11-08 18:41:00 | [apartejs/laravel](https://www.nuget.org/packages/apartejs%2Flaravel) | v0.1.0 |  | aparté for Laravel: an AI chat for Blade, Livewire and Filament, wired to the L… |
+| 2026-11-08 18:47:03 | [szabrob/laravel-billingo](https://www.nuget.org/packages/szabrob%2Flaravel-billingo) | v0.1.0 | Szabó Róbert | Laravel integration for the Billingo API - create, send and manage invoices, pa… |
+| 2026-11-08 18:53:05 | [smronju/nativephp-geolocation](https://www.nuget.org/packages/smronju%2Fnativephp-geolocation) | 1.0.0 | Mohammad Shoriful Islam Ronju | Implements NativePHP Mobile's Geolocation::getCurrentPosition(), checkPermissio… |
+| 2026-11-08 19:03:01 | [variant/magento-extension](https://www.nuget.org/packages/variant%2Fmagento-extension) | v1.0.1 | Variant | Variant for Magento Open Source / Adobe Commerce: loads Variant's storefront ru… |
+| 2026-11-08 19:03:33 | [goodport/laravel-js-error-logger](https://www.nuget.org/packages/goodport%2Flaravel-js-error-logger) | v0.0.1 | goodport | Capture browser JavaScript errors and write them to a Laravel log channel. |
 
 ## Data source
 
