@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 03:19 UTC
+## Latest list — 2026-11-08 05:19 UTC
 
-New packages created between 2026-11-08 02:20 UTC and 2026-11-08 03:19 UTC.
+New packages created between 2026-11-08 04:19 UTC and 2026-11-08 05:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-08T03-19-48-260163Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-08T05-19-39-054664Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-08 03:01:17 | [thuraaung2493/laravel-rulecraft](https://www.nuget.org/packages/thuraaung2493%2Flaravel-rulecraft) | v0.1.0-beta.1 |  | Expressive business rules and conditional role permissions for Laravel. |
+| 2026-11-08 04:33:16 | [backdrop-dev/contracts](https://www.nuget.org/packages/backdrop-dev%2Fcontracts) | v1.0.0 | Benjamin Lu | Backdrop Contracts for Backdrop framework. |
 
 ## Data source
 
