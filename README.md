@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 02:20 UTC
+## Latest list — 2026-11-08 03:19 UTC
 
-New packages created between 2026-11-08 01:21 UTC and 2026-11-08 02:20 UTC.
+New packages created between 2026-11-08 02:20 UTC and 2026-11-08 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-08T02-20-22-927289Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-08T03-19-48-260163Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-08 01:22:32 | [pushery/sanctum-hardening-for-laravel](https://www.nuget.org/packages/pushery%2Fsanctum-hardening-for-laravel) | v0.1.0 | Pushery | Hardens Laravel Sanctum: token abilities without a wildcard, limits on minting,… |
-| 2026-11-08 01:43:20 | [tribble/tribble](https://www.nuget.org/packages/tribble%2Ftribble) | 1.0.0 | Alex Brindley | A self-hosted project management kanban fun time |
+| 2026-11-08 03:01:17 | [thuraaung2493/laravel-rulecraft](https://www.nuget.org/packages/thuraaung2493%2Flaravel-rulecraft) | v0.1.0-beta.1 |  | Expressive business rules and conditional role permissions for Laravel. |
 
 ## Data source
 
