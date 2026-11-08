@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 01:21 UTC
+## Latest list — 2026-11-08 02:20 UTC
 
-New packages created between 2026-11-08 00:21 UTC and 2026-11-08 01:21 UTC.
+New packages created between 2026-11-08 01:21 UTC and 2026-11-08 02:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-08T01-21-25-92046Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-08T02-20-22-927289Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-08 01:09:56 | [peterwilsoncc/code-bin-block](https://www.nuget.org/packages/peterwilsoncc%2Fcode-bin-block) | 1.1.0 | Peter Wilson | Code Bin Block. |
-| 2026-11-08 01:16:48 | [tribble/core](https://www.nuget.org/packages/tribble%2Fcore) | 1.0.0 | Alex Brindley | The core package for tribble |
+| 2026-11-08 01:22:32 | [pushery/sanctum-hardening-for-laravel](https://www.nuget.org/packages/pushery%2Fsanctum-hardening-for-laravel) | v0.1.0 | Pushery | Hardens Laravel Sanctum: token abilities without a wildcard, limits on minting,… |
+| 2026-11-08 01:43:20 | [tribble/tribble](https://www.nuget.org/packages/tribble%2Ftribble) | 1.0.0 | Alex Brindley | A self-hosted project management kanban fun time |
 
 ## Data source
 

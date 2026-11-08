@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-08T01:22:32Z,pushery/sanctum-hardening-for-laravel,v0.1.0,Pushery,"Hardens Laravel Sanctum: token abilities without a wildcard, limits on minting, per-token and per-user throttling, and a switch that removes the API."
+2026-11-08T01:43:20Z,tribble/tribble,1.0.0,Alex Brindley,A self-hosted project management kanban fun time
