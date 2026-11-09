@@ -15,15 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 20:21 UTC
+## Latest list — 2026-11-09 21:21 UTC
 
-New packages created between 2026-11-09 19:19 UTC and 2026-11-09 20:21 UTC.
+New packages created between 2026-11-09 20:21 UTC and 2026-11-09 21:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-09T20-21-01-577312Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-09T21-21-16-826309Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-09 19:32:57 | [doska/kirby](https://www.nuget.org/packages/doska%2Fkirby) | 0.3.2 | Rafael Egli | Dev-only Kirby toolbar. Point at an element, write a note, and copy a prompt th… |
+| 2026-11-09 20:29:14 | [doska/symfony](https://www.nuget.org/packages/doska%2Fsymfony) | 0.3.2 |  | Dev-only toolbar that turns a clicked element into a Symfony-aware prompt: cont… |
+| 2026-11-09 20:36:30 | [agentisend/agent-email-guard](https://www.nuget.org/packages/agentisend%2Fagent-email-guard) | v0.1.0 | AgentiSend | Blast-radius control for agents that send email: budgets, a rate ceiling, loop… |
+| 2026-11-09 20:40:00 | [kayiwarahim/relworx](https://www.nuget.org/packages/kayiwarahim%2Frelworx) | v1.0.0 |  | A Laravel package for integrating Relworx mobile money collections, disbursemen… |
+| 2026-11-09 20:57:06 | [trianity/laravel-vpos](https://www.nuget.org/packages/trianity%2Flaravel-vpos) | v1.0.0-rc.1 | Istvan Holbok | Payment Gateway for K and H Bank VPOS service |
 
 ## Data source
 

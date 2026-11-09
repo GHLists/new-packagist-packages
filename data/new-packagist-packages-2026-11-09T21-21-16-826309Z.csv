@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-09T20:29:14Z,doska/symfony,0.3.2,,"Dev-only toolbar that turns a clicked element into a Symfony-aware prompt: controller, Twig file and line, and UX component."
+2026-11-09T20:36:30Z,agentisend/agent-email-guard,v0.1.0,AgentiSend,"Blast-radius control for agents that send email: budgets, a rate ceiling, loop detection, a kill switch and approval holds, in front of any provider."
+2026-11-09T20:40:00Z,kayiwarahim/relworx,v1.0.0,,"A Laravel package for integrating Relworx mobile money collections, disbursements and account transactions."
+2026-11-09T20:57:06Z,trianity/laravel-vpos,v1.0.0-rc.1,Istvan Holbok,Payment Gateway for K and H Bank VPOS service
