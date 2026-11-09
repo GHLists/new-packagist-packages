@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-09T01:41:04Z,jeffersongoncalves/laravel-markdown-for-agents,1.0.0,Jefferson Gonçalves,"Markdown for AI agents in Laravel: requests with Accept: text/markdown get the page's main content as clean Markdown (title/url front matter, optional Content-Signal header), while browsers keep the HTML. An origin-side equivalent of Cloudflare's Markdown for Agents."
+2026-11-09T01:53:03Z,gorontalokota/sso-laravel,v0.1.0,,"Integrasi SSO Pemerintah Kota Gorontalo untuk Laravel: login OIDC siap pakai, back-channel logout, dan guard API bearer token."
+2026-11-09T02:13:23Z,moztopia/notifications,0.0.2,,Laravel notification history and independently queued FCM and APNs device delivery.

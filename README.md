@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 01:22 UTC
+## Latest list — 2026-11-09 02:20 UTC
 
-New packages created between 2026-11-09 00:21 UTC and 2026-11-09 01:22 UTC.
+New packages created between 2026-11-09 01:22 UTC and 2026-11-09 02:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-09T01-22-03-396156Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-09T02-20-03-668008Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-09 00:29:25 | [laraxgram/armada](https://www.nuget.org/packages/laraxgram%2Farmada) | v0.1.0 | AmirHkrg | Docker files for running and deploying LaraGram applications and Telegram Bot A… |
-| 2026-11-09 01:11:47 | [shopproof/compliance](https://www.nuget.org/packages/shopproof%2Fcompliance) | 0.5.0 | Apex Point Consulting GmbH | EU compliance help for Shopware shops: withdrawal button, product safety (GPSR)… |
+| 2026-11-09 01:41:04 | [jeffersongoncalves/laravel-markdown-for-agents](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-markdown-for-agents) | 1.0.0 | Jefferson Gonçalves | Markdown for AI agents in Laravel: requests with Accept: text/markdown get the… |
+| 2026-11-09 01:53:03 | [gorontalokota/sso-laravel](https://www.nuget.org/packages/gorontalokota%2Fsso-laravel) | v0.1.0 |  | Integrasi SSO Pemerintah Kota Gorontalo untuk Laravel: login OIDC siap pakai, b… |
+| 2026-11-09 02:13:23 | [moztopia/notifications](https://www.nuget.org/packages/moztopia%2Fnotifications) | 0.0.2 |  | Laravel notification history and independently queued FCM and APNs device deliv… |
 
 ## Data source
 
