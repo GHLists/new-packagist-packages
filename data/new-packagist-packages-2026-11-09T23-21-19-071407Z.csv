@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-09T22:20:35Z,preflow/starter,v0.63.0,,"Preflow Jobs: a job board starter on SQLite, with a public site, employer accounts and a JSON API"
+2026-11-09T22:20:35Z,preflow/starter-folio,v0.63.0,,"Preflow Jobs with Folio: the job board starter with a content admin for staff, on SQLite"
+2026-11-09T22:23:27Z,intragile/laravel-changelog,v1.0.0,IntrAgile Kft.,"Serves a Laravel app's Keep a Changelog CHANGELOG.md, with per-locale translations, over a JSON API, and checks the file with an artisan command."
+2026-11-09T22:43:40Z,x-multibyte/blatui-starter,v0.0.2,,A Laravel starter kit pre-wired with BlatUI — shadcn/ui for the BLAT stack.
+2026-11-09T22:45:10Z,will-wright1/module-garage,0.1.0-beta.1,,"Customer vehicle garages, structured vehicle selection and product fitment for Magento 2."
+2026-11-09T22:55:23Z,ernestdefoe/member-map,1.0.0,Ernest Defoe,"Member Map: an opt-in map of where your community's members are, with a city search, a privacy-first precision choice (city, region or country), a Near me list, and a location line on profiles."
+2026-11-09T23:05:08Z,helpfalcon/helpfalcon-php,v1.0.0,,"HelpFalcon API client for PHP, generated from the OpenAPI document."
