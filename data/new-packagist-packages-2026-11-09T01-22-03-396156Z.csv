@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-09T00:29:25Z,laraxgram/armada,v0.1.0,AmirHkrg,Docker files for running and deploying LaraGram applications and Telegram Bot API servers.
+2026-11-09T01:11:47Z,shopproof/compliance,0.5.0,Apex Point Consulting GmbH,"EU compliance help for Shopware shops: withdrawal button, product safety (GPSR) with hazard labels, guarantee notice, durability label, take-back, proof log. Not legal advice."

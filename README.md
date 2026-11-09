@@ -15,19 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 22:20 UTC
+## Latest list — 2026-11-09 01:22 UTC
 
-New packages created between 2026-11-08 21:21 UTC and 2026-11-08 22:20 UTC.
+New packages created between 2026-11-09 00:21 UTC and 2026-11-09 01:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-08T22-20-55-023996Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-09T01-22-03-396156Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-08 21:23:25 | [jeffersongoncalves/filament-centrifugo](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-centrifugo) | 1.0.1 |  |  |
-| 2026-11-08 21:31:04 | [pembayaranku/php-sdk](https://www.nuget.org/packages/pembayaranku%2Fphp-sdk) | 1.0.0 | PT MEDIA SIRINGO ABADI | Official PHP SDK for PembayaranKU Merchant API V1 |
-| 2026-11-08 21:35:25 | [henzeb/housepedia-intelligence](https://www.nuget.org/packages/henzeb%2Fhousepedia-intelligence) | v1.0.0 | Henze Berkheij | Framework-independent PHP SDK for the Housepedia Intelligence API |
-| 2026-11-08 21:35:29 | [henzeb/housepedia-intelligence-laravel](https://www.nuget.org/packages/henzeb%2Fhousepedia-intelligence-laravel) | v1.0.0 | Henze Berkheij | Laravel integration for the Housepedia Intelligence PHP SDK |
-| 2026-11-08 21:40:35 | [kusikusicms/routes](https://www.nuget.org/packages/kusikusicms%2Froutes) | v13.2.0 |  | Run-time routes for KusikusiCMS entities: slug-based paths, redirects and a cat… |
+| 2026-11-09 00:29:25 | [laraxgram/armada](https://www.nuget.org/packages/laraxgram%2Farmada) | v0.1.0 | AmirHkrg | Docker files for running and deploying LaraGram applications and Telegram Bot A… |
+| 2026-11-09 01:11:47 | [shopproof/compliance](https://www.nuget.org/packages/shopproof%2Fcompliance) | 0.5.0 | Apex Point Consulting GmbH | EU compliance help for Shopware shops: withdrawal button, product safety (GPSR)… |
 
 ## Data source
 
