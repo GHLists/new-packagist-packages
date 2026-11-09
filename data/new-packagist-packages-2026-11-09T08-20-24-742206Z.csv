@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-09T07:33:58Z,serdominus/nova-poshta-api-2,0.3.0,Serdominus; Team,PHP-клієнт для роботи з API 2.0 Нової пошти
+2026-11-09T07:44:27Z,hydrastat/dto-hydrator,v1.0.0,,"Framework-agnostic DTO hydrator with Laravel, CodeIgniter, and Symfony integrations"
+2026-11-09T07:56:21Z,vanda/core,v0.1.0,,"Vanda core: screens, typed UI schema, state snapshots, actions and reactions for Laravel back-offices."
+2026-11-09T07:57:49Z,fabianmichael/kirby-themekit,1.0.0,Fabian Michael,Tools for color themes

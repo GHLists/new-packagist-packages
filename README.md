@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 07:18 UTC
+## Latest list — 2026-11-09 08:20 UTC
 
-New packages created between 2026-11-09 06:21 UTC and 2026-11-09 07:18 UTC.
+New packages created between 2026-11-09 07:18 UTC and 2026-11-09 08:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-09T07-18-53-412038Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-09T08-20-24-742206Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-09 07:04:15 | [yassrzg/ckeditor-dsfr-bundle](https://www.nuget.org/packages/yassrzg%2Fckeditor-dsfr-bundle) | v1.2.1 | yassine REZGUI | Éditeur CKEditor 5 à composants DSFR (cartes, tuiles, boutons, accordéons, ongl… |
-| 2026-11-09 07:04:16 | [yassrzg/dsfr-card-image-bundle](https://www.nuget.org/packages/yassrzg%2Fdsfr-card-image-bundle) | v1.0.2 | yassine REZGUI | Images adaptées aux cartes du Système de Design de l'État (DSFR) pour Symfony :… |
-| 2026-11-09 07:04:18 | [yassrzg/matomo-reporting-bundle](https://www.nuget.org/packages/yassrzg%2Fmatomo-reporting-bundle) | v1.0.2 | yassine REZGUI | Statistiques de fréquentation Matomo dans une application Symfony : client de l… |
-| 2026-11-09 07:09:54 | [hadiabedzadeh/laravel-journey-builder](https://www.nuget.org/packages/hadiabedzadeh%2Flaravel-journey-builder) | v0.3.4-beta.1 |  | Reusable drag-and-drop journey orchestration for Laravel with SMS and configura… |
+| 2026-11-09 07:33:58 | [serdominus/nova-poshta-api-2](https://www.nuget.org/packages/serdominus%2Fnova-poshta-api-2) | 0.3.0 | Serdominus; Team | PHP-клієнт для роботи з API 2.0 Нової пошти |
+| 2026-11-09 07:44:27 | [hydrastat/dto-hydrator](https://www.nuget.org/packages/hydrastat%2Fdto-hydrator) | v1.0.0 |  | Framework-agnostic DTO hydrator with Laravel, CodeIgniter, and Symfony integrat… |
+| 2026-11-09 07:56:21 | [vanda/core](https://www.nuget.org/packages/vanda%2Fcore) | v0.1.0 |  | Vanda core: screens, typed UI schema, state snapshots, actions and reactions fo… |
+| 2026-11-09 07:57:49 | [fabianmichael/kirby-themekit](https://www.nuget.org/packages/fabianmichael%2Fkirby-themekit) | 1.0.0 | Fabian Michael | Tools for color themes |
 
 ## Data source
 
