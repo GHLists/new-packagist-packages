@@ -15,18 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 21:21 UTC
+## Latest list — 2026-11-09 22:19 UTC
 
-New packages created between 2026-11-09 20:21 UTC and 2026-11-09 21:21 UTC.
+New packages created between 2026-11-09 21:21 UTC and 2026-11-09 22:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-09T21-21-16-826309Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-09T22-19-41-501218Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-09 20:29:14 | [doska/symfony](https://www.nuget.org/packages/doska%2Fsymfony) | 0.3.2 |  | Dev-only toolbar that turns a clicked element into a Symfony-aware prompt: cont… |
-| 2026-11-09 20:36:30 | [agentisend/agent-email-guard](https://www.nuget.org/packages/agentisend%2Fagent-email-guard) | v0.1.0 | AgentiSend | Blast-radius control for agents that send email: budgets, a rate ceiling, loop… |
-| 2026-11-09 20:40:00 | [kayiwarahim/relworx](https://www.nuget.org/packages/kayiwarahim%2Frelworx) | v1.0.0 |  | A Laravel package for integrating Relworx mobile money collections, disbursemen… |
-| 2026-11-09 20:57:06 | [trianity/laravel-vpos](https://www.nuget.org/packages/trianity%2Flaravel-vpos) | v1.0.0-rc.1 | Istvan Holbok | Payment Gateway for K and H Bank VPOS service |
+| 2026-11-09 21:34:53 | [nrzamirho3in/cute-routes](https://www.nuget.org/packages/nrzamirho3in%2Fcute-routes) | v1.0.0 | AmirHossein Noroozi | Visualise your Laravel routes in a beautiful and cute format. |
 
 ## Data source
 
