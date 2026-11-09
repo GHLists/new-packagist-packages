@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 12:18 UTC
+## Latest list — 2026-11-09 13:20 UTC
 
-New packages created between 2026-11-09 11:20 UTC and 2026-11-09 12:18 UTC.
+New packages created between 2026-11-09 12:18 UTC and 2026-11-09 13:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-09T12-18-29-926469Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-09T13-20-03-862551Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-09 11:25:50 | [checkslip/sdk](https://www.nuget.org/packages/checkslip%2Fsdk) | v0.1.0 | Checkslip | Official PHP SDK for the Checkslip API: look up Thai bank transfers from a slip… |
-| 2026-11-09 11:39:03 | [varypilot/sdk-php](https://www.nuget.org/packages/varypilot%2Fsdk-php) | v0.1.0 |  | Varypilot PHP 7.0+ SDK: local assignment, persistent configuration cache and co… |
-| 2026-11-09 11:43:32 | [shoplygg/shoply-php](https://www.nuget.org/packages/shoplygg%2Fshoply-php) | v0.10.0 |  | Shoply's API from your own server: every route as a method, safe retries, pages… |
-| 2026-11-09 11:49:45 | [ssmiff/mezzio-authentication-tokens](https://www.nuget.org/packages/ssmiff%2Fmezzio-authentication-tokens) | v0.1.0 | Scott Smith | Personal access token authentication for Mezzio APIs: a mezzio-authentication a… |
-| 2026-11-09 12:09:33 | [yet-another-pim/yap](https://www.nuget.org/packages/yet-another-pim%2Fyap) | 0.8.0 | Stephan Altmann | Yet Another PIM - Manage structured product data, multilingual content, and pro… |
+| 2026-11-09 12:26:09 | [brandejt/dresscode-standard](https://www.nuget.org/packages/brandejt%2Fdresscode-standard) | v1.0.0 | Tomáš Brandejs | Coding standard for DressCode: twenty rules and two presets, PER Coding Style w… |
+| 2026-11-09 12:30:20 | [omaresmael/thread](https://www.nuget.org/packages/omaresmael%2Fthread) | v1.0.0 |  | Run Laravel closures on a pool of pre-booted ext-parallel threads |
+| 2026-11-09 12:31:27 | [euginepj/laravel-api-specs](https://www.nuget.org/packages/euginepj%2Flaravel-api-specs) | v1.0.0 | Eugine | Interactive, modern 2-column REST API documentation portal for Laravel applicat… |
+| 2026-11-09 12:55:28 | [anjan011/roles-and-permissions](https://www.nuget.org/packages/anjan011%2Froles-and-permissions) | v1.0.0 | Anjan | A simple and easy-to-use way to manage roles and permissions in Laravel applica… |
+| 2026-11-09 13:02:11 | [teufels/tt3-stackmonitor](https://www.nuget.org/packages/teufels%2Ftt3-stackmonitor) | 1.0.0 | teufels GmbH | [teufels] stackmonitor - Secret-protected /stackmonitor endpoint that reports C… |
 
 ## Data source
 

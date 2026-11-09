@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-09T12:26:09Z,brandejt/dresscode-standard,v1.0.0,Tomáš Brandejs,"Coding standard for DressCode: twenty rules and two presets, PER Coding Style with a stricter layout and the hygiene of the code"
+2026-11-09T12:30:20Z,omaresmael/thread,v1.0.0,,Run Laravel closures on a pool of pre-booted ext-parallel threads
+2026-11-09T12:31:27Z,euginepj/laravel-api-specs,v1.0.0,Eugine,"Interactive, modern 2-column REST API documentation portal for Laravel applications"
+2026-11-09T12:55:28Z,anjan011/roles-and-permissions,v1.0.0,Anjan,A simple and easy-to-use way to manage roles and permissions in Laravel applications.
+2026-11-09T13:02:11Z,teufels/tt3-stackmonitor,1.0.0,teufels GmbH,"[teufels] stackmonitor - Secret-protected /stackmonitor endpoint that reports CMS, PHP and database versions as JSON to the teufels stack monitoring dashboard"
