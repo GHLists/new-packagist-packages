@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-09T07:04:15Z,yassrzg/ckeditor-dsfr-bundle,v1.2.1,yassine REZGUI,"Éditeur CKEditor 5 à composants DSFR (cartes, tuiles, boutons, accordéons, onglets, vidéos…), médiathèque et réglages administrables pour Symfony."
+2026-11-09T07:04:16Z,yassrzg/dsfr-card-image-bundle,v1.0.2,yassine REZGUI,"Images adaptées aux cartes du Système de Design de l'État (DSFR) pour Symfony : profils de recadrage ou d'ajustement, WebP, images dérivées en cache, fonction Twig."
+2026-11-09T07:04:18Z,yassrzg/matomo-reporting-bundle,v1.0.2,yassine REZGUI,"Statistiques de fréquentation Matomo dans une application Symfony : client de l'API de reporting (côté serveur, jeton jamais exposé), cache, périodes, rapports typés et tableau de bord personnalisable."
+2026-11-09T07:09:54Z,hadiabedzadeh/laravel-journey-builder,v0.3.4-beta.1,,Reusable drag-and-drop journey orchestration for Laravel with SMS and configurable HTTPS APIs

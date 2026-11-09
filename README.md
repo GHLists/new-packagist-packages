@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 06:21 UTC
+## Latest list — 2026-11-09 07:18 UTC
 
-New packages created between 2026-11-09 05:20 UTC and 2026-11-09 06:21 UTC.
+New packages created between 2026-11-09 06:21 UTC and 2026-11-09 07:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-09T06-21-27-958498Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-09T07-18-53-412038Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-09 05:31:11 | [feedshine/gtin](https://www.nuget.org/packages/feedshine%2Fgtin) | v1.0.0 | FeedShine | Validate GTIN, UPC and EAN barcodes: length, GS1 mod-10 check digit and restric… |
-| 2026-11-09 06:06:30 | [starbug/db](https://www.nuget.org/packages/starbug%2Fdb) | v0.10.0 | Ali Gangji | Starbug database module. |
-| 2026-11-09 06:08:09 | [hipdevteam/ion-mu](https://www.nuget.org/packages/hipdevteam%2Fion-mu) | v3.5.6 | ION | ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Inte… |
+| 2026-11-09 07:04:15 | [yassrzg/ckeditor-dsfr-bundle](https://www.nuget.org/packages/yassrzg%2Fckeditor-dsfr-bundle) | v1.2.1 | yassine REZGUI | Éditeur CKEditor 5 à composants DSFR (cartes, tuiles, boutons, accordéons, ongl… |
+| 2026-11-09 07:04:16 | [yassrzg/dsfr-card-image-bundle](https://www.nuget.org/packages/yassrzg%2Fdsfr-card-image-bundle) | v1.0.2 | yassine REZGUI | Images adaptées aux cartes du Système de Design de l'État (DSFR) pour Symfony :… |
+| 2026-11-09 07:04:18 | [yassrzg/matomo-reporting-bundle](https://www.nuget.org/packages/yassrzg%2Fmatomo-reporting-bundle) | v1.0.2 | yassine REZGUI | Statistiques de fréquentation Matomo dans une application Symfony : client de l… |
+| 2026-11-09 07:09:54 | [hadiabedzadeh/laravel-journey-builder](https://www.nuget.org/packages/hadiabedzadeh%2Flaravel-journey-builder) | v0.3.4-beta.1 |  | Reusable drag-and-drop journey orchestration for Laravel with SMS and configura… |
 
 ## Data source
 
