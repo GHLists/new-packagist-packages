@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-09T03:35:41Z,riders-agency/pulse-sdk,0.1.0,Riders Agency,"Reviewed JSON subset of Pulse API v1: authentication, tasks and AI proposals. Configure your own server origin."
+2026-11-09T03:41:47Z,mahmudabbas0/laravel-demo-mode,v1.0.0,,Read-only portfolio demos and one-click demo accounts for Laravel 10 through 13.
+2026-11-09T03:58:34Z,starbug/importer-spreadsheet,v0.9.0,Ali Gangji,Spreadsheet read strategies for the Starbug import pipeline.
+2026-11-09T04:19:38Z,ulsyairil/sqlite-auto-cloud-sync,v1.0.0,,"Row-level SQLite cloud sync core with Laravel, CodeIgniter and Symfony adapters."

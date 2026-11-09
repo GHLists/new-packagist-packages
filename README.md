@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 03:20 UTC
+## Latest list — 2026-11-09 04:21 UTC
 
-New packages created between 2026-11-09 02:20 UTC and 2026-11-09 03:20 UTC.
+New packages created between 2026-11-09 03:20 UTC and 2026-11-09 04:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-09T03-20-33-765886Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-09T04-21-24-56804Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-09 02:26:49 | [moztopia/notifications](https://www.nuget.org/packages/moztopia%2Fnotifications) | 0.9.0 |  | Laravel notification history and independently queued FCM and APNs device deliv… |
-| 2026-11-09 03:02:12 | [bignall/wp-foundation](https://www.nuget.org/packages/bignall%2Fwp-foundation) | v0.1.0 | Bignall | Lifecycle framework for WordPress plugins: requirement checks, activation, deac… |
+| 2026-11-09 03:35:41 | [riders-agency/pulse-sdk](https://www.nuget.org/packages/riders-agency%2Fpulse-sdk) | 0.1.0 | Riders Agency | Reviewed JSON subset of Pulse API v1: authentication, tasks and AI proposals. C… |
+| 2026-11-09 03:41:47 | [mahmudabbas0/laravel-demo-mode](https://www.nuget.org/packages/mahmudabbas0%2Flaravel-demo-mode) | v1.0.0 |  | Read-only portfolio demos and one-click demo accounts for Laravel 10 through 13. |
+| 2026-11-09 03:58:34 | [starbug/importer-spreadsheet](https://www.nuget.org/packages/starbug%2Fimporter-spreadsheet) | v0.9.0 | Ali Gangji | Spreadsheet read strategies for the Starbug import pipeline. |
+| 2026-11-09 04:19:38 | [ulsyairil/sqlite-auto-cloud-sync](https://www.nuget.org/packages/ulsyairil%2Fsqlite-auto-cloud-sync) | v1.0.0 |  | Row-level SQLite cloud sync core with Laravel, CodeIgniter and Symfony adapters. |
 
 ## Data source
 
