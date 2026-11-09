@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-11-09T17:28:31Z,infinitetoken/lumber,v1.0.0,Jay Deaton,"PHP client for Lumber: end-to-end encrypted cloud logging, with a PSR-3 logger, a Monolog handler and a Laravel log channel"
+2026-11-09T17:29:28Z,trk/processwire-inertia,v0.1.1,Iskender TOTOGLU,"Standalone Inertia.js v3 server-side protocol adapter for ProcessWire with Deferred/Merge/Once/Scroll props, Vite versioning, and fault-tolerant SSR."
+2026-11-09T17:35:03Z,ee-forge/craft-recurrence,1.0.0,EE Forge,"Recurring dates for native Craft entries, with indexed occurrences, dated URLs, per-date overrides and ICS feeds."
+2026-11-09T17:37:04Z,peopleinside/flarum-restricted-visibility,1.0.4,,"Restrict visibility of individual posts or entire discussions to specific groups or users, with filtered notifications and clean data removal."
+2026-11-09T17:42:00Z,semhoun/slim-session,1.0.0,,Server-backed sessions with atomic lifecycle guarantees
+2026-11-09T17:44:21Z,martincodes-de/php-ftp-deploy-kit,v0.3.0,,"PHP FTP Deploy Kit: thin layer over dg/ftp-deployment for FTP-only hosting: presets, remote database backup/pull/push, one deploy.ini as the only config."
+2026-11-09T17:46:54Z,hapipay/php-client,v1.0.1,,"Client PHP de l'API HapiPay : paiements mobile money, carte et PayPal, transferts vers les comptes particuliers, webhooks signés."
+2026-11-09T18:26:58Z,juaniquillo/input-component-action,v0.1.0,Juaniquillo,Form input component creation and management action for Crud Assistant
+2026-11-09T18:31:39Z,packstub/filament-coedit,v1.0.0-beta.1,Ion Caliman; Packstub,"Edit Filament records together without locks: live presence down to the field someone is typing in, and saves that merge field by field instead of overwriting a colleague's changes. Polling, no websockets."
+2026-11-09T18:46:40Z,solophp/vite,v1.0.0,Vitaliy Olos,"Vite for PHP without a framework: the tags that load entries from the dev server or the build manifest, with a Twig function."
+2026-11-09T18:56:11Z,yacoubalhaidari/provider-payments-sa,v1.0.0,Yacoub Al-Haidari,Standalone Laravel payment integrations extracted from audited provider flows.
