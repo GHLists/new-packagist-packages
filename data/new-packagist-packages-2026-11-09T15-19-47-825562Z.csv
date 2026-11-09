@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-09T14:19:27Z,intragile/laravel-mnb-exchange-rates,v1.0.0,IntrAgile Kft.,"MNB (Magyar Nemzeti Bank) official exchange rates without ext-soap: today's and historical rates with holiday fallback, unit-normalised exact decimal strings, conversion, caching and a test fake. Framework-independent core with an optional Laravel layer. MNB hivatalos devizaárfolyamok SOAP-bővítmén…"
+2026-11-09T14:35:42Z,medienreaktor/neos-mcp,0.1.0,,"Serves the operations of neos/openapi APIs, preconfigured for the Neos API, as MCP tools authorized by Neos.OAuth"
+2026-11-09T14:35:44Z,medienreaktor/neos-oauth,0.1.0,,"OAuth 2 authorization server and bearer token authentication for Neos, based on league/oauth2-server"
+2026-11-09T14:35:46Z,medienreaktor/neos-openapi-mcp,0.1.0,,"Expose the operations of a neos/openapi as Model Context Protocol tools, using the official MCP PHP SDK."
+2026-11-09T14:35:49Z,medienreaktor/neos-openapi-bundle,0.1.0,,"neos/jsonschema, neos/schematic, neos/openapi and neos/openapi-flowadapter in one installable package, until they are released on Packagist."
+2026-11-09T14:37:34Z,lakedrops/ai-catalog,1.0.0,Jürgen Haas; Daniel Speicher; Richard Papp,Composer Plugin to publish an ARD (Agentic Resource Discovery) capability manifest advertising agent skills and agents.
+2026-11-09T14:47:54Z,norialabs/ledger,v0.1.0,Joseph Gitonga,"Exact, immutable, multi-entity accounting for Laravel applications and accounting practices."
+2026-11-09T14:56:47Z,itk-dev/itkdev_advancedqueue_addons,1.0.0,Mikkel Ricky,Add-ons for Drupal's Advanced Queue module
