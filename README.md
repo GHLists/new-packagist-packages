@@ -15,26 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 11:20 UTC
+## Latest list — 2026-11-09 12:18 UTC
 
-New packages created between 2026-11-09 10:20 UTC and 2026-11-09 11:20 UTC.
+New packages created between 2026-11-09 11:20 UTC and 2026-11-09 12:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-09T11-20-47-027704Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-09T12-18-29-926469Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-09 10:24:30 | [dzwallet/php-sdk](https://www.nuget.org/packages/dzwallet%2Fphp-sdk) | v0.2.0 |  | Plain PHP SDK for the DzWallet payment API (CIB / Edahabia via SATIM, payment l… |
-| 2026-11-09 10:25:51 | [omnibridge/doctrine](https://www.nuget.org/packages/omnibridge%2Fdoctrine) | v1.0.0-rc.1 | Marco Meyer | The storage glue of omnibase sites, framework-free: Doctrine reading the struct… |
-| 2026-11-09 10:25:51 | [omnibridge/eloquent](https://www.nuget.org/packages/omnibridge%2Feloquent) | v1.0.0-rc.1 | Marco Meyer | omnibase's entities on Eloquent's database layer, framework-free: illuminate/da… |
-| 2026-11-09 10:25:51 | [omnibridge/laravel](https://www.nuget.org/packages/omnibridge%2Flaravel) | v1.0.0-rc.1 | Marco Meyer | The Laravel host of omnisense/omnibase: its Foundation contracts (urls, transla… |
-| 2026-11-09 10:25:51 | [omnibridge/symfony](https://www.nuget.org/packages/omnibridge%2Fsymfony) | v1.0.0-rc.1 | Marco Meyer | The Symfony host of omnisense/omnibridge's contracts (urls, translations, acces… |
-| 2026-11-09 10:25:51 | [omnibridge/twig](https://www.nuget.org/packages/omnibridge%2Ftwig) | v1.0.0-rc.1 | Marco Meyer | The Twig side of omnibridge: the contract a page rendered with Twig asks of any… |
-| 2026-11-09 10:25:51 | [omnisense/omnibase](https://www.nuget.org/packages/omnisense%2Fomnibase) | v5.0.0-rc.1 | Marco Meyer | omnibase: entities, view models, contracts, forms and helpers for any PHP host;… |
-| 2026-11-09 10:25:51 | [omnisense/omnibridge](https://www.nuget.org/packages/omnisense%2Fomnibridge) | v1.0.0-rc.1 | Marco Meyer | The core of the omnibridge family: the contracts any host answers for an applic… |
-| 2026-11-09 10:32:38 | [phponwheels/phponwheels](https://www.nuget.org/packages/phponwheels%2Fphponwheels) | v0.1.0 | tekki3 | A safe PHP framework that runs identically on its own server, FrankenPHP, nginx… |
-| 2026-11-09 10:40:34 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.24.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
-| 2026-11-09 10:45:53 | [captns/statamic-matomo-chatbots](https://www.nuget.org/packages/captns%2Fstatamic-matomo-chatbots) | v0.0.4 |  | Server-side Matomo tracking for AI chatbot requests |
-| 2026-11-09 10:47:30 | [envoice/module-einvoice](https://www.nuget.org/packages/envoice%2Fmodule-einvoice) | v1.1.1 | envoice | File LHDN MyInvois e-invoices for Malaysian Magento and Adobe Commerce stores w… |
+| 2026-11-09 11:25:50 | [checkslip/sdk](https://www.nuget.org/packages/checkslip%2Fsdk) | v0.1.0 | Checkslip | Official PHP SDK for the Checkslip API: look up Thai bank transfers from a slip… |
+| 2026-11-09 11:39:03 | [varypilot/sdk-php](https://www.nuget.org/packages/varypilot%2Fsdk-php) | v0.1.0 |  | Varypilot PHP 7.0+ SDK: local assignment, persistent configuration cache and co… |
+| 2026-11-09 11:43:32 | [shoplygg/shoply-php](https://www.nuget.org/packages/shoplygg%2Fshoply-php) | v0.10.0 |  | Shoply's API from your own server: every route as a method, safe retries, pages… |
+| 2026-11-09 11:49:45 | [ssmiff/mezzio-authentication-tokens](https://www.nuget.org/packages/ssmiff%2Fmezzio-authentication-tokens) | v0.1.0 | Scott Smith | Personal access token authentication for Mezzio APIs: a mezzio-authentication a… |
+| 2026-11-09 12:09:33 | [yet-another-pim/yap](https://www.nuget.org/packages/yet-another-pim%2Fyap) | 0.8.0 | Stephan Altmann | Yet Another PIM - Manage structured product data, multilingual content, and pro… |
 
 ## Data source
 

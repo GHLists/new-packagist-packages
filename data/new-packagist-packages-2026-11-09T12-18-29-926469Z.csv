@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-09T11:25:50Z,checkslip/sdk,v0.1.0,Checkslip,Official PHP SDK for the Checkslip API: look up Thai bank transfers from a slip QR or image with the sending bank.
+2026-11-09T11:39:03Z,varypilot/sdk-php,v0.1.0,,"Varypilot PHP 7.0+ SDK: local assignment, persistent configuration cache and consent-aware batched events"
+2026-11-09T11:43:32Z,shoplygg/shoply-php,v0.10.0,,"Shoply's API from your own server: every route as a method, safe retries, pages, checking webhooks, and OAuth for apps."
+2026-11-09T11:49:45Z,ssmiff/mezzio-authentication-tokens,v0.1.0,Scott Smith,Personal access token authentication for Mezzio APIs: a mezzio-authentication adapter that checks signed JWTs against revocable tokens stored in the database.
+2026-11-09T12:09:33Z,yet-another-pim/yap,0.8.0,Stephan Altmann,"Yet Another PIM - Manage structured product data, multilingual content, and product attributes with YAP, a flexible self-hosted PIM platform."
