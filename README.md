@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 16:21 UTC
+## Latest list — 2026-11-09 17:21 UTC
 
-New packages created between 2026-11-09 15:19 UTC and 2026-11-09 16:21 UTC.
+New packages created between 2026-11-09 16:21 UTC and 2026-11-09 17:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-09T16-21-49-942342Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-09T17-21-30-600716Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-09 15:28:32 | [tyhp/ext-tyhp](https://www.nuget.org/packages/tyhp%2Fext-tyhp) | 0.1.0 |  | Optional PHP extension for the Tyhp runtime. |
-| 2026-11-09 15:35:01 | [lloc/seo](https://www.nuget.org/packages/lloc%2Fseo) | 1.0.0 | Dennis Ploetner | Library for SEO related scripts & functionalities in WordPress websites |
-| 2026-11-09 15:48:03 | [ympact/laravel-icon-registry](https://www.nuget.org/packages/ympact%2Flaravel-icon-registry) | v1.0.0 | Maurits | A searchable catalogue of the icons a Laravel app can draw, across Flux, Blade… |
-| 2026-11-09 16:10:25 | [semhoun/slim-session](https://www.nuget.org/packages/semhoun%2Fslim-session) | 1.0.0 |  | Server-backed sessions with atomic lifecycle guarantees |
+| 2026-11-09 16:27:21 | [vielhuber/healthspace](https://www.nuget.org/packages/vielhuber%2Fhealthspace) | 1.0.1 |  | Personal health dashboard with manual measurements and Google Health integratio… |
+| 2026-11-09 16:32:22 | [intragile/laravel-company-lookup](https://www.nuget.org/packages/intragile%2Flaravel-company-lookup) | v1.0.1 | IntrAgile Kft. | Look up companies in free official business registries worldwide through one La… |
+| 2026-11-09 16:46:05 | [automattic/jetpack-monetize](https://www.nuget.org/packages/automattic%2Fjetpack-monetize) | v0.1.0 |  | The Monetize dashboard: payments, paid subscribers and ads in wp-admin. |
 
 ## Data source
 

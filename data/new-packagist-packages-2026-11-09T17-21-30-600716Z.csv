@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-09T16:27:21Z,vielhuber/healthspace,1.0.1,,Personal health dashboard with manual measurements and Google Health integration.
+2026-11-09T16:32:22Z,intragile/laravel-company-lookup,v1.0.1,IntrAgile Kft.,"Look up companies in free official business registries worldwide through one Laravel API: EU VIES, GLEIF and national registries (CZ, SK, PL, RO, FR, NO, FI, CH, UK, HU and more), with a unified Company object, caching, rate limiting and a test fake. Cégkeresés ingyenes hivatalos nyilvántartókban."
+2026-11-09T16:46:05Z,automattic/jetpack-monetize,v0.1.0,,"The Monetize dashboard: payments, paid subscribers and ads in wp-admin."
