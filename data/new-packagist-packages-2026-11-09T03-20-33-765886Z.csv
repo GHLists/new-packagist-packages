@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-09T02:26:49Z,moztopia/notifications,0.9.0,,Laravel notification history and independently queued FCM and APNs device delivery.
+2026-11-09T03:02:12Z,bignall/wp-foundation,v0.1.0,Bignall,"Lifecycle framework for WordPress plugins: requirement checks, activation, deactivation, upgrades and migrations, uninstall, multisite and deactivation feedback."
