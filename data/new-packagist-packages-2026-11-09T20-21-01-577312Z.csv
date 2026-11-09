@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-09T19:32:57Z,doska/kirby,0.3.2,Rafael Egli,"Dev-only Kirby toolbar. Point at an element, write a note, and copy a prompt that names the template, the snippet, and the content field."
