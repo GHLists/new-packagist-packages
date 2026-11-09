@@ -15,19 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 09:20 UTC
+## Latest list — 2026-11-09 10:20 UTC
 
-New packages created between 2026-11-09 08:20 UTC and 2026-11-09 09:20 UTC.
+New packages created between 2026-11-09 09:20 UTC and 2026-11-09 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-09T09-20-47-872475Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-09T10-20-54-788879Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-09 08:27:25 | [flxlabs/silverstripe-cms-mcp](https://www.nuget.org/packages/flxlabs%2Fsilverstripe-cms-mcp) | v0.1.0 | FLX Labs; Icecaster | Exposes SilverStripe CMS content (fields, file uploads, draft/publish workflow)… |
-| 2026-11-09 08:28:13 | [flxlabs/silverstripe-cms-mcp-pagesections](https://www.nuget.org/packages/flxlabs%2Fsilverstripe-cms-mcp-pagesections) | v0.1.0 | FLX Labs | Pagesection tools for silverstripe-cms-mcp |
-| 2026-11-09 08:29:43 | [codecruz/currency-flow](https://www.nuget.org/packages/codecruz%2Fcurrency-flow) | v0.1.0 | codecruz | Official ECB euro foreign exchange reference rates, with historical lookups and… |
-| 2026-11-09 08:31:06 | [fluffydiscord/sylius-customer-group-rules-bundle](https://www.nuget.org/packages/fluffydiscord%2Fsylius-customer-group-rules-bundle) | v1.0.0 | FluffyDiscord | Customer group inheritance and allowed payment and shipping methods per group f… |
-| 2026-11-09 08:49:58 | [scify/laravel-health-endpoint](https://www.nuget.org/packages/scify%2Flaravel-health-endpoint) | v0.1.0 | SciFY | A token-protected, rate-limited /health endpoint for Laravel, built on spatie/l… |
+| 2026-11-09 09:24:33 | [mailtarn/laravel](https://www.nuget.org/packages/mailtarn%2Flaravel) | v0.1.0 | Mailtarn | Mailtarn for Laravel: a mail driver that sends into a Mailtarn inbox, and test… |
+| 2026-11-09 09:47:35 | [cloud-castle/kaiten](https://www.nuget.org/packages/cloud-castle%2Fkaiten) | v1.0.1 | CloudCastle | SDK Kaiten REST API для PHP 8.1+: sync/async, генераторы пагинации, rate-limit,… |
+| 2026-11-09 09:56:10 | [scorimmo/scorimmo-php](https://www.nuget.org/packages/scorimmo%2Fscorimmo-php) | v1.1.0 |  | SDK officiel Scorimmo pour PHP — client API, webhook, intégrations Laravel & Sy… |
 
 ## Data source
 

@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-09T09:24:33Z,mailtarn/laravel,v0.1.0,Mailtarn,"Mailtarn for Laravel: a mail driver that sends into a Mailtarn inbox, and test helpers to wait for captured email and read its links and codes."
+2026-11-09T09:47:35Z,cloud-castle/kaiten,v1.0.1,CloudCastle,"SDK Kaiten REST API для PHP 8.1+: sync/async, генераторы пагинации, rate-limit, PSR-18, multiprocess-safe."
+2026-11-09T09:56:10Z,scorimmo/scorimmo-php,v1.1.0,,"SDK officiel Scorimmo pour PHP — client API, webhook, intégrations Laravel & Symfony"
