@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-09T13:21:06Z,adachsoft/ai-image-google,v0.1.0,Arkadiusz Adach,Google Gemini image generation provider for adachsoft/ai-image-contract.
+2026-11-09T13:25:36Z,hashtagcms/invoice,v1.0.0,HashtagCMS,"Configurable, driver-based PDF invoice generation for Laravel and HashtagCMS"
+2026-11-09T13:26:32Z,supseven/theme-library,v1.0.0,,Helper library for TYPO3 projects
+2026-11-09T13:36:19Z,dskripchenko/laravel-oidc,v0.1.0,Denis Skripchenko,"OpenID Connect for Laravel without a JOSE library: authorization code sign-in with PKCE, provider access tokens for an API (JWT checked against the issuer's JWKS), and group claims to follow — the application decides who the person is."

@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 13:20 UTC
+## Latest list — 2026-11-09 14:18 UTC
 
-New packages created between 2026-11-09 12:18 UTC and 2026-11-09 13:20 UTC.
+New packages created between 2026-11-09 13:20 UTC and 2026-11-09 14:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-09T13-20-03-862551Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-09T14-18-41-934956Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-09 12:26:09 | [brandejt/dresscode-standard](https://www.nuget.org/packages/brandejt%2Fdresscode-standard) | v1.0.0 | Tomáš Brandejs | Coding standard for DressCode: twenty rules and two presets, PER Coding Style w… |
-| 2026-11-09 12:30:20 | [omaresmael/thread](https://www.nuget.org/packages/omaresmael%2Fthread) | v1.0.0 |  | Run Laravel closures on a pool of pre-booted ext-parallel threads |
-| 2026-11-09 12:31:27 | [euginepj/laravel-api-specs](https://www.nuget.org/packages/euginepj%2Flaravel-api-specs) | v1.0.0 | Eugine | Interactive, modern 2-column REST API documentation portal for Laravel applicat… |
-| 2026-11-09 12:55:28 | [anjan011/roles-and-permissions](https://www.nuget.org/packages/anjan011%2Froles-and-permissions) | v1.0.0 | Anjan | A simple and easy-to-use way to manage roles and permissions in Laravel applica… |
-| 2026-11-09 13:02:11 | [teufels/tt3-stackmonitor](https://www.nuget.org/packages/teufels%2Ftt3-stackmonitor) | 1.0.0 | teufels GmbH | [teufels] stackmonitor - Secret-protected /stackmonitor endpoint that reports C… |
+| 2026-11-09 13:21:06 | [adachsoft/ai-image-google](https://www.nuget.org/packages/adachsoft%2Fai-image-google) | v0.1.0 | Arkadiusz Adach | Google Gemini image generation provider for adachsoft/ai-image-contract. |
+| 2026-11-09 13:25:36 | [hashtagcms/invoice](https://www.nuget.org/packages/hashtagcms%2Finvoice) | v1.0.0 | HashtagCMS | Configurable, driver-based PDF invoice generation for Laravel and HashtagCMS |
+| 2026-11-09 13:26:32 | [supseven/theme-library](https://www.nuget.org/packages/supseven%2Ftheme-library) | v1.0.0 |  | Helper library for TYPO3 projects |
+| 2026-11-09 13:36:19 | [dskripchenko/laravel-oidc](https://www.nuget.org/packages/dskripchenko%2Flaravel-oidc) | v0.1.0 | Denis Skripchenko | OpenID Connect for Laravel without a JOSE library: authorization code sign-in w… |
 
 ## Data source
 
