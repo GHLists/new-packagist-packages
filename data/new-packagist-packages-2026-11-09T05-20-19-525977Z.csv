@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-09T04:25:33Z,grazulex/lardefset,v0.1.0,Jean-Marc Strauven,Default settings for Laravel projects.
+2026-11-09T04:25:57Z,moztopia/access,0.9.1,,Explicit global and team-scoped roles and permissions for Laravel.
+2026-11-09T04:56:47Z,alan2k2/cna-framework,v1.0.0,Alan Shaju,"CnA Framework - The Contract-Driven, High-Performance PHP 8.4+ Framework"
+2026-11-09T04:59:55Z,jund-fauz/filament-kompact,v0.1.1,jund-fauz,A set of helper functions and macros in building app using Filament in Laravel
+2026-11-09T05:00:35Z,atannex/panels,v1.0.0,Atanga Leke Collins,"Many back-office panels in one Laravel app: one panel per system on its own host, a control panel over all of them, host-aware routing and URLs, a panel switcher, and cached panel summaries refreshed on the queue so an overview never builds every panel live."
+2026-11-09T05:01:40Z,sahanranasingha/sri-lanka-holidays,v1.1.1,Sahan Ranasingha,"Official Sri Lanka Public, Bank, and Mercantile holidays (including Full Moon Poya days) for PHP and Laravel."
