@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 08:20 UTC
+## Latest list — 2026-11-09 09:20 UTC
 
-New packages created between 2026-11-09 07:18 UTC and 2026-11-09 08:20 UTC.
+New packages created between 2026-11-09 08:20 UTC and 2026-11-09 09:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-09T08-20-24-742206Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-09T09-20-47-872475Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-09 07:33:58 | [serdominus/nova-poshta-api-2](https://www.nuget.org/packages/serdominus%2Fnova-poshta-api-2) | 0.3.0 | Serdominus; Team | PHP-клієнт для роботи з API 2.0 Нової пошти |
-| 2026-11-09 07:44:27 | [hydrastat/dto-hydrator](https://www.nuget.org/packages/hydrastat%2Fdto-hydrator) | v1.0.0 |  | Framework-agnostic DTO hydrator with Laravel, CodeIgniter, and Symfony integrat… |
-| 2026-11-09 07:56:21 | [vanda/core](https://www.nuget.org/packages/vanda%2Fcore) | v0.1.0 |  | Vanda core: screens, typed UI schema, state snapshots, actions and reactions fo… |
-| 2026-11-09 07:57:49 | [fabianmichael/kirby-themekit](https://www.nuget.org/packages/fabianmichael%2Fkirby-themekit) | 1.0.0 | Fabian Michael | Tools for color themes |
+| 2026-11-09 08:27:25 | [flxlabs/silverstripe-cms-mcp](https://www.nuget.org/packages/flxlabs%2Fsilverstripe-cms-mcp) | v0.1.0 | FLX Labs; Icecaster | Exposes SilverStripe CMS content (fields, file uploads, draft/publish workflow)… |
+| 2026-11-09 08:28:13 | [flxlabs/silverstripe-cms-mcp-pagesections](https://www.nuget.org/packages/flxlabs%2Fsilverstripe-cms-mcp-pagesections) | v0.1.0 | FLX Labs | Pagesection tools for silverstripe-cms-mcp |
+| 2026-11-09 08:29:43 | [codecruz/currency-flow](https://www.nuget.org/packages/codecruz%2Fcurrency-flow) | v0.1.0 | codecruz | Official ECB euro foreign exchange reference rates, with historical lookups and… |
+| 2026-11-09 08:31:06 | [fluffydiscord/sylius-customer-group-rules-bundle](https://www.nuget.org/packages/fluffydiscord%2Fsylius-customer-group-rules-bundle) | v1.0.0 | FluffyDiscord | Customer group inheritance and allowed payment and shipping methods per group f… |
+| 2026-11-09 08:49:58 | [scify/laravel-health-endpoint](https://www.nuget.org/packages/scify%2Flaravel-health-endpoint) | v0.1.0 | SciFY | A token-protected, rate-limited /health endpoint for Laravel, built on spatie/l… |
 
 ## Data source
 

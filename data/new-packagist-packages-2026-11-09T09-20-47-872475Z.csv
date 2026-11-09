@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-09T08:27:25Z,flxlabs/silverstripe-cms-mcp,v0.1.0,FLX Labs; Icecaster,"Exposes SilverStripe CMS content (fields, file uploads, draft/publish workflow) to AI agents via the Model Context Protocol (MCP)."
+2026-11-09T08:28:13Z,flxlabs/silverstripe-cms-mcp-pagesections,v0.1.0,FLX Labs,Pagesection tools for silverstripe-cms-mcp
+2026-11-09T08:29:43Z,codecruz/currency-flow,v0.1.0,codecruz,"Official ECB euro foreign exchange reference rates, with historical lookups and previous-business-day resolution."
+2026-11-09T08:31:06Z,fluffydiscord/sylius-customer-group-rules-bundle,v1.0.0,FluffyDiscord,Customer group inheritance and allowed payment and shipping methods per group for Sylius.
+2026-11-09T08:49:58Z,scify/laravel-health-endpoint,v0.1.0,SciFY,"A token-protected, rate-limited /health endpoint for Laravel, built on spatie/laravel-health, with one JSON contract for monitoring."
