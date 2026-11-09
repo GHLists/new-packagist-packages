@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-09T05:31:11Z,feedshine/gtin,v1.0.0,FeedShine,"Validate GTIN, UPC and EAN barcodes: length, GS1 mod-10 check digit and restricted in-store prefixes. No dependencies."
+2026-11-09T06:06:30Z,starbug/db,v0.10.0,Ali Gangji,Starbug database module.
+2026-11-09T06:08:09Z,hipdevteam/ion-mu,v3.5.6,ION,ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Intelligence

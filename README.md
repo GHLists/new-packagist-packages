@@ -15,20 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 05:20 UTC
+## Latest list — 2026-11-09 06:21 UTC
 
-New packages created between 2026-11-09 04:21 UTC and 2026-11-09 05:20 UTC.
+New packages created between 2026-11-09 05:20 UTC and 2026-11-09 06:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-09T05-20-19-525977Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-09T06-21-27-958498Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-09 04:25:33 | [grazulex/lardefset](https://www.nuget.org/packages/grazulex%2Flardefset) | v0.1.0 | Jean-Marc Strauven | Default settings for Laravel projects. |
-| 2026-11-09 04:25:57 | [moztopia/access](https://www.nuget.org/packages/moztopia%2Faccess) | 0.9.1 |  | Explicit global and team-scoped roles and permissions for Laravel. |
-| 2026-11-09 04:56:47 | [alan2k2/cna-framework](https://www.nuget.org/packages/alan2k2%2Fcna-framework) | v1.0.0 | Alan Shaju | CnA Framework - The Contract-Driven, High-Performance PHP 8.4+ Framework |
-| 2026-11-09 04:59:55 | [jund-fauz/filament-kompact](https://www.nuget.org/packages/jund-fauz%2Ffilament-kompact) | v0.1.1 | jund-fauz | A set of helper functions and macros in building app using Filament in Laravel |
-| 2026-11-09 05:00:35 | [atannex/panels](https://www.nuget.org/packages/atannex%2Fpanels) | v1.0.0 | Atanga Leke Collins | Many back-office panels in one Laravel app: one panel per system on its own hos… |
-| 2026-11-09 05:01:40 | [sahanranasingha/sri-lanka-holidays](https://www.nuget.org/packages/sahanranasingha%2Fsri-lanka-holidays) | v1.1.1 | Sahan Ranasingha | Official Sri Lanka Public, Bank, and Mercantile holidays (including Full Moon P… |
+| 2026-11-09 05:31:11 | [feedshine/gtin](https://www.nuget.org/packages/feedshine%2Fgtin) | v1.0.0 | FeedShine | Validate GTIN, UPC and EAN barcodes: length, GS1 mod-10 check digit and restric… |
+| 2026-11-09 06:06:30 | [starbug/db](https://www.nuget.org/packages/starbug%2Fdb) | v0.10.0 | Ali Gangji | Starbug database module. |
+| 2026-11-09 06:08:09 | [hipdevteam/ion-mu](https://www.nuget.org/packages/hipdevteam%2Fion-mu) | v3.5.6 | ION | ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Inte… |
 
 ## Data source
 
