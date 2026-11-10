@@ -15,20 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 22:21 UTC
+## Latest list — 2026-11-10 23:19 UTC
 
-New packages created between 2026-11-10 21:22 UTC and 2026-11-10 22:21 UTC.
+New packages created between 2026-11-10 22:21 UTC and 2026-11-10 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-10T22-21-06-803299Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-10T23-19-50-337632Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-10 21:30:26 | [mannydmorales/system](https://www.nuget.org/packages/mannydmorales%2Fsystem) | v2.0.0 | Manny Morales | PHP library for the host system. |
-| 2026-11-10 21:31:44 | [fernandoebert/valet-linux-plus](https://www.nuget.org/packages/fernandoebert%2Fvalet-linux-plus) | 2.1.0 | Uttam Rabadiya; Divyank Munja… | Advanced local development experience for Linux. |
-| 2026-11-10 21:35:44 | [themusicdev/redis-acl](https://www.nuget.org/packages/themusicdev%2Fredis-acl) | 1.0.1 | TheMusicDev | CakePHP 5 plugin: a RedisEngine subclass that authenticates as a Redis 6 ACL us… |
-| 2026-11-10 21:43:23 | [uams-web/patches-pest-plugin-mutate](https://www.nuget.org/packages/uams-web%2Fpatches-pest-plugin-mutate) | v1.0.0 |  | Patches UAMS-Web repositories apply to pestphp/pest-plugin-mutate |
-| 2026-11-10 21:50:49 | [ernestdefoe/kudos](https://www.nuget.org/packages/ernestdefoe%2Fkudos) | 1.0.0 | Ernest Defoe | Kudos Wall: members thank each other with a few kudos cards a week. A wall of t… |
-| 2026-11-10 22:11:04 | [solvebeam/twinfield](https://www.nuget.org/packages/solvebeam%2Ftwinfield) | v0.1.0 | Remco Tolsma | Modern PHP SDK for the Twinfield API |
+| 2026-11-10 22:23:15 | [jackbayliss/laravel-config-outdated](https://www.nuget.org/packages/jackbayliss%2Flaravel-config-outdated) | v1.1 | Jack Bayliss | Detect missing and outdated keys in your published Laravel config files after u… |
+| 2026-11-10 22:33:55 | [ernestdefoe/slow-mail](https://www.nuget.org/packages/ernestdefoe%2Fslow-mail) | 1.0.0 | Ernest Defoe | Slow Mail: pen-pal letters between members that take time to arrive, depending… |
+| 2026-11-10 22:43:03 | [4viewture/ai-labeling](https://www.nuget.org/packages/4viewture%2Fai-labeling) | 1.0.0 |  | Transparency fields for AI-generated or AI-modified files and content elements… |
+| 2026-11-10 22:47:48 | [drupheus/drupheus-cs](https://www.nuget.org/packages/drupheus%2Fdrupheus-cs) | v1.0.0-alpha1 |  | Drupal coding standards, deprecation checks and modernization rules for Drupal… |
+| 2026-11-10 22:51:48 | [charm/csv](https://www.nuget.org/packages/charm%2Fcsv) | 0.1.0 | Frode Børli | Fast RFC 4180 CSV encoding and decoding in PHP: a readonly Format, an Encoder a… |
+| 2026-11-10 22:51:48 | [charm/jsonl](https://www.nuget.org/packages/charm%2Fjsonl) | 0.1.0 | Frode Børli | Fast JSON Lines (NDJSON) encoding and decoding in PHP: an Encoder and an increm… |
+| 2026-11-10 22:51:48 | [charm/sort](https://www.nuget.org/packages/charm%2Fsort) | 0.1.0 | Frode Børli | Stable, fast sorting for PHP with a small object API: a Sorter configured once,… |
+| 2026-11-10 22:54:59 | [artisanpack-ui/ecommerce-paypal](https://www.nuget.org/packages/artisanpack-ui%2Fecommerce-paypal) | v1.0.0 | Jacob Martella | PayPal gateway for the ArtisanPack UI ecommerce engine: PayPal, Pay Later, Venm… |
+| 2026-11-10 23:07:18 | [shaungsimpson/release-impact](https://www.nuget.org/packages/shaungsimpson%2Frelease-impact) | v0.1.0 |  | A CLI for reviewing deployment-relevant changes in Laravel applications. |
+| 2026-11-10 23:08:55 | [charm/canvas](https://www.nuget.org/packages/charm%2Fcanvas) | 0.3.0 | Frode Børli | The browser's 2D canvas API for PHP, over GD or Imagick |
 
 ## Data source
 
