@@ -1,0 +1,14 @@
+created_at,package,version,author,description
+2026-11-10T20:26:57Z,versatecnologiaoficial/cadsus-client,v1.1.1,,Cliente privado para autenticação e consultas CADSUS/CNS-PDQ.
+2026-11-10T20:31:26Z,beziworld/laravel-mailcow,v1.0.0,Kamil Ćwiertnia,"Laravel client for the mailcow API: domains, mailboxes, aliases, quotas, DKIM, app passwords, mail queue and logs."
+2026-11-10T20:32:04Z,beziworld/laravel-hestiacp,v1.0.0,Kamil Ćwiertnia,"Laravel client for the Hestia Control Panel API: users, web domains, DNS, mail, databases, cron, backups and Let's Encrypt."
+2026-11-10T20:34:22Z,beziworld/laravel-emaillabs,v1.0.0,Kamil Ćwiertnia,"Laravel integration for EmailLabs (Vercom): mail transport, templates, tags and headers, signed delivery webhooks with events, blacklist, statistics and multiple accounts."
+2026-11-10T20:35:07Z,beziworld/laravel-getresponse,v1.0.0,Kamil Ćwiertnia,"Laravel integration for GetResponse API v3: contacts with custom fields and tags, campaigns, newsletters, autoresponders, transactional e-mails, webhooks and callbacks as events, rate limits, MAX and multiple accounts."
+2026-11-10T20:35:48Z,beziworld/laravel-salesmanago,v1.0.0,Kamil Ćwiertnia,"Laravel client for SALESmanago (Manago AI): contacts, external events, consents, tags, product catalogs, async exports with webhooks"
+2026-11-10T20:36:34Z,beziworld/laravel-livespace,v1.0.0,Kamil Ćwiertnia,"Laravel client for the Livespace CRM API: persons, companies, deals, tasks, notes, files, users, custom fields and web forms, with multiple accounts"
+2026-11-10T20:37:01Z,beziworld/laravel-autenti,v1.0.0,Kamil Ćwiertnia,"Autenti e-signature API v2 for Laravel: document processes, participants, files, sending, action links, signed file download, JWT bearer auth and JWS-verified callbacks."
+2026-11-10T20:38:47Z,beziworld/laravel-comfino,v1.0.0,Kamil Ćwiertnia,"ComfinoPay installments and buy now, pay later for Laravel: financial products, loan applications, cancellation, CR-Signature status webhooks and widget helpers."
+2026-11-10T20:58:52Z,codifytech/asaas-sdk-laravel,1.0.0,CodifyTech,"SDK Laravel para a API Asaas v3: cliente HTTP com retry, serviços tipados, Models e validação de requisições."
+2026-11-10T21:05:04Z,makermind/erd4dev,v0.1.0,Makermind,"A Laravel/Livewire ER-diagram editor that turns visual database designs into relational schemas, SQL exports, and Laravel Blueprint drafts."
+2026-11-10T21:08:38Z,nubos/starterkit,v1.28.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-10T21:11:05Z,juaniquillo/svg-backend-components,v0.1.0,Juaniquillo,Build SVG graphics from PHP with typed elements and Tailwind themes for Laravel backends
