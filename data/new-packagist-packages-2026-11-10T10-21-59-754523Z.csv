@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-10T09:22:33Z,shortcutmediaro/yii2-recaptcha-widget,1.0.1,Shortcutmediaro,Yii2 Google reCAPTCHA v2 and v3 widget - this is a fork from himiklab
+2026-11-10T09:42:19Z,youwilllikeit/silverstripe-elements,2.0.0,,"Basic, layout-free content blocks for silverstripe/elemental 6 (Hero, TextMedia, FeatureGrid, CallToAction, FAQ, Testimonials, Team, LogoWall, Gallery). Projects add fields via extensions and own all markup and styles."
+2026-11-10T09:54:22Z,hschottm/contao-newsletter-export,1.0.0,Helmut Schottmüller,Export active Contao newsletter subscribers as a plain-text BCC address list.
+2026-11-10T10:03:31Z,grinet/module-billing-address-at-shipping,1.0.0,Hidayet OK @ grinet,Billing address below shipping with optional restricted HTML descriptions
+2026-11-10T10:03:43Z,sanvalabs/bangla-converter,v1.0.0,Sanvalabs,Convert numbers and dates to Bangla in Laravel.
+2026-11-10T10:04:11Z,paymongo/module-magento2-paymongo,2.0.1,DevTeam,"PayMongo payment gateway integration for Magento 2 — supports cards, GCash, GrabPay, Maya, GooglePay, ShopeePay, BillEase, BPI Online, UnionBank Online, and QR Ph. Luma compatible out of the box."
