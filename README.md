@@ -15,16 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 14:19 UTC
+## Latest list — 2026-11-10 15:21 UTC
 
-New packages created between 2026-11-10 13:21 UTC and 2026-11-10 14:19 UTC.
+New packages created between 2026-11-10 14:19 UTC and 2026-11-10 15:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-10T14-19-32-705216Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-10T15-21-35-977179Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-10 13:43:04 | [sanvalabs/bd-phone-validator](https://www.nuget.org/packages/sanvalabs%2Fbd-phone-validator) | v1.0.1 | Sanvalabs | Validate, format and detect the operator of Bangladeshi mobile numbers in Larav… |
-| 2026-11-10 13:53:19 | [decisions-ai/laravel](https://www.nuget.org/packages/decisions-ai%2Flaravel) | v0.1.0 |  | A Laravel client for decisions.site monitoring. |
+| 2026-11-10 14:25:47 | [osamaelnagar/oomycache](https://www.nuget.org/packages/osamaelnagar%2Foomycache) | v0.1.0-alpha.1 | Osama Mohammed Elnagar | Eloquent query caching for Laravel — built for Filament-scale data. |
+| 2026-11-10 14:26:56 | [vivaltodev/connect-php](https://www.nuget.org/packages/vivaltodev%2Fconnect-php) | v0.2.3 |  | PHP SDK for the Vivalto Connect API: SMS, PDF, images and webhooks |
+| 2026-11-10 14:31:34 | [sohaibbinmohsin/pak-geodata](https://www.nuget.org/packages/sohaibbinmohsin%2Fpak-geodata) | v0.11.0 | Sohaib Bin Mohsin | Comprehensive, typed, offline geographic data for all areas and cities in Pakis… |
+| 2026-11-10 14:39:51 | [eiclu/simplesamlphp-module-loginaudit](https://www.nuget.org/packages/eiclu%2Fsimplesamlphp-module-loginaudit) | v1.0.0 |  | Login audit for SimpleSAMLphp: logs every successful login, shows the history i… |
+| 2026-11-10 14:54:51 | [janalis/collaborate_drupal](https://www.nuget.org/packages/janalis%2Fcollaborate_drupal) | 0.5.0 |  | Live collaboration for Drupal's administration: shared drafts of entity forms,… |
+| 2026-11-10 14:58:19 | [towardstudio/craft-cms-guide](https://www.nuget.org/packages/towardstudio%2Fcraft-cms-guide) | 1.0.0 | Toward | A CMS guide for content editors, built into the Craft control panel |
 
 ## Data source
 
