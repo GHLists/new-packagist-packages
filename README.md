@@ -15,19 +15,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 16:20 UTC
+## Latest list — 2026-11-10 17:20 UTC
 
-New packages created between 2026-11-10 15:21 UTC and 2026-11-10 16:20 UTC.
+New packages created between 2026-11-10 16:20 UTC and 2026-11-10 17:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-10T16-20-52-146105Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-10T17-20-15-144005Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-10 15:25:49 | [filafly/filament-remix-icons](https://www.nuget.org/packages/filafly%2Ffilament-remix-icons) | v1.0.0 | Nolan Nordlund | Remix Icon pack for Filament Icons: replaces every Filament UI icon with Remix… |
-| 2026-11-10 15:31:35 | [thepublicgood/analytics](https://www.nuget.org/packages/thepublicgood%2Fanalytics) | v0.1.0 |  | Send page views, requests and custom events to thepublicgood.analytics from PHP… |
-| 2026-11-10 16:06:41 | [ernestdefoe/bingo](https://www.nuget.org/packages/ernestdefoe%2Fbingo) | 1.0.0 | Ernest Defoe | Bingo: play along with live events. Each member gets their own shuffled 5×5 car… |
-| 2026-11-10 16:07:35 | [ernestdefoe/tier-lists](https://www.nuget.org/packages/ernestdefoe%2Ftier-lists) | 1.0.0 | Ernest Defoe | Tier Lists: members rank anything by dragging it into S to F rows, remix each o… |
-| 2026-11-10 16:14:29 | [shusaura85/odoo-json2-php](https://www.nuget.org/packages/shusaura85%2Fodoo-json2-php) | v1.0.1 | Shu Saura | Simple PHP client library for Odoo JSON-2 API (Odoo 19+) |
+| 2026-11-10 16:22:50 | [ernestdefoe/predictions](https://www.nuget.org/packages/ernestdefoe%2Fpredictions) | 1.0.0 | Ernest Defoe | Predictions: members call it before it happens. Multiple choice, yes/no and clo… |
+| 2026-11-10 16:25:10 | [ernestdefoe/secret-santa](https://www.nuget.org/packages/ernestdefoe%2Fsecret-santa) | 1.0.0 | Ernest Defoe | Secret Santa: gift exchanges for your community. Sign-ups with wishlists, an au… |
+| 2026-11-10 16:25:33 | [astral-php/astral-nova-css](https://www.nuget.org/packages/astral-php%2Fastral-nova-css) | 1.0.0 |  | Framework-agnostic CSS design system and theme assets for Astral applications. |
+| 2026-11-10 16:25:48 | [astral-php/astral-nova-icons](https://www.nuget.org/packages/astral-php%2Fastral-nova-icons) | 1.0.0 |  | Optional Nova SVG icon sprite and sizing CSS for Astral applications. |
+| 2026-11-10 16:26:15 | [astral-php/astral-template-nova](https://www.nuget.org/packages/astral-php%2Fastral-template-nova) | 1.0.0 |  | Nova-based layouts and reusable PHP view partials for Astral applications. |
+| 2026-11-10 16:38:15 | [anuarhdz/craft-r2](https://www.nuget.org/packages/anuarhdz%2Fcraft-r2) | 0.1.0 | anuarhdz | Cloudflare R2 filesystem for Craft CMS. |
+| 2026-11-10 16:46:52 | [kasevvlad/idempotency](https://www.nuget.org/packages/kasevvlad%2Fidempotency) | v0.1.0 | kasevvlad | Idempotency-Key header support for Laravel and Symfony: safe retries for POST/P… |
+| 2026-11-10 16:57:29 | [ernestdefoe/garage](https://www.nuget.org/packages/ernestdefoe%2Fgarage) | 1.0.0 | Ernest Defoe | Garage: members show off their builds (cars, PCs, keyboards, guitars, gardens,… |
+| 2026-11-10 17:00:03 | [zerofront/module-zero-ai-assistant](https://www.nuget.org/packages/zerofront%2Fmodule-zero-ai-assistant) | 1.3.9 | Roman Pasichnyk | Zero for Magento Open Source: an AI assistant in the admin for the catalog, con… |
+| 2026-11-10 17:00:03 | [zerofront/module-zero-mcp](https://www.nuget.org/packages/zerofront%2Fmodule-zero-mcp) | 1.3.9 | Roman Pasichnyk | Zero for Magento Open Source: the store as a connector in Claude (an MCP server… |
+| 2026-11-10 17:04:04 | [pecl/krb5](https://www.nuget.org/packages/pecl%2Fkrb5) | v1.3.0 |  | Kerberos/GSSPI and KAdmin bindings for PHP |
+| 2026-11-10 17:05:55 | [totalcms/starter-events](https://www.nuget.org/packages/totalcms%2Fstarter-events) | v1.0.0 | Joe Workman | Lantern Row Market: an events site for Total CMS, with news posts, a season of… |
 
 ## Data source
 

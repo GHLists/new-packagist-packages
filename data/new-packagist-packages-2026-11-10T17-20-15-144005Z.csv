@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-11-10T16:22:50Z,ernestdefoe/predictions,1.0.0,Ernest Defoe,"Predictions: members call it before it happens. Multiple choice, yes/no and closest-number predictions with lock times, hidden picks, race-safe settling, hit rates, season leaderboards and an Oracle award."
+2026-11-10T16:25:10Z,ernestdefoe/secret-santa,1.0.0,Ernest Defoe,"Secret Santa: gift exchanges for your community. Sign-ups with wishlists, an automatic single-cycle draw with exclusions, private shipping notes only your Santa sees, anonymous Santa messages, shipped and received tracking, and a show-what-you-got thread."
+2026-11-10T16:25:33Z,astral-php/astral-nova-css,1.0.0,,Framework-agnostic CSS design system and theme assets for Astral applications.
+2026-11-10T16:25:48Z,astral-php/astral-nova-icons,1.0.0,,Optional Nova SVG icon sprite and sizing CSS for Astral applications.
+2026-11-10T16:26:15Z,astral-php/astral-template-nova,1.0.0,,Nova-based layouts and reusable PHP view partials for Astral applications.
+2026-11-10T16:38:15Z,anuarhdz/craft-r2,0.1.0,anuarhdz,Cloudflare R2 filesystem for Craft CMS.
+2026-11-10T16:46:52Z,kasevvlad/idempotency,v0.1.0,kasevvlad,Idempotency-Key header support for Laravel and Symfony: safe retries for POST/PATCH requests
+2026-11-10T16:57:29Z,ernestdefoe/garage,1.0.0,Ernest Defoe,"Garage: members show off their builds (cars, PCs, keyboards, guitars, gardens, anything) with a photo gallery, a spec sheet the admin designs per category, a story and a dated build log that followers are told about."
+2026-11-10T17:00:03Z,zerofront/module-zero-ai-assistant,1.3.9,Roman Pasichnyk,"Zero for Magento Open Source: an AI assistant in the admin for the catalog, content and orders, with confirmation before every change."
+2026-11-10T17:00:03Z,zerofront/module-zero-mcp,1.3.9,Roman Pasichnyk,"Zero for Magento Open Source: the store as a connector in Claude (an MCP server with OAuth): the AI Assistant's tools, commands and docs from the Claude app on a phone or computer with the admin's own subscription, every change proposed and confirmed, photos from the phone."
+2026-11-10T17:04:04Z,pecl/krb5,v1.3.0,,Kerberos/GSSPI and KAdmin bindings for PHP
+2026-11-10T17:05:55Z,totalcms/starter-events,v1.0.0,Joe Workman,"Lantern Row Market: an events site for Total CMS, with news posts, a season of events with schedules, a contact form and site colors you set in the admin."
