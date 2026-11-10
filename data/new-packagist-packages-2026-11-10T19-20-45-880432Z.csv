@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-10T18:22:27Z,foorschtbar/applecolorflags,v1.0.1,foorschtbar,Shows Apple Mail colour flags in Roundcube and adds colour entries to the Mark menu and configurable quick-toggle toolbar buttons.
+2026-11-10T18:44:30Z,moudarir/mailer,1.0.1,Abdessamad MOUDARIR,"A lightweight and flexible PHP mail library supporting native mail(), sendmail, and custom SMTP transport."
+2026-11-10T18:46:44Z,beziworld/laravel-globkurier,v1.0.0,Kamil Ćwiertnia,"GlobKurier.pl REST API v1 client for Laravel: product search and quotes, add-ons, orders, best price orders, labels, protocols, courier pickups, tracking, points and dictionaries."
+2026-11-10T18:48:18Z,beziworld/laravel-label-printing,v1.0.0,Kamil Ćwiertnia,"Label and receipt printing for Laravel: named printers over TCP 9100, CUPS and Windows shares, a ZPL builder, ESC/POS receipts with Polish code pages, courier label passthrough and queued print jobs."
+2026-11-10T18:49:39Z,beziworld/laravel-xades,v1.0.0,Kamil Ćwiertnia,XAdES-BES and XAdES-B-B signing and verification of XML documents in Laravel with PKCS#12 or PEM certificates
+2026-11-10T18:54:38Z,ernestdefoe/story-chain,1.0.0,Ernest Defoe,"Story Chain: the forum writes a story together, one line at a time. Members each offer a next line every round, vote, and the winning line joins the story, credited to its writer. Finished stories become chapters in a library."
+2026-11-10T19:07:10Z,ernestdefoe/hype-market,1.0.0,Ernest Defoe,"Hype Market: members back the new discussions they think will take off. Free daily hype, prices that follow real engagement, race-safe settlement, portfolios with sparklines, a hottest list and monthly season leaderboards. No real money."
+2026-11-10T19:15:54Z,danog/mongo-php-async-driver,v0.1.0,Daniil Gentili,"Drop-in replacement for the mongodb PHP extension (ext-mongodb 2.5.6) in pure Rust, with async I/O in fibers through Revolt"
