@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 15:21 UTC
+## Latest list — 2026-11-10 16:20 UTC
 
-New packages created between 2026-11-10 14:19 UTC and 2026-11-10 15:21 UTC.
+New packages created between 2026-11-10 15:21 UTC and 2026-11-10 16:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-10T15-21-35-977179Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-10T16-20-52-146105Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-10 14:25:47 | [osamaelnagar/oomycache](https://www.nuget.org/packages/osamaelnagar%2Foomycache) | v0.1.0-alpha.1 | Osama Mohammed Elnagar | Eloquent query caching for Laravel — built for Filament-scale data. |
-| 2026-11-10 14:26:56 | [vivaltodev/connect-php](https://www.nuget.org/packages/vivaltodev%2Fconnect-php) | v0.2.3 |  | PHP SDK for the Vivalto Connect API: SMS, PDF, images and webhooks |
-| 2026-11-10 14:31:34 | [sohaibbinmohsin/pak-geodata](https://www.nuget.org/packages/sohaibbinmohsin%2Fpak-geodata) | v0.11.0 | Sohaib Bin Mohsin | Comprehensive, typed, offline geographic data for all areas and cities in Pakis… |
-| 2026-11-10 14:39:51 | [eiclu/simplesamlphp-module-loginaudit](https://www.nuget.org/packages/eiclu%2Fsimplesamlphp-module-loginaudit) | v1.0.0 |  | Login audit for SimpleSAMLphp: logs every successful login, shows the history i… |
-| 2026-11-10 14:54:51 | [janalis/collaborate_drupal](https://www.nuget.org/packages/janalis%2Fcollaborate_drupal) | 0.5.0 |  | Live collaboration for Drupal's administration: shared drafts of entity forms,… |
-| 2026-11-10 14:58:19 | [towardstudio/craft-cms-guide](https://www.nuget.org/packages/towardstudio%2Fcraft-cms-guide) | 1.0.0 | Toward | A CMS guide for content editors, built into the Craft control panel |
+| 2026-11-10 15:25:49 | [filafly/filament-remix-icons](https://www.nuget.org/packages/filafly%2Ffilament-remix-icons) | v1.0.0 | Nolan Nordlund | Remix Icon pack for Filament Icons: replaces every Filament UI icon with Remix… |
+| 2026-11-10 15:31:35 | [thepublicgood/analytics](https://www.nuget.org/packages/thepublicgood%2Fanalytics) | v0.1.0 |  | Send page views, requests and custom events to thepublicgood.analytics from PHP… |
+| 2026-11-10 16:06:41 | [ernestdefoe/bingo](https://www.nuget.org/packages/ernestdefoe%2Fbingo) | 1.0.0 | Ernest Defoe | Bingo: play along with live events. Each member gets their own shuffled 5×5 car… |
+| 2026-11-10 16:07:35 | [ernestdefoe/tier-lists](https://www.nuget.org/packages/ernestdefoe%2Ftier-lists) | 1.0.0 | Ernest Defoe | Tier Lists: members rank anything by dragging it into S to F rows, remix each o… |
+| 2026-11-10 16:14:29 | [shusaura85/odoo-json2-php](https://www.nuget.org/packages/shusaura85%2Fodoo-json2-php) | v1.0.1 | Shu Saura | Simple PHP client library for Odoo JSON-2 API (Odoo 19+) |
 
 ## Data source
 

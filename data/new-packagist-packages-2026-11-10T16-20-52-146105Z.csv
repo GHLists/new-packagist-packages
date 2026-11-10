@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-10T15:25:49Z,filafly/filament-remix-icons,v1.0.0,Nolan Nordlund,"Remix Icon pack for Filament Icons: replaces every Filament UI icon with Remix Icon, line or fill"
+2026-11-10T15:31:35Z,thepublicgood/analytics,v0.1.0,,"Send page views, requests and custom events to thepublicgood.analytics from PHP and Laravel."
+2026-11-10T16:06:41Z,ernestdefoe/bingo,1.0.0,Ernest Defoe,"Bingo: play along with live events. Each member gets their own shuffled 5×5 card from a pool of squares, marks what happens, and calls Bingo in the watch-along discussion, with server-checked claims, disputes, host-confirmed squares, live updates and a winners list."
+2026-11-10T16:07:35Z,ernestdefoe/tier-lists,1.0.0,Ernest Defoe,"Tier Lists: members rank anything by dragging it into S to F rows, remix each other's lists, and see where the crowd puts every item. Touch, keyboard and screen-reader friendly."
+2026-11-10T16:14:29Z,shusaura85/odoo-json2-php,v1.0.1,Shu Saura,Simple PHP client library for Odoo JSON-2 API (Odoo 19+)
