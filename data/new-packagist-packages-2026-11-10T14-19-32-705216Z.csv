@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-10T13:43:04Z,sanvalabs/bd-phone-validator,v1.0.1,Sanvalabs,"Validate, format and detect the operator of Bangladeshi mobile numbers in Laravel."
+2026-11-10T13:53:19Z,decisions-ai/laravel,v0.1.0,,A Laravel client for decisions.site monitoring.
