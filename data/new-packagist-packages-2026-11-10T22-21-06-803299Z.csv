@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-10T21:30:26Z,mannydmorales/system,v2.0.0,Manny Morales,PHP library for the host system.
+2026-11-10T21:31:44Z,fernandoebert/valet-linux-plus,2.1.0,Uttam Rabadiya; Divyank Munjapara; Fernando Ebert,Advanced local development experience for Linux.
+2026-11-10T21:35:44Z,themusicdev/redis-acl,1.0.1,TheMusicDev,"CakePHP 5 plugin: a RedisEngine subclass that authenticates as a Redis 6 ACL user (username + password), which the stock engine cannot"
+2026-11-10T21:43:23Z,uams-web/patches-pest-plugin-mutate,v1.0.0,,Patches UAMS-Web repositories apply to pestphp/pest-plugin-mutate
+2026-11-10T21:50:49Z,ernestdefoe/kudos,1.0.0,Ernest Defoe,"Kudos Wall: members thank each other with a few kudos cards a week. A wall of this week's thanks, a weekly spotlight for the most-thanked member, a Kudos tab on profiles, alerts and email."
+2026-11-10T22:11:04Z,solvebeam/twinfield,v0.1.0,Remco Tolsma,Modern PHP SDK for the Twinfield API
