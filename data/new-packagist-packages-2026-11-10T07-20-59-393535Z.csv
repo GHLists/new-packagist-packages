@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-10T06:25:46Z,anikeen/console,1.0.0,René Preuß; Maurice Preuß,PHP Anikeen Console API client for Laravel 12+
+2026-11-10T06:30:14Z,totalcms/starter-photographer,v1.0.0,Joe Workman,"Wren Alder: a photographer's site for Total CMS, with projects, session packages, print requests, a booking form, private client galleries and a Journal."
+2026-11-10T06:49:48Z,reeyanto/minimvc,0.1.0,Riyanto,"A lightweight custom PHP MVC framework with ORM, Query Builder, Relations, and Migrations."
+2026-11-10T06:50:49Z,solspace/craft-dark-mode,1.0.0,Solspace,"Give Craft’s control panel a darker look, with support for your favorite plugins."
+2026-11-10T06:51:01Z,lgz2688/mongo-builder,1.0.0,lgz2688,"A chainable MongoDB builder with a MySQL-like API, pluggable ID generation and optional relational dual-write."

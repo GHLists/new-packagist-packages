@@ -15,16 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 06:21 UTC
+## Latest list — 2026-11-10 07:20 UTC
 
-New packages created between 2026-11-10 05:22 UTC and 2026-11-10 06:21 UTC.
+New packages created between 2026-11-10 06:21 UTC and 2026-11-10 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-10T06-21-47-648292Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-10T07-20-59-393535Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-10 05:48:59 | [inilim/sqlite-parser](https://www.nuget.org/packages/inilim%2Fsqlite-parser) | 0.1.20261110 | inilim; Web community | SQLite SQL parser producing typed AST on top of phplrt (target dialect: SQLite… |
-| 2026-11-10 06:09:25 | [alibabacloud/internetbankopen-20240612](https://www.nuget.org/packages/alibabacloud%2Finternetbankopen-20240612) | 1.0.0 | Alibaba Cloud SDK | Alibaba Cloud InternetBankOpen (20240612) SDK Library for PHP |
+| 2026-11-10 06:25:46 | [anikeen/console](https://www.nuget.org/packages/anikeen%2Fconsole) | 1.0.0 | René Preuß; Maurice Preuß | PHP Anikeen Console API client for Laravel 12+ |
+| 2026-11-10 06:30:14 | [totalcms/starter-photographer](https://www.nuget.org/packages/totalcms%2Fstarter-photographer) | v1.0.0 | Joe Workman | Wren Alder: a photographer's site for Total CMS, with projects, session package… |
+| 2026-11-10 06:49:48 | [reeyanto/minimvc](https://www.nuget.org/packages/reeyanto%2Fminimvc) | 0.1.0 | Riyanto | A lightweight custom PHP MVC framework with ORM, Query Builder, Relations, and… |
+| 2026-11-10 06:50:49 | [solspace/craft-dark-mode](https://www.nuget.org/packages/solspace%2Fcraft-dark-mode) | 1.0.0 | Solspace | Give Craft’s control panel a darker look, with support for your favorite plugin… |
+| 2026-11-10 06:51:01 | [lgz2688/mongo-builder](https://www.nuget.org/packages/lgz2688%2Fmongo-builder) | 1.0.0 | lgz2688 | A chainable MongoDB builder with a MySQL-like API, pluggable ID generation and… |
 
 ## Data source
 
