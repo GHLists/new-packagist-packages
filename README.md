@@ -15,20 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 10:21 UTC
+## Latest list — 2026-11-10 11:23 UTC
 
-New packages created between 2026-11-10 09:20 UTC and 2026-11-10 10:21 UTC.
+New packages created between 2026-11-10 10:21 UTC and 2026-11-10 11:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-10T10-21-59-754523Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-10T11-23-00-792062Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-10 09:22:33 | [shortcutmediaro/yii2-recaptcha-widget](https://www.nuget.org/packages/shortcutmediaro%2Fyii2-recaptcha-widget) | 1.0.1 | Shortcutmediaro | Yii2 Google reCAPTCHA v2 and v3 widget - this is a fork from himiklab |
-| 2026-11-10 09:42:19 | [youwilllikeit/silverstripe-elements](https://www.nuget.org/packages/youwilllikeit%2Fsilverstripe-elements) | 2.0.0 |  | Basic, layout-free content blocks for silverstripe/elemental 6 (Hero, TextMedia… |
-| 2026-11-10 09:54:22 | [hschottm/contao-newsletter-export](https://www.nuget.org/packages/hschottm%2Fcontao-newsletter-export) | 1.0.0 | Helmut Schottmüller | Export active Contao newsletter subscribers as a plain-text BCC address list. |
-| 2026-11-10 10:03:31 | [grinet/module-billing-address-at-shipping](https://www.nuget.org/packages/grinet%2Fmodule-billing-address-at-shipping) | 1.0.0 | Hidayet OK @ grinet | Billing address below shipping with optional restricted HTML descriptions |
-| 2026-11-10 10:03:43 | [sanvalabs/bangla-converter](https://www.nuget.org/packages/sanvalabs%2Fbangla-converter) | v1.0.0 | Sanvalabs | Convert numbers and dates to Bangla in Laravel. |
-| 2026-11-10 10:04:11 | [paymongo/module-magento2-paymongo](https://www.nuget.org/packages/paymongo%2Fmodule-magento2-paymongo) | 2.0.1 | DevTeam | PayMongo payment gateway integration for Magento 2 — supports cards, GCash, Gra… |
+| 2026-11-10 10:22:03 | [grinet/billing-address-at-shipping](https://www.nuget.org/packages/grinet%2Fbilling-address-at-shipping) | 1.0.0 | Hidayet OK @ grinet | Billing address below shipping with optional restricted HTML descriptions |
+| 2026-11-10 10:23:47 | [tecclub/otpkit](https://www.nuget.org/packages/tecclub%2Fotpkit) | v1.0.0 | Sameed | Headless one-time codes for Laravel: issue, deliver, verify and expire codes fo… |
+| 2026-11-10 11:03:52 | [medienbaecker/kirby-stars-field](https://www.nuget.org/packages/medienbaecker%2Fkirby-stars-field) | 1.0.0 | Thomas Günther | A star rating field for the Kirby Panel |
 
 ## Data source
 
