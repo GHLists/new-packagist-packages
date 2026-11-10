@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-09T23:33:51Z,companyenrich/sdk,v1.0.0,CompanyEnrich,"Official PHP SDK for the CompanyEnrich API: company and people enrichment, search, lookalikes, and work emails."
+2026-11-09T23:35:57Z,devletes/filament-chrono-picker,v0.1.1,Devletes,"The ultimate date and time picker for Filament: time, date, month, year and range pickers with a clock face, calendar grids and Filament's own look."
+2026-11-10T00:01:56Z,almztech/sdk,v0.2.0-beta.1,ALMZTECH SOFTWARES LTDA,"SDK oficial PHP para a API da Almztech (emissão, consulta, reconsulta e cancelamento de NFS-e, importação por planilha, Emitente, Webhook)."
