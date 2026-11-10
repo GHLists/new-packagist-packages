@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 03:20 UTC
+## Latest list — 2026-11-10 04:21 UTC
 
-New packages created between 2026-11-10 02:21 UTC and 2026-11-10 03:20 UTC.
+New packages created between 2026-11-10 03:20 UTC and 2026-11-10 04:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-10T03-20-52-370192Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-10T04-21-58-692171Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-10 02:35:32 | [elcreator/adataforseo](https://www.nuget.org/packages/elcreator%2Fadataforseo) | 0.1.0 |  | aDataForSeo — gets your Evolution CMS site found in search: DataForSEO index co… |
-| 2026-11-10 02:50:24 | [atannex/laravel-flutter-bridge](https://www.nuget.org/packages/atannex%2Flaravel-flutter-bridge) | v2.0.0 | Atannex Enterprise | Enterprise-grade Laravel bridge for Flutter applications: Sanctum auth with rot… |
-| 2026-11-10 02:58:39 | [kenprz/laravel-custom-fields](https://www.nuget.org/packages/kenprz%2Flaravel-custom-fields) | v1.0.0 | Ken Perez | User-defined custom fields for Eloquent models, without touching your schema. |
+| 2026-11-10 03:34:02 | [hanshs474/freeimagetovideo](https://www.nuget.org/packages/hanshs474%2Ffreeimagetovideo) | v0.1.0 | Free Image to Video | Free image to video AI with no daily cap: start with no sign-up, keep going on… |
+| 2026-11-10 03:40:49 | [pembayaranku/laravel](https://www.nuget.org/packages/pembayaranku%2Flaravel) | 1.0.2 | PT MEDIA SIRINGO ABADI | Official Laravel integration for PembayaranKU Merchant API V1 and Hosted Checko… |
 
 ## Data source
 
