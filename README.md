@@ -15,19 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 08:21 UTC
+## Latest list — 2026-11-10 09:20 UTC
 
-New packages created between 2026-11-10 07:20 UTC and 2026-11-10 08:21 UTC.
+New packages created between 2026-11-10 08:21 UTC and 2026-11-10 09:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-10T08-21-39-091547Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-10T09-20-24-799976Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-10 07:32:40 | [itmosoft/laravel-wishlist](https://www.nuget.org/packages/itmosoft%2Flaravel-wishlist) | v1.0.0 |  | Wishlist management for Laravel applications, supporting multiple wishlists, pr… |
-| 2026-11-10 07:35:04 | [lgz2688/mongo-builder](https://www.nuget.org/packages/lgz2688%2Fmongo-builder) | v1.0.0 | lgz2688 | A chainable MongoDB builder with a MySQL-like API, pluggable ID generation and… |
-| 2026-11-10 07:38:30 | [jojeringnax/airwallex-php-sdk](https://www.nuget.org/packages/jojeringnax%2Fairwallex-php-sdk) | v0.1.0 |  | Framework-independent Airwallex Billing and Payments SDK for PHP. |
-| 2026-11-10 07:48:19 | [faisallbhr/laravel-tracelog](https://www.nuget.org/packages/faisallbhr%2Flaravel-tracelog) | v0.1.0 |  | Trace Eloquent model changes with contextual debug logs. |
-| 2026-11-10 08:10:06 | [fingerly/fingerly-php](https://www.nuget.org/packages/fingerly%2Ffingerly-php) | v0.1.0 |  | Server-side Fingerly SDK: event reads, webhook verification and a same-origin p… |
+| 2026-11-10 08:28:42 | [youvision/think-static](https://www.nuget.org/packages/youvision%2Fthink-static) | 1.0.0 | youvision | ThinkPHP 8 项目部署插件：主项目通过 Composer 安装或更新依赖时，自动把 project 目录部署到 public/store。 |
+| 2026-11-10 08:43:42 | [reeds-hq/reeds-sdk](https://www.nuget.org/packages/reeds-hq%2Freeds-sdk) | v0.1.0 | Reeds | The official PHP library for the Reeds APIs: one client for every Reeds service… |
+| 2026-11-10 08:47:46 | [mainstay/page-builder](https://www.nuget.org/packages/mainstay%2Fpage-builder) | v0.2.0 |  | The Content tab for Mainstay: the page the site draws, edited in place. |
+| 2026-11-10 08:47:47 | [mainstay/parts](https://www.nuget.org/packages/mainstay%2Fparts) | v0.2.0 |  | Template parts for Mainstay: a navigation, a footer, built from blocks once per… |
+| 2026-11-10 08:47:48 | [mainstay/mcp](https://www.nuget.org/packages/mainstay%2Fmcp) | v0.2.0 |  | An MCP server for Mainstay: the content API as tools a language model calls. |
+| 2026-11-10 08:47:48 | [mainstay/site](https://www.nuget.org/packages/mainstay%2Fsite) | v0.2.0 |  | Public pages for Mainstay: every path an entry holds, rendered in its view. |
+| 2026-11-10 08:47:49 | [mainstay/ai](https://www.nuget.org/packages/mainstay%2Fai) | v0.2.0 |  | AI providers for Mainstay: keys, defaults and a Connectors screen over laravel/… |
+| 2026-11-10 08:47:49 | [mainstay/forms](https://www.nuget.org/packages/mainstay%2Fforms) | v0.2.0 |  | A form builder for Mainstay: forms built from blocks, submissions kept as entri… |
+| 2026-11-10 08:48:26 | [tracewick/symfony-bundle](https://www.nuget.org/packages/tracewick%2Fsymfony-bundle) | v0.1.0 | Tracewick contributors | Official Symfony integration for Tracewick (ext-excimer sampling profiler → spo… |
+| 2026-11-10 08:58:46 | [enigmainc/filament-hugeicons](https://www.nuget.org/packages/enigmainc%2Ffilament-hugeicons) | v0.1.0-alpha.2 |  | Hugeicons integration for Filament with optional default icon replacement |
 
 ## Data source
 

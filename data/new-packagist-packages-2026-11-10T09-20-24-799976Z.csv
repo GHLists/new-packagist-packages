@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-10T08:28:42Z,youvision/think-static,1.0.0,youvision,ThinkPHP 8 项目部署插件：主项目通过 Composer 安装或更新依赖时，自动把 project 目录部署到 public/store。
+2026-11-10T08:43:42Z,reeds-hq/reeds-sdk,v0.1.0,Reeds,"The official PHP library for the Reeds APIs: one client for every Reeds service. Shipping: quotes, deliveries, labels, wallet, invoices and webhooks."
+2026-11-10T08:47:46Z,mainstay/page-builder,v0.2.0,,"The Content tab for Mainstay: the page the site draws, edited in place."
+2026-11-10T08:47:47Z,mainstay/parts,v0.2.0,,"Template parts for Mainstay: a navigation, a footer, built from blocks once per site."
+2026-11-10T08:47:48Z,mainstay/mcp,v0.2.0,,An MCP server for Mainstay: the content API as tools a language model calls.
+2026-11-10T08:47:48Z,mainstay/site,v0.2.0,,"Public pages for Mainstay: every path an entry holds, rendered in its view."
+2026-11-10T08:47:49Z,mainstay/ai,v0.2.0,,"AI providers for Mainstay: keys, defaults and a Connectors screen over laravel/ai."
+2026-11-10T08:47:49Z,mainstay/forms,v0.2.0,,"A form builder for Mainstay: forms built from blocks, submissions kept as entries, mailed to the people who answer them."
+2026-11-10T08:48:26Z,tracewick/symfony-bundle,v0.1.0,Tracewick contributors,Official Symfony integration for Tracewick (ext-excimer sampling profiler → spool / Pyroscope)
+2026-11-10T08:58:46Z,enigmainc/filament-hugeicons,v0.1.0-alpha.2,,Hugeicons integration for Filament with optional default icon replacement
