@@ -1,0 +1,31 @@
+created_at,package,version,author,description
+2026-11-10T04:28:54Z,tinymvc/laravel-supports,v1.0.1,,"A collection of support classes and functions of Laravel, fine-tuned for TinyMVC/Spark."
+2026-11-10T04:35:53Z,pdir/contao-workmate-agent-bundle,1.0.0,pdir GmbH,Workmate agent for Contao projects: commits the database backup and composer.lock before and after a Contao update
+2026-11-10T04:52:13Z,totalcms/starter-restaurant,v1.0.0,Joe Workman,"Copper Thistle: a restaurant site for Total CMS, with a menu, daily specials, a photo gallery and a dashboard for the restaurant's staff."
+2026-11-10T04:55:49Z,gaoxing520/flarum-third-party-login-only,v0.1.5,V17 Development; gaoxing520,"Only allow login and sign ups from oAuth extensions. fork from v17development, fixed for Flarum 1.8.x."
+2026-11-10T05:00:28Z,cyberwizard/watchtower-agent,v0.2.0,,"Companion to laravel/nightwatch that sends schedule, queue, worker, output, health, catch-up, event, broadcast, cache, mail, HTTP and webhook records to a self-hosted Watch Tower backend."
+2026-11-10T05:05:16Z,super-kernel/annotator,1.0.0-alpha.1,,Isolated package-aware PHP attribute collection for SuperKernel.
+2026-11-10T05:05:30Z,super-kernel/aop,1.0.0-alpha.1,,"Aspect declarations, method weaving, join points, and interceptor dispatch through Mimic for SuperKernel."
+2026-11-10T05:05:44Z,super-kernel/autoloader,1.0.0-alpha.1,,Factory-bootstrapped classmap autoloading and interception for SuperKernel.
+2026-11-10T05:05:58Z,super-kernel/command,1.0.0-alpha.1,,Lazy Symfony Console command registration for SuperKernel.
+2026-11-10T05:06:12Z,super-kernel/composer,1.0.0-alpha.1,,Composer package metadata and cached class graphs for SuperKernel.
+2026-11-10T05:06:25Z,super-kernel/config,1.0.0-alpha.1,,Typed lazy configuration source registry for SuperKernel.
+2026-11-10T05:06:38Z,super-kernel/di,1.0.0-alpha.1,,PSR-11 shared-service container with constructor autowiring for SuperKernel.
+2026-11-10T05:06:51Z,super-kernel/environment,1.0.0-alpha.1,,Ordered external property sources and strict typed environment access for SuperKernel.
+2026-11-10T05:07:12Z,super-kernel/event,1.0.0-alpha.1,,Application startup event declaration for SuperKernel.
+2026-11-10T05:07:27Z,super-kernel/event-dispatcher,1.0.0-alpha.1,,PSR-14 event dispatching with native Attribute listener discovery for SuperKernel.
+2026-11-10T05:07:42Z,super-kernel/exception-dispatcher,1.0.0-alpha.1,,Attribute-driven exception handler discovery and dispatch for SuperKernel.
+2026-11-10T05:07:54Z,super-kernel/framework,1.0.0-alpha.1,,Symfony Console application runtime and PSR-14 dispatcher adaptation for SuperKernel.
+2026-11-10T05:08:07Z,super-kernel/http-message,1.0.0-alpha.1,,PSR-7 messages and scoped HTTP message access for SuperKernel.
+2026-11-10T05:08:21Z,super-kernel/http-server,1.0.0-alpha.1,,"Attribute-driven HTTP routing, middleware, and Swoole integration for SuperKernel."
+2026-11-10T05:08:35Z,super-kernel/logger,1.0.0-alpha.1,,Monolog-backed PSR-3 logger factories and named stdout logging for SuperKernel.
+2026-11-10T05:08:48Z,super-kernel/mimic,1.0.0-alpha.1,,"Source preparation with pluggable transformations, source-hash-validated file proxies, and stream fallback for SuperKernel."
+2026-11-10T05:09:02Z,super-kernel/process,1.0.0-alpha.1,,Background process supervision and direct IPC for SuperKernel.
+2026-11-10T05:09:15Z,super-kernel/redis,1.0.0-alpha.1,,Redis integration for SuperKernel.
+2026-11-10T05:09:31Z,super-kernel/reflector,1.0.0-alpha.1,,Process-local cached native reflection service for SuperKernel.
+2026-11-10T05:09:44Z,super-kernel/scan-isolation,1.0.0-alpha.1,,Anonymous scan callback isolation for SuperKernel.
+2026-11-10T05:09:57Z,super-kernel/server,1.0.0-alpha.1,,Swoole server startup services and console command for SuperKernel.
+2026-11-10T05:10:11Z,super-kernel/support,1.0.0-alpha.1,,Dependency-free namespaced helpers for caller-owned short-lived SuperKernel instances.
+2026-11-10T05:10:26Z,super-kernel/swoole,1.0.0-alpha.1,,Swoole console commands and main process supervision for SuperKernel.
+2026-11-10T05:10:42Z,super-kernel/tokenizer,1.0.0-alpha.1,,PHP class-like declaration tokenizer for SuperKernel.
+2026-11-10T05:19:18Z,super-kernel/skeleton,1.0.0-alpha.1,,Project template for the SuperKernel framework.
