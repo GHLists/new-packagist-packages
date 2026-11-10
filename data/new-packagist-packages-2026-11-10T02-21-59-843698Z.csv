@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-10T01:21:07Z,raneomik/tracy-dark-mode,v0.1.0,,"Dark theme for the Tracy bar, its panels and the bluescreen, with a toggle"
+2026-11-10T01:23:14Z,pirulug/qbgen,0.0.1,Pirulug,Libreria PHP para la generacion y renderizado de codigos QR y codigos de barras en formato vectorial SVG y mapa de bits PNG/WebP/JPEG.
+2026-11-10T01:40:04Z,solophp/image,v1.0.0-RC1,Vitaliy Olos,"Immutable GD images for PHP: EXIF orientation, bounded resizing, JPEG/PNG/WebP encoding and smaller-only optimization."
+2026-11-10T01:57:17Z,mgamadeus/ddd-design-studio,0.1.0,Marius-Eugen Gerdan,"Design review studio for mgamadeus/ddd — shows the design boards of a checkout on a canvas, with comments, statuses, decisions and optional thumbnails"
+2026-11-10T02:02:24Z,puggan/untrusted-value,v0.1.0,Thorbjörn Puggan Sundragon,"Turn untrusted input values into type-safe values, with optional validation."

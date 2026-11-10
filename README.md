@@ -15,17 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 00:20 UTC
+## Latest list — 2026-11-10 02:21 UTC
 
-New packages created between 2026-11-09 23:21 UTC and 2026-11-10 00:20 UTC.
+New packages created between 2026-11-10 01:20 UTC and 2026-11-10 02:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-10T00-20-00-160132Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-10T02-21-59-843698Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-09 23:33:51 | [companyenrich/sdk](https://www.nuget.org/packages/companyenrich%2Fsdk) | v1.0.0 | CompanyEnrich | Official PHP SDK for the CompanyEnrich API: company and people enrichment, sear… |
-| 2026-11-09 23:35:57 | [devletes/filament-chrono-picker](https://www.nuget.org/packages/devletes%2Ffilament-chrono-picker) | v0.1.1 | Devletes | The ultimate date and time picker for Filament: time, date, month, year and ran… |
-| 2026-11-10 00:01:56 | [almztech/sdk](https://www.nuget.org/packages/almztech%2Fsdk) | v0.2.0-beta.1 | ALMZTECH SOFTWARES LTDA | SDK oficial PHP para a API da Almztech (emissão, consulta, reconsulta e cancela… |
+| 2026-11-10 01:21:07 | [raneomik/tracy-dark-mode](https://www.nuget.org/packages/raneomik%2Ftracy-dark-mode) | v0.1.0 |  | Dark theme for the Tracy bar, its panels and the bluescreen, with a toggle |
+| 2026-11-10 01:23:14 | [pirulug/qbgen](https://www.nuget.org/packages/pirulug%2Fqbgen) | 0.0.1 | Pirulug | Libreria PHP para la generacion y renderizado de codigos QR y codigos de barras… |
+| 2026-11-10 01:40:04 | [solophp/image](https://www.nuget.org/packages/solophp%2Fimage) | v1.0.0-RC1 | Vitaliy Olos | Immutable GD images for PHP: EXIF orientation, bounded resizing, JPEG/PNG/WebP… |
+| 2026-11-10 01:57:17 | [mgamadeus/ddd-design-studio](https://www.nuget.org/packages/mgamadeus%2Fddd-design-studio) | 0.1.0 | Marius-Eugen Gerdan | Design review studio for mgamadeus/ddd — shows the design boards of a checkout… |
+| 2026-11-10 02:02:24 | [puggan/untrusted-value](https://www.nuget.org/packages/puggan%2Funtrusted-value) | v0.1.0 | Thorbjörn Puggan Sundragon | Turn untrusted input values into type-safe values, with optional validation. |
 
 ## Data source
 
