@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-10T11:26:13Z,alnv/genai-bundle,0.1.0,Alexander Naumov,
+2026-11-10T11:30:51Z,rubeen/drk-dienstabende,v0.1.3,,Inhaltselement „Dienstabende“: zeigt Termine aus einer JSON-Adresse als Akkordeon im Stil der DRK-Seiten.
+2026-11-10T11:36:10Z,wika-group/sessionservice-for-laravel,0.1.0,WIKA Group,Handles the communication with the session service
+2026-11-10T11:48:43Z,voorhof/stickler-light,v1.9.1,,A starter kit for the Laravel framework.
+2026-11-10T12:12:16Z,elmphant/tui,v0.1.0,Wolfgang Klinger,The Elm Architecture for terminal UIs (TUI) in PHP
+2026-11-10T12:15:55Z,nubos/starterkit,v1.26.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."

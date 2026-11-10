@@ -15,17 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 11:23 UTC
+## Latest list — 2026-11-10 12:20 UTC
 
-New packages created between 2026-11-10 10:21 UTC and 2026-11-10 11:23 UTC.
+New packages created between 2026-11-10 11:23 UTC and 2026-11-10 12:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-10T11-23-00-792062Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-10T12-20-13-323985Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-10 10:22:03 | [grinet/billing-address-at-shipping](https://www.nuget.org/packages/grinet%2Fbilling-address-at-shipping) | 1.0.0 | Hidayet OK @ grinet | Billing address below shipping with optional restricted HTML descriptions |
-| 2026-11-10 10:23:47 | [tecclub/otpkit](https://www.nuget.org/packages/tecclub%2Fotpkit) | v1.0.0 | Sameed | Headless one-time codes for Laravel: issue, deliver, verify and expire codes fo… |
-| 2026-11-10 11:03:52 | [medienbaecker/kirby-stars-field](https://www.nuget.org/packages/medienbaecker%2Fkirby-stars-field) | 1.0.0 | Thomas Günther | A star rating field for the Kirby Panel |
+| 2026-11-10 11:26:13 | [alnv/genai-bundle](https://www.nuget.org/packages/alnv%2Fgenai-bundle) | 0.1.0 | Alexander Naumov |  |
+| 2026-11-10 11:30:51 | [rubeen/drk-dienstabende](https://www.nuget.org/packages/rubeen%2Fdrk-dienstabende) | v0.1.3 |  | Inhaltselement „Dienstabende“: zeigt Termine aus einer JSON-Adresse als Akkorde… |
+| 2026-11-10 11:36:10 | [wika-group/sessionservice-for-laravel](https://www.nuget.org/packages/wika-group%2Fsessionservice-for-laravel) | 0.1.0 | WIKA Group | Handles the communication with the session service |
+| 2026-11-10 11:48:43 | [voorhof/stickler-light](https://www.nuget.org/packages/voorhof%2Fstickler-light) | v1.9.1 |  | A starter kit for the Laravel framework. |
+| 2026-11-10 12:12:16 | [elmphant/tui](https://www.nuget.org/packages/elmphant%2Ftui) | v0.1.0 | Wolfgang Klinger | The Elm Architecture for terminal UIs (TUI) in PHP |
+| 2026-11-10 12:15:55 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.26.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
 
 ## Data source
 
