@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-10T07:32:40Z,itmosoft/laravel-wishlist,v1.0.0,,"Wishlist management for Laravel applications, supporting multiple wishlists, product items, guest users and authenticated customers."
+2026-11-10T07:35:04Z,lgz2688/mongo-builder,v1.0.0,lgz2688,"A chainable MongoDB builder with a MySQL-like API, pluggable ID generation and optional relational dual-write."
+2026-11-10T07:38:30Z,jojeringnax/airwallex-php-sdk,v0.1.0,,Framework-independent Airwallex Billing and Payments SDK for PHP.
+2026-11-10T07:48:19Z,faisallbhr/laravel-tracelog,v0.1.0,,Trace Eloquent model changes with contextual debug logs.
+2026-11-10T08:10:06Z,fingerly/fingerly-php,v0.1.0,,"Server-side Fingerly SDK: event reads, webhook verification and a same-origin proxy for the browser SDK."
