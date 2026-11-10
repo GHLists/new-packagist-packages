@@ -15,20 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 12:20 UTC
+## Latest list — 2026-11-10 13:21 UTC
 
-New packages created between 2026-11-10 11:23 UTC and 2026-11-10 12:20 UTC.
+New packages created between 2026-11-10 12:20 UTC and 2026-11-10 13:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-10T12-20-13-323985Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-10T13-21-34-568733Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-10 11:26:13 | [alnv/genai-bundle](https://www.nuget.org/packages/alnv%2Fgenai-bundle) | 0.1.0 | Alexander Naumov |  |
-| 2026-11-10 11:30:51 | [rubeen/drk-dienstabende](https://www.nuget.org/packages/rubeen%2Fdrk-dienstabende) | v0.1.3 |  | Inhaltselement „Dienstabende“: zeigt Termine aus einer JSON-Adresse als Akkorde… |
-| 2026-11-10 11:36:10 | [wika-group/sessionservice-for-laravel](https://www.nuget.org/packages/wika-group%2Fsessionservice-for-laravel) | 0.1.0 | WIKA Group | Handles the communication with the session service |
-| 2026-11-10 11:48:43 | [voorhof/stickler-light](https://www.nuget.org/packages/voorhof%2Fstickler-light) | v1.9.1 |  | A starter kit for the Laravel framework. |
-| 2026-11-10 12:12:16 | [elmphant/tui](https://www.nuget.org/packages/elmphant%2Ftui) | v0.1.0 | Wolfgang Klinger | The Elm Architecture for terminal UIs (TUI) in PHP |
-| 2026-11-10 12:15:55 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.26.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-10 12:26:10 | [gunsnprices/gunsnprices](https://www.nuget.org/packages/gunsnprices%2Fgunsnprices) | v0.1.0 | GunsNPrices | Parse firearm and ammunition product titles: brand, model, caliber, magazine ca… |
+| 2026-11-10 12:26:30 | [ulsyairil/transactional-outbox](https://www.nuget.org/packages/ulsyairil%2Ftransactional-outbox) | v1.0.0 |  | Transactional Outbox pattern for PHP: store events in the same database transac… |
+| 2026-11-10 12:32:21 | [bladeknigt89/yii2-dd](https://www.nuget.org/packages/bladeknigt89%2Fyii2-dd) | v1.0.0 | Bánfalvi Gábor | Laravel-compatible dd() and dump() for Yii2. |
+| 2026-11-10 12:46:59 | [apxcde/laravel-telltale](https://www.nuget.org/packages/apxcde%2Flaravel-telltale) | v0.0.1 | Spatie; apxcde | Send Laravel errors, logs and traces to Telltale. A fork of spatie/laravel-flar… |
+| 2026-11-10 12:47:10 | [jokerov/oauth2-yandex](https://www.nuget.org/packages/jokerov%2Foauth2-yandex) | v1.0.0 | Eugene Jokerov; Alexey Rakeev | Yandex OAuth2 Client Provider for The PHP League OAuth2-Client |
+| 2026-11-10 12:47:17 | [gesflow/sender-laravel](https://www.nuget.org/packages/gesflow%2Fsender-laravel) | v1.0.0 | GESFLOW | SDK Laravel officiel de GESFLOW SENDER : SMS, WhatsApp, codes OTP et webhooks. |
+| 2026-11-10 12:58:14 | [intragile/laravel-spreadsheet](https://www.nuget.org/packages/intragile%2Flaravel-spreadsheet) | v1.0.0 | IntrAgile Kft. | Streaming spreadsheet export and guided import for Laravel, built on intragile/… |
+| 2026-11-10 13:02:57 | [intragile/php-spreadsheet](https://www.nuget.org/packages/intragile%2Fphp-spreadsheet) | v1.0.0 | IntrAgile Kft. | Streaming XLSX, ODS and CSV reader and writer for PHP with no Composer dependen… |
+| 2026-11-10 13:07:02 | [peopleinside/flarum-restricted-visibility](https://www.nuget.org/packages/peopleinside%2Fflarum-restricted-visibility) | 1.0.1 |  | Limita la visibilità di singoli post o intere discussioni a gruppi o utenti sce… |
+| 2026-11-10 13:11:36 | [3neti/form-handler-document](https://www.nuget.org/packages/3neti%2Fform-handler-document) | v1.0.0 |  | Private document upload handler for form-flow |
 
 ## Data source
 

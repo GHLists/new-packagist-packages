@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-10T12:26:10Z,gunsnprices/gunsnprices,v0.1.0,GunsNPrices,"Parse firearm and ammunition product titles: brand, model, caliber, magazine capacity, barrel length, rounds per box."
+2026-11-10T12:26:30Z,ulsyairil/transactional-outbox,v1.0.0,,"Transactional Outbox pattern for PHP: store events in the same database transaction as your business writes, then relay them reliably. Framework-agnostic core with adapters for Laravel, CodeIgniter 4, Symfony, Yii 2 and CakePHP."
+2026-11-10T12:32:21Z,bladeknigt89/yii2-dd,v1.0.0,Bánfalvi Gábor,Laravel-compatible dd() and dump() for Yii2.
+2026-11-10T12:46:59Z,apxcde/laravel-telltale,v0.0.1,Spatie; apxcde,"Send Laravel errors, logs and traces to Telltale. A fork of spatie/laravel-flare."
+2026-11-10T12:47:10Z,jokerov/oauth2-yandex,v1.0.0,Eugene Jokerov; Alexey Rakeev,Yandex OAuth2 Client Provider for The PHP League OAuth2-Client
+2026-11-10T12:47:17Z,gesflow/sender-laravel,v1.0.0,GESFLOW,"SDK Laravel officiel de GESFLOW SENDER : SMS, WhatsApp, codes OTP et webhooks."
+2026-11-10T12:58:14Z,intragile/laravel-spreadsheet,v1.0.0,IntrAgile Kft.,"Streaming spreadsheet export and guided import for Laravel, built on intragile/php-spreadsheet: constant memory, keyset pagination, column mapping, validation and duplicate detection."
+2026-11-10T13:02:57Z,intragile/php-spreadsheet,v1.0.0,IntrAgile Kft.,"Streaming XLSX, ODS and CSV reader and writer for PHP with no Composer dependencies and constant memory per row."
+2026-11-10T13:07:02Z,peopleinside/flarum-restricted-visibility,1.0.1,,"Limita la visibilità di singoli post o intere discussioni a gruppi o utenti scelti, con notifiche filtrate e rimozione dati guidata."
+2026-11-10T13:11:36Z,3neti/form-handler-document,v1.0.0,,Private document upload handler for form-flow
