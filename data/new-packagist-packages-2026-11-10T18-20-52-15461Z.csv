@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-10T17:29:42Z,zarbinco/expiry-pricing,v0.1.1,,Shelf-life and expiry-based pricing calculations for Laravel.
+2026-11-10T17:33:13Z,atomicptr/symfony-indexed-search,v0.1.0,Christopher Kaster,"Indexed Search is a Symfony bundle that provides a straightforward database-powered search functionality for Doctrine entities. It makes implementing search across your application's data simple, flexible and easy to integrate."
+2026-11-10T18:10:49Z,danog/mongo-php-async-driver,v0.1.0,Daniil Gentili,"Drop-in replacement for the mongodb PHP extension (ext-mongodb 2.5.6) in pure Rust, with async I/O in fibers through Revolt"
+2026-11-10T18:14:21Z,beziworld/laravel-polkurier,v1.0.0,Kamil Ćwiertnia,"Polkurier.pl WebService API client for Laravel: carriers, price valuation, orders, labels, handover protocols, courier pickups, tracking, COD details, parcel points and address book."

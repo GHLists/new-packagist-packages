@@ -15,26 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 17:20 UTC
+## Latest list — 2026-11-10 18:20 UTC
 
-New packages created between 2026-11-10 16:20 UTC and 2026-11-10 17:20 UTC.
+New packages created between 2026-11-10 17:20 UTC and 2026-11-10 18:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-10T17-20-15-144005Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-10T18-20-52-15461Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-10 16:22:50 | [ernestdefoe/predictions](https://www.nuget.org/packages/ernestdefoe%2Fpredictions) | 1.0.0 | Ernest Defoe | Predictions: members call it before it happens. Multiple choice, yes/no and clo… |
-| 2026-11-10 16:25:10 | [ernestdefoe/secret-santa](https://www.nuget.org/packages/ernestdefoe%2Fsecret-santa) | 1.0.0 | Ernest Defoe | Secret Santa: gift exchanges for your community. Sign-ups with wishlists, an au… |
-| 2026-11-10 16:25:33 | [astral-php/astral-nova-css](https://www.nuget.org/packages/astral-php%2Fastral-nova-css) | 1.0.0 |  | Framework-agnostic CSS design system and theme assets for Astral applications. |
-| 2026-11-10 16:25:48 | [astral-php/astral-nova-icons](https://www.nuget.org/packages/astral-php%2Fastral-nova-icons) | 1.0.0 |  | Optional Nova SVG icon sprite and sizing CSS for Astral applications. |
-| 2026-11-10 16:26:15 | [astral-php/astral-template-nova](https://www.nuget.org/packages/astral-php%2Fastral-template-nova) | 1.0.0 |  | Nova-based layouts and reusable PHP view partials for Astral applications. |
-| 2026-11-10 16:38:15 | [anuarhdz/craft-r2](https://www.nuget.org/packages/anuarhdz%2Fcraft-r2) | 0.1.0 | anuarhdz | Cloudflare R2 filesystem for Craft CMS. |
-| 2026-11-10 16:46:52 | [kasevvlad/idempotency](https://www.nuget.org/packages/kasevvlad%2Fidempotency) | v0.1.0 | kasevvlad | Idempotency-Key header support for Laravel and Symfony: safe retries for POST/P… |
-| 2026-11-10 16:57:29 | [ernestdefoe/garage](https://www.nuget.org/packages/ernestdefoe%2Fgarage) | 1.0.0 | Ernest Defoe | Garage: members show off their builds (cars, PCs, keyboards, guitars, gardens,… |
-| 2026-11-10 17:00:03 | [zerofront/module-zero-ai-assistant](https://www.nuget.org/packages/zerofront%2Fmodule-zero-ai-assistant) | 1.3.9 | Roman Pasichnyk | Zero for Magento Open Source: an AI assistant in the admin for the catalog, con… |
-| 2026-11-10 17:00:03 | [zerofront/module-zero-mcp](https://www.nuget.org/packages/zerofront%2Fmodule-zero-mcp) | 1.3.9 | Roman Pasichnyk | Zero for Magento Open Source: the store as a connector in Claude (an MCP server… |
-| 2026-11-10 17:04:04 | [pecl/krb5](https://www.nuget.org/packages/pecl%2Fkrb5) | v1.3.0 |  | Kerberos/GSSPI and KAdmin bindings for PHP |
-| 2026-11-10 17:05:55 | [totalcms/starter-events](https://www.nuget.org/packages/totalcms%2Fstarter-events) | v1.0.0 | Joe Workman | Lantern Row Market: an events site for Total CMS, with news posts, a season of… |
+| 2026-11-10 17:29:42 | [zarbinco/expiry-pricing](https://www.nuget.org/packages/zarbinco%2Fexpiry-pricing) | v0.1.1 |  | Shelf-life and expiry-based pricing calculations for Laravel. |
+| 2026-11-10 17:33:13 | [atomicptr/symfony-indexed-search](https://www.nuget.org/packages/atomicptr%2Fsymfony-indexed-search) | v0.1.0 | Christopher Kaster | Indexed Search is a Symfony bundle that provides a straightforward database-pow… |
+| 2026-11-10 18:10:49 | [danog/mongo-php-async-driver](https://www.nuget.org/packages/danog%2Fmongo-php-async-driver) | v0.1.0 | Daniil Gentili | Drop-in replacement for the mongodb PHP extension (ext-mongodb 2.5.6) in pure R… |
+| 2026-11-10 18:14:21 | [beziworld/laravel-polkurier](https://www.nuget.org/packages/beziworld%2Flaravel-polkurier) | v1.0.0 | Kamil Ćwiertnia | Polkurier.pl WebService API client for Laravel: carriers, price valuation, orde… |
 
 ## Data source
 
