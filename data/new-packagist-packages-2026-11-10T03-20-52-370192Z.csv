@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-10T02:35:32Z,elcreator/adataforseo,0.1.0,,"aDataForSeo — gets your Evolution CMS site found in search: DataForSEO index coverage, technical audit, keyword demand and rank tracking turned into ranked, one-click changes (sSeo fields, redirects, draft pages), run in the background within a budget."
+2026-11-10T02:50:24Z,atannex/laravel-flutter-bridge,v2.0.0,Atannex Enterprise,"Enterprise-grade Laravel bridge for Flutter applications: Sanctum auth with rotating refresh tokens, connection sessions & remote sign-out, app keys with version policy, Reverb broadcasting, device registration, and Dart code generation."
+2026-11-10T02:58:39Z,kenprz/laravel-custom-fields,v1.0.0,Ken Perez,"User-defined custom fields for Eloquent models, without touching your schema."

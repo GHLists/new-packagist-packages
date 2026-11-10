@@ -15,19 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 02:21 UTC
+## Latest list — 2026-11-10 03:20 UTC
 
-New packages created between 2026-11-10 01:20 UTC and 2026-11-10 02:21 UTC.
+New packages created between 2026-11-10 02:21 UTC and 2026-11-10 03:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-10T02-21-59-843698Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-10T03-20-52-370192Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-10 01:21:07 | [raneomik/tracy-dark-mode](https://www.nuget.org/packages/raneomik%2Ftracy-dark-mode) | v0.1.0 |  | Dark theme for the Tracy bar, its panels and the bluescreen, with a toggle |
-| 2026-11-10 01:23:14 | [pirulug/qbgen](https://www.nuget.org/packages/pirulug%2Fqbgen) | 0.0.1 | Pirulug | Libreria PHP para la generacion y renderizado de codigos QR y codigos de barras… |
-| 2026-11-10 01:40:04 | [solophp/image](https://www.nuget.org/packages/solophp%2Fimage) | v1.0.0-RC1 | Vitaliy Olos | Immutable GD images for PHP: EXIF orientation, bounded resizing, JPEG/PNG/WebP… |
-| 2026-11-10 01:57:17 | [mgamadeus/ddd-design-studio](https://www.nuget.org/packages/mgamadeus%2Fddd-design-studio) | 0.1.0 | Marius-Eugen Gerdan | Design review studio for mgamadeus/ddd — shows the design boards of a checkout… |
-| 2026-11-10 02:02:24 | [puggan/untrusted-value](https://www.nuget.org/packages/puggan%2Funtrusted-value) | v0.1.0 | Thorbjörn Puggan Sundragon | Turn untrusted input values into type-safe values, with optional validation. |
+| 2026-11-10 02:35:32 | [elcreator/adataforseo](https://www.nuget.org/packages/elcreator%2Fadataforseo) | 0.1.0 |  | aDataForSeo — gets your Evolution CMS site found in search: DataForSEO index co… |
+| 2026-11-10 02:50:24 | [atannex/laravel-flutter-bridge](https://www.nuget.org/packages/atannex%2Flaravel-flutter-bridge) | v2.0.0 | Atannex Enterprise | Enterprise-grade Laravel bridge for Flutter applications: Sanctum auth with rot… |
+| 2026-11-10 02:58:39 | [kenprz/laravel-custom-fields](https://www.nuget.org/packages/kenprz%2Flaravel-custom-fields) | v1.0.0 | Ken Perez | User-defined custom fields for Eloquent models, without touching your schema. |
 
 ## Data source
 
