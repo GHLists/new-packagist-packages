@@ -15,17 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 09:21 UTC
+## Latest list — 2026-11-11 10:21 UTC
 
-New packages created between 2026-11-11 08:20 UTC and 2026-11-11 09:21 UTC.
+New packages created between 2026-11-11 09:21 UTC and 2026-11-11 10:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T09-21-03-084185Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-11T10-21-37-923808Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 08:41:04 | [bear/coding-standard](https://www.nuget.org/packages/bear%2Fcoding-standard) | 0.1.1 |  | PHPCS ruleset and custom sniffs for BEAR.Sunday projects |
-| 2026-11-11 08:42:04 | [mammatus/queue](https://www.nuget.org/packages/mammatus%2Fqueue) | 0.1.0 |  | ⏱️ Queue manager |
-| 2026-11-11 08:43:13 | [marcodes/statamic-consent](https://www.nuget.org/packages/marcodes%2Fstatamic-consent) | v1.0.1 | MARCODES GmbH | Cookie banner, Google Analytics 4 with Google Consent Mode v2 (strict opt-in) a… |
+| 2026-11-11 09:37:06 | [terbora/openpgp](https://www.nuget.org/packages/terbora%2Fopenpgp) | v1.0 | Nguyen Van Nguyen; Iliya Bazl… | Terbora OpenPGP - A modern, PHP-native implementation of the OpenPGP standard (… |
+| 2026-11-11 09:39:36 | [cardee/smsc-ru](https://www.nuget.org/packages/cardee%2Fsmsc-ru) | v3.7.1 | Sergei Gruzdov | SmscRu notifications channel for Laravel 5.3+ |
+| 2026-11-11 09:45:18 | [jvh/nk-legpuzzelen-bundle](https://www.nuget.org/packages/jvh%2Fnk-legpuzzelen-bundle) | 1.0.2 |  | Customisations for NK Legpuzzelen. |
+| 2026-11-11 09:53:38 | [contashare/socialite](https://www.nuget.org/packages/contashare%2Fsocialite) | v0.1.0 |  | Sign in with ContaShare for Laravel Socialite, plus a checker for ContaShare we… |
+| 2026-11-11 10:06:24 | [subarist/waterhole-user-card](https://www.nuget.org/packages/subarist%2Fwaterhole-user-card) | v1.0.0 |  | Compact hover user cards for Waterhole |
 
 ## Data source
 

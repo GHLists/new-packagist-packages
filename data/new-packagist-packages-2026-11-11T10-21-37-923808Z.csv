@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-11T09:37:06Z,terbora/openpgp,v1.0,Nguyen Van Nguyen; Iliya Bazlyankov,"Terbora OpenPGP - A modern, PHP-native implementation of the OpenPGP standard (RFC 9580)"
+2026-11-11T09:39:36Z,cardee/smsc-ru,v3.7.1,Sergei Gruzdov,SmscRu notifications channel for Laravel 5.3+
+2026-11-11T09:45:18Z,jvh/nk-legpuzzelen-bundle,1.0.2,,Customisations for NK Legpuzzelen.
+2026-11-11T09:53:38Z,contashare/socialite,v0.1.0,,"Sign in with ContaShare for Laravel Socialite, plus a checker for ContaShare webhook signatures."
+2026-11-11T10:06:24Z,subarist/waterhole-user-card,v1.0.0,,Compact hover user cards for Waterhole
