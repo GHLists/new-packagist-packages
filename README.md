@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 04:19 UTC
+## Latest list — 2026-11-11 05:20 UTC
 
-New packages created between 2026-11-11 03:19 UTC and 2026-11-11 04:19 UTC.
+New packages created between 2026-11-11 04:19 UTC and 2026-11-11 05:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T04-19-47-965767Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-11T05-20-27-133956Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 04:03:26 | [contenir/contenir-navigation-laminas-mvc](https://www.nuget.org/packages/contenir%2Fcontenir-navigation-laminas-mvc) | v0.1.0 |  | Draws a Contenir site's managed menus in laminas-mvc: each live menu as a Lamin… |
+| 2026-11-11 04:38:03 | [wyzecash/wyzecash](https://www.nuget.org/packages/wyzecash%2Fwyzecash) | v0.1.0 |  | SDK oficial da WyzeCash para PHP: cobranças por Pix, cartão e cripto, saques, s… |
+| 2026-11-11 05:13:32 | [isbnlab/isbnlab-php](https://www.nuget.org/packages/isbnlab%2Fisbnlab-php) | v0.1.0 | ISBNLab | Official PHP client for the ISBNLab book metadata API: look up books by ISBN, a… |
 
 ## Data source
 
