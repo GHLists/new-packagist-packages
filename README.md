@@ -15,19 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 10:21 UTC
+## Latest list — 2026-11-11 11:20 UTC
 
-New packages created between 2026-11-11 09:21 UTC and 2026-11-11 10:21 UTC.
+New packages created between 2026-11-11 10:21 UTC and 2026-11-11 11:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T10-21-37-923808Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-11T11-20-14-183018Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 09:37:06 | [terbora/openpgp](https://www.nuget.org/packages/terbora%2Fopenpgp) | v1.0 | Nguyen Van Nguyen; Iliya Bazl… | Terbora OpenPGP - A modern, PHP-native implementation of the OpenPGP standard (… |
-| 2026-11-11 09:39:36 | [cardee/smsc-ru](https://www.nuget.org/packages/cardee%2Fsmsc-ru) | v3.7.1 | Sergei Gruzdov | SmscRu notifications channel for Laravel 5.3+ |
-| 2026-11-11 09:45:18 | [jvh/nk-legpuzzelen-bundle](https://www.nuget.org/packages/jvh%2Fnk-legpuzzelen-bundle) | 1.0.2 |  | Customisations for NK Legpuzzelen. |
-| 2026-11-11 09:53:38 | [contashare/socialite](https://www.nuget.org/packages/contashare%2Fsocialite) | v0.1.0 |  | Sign in with ContaShare for Laravel Socialite, plus a checker for ContaShare we… |
-| 2026-11-11 10:06:24 | [subarist/waterhole-user-card](https://www.nuget.org/packages/subarist%2Fwaterhole-user-card) | v1.0.0 |  | Compact hover user cards for Waterhole |
+| 2026-11-11 10:22:21 | [sendio/sendio-php](https://www.nuget.org/packages/sendio%2Fsendio-php) | v1.0.0 | send.io | Official send.io PHP SDK. |
+| 2026-11-11 10:22:30 | [sendio/sendio-laravel](https://www.nuget.org/packages/sendio%2Fsendio-laravel) | v1.0.0 | send.io | Official send.io integration for Laravel: mail transport, facade and webhooks. |
+| 2026-11-11 10:24:01 | [evalship/tinyeval](https://www.nuget.org/packages/evalship%2Ftinyeval) | v0.11.0 |  | Evals for the AI calls in your PHP or Laravel app, run by one bash file |
+| 2026-11-11 10:33:05 | [magicpay/magicpay-php](https://www.nuget.org/packages/magicpay%2Fmagicpay-php) | v0.1.0 | MagicPay | Official PHP SDK for the MagicPay payment API |
+| 2026-11-11 10:47:05 | [logipro/turbolead-api](https://www.nuget.org/packages/logipro%2Fturbolead-api) | v0.1.0 | Frédéric Royet | Shared PSR-18 transport for Turbolead REST API clients |
+| 2026-11-11 10:47:44 | [limegreentangerine/cookie_manager_kit](https://www.nuget.org/packages/limegreentangerine%2Fcookie_manager_kit) | v1.0.0 | Dave Hendy | ConcreteCMS package to manage Cookie Banner |
+| 2026-11-11 10:55:00 | [cardee/phphypher](https://www.nuget.org/packages/cardee%2Fphphypher) | v8.5.0 | Sergei Gruzdov | Hyphenation library and MODX Revolution output filter |
+| 2026-11-11 10:59:44 | [logipro/turbolead-core-php](https://www.nuget.org/packages/logipro%2Fturbolead-core-php) | v0.1.0 | Frédéric Royet | PHP client for the Turbolead core REST API (`/api/turbolead` and `/api/user`) |
 
 ## Data source
 

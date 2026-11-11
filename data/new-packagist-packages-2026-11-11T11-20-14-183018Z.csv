@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-11T10:22:21Z,sendio/sendio-php,v1.0.0,send.io,Official send.io PHP SDK.
+2026-11-11T10:22:30Z,sendio/sendio-laravel,v1.0.0,send.io,"Official send.io integration for Laravel: mail transport, facade and webhooks."
+2026-11-11T10:24:01Z,evalship/tinyeval,v0.11.0,,"Evals for the AI calls in your PHP or Laravel app, run by one bash file"
+2026-11-11T10:33:05Z,magicpay/magicpay-php,v0.1.0,MagicPay,Official PHP SDK for the MagicPay payment API
+2026-11-11T10:47:05Z,logipro/turbolead-api,v0.1.0,Frédéric Royet,Shared PSR-18 transport for Turbolead REST API clients
+2026-11-11T10:47:44Z,limegreentangerine/cookie_manager_kit,v1.0.0,Dave Hendy,ConcreteCMS package to manage Cookie Banner
+2026-11-11T10:55:00Z,cardee/phphypher,v8.5.0,Sergei Gruzdov,Hyphenation library and MODX Revolution output filter
+2026-11-11T10:59:44Z,logipro/turbolead-core-php,v0.1.0,Frédéric Royet,PHP client for the Turbolead core REST API (`/api/turbolead` and `/api/user`)
