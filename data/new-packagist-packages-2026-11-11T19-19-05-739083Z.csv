@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-11-11T18:24:00Z,kirora/kirora-php,v0.1.0,Kirora and contributors,Kirora SDK for PHP.
+2026-11-11T18:37:29Z,hamdallah90/jsonfuse,v1.0.0,,"One-call NDJSON validate, filter and project pipeline for PHP, native and bounded in memory."
+2026-11-11T18:41:52Z,forumify/forumify-aurora-theme,1.0.0,,"Night sky glass: frosted panels floating over a slow aurora, with a dawn variant for light mode."
+2026-11-11T18:41:56Z,forumify/forumify-dossier-theme,1.0.0,,"A classified field file: stencilled headings, typewritten pages, rubber stamps and classification banners."
+2026-11-11T18:42:00Z,forumify/forumify-gumdrop-theme,1.0.0,,"A cozy clay toybox: puffy pills, soft candy colours and squishy buttons."
+2026-11-11T18:42:04Z,forumify/forumify-recon-theme,1.0.0,,"A tactical HUD for milsim units and clans: chamfered panels, signal amber and a desert day mode."
+2026-11-11T18:42:08Z,forumify/forumify-riso-theme,1.0.0,,"A risograph print zine: fluorescent inks, misregistered offset shadows and paper grain."
+2026-11-11T18:42:12Z,forumify/forumify-thermal-theme,1.0.0,,"Thermal targeting optics: ironbow heat gradients, a scope reticle and panels that heat up under your cursor."
+2026-11-11T18:46:19Z,wai-blue/hubleto-einvoice,2.0.0-alpha1,,Electronic invoicing and Peppol provider integration for Hubleto
+2026-11-11T18:57:20Z,marekmiklusek/laravel-slack-errors,v1.0.0,Marek Miklusek,Send every reported exception from your Laravel app to a Slack channel.
+2026-11-11T19:12:18Z,braskai/rask-sdk,3.0.0-alpha.0,,PHP SDK for the Rask API v3 (video and audio localization).

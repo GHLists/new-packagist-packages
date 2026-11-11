@@ -15,22 +15,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 18:19 UTC
+## Latest list — 2026-11-11 19:19 UTC
 
-New packages created between 2026-11-11 17:19 UTC and 2026-11-11 18:19 UTC.
+New packages created between 2026-11-11 18:19 UTC and 2026-11-11 19:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T18-19-55-54487Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-11T19-19-05-739083Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 17:20:40 | [alibabacloud/ecdbiz-20240929](https://www.nuget.org/packages/alibabacloud%2Fecdbiz-20240929) | 1.0.0 | Alibaba Cloud SDK | Alibaba Cloud EcdBiz (20240929) SDK Library for PHP |
-| 2026-11-11 17:25:33 | [marcelofecchio/vipp-php-sdk](https://www.nuget.org/packages/marcelofecchio%2Fvipp-php-sdk) | v0.1.0 | Marcelo Fecchio | SDK PHP 8.4 para o Web Service de Postagem do ViPP (VisualSet), com integração… |
-| 2026-11-11 17:28:44 | [artaskynet/id](https://www.nuget.org/packages/artaskynet%2Fid) | 0.0.2 | Sergey Serov |  |
-| 2026-11-11 17:31:54 | [mannydmorales/application](https://www.nuget.org/packages/mannydmorales%2Fapplication) | v2.0.0 | Manny Morales | PHP library for Applications. |
-| 2026-11-11 17:43:13 | [citadel/wiki-plugin](https://www.nuget.org/packages/citadel%2Fwiki-plugin) | 1.0.0 | Oscar Ellis | Wiki plugin for forumify |
-| 2026-11-11 17:52:15 | [pasak-dev/secure-monitor](https://www.nuget.org/packages/pasak-dev%2Fsecure-monitor) | v1.0.0 | Roby; pasak-dev | Pasak - enterprise-grade headless self-hosted WAF, threat detection engine, zer… |
-| 2026-11-11 17:52:30 | [yurkovskiy/laravel-partitions](https://www.nuget.org/packages/yurkovskiy%2Flaravel-partitions) | v0.1.1 | Max Yurkovskiy | Flexible MySQL partition management for Laravel: RANGE partitions by day/week/m… |
-| 2026-11-11 18:04:56 | [adachsoft/phpstan-runner-lib](https://www.nuget.org/packages/adachsoft%2Fphpstan-runner-lib) | v0.1.0 |  | Run PHPStan from PHP and parse its JSON output into structured result DTOs. |
+| 2026-11-11 18:24:00 | [kirora/kirora-php](https://www.nuget.org/packages/kirora%2Fkirora-php) | v0.1.0 | Kirora and contributors | Kirora SDK for PHP. |
+| 2026-11-11 18:37:29 | [hamdallah90/jsonfuse](https://www.nuget.org/packages/hamdallah90%2Fjsonfuse) | v1.0.0 |  | One-call NDJSON validate, filter and project pipeline for PHP, native and bound… |
+| 2026-11-11 18:41:52 | [forumify/forumify-aurora-theme](https://www.nuget.org/packages/forumify%2Fforumify-aurora-theme) | 1.0.0 |  | Night sky glass: frosted panels floating over a slow aurora, with a dawn varian… |
+| 2026-11-11 18:41:56 | [forumify/forumify-dossier-theme](https://www.nuget.org/packages/forumify%2Fforumify-dossier-theme) | 1.0.0 |  | A classified field file: stencilled headings, typewritten pages, rubber stamps… |
+| 2026-11-11 18:42:00 | [forumify/forumify-gumdrop-theme](https://www.nuget.org/packages/forumify%2Fforumify-gumdrop-theme) | 1.0.0 |  | A cozy clay toybox: puffy pills, soft candy colours and squishy buttons. |
+| 2026-11-11 18:42:04 | [forumify/forumify-recon-theme](https://www.nuget.org/packages/forumify%2Fforumify-recon-theme) | 1.0.0 |  | A tactical HUD for milsim units and clans: chamfered panels, signal amber and a… |
+| 2026-11-11 18:42:08 | [forumify/forumify-riso-theme](https://www.nuget.org/packages/forumify%2Fforumify-riso-theme) | 1.0.0 |  | A risograph print zine: fluorescent inks, misregistered offset shadows and pape… |
+| 2026-11-11 18:42:12 | [forumify/forumify-thermal-theme](https://www.nuget.org/packages/forumify%2Fforumify-thermal-theme) | 1.0.0 |  | Thermal targeting optics: ironbow heat gradients, a scope reticle and panels th… |
+| 2026-11-11 18:46:19 | [wai-blue/hubleto-einvoice](https://www.nuget.org/packages/wai-blue%2Fhubleto-einvoice) | 2.0.0-alpha1 |  | Electronic invoicing and Peppol provider integration for Hubleto |
+| 2026-11-11 18:57:20 | [marekmiklusek/laravel-slack-errors](https://www.nuget.org/packages/marekmiklusek%2Flaravel-slack-errors) | v1.0.0 | Marek Miklusek | Send every reported exception from your Laravel app to a Slack channel. |
+| 2026-11-11 19:12:18 | [braskai/rask-sdk](https://www.nuget.org/packages/braskai%2Frask-sdk) | 3.0.0-alpha.0 |  | PHP SDK for the Rask API v3 (video and audio localization). |
 
 ## Data source
 
