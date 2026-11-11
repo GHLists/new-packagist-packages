@@ -15,22 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 11:20 UTC
+## Latest list — 2026-11-11 12:19 UTC
 
-New packages created between 2026-11-11 10:21 UTC and 2026-11-11 11:20 UTC.
+New packages created between 2026-11-11 11:20 UTC and 2026-11-11 12:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T11-20-14-183018Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-11T12-19-03-83144Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 10:22:21 | [sendio/sendio-php](https://www.nuget.org/packages/sendio%2Fsendio-php) | v1.0.0 | send.io | Official send.io PHP SDK. |
-| 2026-11-11 10:22:30 | [sendio/sendio-laravel](https://www.nuget.org/packages/sendio%2Fsendio-laravel) | v1.0.0 | send.io | Official send.io integration for Laravel: mail transport, facade and webhooks. |
-| 2026-11-11 10:24:01 | [evalship/tinyeval](https://www.nuget.org/packages/evalship%2Ftinyeval) | v0.11.0 |  | Evals for the AI calls in your PHP or Laravel app, run by one bash file |
-| 2026-11-11 10:33:05 | [magicpay/magicpay-php](https://www.nuget.org/packages/magicpay%2Fmagicpay-php) | v0.1.0 | MagicPay | Official PHP SDK for the MagicPay payment API |
-| 2026-11-11 10:47:05 | [logipro/turbolead-api](https://www.nuget.org/packages/logipro%2Fturbolead-api) | v0.1.0 | Frédéric Royet | Shared PSR-18 transport for Turbolead REST API clients |
-| 2026-11-11 10:47:44 | [limegreentangerine/cookie_manager_kit](https://www.nuget.org/packages/limegreentangerine%2Fcookie_manager_kit) | v1.0.0 | Dave Hendy | ConcreteCMS package to manage Cookie Banner |
-| 2026-11-11 10:55:00 | [cardee/phphypher](https://www.nuget.org/packages/cardee%2Fphphypher) | v8.5.0 | Sergei Gruzdov | Hyphenation library and MODX Revolution output filter |
-| 2026-11-11 10:59:44 | [logipro/turbolead-core-php](https://www.nuget.org/packages/logipro%2Fturbolead-core-php) | v0.1.0 | Frédéric Royet | PHP client for the Turbolead core REST API (`/api/turbolead` and `/api/user`) |
+| 2026-11-11 11:30:06 | [clickfix/sdk](https://www.nuget.org/packages/clickfix%2Fsdk) | v0.1.0 |  | ClickFix public API client for PHP 8.1+: PSR-18 transport, typed errors, bounde… |
+| 2026-11-11 11:30:09 | [clickfix/laravel](https://www.nuget.org/packages/clickfix%2Flaravel) | v0.1.0 |  | ClickFix for Laravel 10, 11, 12 and 13: service provider, ClickFix facade, arti… |
+| 2026-11-11 11:31:38 | [refatbd/laravel-chatgpt-mirror](https://www.nuget.org/packages/refatbd%2Flaravel-chatgpt-mirror) | v2.1.0 | Mostafizur Rahman Refat | High-performance OpenAI-compatible API & ChatGPT Web UI reverse proxy for Larav… |
+| 2026-11-11 11:38:50 | [luvittor/geoip-updater](https://www.nuget.org/packages/luvittor%2Fgeoip-updater) | v0.1.0 |  | Safe, framework-agnostic updater for MaxMind GeoLite2 and GeoIP2 databases. |
+| 2026-11-11 11:42:25 | [sitebill/app-sdk](https://www.nuget.org/packages/sitebill%2Fapp-sdk) | v0.2.0 | Sitebill | SDK for installable Sitebill apps (PHP + Vue): base service provider, tenant-aw… |
+| 2026-11-11 11:54:16 | [azhimov/laravel-idempotency](https://www.nuget.org/packages/azhimov%2Flaravel-idempotency) | v0.1.0 | Zhanibek Azhimov | Idempotency-Key middleware for Laravel: safe retries for POST/PATCH APIs with r… |
+| 2026-11-11 12:10:19 | [limegreentangerine/content_importer_kit](https://www.nuget.org/packages/limegreentangerine%2Fcontent_importer_kit) | 1.2.1 | Dave Hendy; Lee Jones | Content Importer |
 
 ## Data source
 

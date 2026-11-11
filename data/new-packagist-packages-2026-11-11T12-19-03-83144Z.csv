@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-11T11:30:06Z,clickfix/sdk,v0.1.0,,"ClickFix public API client for PHP 8.1+: PSR-18 transport, typed errors, bounded retries, pagination, webhook signature verification and widget identity hashes."
+2026-11-11T11:30:09Z,clickfix/laravel,v0.1.0,,"ClickFix for Laravel 10, 11, 12 and 13: service provider, ClickFix facade, artisan commands, signed webhook route with one Laravel event per ClickFix event, and the @clickfixWidget Blade directive."
+2026-11-11T11:31:38Z,refatbd/laravel-chatgpt-mirror,v2.1.0,Mostafizur Rahman Refat,High-performance OpenAI-compatible API & ChatGPT Web UI reverse proxy for Laravel with multi-token pooling and concurrency management.
+2026-11-11T11:38:50Z,luvittor/geoip-updater,v0.1.0,,"Safe, framework-agnostic updater for MaxMind GeoLite2 and GeoIP2 databases."
+2026-11-11T11:42:25Z,sitebill/app-sdk,v0.2.0,Sitebill,"SDK for installable Sitebill apps (PHP + Vue): base service provider, tenant-aware models, contracts. Sitebill is a real-estate CMS / SaaS platform."
+2026-11-11T11:54:16Z,azhimov/laravel-idempotency,v0.1.0,Zhanibek Azhimov,"Idempotency-Key middleware for Laravel: safe retries for POST/PATCH APIs with request fingerprinting, concurrency locks and cache or database storage."
+2026-11-11T12:10:19Z,limegreentangerine/content_importer_kit,1.2.1,Dave Hendy; Lee Jones,Content Importer
