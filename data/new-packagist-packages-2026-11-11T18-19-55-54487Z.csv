@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-11T17:20:40Z,alibabacloud/ecdbiz-20240929,1.0.0,Alibaba Cloud SDK,Alibaba Cloud EcdBiz (20240929) SDK Library for PHP
+2026-11-11T17:25:33Z,marcelofecchio/vipp-php-sdk,v0.1.0,Marcelo Fecchio,"SDK PHP 8.4 para o Web Service de Postagem do ViPP (VisualSet), com integração opcional ao Laravel."
+2026-11-11T17:28:44Z,artaskynet/id,0.0.2,Sergey Serov,
+2026-11-11T17:31:54Z,mannydmorales/application,v2.0.0,Manny Morales,PHP library for Applications.
+2026-11-11T17:43:13Z,citadel/wiki-plugin,1.0.0,Oscar Ellis,Wiki plugin for forumify
+2026-11-11T17:52:15Z,pasak-dev/secure-monitor,v1.0.0,Roby; pasak-dev,"Pasak - enterprise-grade headless self-hosted WAF, threat detection engine, zero-tolerance blocking, stepped login lockout, and security auditing toolkit for Laravel."
+2026-11-11T17:52:30Z,yurkovskiy/laravel-partitions,v0.1.1,Max Yurkovskiy,"Flexible MySQL partition management for Laravel: RANGE partitions by day/week/month/year, retention pruning, artisan tooling and scheduled maintenance."
+2026-11-11T18:04:56Z,adachsoft/phpstan-runner-lib,v0.1.0,,Run PHPStan from PHP and parse its JSON output into structured result DTOs.

@@ -15,20 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 17:19 UTC
+## Latest list — 2026-11-11 18:19 UTC
 
-New packages created between 2026-11-11 16:20 UTC and 2026-11-11 17:19 UTC.
+New packages created between 2026-11-11 17:19 UTC and 2026-11-11 18:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T17-19-34-699139Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-11T18-19-55-54487Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 16:30:38 | [stackradar/php](https://www.nuget.org/packages/stackradar%2Fphp) | v0.1.0 |  | Report installed Composer dependencies and PHP runtime information to StackRada… |
-| 2026-11-11 16:33:43 | [karaodin/filament-dynamic-tables](https://www.nuget.org/packages/karaodin%2Ffilament-dynamic-tables) | v1.0.0 | karaOdin | Supercharge Filament tables with user views, preset views, a favorites bar, qui… |
-| 2026-11-11 16:38:32 | [juaniquillo/base-backend-component](https://www.nuget.org/packages/juaniquillo%2Fbase-backend-component) | v0.1.0 | Victor Sánchez | Framework-agnostic base state for backend components: attributes, contents, set… |
-| 2026-11-11 17:04:08 | [light8749/recoverkit](https://www.nuget.org/packages/light8749%2Frecoverkit) | v1.0.0 |  | RecoverKit PHP SDK and read-only connector: record real sales and bring in past… |
-| 2026-11-11 17:12:05 | [pasak-dev/pasak-secure-monitor-laravel](https://www.nuget.org/packages/pasak-dev%2Fpasak-secure-monitor-laravel) | v1.0.0 | Roby; pasak-dev | Pasak - enterprise-grade headless self-hosted WAF, threat detection engine, zer… |
-| 2026-11-11 17:15:01 | [lara-igniter/laraigniter-qrcode](https://www.nuget.org/packages/lara-igniter%2Flaraigniter-qrcode) | v1.0.0 |  | Fluent QR codes for Laraigniter. The QrCode facade builds a code through BaconQ… |
+| 2026-11-11 17:20:40 | [alibabacloud/ecdbiz-20240929](https://www.nuget.org/packages/alibabacloud%2Fecdbiz-20240929) | 1.0.0 | Alibaba Cloud SDK | Alibaba Cloud EcdBiz (20240929) SDK Library for PHP |
+| 2026-11-11 17:25:33 | [marcelofecchio/vipp-php-sdk](https://www.nuget.org/packages/marcelofecchio%2Fvipp-php-sdk) | v0.1.0 | Marcelo Fecchio | SDK PHP 8.4 para o Web Service de Postagem do ViPP (VisualSet), com integração… |
+| 2026-11-11 17:28:44 | [artaskynet/id](https://www.nuget.org/packages/artaskynet%2Fid) | 0.0.2 | Sergey Serov |  |
+| 2026-11-11 17:31:54 | [mannydmorales/application](https://www.nuget.org/packages/mannydmorales%2Fapplication) | v2.0.0 | Manny Morales | PHP library for Applications. |
+| 2026-11-11 17:43:13 | [citadel/wiki-plugin](https://www.nuget.org/packages/citadel%2Fwiki-plugin) | 1.0.0 | Oscar Ellis | Wiki plugin for forumify |
+| 2026-11-11 17:52:15 | [pasak-dev/secure-monitor](https://www.nuget.org/packages/pasak-dev%2Fsecure-monitor) | v1.0.0 | Roby; pasak-dev | Pasak - enterprise-grade headless self-hosted WAF, threat detection engine, zer… |
+| 2026-11-11 17:52:30 | [yurkovskiy/laravel-partitions](https://www.nuget.org/packages/yurkovskiy%2Flaravel-partitions) | v0.1.1 | Max Yurkovskiy | Flexible MySQL partition management for Laravel: RANGE partitions by day/week/m… |
+| 2026-11-11 18:04:56 | [adachsoft/phpstan-runner-lib](https://www.nuget.org/packages/adachsoft%2Fphpstan-runner-lib) | v0.1.0 |  | Run PHPStan from PHP and parse its JSON output into structured result DTOs. |
 
 ## Data source
 
