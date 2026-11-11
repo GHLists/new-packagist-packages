@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 08:20 UTC
+## Latest list — 2026-11-11 09:21 UTC
 
-New packages created between 2026-11-11 07:20 UTC and 2026-11-11 08:20 UTC.
+New packages created between 2026-11-11 08:20 UTC and 2026-11-11 09:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T08-20-08-848944Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-11T09-21-03-084185Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 07:46:52 | [fiskit/fiskit-php](https://www.nuget.org/packages/fiskit%2Ffiskit-php) | v0.1.0 |  | Official PHP client for the FisKit API: Argentine electronic invoices with ARCA… |
-| 2026-11-11 07:50:10 | [garak/sf-dep](https://www.nuget.org/packages/garak%2Fsf-dep) | v0.1.0 | Massimiliano Arione | Shared Deployer recipe for Symfony projects |
-| 2026-11-11 07:56:17 | [totalcms/starter-realtor](https://www.nuget.org/packages/totalcms%2Fstarter-realtor) | v1.0.0 | Joe Workman | Valeria Montoya: a real estate agent's site for Total CMS, in English and Spani… |
+| 2026-11-11 08:41:04 | [bear/coding-standard](https://www.nuget.org/packages/bear%2Fcoding-standard) | 0.1.1 |  | PHPCS ruleset and custom sniffs for BEAR.Sunday projects |
+| 2026-11-11 08:42:04 | [mammatus/queue](https://www.nuget.org/packages/mammatus%2Fqueue) | 0.1.0 |  | ⏱️ Queue manager |
+| 2026-11-11 08:43:13 | [marcodes/statamic-consent](https://www.nuget.org/packages/marcodes%2Fstatamic-consent) | v1.0.1 | MARCODES GmbH | Cookie banner, Google Analytics 4 with Google Consent Mode v2 (strict opt-in) a… |
 
 ## Data source
 

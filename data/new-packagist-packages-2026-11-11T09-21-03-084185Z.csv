@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-11T08:41:04Z,bear/coding-standard,0.1.1,,PHPCS ruleset and custom sniffs for BEAR.Sunday projects
+2026-11-11T08:42:04Z,mammatus/queue,0.1.0,,⏱️ Queue manager
+2026-11-11T08:43:13Z,marcodes/statamic-consent,v1.0.1,MARCODES GmbH,"Cookie banner, Google Analytics 4 with Google Consent Mode v2 (strict opt-in) and two-click consent gates for YouTube, Vimeo and Google Maps."
