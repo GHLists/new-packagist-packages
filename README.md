@@ -15,20 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 07:20 UTC
+## Latest list — 2026-11-11 08:20 UTC
 
-New packages created between 2026-11-11 06:19 UTC and 2026-11-11 07:20 UTC.
+New packages created between 2026-11-11 07:20 UTC and 2026-11-11 08:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T07-20-49-412552Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-11T08-20-08-848944Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 06:38:09 | [omnisense/contracts](https://www.nuget.org/packages/omnisense%2Fcontracts) | v1.0.0-rc.1 | Marco Meyer | The contracts every omnisense provider family builds on, under any PHP host: a… |
-| 2026-11-11 06:59:07 | [zenepay/laravel-infobip](https://www.nuget.org/packages/zenepay%2Flaravel-infobip) | 1.0.0 | Zenepay | Laravel client for the Infobip People API: profiles, batch updates, and people… |
-| 2026-11-11 07:03:49 | [jbmm/db-table-manager](https://www.nuget.org/packages/jbmm%2Fdb-table-manager) | v1.0.0 | Jbmm | Local-only Laravel UI for browsing and managing database tables |
-| 2026-11-11 07:03:49 | [jbmm/table-record-manager](https://www.nuget.org/packages/jbmm%2Ftable-record-manager) | v1.0.0 | Jbmm | Local-only Laravel UI for browsing and managing database tables |
-| 2026-11-11 07:04:51 | [youvision/think-auth](https://www.nuget.org/packages/youvision%2Fthink-auth) | v1.0.0 |  | Role based access control (RBAC) authentication package for ThinkPHP 8. |
-| 2026-11-11 07:10:46 | [rkov/view-model](https://www.nuget.org/packages/rkov%2Fview-model) | v1.0.0 | Rochev Yakov | View models for REST API — create model representations using dependency inject… |
+| 2026-11-11 07:46:52 | [fiskit/fiskit-php](https://www.nuget.org/packages/fiskit%2Ffiskit-php) | v0.1.0 |  | Official PHP client for the FisKit API: Argentine electronic invoices with ARCA… |
+| 2026-11-11 07:50:10 | [garak/sf-dep](https://www.nuget.org/packages/garak%2Fsf-dep) | v0.1.0 | Massimiliano Arione | Shared Deployer recipe for Symfony projects |
+| 2026-11-11 07:56:17 | [totalcms/starter-realtor](https://www.nuget.org/packages/totalcms%2Fstarter-realtor) | v1.0.0 | Joe Workman | Valeria Montoya: a real estate agent's site for Total CMS, in English and Spani… |
 
 ## Data source
 
