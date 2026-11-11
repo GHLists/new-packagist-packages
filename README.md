@@ -15,20 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 00:22 UTC
+## Latest list — 2026-11-11 02:20 UTC
 
-New packages created between 2026-11-10 23:19 UTC and 2026-11-11 00:22 UTC.
+New packages created between 2026-11-11 01:20 UTC and 2026-11-11 02:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T00-22-06-248678Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-11T02-20-44-684722Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-10 23:31:49 | [delgraf/module-passkey-auth-popup](https://www.nuget.org/packages/delgraf%2Fmodule-passkey-auth-popup) | v1.0.0 | Delgraf | Adds passkey (WebAuthn) sign-in to Magento 2's authentication popup, as an add-… |
-| 2026-11-10 23:33:39 | [totalcms/starter-hvac](https://www.nuget.org/packages/totalcms%2Fstarter-hvac) | v1.0.0 | Joe Workman | Foxtail Heating & Air: a heating and cooling company's site for Total CMS, with… |
-| 2026-11-11 00:00:13 | [n2ns/laravel-stats](https://www.nuget.org/packages/n2ns%2Flaravel-stats) | v0.1.0 | Datafrog LLC | N2N Stats: cookieless, multi-site web analytics for Laravel. Only daily aggrega… |
-| 2026-11-11 00:03:55 | [mkrawczyk/configurable-wysiwyg](https://www.nuget.org/packages/mkrawczyk%2Fconfigurable-wysiwyg) | v0.0.1 |  | Backend for Wysiwyg editor that can be configured and can be converted to any f… |
-| 2026-11-11 00:05:37 | [delgraf/module-passkey-auth-translations](https://www.nuget.org/packages/delgraf%2Fmodule-passkey-auth-translations) | v1.0.0 | Delgraf | Italian, German, French and Spanish translations for mage-os/module-passkey-aut… |
-| 2026-11-11 00:17:44 | [ernestdefoe/spoiler-shield](https://www.nuget.org/packages/ernestdefoe%2Fspoiler-shield) | 1.0.0 | Ernest Defoe | Spoiler Shield: discussions and posts gated to each member's progress through a… |
+| 2026-11-11 01:26:10 | [holyat/filament-jp-postal](https://www.nuget.org/packages/holyat%2Ffilament-jp-postal) | v1.0.0 | Holyat | Japanese postal code (郵便番号) address auto-fill for Filament: a postal code input… |
+| 2026-11-11 01:50:42 | [mossy2100/better-base64](https://www.nuget.org/packages/mossy2100%2Fbetter-base64) | v1.0.0 | Shaun Moss | Base64 encoding for PHP that preserves sort order, using HTML- and filename-saf… |
 
 ## Data source
 

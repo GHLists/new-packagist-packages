@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-11T01:26:10Z,holyat/filament-jp-postal,v1.0.0,Holyat,"Japanese postal code (郵便番号) address auto-fill for Filament: a postal code input that fills 都道府県・市区町村・町域, a prefecture select, and zipcloud / Japan Post data drivers."
+2026-11-11T01:50:42Z,mossy2100/better-base64,v1.0.0,Shaun Moss,"Base64 encoding for PHP that preserves sort order, using HTML- and filename-safe characters."
