@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-11T21:22:28Z,phil/ux-kit,0.1.0-alpha,Philippe Gamache,"PHIL UX kit for the Symfony UX Toolkit: the same recipes as the Shadcn kit, styled with phil-ux, installed with ux:install --kit; required in development by the bundles whose tests render its recipes"
+2026-11-11T21:22:29Z,phil/ux-css,0.1.0-alpha,Philippe Gamache,"phil-ux, the CSS framework of PHIL: real, mostly classless CSS with --phil-* tokens, light and dark, and isX/hasX state classes; with the OKLCH contrast rule its themes are checked against"
+2026-11-11T21:23:31Z,ernestdefoe/latest-replies,1.0.0,Ernest Defoe,"Latest Replies: a widget of the newest replies on your forum, in the sidebar, at the top of the discussion list or beside a discussion. Follows the tag you are viewing, updates live with Realtime, and only ever shows what the reader may see."
+2026-11-11T21:29:33Z,stackradar/laravel,v0.1.0,,Laravel integration for StackRadar runtime dependency inventory.
+2026-11-11T21:38:44Z,ernestdefoe/stances,1.0.0,Ernest Defoe,"Stances: one-click Agree/Disagree, Yes/No, This-or-That and Rating blocks anywhere in a post, and the side each member took shown beside their replies."
+2026-11-11T21:46:33Z,blemli/splitbutton-for-filament,v0.1.0,grafst,The button that adapts to how you work.
+2026-11-11T22:06:45Z,php-io-extensions/libsoundio,v0.11.0,"Project Saturn Studios, LLC","1:1 PHP bindings of libsoundio 2.0: backends, devices, channel layouts, formats, output and input streams, ring buffers"
+2026-11-11T22:19:20Z,mattitja/bad-ip-blocker,v1.0.0,Mattitja AB,Block bad IPs in Laravel using a local JSON list with automatic blocking of scanners.
