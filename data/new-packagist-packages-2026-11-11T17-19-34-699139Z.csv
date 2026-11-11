@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-11T16:30:38Z,stackradar/php,v0.1.0,,Report installed Composer dependencies and PHP runtime information to StackRadar.
+2026-11-11T16:33:43Z,karaodin/filament-dynamic-tables,v1.0.0,karaOdin,"Supercharge Filament tables with user views, preset views, a favorites bar, quick save, a view manager, multi-column sorting, quick filters, advanced search and an advanced filter builder."
+2026-11-11T16:38:32Z,juaniquillo/base-backend-component,v0.1.0,Victor Sánchez,"Framework-agnostic base state for backend components: attributes, contents, settings, themes, paths and array serialization. You choose how your components render."
+2026-11-11T17:04:08Z,light8749/recoverkit,v1.0.0,,RecoverKit PHP SDK and read-only connector: record real sales and bring in past customers. Emails and phones are hashed before they leave your server.
+2026-11-11T17:12:05Z,pasak-dev/pasak-secure-monitor-laravel,v1.0.0,Roby; pasak-dev,"Pasak - enterprise-grade headless self-hosted WAF, threat detection engine, zero-tolerance blocking, stepped login lockout, and security auditing toolkit for Laravel."
+2026-11-11T17:15:01Z,lara-igniter/laraigniter-qrcode,v1.0.0,,Fluent QR codes for Laraigniter. The QrCode facade builds a code through BaconQrCode and returns the image bytes.
