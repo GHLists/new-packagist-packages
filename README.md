@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 02:20 UTC
+## Latest list — 2026-11-11 03:19 UTC
 
-New packages created between 2026-11-11 01:20 UTC and 2026-11-11 02:20 UTC.
+New packages created between 2026-11-11 02:20 UTC and 2026-11-11 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T02-20-44-684722Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-11T03-19-28-202352Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 01:26:10 | [holyat/filament-jp-postal](https://www.nuget.org/packages/holyat%2Ffilament-jp-postal) | v1.0.0 | Holyat | Japanese postal code (郵便番号) address auto-fill for Filament: a postal code input… |
-| 2026-11-11 01:50:42 | [mossy2100/better-base64](https://www.nuget.org/packages/mossy2100%2Fbetter-base64) | v1.0.0 | Shaun Moss | Base64 encoding for PHP that preserves sort order, using HTML- and filename-saf… |
+| 2026-11-11 03:08:19 | [adems/dapur-dashboard](https://www.nuget.org/packages/adems%2Fdapur-dashboard) | 1.0.0 | Ade M Saragih | Modul dashboard untuk Dapur AdeMS: login dan halaman pengelolaan |
 
 ## Data source
 
