@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-11T13:22:43Z,callismart/request-parser,v1.0.0,Callistus Nwachukwu,"Streaming HTTP request body parser for PHP. Fills the gaps in native $_POST/$_FILES population (PUT, PATCH, DELETE and JSON bodies) and returns post, files and query data."
+2026-11-11T13:27:24Z,ernestdefoe/answers,1.0.0,Ernest Defoe,"Answers: Stack Overflow-style questions and answers for any tag. Answers sorted by votes with the accepted one on top, comment threads under each answer, reputation per tag, question states, duplicate suggestions, bounties, community edits with history and a review queue."
+2026-11-11T13:42:13Z,azhimov/laravel-outbox,v0.1.0,Zhanibek Azhimov,"Transactional outbox and inbox for Laravel: publish events in the same database transaction, relay them at-least-once with per-aggregate ordering, deduplicate on the consumer side."
+2026-11-11T13:53:27Z,maize-tech/laravel-access-logs,1.0.0,Enrico De Lazzari,Easily log daily user access to your Laravel application
