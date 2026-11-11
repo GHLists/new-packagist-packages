@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-10T23:31:49Z,delgraf/module-passkey-auth-popup,v1.0.0,Delgraf,"Adds passkey (WebAuthn) sign-in to Magento 2's authentication popup, as an add-on for mage-os/module-passkey-auth"
+2026-11-10T23:33:39Z,totalcms/starter-hvac,v1.0.0,Joe Workman,"Foxtail Heating & Air: a heating and cooling company's site for Total CMS, with seasonal colors and offers, service and town pages, a ZIP check, service requests with photos, emergency alerts and ratings by town. Requires Pro."
+2026-11-11T00:00:13Z,n2ns/laravel-stats,v0.1.0,Datafrog LLC,"N2N Stats: cookieless, multi-site web analytics for Laravel. Only daily aggregates are stored."
+2026-11-11T00:03:55Z,mkrawczyk/configurable-wysiwyg,v0.0.1,,Backend for Wysiwyg editor that can be configured and can be converted to any format
+2026-11-11T00:05:37Z,delgraf/module-passkey-auth-translations,v1.0.0,Delgraf,"Italian, German, French and Spanish translations for mage-os/module-passkey-auth (passkey/WebAuthn sign-in for Magento 2)"
+2026-11-11T00:17:44Z,ernestdefoe/spoiler-shield,1.0.0,Ernest Defoe,"Spoiler Shield: discussions and posts gated to each member's progress through a book, show or game. Members say where they're up to, anything further ahead is blurred until they reach it or tap to reveal, and the hidden words never leave the server. Works with Marquee episodes, Anthology reading pr…"
