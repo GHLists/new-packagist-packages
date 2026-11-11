@@ -15,21 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 12:19 UTC
+## Latest list — 2026-11-11 13:22 UTC
 
-New packages created between 2026-11-11 11:20 UTC and 2026-11-11 12:19 UTC.
+New packages created between 2026-11-11 12:19 UTC and 2026-11-11 13:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T12-19-03-83144Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-11T13-22-10-121027Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 11:30:06 | [clickfix/sdk](https://www.nuget.org/packages/clickfix%2Fsdk) | v0.1.0 |  | ClickFix public API client for PHP 8.1+: PSR-18 transport, typed errors, bounde… |
-| 2026-11-11 11:30:09 | [clickfix/laravel](https://www.nuget.org/packages/clickfix%2Flaravel) | v0.1.0 |  | ClickFix for Laravel 10, 11, 12 and 13: service provider, ClickFix facade, arti… |
-| 2026-11-11 11:31:38 | [refatbd/laravel-chatgpt-mirror](https://www.nuget.org/packages/refatbd%2Flaravel-chatgpt-mirror) | v2.1.0 | Mostafizur Rahman Refat | High-performance OpenAI-compatible API & ChatGPT Web UI reverse proxy for Larav… |
-| 2026-11-11 11:38:50 | [luvittor/geoip-updater](https://www.nuget.org/packages/luvittor%2Fgeoip-updater) | v0.1.0 |  | Safe, framework-agnostic updater for MaxMind GeoLite2 and GeoIP2 databases. |
-| 2026-11-11 11:42:25 | [sitebill/app-sdk](https://www.nuget.org/packages/sitebill%2Fapp-sdk) | v0.2.0 | Sitebill | SDK for installable Sitebill apps (PHP + Vue): base service provider, tenant-aw… |
-| 2026-11-11 11:54:16 | [azhimov/laravel-idempotency](https://www.nuget.org/packages/azhimov%2Flaravel-idempotency) | v0.1.0 | Zhanibek Azhimov | Idempotency-Key middleware for Laravel: safe retries for POST/PATCH APIs with r… |
-| 2026-11-11 12:10:19 | [limegreentangerine/content_importer_kit](https://www.nuget.org/packages/limegreentangerine%2Fcontent_importer_kit) | 1.2.1 | Dave Hendy; Lee Jones | Content Importer |
+| 2026-11-11 12:31:13 | [limegreentangerine/banner_manager_kit](https://www.nuget.org/packages/limegreentangerine%2Fbanner_manager_kit) | 1.1.0 | Dave Hendy | Concrete CMS package for managing scheduled banners and slideshows from the das… |
+| 2026-11-11 12:38:26 | [txlemetry/txlemetry-php](https://www.nuget.org/packages/txlemetry%2Ftxlemetry-php) | 5.0.0 | PostHog <engineering@posthog.… | Txlemetry PHP SDK |
+| 2026-11-11 12:39:07 | [xakki/cli-backup](https://www.nuget.org/packages/xakki%2Fcli-backup) | v0.2.0 |  | Python backup CLI source and AI agent skills for databases and file archives |
+| 2026-11-11 12:48:21 | [letterncms/consent](https://www.nuget.org/packages/letterncms%2Fconsent) | 0.2.0 |  | A cookie-consent banner in your site’s own design: visitors choose analytics an… |
+| 2026-11-11 12:48:50 | [letterncms/import](https://www.nuget.org/packages/letterncms%2Fimport) | 0.2.0 |  | Bring a site over: WordPress exports with their media and old addresses, CSV fi… |
+| 2026-11-11 12:49:18 | [letterncms/webhooks](https://www.nuget.org/packages/letterncms%2Fwebhooks) | 0.2.0 |  | Tell other services what happens on your site: signed webhooks for entries, med… |
+| 2026-11-11 12:51:19 | [mailgatewayid/php](https://www.nuget.org/packages/mailgatewayid%2Fphp) | v0.1.0 |  | Official zero-dependency PHP client for MailGateway.id Email API |
+| 2026-11-11 12:54:39 | [olegacy/bitrix-user-discounts-resolver](https://www.nuget.org/packages/olegacy%2Fbitrix-user-discounts-resolver) | 0.1.0 |  | User discount rules resolver for 1C-Bitrix |
+| 2026-11-11 12:59:25 | [mailgatewayid/laravel](https://www.nuget.org/packages/mailgatewayid%2Flaravel) | v0.1.0 |  | Laravel mail transport for MailGateway.id (MAIL_MAILER=mailgateway) |
+| 2026-11-11 13:14:52 | [jeromeborg/blade-starter-kit](https://www.nuget.org/packages/jeromeborg%2Fblade-starter-kit) | v1.0.0 |  | A minimal Laravel starter kit using Blade and Tailwind CSS: authentication, pro… |
 
 ## Data source
 

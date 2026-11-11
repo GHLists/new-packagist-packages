@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-11T12:31:13Z,limegreentangerine/banner_manager_kit,1.1.0,Dave Hendy,"Concrete CMS package for managing scheduled banners and slideshows from the dashboard, with a block to display them on pages."
+2026-11-11T12:38:26Z,txlemetry/txlemetry-php,5.0.0,PostHog <engineering@posthog.com>,Txlemetry PHP SDK
+2026-11-11T12:39:07Z,xakki/cli-backup,v0.2.0,,Python backup CLI source and AI agent skills for databases and file archives
+2026-11-11T12:48:21Z,letterncms/consent,0.2.0,,"A cookie-consent banner in your site’s own design: visitors choose analytics and marketing, and scripts wait for their answer."
+2026-11-11T12:48:50Z,letterncms/import,0.2.0,,"Bring a site over: WordPress exports with their media and old addresses, CSV files and folders of Markdown, previewed first and safe to run again."
+2026-11-11T12:49:18Z,letterncms/webhooks,0.2.0,,"Tell other services what happens on your site: signed webhooks for entries, media, accounts and site builds, with retries and a delivery log."
+2026-11-11T12:51:19Z,mailgatewayid/php,v0.1.0,,Official zero-dependency PHP client for MailGateway.id Email API
+2026-11-11T12:54:39Z,olegacy/bitrix-user-discounts-resolver,0.1.0,,User discount rules resolver for 1C-Bitrix
+2026-11-11T12:59:25Z,mailgatewayid/laravel,v0.1.0,,Laravel mail transport for MailGateway.id (MAIL_MAILER=mailgateway)
+2026-11-11T13:14:52Z,jeromeborg/blade-starter-kit,v1.0.0,,"A minimal Laravel starter kit using Blade and Tailwind CSS: authentication, profile settings and dark mode."
