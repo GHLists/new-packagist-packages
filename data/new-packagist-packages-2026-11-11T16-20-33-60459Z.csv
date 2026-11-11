@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-11T15:29:25Z,logipro/system-learning-php,v0.1.0,Frédéric Royet,PHP client for the System Learning REST API (`/api/system`)
+2026-11-11T15:32:34Z,logipro/idcommerce-php,v0.1.0,Frédéric Royet,PHP client for the ID-Commerce REST API (`/api/idcommerce`)
+2026-11-11T15:34:58Z,sandermuller/rector-preset,v2.8.0,Sander Muller,"Shared Rector presets for apps and packages, versioned with Rector."
+2026-11-11T15:35:06Z,netresearch/typo3-ai-edition,v1.0.0,Netresearch DTT GmbH,TYPO3 AI Edition: installs the Netresearch AI extensions for TYPO3 in versions tested together.
+2026-11-11T15:43:37Z,nowo-tech/api-token-bundle,v0.1.0,Héctor Franco Aceituno; Nowo.tech,"Personal API tokens for Symfony: hashed lookup tokens with per-module grants, a tenant reach, mandatory expiry, revocation, rate limits and audit events, one Bearer authenticator for every API and a UiKit account and operator UI."
+2026-11-11T15:44:45Z,bastihilger/simple-statamic-translations,v0.1.0,Sebastian Hilger,"Translate Statamic content without multi-site: a ""Translated"" field that wraps fields like a group and stores every language, one language switch per form, and {language} in routes."
+2026-11-11T15:47:54Z,owlframework/core,v1.0.0,Emmanuel Austin,A lightweight custom PHP MVC framework
+2026-11-11T16:08:18Z,zero1/optimization-metapackage,1.0.0,,

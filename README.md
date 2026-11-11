@@ -15,22 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 15:19 UTC
+## Latest list — 2026-11-11 16:20 UTC
 
-New packages created between 2026-11-11 14:20 UTC and 2026-11-11 15:19 UTC.
+New packages created between 2026-11-11 15:19 UTC and 2026-11-11 16:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T15-19-34-536358Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-11T16-20-33-60459Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 14:24:16 | [etel/coding-standard](https://www.nuget.org/packages/etel%2Fcoding-standard) | v0.2.0 | Mykola Zyk | The coding standard of the etel projects: a php-cs-fixer rule set with its fixe… |
-| 2026-11-11 14:25:16 | [tilttek/collections-bundle](https://www.nuget.org/packages/tilttek%2Fcollections-bundle) | 0.1.0-alpha | Philippe Gamache | Collectibles for Symfony on tilttek/collections: the catalog in configuration o… |
-| 2026-11-11 14:25:16 | [tilttek/dice-bundle](https://www.nuget.org/packages/tilttek%2Fdice-bundle) | 0.1.0-alpha | Philippe Gamache | Dice for Symfony on tilttek/dice: limits, custom dice and notations from the co… |
-| 2026-11-11 14:25:16 | [tilttek/exchange](https://www.nuget.org/packages/tilttek%2Fexchange) | 0.1.0-alpha | Philippe Gamache | Exchanges for gamification: rewards bought with points in two steps, a reservat… |
-| 2026-11-11 14:30:08 | [rrcatto/omnipay-stitch-express](https://www.nuget.org/packages/rrcatto%2Fomnipay-stitch-express) | v1.0.0 | Richard Catto | Stitch Express gateway for the Omnipay payment processing library: payment link… |
-| 2026-11-11 14:36:00 | [helturkey/php-webtrawler](https://www.nuget.org/packages/helturkey%2Fphp-webtrawler) | v1.0.0 |  | A PHP-first web scraping and crawling toolkit with adaptive extraction, concurr… |
-| 2026-11-11 15:07:49 | [andmemasin/query-builder](https://www.nuget.org/packages/andmemasin%2Fquery-builder) | 0.1.0 |  | Framework-free query rules: turn rules JSON into a SQL WHERE clause with bound… |
-| 2026-11-11 15:11:46 | [isbnlab/onix](https://www.nuget.org/packages/isbnlab%2Fonix) | v0.1.0 | ISBNLab | Streaming ONIX for Books reader for PHP: ONIX 3.0/3.1 and 2.1, reference and sh… |
+| 2026-11-11 15:29:25 | [logipro/system-learning-php](https://www.nuget.org/packages/logipro%2Fsystem-learning-php) | v0.1.0 | Frédéric Royet | PHP client for the System Learning REST API (`/api/system`) |
+| 2026-11-11 15:32:34 | [logipro/idcommerce-php](https://www.nuget.org/packages/logipro%2Fidcommerce-php) | v0.1.0 | Frédéric Royet | PHP client for the ID-Commerce REST API (`/api/idcommerce`) |
+| 2026-11-11 15:34:58 | [sandermuller/rector-preset](https://www.nuget.org/packages/sandermuller%2Frector-preset) | v2.8.0 | Sander Muller | Shared Rector presets for apps and packages, versioned with Rector. |
+| 2026-11-11 15:35:06 | [netresearch/typo3-ai-edition](https://www.nuget.org/packages/netresearch%2Ftypo3-ai-edition) | v1.0.0 | Netresearch DTT GmbH | TYPO3 AI Edition: installs the Netresearch AI extensions for TYPO3 in versions… |
+| 2026-11-11 15:43:37 | [nowo-tech/api-token-bundle](https://www.nuget.org/packages/nowo-tech%2Fapi-token-bundle) | v0.1.0 | Héctor Franco Aceituno; Nowo.… | Personal API tokens for Symfony: hashed lookup tokens with per-module grants, a… |
+| 2026-11-11 15:44:45 | [bastihilger/simple-statamic-translations](https://www.nuget.org/packages/bastihilger%2Fsimple-statamic-translations) | v0.1.0 | Sebastian Hilger | Translate Statamic content without multi-site: a "Translated" field that wraps… |
+| 2026-11-11 15:47:54 | [owlframework/core](https://www.nuget.org/packages/owlframework%2Fcore) | v1.0.0 | Emmanuel Austin | A lightweight custom PHP MVC framework |
+| 2026-11-11 16:08:18 | [zero1/optimization-metapackage](https://www.nuget.org/packages/zero1%2Foptimization-metapackage) | 1.0.0 |  |  |
 
 ## Data source
 
