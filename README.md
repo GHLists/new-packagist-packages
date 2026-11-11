@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 03:19 UTC
+## Latest list — 2026-11-11 04:19 UTC
 
-New packages created between 2026-11-11 02:20 UTC and 2026-11-11 03:19 UTC.
+New packages created between 2026-11-11 03:19 UTC and 2026-11-11 04:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T03-19-28-202352Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-11T04-19-47-965767Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 03:08:19 | [adems/dapur-dashboard](https://www.nuget.org/packages/adems%2Fdapur-dashboard) | 1.0.0 | Ade M Saragih | Modul dashboard untuk Dapur AdeMS: login dan halaman pengelolaan |
+| 2026-11-11 04:03:26 | [contenir/contenir-navigation-laminas-mvc](https://www.nuget.org/packages/contenir%2Fcontenir-navigation-laminas-mvc) | v0.1.0 |  | Draws a Contenir site's managed menus in laminas-mvc: each live menu as a Lamin… |
 
 ## Data source
 

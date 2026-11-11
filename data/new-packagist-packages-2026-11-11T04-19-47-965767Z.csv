@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-11T04:03:26Z,contenir/contenir-navigation-laminas-mvc,v0.1.0,,"Draws a Contenir site's managed menus in laminas-mvc: each live menu as a Laminas Navigation container, record links addressed through the router, cached by revision."
