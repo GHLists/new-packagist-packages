@@ -15,18 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 14:20 UTC
+## Latest list — 2026-11-11 15:19 UTC
 
-New packages created between 2026-11-11 13:22 UTC and 2026-11-11 14:20 UTC.
+New packages created between 2026-11-11 14:20 UTC and 2026-11-11 15:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T14-20-33-190304Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-11T15-19-34-536358Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 13:22:43 | [callismart/request-parser](https://www.nuget.org/packages/callismart%2Frequest-parser) | v1.0.0 | Callistus Nwachukwu | Streaming HTTP request body parser for PHP. Fills the gaps in native $_POST/$_F… |
-| 2026-11-11 13:27:24 | [ernestdefoe/answers](https://www.nuget.org/packages/ernestdefoe%2Fanswers) | 1.0.0 | Ernest Defoe | Answers: Stack Overflow-style questions and answers for any tag. Answers sorted… |
-| 2026-11-11 13:42:13 | [azhimov/laravel-outbox](https://www.nuget.org/packages/azhimov%2Flaravel-outbox) | v0.1.0 | Zhanibek Azhimov | Transactional outbox and inbox for Laravel: publish events in the same database… |
-| 2026-11-11 13:53:27 | [maize-tech/laravel-access-logs](https://www.nuget.org/packages/maize-tech%2Flaravel-access-logs) | 1.0.0 | Enrico De Lazzari | Easily log daily user access to your Laravel application |
+| 2026-11-11 14:24:16 | [etel/coding-standard](https://www.nuget.org/packages/etel%2Fcoding-standard) | v0.2.0 | Mykola Zyk | The coding standard of the etel projects: a php-cs-fixer rule set with its fixe… |
+| 2026-11-11 14:25:16 | [tilttek/collections-bundle](https://www.nuget.org/packages/tilttek%2Fcollections-bundle) | 0.1.0-alpha | Philippe Gamache | Collectibles for Symfony on tilttek/collections: the catalog in configuration o… |
+| 2026-11-11 14:25:16 | [tilttek/dice-bundle](https://www.nuget.org/packages/tilttek%2Fdice-bundle) | 0.1.0-alpha | Philippe Gamache | Dice for Symfony on tilttek/dice: limits, custom dice and notations from the co… |
+| 2026-11-11 14:25:16 | [tilttek/exchange](https://www.nuget.org/packages/tilttek%2Fexchange) | 0.1.0-alpha | Philippe Gamache | Exchanges for gamification: rewards bought with points in two steps, a reservat… |
+| 2026-11-11 14:30:08 | [rrcatto/omnipay-stitch-express](https://www.nuget.org/packages/rrcatto%2Fomnipay-stitch-express) | v1.0.0 | Richard Catto | Stitch Express gateway for the Omnipay payment processing library: payment link… |
+| 2026-11-11 14:36:00 | [helturkey/php-webtrawler](https://www.nuget.org/packages/helturkey%2Fphp-webtrawler) | v1.0.0 |  | A PHP-first web scraping and crawling toolkit with adaptive extraction, concurr… |
+| 2026-11-11 15:07:49 | [andmemasin/query-builder](https://www.nuget.org/packages/andmemasin%2Fquery-builder) | 0.1.0 |  | Framework-free query rules: turn rules JSON into a SQL WHERE clause with bound… |
+| 2026-11-11 15:11:46 | [isbnlab/onix](https://www.nuget.org/packages/isbnlab%2Fonix) | v0.1.0 | ISBNLab | Streaming ONIX for Books reader for PHP: ONIX 3.0/3.1 and 2.1, reference and sh… |
 
 ## Data source
 
