@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-11T06:38:09Z,omnisense/contracts,v1.0.0-rc.1,Marco Meyer,"The contracts every omnisense provider family builds on, under any PHP host: a provider, its capabilities, its factory and configuration, the registry of an application's providers, JSON calls that keep credentials out of every error, the testing kit (recorded HTTP answers, the bare check) - and us…"
+2026-11-11T06:59:07Z,zenepay/laravel-infobip,1.0.0,Zenepay,"Laravel client for the Infobip People API: profiles, batch updates, and people events."
+2026-11-11T07:03:49Z,jbmm/db-table-manager,v1.0.0,Jbmm,Local-only Laravel UI for browsing and managing database tables
+2026-11-11T07:03:49Z,jbmm/table-record-manager,v1.0.0,Jbmm,Local-only Laravel UI for browsing and managing database tables
+2026-11-11T07:04:51Z,youvision/think-auth,v1.0.0,,Role based access control (RBAC) authentication package for ThinkPHP 8.
+2026-11-11T07:10:46Z,rkov/view-model,v1.0.0,Rochev Yakov,View models for REST API — create model representations using dependency injection
