@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 05:20 UTC
+## Latest list — 2026-11-11 06:19 UTC
 
-New packages created between 2026-11-11 04:19 UTC and 2026-11-11 05:20 UTC.
+New packages created between 2026-11-11 05:20 UTC and 2026-11-11 06:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T05-20-27-133956Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-11T06-19-22-882152Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 04:38:03 | [wyzecash/wyzecash](https://www.nuget.org/packages/wyzecash%2Fwyzecash) | v0.1.0 |  | SDK oficial da WyzeCash para PHP: cobranças por Pix, cartão e cripto, saques, s… |
-| 2026-11-11 05:13:32 | [isbnlab/isbnlab-php](https://www.nuget.org/packages/isbnlab%2Fisbnlab-php) | v0.1.0 | ISBNLab | Official PHP client for the ISBNLab book metadata API: look up books by ISBN, a… |
+| 2026-11-11 05:21:49 | [yuan1998/dcat-iframe-tab](https://www.nuget.org/packages/yuan1998%2Fdcat-iframe-tab) | 1.2.4 | Jasper | iframe-tab framework for dcat-admin (maintained fork with tab hash restore) |
 
 ## Data source
 
