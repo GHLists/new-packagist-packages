@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-11T19:19:18Z,kirora/kirora-laravel,v0.1.0,Kirora and contributors,Kirora for Laravel.
+2026-11-11T19:19:44Z,crabphp/tide,v0.1.0,,Typed models and explicit relations for the Crab framework
+2026-11-11T19:45:34Z,php-io-extensions/sokol-audio,v0.11.0,"Project Saturn Studios, LLC","1:1 PHP bindings of sokol_audio.h (floooh/sokol), with the library compiled into the extension"
+2026-11-11T19:46:14Z,rippera/laravel-api-types,v0.1.0,Mikheil Mezurnishvili,"Generate TypeScript types, enums and interfaces from Laravel routes, FormRequests and PHP enums"
+2026-11-11T19:55:04Z,php-io-extensions/miniaudio,v0.11.1,"Project Saturn Studios, LLC","1:1 PHP bindings of miniaudio 0.11.26, with the library compiled into the extension"
+2026-11-11T20:41:21Z,sadaya/sadaya-php,v1.0.1,,"Sadaya API client for PHP: orders, refunds, webhook, signature verification and verification of each order's address. No dependencies."
+2026-11-11T20:55:10Z,kalvi/nfse,v0.1.0,,Cliente PHP da API Kalvi: classifica e confere a NFS-e do padrão nacional para IBS/CBS antes de transmitir.
