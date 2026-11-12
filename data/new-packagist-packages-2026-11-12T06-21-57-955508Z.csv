@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-12T05:25:12Z,tinymvc/tinyqr,v1.0.0,Shahin Moyshan,Lightweight PHP QR code generator and decoder with PNG and SVG output.
+2026-11-12T05:48:44Z,letterncms/fathomline,0.2.0,,"A survey office's site: WebGL fields, scroll choreography and client navigation, made with the admin's own blocks."
+2026-11-12T06:10:36Z,akshaysmohite/filament-form-generator,v0.1.0,Akshay,Visual drag-and-drop form schema builder and PHP code generator for Filament v3.2+.
+2026-11-12T06:12:00Z,olivcode/form-guard,v1.0.0,Olivier Gaillot,"Progressive abuse protection for PHP forms, with optional JavaScript signals."
+2026-11-12T06:12:05Z,olivcode/form-guard-laravel,v1.0.0,,Laravel adapter for the Form Guard PHP form protection engine.
