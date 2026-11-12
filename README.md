@@ -15,19 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 18:21 UTC
+## Latest list — 2026-11-12 19:21 UTC
 
-New packages created between 2026-11-12 17:22 UTC and 2026-11-12 18:21 UTC.
+New packages created between 2026-11-12 18:21 UTC and 2026-11-12 19:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-12T18-21-15-140708Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T19-21-44-740579Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-12 17:35:11 | [momotombo/nativephp-alarms](https://www.nuget.org/packages/momotombo%2Fnativephp-alarms) | v0.1.0 | Momotombo Devs | Exact, alarm-clock-grade alarms for NativePHP Mobile on Android: foreground pla… |
-| 2026-11-12 17:38:10 | [sad_spirit/el2sql](https://www.nuget.org/packages/sad_spirit%2Fel2sql) | v0.1.0 | Alexey Borzov | Translator from Symfony's ExpressionLanguage to Postgres SQL dialect |
-| 2026-11-12 17:53:55 | [ergebnis/differ](https://www.nuget.org/packages/ergebnis%2Fdiffer) | 1.0.0 | Andreas Möller | Provides a composer package with a differ for creating a unified diff of two st… |
-| 2026-11-12 18:01:15 | [nowo-tech/short-link-bundle](https://www.nuget.org/packages/nowo-tech%2Fshort-link-bundle) | v0.1.0 | Héctor Franco Aceituno; Nowo.… | Short links for Symfony: per-tenant short codes behind a public stateless redir… |
-| 2026-11-12 18:05:46 | [generoi/gds-monitoring](https://www.nuget.org/packages/generoi%2Fgds-monitoring) | v1.0.0 | Genero | Logs what a person should look at on a WordPress site (lost form submissions, f… |
+| 2026-11-12 18:34:22 | [pharaonic/laravel-favorites](https://www.nuget.org/packages/pharaonic%2Flaravel-favorites) | 13.0.0 | Moamen Eltouny (Raggi) | Polymorphic favorites for Laravel Eloquent models, with database-enforced uniqu… |
 
 ## Data source
 

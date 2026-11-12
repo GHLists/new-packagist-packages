@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-12T18:34:22Z,pharaonic/laravel-favorites,13.0.0,Moamen Eltouny (Raggi),"Polymorphic favorites for Laravel Eloquent models, with database-enforced uniqueness and explicit changed-state results."
