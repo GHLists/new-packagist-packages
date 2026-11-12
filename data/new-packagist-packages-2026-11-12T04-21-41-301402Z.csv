@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-12T03:44:43Z,reyhanitsme/auth-engine,v1.0.0,reyhanitsme,"Plug-and-play, framework-agnostic PHP authentication engine (Native PHP & Laravel): credentials, magic links, OTP/TOTP, passkeys, OAuth and a modern UI scaffolder."
+2026-11-12T03:50:35Z,mahesh-kerai/payment-gateways,v1.0.0,Mahesh Kerai,"A Laravel package for integrating multiple payment gateways (Stripe, Razorpay, Flutterwave, Paystack, PayPal, Midtrans, PhonePe, JazzCash) with a unified interface"
+2026-11-12T03:59:27Z,vocamax/ipa-audios,v0.1.0,vuthaihoc,"One recording per American English IPA sound (24 consonants, 11 vowels, 5 diphthongs) and example words, with the source and license of every file."
