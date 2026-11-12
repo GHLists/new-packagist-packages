@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 07:21 UTC
+## Latest list — 2026-11-12 08:21 UTC
 
-New packages created between 2026-11-12 06:21 UTC and 2026-11-12 07:21 UTC.
+New packages created between 2026-11-12 07:21 UTC and 2026-11-12 08:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-12T07-21-45-85411Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T08-21-20-390552Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-12 06:25:02 | [goomzo/goomzo-php](https://www.nuget.org/packages/goomzo%2Fgoomzo-php) | v0.1.0 |  | The Goomzo API for PHP: messages, templates, customers and webhooks. |
-| 2026-11-12 06:30:56 | [vbushuev/laravel-mattermost](https://www.nuget.org/packages/vbushuev%2Flaravel-mattermost) | 1.1.0 | Vladimir Bushuev | Laravel logging package for Mattermost webhooks |
-| 2026-11-12 06:36:43 | [henzeb/housepedia-data-intelligence](https://www.nuget.org/packages/henzeb%2Fhousepedia-data-intelligence) | v1.0.0 | Henze Berkheij | Framework-independent PHP SDK for the Housepedia Data Intelligence API |
-| 2026-11-12 06:39:00 | [olivcode/form-guard](https://www.nuget.org/packages/olivcode%2Fform-guard) | v1.0.0 | Olivier Gaillot | Progressive abuse protection for PHP forms, with optional JavaScript signals. |
-| 2026-11-12 06:47:30 | [henzeb/housepedia-data-intelligence-laravel](https://www.nuget.org/packages/henzeb%2Fhousepedia-data-intelligence-laravel) | v1.0.0 | Henze Berkheij | Laravel integration for the Housepedia Data Intelligence PHP SDK |
+| 2026-11-12 07:26:03 | [magetu/module-turnstile](https://www.nuget.org/packages/magetu%2Fmodule-turnstile) | 1.0.0 | Magetu | Registers Cloudflare Turnstile as a native captcha type for Magento Open Source… |
+| 2026-11-12 07:40:07 | [toshkq93/laravel-outbox](https://www.nuget.org/packages/toshkq93%2Flaravel-outbox) | 0.0.1 | toshkq93 | Reliable messaging for Laravel: transactional outbox with a SKIP LOCKED relay,… |
+| 2026-11-12 07:49:49 | [maxim-tsatsura/filament-cad-blueprint](https://www.nuget.org/packages/maxim-tsatsura%2Ffilament-cad-blueprint) | v1.0.0 | Maxim Tsatsura | 2D CAD blueprint viewer and editor integration for Filament 5 |
+| 2026-11-12 07:52:28 | [reavideo/shotlist](https://www.nuget.org/packages/reavideo%2Fshotlist) | v1.0.0 |  | Parse a plain-text shot list into shots, timings and cut statistics. |
 
 ## Data source
 

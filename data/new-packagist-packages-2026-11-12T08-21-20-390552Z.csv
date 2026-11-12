@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-12T07:26:03Z,magetu/module-turnstile,1.0.0,Magetu,Registers Cloudflare Turnstile as a native captcha type for Magento Open Source and Adobe Commerce.
+2026-11-12T07:40:07Z,toshkq93/laravel-outbox,0.0.1,toshkq93,"Reliable messaging for Laravel: transactional outbox with a SKIP LOCKED relay, inbox deduplication and Stripe-style idempotency keys for APIs."
+2026-11-12T07:49:49Z,maxim-tsatsura/filament-cad-blueprint,v1.0.0,Maxim Tsatsura,2D CAD blueprint viewer and editor integration for Filament 5
+2026-11-12T07:52:28Z,reavideo/shotlist,v1.0.0,,"Parse a plain-text shot list into shots, timings and cut statistics."
