@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-12T19:30:28Z,core23/composer-size-limit,1.0.0,,"Composer plugin to enforce size limits for files, vendor and build artifacts, like npm size-limit."
+2026-11-12T19:40:37Z,telescope-monitor/telescope-monitor,v1.0.0-rc.1,,Complete error investigation and operations for Laravel Telescope.
+2026-11-12T19:40:51Z,szabrob/laravel-szamlazz,v1.0.0,Szabó Róbert,Laravel integration for the Számlázz.hu Számla Agent API.
+2026-11-12T19:42:26Z,immachakata/ci4-facades,v1.0.0,Isaac Machakata,"Use laravel like facades and functions for creating migration files, among other things"
+2026-11-12T19:47:39Z,coolpie/util,v0.1.0,Coolpie,PHP utility classes made by yours truly
+2026-11-12T20:00:24Z,alianet/holiday,0.12.0,Stefan Kruppa; Mariusz Kaczanowski,A PHP library to compute holidays. It's something :-)
