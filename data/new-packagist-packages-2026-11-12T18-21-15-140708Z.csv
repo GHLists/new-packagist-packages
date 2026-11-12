@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-12T17:35:11Z,momotombo/nativephp-alarms,v0.1.0,Momotombo Devs,"Exact, alarm-clock-grade alarms for NativePHP Mobile on Android: foreground playback, snooze, weekly repetition, boot restore, and an acknowledgement-based occurrence journal."
+2026-11-12T17:38:10Z,sad_spirit/el2sql,v0.1.0,Alexey Borzov,Translator from Symfony's ExpressionLanguage to Postgres SQL dialect
+2026-11-12T17:53:55Z,ergebnis/differ,1.0.0,Andreas Möller,Provides a composer package with a differ for creating a unified diff of two strings.
+2026-11-12T18:01:15Z,nowo-tech/short-link-bundle,v0.1.0,Héctor Franco Aceituno; Nowo.tech,"Short links for Symfony: per-tenant short codes behind a public stateless redirect, a target guard (OutboundUrlGuard + denylist), a privacy-preserving click log with daily rollups and retention, a PHP API for generated links and a UiKit + FormKit management UI."
+2026-11-12T18:05:46Z,generoi/gds-monitoring,v1.0.0,Genero,"Logs what a person should look at on a WordPress site (lost form submissions, failed feeds and emails, silent forms) for monitoring to pick up"
