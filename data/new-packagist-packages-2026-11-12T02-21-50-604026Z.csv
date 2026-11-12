@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-12T01:37:11Z,laranail/waitlist-kit,v0.1.0,Simtabi LLC; Imani Manyara,"Waitlists, coming-soon and early-access pages for Laravel: lead capture and conversion, a Blade + Alpine.js backend, and themes as packages."
+2026-11-12T01:39:15Z,laranail/waitlist-starter,v0.1.0,Simtabi LLC; Imani Manyara,"A Laravel app that runs laranail/waitlist-kit: a waitlist, coming-soon or early-access site in one command, with its backend."
+2026-11-12T01:55:36Z,php-io-extensions/soloud,v0.11.0,"Project Saturn Studios, LLC","1:1 PHP bindings of the SoLoud C++ audio engine, with the library compiled into the extension"
+2026-11-12T02:05:35Z,s3rgiosan/divi-migration,1.0.0,Sérgio Santos,Convert Divi Builder content to blocks.

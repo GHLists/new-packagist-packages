@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 00:20 UTC
+## Latest list — 2026-11-12 02:21 UTC
 
-New packages created between 2026-11-11 23:21 UTC and 2026-11-12 00:20 UTC.
+New packages created between 2026-11-12 01:19 UTC and 2026-11-12 02:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-12T00-20-42-07842Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T02-21-50-604026Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 23:33:24 | [angelitosystems/pdf](https://www.nuget.org/packages/angelitosystems%2Fpdf) | v0.1.1 |  | HTML/CSS to PDF for Laravel without Chromium: a native Rust engine (angelito-pd… |
-| 2026-11-11 23:44:24 | [pushinbr/pam-native-web](https://www.nuget.org/packages/pushinbr%2Fpam-native-web) | v1.48.0 |  | Compiles a PAM Native app to a static HTML/JS app for web-based TVs (Samsung Ti… |
-| 2026-11-12 00:03:12 | [christianoerick/nfse-nacional](https://www.nuget.org/packages/christianoerick%2Fnfse-nacional) | v0.1.0 | Christiano Erick | NFS-e Nacional (Sefin Nacional / ADN) em PHP puro, sem framework: DPS completa… |
+| 2026-11-12 01:37:11 | [laranail/waitlist-kit](https://www.nuget.org/packages/laranail%2Fwaitlist-kit) | v0.1.0 | Simtabi LLC; Imani Manyara | Waitlists, coming-soon and early-access pages for Laravel: lead capture and con… |
+| 2026-11-12 01:39:15 | [laranail/waitlist-starter](https://www.nuget.org/packages/laranail%2Fwaitlist-starter) | v0.1.0 | Simtabi LLC; Imani Manyara | A Laravel app that runs laranail/waitlist-kit: a waitlist, coming-soon or early… |
+| 2026-11-12 01:55:36 | [php-io-extensions/soloud](https://www.nuget.org/packages/php-io-extensions%2Fsoloud) | v0.11.0 | Project Saturn Studios, LLC | 1:1 PHP bindings of the SoLoud C++ audio engine, with the library compiled into… |
+| 2026-11-12 02:05:35 | [s3rgiosan/divi-migration](https://www.nuget.org/packages/s3rgiosan%2Fdivi-migration) | 1.0.0 | Sérgio Santos | Convert Divi Builder content to blocks. |
 
 ## Data source
 
