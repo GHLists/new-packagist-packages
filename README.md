@@ -15,19 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 11:21 UTC
+## Latest list — 2026-11-12 12:19 UTC
 
-New packages created between 2026-11-12 10:21 UTC and 2026-11-12 11:21 UTC.
+New packages created between 2026-11-12 11:21 UTC and 2026-11-12 12:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-12T11-21-11-070327Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T12-19-15-100551Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-12 10:23:22 | [concept24/omnipay-ingwebpay](https://www.nuget.org/packages/concept24%2Fomnipay-ingwebpay) | v1.0.2 | Concept24 | ING WebPay (ING Bank România) driver for the Omnipay payment processing library |
-| 2026-11-12 10:40:48 | [codeconjure/sylius-carrier-bundle](https://www.nuget.org/packages/codeconjure%2Fsylius-carrier-bundle) | 0.1.1 |  | Szállító-semleges Sylius-alap a szállító-pluginokhoz (FoxPost, GLS, Packeta): k… |
-| 2026-11-12 10:55:06 | [solvebeam/twinfield-connect](https://www.nuget.org/packages/solvebeam%2Ftwinfield-connect) | v0.1.1 | SolveBeam; Remco Tolsma | Log in to Twinfield through Twinfield Connect, without a Twinfield client ID of… |
-| 2026-11-12 11:11:13 | [balatd/kern-ux](https://www.nuget.org/packages/balatd%2Fkern-ux) | 1.0.0-beta.4 | Dragan Balatinac | KERN UX-Standard for TYPO3 - accessible Fluid components, Content Blocks and fo… |
-| 2026-11-12 11:11:44 | [jaryan-host/proxmox](https://www.nuget.org/packages/jaryan-host%2Fproxmox) | v1.0.1 | Nima Asaadi | A Laravel package for integrating with the Proxmox REST API. |
+| 2026-11-12 11:24:06 | [darkterminal/turso-platform-laravel](https://www.nuget.org/packages/darkterminal%2Fturso-platform-laravel) | v1.0.0 | Imam Ali Mustofa | Laravel integration for the Turso Platform API PHP SDK |
+| 2026-11-12 11:25:23 | [kith-web-studio/google-business-profile-php](https://www.nuget.org/packages/kith-web-studio%2Fgoogle-business-profile-php) | v0.1.1-rc.1 |  | PHP SDK for Google Business Profile APIs |
+| 2026-11-12 11:25:44 | [bhekor/laravel-opay](https://www.nuget.org/packages/bhekor%2Flaravel-opay) | v1.0.0 | Ibidapo Adeolu | A Laravel package for integrating OPay Checkout payment APIs |
+| 2026-11-12 11:52:20 | [codeconjure/gls](https://www.nuget.org/packages/codeconjure%2Fgls) | 0.1.0 |  | MyGLS API protokoll-kliens — keretrendszer-független, PSR-18 alapon. |
+| 2026-11-12 11:57:12 | [robuust/craft-inertia](https://www.nuget.org/packages/robuust%2Fcraft-inertia) | v0.1.0-beta.1 | Robuust | Opt-in public Inertia frontend integration for Craft CMS 6. |
+| 2026-11-12 12:02:04 | [phalcon4to5/rector](https://www.nuget.org/packages/phalcon4to5%2Frector) | v0.1.0 | xuwenxiong | Rector upgrade rules for Phalcon Framework 4 to 5 |
+| 2026-11-12 12:02:04 | [xuwenxiong/phalcon4to5-rector](https://www.nuget.org/packages/xuwenxiong%2Fphalcon4to5-rector) | v0.1.0 | xuwenxiong | Rector upgrade rules for Phalcon Framework 4 to 5 |
+| 2026-11-12 12:07:19 | [getkirby/actions](https://www.nuget.org/packages/getkirby%2Factions) | 0.2.0 |  | Reusable workflows and GitHub Actions for the CI of Kirby's core, libraries and… |
+| 2026-11-12 12:12:31 | [vytux/vytux_cousins](https://www.nuget.org/packages/vytux%2Fvytux_cousins) | 2.2.0 | Vytautas Krivickas | A webtrees custom module that adds a Cousins tab to the individual page. |
+| 2026-11-12 12:15:28 | [codeconjure/gls-sylius-plugin](https://www.nuget.org/packages/codeconjure%2Fgls-sylius-plugin) | 0.1.0 |  | GLS szállítási integráció Syliushoz: szállítási módok, csomagpont, díj, és — My… |
 
 ## Data source
 

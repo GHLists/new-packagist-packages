@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-12T11:24:06Z,darkterminal/turso-platform-laravel,v1.0.0,Imam Ali Mustofa,Laravel integration for the Turso Platform API PHP SDK
+2026-11-12T11:25:23Z,kith-web-studio/google-business-profile-php,v0.1.1-rc.1,,PHP SDK for Google Business Profile APIs
+2026-11-12T11:25:44Z,bhekor/laravel-opay,v1.0.0,Ibidapo Adeolu,A Laravel package for integrating OPay Checkout payment APIs
+2026-11-12T11:52:20Z,codeconjure/gls,0.1.0,,"MyGLS API protokoll-kliens — keretrendszer-független, PSR-18 alapon."
+2026-11-12T11:57:12Z,robuust/craft-inertia,v0.1.0-beta.1,Robuust,Opt-in public Inertia frontend integration for Craft CMS 6.
+2026-11-12T12:02:04Z,phalcon4to5/rector,v0.1.0,xuwenxiong,Rector upgrade rules for Phalcon Framework 4 to 5
+2026-11-12T12:02:04Z,xuwenxiong/phalcon4to5-rector,v0.1.0,xuwenxiong,Rector upgrade rules for Phalcon Framework 4 to 5
+2026-11-12T12:07:19Z,getkirby/actions,0.2.0,,"Reusable workflows and GitHub Actions for the CI of Kirby's core, libraries and plugins"
+2026-11-12T12:12:31Z,vytux/vytux_cousins,2.2.0,Vytautas Krivickas,A webtrees custom module that adds a Cousins tab to the individual page.
+2026-11-12T12:15:28Z,codeconjure/gls-sylius-plugin,0.1.0,,"GLS szállítási integráció Syliushoz: szállítási módok, csomagpont, díj, és — MyGLS API-val — csomagfeladás, címke, nyomkövetés."
