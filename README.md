@@ -15,18 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 15:20 UTC
+## Latest list — 2026-11-12 16:22 UTC
 
-New packages created between 2026-11-12 14:21 UTC and 2026-11-12 15:20 UTC.
+New packages created between 2026-11-12 15:20 UTC and 2026-11-12 16:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-12T15-20-12-771441Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T16-22-14-327924Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-12 14:25:56 | [youvision/think-version](https://www.nuget.org/packages/youvision%2Fthink-version) | v1.0.0 | indiboy-create; AI | ThinkPHP 8 运行环境体检组件：查看框架版本与已安装的 Composer 依赖包。 |
-| 2026-11-12 14:29:36 | [hihaho/hihaho-php](https://www.nuget.org/packages/hihaho%2Fhihaho-php) | v0.1.0 | hihaho | PHP and Laravel SDK for the hihaho API |
-| 2026-11-12 14:30:19 | [prima-assicurazioni/patch-manager](https://www.nuget.org/packages/prima-assicurazioni%2Fpatch-manager) | 1.0.0 | Matteo Giachino; Mattia Basone | A library to manage patch requests |
-| 2026-11-12 14:35:40 | [helsingborg-stad/acf-phone-number-field](https://www.nuget.org/packages/helsingborg-stad%2Facf-phone-number-field) | 1.0.0 |  | International phone number field for Advanced Custom Fields. |
+| 2026-11-12 15:28:16 | [iurigustavo/craft-livewire-bridge](https://www.nuget.org/packages/iurigustavo%2Fcraft-livewire-bridge) | 1.0.2 | Iúri Gustavo | Render Craft CMS Blade templates as full-page Livewire 4 components, with Craft… |
+| 2026-11-12 15:31:15 | [diego-drese/nfse-nacional](https://www.nuget.org/packages/diego-drese%2Fnfse-nacional) | v0.2.0 | Diego Drese | NFS-e Nacional (Sefin Nacional/ADN) em PHP puro: monta e valida a DPS no leiaut… |
+| 2026-11-12 15:32:51 | [silarhi/app-js-bundle](https://www.nuget.org/packages/silarhi%2Fapp-js-bundle) | v0.1.0 | SILARHI | load_page Twig function, TypeScript enums and typed form shapes for Symfony — t… |
+| 2026-11-12 16:00:50 | [imarc/craft-padstone-mason](https://www.nuget.org/packages/imarc%2Fcraft-padstone-mason) | 0.1.0 |  | Control-panel assistant for Padstone Content Designer. |
+| 2026-11-12 16:00:55 | [imarc/craft-padstone-mason-neo](https://www.nuget.org/packages/imarc%2Fcraft-padstone-mason-neo) | 0.1.0 |  | Neo structure adapter for Padstone Mason (Content Designer via Spicy Web Neo). |
+| 2026-11-12 16:05:26 | [nonini/cli](https://www.nuget.org/packages/nonini%2Fcli) | v0.8.0 | Thomas Gelf | CLI utilities |
 
 ## Data source
 

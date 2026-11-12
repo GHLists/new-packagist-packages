@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-12T15:28:16Z,iurigustavo/craft-livewire-bridge,1.0.2,Iúri Gustavo,"Render Craft CMS Blade templates as full-page Livewire 4 components, with Craft elements as component properties."
+2026-11-12T15:31:15Z,diego-drese/nfse-nacional,v0.2.0,Diego Drese,"NFS-e Nacional (Sefin Nacional/ADN) em PHP puro: monta e valida a DPS no leiaute oficial, assina com o certificado A1, emite, consulta, cancela e baixa o DANFSe. Sem framework e sem Guzzle."
+2026-11-12T15:32:51Z,silarhi/app-js-bundle,v0.1.0,SILARHI,"load_page Twig function, TypeScript enums and typed form shapes for Symfony — the PHP companion to @silarhi/app-js"
+2026-11-12T16:00:50Z,imarc/craft-padstone-mason,0.1.0,,Control-panel assistant for Padstone Content Designer.
+2026-11-12T16:00:55Z,imarc/craft-padstone-mason-neo,0.1.0,,Neo structure adapter for Padstone Mason (Content Designer via Spicy Web Neo).
+2026-11-12T16:05:26Z,nonini/cli,v0.8.0,Thomas Gelf,CLI utilities
