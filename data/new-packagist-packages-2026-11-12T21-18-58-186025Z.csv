@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-12T20:44:20Z,letterncms/minimal,0.1.0,,"A home page, an about page and a blog with three posts, on one typeface and a calm design system."
+2026-11-12T21:07:22Z,alexxvl/problem-details,v0.1.0,,RFC 9457 Problem Details for Laravel APIs
+2026-11-12T21:13:25Z,davidhirtz/yii2-forms,3.0.0,David Hirtz,Frontend forms with bot protection and mail delivery based on Yii 2.0 framework
