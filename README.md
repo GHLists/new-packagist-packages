@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 09:21 UTC
+## Latest list — 2026-11-12 10:21 UTC
 
-New packages created between 2026-11-12 08:21 UTC and 2026-11-12 09:21 UTC.
+New packages created between 2026-11-12 09:21 UTC and 2026-11-12 10:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-12T09-21-23-195563Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T10-21-42-642365Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-12 08:31:16 | [cboxdk/laravel-relay-client](https://www.nuget.org/packages/cboxdk%2Flaravel-relay-client) | v0.1.0 | Sylvester Damgaard | Cbox Relay client for Laravel: publish events, send mail and push, judge conten… |
-| 2026-11-12 08:34:27 | [kvadro/post-core](https://www.nuget.org/packages/kvadro%2Fpost-core) | 1.0.2 |  | Extends Post Core Module |
-| 2026-11-12 09:01:31 | [florentingarnier/cookie-consent](https://www.nuget.org/packages/florentingarnier%2Fcookie-consent) | v0.1.0 | Florentin Garnier | Cookie consent policy, purpose by purpose: the categories, the consent cookie r… |
-| 2026-11-12 09:04:04 | [vois/vois-php](https://www.nuget.org/packages/vois%2Fvois-php) | v1.0.0 |  | VOIS SMS ve Ses API istemcisi (PHP 8.1+, Laravel desteği) |
-| 2026-11-12 09:06:10 | [florentingarnier/cookie-consent-bundle](https://www.nuget.org/packages/florentingarnier%2Fcookie-consent-bundle) | v0.1.0 | Florentin Garnier | Symfony integration of florentingarnier/cookie-consent: a consent banner, a bro… |
-| 2026-11-12 09:06:48 | [pteal79/image-resize](https://www.nuget.org/packages/pteal79%2Fimage-resize) | 1.0.1 |  | NativePHP Mobile v4 plugin that shrinks a JPEG, PNG or HEIC photo to a maximum… |
+| 2026-11-12 09:27:22 | [traffman/sdk-php](https://www.nuget.org/packages/traffman%2Fsdk-php) | v1.0.0 | Traffman; modeewine | Transport-agnostic PHP SDK for the Traffman API (content exchange network). |
+| 2026-11-12 09:40:58 | [solutionforest/laravel-recommender](https://www.nuget.org/packages/solutionforest%2Flaravel-recommender) | v0.0.5 | Solution Forest Limited | Self-hosted, low-overhead recommendation feeds for Laravel (co-interaction simi… |
+| 2026-11-12 09:47:48 | [vcat/vc-safety-check](https://www.nuget.org/packages/vcat%2Fvc-safety-check) | 1.0.0 | Joram Wittke; Nico Hoffmann;… | Checks all installed extensions, core packages and their dependencies for known… |
+| 2026-11-12 09:53:54 | [welman91/filament-api-service](https://www.nuget.org/packages/welman91%2Ffilament-api-service) | v1.0.1 | Welman | A simple api service for supporting filamentphp |
+| 2026-11-12 10:20:26 | [solvebeam/oauth2-twinfield](https://www.nuget.org/packages/solvebeam%2Foauth2-twinfield) | v0.1.0 | SolveBeam; Remco Tolsma | Twinfield OAuth 2.0 provider for the PHP League's OAuth 2.0 Client |
 
 ## Data source
 

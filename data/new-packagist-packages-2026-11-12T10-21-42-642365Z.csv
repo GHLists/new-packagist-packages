@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-12T09:27:22Z,traffman/sdk-php,v1.0.0,Traffman; modeewine,Transport-agnostic PHP SDK for the Traffman API (content exchange network).
+2026-11-12T09:40:58Z,solutionforest/laravel-recommender,v0.0.5,Solution Forest Limited,"Self-hosted, low-overhead recommendation feeds for Laravel (co-interaction similarity, time-decayed trending, Redis-cached feeds)."
+2026-11-12T09:47:48Z,vcat/vc-safety-check,1.0.0,Joram Wittke; Nico Hoffmann; Patrick Schwalger; VCAT Consulting GmbH,"Checks all installed extensions, core packages and their dependencies for known security vulnerabilities via our API, stores the results and displays them in a dashboard widget."
+2026-11-12T09:53:54Z,welman91/filament-api-service,v1.0.1,Welman,A simple api service for supporting filamentphp
+2026-11-12T10:20:26Z,solvebeam/oauth2-twinfield,v0.1.0,SolveBeam; Remco Tolsma,Twinfield OAuth 2.0 provider for the PHP League's OAuth 2.0 Client
