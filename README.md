@@ -15,24 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 12:19 UTC
+## Latest list — 2026-11-12 13:21 UTC
 
-New packages created between 2026-11-12 11:21 UTC and 2026-11-12 12:19 UTC.
+New packages created between 2026-11-12 12:19 UTC and 2026-11-12 13:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-12T12-19-15-100551Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T13-21-17-769287Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-12 11:24:06 | [darkterminal/turso-platform-laravel](https://www.nuget.org/packages/darkterminal%2Fturso-platform-laravel) | v1.0.0 | Imam Ali Mustofa | Laravel integration for the Turso Platform API PHP SDK |
-| 2026-11-12 11:25:23 | [kith-web-studio/google-business-profile-php](https://www.nuget.org/packages/kith-web-studio%2Fgoogle-business-profile-php) | v0.1.1-rc.1 |  | PHP SDK for Google Business Profile APIs |
-| 2026-11-12 11:25:44 | [bhekor/laravel-opay](https://www.nuget.org/packages/bhekor%2Flaravel-opay) | v1.0.0 | Ibidapo Adeolu | A Laravel package for integrating OPay Checkout payment APIs |
-| 2026-11-12 11:52:20 | [codeconjure/gls](https://www.nuget.org/packages/codeconjure%2Fgls) | 0.1.0 |  | MyGLS API protokoll-kliens — keretrendszer-független, PSR-18 alapon. |
-| 2026-11-12 11:57:12 | [robuust/craft-inertia](https://www.nuget.org/packages/robuust%2Fcraft-inertia) | v0.1.0-beta.1 | Robuust | Opt-in public Inertia frontend integration for Craft CMS 6. |
-| 2026-11-12 12:02:04 | [phalcon4to5/rector](https://www.nuget.org/packages/phalcon4to5%2Frector) | v0.1.0 | xuwenxiong | Rector upgrade rules for Phalcon Framework 4 to 5 |
-| 2026-11-12 12:02:04 | [xuwenxiong/phalcon4to5-rector](https://www.nuget.org/packages/xuwenxiong%2Fphalcon4to5-rector) | v0.1.0 | xuwenxiong | Rector upgrade rules for Phalcon Framework 4 to 5 |
-| 2026-11-12 12:07:19 | [getkirby/actions](https://www.nuget.org/packages/getkirby%2Factions) | 0.2.0 |  | Reusable workflows and GitHub Actions for the CI of Kirby's core, libraries and… |
-| 2026-11-12 12:12:31 | [vytux/vytux_cousins](https://www.nuget.org/packages/vytux%2Fvytux_cousins) | 2.2.0 | Vytautas Krivickas | A webtrees custom module that adds a Cousins tab to the individual page. |
-| 2026-11-12 12:15:28 | [codeconjure/gls-sylius-plugin](https://www.nuget.org/packages/codeconjure%2Fgls-sylius-plugin) | 0.1.0 |  | GLS szállítási integráció Syliushoz: szállítási módok, csomagpont, díj, és — My… |
+| 2026-11-12 12:24:03 | [comprestack/sdk](https://www.nuget.org/packages/comprestack%2Fsdk) | v0.1.0 | Comprestack | Official PHP SDK for the Comprestack image optimization API |
+| 2026-11-12 12:34:42 | [relwave/relwave-php](https://www.nuget.org/packages/relwave%2Frelwave-php) | v1.0.0 | mgsoft | Official PHP SDK for the Relwave /api/v1 transactional and audience API. |
+| 2026-11-12 12:37:48 | [innmind/frame](https://www.nuget.org/packages/innmind%2Fframe) | 1.0.0 | Baptiste Langlade |  |
+| 2026-11-12 12:48:03 | [openupi/gateway](https://www.nuget.org/packages/openupi%2Fgateway) | v0.1.0 |  | PHP server SDK for the OpenUPI merchant gateway: create orders, read them, refu… |
+| 2026-11-12 12:57:13 | [humanmade/elasticpress-verify-index](https://www.nuget.org/packages/humanmade%2Felasticpress-verify-index) | 0.1.0 | Human Made | WP-CLI command that checks a random sample of posts against the ElasticPress in… |
+| 2026-11-12 12:58:08 | [limegreentangerine/seo_kit](https://www.nuget.org/packages/limegreentangerine%2Fseo_kit) | 1.0.0 | Dave Hendy | SEO kit for Concrete5 |
+| 2026-11-12 13:03:14 | [proxyverity/proxy-checker-widget](https://www.nuget.org/packages/proxyverity%2Fproxy-checker-widget) | v1.0.0 | ProxyVerity | Embeddable proxy checker widget: one script tag puts a working HTTP/HTTPS/SOCKS… |
 
 ## Data source
 

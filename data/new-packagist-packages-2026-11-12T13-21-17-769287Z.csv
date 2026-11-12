@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-12T12:24:03Z,comprestack/sdk,v0.1.0,Comprestack,Official PHP SDK for the Comprestack image optimization API
+2026-11-12T12:34:42Z,relwave/relwave-php,v1.0.0,mgsoft,Official PHP SDK for the Relwave /api/v1 transactional and audience API.
+2026-11-12T12:37:48Z,innmind/frame,1.0.0,Baptiste Langlade,
+2026-11-12T12:48:03Z,openupi/gateway,v0.1.0,,"PHP server SDK for the OpenUPI merchant gateway: create orders, read them, refund, and verify signed webhooks. No dependencies."
+2026-11-12T12:57:13Z,humanmade/elasticpress-verify-index,0.1.0,Human Made,WP-CLI command that checks a random sample of posts against the ElasticPress index.
+2026-11-12T12:58:08Z,limegreentangerine/seo_kit,1.0.0,Dave Hendy,SEO kit for Concrete5
+2026-11-12T13:03:14Z,proxyverity/proxy-checker-widget,v1.0.0,ProxyVerity,"Embeddable proxy checker widget: one script tag puts a working HTTP/HTTPS/SOCKS proxy checker on your page. No server, no account, no build step."
