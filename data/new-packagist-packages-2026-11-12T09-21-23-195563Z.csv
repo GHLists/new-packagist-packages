@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-12T08:31:16Z,cboxdk/laravel-relay-client,v0.1.0,Sylvester Damgaard,"Cbox Relay client for Laravel: publish events, send mail and push, judge content, read inbound mail and verify Relay's webhooks, with an in-memory fake for tests."
+2026-11-12T08:34:27Z,kvadro/post-core,1.0.2,,Extends Post Core Module
+2026-11-12T09:01:31Z,florentingarnier/cookie-consent,v0.1.0,Florentin Garnier,"Cookie consent policy, purpose by purpose: the categories, the consent cookie read by the browser and the proof of each choice."
+2026-11-12T09:04:04Z,vois/vois-php,v1.0.0,,"VOIS SMS ve Ses API istemcisi (PHP 8.1+, Laravel desteği)"
+2026-11-12T09:06:10Z,florentingarnier/cookie-consent-bundle,v0.1.0,Florentin Garnier,"Symfony integration of florentingarnier/cookie-consent: a consent banner, a browser script blocking the scripts and embedded contents until the visitor consents, and the proof of each choice."
+2026-11-12T09:06:48Z,pteal79/image-resize,1.0.1,,"NativePHP Mobile v4 plugin that shrinks a JPEG, PNG or HEIC photo to a maximum long edge and saves it as a JPEG"

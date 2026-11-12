@@ -15,18 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 08:21 UTC
+## Latest list — 2026-11-12 09:21 UTC
 
-New packages created between 2026-11-12 07:21 UTC and 2026-11-12 08:21 UTC.
+New packages created between 2026-11-12 08:21 UTC and 2026-11-12 09:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-12T08-21-20-390552Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T09-21-23-195563Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-12 07:26:03 | [magetu/module-turnstile](https://www.nuget.org/packages/magetu%2Fmodule-turnstile) | 1.0.0 | Magetu | Registers Cloudflare Turnstile as a native captcha type for Magento Open Source… |
-| 2026-11-12 07:40:07 | [toshkq93/laravel-outbox](https://www.nuget.org/packages/toshkq93%2Flaravel-outbox) | 0.0.1 | toshkq93 | Reliable messaging for Laravel: transactional outbox with a SKIP LOCKED relay,… |
-| 2026-11-12 07:49:49 | [maxim-tsatsura/filament-cad-blueprint](https://www.nuget.org/packages/maxim-tsatsura%2Ffilament-cad-blueprint) | v1.0.0 | Maxim Tsatsura | 2D CAD blueprint viewer and editor integration for Filament 5 |
-| 2026-11-12 07:52:28 | [reavideo/shotlist](https://www.nuget.org/packages/reavideo%2Fshotlist) | v1.0.0 |  | Parse a plain-text shot list into shots, timings and cut statistics. |
+| 2026-11-12 08:31:16 | [cboxdk/laravel-relay-client](https://www.nuget.org/packages/cboxdk%2Flaravel-relay-client) | v0.1.0 | Sylvester Damgaard | Cbox Relay client for Laravel: publish events, send mail and push, judge conten… |
+| 2026-11-12 08:34:27 | [kvadro/post-core](https://www.nuget.org/packages/kvadro%2Fpost-core) | 1.0.2 |  | Extends Post Core Module |
+| 2026-11-12 09:01:31 | [florentingarnier/cookie-consent](https://www.nuget.org/packages/florentingarnier%2Fcookie-consent) | v0.1.0 | Florentin Garnier | Cookie consent policy, purpose by purpose: the categories, the consent cookie r… |
+| 2026-11-12 09:04:04 | [vois/vois-php](https://www.nuget.org/packages/vois%2Fvois-php) | v1.0.0 |  | VOIS SMS ve Ses API istemcisi (PHP 8.1+, Laravel desteği) |
+| 2026-11-12 09:06:10 | [florentingarnier/cookie-consent-bundle](https://www.nuget.org/packages/florentingarnier%2Fcookie-consent-bundle) | v0.1.0 | Florentin Garnier | Symfony integration of florentingarnier/cookie-consent: a consent banner, a bro… |
+| 2026-11-12 09:06:48 | [pteal79/image-resize](https://www.nuget.org/packages/pteal79%2Fimage-resize) | 1.0.1 |  | NativePHP Mobile v4 plugin that shrinks a JPEG, PNG or HEIC photo to a maximum… |
 
 ## Data source
 
