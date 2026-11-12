@@ -15,18 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 02:21 UTC
+## Latest list — 2026-11-12 03:20 UTC
 
-New packages created between 2026-11-12 01:19 UTC and 2026-11-12 02:21 UTC.
+New packages created between 2026-11-12 02:21 UTC and 2026-11-12 03:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-12T02-21-50-604026Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T03-20-47-143343Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-12 01:37:11 | [laranail/waitlist-kit](https://www.nuget.org/packages/laranail%2Fwaitlist-kit) | v0.1.0 | Simtabi LLC; Imani Manyara | Waitlists, coming-soon and early-access pages for Laravel: lead capture and con… |
-| 2026-11-12 01:39:15 | [laranail/waitlist-starter](https://www.nuget.org/packages/laranail%2Fwaitlist-starter) | v0.1.0 | Simtabi LLC; Imani Manyara | A Laravel app that runs laranail/waitlist-kit: a waitlist, coming-soon or early… |
-| 2026-11-12 01:55:36 | [php-io-extensions/soloud](https://www.nuget.org/packages/php-io-extensions%2Fsoloud) | v0.11.0 | Project Saturn Studios, LLC | 1:1 PHP bindings of the SoLoud C++ audio engine, with the library compiled into… |
-| 2026-11-12 02:05:35 | [s3rgiosan/divi-migration](https://www.nuget.org/packages/s3rgiosan%2Fdivi-migration) | 1.0.0 | Sérgio Santos | Convert Divi Builder content to blocks. |
+| 2026-11-12 02:38:33 | [php-io-extensions/gstreamer](https://www.nuget.org/packages/php-io-extensions%2Fgstreamer) | v0.11.0 | Project Saturn Studios, LLC | 1:1 PHP bindings of GStreamer 1.26: gstreamer, gstreamer-app, gstreamer-video,… |
 
 ## Data source
 
