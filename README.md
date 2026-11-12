@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 21:18 UTC
+## Latest list — 2026-11-12 22:21 UTC
 
-New packages created between 2026-11-12 20:21 UTC and 2026-11-12 21:18 UTC.
+New packages created between 2026-11-12 21:18 UTC and 2026-11-12 22:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-12T21-18-58-186025Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T22-21-12-895479Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-12 20:44:20 | [letterncms/minimal](https://www.nuget.org/packages/letterncms%2Fminimal) | 0.1.0 |  | A home page, an about page and a blog with three posts, on one typeface and a c… |
-| 2026-11-12 21:07:22 | [alexxvl/problem-details](https://www.nuget.org/packages/alexxvl%2Fproblem-details) | v0.1.0 |  | RFC 9457 Problem Details for Laravel APIs |
-| 2026-11-12 21:13:25 | [davidhirtz/yii2-forms](https://www.nuget.org/packages/davidhirtz%2Fyii2-forms) | 3.0.0 | David Hirtz | Frontend forms with bot protection and mail delivery based on Yii 2.0 framework |
+| 2026-11-12 21:41:39 | [titancsa/interceptor-multilang](https://www.nuget.org/packages/titancsa%2Finterceptor-multilang) | v1.0.0 |  | Direct Windows x64 PHP FFI SDK for the Interceptor input driver |
+| 2026-11-12 22:08:14 | [protectyourephp/pyp-ext](https://www.nuget.org/packages/protectyourephp%2Fpyp-ext) | 0.1.0 |  | PYP (ProtectYourePHP) - native PHP extension for the PYP loader |
 
 ## Data source
 
