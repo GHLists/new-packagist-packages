@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 06:21 UTC
+## Latest list — 2026-11-12 07:21 UTC
 
-New packages created between 2026-11-12 05:21 UTC and 2026-11-12 06:21 UTC.
+New packages created between 2026-11-12 06:21 UTC and 2026-11-12 07:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-12T06-21-57-955508Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T07-21-45-85411Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-12 05:25:12 | [tinymvc/tinyqr](https://www.nuget.org/packages/tinymvc%2Ftinyqr) | v1.0.0 | Shahin Moyshan | Lightweight PHP QR code generator and decoder with PNG and SVG output. |
-| 2026-11-12 05:48:44 | [letterncms/fathomline](https://www.nuget.org/packages/letterncms%2Ffathomline) | 0.2.0 |  | A survey office's site: WebGL fields, scroll choreography and client navigation… |
-| 2026-11-12 06:10:36 | [akshaysmohite/filament-form-generator](https://www.nuget.org/packages/akshaysmohite%2Ffilament-form-generator) | v0.1.0 | Akshay | Visual drag-and-drop form schema builder and PHP code generator for Filament v3… |
-| 2026-11-12 06:12:00 | [olivcode/form-guard](https://www.nuget.org/packages/olivcode%2Fform-guard) | v1.0.0 | Olivier Gaillot | Progressive abuse protection for PHP forms, with optional JavaScript signals. |
-| 2026-11-12 06:12:05 | [olivcode/form-guard-laravel](https://www.nuget.org/packages/olivcode%2Fform-guard-laravel) | v1.0.0 |  | Laravel adapter for the Form Guard PHP form protection engine. |
+| 2026-11-12 06:25:02 | [goomzo/goomzo-php](https://www.nuget.org/packages/goomzo%2Fgoomzo-php) | v0.1.0 |  | The Goomzo API for PHP: messages, templates, customers and webhooks. |
+| 2026-11-12 06:30:56 | [vbushuev/laravel-mattermost](https://www.nuget.org/packages/vbushuev%2Flaravel-mattermost) | 1.1.0 | Vladimir Bushuev | Laravel logging package for Mattermost webhooks |
+| 2026-11-12 06:36:43 | [henzeb/housepedia-data-intelligence](https://www.nuget.org/packages/henzeb%2Fhousepedia-data-intelligence) | v1.0.0 | Henze Berkheij | Framework-independent PHP SDK for the Housepedia Data Intelligence API |
+| 2026-11-12 06:39:00 | [olivcode/form-guard](https://www.nuget.org/packages/olivcode%2Fform-guard) | v1.0.0 | Olivier Gaillot | Progressive abuse protection for PHP forms, with optional JavaScript signals. |
+| 2026-11-12 06:47:30 | [henzeb/housepedia-data-intelligence-laravel](https://www.nuget.org/packages/henzeb%2Fhousepedia-data-intelligence-laravel) | v1.0.0 | Henze Berkheij | Laravel integration for the Housepedia Data Intelligence PHP SDK |
 
 ## Data source
 

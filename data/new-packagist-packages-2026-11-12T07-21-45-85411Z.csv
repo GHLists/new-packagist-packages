@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-12T06:25:02Z,goomzo/goomzo-php,v0.1.0,,"The Goomzo API for PHP: messages, templates, customers and webhooks."
+2026-11-12T06:30:56Z,vbushuev/laravel-mattermost,1.1.0,Vladimir Bushuev,Laravel logging package for Mattermost webhooks
+2026-11-12T06:36:43Z,henzeb/housepedia-data-intelligence,v1.0.0,Henze Berkheij,Framework-independent PHP SDK for the Housepedia Data Intelligence API
+2026-11-12T06:39:00Z,olivcode/form-guard,v1.0.0,Olivier Gaillot,"Progressive abuse protection for PHP forms, with optional JavaScript signals."
+2026-11-12T06:47:30Z,henzeb/housepedia-data-intelligence-laravel,v1.0.0,Henze Berkheij,Laravel integration for the Housepedia Data Intelligence PHP SDK
