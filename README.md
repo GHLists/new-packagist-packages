@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 22:21 UTC
+## Latest list — 2026-11-12 23:19 UTC
 
-New packages created between 2026-11-12 21:18 UTC and 2026-11-12 22:21 UTC.
+New packages created between 2026-11-12 22:21 UTC and 2026-11-12 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-12T22-21-12-895479Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T23-19-50-219851Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-12 21:41:39 | [titancsa/interceptor-multilang](https://www.nuget.org/packages/titancsa%2Finterceptor-multilang) | v1.0.0 |  | Direct Windows x64 PHP FFI SDK for the Interceptor input driver |
-| 2026-11-12 22:08:14 | [protectyourephp/pyp-ext](https://www.nuget.org/packages/protectyourephp%2Fpyp-ext) | 0.1.0 |  | PYP (ProtectYourePHP) - native PHP extension for the PYP loader |
+| 2026-11-12 22:39:15 | [maatify/php-persistence](https://www.nuget.org/packages/maatify%2Fphp-persistence) | v1.0.0-rc.1 | Maatify | Direct-PDO transaction, pagination, and ordering utilities for MySQL and MariaD… |
 
 ## Data source
 

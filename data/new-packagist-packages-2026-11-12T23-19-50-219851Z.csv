@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-12T22:39:15Z,maatify/php-persistence,v1.0.0-rc.1,Maatify,"Direct-PDO transaction, pagination, and ordering utilities for MySQL and MariaDB."
