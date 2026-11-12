@@ -15,22 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 22:21 UTC
+## Latest list — 2026-11-12 00:20 UTC
 
-New packages created between 2026-11-11 21:20 UTC and 2026-11-11 22:21 UTC.
+New packages created between 2026-11-11 23:21 UTC and 2026-11-12 00:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-11T22-21-52-738923Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T00-20-42-07842Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-11 21:22:28 | [phil/ux-kit](https://www.nuget.org/packages/phil%2Fux-kit) | 0.1.0-alpha | Philippe Gamache | PHIL UX kit for the Symfony UX Toolkit: the same recipes as the Shadcn kit, sty… |
-| 2026-11-11 21:22:29 | [phil/ux-css](https://www.nuget.org/packages/phil%2Fux-css) | 0.1.0-alpha | Philippe Gamache | phil-ux, the CSS framework of PHIL: real, mostly classless CSS with --phil-* to… |
-| 2026-11-11 21:23:31 | [ernestdefoe/latest-replies](https://www.nuget.org/packages/ernestdefoe%2Flatest-replies) | 1.0.0 | Ernest Defoe | Latest Replies: a widget of the newest replies on your forum, in the sidebar, a… |
-| 2026-11-11 21:29:33 | [stackradar/laravel](https://www.nuget.org/packages/stackradar%2Flaravel) | v0.1.0 |  | Laravel integration for StackRadar runtime dependency inventory. |
-| 2026-11-11 21:38:44 | [ernestdefoe/stances](https://www.nuget.org/packages/ernestdefoe%2Fstances) | 1.0.0 | Ernest Defoe | Stances: one-click Agree/Disagree, Yes/No, This-or-That and Rating blocks anywh… |
-| 2026-11-11 21:46:33 | [blemli/splitbutton-for-filament](https://www.nuget.org/packages/blemli%2Fsplitbutton-for-filament) | v0.1.0 | grafst | The button that adapts to how you work. |
-| 2026-11-11 22:06:45 | [php-io-extensions/libsoundio](https://www.nuget.org/packages/php-io-extensions%2Flibsoundio) | v0.11.0 | Project Saturn Studios, LLC | 1:1 PHP bindings of libsoundio 2.0: backends, devices, channel layouts, formats… |
-| 2026-11-11 22:19:20 | [mattitja/bad-ip-blocker](https://www.nuget.org/packages/mattitja%2Fbad-ip-blocker) | v1.0.0 | Mattitja AB | Block bad IPs in Laravel using a local JSON list with automatic blocking of sca… |
+| 2026-11-11 23:33:24 | [angelitosystems/pdf](https://www.nuget.org/packages/angelitosystems%2Fpdf) | v0.1.1 |  | HTML/CSS to PDF for Laravel without Chromium: a native Rust engine (angelito-pd… |
+| 2026-11-11 23:44:24 | [pushinbr/pam-native-web](https://www.nuget.org/packages/pushinbr%2Fpam-native-web) | v1.48.0 |  | Compiles a PAM Native app to a static HTML/JS app for web-based TVs (Samsung Ti… |
+| 2026-11-12 00:03:12 | [christianoerick/nfse-nacional](https://www.nuget.org/packages/christianoerick%2Fnfse-nacional) | v0.1.0 | Christiano Erick | NFS-e Nacional (Sefin Nacional / ADN) em PHP puro, sem framework: DPS completa… |
 
 ## Data source
 

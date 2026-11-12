@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-11T23:33:24Z,angelitosystems/pdf,v0.1.1,,"HTML/CSS to PDF for Laravel without Chromium: a native Rust engine (angelito-pdf), downloaded with php artisan pdf:install."
+2026-11-11T23:44:24Z,pushinbr/pam-native-web,v1.48.0,,"Compiles a PAM Native app to a static HTML/JS app for web-based TVs (Samsung Tizen, LG webOS) and browsers. No server, no PHP on the device."
+2026-11-12T00:03:12Z,christianoerick/nfse-nacional,v0.1.0,Christiano Erick,"NFS-e Nacional (Sefin Nacional / ADN) em PHP puro, sem framework: DPS completa nos leiautes oficiais (1.01 e NT 009), assinatura XMLDSig com certificado A1, emissão, consulta, eventos (cancelamento, substituição, análise fiscal), parâmetros municipais, simulação sem rede e DANFSe."
