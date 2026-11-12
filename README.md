@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 04:21 UTC
+## Latest list — 2026-11-12 05:21 UTC
 
-New packages created between 2026-11-12 03:20 UTC and 2026-11-12 04:21 UTC.
+New packages created between 2026-11-12 04:21 UTC and 2026-11-12 05:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-12T04-21-41-301402Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T05-21-36-945438Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-12 03:44:43 | [reyhanitsme/auth-engine](https://www.nuget.org/packages/reyhanitsme%2Fauth-engine) | v1.0.0 | reyhanitsme | Plug-and-play, framework-agnostic PHP authentication engine (Native PHP & Larav… |
-| 2026-11-12 03:50:35 | [mahesh-kerai/payment-gateways](https://www.nuget.org/packages/mahesh-kerai%2Fpayment-gateways) | v1.0.0 | Mahesh Kerai | A Laravel package for integrating multiple payment gateways (Stripe, Razorpay,… |
-| 2026-11-12 03:59:27 | [vocamax/ipa-audios](https://www.nuget.org/packages/vocamax%2Fipa-audios) | v0.1.0 | vuthaihoc | One recording per American English IPA sound (24 consonants, 11 vowels, 5 dipht… |
+| 2026-11-12 04:32:56 | [ohauthcat/ohauthcat-php](https://www.nuget.org/packages/ohauthcat%2Fohauthcat-php) | v0.0.2 | OhAuthCat | OhAuthCat server SDK: enterprise SSO and SCIM directory sync |
+| 2026-11-12 05:07:24 | [bayurifkialghifari/dynamic-qris-php-client](https://www.nuget.org/packages/bayurifkialghifari%2Fdynamic-qris-php-client) | v0.1.1 | Bayu Rifki Alghifari | Laravel client with typed DTOs for the Dynamic QRIS ShopeePay and GoPay gateway |
 
 ## Data source
 
