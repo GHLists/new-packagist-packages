@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-12T14:25:56Z,youvision/think-version,v1.0.0,indiboy-create; AI,ThinkPHP 8 运行环境体检组件：查看框架版本与已安装的 Composer 依赖包。
+2026-11-12T14:29:36Z,hihaho/hihaho-php,v0.1.0,hihaho,PHP and Laravel SDK for the hihaho API
+2026-11-12T14:30:19Z,prima-assicurazioni/patch-manager,1.0.0,Matteo Giachino; Mattia Basone,A library to manage patch requests
+2026-11-12T14:35:40Z,helsingborg-stad/acf-phone-number-field,1.0.0,,International phone number field for Advanced Custom Fields.
