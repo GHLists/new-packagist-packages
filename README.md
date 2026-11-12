@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 10:21 UTC
+## Latest list — 2026-11-12 11:21 UTC
 
-New packages created between 2026-11-12 09:21 UTC and 2026-11-12 10:21 UTC.
+New packages created between 2026-11-12 10:21 UTC and 2026-11-12 11:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-12T10-21-42-642365Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T11-21-11-070327Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-12 09:27:22 | [traffman/sdk-php](https://www.nuget.org/packages/traffman%2Fsdk-php) | v1.0.0 | Traffman; modeewine | Transport-agnostic PHP SDK for the Traffman API (content exchange network). |
-| 2026-11-12 09:40:58 | [solutionforest/laravel-recommender](https://www.nuget.org/packages/solutionforest%2Flaravel-recommender) | v0.0.5 | Solution Forest Limited | Self-hosted, low-overhead recommendation feeds for Laravel (co-interaction simi… |
-| 2026-11-12 09:47:48 | [vcat/vc-safety-check](https://www.nuget.org/packages/vcat%2Fvc-safety-check) | 1.0.0 | Joram Wittke; Nico Hoffmann;… | Checks all installed extensions, core packages and their dependencies for known… |
-| 2026-11-12 09:53:54 | [welman91/filament-api-service](https://www.nuget.org/packages/welman91%2Ffilament-api-service) | v1.0.1 | Welman | A simple api service for supporting filamentphp |
-| 2026-11-12 10:20:26 | [solvebeam/oauth2-twinfield](https://www.nuget.org/packages/solvebeam%2Foauth2-twinfield) | v0.1.0 | SolveBeam; Remco Tolsma | Twinfield OAuth 2.0 provider for the PHP League's OAuth 2.0 Client |
+| 2026-11-12 10:23:22 | [concept24/omnipay-ingwebpay](https://www.nuget.org/packages/concept24%2Fomnipay-ingwebpay) | v1.0.2 | Concept24 | ING WebPay (ING Bank România) driver for the Omnipay payment processing library |
+| 2026-11-12 10:40:48 | [codeconjure/sylius-carrier-bundle](https://www.nuget.org/packages/codeconjure%2Fsylius-carrier-bundle) | 0.1.1 |  | Szállító-semleges Sylius-alap a szállító-pluginokhoz (FoxPost, GLS, Packeta): k… |
+| 2026-11-12 10:55:06 | [solvebeam/twinfield-connect](https://www.nuget.org/packages/solvebeam%2Ftwinfield-connect) | v0.1.1 | SolveBeam; Remco Tolsma | Log in to Twinfield through Twinfield Connect, without a Twinfield client ID of… |
+| 2026-11-12 11:11:13 | [balatd/kern-ux](https://www.nuget.org/packages/balatd%2Fkern-ux) | 1.0.0-beta.4 | Dragan Balatinac | KERN UX-Standard for TYPO3 - accessible Fluid components, Content Blocks and fo… |
+| 2026-11-12 11:11:44 | [jaryan-host/proxmox](https://www.nuget.org/packages/jaryan-host%2Fproxmox) | v1.0.1 | Nima Asaadi | A Laravel package for integrating with the Proxmox REST API. |
 
 ## Data source
 

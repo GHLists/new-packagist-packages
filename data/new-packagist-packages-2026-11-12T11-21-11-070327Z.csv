@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-12T10:23:22Z,concept24/omnipay-ingwebpay,v1.0.2,Concept24,ING WebPay (ING Bank România) driver for the Omnipay payment processing library
+2026-11-12T10:40:48Z,codeconjure/sylius-carrier-bundle,0.1.1,,"Szállító-semleges Sylius-alap a szállító-pluginokhoz (FoxPost, GLS, Packeta): közös pénztár-mezők, validáció és hookok."
+2026-11-12T10:55:06Z,solvebeam/twinfield-connect,v0.1.1,SolveBeam; Remco Tolsma,"Log in to Twinfield through Twinfield Connect, without a Twinfield client ID of your own"
+2026-11-12T11:11:13Z,balatd/kern-ux,1.0.0-beta.4,Dragan Balatinac,"KERN UX-Standard for TYPO3 - accessible Fluid components, Content Blocks and form templates for German public sector websites. Independent community integration, not an official KERN project."
+2026-11-12T11:11:44Z,jaryan-host/proxmox,v1.0.1,Nima Asaadi,A Laravel package for integrating with the Proxmox REST API.
