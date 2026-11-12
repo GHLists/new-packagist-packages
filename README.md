@@ -15,21 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 13:21 UTC
+## Latest list — 2026-11-12 14:21 UTC
 
-New packages created between 2026-11-12 12:19 UTC and 2026-11-12 13:21 UTC.
+New packages created between 2026-11-12 13:21 UTC and 2026-11-12 14:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-12T13-21-17-769287Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-12T14-21-18-326601Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-12 12:24:03 | [comprestack/sdk](https://www.nuget.org/packages/comprestack%2Fsdk) | v0.1.0 | Comprestack | Official PHP SDK for the Comprestack image optimization API |
-| 2026-11-12 12:34:42 | [relwave/relwave-php](https://www.nuget.org/packages/relwave%2Frelwave-php) | v1.0.0 | mgsoft | Official PHP SDK for the Relwave /api/v1 transactional and audience API. |
-| 2026-11-12 12:37:48 | [innmind/frame](https://www.nuget.org/packages/innmind%2Fframe) | 1.0.0 | Baptiste Langlade |  |
-| 2026-11-12 12:48:03 | [openupi/gateway](https://www.nuget.org/packages/openupi%2Fgateway) | v0.1.0 |  | PHP server SDK for the OpenUPI merchant gateway: create orders, read them, refu… |
-| 2026-11-12 12:57:13 | [humanmade/elasticpress-verify-index](https://www.nuget.org/packages/humanmade%2Felasticpress-verify-index) | 0.1.0 | Human Made | WP-CLI command that checks a random sample of posts against the ElasticPress in… |
-| 2026-11-12 12:58:08 | [limegreentangerine/seo_kit](https://www.nuget.org/packages/limegreentangerine%2Fseo_kit) | 1.0.0 | Dave Hendy | SEO kit for Concrete5 |
-| 2026-11-12 13:03:14 | [proxyverity/proxy-checker-widget](https://www.nuget.org/packages/proxyverity%2Fproxy-checker-widget) | v1.0.0 | ProxyVerity | Embeddable proxy checker widget: one script tag puts a working HTTP/HTTPS/SOCKS… |
+| 2026-11-12 13:23:05 | [pharaonic/laravel-deep-replicate](https://www.nuget.org/packages/pharaonic%2Flaravel-deep-replicate) | 13.0.0 | Moamen Eltouny (Raggi) | Replicate a chosen Eloquent relationship graph into new persisted records, with… |
+| 2026-11-12 13:30:29 | [gratlinie/contao-gratreviews](https://www.nuget.org/packages/gratlinie%2Fcontao-gratreviews) | v0.1.1 | Gratlinie | GratReviews – Google-Bewertungen automatisch abrufen und im Stil von GratFrame… |
+| 2026-11-12 13:42:11 | [nonini/protocol-netstring](https://www.nuget.org/packages/nonini%2Fprotocol-netstring) | v0.3.0 | Thomas Gelf | Simple NetString stream wrapper |
+| 2026-11-12 13:55:02 | [rikthepixel/modeltyper](https://www.nuget.org/packages/rikthepixel%2Fmodeltyper) | v3.15 | rik den breejen | Generate TypeScript interfaces from Laravel Models |
 
 ## Data source
 

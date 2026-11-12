@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-12T13:23:05Z,pharaonic/laravel-deep-replicate,13.0.0,Moamen Eltouny (Raggi),"Replicate a chosen Eloquent relationship graph into new persisted records, with explicit copy, reuse, and skip rules per relation path."
+2026-11-12T13:30:29Z,gratlinie/contao-gratreviews,v0.1.1,Gratlinie,GratReviews – Google-Bewertungen automatisch abrufen und im Stil von GratFrame anzeigen
+2026-11-12T13:42:11Z,nonini/protocol-netstring,v0.3.0,Thomas Gelf,Simple NetString stream wrapper
+2026-11-12T13:55:02Z,rikthepixel/modeltyper,v3.15,rik den breejen,Generate TypeScript interfaces from Laravel Models
