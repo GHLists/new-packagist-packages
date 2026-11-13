@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-13T06:10:24Z,atannex/desk-editor,v1.0.0,Atannex Enterprise,"A premium, first-class rich text editor for Laravel: Blade & Livewire components, uploads, mentions, math, code highlighting, tables, callouts, server-side sanitisation and a polished light/dark theme built with Tailwind CSS."
+2026-11-13T06:17:12Z,mrsunset9x/vietqr-php,v0.1.0,,"Small, offline VietQR (NAPAS247) payload generator and strict parser for PHP, with optional SVG/PNG rendering."
