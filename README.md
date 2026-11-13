@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 02:19 UTC
+## Latest list — 2026-11-13 03:22 UTC
 
-New packages created between 2026-11-13 01:18 UTC and 2026-11-13 02:19 UTC.
+New packages created between 2026-11-13 02:19 UTC and 2026-11-13 03:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-13T02-19-45-893717Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-13T03-22-53-060461Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-13 01:53:00 | [ernestdefoe/hangout](https://www.nuget.org/packages/ernestdefoe%2Fhangout) | 1.0.2 | Ernest Defoe; J.P. Boggis | Hangout: a light 2D talker world inside your forum, a modern web rewrite of The… |
+| 2026-11-13 03:00:46 | [palletwise/palletwise](https://www.nuget.org/packages/palletwise%2Fpalletwise) | v1.0.0 | Alvaro Romero | Deterministic pallet count estimation for inbound shipments, driven by configur… |
 
 ## Data source
 

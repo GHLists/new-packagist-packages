@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-13T03:00:46Z,palletwise/palletwise,v1.0.0,Alvaro Romero,"Deterministic pallet count estimation for inbound shipments, driven by configurable destination profiles (Amazon FBA, Walmart WFS or your own)."
