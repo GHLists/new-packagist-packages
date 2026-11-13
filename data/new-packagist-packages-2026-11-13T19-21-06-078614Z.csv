@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-13T18:22:47Z,routewise/laravel,v0.1.0,Mohab Mamdouh,"Turn a Laravel app into a safe MCP server: tools defined as data or generated from your routes, with kinds, a call log and a readiness scan."
+2026-11-13T18:42:52Z,woomoza/mozesms-php,v1.0.1,,"SDK oficial PHP da API MozeSMS (SMS, OTP, saldo, webhooks)"
+2026-11-13T18:53:48Z,youvision/think-store-weather,v1.5,Youvision,ThinkPHP 8 天气查询组件：省市联动、上游天气 JSON 接口与 8 小时缓存。
+2026-11-13T18:53:49Z,ernestdefoe/helpdesk,1.0.0,Ernestdefoe,"Help Desk — a search-first support theme for Flarum 2. A big search hero, topic cards that show how much of each topic is answered, question pages that read like documentation, and a dark mode."
+2026-11-13T19:01:40Z,jonatasfenske/cropper,v1.0.0,Robson V. Leite; Jonatas Fenske,"Crop inteligente de imagens PHP 8.5 com Focal Point, suporte AVIF/WebP nativo, batch processing para responsive images e geração de tag <picture>"
+2026-11-13T19:01:41Z,jonatasfenske/validator,v1.0.0,Robson V. Leite; Jonatas Fenske,"Validação declarativa PHP 8.5 com 30+ rules, mensagens em português, regras customizáveis e integração com qualquer camada da aplicação"
+2026-11-13T19:13:40Z,ernestdefoe/hearth,1.0.0,Ernestdefoe,"Hearth — a warm, cozy theme for small hobby communities on Flarum 2. Paper tones, pill navigation, rounded cards, a good-afternoon welcome card, chat-bubble posts, a tag shelf of jars, drawn kettle, jar and lamp illustrations, and an amber-lit Evening mode."
+2026-11-13T19:16:24Z,dotenvx/phpdotenvx,v0.1.5,dotenv,a secure dotenv—from the creator of `dotenv`
