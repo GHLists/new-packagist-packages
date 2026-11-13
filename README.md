@@ -15,20 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 10:19 UTC
+## Latest list — 2026-11-13 11:19 UTC
 
-New packages created between 2026-11-13 09:19 UTC and 2026-11-13 10:19 UTC.
+New packages created between 2026-11-13 10:19 UTC and 2026-11-13 11:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-13T10-19-38-220755Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-13T11-19-20-762885Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-13 09:29:11 | [javierms/subroles](https://www.nuget.org/packages/javierms%2Fsubroles) | 1.0.0 |  | Adds subroles: extra permission sets attached to a parent user role. |
-| 2026-11-13 09:47:22 | [kafka-bus/typed-topics](https://www.nuget.org/packages/kafka-bus%2Ftyped-topics) | v2.2.0 |  | Typed topics for Kafka Bus |
-| 2026-11-13 09:50:36 | [lara-igniter/laraigniter-excel](https://www.nuget.org/packages/lara-igniter%2Flaraigniter-excel) | 1.0.0 |  | Excel exports for Laraigniter. Export classes collect rows and the writer store… |
-| 2026-11-13 09:58:43 | [pharaonic/laravel-bookmarks](https://www.nuget.org/packages/pharaonic%2Flaravel-bookmarks) | 13.0.0 | Moamen Eltouny (Raggi) | Polymorphic bookmarks for Laravel Eloquent models, with JSON-object metadata an… |
-| 2026-11-13 10:04:57 | [mtubis/html-translator-filament](https://www.nuget.org/packages/mtubis%2Fhtml-translator-filament) | v0.1.0 | Magdalena Tubis | Filament v5 plugin for markup-safe AI translation of translatable models, built… |
-| 2026-11-13 10:14:29 | [silarhi/voter-bundle](https://www.nuget.org/packages/silarhi%2Fvoter-bundle) | v0.1.0 | Guillaume Sainthillier | Declare Symfony voter rules with a #[Grants] attribute on the method that decid… |
+| 2026-11-13 10:27:57 | [nonini/diff](https://www.nuget.org/packages/nonini%2Fdiff) | v0.4.0 | Thomas Gelf | php-diff wrapper supporting ipl/html |
+| 2026-11-13 10:36:24 | [dusmamud/indycheck](https://www.nuget.org/packages/dusmamud%2Findycheck) | v0.2.4 | dusmamud | PHP FFI binding for indycheck — offline validator for Indian IDs (PAN, Aadhaar,… |
+| 2026-11-13 10:38:40 | [nonini/zfdb](https://www.nuget.org/packages/nonini%2Fzfdb) | v0.6.0 |  | Zend_Db from Zend Framework 1. For compatibility reasons only |
+| 2026-11-13 10:54:34 | [sigta/ui](https://www.nuget.org/packages/sigta%2Fui) | v0.1.0 | Søren Risbøll Frisk | Sigta UI — Livewire/Blade component library carrying the Sigta brand. Paper, in… |
+| 2026-11-13 10:57:51 | [nonini/translation](https://www.nuget.org/packages/nonini%2Ftranslation) | v0.2.0 | Thomas Gelf | Translation helpers |
+| 2026-11-13 11:07:56 | [autoheal/laravel-sdk](https://www.nuget.org/packages/autoheal%2Flaravel-sdk) | v0.1.0 |  | Reports exceptions, error logs, deployments, heartbeats and health checks from… |
+| 2026-11-13 11:10:25 | [nonini/web](https://www.nuget.org/packages/nonini%2Fweb) | v0.15.0 | Thomas Gelf | Various web widgets |
+| 2026-11-13 11:14:00 | [jamalofski/simple-qrcode](https://www.nuget.org/packages/jamalofski%2Fsimple-qrcode) | 4.3.0 | Simple Software LLC; Jamal Ta… | Simple QrCode is a QR code generator made for Laravel. Maintained drop-in repla… |
+| 2026-11-13 11:15:27 | [photos-sh/photos](https://www.nuget.org/packages/photos-sh%2Fphotos) | v1.0.0 |  | PHP client for the Photos.sh API: background removal, resizing, upscaling, obje… |
 
 ## Data source
 

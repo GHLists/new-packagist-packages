@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-13T10:27:57Z,nonini/diff,v0.4.0,Thomas Gelf,php-diff wrapper supporting ipl/html
+2026-11-13T10:36:24Z,dusmamud/indycheck,v0.2.4,dusmamud,"PHP FFI binding for indycheck — offline validator for Indian IDs (PAN, Aadhaar, GSTIN, mobile, vehicle, IFSC, UPI, PIN code, TAN, CIN, LLPIN, Voter ID / EPIC)."
+2026-11-13T10:38:40Z,nonini/zfdb,v0.6.0,,Zend_Db from Zend Framework 1. For compatibility reasons only
+2026-11-13T10:54:34Z,sigta/ui,v0.1.0,Søren Risbøll Frisk,"Sigta UI — Livewire/Blade component library carrying the Sigta brand. Paper, ink, and hand-drawn accents as a foundation for landing pages and SaaS platforms."
+2026-11-13T10:57:51Z,nonini/translation,v0.2.0,Thomas Gelf,Translation helpers
+2026-11-13T11:07:56Z,autoheal/laravel-sdk,v0.1.0,,"Reports exceptions, error logs, deployments, heartbeats and health checks from a Laravel application to AutoHeal."
+2026-11-13T11:10:25Z,nonini/web,v0.15.0,Thomas Gelf,Various web widgets
+2026-11-13T11:14:00Z,jamalofski/simple-qrcode,4.3.0,Simple Software LLC; Jamal Tantaoui,Simple QrCode is a QR code generator made for Laravel. Maintained drop-in replacement for simplesoftwareio/simple-qrcode.
+2026-11-13T11:15:27Z,photos-sh/photos,v1.0.0,,"PHP client for the Photos.sh API: background removal, resizing, upscaling, object and text removal, marketplace checks and fixes, barcode, text and label reading."
