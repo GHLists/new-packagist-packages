@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-13T08:22:09Z,beromir/neos-studio-entries-editor,v1.0.0,Henrik Reißig,"The entries editor for Neos Studio: edit a list of entries (e.g. icon, heading and text) stored in one array property, in a dialog composed of Studio's own property editors. Registers as Beromir.EntriesEditor/Editor."
+2026-11-13T08:45:27Z,youvision/think-store-weather,v1.0.0,Youvision,ThinkPHP 8 开发期工具箱：内置开发服务器、请求轨迹追踪与端口探测。
+2026-11-13T08:54:07Z,el-choco/kobalt,0.1.0-alpha.14,el-choco,A rounded social feed theme for Flarum 2 with a top widget shelf.

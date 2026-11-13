@@ -15,21 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 08:20 UTC
+## Latest list — 2026-11-13 09:19 UTC
 
-New packages created between 2026-11-13 07:19 UTC and 2026-11-13 08:20 UTC.
+New packages created between 2026-11-13 08:20 UTC and 2026-11-13 09:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-13T08-20-19-09178Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-13T09-19-26-681811Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-13 07:21:58 | [sandritsch91/php-ntlm](https://www.nuget.org/packages/sandritsch91%2Fphp-ntlm) | 1.0.0 | James Armes; Sandritsch91 | Library for communicating with Microsoft services using NTLM authentication. |
-| 2026-11-13 07:29:21 | [wazum/visual-permissions](https://www.nuget.org/packages/wazum%2Fvisual-permissions) | v0.2.0 | Wolfgang Klinger | Edit TYPO3 backend group permissions directly on the relevant screens. |
-| 2026-11-13 07:34:58 | [rft/laravel-attachment](https://www.nuget.org/packages/rft%2Flaravel-attachment) | v1.0 |  | Single source of truth transactional file attachment package and Yii2-style att… |
-| 2026-11-13 07:36:33 | [mhinspeya/special-promotion](https://www.nuget.org/packages/mhinspeya%2Fspecial-promotion) | 1.0.0 | MHinspeya | Turn Magento Cart Price Rules into clear, on-brand storefront campaign badges —… |
-| 2026-11-13 07:40:59 | [initred/laravel-langfuse](https://www.nuget.org/packages/initred%2Flaravel-langfuse) | v1.0.0 | initred | Langfuse PHP SDK for Laravel, built for the Laravel AI SDK |
-| 2026-11-13 07:52:28 | [vergil-lai/lexsift-ffi](https://www.nuget.org/packages/vergil-lai%2Flexsift-ffi) | v0.2.0 | Vergil | Rust-powered keyword matching for PHP through FFI, with precompiled native libr… |
-| 2026-11-13 08:05:12 | [walkboy/yii2-basic-access](https://www.nuget.org/packages/walkboy%2Fyii2-basic-access) | 1.0.0 | Vitaly Walkboy | Base auth behavior for yii2 |
+| 2026-11-13 08:22:09 | [beromir/neos-studio-entries-editor](https://www.nuget.org/packages/beromir%2Fneos-studio-entries-editor) | v1.0.0 | Henrik Reißig | The entries editor for Neos Studio: edit a list of entries (e.g. icon, heading… |
+| 2026-11-13 08:45:27 | [youvision/think-store-weather](https://www.nuget.org/packages/youvision%2Fthink-store-weather) | v1.0.0 | Youvision | ThinkPHP 8 开发期工具箱：内置开发服务器、请求轨迹追踪与端口探测。 |
+| 2026-11-13 08:54:07 | [el-choco/kobalt](https://www.nuget.org/packages/el-choco%2Fkobalt) | 0.1.0-alpha.14 | el-choco | A rounded social feed theme for Flarum 2 with a top widget shelf. |
 
 ## Data source
 
