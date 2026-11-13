@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-13T11:21:38Z,standa/diseval,0.3.1,,Disables eval() in PHP 8 (PIE-installable wrapper around mk-j/PHP_diseval_extension)
+2026-11-13T11:23:20Z,nonini/db-migration,v0.2.0,,Simple DB migration helper
+2026-11-13T11:26:55Z,renatomaldonado/laravel-mcp-docs,v0.1.2,,"Generate a browsable documentation page for your Laravel MCP servers: tools, resources, prompts and per-client install instructions."
+2026-11-13T11:33:44Z,druidfi/symfony-minor-pin,8.1.0,,"Keeps every Symfony component on the 8.1 line without Symfony Flex (e.g. for Renovate, which runs Composer without plugins). Installs nothing; only declares conflicts."
+2026-11-13T11:49:34Z,lakedrops/docker4php,1.0.0,Jürgen Haas; Richard Papp,Composer Plugin to prepare local PHP/Apache development environment for Docker.
+2026-11-13T11:50:53Z,flexiapp/api-connector-v2,v1.0.0,Josef Burger,"PHP connector for the FlexiApp headless CMS REST API v2: read access, file cache with outage fallback and cache-flush webhooks."
+2026-11-13T12:00:15Z,concept-image/laravel-checks,1.1.0,Aurélien Cellier,"Laravel Checks: extra Spatie Laravel Health checks (public directory, public/index.php, SMTP) and a publishable service provider registering the production health checks."
+2026-11-13T12:04:28Z,mertaydin/elasticsearch-monitoring,v0.1.0,,A Laravel dashboard and metric collector for Elasticsearch clusters.

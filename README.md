@@ -15,23 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 11:19 UTC
+## Latest list — 2026-11-13 12:20 UTC
 
-New packages created between 2026-11-13 10:19 UTC and 2026-11-13 11:19 UTC.
+New packages created between 2026-11-13 11:19 UTC and 2026-11-13 12:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-13T11-19-20-762885Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-13T12-20-51-996785Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-13 10:27:57 | [nonini/diff](https://www.nuget.org/packages/nonini%2Fdiff) | v0.4.0 | Thomas Gelf | php-diff wrapper supporting ipl/html |
-| 2026-11-13 10:36:24 | [dusmamud/indycheck](https://www.nuget.org/packages/dusmamud%2Findycheck) | v0.2.4 | dusmamud | PHP FFI binding for indycheck — offline validator for Indian IDs (PAN, Aadhaar,… |
-| 2026-11-13 10:38:40 | [nonini/zfdb](https://www.nuget.org/packages/nonini%2Fzfdb) | v0.6.0 |  | Zend_Db from Zend Framework 1. For compatibility reasons only |
-| 2026-11-13 10:54:34 | [sigta/ui](https://www.nuget.org/packages/sigta%2Fui) | v0.1.0 | Søren Risbøll Frisk | Sigta UI — Livewire/Blade component library carrying the Sigta brand. Paper, in… |
-| 2026-11-13 10:57:51 | [nonini/translation](https://www.nuget.org/packages/nonini%2Ftranslation) | v0.2.0 | Thomas Gelf | Translation helpers |
-| 2026-11-13 11:07:56 | [autoheal/laravel-sdk](https://www.nuget.org/packages/autoheal%2Flaravel-sdk) | v0.1.0 |  | Reports exceptions, error logs, deployments, heartbeats and health checks from… |
-| 2026-11-13 11:10:25 | [nonini/web](https://www.nuget.org/packages/nonini%2Fweb) | v0.15.0 | Thomas Gelf | Various web widgets |
-| 2026-11-13 11:14:00 | [jamalofski/simple-qrcode](https://www.nuget.org/packages/jamalofski%2Fsimple-qrcode) | 4.3.0 | Simple Software LLC; Jamal Ta… | Simple QrCode is a QR code generator made for Laravel. Maintained drop-in repla… |
-| 2026-11-13 11:15:27 | [photos-sh/photos](https://www.nuget.org/packages/photos-sh%2Fphotos) | v1.0.0 |  | PHP client for the Photos.sh API: background removal, resizing, upscaling, obje… |
+| 2026-11-13 11:21:38 | [standa/diseval](https://www.nuget.org/packages/standa%2Fdiseval) | 0.3.1 |  | Disables eval() in PHP 8 (PIE-installable wrapper around mk-j/PHP_diseval_exten… |
+| 2026-11-13 11:23:20 | [nonini/db-migration](https://www.nuget.org/packages/nonini%2Fdb-migration) | v0.2.0 |  | Simple DB migration helper |
+| 2026-11-13 11:26:55 | [renatomaldonado/laravel-mcp-docs](https://www.nuget.org/packages/renatomaldonado%2Flaravel-mcp-docs) | v0.1.2 |  | Generate a browsable documentation page for your Laravel MCP servers: tools, re… |
+| 2026-11-13 11:33:44 | [druidfi/symfony-minor-pin](https://www.nuget.org/packages/druidfi%2Fsymfony-minor-pin) | 8.1.0 |  | Keeps every Symfony component on the 8.1 line without Symfony Flex (e.g. for Re… |
+| 2026-11-13 11:49:34 | [lakedrops/docker4php](https://www.nuget.org/packages/lakedrops%2Fdocker4php) | 1.0.0 | Jürgen Haas; Richard Papp | Composer Plugin to prepare local PHP/Apache development environment for Docker. |
+| 2026-11-13 11:50:53 | [flexiapp/api-connector-v2](https://www.nuget.org/packages/flexiapp%2Fapi-connector-v2) | v1.0.0 | Josef Burger | PHP connector for the FlexiApp headless CMS REST API v2: read access, file cach… |
+| 2026-11-13 12:00:15 | [concept-image/laravel-checks](https://www.nuget.org/packages/concept-image%2Flaravel-checks) | 1.1.0 | Aurélien Cellier | Laravel Checks: extra Spatie Laravel Health checks (public directory, public/in… |
+| 2026-11-13 12:04:28 | [mertaydin/elasticsearch-monitoring](https://www.nuget.org/packages/mertaydin%2Felasticsearch-monitoring) | v0.1.0 |  | A Laravel dashboard and metric collector for Elasticsearch clusters. |
 
 ## Data source
 
