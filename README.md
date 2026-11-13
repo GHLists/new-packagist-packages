@@ -15,22 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 12:20 UTC
+## Latest list — 2026-11-13 13:20 UTC
 
-New packages created between 2026-11-13 11:19 UTC and 2026-11-13 12:20 UTC.
+New packages created between 2026-11-13 12:20 UTC and 2026-11-13 13:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-13T12-20-51-996785Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-13T13-20-53-245399Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-13 11:21:38 | [standa/diseval](https://www.nuget.org/packages/standa%2Fdiseval) | 0.3.1 |  | Disables eval() in PHP 8 (PIE-installable wrapper around mk-j/PHP_diseval_exten… |
-| 2026-11-13 11:23:20 | [nonini/db-migration](https://www.nuget.org/packages/nonini%2Fdb-migration) | v0.2.0 |  | Simple DB migration helper |
-| 2026-11-13 11:26:55 | [renatomaldonado/laravel-mcp-docs](https://www.nuget.org/packages/renatomaldonado%2Flaravel-mcp-docs) | v0.1.2 |  | Generate a browsable documentation page for your Laravel MCP servers: tools, re… |
-| 2026-11-13 11:33:44 | [druidfi/symfony-minor-pin](https://www.nuget.org/packages/druidfi%2Fsymfony-minor-pin) | 8.1.0 |  | Keeps every Symfony component on the 8.1 line without Symfony Flex (e.g. for Re… |
-| 2026-11-13 11:49:34 | [lakedrops/docker4php](https://www.nuget.org/packages/lakedrops%2Fdocker4php) | 1.0.0 | Jürgen Haas; Richard Papp | Composer Plugin to prepare local PHP/Apache development environment for Docker. |
-| 2026-11-13 11:50:53 | [flexiapp/api-connector-v2](https://www.nuget.org/packages/flexiapp%2Fapi-connector-v2) | v1.0.0 | Josef Burger | PHP connector for the FlexiApp headless CMS REST API v2: read access, file cach… |
-| 2026-11-13 12:00:15 | [concept-image/laravel-checks](https://www.nuget.org/packages/concept-image%2Flaravel-checks) | 1.1.0 | Aurélien Cellier | Laravel Checks: extra Spatie Laravel Health checks (public directory, public/in… |
-| 2026-11-13 12:04:28 | [mertaydin/elasticsearch-monitoring](https://www.nuget.org/packages/mertaydin%2Felasticsearch-monitoring) | v0.1.0 |  | A Laravel dashboard and metric collector for Elasticsearch clusters. |
+| 2026-11-13 12:31:42 | [janalis/php-profiler](https://www.nuget.org/packages/janalis%2Fphp-profiler) | v0.1.0-alpha.1 |  | Local PHP profiler implemented in Rust |
+| 2026-11-13 12:43:16 | [iq2i/herse-bundle](https://www.nuget.org/packages/iq2i%2Fherse-bundle) | 0.1.0 |  | Account security building blocks for Symfony and Sylius: password policy, login… |
+| 2026-11-13 13:10:10 | [dwenzel/be-environment-indicator](https://www.nuget.org/packages/dwenzel%2Fbe-environment-indicator) | 0.1.0 | Dirk Wenzel | Shows the current environment (application context) and the admin role in the T… |
+| 2026-11-13 13:10:11 | [rsgrinko/ai-sdk](https://www.nuget.org/packages/rsgrinko%2Fai-sdk) | v0.1.0 | rsgrinko | Лёгкий PHP SDK для агентов с вызовом инструментов поверх OpenAI-совместимых API… |
 
 ## Data source
 

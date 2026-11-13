@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-13T12:31:42Z,janalis/php-profiler,v0.1.0-alpha.1,,Local PHP profiler implemented in Rust
+2026-11-13T12:43:16Z,iq2i/herse-bundle,0.1.0,,"Account security building blocks for Symfony and Sylius: password policy, login throttling, trusted devices, password change notification and two-factor authentication"
+2026-11-13T13:10:10Z,dwenzel/be-environment-indicator,0.1.0,Dirk Wenzel,Shows the current environment (application context) and the admin role in the TYPO3 backend top bar.
+2026-11-13T13:10:11Z,rsgrinko/ai-sdk,v0.1.0,rsgrinko,"Лёгкий PHP SDK для агентов с вызовом инструментов поверх OpenAI-совместимых API (DeepSeek, OpenAI, OpenRouter, Ollama, llama.cpp)"
