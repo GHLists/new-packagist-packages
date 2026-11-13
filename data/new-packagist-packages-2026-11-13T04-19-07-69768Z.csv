@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-13T03:25:30Z,preflow/publishing,v0.71.1,,"Preflow publishing — drafts and published snapshots of records, revisions, scheduled publishing and share previews"
+2026-11-13T03:29:22Z,canhao43/protheus-rest,v0.1.0,Caio Marques,"Cliente PHP para a API REST do TOTVS Protheus: login OAuth2 com renovação de token, paginação e erros no padrão de API TOTVS."
+2026-11-13T03:58:16Z,dayal/light-php,v1.0.1,Dayal Chandra Roy,"A tiny Core PHP framework with routing, controllers, views and helpers."

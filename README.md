@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 03:22 UTC
+## Latest list — 2026-11-13 04:19 UTC
 
-New packages created between 2026-11-13 02:19 UTC and 2026-11-13 03:22 UTC.
+New packages created between 2026-11-13 03:22 UTC and 2026-11-13 04:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-13T03-22-53-060461Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-13T04-19-07-69768Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-13 03:00:46 | [palletwise/palletwise](https://www.nuget.org/packages/palletwise%2Fpalletwise) | v1.0.0 | Alvaro Romero | Deterministic pallet count estimation for inbound shipments, driven by configur… |
+| 2026-11-13 03:25:30 | [preflow/publishing](https://www.nuget.org/packages/preflow%2Fpublishing) | v0.71.1 |  | Preflow publishing — drafts and published snapshots of records, revisions, sche… |
+| 2026-11-13 03:29:22 | [canhao43/protheus-rest](https://www.nuget.org/packages/canhao43%2Fprotheus-rest) | v0.1.0 | Caio Marques | Cliente PHP para a API REST do TOTVS Protheus: login OAuth2 com renovação de to… |
+| 2026-11-13 03:58:16 | [dayal/light-php](https://www.nuget.org/packages/dayal%2Flight-php) | v1.0.1 | Dayal Chandra Roy | A tiny Core PHP framework with routing, controllers, views and helpers. |
 
 ## Data source
 
