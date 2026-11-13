@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-13T14:23:47Z,deokonai/larabase-core,v1.0.0,,Commande de setup et création de modules Larabase.
+2026-11-13T14:23:48Z,deokonai/larabase-filament,v1.0.0,,Réglages Filament partagés par Larabase. Une application peut les surcharger.
+2026-11-13T14:29:00Z,tornado-engine/nav,v0.3.0,,Tornado Engine core-module: the site's navigation menu. Other modules add their items to it.
+2026-11-13T14:30:39Z,net-os/laravel-payments,v0.1.0,,"PSP-agnostic payments, invoices and discount codes for Laravel"
+2026-11-13T14:32:38Z,hernandotech/librenms-service-health,v0.1.0,,Proof of concept native LibreNMS Service Health dashboard widget
+2026-11-13T14:33:36Z,deokonai/larabase,v1.0.1,,Squelette Laravel neutre. Les modules partagés sont des packages deokonai/larabase-*.
+2026-11-13T14:51:56Z,tornado-engine/docs,v0.2.0,,Tornado Engine core-module: documentation pages in Administration. Other modules add their own docs.
+2026-11-13T14:59:19Z,aiobale/aiobale-php,v1.0.1,Abolfazl,Asynchronous PHP client for the Bale messaging API
+2026-11-13T15:06:37Z,paulocastellano/laravel-database-backup,v1.0.0,Paulo Castellano,"Back up your Laravel database (PostgreSQL, MySQL, MariaDB) to a private S3-compatible bucket on a schedule, with email and Discord notifications."
