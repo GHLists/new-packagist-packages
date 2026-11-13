@@ -1,0 +1,15 @@
+created_at,package,version,author,description
+2026-11-13T17:27:59Z,tornado-engine/cron,v0.1.0,,Tornado Engine core-module: scheduled jobs. Modules register jobs; admins choose when they run.
+2026-11-13T17:34:47Z,largerio/laravel-concurrency-limit,v1.0.0,Louis,"Cap in-flight HTTP requests and concurrent queued jobs per user, tenant or key in Laravel."
+2026-11-13T17:59:14Z,dotenvx/phpdotenvx-ext,v0.1.0,,Native PHP extension for Dotenvx
+2026-11-13T17:59:26Z,larwell/laravel-quick-mcp,v1.0.0,Ishrafil Khan,Effortless Model Context Protocol (MCP) server integration for Laravel applications
+2026-11-13T18:01:31Z,tornado-engine/broker,v0.1.0,,"Tornado Engine module: lets Claude work with directory data through pseudonyms, so no student information reaches it."
+2026-11-13T18:01:34Z,webwizardsusa/rich-editor-plus-embed,v0.1.0,Jamie Holly,"oEmbed embeds for Rich Editor Plus: paste a YouTube, Vimeo, X or other supported URL and it becomes an embed."
+2026-11-13T18:04:15Z,jonatasfenske/datalayer,v1.0.0,Robson V. Leite; Jonatas Fenske,"Abstração de persistência PHP 8.5 com QueryBuilder fluente, Soft Deletes, Relacionamentos, Casting, Transações e Eventos de lifecycle"
+2026-11-13T18:07:41Z,jonatasfenske/router,v1.0.0,Robson V. Leite; Jonatas Fenske,"Roteamento MVC PHP 8.5 com atributos #[Route], Rate Limiting, CORS automático, Error Handlers e validação tipada de parâmetros"
+2026-11-13T18:08:07Z,jonatasfenske/uploader,v1.0.0,Robson V. Leite; Jonatas Fenske,"Upload seguro de arquivos PHP 8.5 com validação MIME real via finfo_file, sanitização SVG, conversão WebP automática e suporte dual GD/Imagick"
+2026-11-13T18:08:28Z,jonatasfenske/cropper,v1.0.0,Robson V. Leite; Jonatas Fenske,"Crop inteligente de imagens PHP 8.5 com Focal Point, suporte AVIF/WebP nativo, batch processing para responsive images e geração de tag <picture>"
+2026-11-13T18:08:42Z,youvision/think-store,v1.4.0,indiboy-create; AI,ThinkPHP 8 商店扩展：查询主项目中已安装的 think-store-* 发布包。
+2026-11-13T18:08:47Z,jonatasfenske/optimizer,v1.0.0,Robson V. Leite; Jonatas Fenske,"SEO e meta tags PHP 8.5 com Schema.org JSON-LD, Open Graph, Twitter Cards, Sitemap.xml e robots.txt generator"
+2026-11-13T18:09:05Z,jonatasfenske/paginator,v1.0.0,Robson V. Leite; Jonatas Fenske,"Paginação PHP 8.5 com suporte offset-based e cursor-based, templates Bootstrap/Tailwind e integração com APIs REST"
+2026-11-13T18:09:24Z,jonatasfenske/validator,v1.0.0,Robson V. Leite; Jonatas Fenske,"Validação declarativa PHP 8.5 com 30+ rules, mensagens em português, regras customizáveis e integração com qualquer camada da aplicação"
