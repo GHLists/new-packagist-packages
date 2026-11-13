@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-13T15:26:47Z,pharaonic/laravel-ratings,13.0.0,Moamen Eltouny (Raggi),"Polymorphic ratings for Laravel Eloquent models: one rating per rater and target, configurable scales, optional comments, and database-enforced uniqueness."
+2026-11-13T15:26:49Z,tornado-engine/access,v0.1.0,,"Tornado Engine core-module: users, roles, and which pages each person can see."
+2026-11-13T15:47:45Z,ernestdefoe/homecoming,1.0.0,Ernest Defoe,"Homecoming: a welcome-back dashboard for your members. A greeting with the local weather, their unread discussions and new notifications, their rank and progress, and the stats you choose, as a strip above the discussion list or as widgets for FoF Widgets, Page Builder and Bespoke."
+2026-11-13T15:52:05Z,youvision/think-store,v1.2,indiboy-create; AI,ThinkPHP 8 商店扩展：查询主项目中已安装的 think-store-* 发布包。
+2026-11-13T15:54:33Z,wwwision/subscription-engine-worker,1.0.0,Bastian Waidelich,Long-running worker loop for the wwwision/subscription-engine
+2026-11-13T16:01:06Z,hardcastle/ledger-direct-interledger,0.1.0,Alexander Busse,LedgerDirect for Interledger - accepts Open Payments incoming payments as a LedgerDirect chain

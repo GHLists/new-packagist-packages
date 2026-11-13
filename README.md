@@ -15,23 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 15:19 UTC
+## Latest list — 2026-11-13 16:22 UTC
 
-New packages created between 2026-11-13 14:22 UTC and 2026-11-13 15:19 UTC.
+New packages created between 2026-11-13 15:19 UTC and 2026-11-13 16:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-13T15-19-11-859478Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-13T16-22-20-502865Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-13 14:23:47 | [deokonai/larabase-core](https://www.nuget.org/packages/deokonai%2Flarabase-core) | v1.0.0 |  | Commande de setup et création de modules Larabase. |
-| 2026-11-13 14:23:48 | [deokonai/larabase-filament](https://www.nuget.org/packages/deokonai%2Flarabase-filament) | v1.0.0 |  | Réglages Filament partagés par Larabase. Une application peut les surcharger. |
-| 2026-11-13 14:29:00 | [tornado-engine/nav](https://www.nuget.org/packages/tornado-engine%2Fnav) | v0.3.0 |  | Tornado Engine core-module: the site's navigation menu. Other modules add their… |
-| 2026-11-13 14:30:39 | [net-os/laravel-payments](https://www.nuget.org/packages/net-os%2Flaravel-payments) | v0.1.0 |  | PSP-agnostic payments, invoices and discount codes for Laravel |
-| 2026-11-13 14:32:38 | [hernandotech/librenms-service-health](https://www.nuget.org/packages/hernandotech%2Flibrenms-service-health) | v0.1.0 |  | Proof of concept native LibreNMS Service Health dashboard widget |
-| 2026-11-13 14:33:36 | [deokonai/larabase](https://www.nuget.org/packages/deokonai%2Flarabase) | v1.0.1 |  | Squelette Laravel neutre. Les modules partagés sont des packages deokonai/larab… |
-| 2026-11-13 14:51:56 | [tornado-engine/docs](https://www.nuget.org/packages/tornado-engine%2Fdocs) | v0.2.0 |  | Tornado Engine core-module: documentation pages in Administration. Other module… |
-| 2026-11-13 14:59:19 | [aiobale/aiobale-php](https://www.nuget.org/packages/aiobale%2Faiobale-php) | v1.0.1 | Abolfazl | Asynchronous PHP client for the Bale messaging API |
-| 2026-11-13 15:06:37 | [paulocastellano/laravel-database-backup](https://www.nuget.org/packages/paulocastellano%2Flaravel-database-backup) | v1.0.0 | Paulo Castellano | Back up your Laravel database (PostgreSQL, MySQL, MariaDB) to a private S3-comp… |
+| 2026-11-13 15:26:47 | [pharaonic/laravel-ratings](https://www.nuget.org/packages/pharaonic%2Flaravel-ratings) | 13.0.0 | Moamen Eltouny (Raggi) | Polymorphic ratings for Laravel Eloquent models: one rating per rater and targe… |
+| 2026-11-13 15:26:49 | [tornado-engine/access](https://www.nuget.org/packages/tornado-engine%2Faccess) | v0.1.0 |  | Tornado Engine core-module: users, roles, and which pages each person can see. |
+| 2026-11-13 15:47:45 | [ernestdefoe/homecoming](https://www.nuget.org/packages/ernestdefoe%2Fhomecoming) | 1.0.0 | Ernest Defoe | Homecoming: a welcome-back dashboard for your members. A greeting with the loca… |
+| 2026-11-13 15:52:05 | [youvision/think-store](https://www.nuget.org/packages/youvision%2Fthink-store) | v1.2 | indiboy-create; AI | ThinkPHP 8 商店扩展：查询主项目中已安装的 think-store-* 发布包。 |
+| 2026-11-13 15:54:33 | [wwwision/subscription-engine-worker](https://www.nuget.org/packages/wwwision%2Fsubscription-engine-worker) | 1.0.0 | Bastian Waidelich | Long-running worker loop for the wwwision/subscription-engine |
+| 2026-11-13 16:01:06 | [hardcastle/ledger-direct-interledger](https://www.nuget.org/packages/hardcastle%2Fledger-direct-interledger) | 0.1.0 | Alexander Busse | LedgerDirect for Interledger - accepts Open Payments incoming payments as a Led… |
 
 ## Data source
 
