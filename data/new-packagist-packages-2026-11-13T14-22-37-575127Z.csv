@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-11-13T13:22:59Z,dbravoan/dbcms-module-popups,v1.0.0,,Editorial popups and announcement overlays using shared dbCMS blocks and privacy controls
+2026-11-13T13:24:42Z,rsgrinko/ai-sdk,v0.1.2,rsgrinko,"Лёгкий PHP SDK для агентов с вызовом инструментов поверх OpenAI-совместимых API (DeepSeek, OpenAI, OpenRouter, Ollama, llama.cpp)"
+2026-11-13T13:27:18Z,tonsinn/sticky-links-bundle,v1.0.0,Mathias Ebert,"Sticky icon links for Contao 5 and 6 - a bar of icons fixed to the left or right edge of the browser window, each one either a link with a slide-out label or a flyout panel showing a Contao article."
+2026-11-13T13:29:02Z,pushword/twigstan,1.0.108.1,,TwigStan integration for Pushword projects.
+2026-11-13T13:36:45Z,shadcs/ferga-builder-mutlilanguage-rtl-support,v0.1.0,Ferga Solutions,"Drag-and-drop visual page builder for Filament with multilingual content, RTL support (Arabic, Kurdish, Persian, Hebrew) and ready-made templates."
+2026-11-13T13:47:25Z,glitchr/symfony-profiler-pack,v1.0.0,Marco Meyer,"A floating web debug toolbar for Symfony's profiler (drag it, resize it, fold it), a locale panel and wider profiler pages. A bundle with code, not a Composer pack."
+2026-11-13T13:50:51Z,glitchr/laravel-profiler-pack,v1.0.0,Marco Meyer,"A floating debug bar for Laravel, read from Laravel Telescope: status, route, time, memory, queries, logs, exceptions, cache, mail and jobs of the request, each block a link into /telescope. Movable, one piece on a phone, on by default in local."
+2026-11-13T13:52:24Z,tobimori/kirby-file-usage,0.1.0,Tobias Möritz,"See where files are used in Kirby: on which pages, in which fields and blocks, and which files are not used at all"
+2026-11-13T13:55:50Z,x-laravel/listmonk,v1.0.0,Mehmet ÖĞMEN,"Listmonk subscribers for Eloquent models with queued syncing, list membership and cleanup of orphaned subscribers."
+2026-11-13T14:16:08Z,simplygoodwork/craft-environment-banner,1.0.0,Good Work,Marks Craft environments with a control panel banner and a coloured symbol at the start of every page title
+2026-11-13T14:16:41Z,armanoide/roundcube-iconizer,1.0.0,Armanoide,"Custom per-folder icons in the Roundcube Elastic sidebar — searchable Iconify packs, mirrored locally, stored per user."
