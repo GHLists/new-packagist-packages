@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-11-13T20:26:48Z,ernestdefoe/testimonials,1.0.0,Ernest Defoe,"Testimonials: members say what they think of your community, a tag or a product, with star ratings and rated aspects. Moderated, with consent, and shown in a carousel, wall, spotlight and rating summary in Bespoke, Page Builder and FoF widgets."
+2026-11-13T20:29:47Z,faysal/riven,v0.1.0,Faysal Mohammed,"API docs, a request playground and load tests for Laravel, generated from your routes, FormRequest rules and API Resources."
+2026-11-13T20:32:45Z,qvard/qvard-php,v0.1.0,,"Qvard payments API client for PHP: payments, payouts, rates and webhook signature checks"
+2026-11-13T20:33:47Z,tornado-engine/access-google,v0.2.0,,"Tornado Engine module: gives roles to Google users, Google Groups and OUs, and keeps them in sync nightly."
+2026-11-13T20:39:30Z,texthtml/vo-identity,v1.0.0,Mathieu Rochette,Make comparing Value Objects easier & safer
+2026-11-13T20:47:51Z,tornado-engine/module-finder,v0.2.0,,"Tornado Engine core-module: finds modules on GitHub, and installs and updates them from the /modules page."
+2026-11-13T20:48:58Z,starbug/display,v0.9.3,Ali Gangji,Display and form rendering framework for Starbug.
+2026-11-13T20:55:23Z,polygonlab/identifiants-entreprise-fr,v0.1.1,PolygonLab,"Validation et formatage des SIREN, SIRET, numéros de TVA intracommunautaire et codes APE français."
+2026-11-13T20:57:02Z,tornado-engine/gam-runner,v0.2.0,,Tornado Engine module: run GAM commands from the website.
+2026-11-13T20:58:49Z,milvasoft/milvaion-worker,v1.0.0,,PHP worker SDK for the Milvaion job scheduler
+2026-11-13T21:03:01Z,imarc/mailgate,1.0.1,,"Whitelist outgoing mail recipients in Laravel—filter To, Cc, and Bcc before send and cancel when no allowed addresses remain."
