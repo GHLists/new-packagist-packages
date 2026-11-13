@@ -15,22 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 19:21 UTC
+## Latest list — 2026-11-13 20:23 UTC
 
-New packages created between 2026-11-13 18:19 UTC and 2026-11-13 19:21 UTC.
+New packages created between 2026-11-13 19:21 UTC and 2026-11-13 20:23 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-13T19-21-06-078614Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-13T20-23-14-973322Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-13 18:22:47 | [routewise/laravel](https://www.nuget.org/packages/routewise%2Flaravel) | v0.1.0 | Mohab Mamdouh | Turn a Laravel app into a safe MCP server: tools defined as data or generated f… |
-| 2026-11-13 18:42:52 | [woomoza/mozesms-php](https://www.nuget.org/packages/woomoza%2Fmozesms-php) | v1.0.1 |  | SDK oficial PHP da API MozeSMS (SMS, OTP, saldo, webhooks) |
-| 2026-11-13 18:53:48 | [youvision/think-store-weather](https://www.nuget.org/packages/youvision%2Fthink-store-weather) | v1.5 | Youvision | ThinkPHP 8 天气查询组件：省市联动、上游天气 JSON 接口与 8 小时缓存。 |
-| 2026-11-13 18:53:49 | [ernestdefoe/helpdesk](https://www.nuget.org/packages/ernestdefoe%2Fhelpdesk) | 1.0.0 | Ernestdefoe | Help Desk — a search-first support theme for Flarum 2. A big search hero, topic… |
-| 2026-11-13 19:01:40 | [jonatasfenske/cropper](https://www.nuget.org/packages/jonatasfenske%2Fcropper) | v1.0.0 | Robson V. Leite; Jonatas Fens… | Crop inteligente de imagens PHP 8.5 com Focal Point, suporte AVIF/WebP nativo,… |
-| 2026-11-13 19:01:41 | [jonatasfenske/validator](https://www.nuget.org/packages/jonatasfenske%2Fvalidator) | v1.0.0 | Robson V. Leite; Jonatas Fens… | Validação declarativa PHP 8.5 com 30+ rules, mensagens em português, regras cus… |
-| 2026-11-13 19:13:40 | [ernestdefoe/hearth](https://www.nuget.org/packages/ernestdefoe%2Fhearth) | 1.0.0 | Ernestdefoe | Hearth — a warm, cozy theme for small hobby communities on Flarum 2. Paper tone… |
-| 2026-11-13 19:16:24 | [dotenvx/phpdotenvx](https://www.nuget.org/packages/dotenvx%2Fphpdotenvx) | v0.1.5 | dotenv | a secure dotenv—from the creator of `dotenv` |
+| 2026-11-13 19:29:44 | [ernestdefoe/corkboard](https://www.nuget.org/packages/ernestdefoe%2Fcorkboard) | 1.0.0 | Ernest Defoe | Corkboard: project boards inside your Flarum forum. Columns and cards with chec… |
+| 2026-11-13 19:32:46 | [videovv/ini-file](https://www.nuget.org/packages/videovv%2Fini-file) | v1.0.0 |  | A simple, modern INI parser for PHP 8.0+ with support for complex strings. |
+| 2026-11-13 19:33:23 | [handcode/yii2-route-access-check](https://www.nuget.org/packages/handcode%2Fyii2-route-access-check) | 1.0.0 | Jens Giessmann |  |
+| 2026-11-13 19:35:00 | [ernestdefoe/broadsheet](https://www.nuget.org/packages/ernestdefoe%2Fbroadsheet) | 1.0.0 | Ernestdefoe | Broadsheet — a newspaper front-page theme for Flarum 2. A nameplate, a section… |
+| 2026-11-13 19:41:21 | [ernestdefoe/studio](https://www.nuget.org/packages/ernestdefoe%2Fstudio) | 1.0.0 | Ernestdefoe | Studio — an image-first masonry theme for Flarum 2, for photo, art and maker co… |
+| 2026-11-13 19:42:47 | [quire/analytics](https://www.nuget.org/packages/quire%2Fanalytics) | v0.3.0 | YorvoLabs | Analytics for Quire: Google Analytics 4, loaded only once visitors allow it, an… |
+| 2026-11-13 19:42:47 | [quire/privacy](https://www.nuget.org/packages/quire%2Fprivacy) | v0.3.0 | YorvoLabs | Privacy and cookies for Quire: the services a site uses that visitors are asked… |
+| 2026-11-13 19:51:14 | [youvision/think-store-example](https://www.nuget.org/packages/youvision%2Fthink-store-example) | v1.6 | indiboy-create; AI | ThinkPHP 8 示例包：包内视图渲染、layui 静态资源路由与随机抽诗接口。 |
+| 2026-11-13 19:54:51 | [ernestdefoe/panels](https://www.nuget.org/packages/ernestdefoe%2Fpanels) | 1.0.0 | Ernest Defoe | Panels: a manga, webtoon and comics library and reader for Flarum 2. Series wit… |
+| 2026-11-13 19:55:22 | [handcode/yii2-active-record-typecast-behavior](https://www.nuget.org/packages/handcode%2Fyii2-active-record-typecast-behavior) | 1.0.0 | Jens Giessmann | TypeCast Behavior for yii2 ActiveRecords which can be used to ensure attribute… |
 
 ## Data source
 
