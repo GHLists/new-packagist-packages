@@ -15,16 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 06:21 UTC
+## Latest list — 2026-11-13 07:19 UTC
 
-New packages created between 2026-11-13 05:21 UTC and 2026-11-13 06:21 UTC.
+New packages created between 2026-11-13 06:21 UTC and 2026-11-13 07:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-13T06-21-39-689706Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-13T07-19-16-96707Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-13 06:10:24 | [atannex/desk-editor](https://www.nuget.org/packages/atannex%2Fdesk-editor) | v1.0.0 | Atannex Enterprise | A premium, first-class rich text editor for Laravel: Blade & Livewire component… |
-| 2026-11-13 06:17:12 | [mrsunset9x/vietqr-php](https://www.nuget.org/packages/mrsunset9x%2Fvietqr-php) | v0.1.0 |  | Small, offline VietQR (NAPAS247) payload generator and strict parser for PHP, w… |
+| 2026-11-13 06:31:10 | [liberusoftware/module-accounting-erp](https://www.nuget.org/packages/liberusoftware%2Fmodule-accounting-erp) | 1.0.0 |  | Integrated ERP workflows and the existing application accounting schema. |
+| 2026-11-13 06:31:19 | [liberusoftware/module-accounting-erp-filament](https://www.nuget.org/packages/liberusoftware%2Fmodule-accounting-erp-filament) | 1.0.0 |  | Filament resources, pages, widgets, and portal presentation for the ERP runtime. |
+| 2026-11-13 06:31:29 | [liberusoftware/module-accounting-erp-http](https://www.nuget.org/packages/liberusoftware%2Fmodule-accounting-erp-http) | 1.0.0 |  | HTTP controllers, API resources, and routes for the ERP runtime. |
+| 2026-11-13 06:44:53 | [tinymvc/tinypdf](https://www.nuget.org/packages/tinymvc%2Ftinypdf) | v1.0.0 | Shahin Moyshan | Fast, dependency-free Modern HTML to PDF generator for PHP 8.2+ |
+| 2026-11-13 07:00:39 | [jumphp/webrtc](https://www.nuget.org/packages/jumphp%2Fwebrtc) | v0.5.53 |  | WebRTC for JumPHP games and apps: peer-to-peer data channels and screen video,… |
 
 ## Data source
 

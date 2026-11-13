@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-13T06:31:10Z,liberusoftware/module-accounting-erp,1.0.0,,Integrated ERP workflows and the existing application accounting schema.
+2026-11-13T06:31:19Z,liberusoftware/module-accounting-erp-filament,1.0.0,,"Filament resources, pages, widgets, and portal presentation for the ERP runtime."
+2026-11-13T06:31:29Z,liberusoftware/module-accounting-erp-http,1.0.0,,"HTTP controllers, API resources, and routes for the ERP runtime."
+2026-11-13T06:44:53Z,tinymvc/tinypdf,v1.0.0,Shahin Moyshan,"Fast, dependency-free Modern HTML to PDF generator for PHP 8.2+"
+2026-11-13T07:00:39Z,jumphp/webrtc,v0.5.53,,"WebRTC for JumPHP games and apps: peer-to-peer data channels and screen video, the same PHP API in the browser (the page's RTCPeerConnection) and on the desktop (a GStreamer webrtcbin sidecar)"
