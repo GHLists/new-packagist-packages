@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-13T16:29:59Z,nowo-tech/migrations-kit-contracts,v1.0.0,Héctor Franco Aceituno; Nowo.tech,"Contracts a bundle implements to declare its identity and access-key columns, so a host can assert they are in a binary NO PAD collation (REQ-SEC-006). Interfaces and value objects only, no dependencies beyond PHP."
+2026-11-13T16:35:17Z,slaver/laravel-sluggable-redirect,2.1.0,Viacheslav Radionov; Freerk van Zeijl,Creates sluggable-history if slug created from laravel-sluggable-package by Spatie and redirects to current slug.
+2026-11-13T16:54:17Z,solverr/solverr-php,v0.1.0,,Server SDK for the Solverr crypto payment API.
+2026-11-13T17:05:24Z,moncash-php/moncash-php,v0.1.0,,"Unofficial PHP SDK for the Digicel MonCash API (Haiti) — OAuth, payment creation, redirect and payment verification. Framework-agnostic, zero dependencies."
+2026-11-13T17:11:36Z,verdient/data-fetch-planner,1.0.0,,"Plans date-range queries across daily, monthly and yearly aggregates."

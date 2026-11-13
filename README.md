@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 16:22 UTC
+## Latest list — 2026-11-13 17:20 UTC
 
-New packages created between 2026-11-13 15:19 UTC and 2026-11-13 16:22 UTC.
+New packages created between 2026-11-13 16:22 UTC and 2026-11-13 17:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-13T16-22-20-502865Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-13T17-20-14-275624Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-13 15:26:47 | [pharaonic/laravel-ratings](https://www.nuget.org/packages/pharaonic%2Flaravel-ratings) | 13.0.0 | Moamen Eltouny (Raggi) | Polymorphic ratings for Laravel Eloquent models: one rating per rater and targe… |
-| 2026-11-13 15:26:49 | [tornado-engine/access](https://www.nuget.org/packages/tornado-engine%2Faccess) | v0.1.0 |  | Tornado Engine core-module: users, roles, and which pages each person can see. |
-| 2026-11-13 15:47:45 | [ernestdefoe/homecoming](https://www.nuget.org/packages/ernestdefoe%2Fhomecoming) | 1.0.0 | Ernest Defoe | Homecoming: a welcome-back dashboard for your members. A greeting with the loca… |
-| 2026-11-13 15:52:05 | [youvision/think-store](https://www.nuget.org/packages/youvision%2Fthink-store) | v1.2 | indiboy-create; AI | ThinkPHP 8 商店扩展：查询主项目中已安装的 think-store-* 发布包。 |
-| 2026-11-13 15:54:33 | [wwwision/subscription-engine-worker](https://www.nuget.org/packages/wwwision%2Fsubscription-engine-worker) | 1.0.0 | Bastian Waidelich | Long-running worker loop for the wwwision/subscription-engine |
-| 2026-11-13 16:01:06 | [hardcastle/ledger-direct-interledger](https://www.nuget.org/packages/hardcastle%2Fledger-direct-interledger) | 0.1.0 | Alexander Busse | LedgerDirect for Interledger - accepts Open Payments incoming payments as a Led… |
+| 2026-11-13 16:29:59 | [nowo-tech/migrations-kit-contracts](https://www.nuget.org/packages/nowo-tech%2Fmigrations-kit-contracts) | v1.0.0 | Héctor Franco Aceituno; Nowo.… | Contracts a bundle implements to declare its identity and access-key columns, s… |
+| 2026-11-13 16:35:17 | [slaver/laravel-sluggable-redirect](https://www.nuget.org/packages/slaver%2Flaravel-sluggable-redirect) | 2.1.0 | Viacheslav Radionov; Freerk v… | Creates sluggable-history if slug created from laravel-sluggable-package by Spa… |
+| 2026-11-13 16:54:17 | [solverr/solverr-php](https://www.nuget.org/packages/solverr%2Fsolverr-php) | v0.1.0 |  | Server SDK for the Solverr crypto payment API. |
+| 2026-11-13 17:05:24 | [moncash-php/moncash-php](https://www.nuget.org/packages/moncash-php%2Fmoncash-php) | v0.1.0 |  | Unofficial PHP SDK for the Digicel MonCash API (Haiti) — OAuth, payment creatio… |
+| 2026-11-13 17:11:36 | [verdient/data-fetch-planner](https://www.nuget.org/packages/verdient%2Fdata-fetch-planner) | 1.0.0 |  | Plans date-range queries across daily, monthly and yearly aggregates. |
 
 ## Data source
 
