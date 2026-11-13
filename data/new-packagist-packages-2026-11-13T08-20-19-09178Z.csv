@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-13T07:21:58Z,sandritsch91/php-ntlm,1.0.0,James Armes; Sandritsch91,Library for communicating with Microsoft services using NTLM authentication.
+2026-11-13T07:29:21Z,wazum/visual-permissions,v0.2.0,Wolfgang Klinger,Edit TYPO3 backend group permissions directly on the relevant screens.
+2026-11-13T07:34:58Z,rft/laravel-attachment,v1.0,,Single source of truth transactional file attachment package and Yii2-style attachment widget for Laravel 12.x
+2026-11-13T07:36:33Z,mhinspeya/special-promotion,1.0.0,MHinspeya,"Turn Magento Cart Price Rules into clear, on-brand storefront campaign badges — without rebuilding Magento’s discount engine. MHinspeya Special Promotion helps merchants launch faster promotions with auto-prefill from cart rules, precise product/category/brand/material targeting, stackable badges o…"
+2026-11-13T07:40:59Z,initred/laravel-langfuse,v1.0.0,initred,"Langfuse PHP SDK for Laravel, built for the Laravel AI SDK"
+2026-11-13T07:52:28Z,vergil-lai/lexsift-ffi,v0.2.0,Vergil,"Rust-powered keyword matching for PHP through FFI, with precompiled native libraries."
+2026-11-13T08:05:12Z,walkboy/yii2-basic-access,1.0.0,Vitaly Walkboy,Base auth behavior for yii2
