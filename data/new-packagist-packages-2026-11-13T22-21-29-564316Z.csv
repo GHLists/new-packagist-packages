@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-13T21:34:01Z,polygonlab/mcp-php-kit,v0.1.0,PolygonLab,"Build MCP (Model Context Protocol) servers in plain PHP, with an optional Cloudflare Worker in front."
+2026-11-13T21:37:03Z,tornado-engine/chat,v0.1.0,,"Tornado Engine module: talk with Claude from the website, and have it build new tools as modules."
+2026-11-13T22:02:02Z,papercut/math,v0.11.0,One Learning Community,"Math layout for PHP: fractions, roots, scripts and stretchy delimiters from an OpenType MATH font, with SVG, MathML and Word OMML writers."
+2026-11-13T22:03:59Z,letterncms/youtube,0.1.0,,"A YouTube block that shows the video’s poster and loads YouTube only when a visitor plays it: fast pages, no cookies before they choose."
+2026-11-13T22:04:33Z,letterncms/spotify,0.1.0,,"A Spotify block: a track, album, playlist, artist, podcast episode or show with Spotify’s player, sized to fit what it plays."
+2026-11-13T22:12:42Z,letterncms/starter,0.1.0,,"A complete site to make your own: a home page, work, a journal, about and contact, a library of sections, and photography, video and sound throughout."
