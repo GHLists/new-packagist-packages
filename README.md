@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 04:18 UTC
+## Latest list — 2026-11-14 05:21 UTC
 
-New packages created between 2026-11-14 03:18 UTC and 2026-11-14 04:18 UTC.
+New packages created between 2026-11-14 04:18 UTC and 2026-11-14 05:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-14T04-18-37-204709Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-14T05-21-11-776691Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-14 03:27:59 | [ecuafact/sdk](https://www.nuget.org/packages/ecuafact%2Fsdk) | v1.0.0 | Ecuanexus | Cliente oficial de Ecuafact para PHP: emite y consulta los seis comprobantes el… |
-| 2026-11-14 03:41:25 | [jimbo2150/php-css-typed-om](https://www.nuget.org/packages/jimbo2150%2Fphp-css-typed-om) | v1.1.0 | Jim Robinson | PHP implementation of the CSS Object Model and Typed Object Model (OM). |
-| 2026-11-14 03:58:56 | [vairity/mautic-conversion-pages](https://www.nuget.org/packages/vairity%2Fmautic-conversion-pages) | v1.0.0 | Vairity | Vairity Build: Conversion Pages for Mautic. Landing pages and microsites built,… |
+| 2026-11-14 04:59:19 | [maatify/php-product](https://www.nuget.org/packages/maatify%2Fphp-product) | v1.0.0-rc.1 | Maatify | Framework-agnostic PHP library for managing Products, Variants, and configurabl… |
+| 2026-11-14 05:13:27 | [trappistes/kingdee-k3cloud-sdk](https://www.nuget.org/packages/trappistes%2Fkingdee-k3cloud-sdk) | v1.0.0-beta.1 |  | 金蝶云星空（Kingdee K3 Cloud）开放平台 WebAPI 客户端 SDK |
 
 ## Data source
 
