@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 10:20 UTC
+## Latest list — 2026-11-14 11:19 UTC
 
-New packages created between 2026-11-14 09:20 UTC and 2026-11-14 10:20 UTC.
+New packages created between 2026-11-14 10:20 UTC and 2026-11-14 11:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-14T10-20-11-788633Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-14T11-19-17-487889Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-14 09:23:16 | [pitchayakit/carbon-buddhist-era](https://www.nuget.org/packages/pitchayakit%2Fcarbon-buddhist-era) | v1.0.0 |  | Makes Carbon's translatedFormat() show the Buddhist Era year (CE + 543) in Thai… |
-| 2026-11-14 09:31:07 | [schema-resume/validator](https://www.nuget.org/packages/schema-resume%2Fvalidator) | v1.3.3 | Schema Resume; Tradik | JSON Schema validator for Schema Resume - comprehensive CV/Resume validation wi… |
-| 2026-11-14 09:32:14 | [itmosoft/laravel-search](https://www.nuget.org/packages/itmosoft%2Flaravel-search) | v1.0.1 |  | Database-backed model search indexing and querying for Laravel applications. |
-| 2026-11-14 10:06:09 | [samt/nass](https://www.nuget.org/packages/samt%2Fnass) | v0.1.0 | Samt Software | Arabic text normalization and diacritic-insensitive search for Quran, hadith an… |
+| 2026-11-14 10:22:23 | [flashpi/flashpi-php](https://www.nuget.org/packages/flashpi%2Fflashpi-php) | v0.1.0 | SIGNIADIGITAL S.A. | The official PHP SDK for Flashpi, the electronic invoicing API for Ecuador's SR… |
+| 2026-11-14 10:26:34 | [siellabs/siel](https://www.nuget.org/packages/siellabs%2Fsiel) | v0.1.0 | Siel Labs | The Siel SMS API for PHP: messages, batches, OTP codes, prices and webhook sign… |
+| 2026-11-14 11:17:02 | [hamza-wakrim/laravel-safe-migrations](https://www.nuget.org/packages/hamza-wakrim%2Flaravel-safe-migrations) | v1.0.0 |  | Catch dangerous Laravel migrations (dropped or renamed columns, blocking indexe… |
 
 ## Data source
 
