@@ -15,19 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 18:19 UTC
+## Latest list — 2026-11-14 19:21 UTC
 
-New packages created between 2026-11-14 17:18 UTC and 2026-11-14 18:19 UTC.
+New packages created between 2026-11-14 18:19 UTC and 2026-11-14 19:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-14T18-19-17-016526Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-14T19-21-55-075636Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-14 17:37:43 | [dotsystems/dotapp](https://www.nuget.org/packages/dotsystems%2Fdotapp) | 2.1.0 | Stefan Miscik | DotApp PHP framework - a complete, scalable and efficient tool for web applicat… |
-| 2026-11-14 17:40:33 | [reachweb/resrv-payment-eurobank](https://www.nuget.org/packages/reachweb%2Fresrv-payment-eurobank) | v1.0.0 | Iosif Chatzimichail | Eurobank (Greece) payment gateway for Statamic Resrv. |
-| 2026-11-14 17:42:05 | [outstand/embeds](https://www.nuget.org/packages/outstand%2Fembeds) | 1.0.0 | Sérgio Santos | Embed Facebook and Instagram posts and videos in the Embed block, and load them… |
-| 2026-11-14 17:54:37 | [jalalix/php](https://www.nuget.org/packages/jalalix%2Fphp) | 0.1.0 | Hossein Maklavani | Jalali (Persian / Shamsi) calendar for PHP. Pure PHP, no runtime dependencies. |
-| 2026-11-14 17:54:50 | [steddle/seal](https://www.nuget.org/packages/steddle%2Fseal) | v0.1.0 | Steddle Group B.V. | The fingerprint and canonical JSON that Steddle's products store proof with: SH… |
+| 2026-11-14 18:22:03 | [portrino/cms-observer-client-typo3](https://www.nuget.org/packages/portrino%2Fcms-observer-client-typo3) | 1.0.0 | Axel Böswetter | CMS Observer Client - Reports TYPO3 core, PHP/DB version and installed extensio… |
+| 2026-11-14 18:26:04 | [jumphp/externals](https://www.nuget.org/packages/jumphp%2Fexternals) | v0.5.61 |  | Externals for JumPHP games: big files shared by the playground's administrator… |
 
 ## Data source
 
