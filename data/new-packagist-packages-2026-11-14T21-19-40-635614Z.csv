@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-14T20:32:02Z,omnitrix/core,v0.1.1,Ajmal Alkhaledi,Omnitrix: an asynchronous PHP framework for HTTP APIs on OpenSwoole (framework and runtime engine).
+2026-11-14T20:32:02Z,omnitrix/installer,v0.1.0,Ajmal Alkhaledi,Creates new Omnitrix applications: omnitrix new my-api
+2026-11-14T20:32:02Z,omnitrix/omnitrix,v0.1.0,Ajmal Alkhaledi,The Omnitrix application template: asynchronous PHP APIs on OpenSwoole.
+2026-11-14T20:37:59Z,diddyy/plumbline,v0.1.0,,A precision-first static security scanner for Laravel applications. The scanner that doesn't cry wolf.
+2026-11-14T20:41:17Z,rmb32/barnspek,v0.1.0,Roger Barnfather,Capture user stories and Given/When/Then acceptance scenarios as a living Specification — story mapping for a Business Driven approach
+2026-11-14T20:41:18Z,rmb32/barnspek-cli,v0.1.0,Roger Barnfather,Barnspek CLI — the wizard plus Writer/Glossary/StoryMap rendering commands as a standalone CLI transport package
+2026-11-14T20:41:18Z,rmb32/barnspek-gui,v0.1.0,Roger Barnfather,"A web GUI for managing Barnspek (Given When Then) Specification data, including Work's ticket board"
+2026-11-14T20:41:39Z,itk/cms,v0.1.0,,"Symfony bundle that adds a CMS to a site: pages built from sections, collections, menus, settings, media library, SEO, redirects, form requests, users and roles, a JSON API and a Vue admin."
+2026-11-14T21:02:31Z,generoi/gds-rate-limiter,v1.0.0,Genero,"Answers 429 to IPs that flood PHP with uncached requests, before WordPress loads, with APCu, Redis or the object cache, and escalates repeat offenders to Fastly or Cloudflare"

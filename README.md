@@ -15,23 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 20:19 UTC
+## Latest list — 2026-11-14 21:19 UTC
 
-New packages created between 2026-11-14 19:21 UTC and 2026-11-14 20:19 UTC.
+New packages created between 2026-11-14 20:19 UTC and 2026-11-14 21:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-14T20-19-30-92475Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-14T21-19-40-635614Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-14 19:26:51 | [seva-code/php-click-house-client](https://www.nuget.org/packages/seva-code%2Fphp-click-house-client) | 2.0.0 | SevaCode | PHP Client for ClickHouse HTTP interface |
-| 2026-11-14 19:37:43 | [liberusoftware/module-maintenance-documents-api](https://www.nuget.org/packages/liberusoftware%2Fmodule-maintenance-documents-api) | 0.1.0 |  | Maintenance documents API presentation adapter. |
-| 2026-11-14 19:37:51 | [liberusoftware/module-maintenance-documents](https://www.nuget.org/packages/liberusoftware%2Fmodule-maintenance-documents) | 0.1.0 |  | Tenant-scoped maintenance document management. |
-| 2026-11-14 19:38:21 | [liberusoftware/module-maintenance-notes](https://www.nuget.org/packages/liberusoftware%2Fmodule-maintenance-notes) | 0.1.0 |  | Tenant-scoped notes for maintenance customer and commercial workflows. |
-| 2026-11-14 19:38:28 | [liberusoftware/module-maintenance-notes-api](https://www.nuget.org/packages/liberusoftware%2Fmodule-maintenance-notes-api) | 0.1.0 |  | Maintenance notes API presentation adapter. |
-| 2026-11-14 19:39:07 | [liberusoftware/module-maintenance-tasks](https://www.nuget.org/packages/liberusoftware%2Fmodule-maintenance-tasks) | 0.1.0 |  | Tenant-scoped maintenance tasks and assignments. |
-| 2026-11-14 19:39:10 | [liberusoftware/module-maintenance-tasks-api](https://www.nuget.org/packages/liberusoftware%2Fmodule-maintenance-tasks-api) | 0.1.0 |  | Maintenance tasks API presentation adapter. |
-| 2026-11-14 19:57:29 | [callismart/smliser-update-client](https://www.nuget.org/packages/callismart%2Fsmliser-update-client) | v1.0.0 | Callistus Nwachukwu | Update client for apps hosted on a Smart License Server: checks the release rou… |
-| 2026-11-14 20:02:30 | [jumphp/notification](https://www.nuget.org/packages/jumphp%2Fnotification) | v0.5.62 |  | Push notifications for JumPHP applications: the people who use your browser gam… |
+| 2026-11-14 20:32:02 | [omnitrix/core](https://www.nuget.org/packages/omnitrix%2Fcore) | v0.1.1 | Ajmal Alkhaledi | Omnitrix: an asynchronous PHP framework for HTTP APIs on OpenSwoole (framework… |
+| 2026-11-14 20:32:02 | [omnitrix/installer](https://www.nuget.org/packages/omnitrix%2Finstaller) | v0.1.0 | Ajmal Alkhaledi | Creates new Omnitrix applications: omnitrix new my-api |
+| 2026-11-14 20:32:02 | [omnitrix/omnitrix](https://www.nuget.org/packages/omnitrix%2Fomnitrix) | v0.1.0 | Ajmal Alkhaledi | The Omnitrix application template: asynchronous PHP APIs on OpenSwoole. |
+| 2026-11-14 20:37:59 | [diddyy/plumbline](https://www.nuget.org/packages/diddyy%2Fplumbline) | v0.1.0 |  | A precision-first static security scanner for Laravel applications. The scanner… |
+| 2026-11-14 20:41:17 | [rmb32/barnspek](https://www.nuget.org/packages/rmb32%2Fbarnspek) | v0.1.0 | Roger Barnfather | Capture user stories and Given/When/Then acceptance scenarios as a living Speci… |
+| 2026-11-14 20:41:18 | [rmb32/barnspek-cli](https://www.nuget.org/packages/rmb32%2Fbarnspek-cli) | v0.1.0 | Roger Barnfather | Barnspek CLI — the wizard plus Writer/Glossary/StoryMap rendering commands as a… |
+| 2026-11-14 20:41:18 | [rmb32/barnspek-gui](https://www.nuget.org/packages/rmb32%2Fbarnspek-gui) | v0.1.0 | Roger Barnfather | A web GUI for managing Barnspek (Given When Then) Specification data, including… |
+| 2026-11-14 20:41:39 | [itk/cms](https://www.nuget.org/packages/itk%2Fcms) | v0.1.0 |  | Symfony bundle that adds a CMS to a site: pages built from sections, collection… |
+| 2026-11-14 21:02:31 | [generoi/gds-rate-limiter](https://www.nuget.org/packages/generoi%2Fgds-rate-limiter) | v1.0.0 | Genero | Answers 429 to IPs that flood PHP with uncached requests, before WordPress load… |
 
 ## Data source
 
