@@ -1,0 +1,75 @@
+created_at,package,version,author,description
+2026-11-14T14:22:29Z,liberusoftware/ecommerce-contracts,1.2.0,,The stable boundary between the Liberu ecommerce core and independently distributed modules.
+2026-11-14T14:26:22Z,liberusoftware/module-cms-accessibility-assistant,0.1.0,,Provider-neutral accessibility checks for CMS authoring content.
+2026-11-14T14:26:24Z,liberusoftware/module-cms-analytics-integration,0.1.0,,"CMS canonical analytics events, consent mappings, dashboards, and provider-neutral adapters."
+2026-11-14T14:26:27Z,liberusoftware/module-cms-backup-and-restore,0.1.0,,"CMS backup artifacts, schedules, verification, retention, and restore previews."
+2026-11-14T14:26:28Z,liberusoftware/module-cms-block-editor,0.1.0,,"CMS block documents, patterns, nesting validation, locking, previews, and revisions."
+2026-11-14T14:26:30Z,liberusoftware/module-cms-cache-and-performance,0.1.0,,"CMS cache entries, tags, warming, invalidation, and diagnostics."
+2026-11-14T14:26:31Z,liberusoftware/module-cms-comments-and-discussion,0.1.0,,"CMS threaded comments, moderation, subscriptions, reports, and retention."
+2026-11-14T14:26:31Z,liberusoftware/module-cms-configuration-management,0.1.0,,"Versioned CMS configuration export, comparison, promotion, and rollback."
+2026-11-14T14:26:36Z,liberusoftware/module-cms-contact-directory,0.1.0,,CMS contact directory domain module.
+2026-11-14T14:26:36Z,liberusoftware/module-cms-content-access,0.1.0,,"CMS content visibility, audience rules, schedules, private links, and preview authorization."
+2026-11-14T14:26:37Z,liberusoftware/module-cms-content-calendar,0.1.0,,"CMS editorial calendar, campaigns, deadlines, assignments, and rescheduling."
+2026-11-14T14:26:38Z,liberusoftware/module-cms-content-federation,0.1.0,,"CMS remote content sources, normalized references, health, and fallback cache."
+2026-11-14T14:26:38Z,liberusoftware/module-cms-content-governance,0.1.0,,"CMS owners, policy labels, review cycles, retention, legal holds, and compliance evidence."
+2026-11-14T14:26:38Z,liberusoftware/module-cms-content-intelligence,0.1.0,,"CMS content inventory, quality insights, freshness, gaps, and improvement queues."
+2026-11-14T14:26:44Z,liberusoftware/module-cms-events-content,0.1.0,,"Tenant-aware events, sessions, speakers, venues, calendars, and structured data for Liberu CMS."
+2026-11-14T14:26:44Z,liberusoftware/module-cms-experimentation,0.1.0,,Tenant-aware A/B and multivariate content experimentation with allocation and promotion history.
+2026-11-14T14:26:48Z,liberusoftware/module-cms-extension-marketplace,0.1.0,,"Publisher-owned extension marketplace with signed releases, licensing, reviews, and distribution."
+2026-11-14T14:26:49Z,liberusoftware/module-cms-field-system,0.1.0,,"CMS reusable field schemas, validation, computed and conditional fields, and schema versions."
+2026-11-14T14:26:51Z,liberusoftware/module-cms-integration-directory,0.1.0,,Tenant-scoped integration registry for Liberu CMS.
+2026-11-14T14:26:55Z,liberusoftware/module-cms-layout-builder,0.1.0,,"Validated, tenant-scoped layouts and regions for Liberu CMS."
+2026-11-14T14:26:56Z,liberusoftware/module-cms-metadata,0.1.0,,Generic tenant-scoped metadata for Liberu CMS entities.
+2026-11-14T14:26:56Z,liberusoftware/module-cms-migration-framework,0.1.0,,"Resumable, typed migration jobs for Liberu CMS."
+2026-11-14T14:27:03Z,liberusoftware/module-cms-sitemaps,0.1.0,,CMS site-aware sitemap indexes and delivery.
+2026-11-14T14:27:07Z,liberusoftware/module-cms-views-and-query-builder,0.1.0,,"Saved, permission-safe CMS views and query definitions."
+2026-11-14T14:27:08Z,liberusoftware/module-cms-accessibility-assistant-api,0.1.0,,API adapter for the CMS Accessibility Assistant.
+2026-11-14T14:27:09Z,liberusoftware/module-cms-accessibility-assistant-filament,0.1.0,,Filament adapter for the CMS Accessibility Assistant.
+2026-11-14T14:27:12Z,liberusoftware/module-cms-accessibility-assistant-livewire,0.1.0,,Livewire adapter for the CMS Accessibility Assistant.
+2026-11-14T14:27:12Z,liberusoftware/module-cms-analytics-integration-api,0.1.0,,API adapter for CMS Analytics Integration.
+2026-11-14T14:27:13Z,liberusoftware/module-cms-analytics-integration-filament,0.1.0,,Filament adapter for CMS Analytics Integration.
+2026-11-14T14:27:14Z,liberusoftware/module-cms-analytics-integration-livewire,0.1.0,,Livewire adapter for CMS Analytics Integration.
+2026-11-14T14:27:14Z,liberusoftware/module-cms-backup-and-restore-api,0.1.0,,API adapter for CMS Backup and Restore.
+2026-11-14T14:27:15Z,liberusoftware/module-cms-backup-and-restore-filament,0.1.0,,Filament adapter for CMS Backup and Restore.
+2026-11-14T14:27:18Z,liberusoftware/module-cms-backup-and-restore-livewire,0.1.0,,Livewire adapter for CMS Backup and Restore.
+2026-11-14T14:27:19Z,liberusoftware/module-cms-block-editor-api,0.1.0,,API adapter for CMS Block Editor.
+2026-11-14T14:27:19Z,liberusoftware/module-cms-block-editor-filament,0.1.0,,Filament adapter for CMS Block Editor.
+2026-11-14T14:27:20Z,liberusoftware/module-cms-block-editor-livewire,0.1.0,,Livewire adapter for CMS Block Editor.
+2026-11-14T14:27:21Z,liberusoftware/module-cms-cache-and-performance-api,0.1.0,,API adapter for CMS Cache and Performance.
+2026-11-14T14:27:21Z,liberusoftware/module-cms-cache-and-performance-filament,0.1.0,,Filament adapter for CMS Cache and Performance.
+2026-11-14T14:27:24Z,liberusoftware/module-cms-cache-and-performance-livewire,0.1.0,,Livewire adapter for CMS Cache and Performance.
+2026-11-14T14:28:37Z,liberusoftware/module-cms-copilot-api,0.1.1,,API adapter for CMS Copilot.
+2026-11-14T14:28:39Z,liberusoftware/module-cms-copilot-livewire,0.1.1,,Livewire adapter for CMS Copilot.
+2026-11-14T14:28:41Z,liberusoftware/module-cms-drupal-migration-api,0.1.0,,API adapter for Drupal Migration.
+2026-11-14T14:28:41Z,liberusoftware/module-cms-drupal-migration-filament,0.1.0,,Filament adapter for Drupal Migration.
+2026-11-14T14:28:41Z,liberusoftware/module-cms-drupal-migration-livewire,0.1.0,,Livewire adapter for Drupal Migration.
+2026-11-14T14:28:42Z,liberusoftware/module-cms-events-content-api,0.1.0,,Versioned HTTP API adapter for CMS Events Content.
+2026-11-14T14:28:44Z,liberusoftware/module-cms-events-content-filament,0.1.0,,Filament adapter for CMS Events Content.
+2026-11-14T14:28:44Z,liberusoftware/module-cms-events-content-livewire,0.1.0,,Livewire adapter for CMS Events Content.
+2026-11-14T14:28:46Z,liberusoftware/module-cms-experimentation-api,0.1.0,,Versioned HTTP API adapter for CMS Experimentation.
+2026-11-14T14:28:46Z,liberusoftware/module-cms-experimentation-filament,0.1.0,,Filament adapter for CMS Experimentation.
+2026-11-14T14:28:46Z,liberusoftware/module-cms-experimentation-livewire,0.1.0,,Livewire adapter for CMS Experimentation.
+2026-11-14T14:28:49Z,liberusoftware/module-cms-extension-manager-filament,0.1.0,,Filament adapter for Extension Manager.
+2026-11-14T14:28:49Z,liberusoftware/module-cms-extension-manager-livewire,0.1.0,,Livewire adapter for Extension Manager.
+2026-11-14T14:28:49Z,liberusoftware/module-cms-extension-marketplace-api,0.1.0,,Versioned HTTP API adapter for CMS Extension Marketplace.
+2026-11-14T14:28:50Z,liberusoftware/module-cms-extension-marketplace-filament,0.1.0,,Filament adapter for CMS Extension Marketplace.
+2026-11-14T14:28:51Z,liberusoftware/module-cms-extension-marketplace-livewire,0.1.0,,Livewire adapter for CMS Extension Marketplace.
+2026-11-14T14:28:54Z,liberusoftware/module-cms-integration-directory-filament,0.1.0,,Filament adapter for Integration Directory.
+2026-11-14T14:28:55Z,liberusoftware/module-cms-integration-directory-livewire,0.1.0,,Livewire adapter for Integration Directory.
+2026-11-14T14:28:56Z,liberusoftware/module-cms-joomla-migration-api,0.1.0,,API adapter for Joomla Migration.
+2026-11-14T14:28:56Z,liberusoftware/module-cms-joomla-migration-filament,0.1.0,,Filament adapter for Joomla Migration.
+2026-11-14T14:28:56Z,liberusoftware/module-cms-joomla-migration-livewire,0.1.0,,Livewire adapter for Joomla Migration.
+2026-11-14T14:28:59Z,liberusoftware/module-cms-layout-builder-filament,0.1.0,,Filament adapter for Layout Builder.
+2026-11-14T14:29:00Z,liberusoftware/module-cms-layout-builder-livewire,0.1.0,,Livewire adapter for Layout Builder.
+2026-11-14T14:29:00Z,liberusoftware/module-cms-metadata-filament,0.1.0,,Filament adapter for CMS Metadata.
+2026-11-14T14:29:01Z,liberusoftware/module-cms-metadata-livewire,0.1.0,,Livewire adapter for CMS Metadata.
+2026-11-14T14:29:03Z,liberusoftware/module-cms-migration-framework-filament,0.1.0,,Filament adapter for the CMS Migration Framework.
+2026-11-14T14:29:04Z,liberusoftware/module-cms-migration-framework-livewire,0.1.0,,Livewire adapter for the CMS Migration Framework.
+2026-11-14T14:30:26Z,liberusoftware/ecommerce-dropxl,0.1.0,,DropXL dropshipping fulfilment and catalogue import for the Liberu ecommerce platform.
+2026-11-14T14:30:27Z,liberusoftware/ecommerce-printful,0.2.0,,Printful print-on-demand fulfilment and catalogue import for the Liberu ecommerce platform.
+2026-11-14T14:32:23Z,reachweb/resrv-payment-paypal,v1.0.0,Reach Web Agency,PayPal payment gateway for Statamic Resrv
+2026-11-14T15:05:32Z,itmosoft/laravel-notifications,v1.0.1,,"Database-backed notification records and delivery tracking for Laravel applications, with polymorphic notifiables and configurable channels."
+2026-11-14T15:08:32Z,lekoala/kaly-contracts,1.0.0,Thomas,Stable interfaces shared by Kaly and its packages: task dispatching
+2026-11-14T15:09:02Z,universal-carrier/conformance,v0.1.0,Alexandre Debusschère,PHPUnit test cases checking a Universal Carrier driver against the specification.
+2026-11-14T15:09:02Z,universal-carrier/core,v0.1.0,Alexandre Debusschère,"A strictly typed, dependency-free specification for shipping carrier integrations in PHP."
+2026-11-14T15:09:02Z,universal-carrier/mondial-relay,v0.1.0,Alexandre Debusschère,"Mondial Relay driver for Universal Carrier: pickup points, labels and tracking."
