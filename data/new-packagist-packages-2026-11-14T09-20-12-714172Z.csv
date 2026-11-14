@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-14T08:24:52Z,itmosoft/laravel-product-variants,v1.0.0,,"Product variants, SKUs, option values and price overrides for Laravel eCommerce applications."
+2026-11-14T08:28:36Z,musqet/vendor-reservation,v1.0.0,Musqet Limited,Reserves the musqet vendor name on Packagist. Musqet's Magento modules are not published here: install them from the Musqet Composer repository at https://musqet.com/downloads/composer.
+2026-11-14T09:02:00Z,pharaonic/laravel-reacts,13.0.0,Moamen Eltouny (Raggi),"Polymorphic emoji reactions for Laravel Eloquent models, with registered types, grouped catalogs, single or multiple mode, and database-enforced uniqueness."

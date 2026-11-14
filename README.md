@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 08:19 UTC
+## Latest list — 2026-11-14 09:20 UTC
 
-New packages created between 2026-11-14 07:21 UTC and 2026-11-14 08:19 UTC.
+New packages created between 2026-11-14 08:19 UTC and 2026-11-14 09:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-14T08-19-41-383215Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-14T09-20-12-714172Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-14 07:50:31 | [ducduy94/lexware-api-php](https://www.nuget.org/packages/ducduy94%2Flexware-api-php) | v2.0.0 | Duc Duy Chu | Small dependency-free PHP client for the Lexware Office Public API (formerly le… |
-| 2026-11-14 08:14:09 | [itmosoft/laravel-customers](https://www.nuget.org/packages/itmosoft%2Flaravel-customers) | v1.0.2 |  | Customer profiles, contact details and addresses for Laravel applications. |
+| 2026-11-14 08:24:52 | [itmosoft/laravel-product-variants](https://www.nuget.org/packages/itmosoft%2Flaravel-product-variants) | v1.0.0 |  | Product variants, SKUs, option values and price overrides for Laravel eCommerce… |
+| 2026-11-14 08:28:36 | [musqet/vendor-reservation](https://www.nuget.org/packages/musqet%2Fvendor-reservation) | v1.0.0 | Musqet Limited | Reserves the musqet vendor name on Packagist. Musqet's Magento modules are not… |
+| 2026-11-14 09:02:00 | [pharaonic/laravel-reacts](https://www.nuget.org/packages/pharaonic%2Flaravel-reacts) | 13.0.0 | Moamen Eltouny (Raggi) | Polymorphic emoji reactions for Laravel Eloquent models, with registered types,… |
 
 ## Data source
 
