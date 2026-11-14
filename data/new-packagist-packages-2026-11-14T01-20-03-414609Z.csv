@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-14T01:16:23Z,ernestdefoe/member-desk,1.0.0,Ernest Defoe,"Member Desk: an Invision-style members area for Flarum. A searchable, filterable member list with saved filters, bulk actions (groups, suspend, confirm email, mark as spammer, anonymize, delete through flarum/gdpr), a full member page, an audit log and CSV export."

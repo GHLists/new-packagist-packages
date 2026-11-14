@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 00:20 UTC
+## Latest list — 2026-11-14 01:20 UTC
 
-New packages created between 2026-11-13 23:20 UTC and 2026-11-14 00:20 UTC.
+New packages created between 2026-11-14 00:20 UTC and 2026-11-14 01:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-14T00-20-41-10633Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-14T01-20-03-414609Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-13 23:49:40 | [mom/installer](https://www.nuget.org/packages/mom%2Finstaller) | v6.1.0 | Darwin Luague | Mom application installer. |
-| 2026-11-13 23:49:42 | [mom/mom](https://www.nuget.org/packages/mom%2Fmom) | v6.1.0 |  | The skeleton of the Mom PHP framework. |
+| 2026-11-14 01:16:23 | [ernestdefoe/member-desk](https://www.nuget.org/packages/ernestdefoe%2Fmember-desk) | 1.0.0 | Ernest Defoe | Member Desk: an Invision-style members area for Flarum. A searchable, filterabl… |
 
 ## Data source
 
