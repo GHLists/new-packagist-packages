@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 09:20 UTC
+## Latest list — 2026-11-14 10:20 UTC
 
-New packages created between 2026-11-14 08:19 UTC and 2026-11-14 09:20 UTC.
+New packages created between 2026-11-14 09:20 UTC and 2026-11-14 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-14T09-20-12-714172Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-14T10-20-11-788633Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-14 08:24:52 | [itmosoft/laravel-product-variants](https://www.nuget.org/packages/itmosoft%2Flaravel-product-variants) | v1.0.0 |  | Product variants, SKUs, option values and price overrides for Laravel eCommerce… |
-| 2026-11-14 08:28:36 | [musqet/vendor-reservation](https://www.nuget.org/packages/musqet%2Fvendor-reservation) | v1.0.0 | Musqet Limited | Reserves the musqet vendor name on Packagist. Musqet's Magento modules are not… |
-| 2026-11-14 09:02:00 | [pharaonic/laravel-reacts](https://www.nuget.org/packages/pharaonic%2Flaravel-reacts) | 13.0.0 | Moamen Eltouny (Raggi) | Polymorphic emoji reactions for Laravel Eloquent models, with registered types,… |
+| 2026-11-14 09:23:16 | [pitchayakit/carbon-buddhist-era](https://www.nuget.org/packages/pitchayakit%2Fcarbon-buddhist-era) | v1.0.0 |  | Makes Carbon's translatedFormat() show the Buddhist Era year (CE + 543) in Thai… |
+| 2026-11-14 09:31:07 | [schema-resume/validator](https://www.nuget.org/packages/schema-resume%2Fvalidator) | v1.3.3 | Schema Resume; Tradik | JSON Schema validator for Schema Resume - comprehensive CV/Resume validation wi… |
+| 2026-11-14 09:32:14 | [itmosoft/laravel-search](https://www.nuget.org/packages/itmosoft%2Flaravel-search) | v1.0.1 |  | Database-backed model search indexing and querying for Laravel applications. |
+| 2026-11-14 10:06:09 | [samt/nass](https://www.nuget.org/packages/samt%2Fnass) | v0.1.0 | Samt Software | Arabic text normalization and diacritic-insensitive search for Quran, hadith an… |
 
 ## Data source
 
