@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-11-14T15:22:11Z,itmosoft/laravel-loyalty,v1.0.0,,"A configurable loyalty points and rewards ledger for Laravel applications, with customer balances, earning, redemption, and auditable transactions."
+2026-11-14T15:26:55Z,itmosoft/laravel-gift-cards,v1.0.0,,"Gift card issuance, balance management, redemption, and transaction ledger for Laravel applications."
+2026-11-14T15:34:08Z,itmosoft/laravel-coupons,v1.0.0,,"Coupon creation, validation, discount calculation, usage limits, and redemption tracking for Laravel applications."
+2026-11-14T15:38:00Z,itmosoft/laravel-reports,v1.0.0,,Composable database-backed reporting and aggregation tools for Laravel applications.
+2026-11-14T15:41:45Z,itmosoft/laravel-abandoned-carts,v1.0.1,,"Abandoned cart capture, expiry detection, recovery links, and conversion tracking for Laravel applications."
+2026-11-14T15:44:20Z,psolutions/encrypt-bundle,v5.1.0,Francisco Izquierdo,Bundle provides a service for encrypting values via attribute.
+2026-11-14T15:46:12Z,delwarhossaindev/laravel-zatca,v1.0.0,Delwar Hossain,"ZATCA (Fatoora) e-invoicing Phase 1 & Phase 2 for Laravel: onboarding, UBL XML, XAdES signing, QR code, reporting and clearance."
+2026-11-14T15:47:57Z,itmosoft/laravel-wishlist-sharing,v1.0.0,,"Secure, expiring share links and access tracking for Laravel wishlist models."
+2026-11-14T15:50:59Z,sneakyx/motis-php-client,v0.1.0,André Scholz,"PHP client for the MOTIS API (e.g. Transitous): multimodal routing, geocoding, stoptimes and trip information. Type-safe models generated from the official OpenAPI specification, PSR-18 HTTP transport."
+2026-11-14T15:51:01Z,itmosoft/laravel-product-questions,v1.0.0,,"Product questions and answers with moderation, customer attribution, and helpfulness voting for Laravel applications."
+2026-11-14T15:53:58Z,itmosoft/laravel-vendors,v1.0.0,,"Vendor profiles, ownership, onboarding status, and moderation for Laravel marketplace applications."
+2026-11-14T15:57:14Z,itmosoft/laravel-vendor-products,v1.0.0,,Associate marketplace vendors with polymorphic product models and manage vendor product assignments.
