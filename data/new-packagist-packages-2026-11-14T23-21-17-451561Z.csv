@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-14T22:23:02Z,phpstan/tally,1.0.1,,PHP benchmarking framework that doesn't care about wall-clock time or how fast your CPU is.
+2026-11-14T22:53:58Z,theocode12/owise,v0.1.0,Theocode12,"Laravel-native payouts and treasury for Wise, built on the Wise Platform API."
+2026-11-14T23:11:03Z,flytachi/winter-service-postgres,v1.0.0,Flytachi,"PostgreSQL inside a Winter application's container: a service the application starts first, checks, restarts and stops last"

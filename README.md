@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 22:19 UTC
+## Latest list — 2026-11-14 23:21 UTC
 
-New packages created between 2026-11-14 21:19 UTC and 2026-11-14 22:19 UTC.
+New packages created between 2026-11-14 22:19 UTC and 2026-11-14 23:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-14T22-19-22-427641Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-14T23-21-17-451561Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-14 21:24:28 | [mj-zana/captcha](https://www.nuget.org/packages/mj-zana%2Fcaptcha) | v2.25.0 |  | CAPTCHA providers for Zana applications: Cloudflare Turnstile, Google reCAPTCHA… |
-| 2026-11-14 21:25:29 | [mortalkiller/filament-appearance](https://www.nuget.org/packages/mortalkiller%2Ffilament-appearance) | v1.0.0 |  | Colour palettes, a palette picker and a phone-friendly panel shell for Filament. |
-| 2026-11-14 21:48:01 | [xivig/captcha](https://www.nuget.org/packages/xivig%2Fcaptcha) | v2.0.0 | CyberWord | Privacy-conscious, framework-agnostic PHP challenge and anti-abuse toolkit |
-| 2026-11-14 21:53:50 | [sailantis/azera-app](https://www.nuget.org/packages/sailantis%2Fazera-app) | v0.4.0 |  | A starter project for the Azera PHP framework |
+| 2026-11-14 22:23:02 | [phpstan/tally](https://www.nuget.org/packages/phpstan%2Ftally) | 1.0.1 |  | PHP benchmarking framework that doesn't care about wall-clock time or how fast… |
+| 2026-11-14 22:53:58 | [theocode12/owise](https://www.nuget.org/packages/theocode12%2Fowise) | v0.1.0 | Theocode12 | Laravel-native payouts and treasury for Wise, built on the Wise Platform API. |
+| 2026-11-14 23:11:03 | [flytachi/winter-service-postgres](https://www.nuget.org/packages/flytachi%2Fwinter-service-postgres) | v1.0.0 | Flytachi | PostgreSQL inside a Winter application's container: a service the application s… |
 
 ## Data source
 
