@@ -15,15 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 01:20 UTC
+## Latest list — 2026-11-14 02:19 UTC
 
-New packages created between 2026-11-14 00:20 UTC and 2026-11-14 01:20 UTC.
+New packages created between 2026-11-14 01:20 UTC and 2026-11-14 02:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-14T01-20-03-414609Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-14T02-19-18-349395Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-14 01:16:23 | [ernestdefoe/member-desk](https://www.nuget.org/packages/ernestdefoe%2Fmember-desk) | 1.0.0 | Ernest Defoe | Member Desk: an Invision-style members area for Flarum. A searchable, filterabl… |
+| 2026-11-14 01:33:12 | [leazycms/web](https://www.nuget.org/packages/leazycms%2Fweb) | v1.0.1 | Nurul Hudin | Build Easy Cms Laravel |
+| 2026-11-14 01:38:17 | [particle-academy/prism-graph](https://www.nuget.org/packages/particle-academy%2Fprism-graph) | v0.1.0 |  | Configurable knowledge graphs with embeddings for Prism: verbatim chunks, conte… |
+| 2026-11-14 02:05:40 | [elcreator/hybridauth](https://www.nuget.org/packages/elcreator%2Fhybridauth) | 3.13.1 | Miled | PHP Social Authentication Library |
+| 2026-11-14 02:07:18 | [common-doc/aggregate-renderer](https://www.nuget.org/packages/common-doc%2Faggregate-renderer) | 1.0.0-alpha.1 | Joey Smith | Renders every onboarded documentation project and version into one aggregate si… |
+| 2026-11-14 02:07:23 | [common-doc/commondoc](https://www.nuget.org/packages/common-doc%2Fcommondoc) | 1.0.0-alpha.1 | Joey Smith | Multi-repository Markdown documentation site builder for PHP. |
+| 2026-11-14 02:08:48 | [manuxi/sulu-dashboard-bundle](https://www.nuget.org/packages/manuxi%2Fsulu-dashboard-bundle) | v1.0.0 | Manuxi | Dashboard for the Sulu 3 admin: start page with tiles, plus a small interface f… |
 
 ## Data source
 

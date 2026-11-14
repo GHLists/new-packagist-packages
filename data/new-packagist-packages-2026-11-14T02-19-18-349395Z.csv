@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-14T01:33:12Z,leazycms/web,v1.0.1,Nurul Hudin,Build Easy Cms Laravel
+2026-11-14T01:38:17Z,particle-academy/prism-graph,v0.1.0,,"Configurable knowledge graphs with embeddings for Prism: verbatim chunks, content-addressed ids, pinned embedders and validity-window facts."
+2026-11-14T02:05:40Z,elcreator/hybridauth,3.13.1,Miled,PHP Social Authentication Library
+2026-11-14T02:07:18Z,common-doc/aggregate-renderer,1.0.0-alpha.1,Joey Smith,Renders every onboarded documentation project and version into one aggregate site tree.
+2026-11-14T02:07:23Z,common-doc/commondoc,1.0.0-alpha.1,Joey Smith,Multi-repository Markdown documentation site builder for PHP.
+2026-11-14T02:08:48Z,manuxi/sulu-dashboard-bundle,v1.0.0,Manuxi,"Dashboard for the Sulu 3 admin: start page with tiles, plus a small interface for other bundles and projects to add their own tiles"
