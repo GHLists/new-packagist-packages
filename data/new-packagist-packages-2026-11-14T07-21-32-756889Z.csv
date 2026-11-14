@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-14T06:45:51Z,breizhwave/wave-security-ip-restrict,v1.0.0,erwanpia,"Restrict a whole Laravel application to an IP allow list (IPv4, IPv6, CIDR), managed from .env and an optional admin page. PHP 5.6+ and Laravel 5.1 to 13."

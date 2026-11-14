@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 05:21 UTC
+## Latest list — 2026-11-14 07:21 UTC
 
-New packages created between 2026-11-14 04:18 UTC and 2026-11-14 05:21 UTC.
+New packages created between 2026-11-14 06:21 UTC and 2026-11-14 07:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-14T05-21-11-776691Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-14T07-21-32-756889Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-14 04:59:19 | [maatify/php-product](https://www.nuget.org/packages/maatify%2Fphp-product) | v1.0.0-rc.1 | Maatify | Framework-agnostic PHP library for managing Products, Variants, and configurabl… |
-| 2026-11-14 05:13:27 | [trappistes/kingdee-k3cloud-sdk](https://www.nuget.org/packages/trappistes%2Fkingdee-k3cloud-sdk) | v1.0.0-beta.1 |  | 金蝶云星空（Kingdee K3 Cloud）开放平台 WebAPI 客户端 SDK |
+| 2026-11-14 06:45:51 | [breizhwave/wave-security-ip-restrict](https://www.nuget.org/packages/breizhwave%2Fwave-security-ip-restrict) | v1.0.0 | erwanpia | Restrict a whole Laravel application to an IP allow list (IPv4, IPv6, CIDR), ma… |
 
 ## Data source
 
