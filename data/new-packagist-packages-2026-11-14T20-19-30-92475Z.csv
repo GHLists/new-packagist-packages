@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-14T19:26:51Z,seva-code/php-click-house-client,2.0.0,SevaCode,PHP Client for ClickHouse HTTP interface
+2026-11-14T19:37:43Z,liberusoftware/module-maintenance-documents-api,0.1.0,,Maintenance documents API presentation adapter.
+2026-11-14T19:37:51Z,liberusoftware/module-maintenance-documents,0.1.0,,Tenant-scoped maintenance document management.
+2026-11-14T19:38:21Z,liberusoftware/module-maintenance-notes,0.1.0,,Tenant-scoped notes for maintenance customer and commercial workflows.
+2026-11-14T19:38:28Z,liberusoftware/module-maintenance-notes-api,0.1.0,,Maintenance notes API presentation adapter.
+2026-11-14T19:39:07Z,liberusoftware/module-maintenance-tasks,0.1.0,,Tenant-scoped maintenance tasks and assignments.
+2026-11-14T19:39:10Z,liberusoftware/module-maintenance-tasks-api,0.1.0,,Maintenance tasks API presentation adapter.
+2026-11-14T19:57:29Z,callismart/smliser-update-client,v1.0.0,Callistus Nwachukwu,"Update client for apps hosted on a Smart License Server: checks the release route, downloads the package and verifies it against keys the app pins."
+2026-11-14T20:02:30Z,jumphp/notification,v0.5.62,,"Push notifications for JumPHP applications: the people who use your browser game or app get notifications on their phone, through the JumPHP runtime for Android, with their consent; you send them from a script, a server or Claude (MCP)"
