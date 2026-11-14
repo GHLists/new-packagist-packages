@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-14T21:24:28Z,mj-zana/captcha,v2.25.0,,"CAPTCHA providers for Zana applications: Cloudflare Turnstile, Google reCAPTCHA and hCaptcha behind #[VerifyHuman], chosen by configuration"
+2026-11-14T21:25:29Z,mortalkiller/filament-appearance,v1.0.0,,"Colour palettes, a palette picker and a phone-friendly panel shell for Filament."
+2026-11-14T21:48:01Z,xivig/captcha,v2.0.0,CyberWord,"Privacy-conscious, framework-agnostic PHP challenge and anti-abuse toolkit"
+2026-11-14T21:53:50Z,sailantis/azera-app,v0.4.0,,A starter project for the Azera PHP framework
