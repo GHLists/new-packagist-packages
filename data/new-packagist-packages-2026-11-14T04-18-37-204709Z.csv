@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-14T03:27:59Z,ecuafact/sdk,v1.0.0,Ecuanexus,"Cliente oficial de Ecuafact para PHP: emite y consulta los seis comprobantes electronicos del SRI de Ecuador (factura, liquidacion de compra, notas de credito y debito, guia de remision y retencion). Incluye validacion previa, seguimiento hasta el estado final, descarga de RIDE y XML, reintentos se…"
+2026-11-14T03:41:25Z,jimbo2150/php-css-typed-om,v1.1.0,Jim Robinson,PHP implementation of the CSS Object Model and Typed Object Model (OM).
+2026-11-14T03:58:56Z,vairity/mautic-conversion-pages,v1.0.0,Vairity,"Vairity Build: Conversion Pages for Mautic. Landing pages and microsites built, checked and A/B tested in Vairity; every lead lands in the Mautic segment and campaign you choose, with its UTM source, and fires your campaign decisions."

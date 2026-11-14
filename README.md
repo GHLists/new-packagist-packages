@@ -15,20 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 02:19 UTC
+## Latest list — 2026-11-14 04:18 UTC
 
-New packages created between 2026-11-14 01:20 UTC and 2026-11-14 02:19 UTC.
+New packages created between 2026-11-14 03:18 UTC and 2026-11-14 04:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-14T02-19-18-349395Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-14T04-18-37-204709Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-14 01:33:12 | [leazycms/web](https://www.nuget.org/packages/leazycms%2Fweb) | v1.0.1 | Nurul Hudin | Build Easy Cms Laravel |
-| 2026-11-14 01:38:17 | [particle-academy/prism-graph](https://www.nuget.org/packages/particle-academy%2Fprism-graph) | v0.1.0 |  | Configurable knowledge graphs with embeddings for Prism: verbatim chunks, conte… |
-| 2026-11-14 02:05:40 | [elcreator/hybridauth](https://www.nuget.org/packages/elcreator%2Fhybridauth) | 3.13.1 | Miled | PHP Social Authentication Library |
-| 2026-11-14 02:07:18 | [common-doc/aggregate-renderer](https://www.nuget.org/packages/common-doc%2Faggregate-renderer) | 1.0.0-alpha.1 | Joey Smith | Renders every onboarded documentation project and version into one aggregate si… |
-| 2026-11-14 02:07:23 | [common-doc/commondoc](https://www.nuget.org/packages/common-doc%2Fcommondoc) | 1.0.0-alpha.1 | Joey Smith | Multi-repository Markdown documentation site builder for PHP. |
-| 2026-11-14 02:08:48 | [manuxi/sulu-dashboard-bundle](https://www.nuget.org/packages/manuxi%2Fsulu-dashboard-bundle) | v1.0.0 | Manuxi | Dashboard for the Sulu 3 admin: start page with tiles, plus a small interface f… |
+| 2026-11-14 03:27:59 | [ecuafact/sdk](https://www.nuget.org/packages/ecuafact%2Fsdk) | v1.0.0 | Ecuanexus | Cliente oficial de Ecuafact para PHP: emite y consulta los seis comprobantes el… |
+| 2026-11-14 03:41:25 | [jimbo2150/php-css-typed-om](https://www.nuget.org/packages/jimbo2150%2Fphp-css-typed-om) | v1.1.0 | Jim Robinson | PHP implementation of the CSS Object Model and Typed Object Model (OM). |
+| 2026-11-14 03:58:56 | [vairity/mautic-conversion-pages](https://www.nuget.org/packages/vairity%2Fmautic-conversion-pages) | v1.0.0 | Vairity | Vairity Build: Conversion Pages for Mautic. Landing pages and microsites built,… |
 
 ## Data source
 
