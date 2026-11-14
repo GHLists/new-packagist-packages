@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-14T11:26:50Z,pitchayakit/laravel-buddhist-era,v1.0.0,,Laravel package that makes Carbon's translatedFormat() show the Buddhist Era year (CE + 543) in Thai and the Gregorian year in every other locale.
+2026-11-14T11:27:38Z,studio-variable/kirby-assets-versioning,v1.0.0,Studio Variable,"Append a content hash to the URLs of the CSS and JS files of a Kirby site, so browsers reload them as soon as they change"
+2026-11-14T11:37:17Z,timber/rings,1.0.0,Nicolas Lemoine,A Query Monitor panel that shows you what's happening in your Twig templates
+2026-11-14T11:49:35Z,osaris-uk/monzo,1.0.0,Osaris,"A full-featured Laravel package for the Monzo Developer API: OAuth with automatic token refresh, accounts, balances, pots, transactions, feed items, attachments, receipts and webhooks."
+2026-11-14T12:06:09Z,unipo/siakad-sdk,v1.0.0,Pustikom Universitas Pohuwato,"SDK resmi API SIAKAD UNIPO untuk PHP 8.1+: token OAuth2 otomatis, 2.000+ endpoint bertipe, PSR-18, integrasi Laravel."
+2026-11-14T12:08:16Z,four-bytes/four-http-client,v4.2.1,Four Bytes,Modern PHP 8.4+ HTTP client factory and middleware library for API integrations
+2026-11-14T12:16:58Z,phoenix1331/laravel-clorian,v0.1.0,Darren Williams,"Confidence-aware typed decisions for Laravel models and input: let Jev make the obvious calls, send the unsure ones to a human, and measure when to trust it more."
