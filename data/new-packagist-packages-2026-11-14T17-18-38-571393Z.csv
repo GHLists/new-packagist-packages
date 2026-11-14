@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-14T16:25:29Z,filagora/filagora-newsletters,v0.1.0,,"Newsletters for Filagora: subscribers with consent, campaigns built from content blocks, scheduled sends, link tracking, and delivery events, independent of any one mail provider."
+2026-11-14T16:31:11Z,aathiappan/native-mailer-php,v1.0.0,,"Local SMTP email testing sink with a web inbox, built for Windows + WAMP."
+2026-11-14T16:32:24Z,horngunnotes/flarum-horn-signals,v1.0.0,Horn Notes,"Write railroad horn signals as plain text, such as [horn]- - o -[/horn], and show them as an accessible row of long and short bars."
+2026-11-14T16:39:32Z,wit3/filament-relation-navigator,v1.0.0,Salvatore Scalzi,"Give every Filament relation manager its own page (/{record}/{relation}) and switch between them from the breadcrumb, reusing the relation managers you already have."
+2026-11-14T17:08:29Z,ubaidsaleem/laravel-crudgen,v1.0.2,Ubaid Saleem,Generate Livewire 4 CRUD pages from a model's fields() definition

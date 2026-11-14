@@ -15,26 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 16:18 UTC
+## Latest list — 2026-11-14 17:18 UTC
 
-New packages created between 2026-11-14 15:19 UTC and 2026-11-14 16:18 UTC.
+New packages created between 2026-11-14 16:18 UTC and 2026-11-14 17:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-14T16-18-39-792586Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-14T17-18-38-571393Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-14 15:22:11 | [itmosoft/laravel-loyalty](https://www.nuget.org/packages/itmosoft%2Flaravel-loyalty) | v1.0.0 |  | A configurable loyalty points and rewards ledger for Laravel applications, with… |
-| 2026-11-14 15:26:55 | [itmosoft/laravel-gift-cards](https://www.nuget.org/packages/itmosoft%2Flaravel-gift-cards) | v1.0.0 |  | Gift card issuance, balance management, redemption, and transaction ledger for… |
-| 2026-11-14 15:34:08 | [itmosoft/laravel-coupons](https://www.nuget.org/packages/itmosoft%2Flaravel-coupons) | v1.0.0 |  | Coupon creation, validation, discount calculation, usage limits, and redemption… |
-| 2026-11-14 15:38:00 | [itmosoft/laravel-reports](https://www.nuget.org/packages/itmosoft%2Flaravel-reports) | v1.0.0 |  | Composable database-backed reporting and aggregation tools for Laravel applicat… |
-| 2026-11-14 15:41:45 | [itmosoft/laravel-abandoned-carts](https://www.nuget.org/packages/itmosoft%2Flaravel-abandoned-carts) | v1.0.1 |  | Abandoned cart capture, expiry detection, recovery links, and conversion tracki… |
-| 2026-11-14 15:44:20 | [psolutions/encrypt-bundle](https://www.nuget.org/packages/psolutions%2Fencrypt-bundle) | v5.1.0 | Francisco Izquierdo | Bundle provides a service for encrypting values via attribute. |
-| 2026-11-14 15:46:12 | [delwarhossaindev/laravel-zatca](https://www.nuget.org/packages/delwarhossaindev%2Flaravel-zatca) | v1.0.0 | Delwar Hossain | ZATCA (Fatoora) e-invoicing Phase 1 & Phase 2 for Laravel: onboarding, UBL XML,… |
-| 2026-11-14 15:47:57 | [itmosoft/laravel-wishlist-sharing](https://www.nuget.org/packages/itmosoft%2Flaravel-wishlist-sharing) | v1.0.0 |  | Secure, expiring share links and access tracking for Laravel wishlist models. |
-| 2026-11-14 15:50:59 | [sneakyx/motis-php-client](https://www.nuget.org/packages/sneakyx%2Fmotis-php-client) | v0.1.0 | André Scholz | PHP client for the MOTIS API (e.g. Transitous): multimodal routing, geocoding,… |
-| 2026-11-14 15:51:01 | [itmosoft/laravel-product-questions](https://www.nuget.org/packages/itmosoft%2Flaravel-product-questions) | v1.0.0 |  | Product questions and answers with moderation, customer attribution, and helpfu… |
-| 2026-11-14 15:53:58 | [itmosoft/laravel-vendors](https://www.nuget.org/packages/itmosoft%2Flaravel-vendors) | v1.0.0 |  | Vendor profiles, ownership, onboarding status, and moderation for Laravel marke… |
-| 2026-11-14 15:57:14 | [itmosoft/laravel-vendor-products](https://www.nuget.org/packages/itmosoft%2Flaravel-vendor-products) | v1.0.0 |  | Associate marketplace vendors with polymorphic product models and manage vendor… |
+| 2026-11-14 16:25:29 | [filagora/filagora-newsletters](https://www.nuget.org/packages/filagora%2Ffilagora-newsletters) | v0.1.0 |  | Newsletters for Filagora: subscribers with consent, campaigns built from conten… |
+| 2026-11-14 16:31:11 | [aathiappan/native-mailer-php](https://www.nuget.org/packages/aathiappan%2Fnative-mailer-php) | v1.0.0 |  | Local SMTP email testing sink with a web inbox, built for Windows + WAMP. |
+| 2026-11-14 16:32:24 | [horngunnotes/flarum-horn-signals](https://www.nuget.org/packages/horngunnotes%2Fflarum-horn-signals) | v1.0.0 | Horn Notes | Write railroad horn signals as plain text, such as [horn]- - o -[/horn], and sh… |
+| 2026-11-14 16:39:32 | [wit3/filament-relation-navigator](https://www.nuget.org/packages/wit3%2Ffilament-relation-navigator) | v1.0.0 | Salvatore Scalzi | Give every Filament relation manager its own page (/{record}/{relation}) and sw… |
+| 2026-11-14 17:08:29 | [ubaidsaleem/laravel-crudgen](https://www.nuget.org/packages/ubaidsaleem%2Flaravel-crudgen) | v1.0.2 | Ubaid Saleem | Generate Livewire 4 CRUD pages from a model's fields() definition |
 
 ## Data source
 
