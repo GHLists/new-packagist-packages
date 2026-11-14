@@ -15,21 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 12:20 UTC
+## Latest list — 2026-11-14 13:19 UTC
 
-New packages created between 2026-11-14 11:19 UTC and 2026-11-14 12:20 UTC.
+New packages created between 2026-11-14 12:20 UTC and 2026-11-14 13:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-14T12-20-27-441713Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-14T13-19-41-293296Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-14 11:26:50 | [pitchayakit/laravel-buddhist-era](https://www.nuget.org/packages/pitchayakit%2Flaravel-buddhist-era) | v1.0.0 |  | Laravel package that makes Carbon's translatedFormat() show the Buddhist Era ye… |
-| 2026-11-14 11:27:38 | [studio-variable/kirby-assets-versioning](https://www.nuget.org/packages/studio-variable%2Fkirby-assets-versioning) | v1.0.0 | Studio Variable | Append a content hash to the URLs of the CSS and JS files of a Kirby site, so b… |
-| 2026-11-14 11:37:17 | [timber/rings](https://www.nuget.org/packages/timber%2Frings) | 1.0.0 | Nicolas Lemoine | A Query Monitor panel that shows you what's happening in your Twig templates |
-| 2026-11-14 11:49:35 | [osaris-uk/monzo](https://www.nuget.org/packages/osaris-uk%2Fmonzo) | 1.0.0 | Osaris | A full-featured Laravel package for the Monzo Developer API: OAuth with automat… |
-| 2026-11-14 12:06:09 | [unipo/siakad-sdk](https://www.nuget.org/packages/unipo%2Fsiakad-sdk) | v1.0.0 | Pustikom Universitas Pohuwato | SDK resmi API SIAKAD UNIPO untuk PHP 8.1+: token OAuth2 otomatis, 2.000+ endpoi… |
-| 2026-11-14 12:08:16 | [four-bytes/four-http-client](https://www.nuget.org/packages/four-bytes%2Ffour-http-client) | v4.2.1 | Four Bytes | Modern PHP 8.4+ HTTP client factory and middleware library for API integrations |
-| 2026-11-14 12:16:58 | [phoenix1331/laravel-clorian](https://www.nuget.org/packages/phoenix1331%2Flaravel-clorian) | v0.1.0 | Darren Williams | Confidence-aware typed decisions for Laravel models and input: let Jev make the… |
+| 2026-11-14 12:21:03 | [tacman/opencv-php](https://www.nuget.org/packages/tacman%2Fopencv-php) | 0.1.0 |  | PHP bindings for OpenCV 5, generated from OpenCV's own header annotations |
+| 2026-11-14 12:37:54 | [tavy315/sylius-two-factor-plugin](https://www.nuget.org/packages/tavy315%2Fsylius-two-factor-plugin) | v0.1 |  | Two-factor authentication for Sylius administrators and shop users. |
+| 2026-11-14 12:39:09 | [sandritsch91/yii2-widget-yad](https://www.nuget.org/packages/sandritsch91%2Fyii2-widget-yad) | 1.0.0 | Sandritsch91 | Yii2 input widget for yad (Yet Another Datepicker): a dependency-free date, dat… |
+| 2026-11-14 12:48:41 | [lornequinn/blog-core](https://www.nuget.org/packages/lornequinn%2Fblog-core) | v0.1.0 | Lorne Quinn | Core package for the LQ blog suite — Post, Tag, DataType registry, Component re… |
+| 2026-11-14 12:48:41 | [lornequinn/blog-markdown](https://www.nuget.org/packages/lornequinn%2Fblog-markdown) | v0.1.0 | Lorne Quinn | Markdown body renderer for the LQ blog suite — CommonMark-backed pre-pass on th… |
+| 2026-11-14 12:48:41 | [lornequinn/blog-mcp](https://www.nuget.org/packages/lornequinn%2Fblog-mcp) | v0.1.0 | Lorne Quinn | MCP server tools for the LQ blog suite — the editor surface. No web admin. |
+| 2026-11-14 12:57:57 | [jdecool/scaleway-runtime](https://www.nuget.org/packages/jdecool%2Fscaleway-runtime) | v0.1.0 | Jeremy Decool | Symfony Runtime to run PHP applications on Scaleway Serverless Functions |
+| 2026-11-14 13:07:32 | [ryckakas/fsum](https://www.nuget.org/packages/ryckakas%2Ffsum) | v0.1.0 | Ricardas Kauneckas | Exact, correctly rounded float summation for PHP: JavaScript Math.sumPrecise se… |
 
 ## Data source
 

@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-14T12:21:03Z,tacman/opencv-php,0.1.0,,"PHP bindings for OpenCV 5, generated from OpenCV's own header annotations"
+2026-11-14T12:37:54Z,tavy315/sylius-two-factor-plugin,v0.1,,Two-factor authentication for Sylius administrators and shop users.
+2026-11-14T12:39:09Z,sandritsch91/yii2-widget-yad,1.0.0,Sandritsch91,"Yii2 input widget for yad (Yet Another Datepicker): a dependency-free date, datetime and time picker"
+2026-11-14T12:48:41Z,lornequinn/blog-core,v0.1.0,Lorne Quinn,"Core package for the LQ blog suite — Post, Tag, DataType registry, Component registry."
+2026-11-14T12:48:41Z,lornequinn/blog-markdown,v0.1.0,Lorne Quinn,Markdown body renderer for the LQ blog suite — CommonMark-backed pre-pass on the body pipeline.
+2026-11-14T12:48:41Z,lornequinn/blog-mcp,v0.1.0,Lorne Quinn,MCP server tools for the LQ blog suite — the editor surface. No web admin.
+2026-11-14T12:57:57Z,jdecool/scaleway-runtime,v0.1.0,Jeremy Decool,Symfony Runtime to run PHP applications on Scaleway Serverless Functions
+2026-11-14T13:07:32Z,ryckakas/fsum,v0.1.0,Ricardas Kauneckas,"Exact, correctly rounded float summation for PHP: JavaScript Math.sumPrecise semantics, the equivalent of Python's math.fsum."
