@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-14T07:50:31Z,ducduy94/lexware-api-php,v2.0.0,Duc Duy Chu,Small dependency-free PHP client for the Lexware Office Public API (formerly lexoffice).
+2026-11-14T08:14:09Z,itmosoft/laravel-customers,v1.0.2,,"Customer profiles, contact details and addresses for Laravel applications."

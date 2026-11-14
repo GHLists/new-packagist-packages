@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 07:21 UTC
+## Latest list — 2026-11-14 08:19 UTC
 
-New packages created between 2026-11-14 06:21 UTC and 2026-11-14 07:21 UTC.
+New packages created between 2026-11-14 07:21 UTC and 2026-11-14 08:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-14T07-21-32-756889Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-14T08-19-41-383215Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-14 06:45:51 | [breizhwave/wave-security-ip-restrict](https://www.nuget.org/packages/breizhwave%2Fwave-security-ip-restrict) | v1.0.0 | erwanpia | Restrict a whole Laravel application to an IP allow list (IPv4, IPv6, CIDR), ma… |
+| 2026-11-14 07:50:31 | [ducduy94/lexware-api-php](https://www.nuget.org/packages/ducduy94%2Flexware-api-php) | v2.0.0 | Duc Duy Chu | Small dependency-free PHP client for the Lexware Office Public API (formerly le… |
+| 2026-11-14 08:14:09 | [itmosoft/laravel-customers](https://www.nuget.org/packages/itmosoft%2Flaravel-customers) | v1.0.2 |  | Customer profiles, contact details and addresses for Laravel applications. |
 
 ## Data source
 
