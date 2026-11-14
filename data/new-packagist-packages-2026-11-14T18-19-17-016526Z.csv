@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-14T17:37:43Z,dotsystems/dotapp,2.1.0,Stefan Miscik,"DotApp PHP framework - a complete, scalable and efficient tool for web applications."
+2026-11-14T17:40:33Z,reachweb/resrv-payment-eurobank,v1.0.0,Iosif Chatzimichail,Eurobank (Greece) payment gateway for Statamic Resrv.
+2026-11-14T17:42:05Z,outstand/embeds,1.0.0,Sérgio Santos,"Embed Facebook and Instagram posts and videos in the Embed block, and load them only after cookie consent."
+2026-11-14T17:54:37Z,jalalix/php,0.1.0,Hossein Maklavani,"Jalali (Persian / Shamsi) calendar for PHP. Pure PHP, no runtime dependencies."
+2026-11-14T17:54:50Z,steddle/seal,v0.1.0,Steddle Group B.V.,"The fingerprint and canonical JSON that Steddle's products store proof with: SHA-256 in one spelling, and RFC 8785 over I-JSON."

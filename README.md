@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 17:18 UTC
+## Latest list — 2026-11-14 18:19 UTC
 
-New packages created between 2026-11-14 16:18 UTC and 2026-11-14 17:18 UTC.
+New packages created between 2026-11-14 17:18 UTC and 2026-11-14 18:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-14T17-18-38-571393Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-14T18-19-17-016526Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-14 16:25:29 | [filagora/filagora-newsletters](https://www.nuget.org/packages/filagora%2Ffilagora-newsletters) | v0.1.0 |  | Newsletters for Filagora: subscribers with consent, campaigns built from conten… |
-| 2026-11-14 16:31:11 | [aathiappan/native-mailer-php](https://www.nuget.org/packages/aathiappan%2Fnative-mailer-php) | v1.0.0 |  | Local SMTP email testing sink with a web inbox, built for Windows + WAMP. |
-| 2026-11-14 16:32:24 | [horngunnotes/flarum-horn-signals](https://www.nuget.org/packages/horngunnotes%2Fflarum-horn-signals) | v1.0.0 | Horn Notes | Write railroad horn signals as plain text, such as [horn]- - o -[/horn], and sh… |
-| 2026-11-14 16:39:32 | [wit3/filament-relation-navigator](https://www.nuget.org/packages/wit3%2Ffilament-relation-navigator) | v1.0.0 | Salvatore Scalzi | Give every Filament relation manager its own page (/{record}/{relation}) and sw… |
-| 2026-11-14 17:08:29 | [ubaidsaleem/laravel-crudgen](https://www.nuget.org/packages/ubaidsaleem%2Flaravel-crudgen) | v1.0.2 | Ubaid Saleem | Generate Livewire 4 CRUD pages from a model's fields() definition |
+| 2026-11-14 17:37:43 | [dotsystems/dotapp](https://www.nuget.org/packages/dotsystems%2Fdotapp) | 2.1.0 | Stefan Miscik | DotApp PHP framework - a complete, scalable and efficient tool for web applicat… |
+| 2026-11-14 17:40:33 | [reachweb/resrv-payment-eurobank](https://www.nuget.org/packages/reachweb%2Fresrv-payment-eurobank) | v1.0.0 | Iosif Chatzimichail | Eurobank (Greece) payment gateway for Statamic Resrv. |
+| 2026-11-14 17:42:05 | [outstand/embeds](https://www.nuget.org/packages/outstand%2Fembeds) | 1.0.0 | Sérgio Santos | Embed Facebook and Instagram posts and videos in the Embed block, and load them… |
+| 2026-11-14 17:54:37 | [jalalix/php](https://www.nuget.org/packages/jalalix%2Fphp) | 0.1.0 | Hossein Maklavani | Jalali (Persian / Shamsi) calendar for PHP. Pure PHP, no runtime dependencies. |
+| 2026-11-14 17:54:50 | [steddle/seal](https://www.nuget.org/packages/steddle%2Fseal) | v0.1.0 | Steddle Group B.V. | The fingerprint and canonical JSON that Steddle's products store proof with: SH… |
 
 ## Data source
 
