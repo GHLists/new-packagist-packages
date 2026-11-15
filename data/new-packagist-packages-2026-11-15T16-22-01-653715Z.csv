@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-15T15:21:44Z,miraqceed/laravel-foundation,v0.1.1,MIRAQCEED,どの Laravel のアプリにも要る部品（テストの守り・CSV・ログインのロック・CSP・見張り）
+2026-11-15T15:32:25Z,samuel-olavo/laravel-xibo,v0.1.0,,Laravel 13 client for the Xibo CMS API with multiple versioned connections
+2026-11-15T15:42:00Z,voku/agent-decision,0.1.0,,Provider-neutral bounded decision advice with explicit human authority and privacy boundaries
+2026-11-15T15:48:33Z,mahoke/mijn-afvalwijzer,v0.1.0,,Dependency-free PHP scraper for MijnAfvalwijzer collection calendars.
+2026-11-15T16:07:24Z,ichinese/open-sdk,v1.0.0-rc.8,,iChinese 开放平台 PHP 服务端 SDK
+2026-11-15T16:10:31Z,runconvert/runconvert-php,v0.1.0,,Official RunConvert SDK for PHP: convert files between 240+ formats
+2026-11-15T16:11:28Z,runconvert/runconvert-laravel,v0.1.0,,Official RunConvert SDK for Laravel: convert files between 240+ formats

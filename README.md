@@ -15,20 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 15:19 UTC
+## Latest list — 2026-11-15 16:22 UTC
 
-New packages created between 2026-11-15 14:19 UTC and 2026-11-15 15:19 UTC.
+New packages created between 2026-11-15 15:19 UTC and 2026-11-15 16:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-15T15-19-14-033888Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-15T16-22-01-653715Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-15 14:27:01 | [abdulwahhabkhan/device-auth](https://www.nuget.org/packages/abdulwahhabkhan%2Fdevice-auth) | v0.0.1 |  | Device-key (WebAuthn) authentication for Laravel + Inertia React: only approved… |
-| 2026-11-15 14:29:50 | [otaqq/search-in-box](https://www.nuget.org/packages/otaqq%2Fsearch-in-box) | v0.1.0 | otaqq | Full-text search inside your own database, no search server: a small index tabl… |
-| 2026-11-15 14:49:46 | [serendipity_hq/component-fattura-elettronica](https://www.nuget.org/packages/serendipity_hq%2Fcomponent-fattura-elettronica) | 0.1.0 | Adamo Aerendir Crespi | Manage electronic invoices in Italy. |
-| 2026-11-15 14:52:59 | [iltuostudiodigitale/coworking-connector](https://www.nuget.org/packages/iltuostudiodigitale%2Fcoworking-connector) | v1.0.0 |  | Il contratto del coworking di Il tuo studio digitale in forma di codice: DTO, c… |
-| 2026-11-15 15:03:07 | [thebeardedbear/urssaf-attestations-verification-code-securite](https://www.nuget.org/packages/thebeardedbear%2Furssaf-attestations-verification-code-securite) | v0.1.0 | TheBeardedBear | Client and domain model for the URSSAF "API Attestations Vérification Code Sécu… |
-| 2026-11-15 15:15:29 | [filafly/filament-bootstrap-icons](https://www.nuget.org/packages/filafly%2Ffilament-bootstrap-icons) | v1.0.0 | Nolan Nordlund | Bootstrap Icons pack for Filament Icons: replaces every Filament UI icon with B… |
+| 2026-11-15 15:21:44 | [miraqceed/laravel-foundation](https://www.nuget.org/packages/miraqceed%2Flaravel-foundation) | v0.1.1 | MIRAQCEED | どの Laravel のアプリにも要る部品（テストの守り・CSV・ログインのロック・CSP・見張り） |
+| 2026-11-15 15:32:25 | [samuel-olavo/laravel-xibo](https://www.nuget.org/packages/samuel-olavo%2Flaravel-xibo) | v0.1.0 |  | Laravel 13 client for the Xibo CMS API with multiple versioned connections |
+| 2026-11-15 15:42:00 | [voku/agent-decision](https://www.nuget.org/packages/voku%2Fagent-decision) | 0.1.0 |  | Provider-neutral bounded decision advice with explicit human authority and priv… |
+| 2026-11-15 15:48:33 | [mahoke/mijn-afvalwijzer](https://www.nuget.org/packages/mahoke%2Fmijn-afvalwijzer) | v0.1.0 |  | Dependency-free PHP scraper for MijnAfvalwijzer collection calendars. |
+| 2026-11-15 16:07:24 | [ichinese/open-sdk](https://www.nuget.org/packages/ichinese%2Fopen-sdk) | v1.0.0-rc.8 |  | iChinese 开放平台 PHP 服务端 SDK |
+| 2026-11-15 16:10:31 | [runconvert/runconvert-php](https://www.nuget.org/packages/runconvert%2Frunconvert-php) | v0.1.0 |  | Official RunConvert SDK for PHP: convert files between 240+ formats |
+| 2026-11-15 16:11:28 | [runconvert/runconvert-laravel](https://www.nuget.org/packages/runconvert%2Frunconvert-laravel) | v0.1.0 |  | Official RunConvert SDK for Laravel: convert files between 240+ formats |
 
 ## Data source
 
