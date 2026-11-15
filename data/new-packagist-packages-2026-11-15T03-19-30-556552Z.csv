@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-15T02:23:49Z,lowelllab/hyperf-dpop,v0.2.1,,"Hyperf integration for strict DPoP authentication, nonce and atomic replay protection."
+2026-11-15T02:31:32Z,nowo-tech/transaction-contract,v1.0.0,Héctor Franco Aceituno; Nowo.tech,"Framework-free transaction port: TransactionRunnerInterface::run(callable) and the TransientStorageFailure exception with a Retry-After hint. No dependencies beyond PHP: no Symfony, no Doctrine."
+2026-11-15T02:39:39Z,configdirector/server-sdk,v0.1.0,ConfigDirector,PHP server SDK for ConfigDirector. ConfigDirector is a remote configuration and feature flag service.
+2026-11-15T02:44:49Z,nowo-tech/transaction-doctrine,v1.0.0,Héctor Franco Aceituno; Nowo.tech,"Safe plain-Doctrine default for nowo-tech/transaction-contract: a one-attempt TransactionRunnerInterface that never leaves a poisoned connection (close instead of a failing rollback after a nested deadlock), plus the transient-failure classifier and connection repairer. No Symfony."
+2026-11-15T03:15:00Z,zydbkqf/ext-onnxruntime,0.4.7,Denis Cheung,"Native ONNX Runtime inference for PHP: Tensor conversion, I/O Binding, async tasks, device tensors, CoreML and CUDA Plugin EP support."
