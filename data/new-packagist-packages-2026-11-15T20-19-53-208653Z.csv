@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-15T19:31:57Z,nowo-tech/runtime-setting-contract,v1.0.0,Héctor Franco Aceituno; Nowo.tech,"Runtime setting port: a bundle setting that lives in .env can come from the database instead, change live through a console command and rotate without downtime. Framework-free contract, versioned cache, FrankenPHP worker safe, optional Symfony bridge."
