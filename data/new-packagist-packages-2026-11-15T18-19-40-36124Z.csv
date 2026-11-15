@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-15T17:22:42Z,rah/rah_vinyl,0.1.0,Jukka Svahn,Vinyl Cache based full-page cache integration for Textpattern CMS
+2026-11-15T17:31:22Z,polypheny/php-driver,v1.0.0,,PHP driver for Polypheny through the Prism interface
+2026-11-15T17:37:03Z,miraqceed/laravel-foundation,v0.1.2,MIRAQCEED,どの Laravel のアプリにも要る部品（テストの守り・CSV・ログインのロック・CSP・見張り）
+2026-11-15T17:40:22Z,ctsoftwarellc/laravel-job-throttle,v1.0.0,CT Software LLC,"Redis rate limiting for Laravel queued jobs that call outside APIs: exact GCRA slots, Retry-After pauses and waits that never spend a job's tries."

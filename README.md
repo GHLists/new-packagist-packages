@@ -15,15 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 17:19 UTC
+## Latest list — 2026-11-15 18:19 UTC
 
-New packages created between 2026-11-15 16:22 UTC and 2026-11-15 17:19 UTC.
+New packages created between 2026-11-15 17:19 UTC and 2026-11-15 18:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-15T17-19-18-87473Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-15T18-19-40-36124Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-15 16:32:48 | [dotsystems/dotapp](https://www.nuget.org/packages/dotsystems%2Fdotapp) | 2.2.0 | Stefan Miscik | DotApp PHP framework - a complete, scalable and efficient tool for web applicat… |
+| 2026-11-15 17:22:42 | [rah/rah_vinyl](https://www.nuget.org/packages/rah%2Frah_vinyl) | 0.1.0 | Jukka Svahn | Vinyl Cache based full-page cache integration for Textpattern CMS |
+| 2026-11-15 17:31:22 | [polypheny/php-driver](https://www.nuget.org/packages/polypheny%2Fphp-driver) | v1.0.0 |  | PHP driver for Polypheny through the Prism interface |
+| 2026-11-15 17:37:03 | [miraqceed/laravel-foundation](https://www.nuget.org/packages/miraqceed%2Flaravel-foundation) | v0.1.2 | MIRAQCEED | どの Laravel のアプリにも要る部品（テストの守り・CSV・ログインのロック・CSP・見張り） |
+| 2026-11-15 17:40:22 | [ctsoftwarellc/laravel-job-throttle](https://www.nuget.org/packages/ctsoftwarellc%2Flaravel-job-throttle) | v1.0.0 | CT Software LLC | Redis rate limiting for Laravel queued jobs that call outside APIs: exact GCRA… |
 
 ## Data source
 
