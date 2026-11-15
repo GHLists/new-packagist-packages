@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-15T11:25:25Z,suprim/speedy,1.0.0,suprim,"Speedy Cache: full-page caching for Craft CMS that keeps your database clean, works with your templates as they are, and clears Cloudflare, CloudFront, Fastly, Bunny and Varnish."
+2026-11-15T11:28:32Z,wickedone/infection-mate-extension,0.1.0,wicliff wolda,infection extension for symfony mate
+2026-11-15T11:42:17Z,laravelazier/laravelazier,2.1.0,Laravelazier Contributors,Lightweight Laravel package for generating PDF and Excel files with minimal setup.
