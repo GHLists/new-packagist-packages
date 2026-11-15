@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 00:22 UTC
+## Latest list — 2026-11-15 02:21 UTC
 
-New packages created between 2026-11-14 23:21 UTC and 2026-11-15 00:22 UTC.
+New packages created between 2026-11-15 01:20 UTC and 2026-11-15 02:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-15T00-22-19-353207Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-15T02-21-42-847493Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-14 23:30:08 | [bear/query-repository-graph](https://www.nuget.org/packages/bear%2Fquery-repository-graph) | 0.1.0 | Akihito Koriyama | Static analysis of the cache graph that BEAR.QueryRepository attributes declare |
-| 2026-11-14 23:43:40 | [influxit/build-assets](https://www.nuget.org/packages/influxit%2Fbuild-assets) | v0.1.0 |  | Package compiled frontend assets into a ZIP and deploy them with Laravel or pla… |
+| 2026-11-15 01:42:32 | [siberfx/rbac-permission](https://www.nuget.org/packages/siberfx%2Frbac-permission) | v1.4.0 | Selim Gormus | Scope-aware roles and permissions for Laravel: module.resource.verb@scope grant… |
 
 ## Data source
 

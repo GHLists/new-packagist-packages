@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-15T01:42:32Z,siberfx/rbac-permission,v1.4.0,Selim Gormus,"Scope-aware roles and permissions for Laravel: module.resource.verb@scope grants, a scope ladder, query constraints, and HTTP, console, Gate and Blade enforcement with an explainable decision trace."
