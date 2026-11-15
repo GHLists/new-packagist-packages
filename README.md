@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 05:20 UTC
+## Latest list — 2026-11-15 06:20 UTC
 
-New packages created between 2026-11-15 04:19 UTC and 2026-11-15 05:20 UTC.
+New packages created between 2026-11-15 05:20 UTC and 2026-11-15 06:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-15T05-20-04-68706Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-15T06-20-25-816542Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-15 04:53:14 | [armanoide/roundcube-folder-order](https://www.nuget.org/packages/armanoide%2Froundcube-folder-order) | 1.0.0 | Armanoide | Manual folder ordering in the Roundcube Elastic sidebar — user-defined order vi… |
+| 2026-11-15 05:32:28 | [truefaktor/webhooks](https://www.nuget.org/packages/truefaktor%2Fwebhooks) | v0.1.0 |  | Verify Truefaktor webhook signatures |
 
 ## Data source
 
