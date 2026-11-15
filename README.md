@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 22:21 UTC
+## Latest list — 2026-11-15 23:21 UTC
 
-New packages created between 2026-11-15 21:22 UTC and 2026-11-15 22:21 UTC.
+New packages created between 2026-11-15 22:21 UTC and 2026-11-15 23:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-15T22-21-50-908565Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-15T23-21-43-741213Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-15 21:25:03 | [danilovl/contact-bundle](https://www.nuget.org/packages/danilovl%2Fcontact-bundle) | v0.0.1 | Vladimir Danilov | Personal address book bundle for Symfony: contacts with multiple emails, phones… |
-| 2026-11-15 21:43:52 | [starbug/api](https://www.nuget.org/packages/starbug%2Fapi) | v0.9.0 | Ali Gangji | API response and controller infrastructure for Starbug. |
+| 2026-11-15 22:51:58 | [webong/proxy-laravel](https://www.nuget.org/packages/webong%2Fproxy-laravel) | 0.4.0 |  | Laravel registry persistence, migrations and Spatie webhook integration for Pro… |
+| 2026-11-15 22:52:38 | [elliottlawson/source-laravel](https://www.nuget.org/packages/elliottlawson%2Fsource-laravel) | v0.2.0 |  | Laravel filesystem driver for source, the Git-backed file store. |
+| 2026-11-15 23:05:23 | [juf/doctrine-import-bundle](https://www.nuget.org/packages/juf%2Fdoctrine-import-bundle) | v0.1.0 | JuF | Generate Doctrine ORM entities and repositories from an existing database. |
 
 ## Data source
 

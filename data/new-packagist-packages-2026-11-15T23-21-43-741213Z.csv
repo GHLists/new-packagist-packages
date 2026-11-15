@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-15T22:51:58Z,webong/proxy-laravel,0.4.0,,"Laravel registry persistence, migrations and Spatie webhook integration for Proxy."
+2026-11-15T22:52:38Z,elliottlawson/source-laravel,v0.2.0,,"Laravel filesystem driver for source, the Git-backed file store."
+2026-11-15T23:05:23Z,juf/doctrine-import-bundle,v0.1.0,JuF,Generate Doctrine ORM entities and repositories from an existing database.
