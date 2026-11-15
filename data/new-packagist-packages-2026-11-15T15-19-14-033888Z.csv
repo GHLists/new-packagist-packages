@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-15T14:27:01Z,abdulwahhabkhan/device-auth,v0.0.1,,"Device-key (WebAuthn) authentication for Laravel + Inertia React: only approved devices can use the application, like SSH keys for the browser."
+2026-11-15T14:29:50Z,otaqq/search-in-box,v0.1.0,otaqq,"Full-text search inside your own database, no search server: a small index table, search-box query languages (websearch, any, all), and events and batches to keep it up to date."
+2026-11-15T14:49:46Z,serendipity_hq/component-fattura-elettronica,0.1.0,Adamo Aerendir Crespi,Manage electronic invoices in Italy.
+2026-11-15T14:52:59Z,iltuostudiodigitale/coworking-connector,v1.0.0,,"Il contratto del coworking di Il tuo studio digitale in forma di codice: DTO, client, firma dei webhook e validazione dei payload."
+2026-11-15T15:03:07Z,thebeardedbear/urssaf-attestations-verification-code-securite,v0.1.0,TheBeardedBear,"Client and domain model for the URSSAF ""API Attestations Vérification Code Sécurité"" (verification of URSSAF certificates by security code)"
+2026-11-15T15:15:29Z,filafly/filament-bootstrap-icons,v1.0.0,Nolan Nordlund,"Bootstrap Icons pack for Filament Icons: replaces every Filament UI icon with Bootstrap Icons, outline or fill"
