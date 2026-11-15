@@ -15,21 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 16:22 UTC
+## Latest list — 2026-11-15 17:19 UTC
 
-New packages created between 2026-11-15 15:19 UTC and 2026-11-15 16:22 UTC.
+New packages created between 2026-11-15 16:22 UTC and 2026-11-15 17:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-15T16-22-01-653715Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-15T17-19-18-87473Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-15 15:21:44 | [miraqceed/laravel-foundation](https://www.nuget.org/packages/miraqceed%2Flaravel-foundation) | v0.1.1 | MIRAQCEED | どの Laravel のアプリにも要る部品（テストの守り・CSV・ログインのロック・CSP・見張り） |
-| 2026-11-15 15:32:25 | [samuel-olavo/laravel-xibo](https://www.nuget.org/packages/samuel-olavo%2Flaravel-xibo) | v0.1.0 |  | Laravel 13 client for the Xibo CMS API with multiple versioned connections |
-| 2026-11-15 15:42:00 | [voku/agent-decision](https://www.nuget.org/packages/voku%2Fagent-decision) | 0.1.0 |  | Provider-neutral bounded decision advice with explicit human authority and priv… |
-| 2026-11-15 15:48:33 | [mahoke/mijn-afvalwijzer](https://www.nuget.org/packages/mahoke%2Fmijn-afvalwijzer) | v0.1.0 |  | Dependency-free PHP scraper for MijnAfvalwijzer collection calendars. |
-| 2026-11-15 16:07:24 | [ichinese/open-sdk](https://www.nuget.org/packages/ichinese%2Fopen-sdk) | v1.0.0-rc.8 |  | iChinese 开放平台 PHP 服务端 SDK |
-| 2026-11-15 16:10:31 | [runconvert/runconvert-php](https://www.nuget.org/packages/runconvert%2Frunconvert-php) | v0.1.0 |  | Official RunConvert SDK for PHP: convert files between 240+ formats |
-| 2026-11-15 16:11:28 | [runconvert/runconvert-laravel](https://www.nuget.org/packages/runconvert%2Frunconvert-laravel) | v0.1.0 |  | Official RunConvert SDK for Laravel: convert files between 240+ formats |
+| 2026-11-15 16:32:48 | [dotsystems/dotapp](https://www.nuget.org/packages/dotsystems%2Fdotapp) | 2.2.0 | Stefan Miscik | DotApp PHP framework - a complete, scalable and efficient tool for web applicat… |
 
 ## Data source
 
