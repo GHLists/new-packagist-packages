@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-15T07:41:49Z,aminmh/developer-assistant-otel-core,v0.1.0,,Framework-agnostic OpenTelemetry contracts and enrichment for Indexr
+2026-11-15T07:41:49Z,aminmh/developer-assistant-otel-laravel,v0.1.0,,Laravel adapter for Indexr OpenTelemetry
+2026-11-15T07:41:49Z,aminmh/developer-assistant-otel-symfony,v0.1.0,,Symfony adapter for Indexr OpenTelemetry
+2026-11-15T07:43:03Z,cruciblephp/phpstan-crucible,v1.0.0,Luciano Federico Pereira,"PHPStan rules for code under test: a #[\SensitiveParameter] value never reaches a PSR-3 log, and a method no test runs is reported from Clover or Crucible coverage"

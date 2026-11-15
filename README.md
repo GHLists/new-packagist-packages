@@ -15,15 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 06:20 UTC
+## Latest list — 2026-11-15 08:21 UTC
 
-New packages created between 2026-11-15 05:20 UTC and 2026-11-15 06:20 UTC.
+New packages created between 2026-11-15 07:21 UTC and 2026-11-15 08:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-15T06-20-25-816542Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-15T08-21-01-191709Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-15 05:32:28 | [truefaktor/webhooks](https://www.nuget.org/packages/truefaktor%2Fwebhooks) | v0.1.0 |  | Verify Truefaktor webhook signatures |
+| 2026-11-15 07:41:49 | [aminmh/developer-assistant-otel-core](https://www.nuget.org/packages/aminmh%2Fdeveloper-assistant-otel-core) | v0.1.0 |  | Framework-agnostic OpenTelemetry contracts and enrichment for Indexr |
+| 2026-11-15 07:41:49 | [aminmh/developer-assistant-otel-laravel](https://www.nuget.org/packages/aminmh%2Fdeveloper-assistant-otel-laravel) | v0.1.0 |  | Laravel adapter for Indexr OpenTelemetry |
+| 2026-11-15 07:41:49 | [aminmh/developer-assistant-otel-symfony](https://www.nuget.org/packages/aminmh%2Fdeveloper-assistant-otel-symfony) | v0.1.0 |  | Symfony adapter for Indexr OpenTelemetry |
+| 2026-11-15 07:43:03 | [cruciblephp/phpstan-crucible](https://www.nuget.org/packages/cruciblephp%2Fphpstan-crucible) | v1.0.0 | Luciano Federico Pereira | PHPStan rules for code under test: a #[\SensitiveParameter] value never reaches… |
 
 ## Data source
 
