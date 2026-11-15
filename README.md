@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 10:20 UTC
+## Latest list — 2026-11-15 11:20 UTC
 
-New packages created between 2026-11-15 09:19 UTC and 2026-11-15 10:20 UTC.
+New packages created between 2026-11-15 10:20 UTC and 2026-11-15 11:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-15T10-20-40-274373Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-15T11-20-31-591752Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-15 09:38:56 | [july/julyadmin](https://www.nuget.org/packages/july%2Fjulyadmin) | v1.0.7 | July | ThinkPHP 6/8 rapid admin extension (Layui + Lyear). Requires a ThinkPHP host pr… |
-| 2026-11-15 09:41:37 | [mailtruss/mailtruss](https://www.nuget.org/packages/mailtruss%2Fmailtruss) | v0.1.0 |  | PHP client for the Mailtruss email API, with a Laravel mail transport. |
-| 2026-11-15 10:10:38 | [pasax/secure-monitor](https://www.nuget.org/packages/pasax%2Fsecure-monitor) | v1.0.0 | Roby; pasax-dev | Pasax - enterprise-grade headless self-hosted WAF, threat detection engine, zer… |
+| 2026-11-15 10:28:07 | [youvision/think-store-codeditor](https://www.nuget.org/packages/youvision%2Fthink-store-codeditor) | 1.0.0 | indiboy-create; AI | ThinkPHP 8 模板代码编辑器扩展：基于 Ace 与 layui 编辑 HTML + PHP 混合模板，提供页面、读取、更新、新增与静态资源路由。 |
+| 2026-11-15 10:37:28 | [shubhamkanungoo007/module-media-orphan-finder](https://www.nuget.org/packages/shubhamkanungoo007%2Fmodule-media-orphan-finder) | 1.0.0 |  | A Magento 2 module to find and clean orphaned media files. |
+| 2026-11-15 10:59:46 | [abdalazeze/laravel-coupons](https://www.nuget.org/packages/abdalazeze%2Flaravel-coupons) | v0.1.1 | Abdulaziz Nour Eddin | Concurrency-safe coupons, discounts, and cashback engine for Laravel |
 
 ## Data source
 
