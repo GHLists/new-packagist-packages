@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-15T04:53:14Z,armanoide/roundcube-folder-order,1.0.0,Armanoide,"Manual folder ordering in the Roundcube Elastic sidebar — user-defined order via render_mailboxlist, persisted per user. Answers upstream issue #5003."
