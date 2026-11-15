@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-14T23:30:08Z,bear/query-repository-graph,0.1.0,Akihito Koriyama,Static analysis of the cache graph that BEAR.QueryRepository attributes declare
+2026-11-14T23:43:40Z,influxit/build-assets,v0.1.0,,Package compiled frontend assets into a ZIP and deploy them with Laravel or plain PHP.
