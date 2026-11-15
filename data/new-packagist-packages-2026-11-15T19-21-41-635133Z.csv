@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-15T18:25:32Z,sce-urv/parcel-cat-sdk,1.0.0,David Domenech,A SDK to integrate with parcel-cat API
+2026-11-15T18:58:55Z,mikepultz/php-mysqlnd-tls,v1.0.0,Mike Pultz,"Turns on TLS for PHP's MySQL connections (mysqli and PDO, through mysqlnd) from php.ini, with no application changes."
+2026-11-15T19:08:15Z,youvision/think-store-example,v1.9,indiboy-create; AI,ThinkPHP 8 示例包：包内视图渲染、layui 静态资源路由与随机抽诗接口。

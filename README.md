@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 18:19 UTC
+## Latest list — 2026-11-15 19:21 UTC
 
-New packages created between 2026-11-15 17:19 UTC and 2026-11-15 18:19 UTC.
+New packages created between 2026-11-15 18:19 UTC and 2026-11-15 19:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-15T18-19-40-36124Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-15T19-21-41-635133Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-15 17:22:42 | [rah/rah_vinyl](https://www.nuget.org/packages/rah%2Frah_vinyl) | 0.1.0 | Jukka Svahn | Vinyl Cache based full-page cache integration for Textpattern CMS |
-| 2026-11-15 17:31:22 | [polypheny/php-driver](https://www.nuget.org/packages/polypheny%2Fphp-driver) | v1.0.0 |  | PHP driver for Polypheny through the Prism interface |
-| 2026-11-15 17:37:03 | [miraqceed/laravel-foundation](https://www.nuget.org/packages/miraqceed%2Flaravel-foundation) | v0.1.2 | MIRAQCEED | どの Laravel のアプリにも要る部品（テストの守り・CSV・ログインのロック・CSP・見張り） |
-| 2026-11-15 17:40:22 | [ctsoftwarellc/laravel-job-throttle](https://www.nuget.org/packages/ctsoftwarellc%2Flaravel-job-throttle) | v1.0.0 | CT Software LLC | Redis rate limiting for Laravel queued jobs that call outside APIs: exact GCRA… |
+| 2026-11-15 18:25:32 | [sce-urv/parcel-cat-sdk](https://www.nuget.org/packages/sce-urv%2Fparcel-cat-sdk) | 1.0.0 | David Domenech | A SDK to integrate with parcel-cat API |
+| 2026-11-15 18:58:55 | [mikepultz/php-mysqlnd-tls](https://www.nuget.org/packages/mikepultz%2Fphp-mysqlnd-tls) | v1.0.0 | Mike Pultz | Turns on TLS for PHP's MySQL connections (mysqli and PDO, through mysqlnd) from… |
+| 2026-11-15 19:08:15 | [youvision/think-store-example](https://www.nuget.org/packages/youvision%2Fthink-store-example) | v1.9 | indiboy-create; AI | ThinkPHP 8 示例包：包内视图渲染、layui 静态资源路由与随机抽诗接口。 |
 
 ## Data source
 
