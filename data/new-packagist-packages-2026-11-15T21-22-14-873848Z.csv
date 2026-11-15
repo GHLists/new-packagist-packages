@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-15T20:31:01Z,willwright/module-category-sorting,v1.0.1,,"Magento 2 category sorting by stock availability, paid sales, review rating and customer-specific price."
+2026-11-15T20:37:23Z,but-mmi-beziers/babel-moteur,v1.0.0,,"Moteur de la Bibliothèque de Babel : permutation à clé entre adresses et pages de 3 200 caractères, avec intégration Laravel."
+2026-11-15T20:38:20Z,shmuelakam/greenjeans,v0.8.0,Shmuel A. Kam,PHP SDK and persistence layer for Geni.com API
+2026-11-15T20:48:58Z,tomvondracek/bolt-request-analytics,v1.0.0,Tomáš Vondráček,"Cookieless, server-side visitor statistics for Bolt CMS 6, built only from the HTTP request: no JavaScript, no identifiers, no raw request storage."
+2026-11-15T21:12:08Z,abitechdev/antibot-laravel,v1.0.1,Abimael Fernandez,Protege los formularios de Laravel contra bots con Cloudflare Turnstile o Google reCAPTCHA desde una sola regla de validación.
