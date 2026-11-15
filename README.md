@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 12:21 UTC
+## Latest list — 2026-11-15 13:21 UTC
 
-New packages created between 2026-11-15 11:20 UTC and 2026-11-15 12:21 UTC.
+New packages created between 2026-11-15 12:21 UTC and 2026-11-15 13:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-15T12-21-23-618332Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-15T13-21-06-101538Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-15 11:25:25 | [suprim/speedy](https://www.nuget.org/packages/suprim%2Fspeedy) | 1.0.0 | suprim | Speedy Cache: full-page caching for Craft CMS that keeps your database clean, w… |
-| 2026-11-15 11:28:32 | [wickedone/infection-mate-extension](https://www.nuget.org/packages/wickedone%2Finfection-mate-extension) | 0.1.0 | wicliff wolda | infection extension for symfony mate |
-| 2026-11-15 11:42:17 | [laravelazier/laravelazier](https://www.nuget.org/packages/laravelazier%2Flaravelazier) | 2.1.0 | Laravelazier Contributors | Lightweight Laravel package for generating PDF and Excel files with minimal set… |
+| 2026-11-15 12:24:00 | [laravelazier/laravelazier](https://www.nuget.org/packages/laravelazier%2Flaravelazier) | 2.2.0 | Laravelazier Contributors | Lightweight Laravel package for generating PDF and Excel files with minimal set… |
+| 2026-11-15 12:24:56 | [psbits/qa](https://www.nuget.org/packages/psbits%2Fqa) | 0.1.0-alpha |  | Shared QA infrastructure for PSBits TYPO3 extensions: test matrix scripts, Dock… |
+| 2026-11-15 12:52:55 | [korin/gedcom](https://www.nuget.org/packages/korin%2Fgedcom) | v0.1.0 |  | Lossless GEDCOM 5.5–7.0 reader, validator, converter and writer for PHP |
+| 2026-11-15 12:53:37 | [andicot/log-viewer](https://www.nuget.org/packages/andicot%2Flog-viewer) | v13.0.0 | ARCANEDEV; Andicot | Log viewer for Laravel 13 with daily log browsing and filtering by severity. Fo… |
 
 ## Data source
 

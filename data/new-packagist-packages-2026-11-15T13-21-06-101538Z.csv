@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-15T12:24:00Z,laravelazier/laravelazier,2.2.0,Laravelazier Contributors,Lightweight Laravel package for generating PDF and Excel files with minimal setup.
+2026-11-15T12:24:56Z,psbits/qa,0.1.0-alpha,,"Shared QA infrastructure for PSBits TYPO3 extensions: test matrix scripts, Docker setup, linter and fixer configuration, custom PHP CS Fixer rules"
+2026-11-15T12:52:55Z,korin/gedcom,v0.1.0,,"Lossless GEDCOM 5.5–7.0 reader, validator, converter and writer for PHP"
+2026-11-15T12:53:37Z,andicot/log-viewer,v13.0.0,ARCANEDEV; Andicot,Log viewer for Laravel 13 with daily log browsing and filtering by severity. Fork of ARCANEDEV/LogViewer.
