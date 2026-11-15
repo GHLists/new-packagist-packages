@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 08:21 UTC
+## Latest list — 2026-11-15 09:19 UTC
 
-New packages created between 2026-11-15 07:21 UTC and 2026-11-15 08:21 UTC.
+New packages created between 2026-11-15 08:21 UTC and 2026-11-15 09:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-15T08-21-01-191709Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-15T09-19-49-783844Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-15 07:41:49 | [aminmh/developer-assistant-otel-core](https://www.nuget.org/packages/aminmh%2Fdeveloper-assistant-otel-core) | v0.1.0 |  | Framework-agnostic OpenTelemetry contracts and enrichment for Indexr |
-| 2026-11-15 07:41:49 | [aminmh/developer-assistant-otel-laravel](https://www.nuget.org/packages/aminmh%2Fdeveloper-assistant-otel-laravel) | v0.1.0 |  | Laravel adapter for Indexr OpenTelemetry |
-| 2026-11-15 07:41:49 | [aminmh/developer-assistant-otel-symfony](https://www.nuget.org/packages/aminmh%2Fdeveloper-assistant-otel-symfony) | v0.1.0 |  | Symfony adapter for Indexr OpenTelemetry |
-| 2026-11-15 07:43:03 | [cruciblephp/phpstan-crucible](https://www.nuget.org/packages/cruciblephp%2Fphpstan-crucible) | v1.0.0 | Luciano Federico Pereira | PHPStan rules for code under test: a #[\SensitiveParameter] value never reaches… |
+| 2026-11-15 08:30:05 | [bymdigital/whatsapp-automation-india](https://www.nuget.org/packages/bymdigital%2Fwhatsapp-automation-india) | v1.0.0 | BYM Digital | Enterprise PHP client for Meta WhatsApp Cloud API (v26.0+) with native WhatsApp… |
+| 2026-11-15 08:38:35 | [eii/laravel-web-suite](https://www.nuget.org/packages/eii%2Flaravel-web-suite) | v1.0.0 |  | A modular business website backend companion for Laravel, with optional Filamen… |
+| 2026-11-15 08:46:37 | [transcriptdock/transcriptdock](https://www.nuget.org/packages/transcriptdock%2Ftranscriptdock) | v0.1.0 | Transcript Dock | PHP client for the Transcript Dock video transcription API |
+| 2026-11-15 08:52:16 | [stolt/config-cartographer](https://www.nuget.org/packages/stolt%2Fconfig-cartographer) | v0.1.0 |  | A PHP library and CLI for discovering, tracing, and visualizing application con… |
 
 ## Data source
 

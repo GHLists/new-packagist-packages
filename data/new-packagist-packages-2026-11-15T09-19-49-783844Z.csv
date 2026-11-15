@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-15T08:30:05Z,bymdigital/whatsapp-automation-india,v1.0.0,BYM Digital,Enterprise PHP client for Meta WhatsApp Cloud API (v26.0+) with native WhatsApp Coexistence (App + API hybrid mode) and Tally ERP webhook integration.
+2026-11-15T08:38:35Z,eii/laravel-web-suite,v1.0.0,,"A modular business website backend companion for Laravel, with optional Filament 5 administration."
+2026-11-15T08:46:37Z,transcriptdock/transcriptdock,v0.1.0,Transcript Dock,PHP client for the Transcript Dock video transcription API
+2026-11-15T08:52:16Z,stolt/config-cartographer,v0.1.0,,"A PHP library and CLI for discovering, tracing, and visualizing application configuration dependencies."
