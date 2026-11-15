@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-15T21:25:03Z,danilovl/contact-bundle,v0.0.1,Vladimir Danilov,"Personal address book bundle for Symfony: contacts with multiple emails, phones, addresses, links, dates and relations, REST API, vCard import/export and Vue.js SPA."
+2026-11-15T21:43:52Z,starbug/api,v0.9.0,Ali Gangji,API response and controller infrastructure for Starbug.

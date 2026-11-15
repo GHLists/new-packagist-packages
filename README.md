@@ -15,19 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 21:22 UTC
+## Latest list — 2026-11-15 22:21 UTC
 
-New packages created between 2026-11-15 20:19 UTC and 2026-11-15 21:22 UTC.
+New packages created between 2026-11-15 21:22 UTC and 2026-11-15 22:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-15T21-22-14-873848Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-15T22-21-50-908565Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-15 20:31:01 | [willwright/module-category-sorting](https://www.nuget.org/packages/willwright%2Fmodule-category-sorting) | v1.0.1 |  | Magento 2 category sorting by stock availability, paid sales, review rating and… |
-| 2026-11-15 20:37:23 | [but-mmi-beziers/babel-moteur](https://www.nuget.org/packages/but-mmi-beziers%2Fbabel-moteur) | v1.0.0 |  | Moteur de la Bibliothèque de Babel : permutation à clé entre adresses et pages… |
-| 2026-11-15 20:38:20 | [shmuelakam/greenjeans](https://www.nuget.org/packages/shmuelakam%2Fgreenjeans) | v0.8.0 | Shmuel A. Kam | PHP SDK and persistence layer for Geni.com API |
-| 2026-11-15 20:48:58 | [tomvondracek/bolt-request-analytics](https://www.nuget.org/packages/tomvondracek%2Fbolt-request-analytics) | v1.0.0 | Tomáš Vondráček | Cookieless, server-side visitor statistics for Bolt CMS 6, built only from the… |
-| 2026-11-15 21:12:08 | [abitechdev/antibot-laravel](https://www.nuget.org/packages/abitechdev%2Fantibot-laravel) | v1.0.1 | Abimael Fernandez | Protege los formularios de Laravel contra bots con Cloudflare Turnstile o Googl… |
+| 2026-11-15 21:25:03 | [danilovl/contact-bundle](https://www.nuget.org/packages/danilovl%2Fcontact-bundle) | v0.0.1 | Vladimir Danilov | Personal address book bundle for Symfony: contacts with multiple emails, phones… |
+| 2026-11-15 21:43:52 | [starbug/api](https://www.nuget.org/packages/starbug%2Fapi) | v0.9.0 | Ali Gangji | API response and controller infrastructure for Starbug. |
 
 ## Data source
 
