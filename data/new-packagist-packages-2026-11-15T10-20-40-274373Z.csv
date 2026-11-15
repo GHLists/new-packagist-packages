@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-15T09:38:56Z,july/julyadmin,v1.0.7,July,ThinkPHP 6/8 rapid admin extension (Layui + Lyear). Requires a ThinkPHP host project with think-view and jump package per version.
+2026-11-15T09:41:37Z,mailtruss/mailtruss,v0.1.0,,"PHP client for the Mailtruss email API, with a Laravel mail transport."
+2026-11-15T10:10:38Z,pasax/secure-monitor,v1.0.0,Roby; pasax-dev,"Pasax - enterprise-grade headless self-hosted WAF, threat detection engine, zero-tolerance blocking, stepped login lockout, and security auditing toolkit for Laravel."

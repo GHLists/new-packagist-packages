@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 09:19 UTC
+## Latest list — 2026-11-15 10:20 UTC
 
-New packages created between 2026-11-15 08:21 UTC and 2026-11-15 09:19 UTC.
+New packages created between 2026-11-15 09:19 UTC and 2026-11-15 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-15T09-19-49-783844Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-15T10-20-40-274373Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-15 08:30:05 | [bymdigital/whatsapp-automation-india](https://www.nuget.org/packages/bymdigital%2Fwhatsapp-automation-india) | v1.0.0 | BYM Digital | Enterprise PHP client for Meta WhatsApp Cloud API (v26.0+) with native WhatsApp… |
-| 2026-11-15 08:38:35 | [eii/laravel-web-suite](https://www.nuget.org/packages/eii%2Flaravel-web-suite) | v1.0.0 |  | A modular business website backend companion for Laravel, with optional Filamen… |
-| 2026-11-15 08:46:37 | [transcriptdock/transcriptdock](https://www.nuget.org/packages/transcriptdock%2Ftranscriptdock) | v0.1.0 | Transcript Dock | PHP client for the Transcript Dock video transcription API |
-| 2026-11-15 08:52:16 | [stolt/config-cartographer](https://www.nuget.org/packages/stolt%2Fconfig-cartographer) | v0.1.0 |  | A PHP library and CLI for discovering, tracing, and visualizing application con… |
+| 2026-11-15 09:38:56 | [july/julyadmin](https://www.nuget.org/packages/july%2Fjulyadmin) | v1.0.7 | July | ThinkPHP 6/8 rapid admin extension (Layui + Lyear). Requires a ThinkPHP host pr… |
+| 2026-11-15 09:41:37 | [mailtruss/mailtruss](https://www.nuget.org/packages/mailtruss%2Fmailtruss) | v0.1.0 |  | PHP client for the Mailtruss email API, with a Laravel mail transport. |
+| 2026-11-15 10:10:38 | [pasax/secure-monitor](https://www.nuget.org/packages/pasax%2Fsecure-monitor) | v1.0.0 | Roby; pasax-dev | Pasax - enterprise-grade headless self-hosted WAF, threat detection engine, zer… |
 
 ## Data source
 
