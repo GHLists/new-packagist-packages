@@ -1,0 +1,21 @@
+created_at,package,version,author,description
+2026-11-16T16:19:36Z,mr-glubschi/seat-market-orders,v0.2.1,,"SeAT plugin: your characters' sell and buy orders next to the best competing price, with one click to the market window in the game."
+2026-11-16T16:22:52Z,cloud-pivot/laravel-gateway-worker,2.0.0,xiaoyao,GatewayWorker SDK for Laravel
+2026-11-16T16:25:01Z,veyqo/veyqo-php,v0.1.1,,"Official PHP library for the Veyqo payments API: payments, checkout, refunds, subscriptions and webhook verification."
+2026-11-16T16:29:02Z,wiznkingpro/collect,v1.0.0,Владислав Плотников,Simple PHP collection library
+2026-11-16T16:33:01Z,aikvadrober/module-console-log,1.1.2,,Frontend console log capture and server-side logging for Magento 2
+2026-11-16T16:36:00Z,prestashopheaven/runtime-cart,v1.0.0,George van Engers,"Cart helpers: the link that reopens a customer's cart from an email (PrestaShop's own recover_cart link, which also logs the customer in)."
+2026-11-16T16:36:00Z,prestashopheaven/runtime-voucher,v1.0.0,George van Engers,"A personal one-time voucher (PrestaShop cart rule) for one customer: code with a prefix, valid for a number of hours, a percentage or an amount, optionally only for some products and one shop, shown to the customer in the cart."
+2026-11-16T16:41:53Z,aikvadrober/debuglogin,v1.0.2,,Login to any customer account with a single GET request. Local development only.
+2026-11-16T16:43:42Z,starbug/intl,v0.9.0,Ali Gangji,Starbug intl module.
+2026-11-16T16:43:42Z,starbug/orders,v0.9.0,Ali Gangji,Starbug orders module.
+2026-11-16T16:43:42Z,starbug/orders-admin,v0.9.0,Ali Gangji,Starbug orders administration module.
+2026-11-16T16:43:42Z,starbug/payment-gateways-admin,v0.9.0,Ali Gangji,Starbug payment gateways administration module.
+2026-11-16T16:43:42Z,starbug/payments,v0.9.0,Ali Gangji,Starbug payment gateways module.
+2026-11-16T16:43:42Z,starbug/products,v0.9.0,Ali Gangji,Starbug products module.
+2026-11-16T16:43:42Z,starbug/products-admin,v0.9.0,Ali Gangji,Starbug products administration module.
+2026-11-16T16:43:42Z,starbug/shipping-methods,v0.9.0,Ali Gangji,Starbug shipping methods module.
+2026-11-16T16:43:42Z,starbug/shipping-methods-admin,v0.9.0,Ali Gangji,Starbug shipping methods administration module.
+2026-11-16T16:43:42Z,starbug/wizard,v0.9.1,Ali Gangji,Starbug form wizard module.
+2026-11-16T16:45:04Z,prestashopheaven/runtime-mail,v1.0.0,George van Engers,"Module mails in the shop's mail theme: layouts for PrestaShop's mail theme generator (actionListMailThemes), and sending a module template for one shop and language with every failure logged."
+2026-11-16T17:01:44Z,golpilolz/db-configs,v1.0.1,Golpilolz and other contributors,Store configurations in the database and use them in your Symfony application.
