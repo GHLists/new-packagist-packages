@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-16T02:31:30Z,configdirector/openfeature-server-provider,v0.1.0,ConfigDirector,OpenFeature server provider for ConfigDirector. ConfigDirector is a remote configuration and feature flag service.
+2026-11-16T02:38:39Z,thuraaung2493/laravel-nrc-kit,v0.1.0,,"Offline Myanmar NRC validation, conversion and native Blade selector"
+2026-11-16T02:42:26Z,otaqq/form-datalayer,v0.2.0,otaqq,"Measure every form step (input, confirm, complete, error) with Google Tag Manager: a catalog in your code, settings chosen on an admin screen, and nothing sent unless allowed."
+2026-11-16T02:43:29Z,sailantis/laravel-volucer,v0.4.2,,Run a Laravel application on volucer's persistent worker protocol.
+2026-11-16T02:43:31Z,sailantis/symfony-volucer,v0.4.2,,"Run a Symfony application on volucer's persistent worker protocol: kernel reboot per request, no upstream changes."
+2026-11-16T02:43:33Z,sailantis/spiral-volucer,v0.4.2,,Run a Spiral application on volucer's persistent worker protocol.
+2026-11-16T02:48:21Z,campkitchenus/flarum-camp-water,v1.0.0,Camp Kitchen US,"Add a [campwater] tag to Flarum posts that shows how much water a car-camping trip needs: drinking, cooking, dishes and hand washing, in liters and US gallons."

@@ -15,16 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 02:22 UTC
+## Latest list — 2026-11-16 03:19 UTC
 
-New packages created between 2026-11-16 01:19 UTC and 2026-11-16 02:22 UTC.
+New packages created between 2026-11-16 02:22 UTC and 2026-11-16 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-16T02-22-16-584406Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-16T03-19-05-457325Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-16 01:52:50 | [mgamadeus/ddd-site-insights](https://www.nuget.org/packages/mgamadeus%2Fddd-site-insights) | 0.1.0-rc.2 | Marius-Eugen Gerdan | Search Console insights for mgamadeus/ddd: reads Google Search Console through… |
-| 2026-11-16 01:58:25 | [thebeardedbear/urssaf-tierce-declaration-cesu](https://www.nuget.org/packages/thebeardedbear%2Furssaf-tierce-declaration-cesu) | v0.1.0 | The Bearded Bear | Client and domain model for the URSSAF "API Tierce Déclaration CESU" (third-par… |
+| 2026-11-16 02:31:30 | [configdirector/openfeature-server-provider](https://www.nuget.org/packages/configdirector%2Fopenfeature-server-provider) | v0.1.0 | ConfigDirector | OpenFeature server provider for ConfigDirector. ConfigDirector is a remote conf… |
+| 2026-11-16 02:38:39 | [thuraaung2493/laravel-nrc-kit](https://www.nuget.org/packages/thuraaung2493%2Flaravel-nrc-kit) | v0.1.0 |  | Offline Myanmar NRC validation, conversion and native Blade selector |
+| 2026-11-16 02:42:26 | [otaqq/form-datalayer](https://www.nuget.org/packages/otaqq%2Fform-datalayer) | v0.2.0 | otaqq | Measure every form step (input, confirm, complete, error) with Google Tag Manag… |
+| 2026-11-16 02:43:29 | [sailantis/laravel-volucer](https://www.nuget.org/packages/sailantis%2Flaravel-volucer) | v0.4.2 |  | Run a Laravel application on volucer's persistent worker protocol. |
+| 2026-11-16 02:43:31 | [sailantis/symfony-volucer](https://www.nuget.org/packages/sailantis%2Fsymfony-volucer) | v0.4.2 |  | Run a Symfony application on volucer's persistent worker protocol: kernel reboo… |
+| 2026-11-16 02:43:33 | [sailantis/spiral-volucer](https://www.nuget.org/packages/sailantis%2Fspiral-volucer) | v0.4.2 |  | Run a Spiral application on volucer's persistent worker protocol. |
+| 2026-11-16 02:48:21 | [campkitchenus/flarum-camp-water](https://www.nuget.org/packages/campkitchenus%2Fflarum-camp-water) | v1.0.0 | Camp Kitchen US | Add a [campwater] tag to Flarum posts that shows how much water a car-camping t… |
 
 ## Data source
 
