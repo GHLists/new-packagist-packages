@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-16T14:25:36Z,veyqo/veyqo-php,v0.1.0,,"Official PHP library for the Veyqo payments API: payments, checkout, refunds, subscriptions and webhook verification."
+2026-11-16T14:35:02Z,company4-dev/ico,1.4,Jas-n,An easy-to-use library to generate valid ICO files.
+2026-11-16T14:39:30Z,starbug/css,v0.9.0,Ali Gangji,Stylesheet discovery and the css template helper.
+2026-11-16T14:42:24Z,theagency2627/socialite-launcher,v0.1.0,,Socialite provider voor inloggen met de Game Launcher.
+2026-11-16T14:43:28Z,tornado-engine/access-microsoft-ad,v0.1.0,,"Tornado Engine module: gives roles to Active Directory OUs, groups and users, synced nightly, with optional Active Directory sign-in."
+2026-11-16T14:43:38Z,tornado-engine/access-microsoft-entra,v0.1.0,,"Tornado Engine module: gives roles to Entra ID groups and users, synced nightly."
+2026-11-16T14:47:05Z,funset/mfa-email,v14.0.2,Ralf Freit; Benno Nijholt,E-Mail MFA Provider: provides multi-factor authentication via e-mail for the TYPO3 backend.
+2026-11-16T15:01:06Z,starbug/doctrine,v0.9.0,Ali Gangji,Doctrine based implementations of database module interfaces.
+2026-11-16T15:08:21Z,citrus-framework/notification,v1.0.0,take64,php notification library
+2026-11-16T15:16:41Z,ahmedelpopown/lpg-laravel-payment-gateway,v1.0.0,,"Reusable Laravel Payment Core for Stripe, PayPal, refunds, webhooks and reconciliation, with optional Booking and Stancl Tenancy integrations."
