@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-16T05:28:09Z,kafyx-3/permission-gate,v1.1.0,kafyx-3,"Lightweight Laravel Gate & Blade directive helper — zero config, zero assumptions. Define your own permissions."
+2026-11-16T05:55:16Z,usualtool/ut-douyin,v1.0.1,Huang Hui,UsualTool Framework Extension:Douyin.

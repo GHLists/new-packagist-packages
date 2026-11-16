@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 05:21 UTC
+## Latest list — 2026-11-16 06:20 UTC
 
-New packages created between 2026-11-16 04:21 UTC and 2026-11-16 05:21 UTC.
+New packages created between 2026-11-16 05:21 UTC and 2026-11-16 06:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-16T05-21-45-289063Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-16T06-20-22-046163Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-16 04:40:22 | [starbug/redis](https://www.nuget.org/packages/starbug%2Fredis) | v0.9.0 | Ali Gangji | Redis integration: Predis client and queue driver wiring. |
-| 2026-11-16 05:05:34 | [youvision/think-store-chess](https://www.nuget.org/packages/youvision%2Fthink-store-chess) | v1.0 | indiboy-create; AI | ThinkPHP 8 中国象棋包：包内视图渲染、layui 静态资源路由与在线棋盘。 |
+| 2026-11-16 05:28:09 | [kafyx-3/permission-gate](https://www.nuget.org/packages/kafyx-3%2Fpermission-gate) | v1.1.0 | kafyx-3 | Lightweight Laravel Gate & Blade directive helper — zero config, zero assumptio… |
+| 2026-11-16 05:55:16 | [usualtool/ut-douyin](https://www.nuget.org/packages/usualtool%2Fut-douyin) | v1.0.1 | Huang Hui | UsualTool Framework Extension:Douyin. |
 
 ## Data source
 
