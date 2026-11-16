@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 04:21 UTC
+## Latest list — 2026-11-16 05:21 UTC
 
-New packages created between 2026-11-16 03:19 UTC and 2026-11-16 04:21 UTC.
+New packages created between 2026-11-16 04:21 UTC and 2026-11-16 05:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-16T04-21-50-218559Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-16T05-21-45-289063Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-16 03:32:18 | [firstlightui/app-shortcuts](https://www.nuget.org/packages/firstlightui%2Fapp-shortcuts) | v1.0.0-alpha1 |  | Open a screen or run a PHP action of your NativePHP app from Siri, Spotlight, t… |
-| 2026-11-16 03:46:08 | [kusikusicms/acl](https://www.nuget.org/packages/kusikusicms%2Facl) | v13.3.0 |  | Entity authorization for KusikusiCMS. |
+| 2026-11-16 04:40:22 | [starbug/redis](https://www.nuget.org/packages/starbug%2Fredis) | v0.9.0 | Ali Gangji | Redis integration: Predis client and queue driver wiring. |
+| 2026-11-16 05:05:34 | [youvision/think-store-chess](https://www.nuget.org/packages/youvision%2Fthink-store-chess) | v1.0 | indiboy-create; AI | ThinkPHP 8 中国象棋包：包内视图渲染、layui 静态资源路由与在线棋盘。 |
 
 ## Data source
 
