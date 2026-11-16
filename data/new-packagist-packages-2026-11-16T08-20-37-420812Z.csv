@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-16T07:53:14Z,jason/laravel-logtail,v1.1.0,小陈叔叔,Logtail (Better Stack) log driver for Laravel with call-site origin tracking.

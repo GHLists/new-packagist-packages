@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 07:21 UTC
+## Latest list — 2026-11-16 08:20 UTC
 
-New packages created between 2026-11-16 06:20 UTC and 2026-11-16 07:21 UTC.
+New packages created between 2026-11-16 07:21 UTC and 2026-11-16 08:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-16T07-21-42-963555Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-16T08-20-37-420812Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-16 06:32:42 | [citrus-framework/schedule](https://www.nuget.org/packages/citrus-framework%2Fschedule) | v1.0.0 | take64 | php schedule library |
-| 2026-11-16 06:44:06 | [antlerslabs/runes-laravel](https://www.nuget.org/packages/antlerslabs%2Frunes-laravel) | v0.1.0 | Antlers Labs | Laravel SDK for Runes error tracking |
-| 2026-11-16 07:10:11 | [anjan011/2fa-support](https://www.nuget.org/packages/anjan011%2F2fa-support) | v1.0.0 | Anjan | A Laravel package for TOTP-based 2FA with QR image and backup codes. |
+| 2026-11-16 07:53:14 | [jason/laravel-logtail](https://www.nuget.org/packages/jason%2Flaravel-logtail) | v1.1.0 | 小陈叔叔 | Logtail (Better Stack) log driver for Laravel with call-site origin tracking. |
 
 ## Data source
 
