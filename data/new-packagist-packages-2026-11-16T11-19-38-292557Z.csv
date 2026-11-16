@@ -1,0 +1,15 @@
+created_at,package,version,author,description
+2026-11-16T10:29:00Z,itmosoft/laravel-vendor-payouts,v1.0.1,,Vendor earnings ledger and payout lifecycle management for Laravel marketplace applications.
+2026-11-16T10:37:11Z,itmosoft/laravel-vendor-commissions,v1.0.2,,Configurable vendor commission rules and commission ledger for Laravel marketplace applications.
+2026-11-16T10:45:01Z,usualtool/ut-pay,v1.0,Huang Hui,UsualTool Framework Payment SDK (Alipay / Wechat / Paypal / Douyin ecpay) with runtime config factories.
+2026-11-16T10:52:26Z,predoza/predoza-laravel,v1.0.0,,"Laravel package for Predoza host sign-in: the handoff route, a Blade component for embedded games and a doctor command"
+2026-11-16T10:52:26Z,predoza/predoza-php,v1.0.0,,Predoza host sign-in for PHP: sign your site's logged-in members in to embedded Predoza games
+2026-11-16T10:52:26Z,predoza/predoza-symfony,v1.0.0,,"Symfony bundle for Predoza host sign-in: the handoff route, a Twig function for embedded games and a doctor command"
+2026-11-16T10:52:26Z,predoza/sdk-php,v1.0.0,,"Development repository of the Predoza PHP SDK: predoza/predoza-php, predoza/predoza-symfony and predoza/predoza-laravel"
+2026-11-16T10:53:09Z,itmosoft/laravel-customer-groups,v1.0.1,,Customer segmentation and group membership management for Laravel applications.
+2026-11-16T10:59:45Z,kirbydesk/kirbyblock-contactform,1.0.0,Christian Fickinger,Contact Form Block for Kirby CMS
+2026-11-16T11:00:03Z,itmosoft/laravel-product-bundles,v1.0.0,,Manage fixed-price and component-priced product bundles in Laravel applications.
+2026-11-16T11:06:29Z,mhmdelbadry74/laraselector-laravel,v0.1.0,,"Development-only Laravel tool: click an element in the browser and jump to its Blade view, page controller or form-action controller in your editor."
+2026-11-16T11:06:42Z,shoplygg/shoply-php,v0.11.0,,"Shoply's API from your own server: every route as a method, safe retries, pages, checking webhooks, and OAuth for apps."
+2026-11-16T11:09:55Z,pulsesend/pulsesend-laravel,v0.1.0,,"PulseSend for Laravel: a mail transport, a facade and webhook events."
+2026-11-16T11:09:55Z,pulsesend/pulsesend-php,v0.1.0,,PHP client for the PulseSend transactional email API.

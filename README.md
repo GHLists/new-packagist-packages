@@ -15,23 +15,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 10:19 UTC
+## Latest list — 2026-11-16 11:19 UTC
 
-New packages created between 2026-11-16 09:22 UTC and 2026-11-16 10:19 UTC.
+New packages created between 2026-11-16 10:19 UTC and 2026-11-16 11:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-16T10-19-47-127599Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-16T11-19-38-292557Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-16 09:23:40 | [pixiaoka/orm](https://www.nuget.org/packages/pixiaoka%2Form) | v0.1.0 |  | Annotation-driven Active Record ORM for PHP 8.3+. Zero framework dependency. PD… |
-| 2026-11-16 09:24:08 | [ortic/concretecms-ortic-mcp-server](https://www.nuget.org/packages/ortic%2Fconcretecms-ortic-mcp-server) | v0.1.0 |  | Concrete CMS package that turns a site into a Model Context Protocol (MCP) serv… |
-| 2026-11-16 09:37:23 | [abdulwahhabkhan/device-auth-livewire](https://www.nuget.org/packages/abdulwahhabkhan%2Fdevice-auth-livewire) | v0.2.1 | Abdul Wahhab Khan | Livewire + Alpine frontend for abdulwahhabkhan/device-auth: device verification… |
-| 2026-11-16 09:37:23 | [abdulwahhabkhan/device-auth-react](https://www.nuget.org/packages/abdulwahhabkhan%2Fdevice-auth-react) | v0.2.1 | Abdul Wahhab Khan | Inertia + React pages for abdulwahhabkhan/device-auth: device verification, con… |
-| 2026-11-16 09:40:04 | [t-labs-co/crash-guard](https://www.nuget.org/packages/t-labs-co%2Fcrash-guard) | v1.0.0 | Ty Huynh | Lightweight exception capture, deduplication & notification for Laravel — with… |
-| 2026-11-16 09:53:46 | [kontainer/laravel-model-cache](https://www.nuget.org/packages/kontainer%2Flaravel-model-cache) | v1.0.0 | Matthias Isler | A Redis based, automated and scalable database caching layer for Laravel |
-| 2026-11-16 09:53:56 | [degriz/openmage-braintree](https://www.nuget.org/packages/degriz%2Fopenmage-braintree) | v3.2.0 |  | Braintree payments (Gene_Braintree) for OpenMage 20 / PHP 8 - Web SDK 3.147, 3D… |
-| 2026-11-16 10:04:25 | [degriz/openmage-openai-ads](https://www.nuget.org/packages/degriz%2Fopenmage-openai-ads) | 1.0.0 | Anze Voh | OpenAI Ads (ChatGPT) measurement pixel and Conversions API for OpenMage / Magen… |
-| 2026-11-16 10:04:28 | [degriz/openmage-moosend](https://www.nuget.org/packages/degriz%2Fopenmage-moosend) | 2.0.0 | Anze Voh | Moosend website tracking (page views, product views, add to cart, orders) for O… |
+| 2026-11-16 10:29:00 | [itmosoft/laravel-vendor-payouts](https://www.nuget.org/packages/itmosoft%2Flaravel-vendor-payouts) | v1.0.1 |  | Vendor earnings ledger and payout lifecycle management for Laravel marketplace… |
+| 2026-11-16 10:37:11 | [itmosoft/laravel-vendor-commissions](https://www.nuget.org/packages/itmosoft%2Flaravel-vendor-commissions) | v1.0.2 |  | Configurable vendor commission rules and commission ledger for Laravel marketpl… |
+| 2026-11-16 10:45:01 | [usualtool/ut-pay](https://www.nuget.org/packages/usualtool%2Fut-pay) | v1.0 | Huang Hui | UsualTool Framework Payment SDK (Alipay / Wechat / Paypal / Douyin ecpay) with… |
+| 2026-11-16 10:52:26 | [predoza/predoza-laravel](https://www.nuget.org/packages/predoza%2Fpredoza-laravel) | v1.0.0 |  | Laravel package for Predoza host sign-in: the handoff route, a Blade component… |
+| 2026-11-16 10:52:26 | [predoza/predoza-php](https://www.nuget.org/packages/predoza%2Fpredoza-php) | v1.0.0 |  | Predoza host sign-in for PHP: sign your site's logged-in members in to embedded… |
+| 2026-11-16 10:52:26 | [predoza/predoza-symfony](https://www.nuget.org/packages/predoza%2Fpredoza-symfony) | v1.0.0 |  | Symfony bundle for Predoza host sign-in: the handoff route, a Twig function for… |
+| 2026-11-16 10:52:26 | [predoza/sdk-php](https://www.nuget.org/packages/predoza%2Fsdk-php) | v1.0.0 |  | Development repository of the Predoza PHP SDK: predoza/predoza-php, predoza/pre… |
+| 2026-11-16 10:53:09 | [itmosoft/laravel-customer-groups](https://www.nuget.org/packages/itmosoft%2Flaravel-customer-groups) | v1.0.1 |  | Customer segmentation and group membership management for Laravel applications. |
+| 2026-11-16 10:59:45 | [kirbydesk/kirbyblock-contactform](https://www.nuget.org/packages/kirbydesk%2Fkirbyblock-contactform) | 1.0.0 | Christian Fickinger | Contact Form Block for Kirby CMS |
+| 2026-11-16 11:00:03 | [itmosoft/laravel-product-bundles](https://www.nuget.org/packages/itmosoft%2Flaravel-product-bundles) | v1.0.0 |  | Manage fixed-price and component-priced product bundles in Laravel applications. |
+| 2026-11-16 11:06:29 | [mhmdelbadry74/laraselector-laravel](https://www.nuget.org/packages/mhmdelbadry74%2Flaraselector-laravel) | v0.1.0 |  | Development-only Laravel tool: click an element in the browser and jump to its… |
+| 2026-11-16 11:06:42 | [shoplygg/shoply-php](https://www.nuget.org/packages/shoplygg%2Fshoply-php) | v0.11.0 |  | Shoply's API from your own server: every route as a method, safe retries, pages… |
+| 2026-11-16 11:09:55 | [pulsesend/pulsesend-laravel](https://www.nuget.org/packages/pulsesend%2Fpulsesend-laravel) | v0.1.0 |  | PulseSend for Laravel: a mail transport, a facade and webhook events. |
+| 2026-11-16 11:09:55 | [pulsesend/pulsesend-php](https://www.nuget.org/packages/pulsesend%2Fpulsesend-php) | v0.1.0 |  | PHP client for the PulseSend transactional email API. |
 
 ## Data source
 
