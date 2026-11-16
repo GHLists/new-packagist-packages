@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-16T18:21:31Z,jeffersongoncalves/laravel-lgpd-consent,1.0.0,Jefferson Gonçalves,"LGPD consent ledger for Laravel: append-only consent records per purpose and terms version, with proof of consent and revocation."
+2026-11-16T18:25:57Z,xddesigners/silverstripe-event-tickets,6.0.0,Remy Vaartjes,Event tickets for SilverStripe Event Calendar
+2026-11-16T18:31:36Z,geeklab/glroute,v1.0.1,,Yet another PHP Router
+2026-11-16T18:33:17Z,starbug/menus-admin,v0.9.0,Ali Gangji,Admin screens for menu management.
+2026-11-16T18:41:30Z,xddesigners/dashboard,6.0.0,Remy Vaartjes,Adds dashboard interface to the Silverstripe CMS
+2026-11-16T18:51:47Z,nubos/starterkit,v1.28.1,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-16T18:52:42Z,starbug/users-admin,v0.9.1,Ali Gangji,Admin screens for user management.
+2026-11-16T18:59:04Z,mertaydin/laravel-queue-monitor,v0.1.0,,Monitor and manage Laravel queue connections with a driver-aware dashboard.
+2026-11-16T19:09:28Z,starbug/content-admin,v0.9.2,Ali Gangji,"Admin screens for pages, categories and tags."

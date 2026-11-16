@@ -15,20 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 18:20 UTC
+## Latest list — 2026-11-16 19:19 UTC
 
-New packages created between 2026-11-16 17:20 UTC and 2026-11-16 18:20 UTC.
+New packages created between 2026-11-16 18:20 UTC and 2026-11-16 19:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-16T18-20-02-726272Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-16T19-19-17-626896Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-16 17:32:43 | [ercikktm/numero-a-letras-mx](https://www.nuget.org/packages/ercikktm%2Fnumero-a-letras-mx) | v1.0.0 | ErcikKtm | Convierte números en formato mexicano a letras, con soporte para modo moneda |
-| 2026-11-16 17:48:35 | [starbug/emails-admin](https://www.nuget.org/packages/starbug%2Femails-admin) | v0.9.0 | Ali Gangji | Admin screens for email templates. |
-| 2026-11-16 17:54:21 | [matheel/matheel-php](https://www.nuget.org/packages/matheel%2Fmatheel-php) | v0.1.0 | Matheel | Official client for the Matheel ZATCA Phase 2 e-invoicing API (Saudi Arabia, Fa… |
-| 2026-11-16 18:02:22 | [starbug/log-admin](https://www.nuget.org/packages/starbug%2Flog-admin) | v0.9.0 | Ali Gangji | Admin screens for the error log. |
-| 2026-11-16 18:05:28 | [jeffersongoncalves/laravel-lgpd](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-lgpd) | 1.0.0 | Jefferson Gonçalves | LGPD toolkit core for Laravel: declare personal data on Eloquent models, build… |
-| 2026-11-16 18:17:07 | [starbug/files-admin](https://www.nuget.org/packages/starbug%2Ffiles-admin) | v0.9.0 | Ali Gangji | Admin screens for the media library. |
+| 2026-11-16 18:21:31 | [jeffersongoncalves/laravel-lgpd-consent](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-lgpd-consent) | 1.0.0 | Jefferson Gonçalves | LGPD consent ledger for Laravel: append-only consent records per purpose and te… |
+| 2026-11-16 18:25:57 | [xddesigners/silverstripe-event-tickets](https://www.nuget.org/packages/xddesigners%2Fsilverstripe-event-tickets) | 6.0.0 | Remy Vaartjes | Event tickets for SilverStripe Event Calendar |
+| 2026-11-16 18:31:36 | [geeklab/glroute](https://www.nuget.org/packages/geeklab%2Fglroute) | v1.0.1 |  | Yet another PHP Router |
+| 2026-11-16 18:33:17 | [starbug/menus-admin](https://www.nuget.org/packages/starbug%2Fmenus-admin) | v0.9.0 | Ali Gangji | Admin screens for menu management. |
+| 2026-11-16 18:41:30 | [xddesigners/dashboard](https://www.nuget.org/packages/xddesigners%2Fdashboard) | 6.0.0 | Remy Vaartjes | Adds dashboard interface to the Silverstripe CMS |
+| 2026-11-16 18:51:47 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.28.1 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-16 18:52:42 | [starbug/users-admin](https://www.nuget.org/packages/starbug%2Fusers-admin) | v0.9.1 | Ali Gangji | Admin screens for user management. |
+| 2026-11-16 18:59:04 | [mertaydin/laravel-queue-monitor](https://www.nuget.org/packages/mertaydin%2Flaravel-queue-monitor) | v0.1.0 |  | Monitor and manage Laravel queue connections with a driver-aware dashboard. |
+| 2026-11-16 19:09:28 | [starbug/content-admin](https://www.nuget.org/packages/starbug%2Fcontent-admin) | v0.9.2 | Ali Gangji | Admin screens for pages, categories and tags. |
 
 ## Data source
 
