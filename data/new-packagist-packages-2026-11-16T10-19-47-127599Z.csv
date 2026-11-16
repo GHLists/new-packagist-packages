@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-16T09:23:40Z,pixiaoka/orm,v0.1.0,,"Annotation-driven Active Record ORM for PHP 8.3+. Zero framework dependency. PDO based. Supports composite primary keys, strict type casting at the boundary, dirty tracking, lifecycle hooks, row cache, transactions, coroutine-safe sessions."
+2026-11-16T09:24:08Z,ortic/concretecms-ortic-mcp-server,v0.1.0,,Concrete CMS package that turns a site into a Model Context Protocol (MCP) server for AI assistants such as Claude.
+2026-11-16T09:37:23Z,abdulwahhabkhan/device-auth-livewire,v0.2.1,Abdul Wahhab Khan,"Livewire + Alpine frontend for abdulwahhabkhan/device-auth: device verification, confirmation and the device admin screens."
+2026-11-16T09:37:23Z,abdulwahhabkhan/device-auth-react,v0.2.1,Abdul Wahhab Khan,"Inertia + React pages for abdulwahhabkhan/device-auth: device verification, confirmation and the admin review screens."
+2026-11-16T09:40:04Z,t-labs-co/crash-guard,v1.0.0,Ty Huynh,"Lightweight exception capture, deduplication & notification for Laravel — with circuit breaker and full report lifecycle."
+2026-11-16T09:53:46Z,kontainer/laravel-model-cache,v1.0.0,Matthias Isler,"A Redis based, automated and scalable database caching layer for Laravel"
+2026-11-16T09:53:56Z,degriz/openmage-braintree,v3.2.0,,"Braintree payments (Gene_Braintree) for OpenMage 20 / PHP 8 - Web SDK 3.147, 3D Secure 2 (Cardinal) ready"
+2026-11-16T10:04:25Z,degriz/openmage-openai-ads,1.0.0,Anze Voh,OpenAI Ads (ChatGPT) measurement pixel and Conversions API for OpenMage / Magento 1.9
+2026-11-16T10:04:28Z,degriz/openmage-moosend,2.0.0,Anze Voh,"Moosend website tracking (page views, product views, add to cart, orders) for OpenMage / Magento 1.9"
