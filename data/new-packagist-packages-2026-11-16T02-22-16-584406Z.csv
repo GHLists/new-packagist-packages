@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-16T01:52:50Z,mgamadeus/ddd-site-insights,0.1.0-rc.2,Marius-Eugen Gerdan,"Search Console insights for mgamadeus/ddd: reads Google Search Console through ddd-argus, caches the answers, stores nothing and states in every answer what it covers"
+2026-11-16T01:58:25Z,thebeardedbear/urssaf-tierce-declaration-cesu,v0.1.0,The Bearded Bear,"Client and domain model for the URSSAF ""API Tierce Déclaration CESU"" (third-party declaration for private employers, Cesu+ and immediate tax credit advance)"

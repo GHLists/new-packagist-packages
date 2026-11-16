@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 01:19 UTC
+## Latest list — 2026-11-16 02:22 UTC
 
-New packages created between 2026-11-16 00:22 UTC and 2026-11-16 01:19 UTC.
+New packages created between 2026-11-16 01:19 UTC and 2026-11-16 02:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-16T01-19-39-735147Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-16T02-22-16-584406Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-16 00:23:49 | [sailantis/azera-roadrunner](https://www.nuget.org/packages/sailantis%2Fazera-roadrunner) | v0.4.2 | Sailantis | Application-server adapter that lets Azera run on RoadRunner. Serves HTTP and g… |
-| 2026-11-16 00:54:53 | [brianhenryie/bh-wp-rate-limiter](https://www.nuget.org/packages/brianhenryie%2Fbh-wp-rate-limiter) | 1.0.0 | BrianHenryIE | Rate limiter using WordPress cache for storage. |
-| 2026-11-16 01:10:34 | [qa-tracking/capture-bundle](https://www.nuget.org/packages/qa-tracking%2Fcapture-bundle) | v0.1.0 | Ricardo Ocaña | Adds backend context (trace ID, exception, logs and database rows) to the bug r… |
+| 2026-11-16 01:52:50 | [mgamadeus/ddd-site-insights](https://www.nuget.org/packages/mgamadeus%2Fddd-site-insights) | 0.1.0-rc.2 | Marius-Eugen Gerdan | Search Console insights for mgamadeus/ddd: reads Google Search Console through… |
+| 2026-11-16 01:58:25 | [thebeardedbear/urssaf-tierce-declaration-cesu](https://www.nuget.org/packages/thebeardedbear%2Furssaf-tierce-declaration-cesu) | v0.1.0 | The Bearded Bear | Client and domain model for the URSSAF "API Tierce Déclaration CESU" (third-par… |
 
 ## Data source
 
