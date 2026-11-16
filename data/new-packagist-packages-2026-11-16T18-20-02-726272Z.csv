@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-16T17:32:43Z,ercikktm/numero-a-letras-mx,v1.0.0,ErcikKtm,"Convierte números en formato mexicano a letras, con soporte para modo moneda"
+2026-11-16T17:48:35Z,starbug/emails-admin,v0.9.0,Ali Gangji,Admin screens for email templates.
+2026-11-16T17:54:21Z,matheel/matheel-php,v0.1.0,Matheel,"Official client for the Matheel ZATCA Phase 2 e-invoicing API (Saudi Arabia, Fatoora): file invoices with a device token, decode the QR, verify callbacks."
+2026-11-16T18:02:22Z,starbug/log-admin,v0.9.0,Ali Gangji,Admin screens for the error log.
+2026-11-16T18:05:28Z,jeffersongoncalves/laravel-lgpd,1.0.0,Jefferson Gonçalves,"LGPD toolkit core for Laravel: declare personal data on Eloquent models, build the data inventory, export and anonymize data subjects."
+2026-11-16T18:17:07Z,starbug/files-admin,v0.9.0,Ali Gangji,Admin screens for the media library.

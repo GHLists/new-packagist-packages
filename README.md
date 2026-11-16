@@ -15,34 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 17:20 UTC
+## Latest list — 2026-11-16 18:20 UTC
 
-New packages created between 2026-11-16 16:18 UTC and 2026-11-16 17:20 UTC.
+New packages created between 2026-11-16 17:20 UTC and 2026-11-16 18:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-16T17-20-44-584022Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-16T18-20-02-726272Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-16 16:19:36 | [mr-glubschi/seat-market-orders](https://www.nuget.org/packages/mr-glubschi%2Fseat-market-orders) | v0.2.1 |  | SeAT plugin: your characters' sell and buy orders next to the best competing pr… |
-| 2026-11-16 16:22:52 | [cloud-pivot/laravel-gateway-worker](https://www.nuget.org/packages/cloud-pivot%2Flaravel-gateway-worker) | 2.0.0 | xiaoyao | GatewayWorker SDK for Laravel |
-| 2026-11-16 16:25:01 | [veyqo/veyqo-php](https://www.nuget.org/packages/veyqo%2Fveyqo-php) | v0.1.1 |  | Official PHP library for the Veyqo payments API: payments, checkout, refunds, s… |
-| 2026-11-16 16:29:02 | [wiznkingpro/collect](https://www.nuget.org/packages/wiznkingpro%2Fcollect) | v1.0.0 | Владислав Плотников | Simple PHP collection library |
-| 2026-11-16 16:33:01 | [aikvadrober/module-console-log](https://www.nuget.org/packages/aikvadrober%2Fmodule-console-log) | 1.1.2 |  | Frontend console log capture and server-side logging for Magento 2 |
-| 2026-11-16 16:36:00 | [prestashopheaven/runtime-cart](https://www.nuget.org/packages/prestashopheaven%2Fruntime-cart) | v1.0.0 | George van Engers | Cart helpers: the link that reopens a customer's cart from an email (PrestaShop… |
-| 2026-11-16 16:36:00 | [prestashopheaven/runtime-voucher](https://www.nuget.org/packages/prestashopheaven%2Fruntime-voucher) | v1.0.0 | George van Engers | A personal one-time voucher (PrestaShop cart rule) for one customer: code with… |
-| 2026-11-16 16:41:53 | [aikvadrober/debuglogin](https://www.nuget.org/packages/aikvadrober%2Fdebuglogin) | v1.0.2 |  | Login to any customer account with a single GET request. Local development only. |
-| 2026-11-16 16:43:42 | [starbug/intl](https://www.nuget.org/packages/starbug%2Fintl) | v0.9.0 | Ali Gangji | Starbug intl module. |
-| 2026-11-16 16:43:42 | [starbug/orders](https://www.nuget.org/packages/starbug%2Forders) | v0.9.0 | Ali Gangji | Starbug orders module. |
-| 2026-11-16 16:43:42 | [starbug/orders-admin](https://www.nuget.org/packages/starbug%2Forders-admin) | v0.9.0 | Ali Gangji | Starbug orders administration module. |
-| 2026-11-16 16:43:42 | [starbug/payment-gateways-admin](https://www.nuget.org/packages/starbug%2Fpayment-gateways-admin) | v0.9.0 | Ali Gangji | Starbug payment gateways administration module. |
-| 2026-11-16 16:43:42 | [starbug/payments](https://www.nuget.org/packages/starbug%2Fpayments) | v0.9.0 | Ali Gangji | Starbug payment gateways module. |
-| 2026-11-16 16:43:42 | [starbug/products](https://www.nuget.org/packages/starbug%2Fproducts) | v0.9.0 | Ali Gangji | Starbug products module. |
-| 2026-11-16 16:43:42 | [starbug/products-admin](https://www.nuget.org/packages/starbug%2Fproducts-admin) | v0.9.0 | Ali Gangji | Starbug products administration module. |
-| 2026-11-16 16:43:42 | [starbug/shipping-methods](https://www.nuget.org/packages/starbug%2Fshipping-methods) | v0.9.0 | Ali Gangji | Starbug shipping methods module. |
-| 2026-11-16 16:43:42 | [starbug/shipping-methods-admin](https://www.nuget.org/packages/starbug%2Fshipping-methods-admin) | v0.9.0 | Ali Gangji | Starbug shipping methods administration module. |
-| 2026-11-16 16:43:42 | [starbug/wizard](https://www.nuget.org/packages/starbug%2Fwizard) | v0.9.1 | Ali Gangji | Starbug form wizard module. |
-| 2026-11-16 16:45:04 | [prestashopheaven/runtime-mail](https://www.nuget.org/packages/prestashopheaven%2Fruntime-mail) | v1.0.0 | George van Engers | Module mails in the shop's mail theme: layouts for PrestaShop's mail theme gene… |
-| 2026-11-16 17:01:44 | [golpilolz/db-configs](https://www.nuget.org/packages/golpilolz%2Fdb-configs) | v1.0.1 | Golpilolz and other contribut… | Store configurations in the database and use them in your Symfony application. |
+| 2026-11-16 17:32:43 | [ercikktm/numero-a-letras-mx](https://www.nuget.org/packages/ercikktm%2Fnumero-a-letras-mx) | v1.0.0 | ErcikKtm | Convierte números en formato mexicano a letras, con soporte para modo moneda |
+| 2026-11-16 17:48:35 | [starbug/emails-admin](https://www.nuget.org/packages/starbug%2Femails-admin) | v0.9.0 | Ali Gangji | Admin screens for email templates. |
+| 2026-11-16 17:54:21 | [matheel/matheel-php](https://www.nuget.org/packages/matheel%2Fmatheel-php) | v0.1.0 | Matheel | Official client for the Matheel ZATCA Phase 2 e-invoicing API (Saudi Arabia, Fa… |
+| 2026-11-16 18:02:22 | [starbug/log-admin](https://www.nuget.org/packages/starbug%2Flog-admin) | v0.9.0 | Ali Gangji | Admin screens for the error log. |
+| 2026-11-16 18:05:28 | [jeffersongoncalves/laravel-lgpd](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-lgpd) | 1.0.0 | Jefferson Gonçalves | LGPD toolkit core for Laravel: declare personal data on Eloquent models, build… |
+| 2026-11-16 18:17:07 | [starbug/files-admin](https://www.nuget.org/packages/starbug%2Ffiles-admin) | v0.9.0 | Ali Gangji | Admin screens for the media library. |
 
 ## Data source
 
