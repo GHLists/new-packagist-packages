@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-16T21:23:07Z,hyphaeworks/nullable-embeddable-bundle,1.0.0,Wolfgang Klinger,Symfony bundle for handling nullable Doctrine embeddables
+2026-11-16T21:24:53Z,nmirceac/mailchecker-tools,0.0.2,Mircea Nicolae,"Laravel client for the WeAnswer Mail Checker (API v2): check email addresses (sync, async, batch), receive signed results by webhook, validate form input."
+2026-11-16T21:35:53Z,xddesigners/silverstripe-event-tickets-discounts,6.0.0,Remy Vaartjes,Discount module for SilverStripe Event Tickets
+2026-11-16T21:40:45Z,flashpi/flashpi-laravel,v0.1.0,SIGNIADIGITAL S.A.,"The official Laravel package for Flashpi, the electronic invoicing API for Ecuador's SRI."
+2026-11-16T21:44:37Z,jeffersongoncalves/filament-lgpd-dsar,3.0.0,Jefferson Gonçalves,"Filament plugin to handle LGPD data subject requests (art. 18): verify, export, erase, reject and track the 15-day deadline from your panel."
+2026-11-16T22:14:01Z,jolimardi/filament-focal-point,1.0.0,Joli Mardi,"Point focal pour les images de la media library Spatie dans Filament : choisi en popup sur l'upload, appliqué aux conversions recadrées et au CSS du front"
