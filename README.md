@@ -15,17 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 23:21 UTC
+## Latest list — 2026-11-16 00:22 UTC
 
-New packages created between 2026-11-15 22:21 UTC and 2026-11-15 23:21 UTC.
+New packages created between 2026-11-15 23:21 UTC and 2026-11-16 00:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-15T23-21-43-741213Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-16T00-22-23-332424Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-15 22:51:58 | [webong/proxy-laravel](https://www.nuget.org/packages/webong%2Fproxy-laravel) | 0.4.0 |  | Laravel registry persistence, migrations and Spatie webhook integration for Pro… |
-| 2026-11-15 22:52:38 | [elliottlawson/source-laravel](https://www.nuget.org/packages/elliottlawson%2Fsource-laravel) | v0.2.0 |  | Laravel filesystem driver for source, the Git-backed file store. |
-| 2026-11-15 23:05:23 | [juf/doctrine-import-bundle](https://www.nuget.org/packages/juf%2Fdoctrine-import-bundle) | v0.1.0 | JuF | Generate Doctrine ORM entities and repositories from an existing database. |
+| 2026-11-15 23:47:46 | [ernestdefoe/glimpse](https://www.nuget.org/packages/ernestdefoe%2Fglimpse) | 1.0.0 | Ernest Defoe | Glimpse: Stories for Flarum. Short photo, video and text posts that disappear a… |
+| 2026-11-16 00:04:37 | [sailantis/azera-aop](https://www.nuget.org/packages/sailantis%2Fazera-aop) | v0.4.2 | Sailantis | AOP companion for the Azera framework: additional advice attributes and interce… |
+| 2026-11-16 00:04:39 | [sailantis/azera-auth](https://www.nuget.org/packages/sailantis%2Fazera-auth) | v0.4.2 | Sailantis | Authentication companion for the Azera framework: guards (session, token, JWT,… |
+| 2026-11-16 00:04:42 | [sailantis/azera-cache](https://www.nuget.org/packages/sailantis%2Fazera-cache) | v0.4.2 | Sailantis | Cache companion for the Azera framework: production-grade PSR-16 backends (Redi… |
+| 2026-11-16 00:04:42 | [sailantis/azera-log](https://www.nuget.org/packages/sailantis%2Fazera-log) | v0.4.2 | Sailantis | Logging companion for the Azera framework: Monolog-based logging with Azera-spe… |
+| 2026-11-16 00:04:45 | [sailantis/azera-queue](https://www.nuget.org/packages/sailantis%2Fazera-queue) | v0.4.2 | Sailantis | Queue companion for the Azera framework: async backends (database, Redis, AMQP)… |
+| 2026-11-16 00:05:07 | [oneverse/lazers](https://www.nuget.org/packages/oneverse%2Flazers) | v0.1.0 | Emmanuel Ilori | Server-side PHP SDK for Lazers Signal Protocol v1 |
 
 ## Data source
 

@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-15T23:47:46Z,ernestdefoe/glimpse,1.0.0,Ernest Defoe,"Glimpse: Stories for Flarum. Short photo, video and text posts that disappear after a day, shown as a bar of avatar rings and played full screen, with reactions, private replies, a seen-by list, highlights and moderation."
+2026-11-16T00:04:37Z,sailantis/azera-aop,v0.4.2,Sailantis,"AOP companion for the Azera framework: additional advice attributes and interceptors (Audit, Throttle, Authorize, Validate, CircuitBreaker, Idempotent, Bulkhead, Trace)."
+2026-11-16T00:04:39Z,sailantis/azera-auth,v0.4.2,Sailantis,"Authentication companion for the Azera framework: guards (session, token, JWT, OAuth2), user providers, password reset, email verification, authorization, and two-factor authentication."
+2026-11-16T00:04:42Z,sailantis/azera-cache,v0.4.2,Sailantis,"Cache companion for the Azera framework: production-grade PSR-16 backends (Redis, File, APCu, Memcached, Memory) and decorators (Chain, Taggable, Namespace, Memoizing)."
+2026-11-16T00:04:42Z,sailantis/azera-log,v0.4.2,Sailantis,"Logging companion for the Azera framework: Monolog-based logging with Azera-specific extensions (composite file rotation, console coloring) and ready-made PSR-14 listeners for database, auth, and queue events."
+2026-11-16T00:04:45Z,sailantis/azera-queue,v0.4.2,Sailantis,"Queue companion for the Azera framework: async backends (database, Redis, AMQP), a long-running worker, failed-job storage, a CLI task, and a job dispatcher."
+2026-11-16T00:05:07Z,oneverse/lazers,v0.1.0,Emmanuel Ilori,Server-side PHP SDK for Lazers Signal Protocol v1
