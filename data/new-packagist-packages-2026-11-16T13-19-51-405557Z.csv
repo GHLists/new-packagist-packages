@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-16T12:30:46Z,golovanov/alertloop-php,v0.1.0,,"Incident alerts and reliable delivery for PHP sites on shared hosting: Telegram, MAX and email, MySQL only."
+2026-11-16T12:35:18Z,studio-variable/kirby-dev-kit,v1.0.0,Studio Variable,Studio Variable's Kirby plugins for building a site: CSS variants and assets versioning
+2026-11-16T12:35:19Z,studio-variable/kirby-prod-kit,v1.0.0,Studio Variable,Studio Variable's Kirby plugins for a live site: edit button and cookieless analytics
+2026-11-16T12:44:39Z,mathsyo/larabase,v0.1.0,,"Laravel application starter with Sail, Filament, and a production image built from the same runtime."
+2026-11-16T13:01:58Z,dud/contao-pdf-preview,1.0.4,Gunnar Haeuschkel / Drum und Dran,"PDF-Dateien als responsive Bilder in News, Events und allen Inhaltselementen mit Bildauswahl – mit Seitenauswahl, wichtigem Bereich, Sicherheitsprüfung und Virenscan."
+2026-11-16T13:13:55Z,flytachi/winter-front-nuxt,v1.0.0-rc.1,Flytachi,"A Nuxt frontend in a Winter application: declared in one line, served by the application's own HTTP server, built into its image"

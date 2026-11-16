@@ -15,21 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 12:18 UTC
+## Latest list — 2026-11-16 13:19 UTC
 
-New packages created between 2026-11-16 11:19 UTC and 2026-11-16 12:18 UTC.
+New packages created between 2026-11-16 12:18 UTC and 2026-11-16 13:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-16T12-18-28-574794Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-16T13-19-51-405557Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-16 11:25:30 | [digitalize/sms](https://www.nuget.org/packages/digitalize%2Fsms) | v1.0.1 | Digitalize Lab | PHP client for the Digitalize Lab SMS API: OTP and alert messages from approved… |
-| 2026-11-16 11:29:53 | [pact-protocol/core](https://www.nuget.org/packages/pact-protocol%2Fcore) | v0.2.0 |  | Independent PHP implementation of PACT Core and Swarm |
-| 2026-11-16 11:30:07 | [pact-protocol/laravel](https://www.nuget.org/packages/pact-protocol%2Flaravel) | v0.2.0 |  | Laravel master and client runtime for PACT personal federations |
-| 2026-11-16 11:33:49 | [buildwebproject/sylius-admin-two-factor-plugin](https://www.nuget.org/packages/buildwebproject%2Fsylius-admin-two-factor-plugin) | v1.0.0 | BuildWebProject | Two-factor sign-in (TOTP authenticator app + one-time backup codes) for the Syl… |
-| 2026-11-16 11:47:51 | [felipeverse/blougly](https://www.nuget.org/packages/felipeverse%2Fblougly) | v0.1.0 | Felipe Alves (felipeverse) | Blougly: an ugly static site generator that gets out of your way |
-| 2026-11-16 11:49:02 | [mr-glubschi/seat-quick-sell](https://www.nuget.org/packages/mr-glubschi%2Fseat-quick-sell) | v0.1.0 |  | SeAT plugin: price items for selling at the market where you are and copy them… |
-| 2026-11-16 12:03:09 | [buildwebproject/sylius-razorpay-plugin](https://www.nuget.org/packages/buildwebproject%2Fsylius-razorpay-plugin) | v1.0.0-beta.1 | BuildWebProject | Razorpay Standard Checkout for Sylius 2: UPI, cards, netbanking and wallets, si… |
+| 2026-11-16 12:30:46 | [golovanov/alertloop-php](https://www.nuget.org/packages/golovanov%2Falertloop-php) | v0.1.0 |  | Incident alerts and reliable delivery for PHP sites on shared hosting: Telegram… |
+| 2026-11-16 12:35:18 | [studio-variable/kirby-dev-kit](https://www.nuget.org/packages/studio-variable%2Fkirby-dev-kit) | v1.0.0 | Studio Variable | Studio Variable's Kirby plugins for building a site: CSS variants and assets ve… |
+| 2026-11-16 12:35:19 | [studio-variable/kirby-prod-kit](https://www.nuget.org/packages/studio-variable%2Fkirby-prod-kit) | v1.0.0 | Studio Variable | Studio Variable's Kirby plugins for a live site: edit button and cookieless ana… |
+| 2026-11-16 12:44:39 | [mathsyo/larabase](https://www.nuget.org/packages/mathsyo%2Flarabase) | v0.1.0 |  | Laravel application starter with Sail, Filament, and a production image built f… |
+| 2026-11-16 13:01:58 | [dud/contao-pdf-preview](https://www.nuget.org/packages/dud%2Fcontao-pdf-preview) | 1.0.4 | Gunnar Haeuschkel / Drum und… | PDF-Dateien als responsive Bilder in News, Events und allen Inhaltselementen mi… |
+| 2026-11-16 13:13:55 | [flytachi/winter-front-nuxt](https://www.nuget.org/packages/flytachi%2Fwinter-front-nuxt) | v1.0.0-rc.1 | Flytachi | A Nuxt frontend in a Winter application: declared in one line, served by the ap… |
 
 ## Data source
 
