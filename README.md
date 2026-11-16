@@ -15,20 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 13:19 UTC
+## Latest list — 2026-11-16 14:20 UTC
 
-New packages created between 2026-11-16 12:18 UTC and 2026-11-16 13:19 UTC.
+New packages created between 2026-11-16 13:19 UTC and 2026-11-16 14:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-16T13-19-51-405557Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-16T14-20-36-189024Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-16 12:30:46 | [golovanov/alertloop-php](https://www.nuget.org/packages/golovanov%2Falertloop-php) | v0.1.0 |  | Incident alerts and reliable delivery for PHP sites on shared hosting: Telegram… |
-| 2026-11-16 12:35:18 | [studio-variable/kirby-dev-kit](https://www.nuget.org/packages/studio-variable%2Fkirby-dev-kit) | v1.0.0 | Studio Variable | Studio Variable's Kirby plugins for building a site: CSS variants and assets ve… |
-| 2026-11-16 12:35:19 | [studio-variable/kirby-prod-kit](https://www.nuget.org/packages/studio-variable%2Fkirby-prod-kit) | v1.0.0 | Studio Variable | Studio Variable's Kirby plugins for a live site: edit button and cookieless ana… |
-| 2026-11-16 12:44:39 | [mathsyo/larabase](https://www.nuget.org/packages/mathsyo%2Flarabase) | v0.1.0 |  | Laravel application starter with Sail, Filament, and a production image built f… |
-| 2026-11-16 13:01:58 | [dud/contao-pdf-preview](https://www.nuget.org/packages/dud%2Fcontao-pdf-preview) | 1.0.4 | Gunnar Haeuschkel / Drum und… | PDF-Dateien als responsive Bilder in News, Events und allen Inhaltselementen mi… |
-| 2026-11-16 13:13:55 | [flytachi/winter-front-nuxt](https://www.nuget.org/packages/flytachi%2Fwinter-front-nuxt) | v1.0.0-rc.1 | Flytachi | A Nuxt frontend in a Winter application: declared in one line, served by the ap… |
+| 2026-11-16 13:25:08 | [friendzy/magento-module](https://www.nuget.org/packages/friendzy%2Fmagento-module) | 1.0.1 | SWARMSOFT S.R.L. | Friendzy: shoppers browse your store together, and with your advisers. |
+| 2026-11-16 13:42:20 | [dakotajune/normalize](https://www.nuget.org/packages/dakotajune%2Fnormalize) | v1.0.0 |  | An Eloquent cast that normalizes string attributes through Stringable operation… |
+| 2026-11-16 13:49:14 | [dakotajune/blueprint_policies](https://www.nuget.org/packages/dakotajune%2Fblueprint_policies) | v1.0.0 |  | First-class authorization policies for Laravel Blueprint: describe who can do w… |
 
 ## Data source
 

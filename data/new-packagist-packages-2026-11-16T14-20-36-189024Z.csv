@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-16T13:25:08Z,friendzy/magento-module,1.0.1,SWARMSOFT S.R.L.,"Friendzy: shoppers browse your store together, and with your advisers."
+2026-11-16T13:42:20Z,dakotajune/normalize,v1.0.0,,"An Eloquent cast that normalizes string attributes through Stringable operations, with a `normalize:` column modifier for Laravel Blueprint drafts."
+2026-11-16T13:49:14Z,dakotajune/blueprint_policies,v1.0.0,,"First-class authorization policies for Laravel Blueprint: describe who can do what in draft.yaml, get policies, controller checks and registration."
