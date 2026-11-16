@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-16T06:32:42Z,citrus-framework/schedule,v1.0.0,take64,php schedule library
+2026-11-16T06:44:06Z,antlerslabs/runes-laravel,v0.1.0,Antlers Labs,Laravel SDK for Runes error tracking
+2026-11-16T07:10:11Z,anjan011/2fa-support,v1.0.0,Anjan,A Laravel package for TOTP-based 2FA with QR image and backup codes.
