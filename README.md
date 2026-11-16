@@ -15,24 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 15:21 UTC
+## Latest list — 2026-11-16 16:18 UTC
 
-New packages created between 2026-11-16 14:20 UTC and 2026-11-16 15:21 UTC.
+New packages created between 2026-11-16 15:21 UTC and 2026-11-16 16:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-16T15-21-59-768769Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-16T16-18-29-978502Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-16 14:25:36 | [veyqo/veyqo-php](https://www.nuget.org/packages/veyqo%2Fveyqo-php) | v0.1.0 |  | Official PHP library for the Veyqo payments API: payments, checkout, refunds, s… |
-| 2026-11-16 14:35:02 | [company4-dev/ico](https://www.nuget.org/packages/company4-dev%2Fico) | 1.4 | Jas-n | An easy-to-use library to generate valid ICO files. |
-| 2026-11-16 14:39:30 | [starbug/css](https://www.nuget.org/packages/starbug%2Fcss) | v0.9.0 | Ali Gangji | Stylesheet discovery and the css template helper. |
-| 2026-11-16 14:42:24 | [theagency2627/socialite-launcher](https://www.nuget.org/packages/theagency2627%2Fsocialite-launcher) | v0.1.0 |  | Socialite provider voor inloggen met de Game Launcher. |
-| 2026-11-16 14:43:28 | [tornado-engine/access-microsoft-ad](https://www.nuget.org/packages/tornado-engine%2Faccess-microsoft-ad) | v0.1.0 |  | Tornado Engine module: gives roles to Active Directory OUs, groups and users, s… |
-| 2026-11-16 14:43:38 | [tornado-engine/access-microsoft-entra](https://www.nuget.org/packages/tornado-engine%2Faccess-microsoft-entra) | v0.1.0 |  | Tornado Engine module: gives roles to Entra ID groups and users, synced nightly. |
-| 2026-11-16 14:47:05 | [funset/mfa-email](https://www.nuget.org/packages/funset%2Fmfa-email) | v14.0.2 | Ralf Freit; Benno Nijholt | E-Mail MFA Provider: provides multi-factor authentication via e-mail for the TY… |
-| 2026-11-16 15:01:06 | [starbug/doctrine](https://www.nuget.org/packages/starbug%2Fdoctrine) | v0.9.0 | Ali Gangji | Doctrine based implementations of database module interfaces. |
-| 2026-11-16 15:08:21 | [citrus-framework/notification](https://www.nuget.org/packages/citrus-framework%2Fnotification) | v1.0.0 | take64 | php notification library |
-| 2026-11-16 15:16:41 | [ahmedelpopown/lpg-laravel-payment-gateway](https://www.nuget.org/packages/ahmedelpopown%2Flpg-laravel-payment-gateway) | v1.0.0 |  | Reusable Laravel Payment Core for Stripe, PayPal, refunds, webhooks and reconci… |
+| 2026-11-16 15:33:35 | [igne-agency/laravel-auth](https://www.nuget.org/packages/igne-agency%2Flaravel-auth) | v0.1.0 | Rick Blanksma | Headless authentication for Laravel apps on top of Laravel Fortify and Sanctum:… |
+| 2026-11-16 15:41:19 | [starbug/emails](https://www.nuget.org/packages/starbug%2Femails) | v0.9.0 | Ali Gangji | Starbug emails module. |
+| 2026-11-16 15:41:19 | [starbug/files](https://www.nuget.org/packages/starbug%2Ffiles) | v0.9.0 | Ali Gangji | Starbug files module. |
+| 2026-11-16 15:41:19 | [starbug/log](https://www.nuget.org/packages/starbug%2Flog) | v0.9.0 | Ali Gangji | Starbug logging module. |
+| 2026-11-16 15:41:19 | [starbug/users](https://www.nuget.org/packages/starbug%2Fusers) | v0.9.0 | Ali Gangji | Starbug users module. |
+| 2026-11-16 15:53:24 | [starbug/imports](https://www.nuget.org/packages/starbug%2Fimports) | v0.9.0 |  | Imports module. |
+| 2026-11-16 15:53:24 | [starbug/menus](https://www.nuget.org/packages/starbug%2Fmenus) | v0.9.0 | Ali Gangji | Starbug menus module. |
+| 2026-11-16 15:54:10 | [metadrop/gocontact-php](https://www.nuget.org/packages/metadrop%2Fgocontact-php) | 1.0.0 | Omar Lopesino | PHP client for the GoContact CCaaS REST API: contacts, databases, extrafields a… |
+| 2026-11-16 16:11:51 | [starbug/content](https://www.nuget.org/packages/starbug%2Fcontent) | v0.9.0 | Ali Gangji | Starbug content module. |
+| 2026-11-16 16:11:51 | [starbug/settings-admin](https://www.nuget.org/packages/starbug%2Fsettings-admin) | v0.9.0 | Ali Gangji | Admin UI for Starbug settings module. |
 
 ## Data source
 
