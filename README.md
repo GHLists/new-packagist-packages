@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 08:20 UTC
+## Latest list — 2026-11-16 09:22 UTC
 
-New packages created between 2026-11-16 07:21 UTC and 2026-11-16 08:20 UTC.
+New packages created between 2026-11-16 08:20 UTC and 2026-11-16 09:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-16T08-20-37-420812Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-16T09-22-44-466148Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-16 07:53:14 | [jason/laravel-logtail](https://www.nuget.org/packages/jason%2Flaravel-logtail) | v1.1.0 | 小陈叔叔 | Logtail (Better Stack) log driver for Laravel with call-site origin tracking. |
+| 2026-11-16 08:43:47 | [jevo/jforms](https://www.nuget.org/packages/jevo%2Fjforms) | 1.0.0 |  | Secure Blade form submissions and responses for Evolution CMS |
+| 2026-11-16 09:13:12 | [xiaoh0o/queue](https://www.nuget.org/packages/xiaoh0o%2Fqueue) | 1.0.0 |  | PHP queue |
 
 ## Data source
 
