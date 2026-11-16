@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-16T20:34:55Z,adminphp-cms/core,v0.1.0,Greg Marineau,"A content management admin for Laravel, inspired by Twill"
+2026-11-16T20:54:32Z,vusys/zefram,v0.1.0,Bryan,Skip PHPUnit tests whose executed code hasn't changed since they last passed. Faster than light.
+2026-11-16T21:03:30Z,mertaydin/laravel-composer-monitor,v0.1.6,,"A Laravel dashboard for Composer dependency health, outdated packages, security advisories and abandoned dependencies."
