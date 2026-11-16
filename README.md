@@ -15,21 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 03:19 UTC
+## Latest list — 2026-11-16 04:21 UTC
 
-New packages created between 2026-11-16 02:22 UTC and 2026-11-16 03:19 UTC.
+New packages created between 2026-11-16 03:19 UTC and 2026-11-16 04:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-16T03-19-05-457325Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-16T04-21-50-218559Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-16 02:31:30 | [configdirector/openfeature-server-provider](https://www.nuget.org/packages/configdirector%2Fopenfeature-server-provider) | v0.1.0 | ConfigDirector | OpenFeature server provider for ConfigDirector. ConfigDirector is a remote conf… |
-| 2026-11-16 02:38:39 | [thuraaung2493/laravel-nrc-kit](https://www.nuget.org/packages/thuraaung2493%2Flaravel-nrc-kit) | v0.1.0 |  | Offline Myanmar NRC validation, conversion and native Blade selector |
-| 2026-11-16 02:42:26 | [otaqq/form-datalayer](https://www.nuget.org/packages/otaqq%2Fform-datalayer) | v0.2.0 | otaqq | Measure every form step (input, confirm, complete, error) with Google Tag Manag… |
-| 2026-11-16 02:43:29 | [sailantis/laravel-volucer](https://www.nuget.org/packages/sailantis%2Flaravel-volucer) | v0.4.2 |  | Run a Laravel application on volucer's persistent worker protocol. |
-| 2026-11-16 02:43:31 | [sailantis/symfony-volucer](https://www.nuget.org/packages/sailantis%2Fsymfony-volucer) | v0.4.2 |  | Run a Symfony application on volucer's persistent worker protocol: kernel reboo… |
-| 2026-11-16 02:43:33 | [sailantis/spiral-volucer](https://www.nuget.org/packages/sailantis%2Fspiral-volucer) | v0.4.2 |  | Run a Spiral application on volucer's persistent worker protocol. |
-| 2026-11-16 02:48:21 | [campkitchenus/flarum-camp-water](https://www.nuget.org/packages/campkitchenus%2Fflarum-camp-water) | v1.0.0 | Camp Kitchen US | Add a [campwater] tag to Flarum posts that shows how much water a car-camping t… |
+| 2026-11-16 03:32:18 | [firstlightui/app-shortcuts](https://www.nuget.org/packages/firstlightui%2Fapp-shortcuts) | v1.0.0-alpha1 |  | Open a screen or run a PHP action of your NativePHP app from Siri, Spotlight, t… |
+| 2026-11-16 03:46:08 | [kusikusicms/acl](https://www.nuget.org/packages/kusikusicms%2Facl) | v13.3.0 |  | Entity authorization for KusikusiCMS. |
 
 ## Data source
 

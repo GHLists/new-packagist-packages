@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-16T03:32:18Z,firstlightui/app-shortcuts,v1.0.0-alpha1,,"Open a screen or run a PHP action of your NativePHP app from Siri, Spotlight, the Shortcuts app and the app icon on iOS, and from launcher shortcuts on Android."
+2026-11-16T03:46:08Z,kusikusicms/acl,v13.3.0,,Entity authorization for KusikusiCMS.
