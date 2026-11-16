@@ -15,20 +15,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 22:19 UTC
+## Latest list — 2026-11-16 23:19 UTC
 
-New packages created between 2026-11-16 21:19 UTC and 2026-11-16 22:19 UTC.
+New packages created between 2026-11-16 22:19 UTC and 2026-11-16 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-16T22-19-01-7385Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-16T23-19-27-777384Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-16 21:23:07 | [hyphaeworks/nullable-embeddable-bundle](https://www.nuget.org/packages/hyphaeworks%2Fnullable-embeddable-bundle) | 1.0.0 | Wolfgang Klinger | Symfony bundle for handling nullable Doctrine embeddables |
-| 2026-11-16 21:24:53 | [nmirceac/mailchecker-tools](https://www.nuget.org/packages/nmirceac%2Fmailchecker-tools) | 0.0.2 | Mircea Nicolae | Laravel client for the WeAnswer Mail Checker (API v2): check email addresses (s… |
-| 2026-11-16 21:35:53 | [xddesigners/silverstripe-event-tickets-discounts](https://www.nuget.org/packages/xddesigners%2Fsilverstripe-event-tickets-discounts) | 6.0.0 | Remy Vaartjes | Discount module for SilverStripe Event Tickets |
-| 2026-11-16 21:40:45 | [flashpi/flashpi-laravel](https://www.nuget.org/packages/flashpi%2Fflashpi-laravel) | v0.1.0 | SIGNIADIGITAL S.A. | The official Laravel package for Flashpi, the electronic invoicing API for Ecua… |
-| 2026-11-16 21:44:37 | [jeffersongoncalves/filament-lgpd-dsar](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-lgpd-dsar) | 3.0.0 | Jefferson Gonçalves | Filament plugin to handle LGPD data subject requests (art. 18): verify, export,… |
-| 2026-11-16 22:14:01 | [jolimardi/filament-focal-point](https://www.nuget.org/packages/jolimardi%2Ffilament-focal-point) | 1.0.0 | Joli Mardi | Point focal pour les images de la media library Spatie dans Filament : choisi e… |
+| 2026-11-16 22:23:01 | [jeffersongoncalves/filament-lgpd](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-lgpd) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-lgpd: a personal data inventory page (LGPD) listing… |
+| 2026-11-16 22:31:46 | [sloukapetr/eet-laravel-package](https://www.nuget.org/packages/sloukapetr%2Feet-laravel-package) | v1.0.0 | Petr Slouka | Laravel package for the Czech EET 2.0 SOAP interface and CA EET certificate ren… |
+| 2026-11-16 22:38:04 | [universeitgroup/kurdish-sorani](https://www.nuget.org/packages/universeitgroup%2Fkurdish-sorani) | v0.1.0 | Universe IT Group | Kurdish (Sorani) toolkit for Laravel: text normalization, Kurdish digits, IQD f… |
+| 2026-11-16 22:38:16 | [jeffersongoncalves/filament-lgpd-consent](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-lgpd-consent) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-lgpd-consent: browse the append-only LGPD consent l… |
+| 2026-11-16 22:38:16 | [ktulchu/php-webhook-inbox](https://www.nuget.org/packages/ktulchu%2Fphp-webhook-inbox) | v0.2.0 |  | Framework-independent transactional PostgreSQL webhook inbox for PHP |
+| 2026-11-16 22:40:49 | [jacekkow/enable-banking-api](https://www.nuget.org/packages/jacekkow%2Fenable-banking-api) | v1.0.0 |  | PSR-18 client for the Enable Banking API (Account Information Service) |
+| 2026-11-16 22:49:33 | [jeffersongoncalves/filament-lgpd-retention](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-lgpd-retention) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-lgpd-retention: preview and run LGPD data retention… |
+| 2026-11-16 22:51:28 | [triploide/toolbox](https://www.nuget.org/packages/triploide%2Ftoolbox) | 2.0.0 | Maximiliano Yañez | A Laravel CRUD toolkit that auto-resolves controllers, dataproviders, repositor… |
+| 2026-11-16 23:01:14 | [yellow-three/omnipay-iyzico](https://www.nuget.org/packages/yellow-three%2Fomnipay-iyzico) | v0.1.0 |  | Iyzico gateway for Omnipay v3 payment processing library |
+| 2026-11-16 23:05:34 | [jeffersongoncalves/laravel-lgpd-audit-log](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-lgpd-audit-log) | 1.0.0 | Jefferson Gonçalves | LGPD audit trail for Laravel: an append-only, hash-chained log of who accessed,… |
+| 2026-11-16 23:12:00 | [jeffersongoncalves/laravel-lgpd-incidents](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-lgpd-incidents) | 1.0.0 | Jefferson Gonçalves | LGPD security incident register for Laravel: track incidents, risk assessment a… |
+| 2026-11-16 23:18:18 | [jeffersongoncalves/laravel-lgpd-records](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-lgpd-records) | 1.0.0 | Jefferson Gonçalves | LGPD records of processing activities (ROPA) for Laravel: purposes, legal bases… |
 
 ## Data source
 

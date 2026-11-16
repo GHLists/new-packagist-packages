@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-11-16T22:23:01Z,jeffersongoncalves/filament-lgpd,3.0.0,Jefferson Gonçalves,"Filament plugin for laravel-lgpd: a personal data inventory page (LGPD) listing every declared column with its category, purpose, legal basis, retention and anonymization."
+2026-11-16T22:31:46Z,sloukapetr/eet-laravel-package,v1.0.0,Petr Slouka,Laravel package for the Czech EET 2.0 SOAP interface and CA EET certificate renewal.
+2026-11-16T22:38:04Z,universeitgroup/kurdish-sorani,v0.1.0,Universe IT Group,"Kurdish (Sorani) toolkit for Laravel: text normalization, Kurdish digits, IQD formatting, number-to-words, Iraqi phone validation and ckb translations."
+2026-11-16T22:38:16Z,jeffersongoncalves/filament-lgpd-consent,3.0.0,Jefferson Gonçalves,"Filament plugin for laravel-lgpd-consent: browse the append-only LGPD consent ledger (art. 8) by purpose, terms version and decision, with the proof of each consent."
+2026-11-16T22:38:16Z,ktulchu/php-webhook-inbox,v0.2.0,,Framework-independent transactional PostgreSQL webhook inbox for PHP
+2026-11-16T22:40:49Z,jacekkow/enable-banking-api,v1.0.0,,PSR-18 client for the Enable Banking API (Account Information Service)
+2026-11-16T22:49:33Z,jeffersongoncalves/filament-lgpd-retention,3.0.0,Jefferson Gonçalves,"Filament plugin for laravel-lgpd-retention: preview and run LGPD data retention, re-apply erasure after a backup restore, and browse the tombstones of anonymized columns."
+2026-11-16T22:51:28Z,triploide/toolbox,2.0.0,Maximiliano Yañez,"A Laravel CRUD toolkit that auto-resolves controllers, dataproviders, repositories, validators, filters, and more by convention."
+2026-11-16T23:01:14Z,yellow-three/omnipay-iyzico,v0.1.0,,Iyzico gateway for Omnipay v3 payment processing library
+2026-11-16T23:05:34Z,jeffersongoncalves/laravel-lgpd-audit-log,1.0.0,Jefferson Gonçalves,"LGPD audit trail for Laravel: an append-only, hash-chained log of who accessed, changed or anonymized personal data, with tamper verification."
+2026-11-16T23:12:00Z,jeffersongoncalves/laravel-lgpd-incidents,1.0.0,Jefferson Gonçalves,"LGPD security incident register for Laravel: track incidents, risk assessment and the 3-business-day ANPD and data subject notification deadline (Resolução CD/ANPD 15/2024)."
+2026-11-16T23:18:18Z,jeffersongoncalves/laravel-lgpd-records,1.0.0,Jefferson Gonçalves,"LGPD records of processing activities (ROPA) for Laravel: purposes, legal bases, recipients and international transfers, joined with the personal data inventory, plus the data protection officer's public contact."
