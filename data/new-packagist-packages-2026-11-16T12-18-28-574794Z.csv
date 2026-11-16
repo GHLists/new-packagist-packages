@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-16T11:25:30Z,digitalize/sms,v1.0.1,Digitalize Lab,PHP client for the Digitalize Lab SMS API: OTP and alert messages from approved templates.
+2026-11-16T11:29:53Z,pact-protocol/core,v0.2.0,,Independent PHP implementation of PACT Core and Swarm
+2026-11-16T11:30:07Z,pact-protocol/laravel,v0.2.0,,Laravel master and client runtime for PACT personal federations
+2026-11-16T11:33:49Z,buildwebproject/sylius-admin-two-factor-plugin,v1.0.0,BuildWebProject,"Two-factor sign-in (TOTP authenticator app + one-time backup codes) for the Sylius 2 admin panel, with lockout, optional enforcement for every administrator and admin API protection."
+2026-11-16T11:47:51Z,felipeverse/blougly,v0.1.0,Felipe Alves (felipeverse),Blougly: an ugly static site generator that gets out of your way
+2026-11-16T11:49:02Z,mr-glubschi/seat-quick-sell,v0.1.0,,SeAT plugin: price items for selling at the market where you are and copy them into EVE's Sell Items window.
+2026-11-16T12:03:09Z,buildwebproject/sylius-razorpay-plugin,v1.0.0-beta.1,BuildWebProject,"Razorpay Standard Checkout for Sylius 2: UPI, cards, netbanking and wallets, signed webhooks, reconciliation and automatic refunds, built on the Sylius Payment Request API."
