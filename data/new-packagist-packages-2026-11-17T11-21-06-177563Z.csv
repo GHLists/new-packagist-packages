@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-17T10:24:36Z,itmosoft/laravel-comments,1.0.1,,Polymorphic comments and threaded discussions for Laravel Eloquent models.
+2026-11-17T10:28:10Z,itmosoft/laravel-workflows,1.0.1,,"Configurable stateful business workflows, transitions, and execution history for Laravel applications."
+2026-11-17T10:33:12Z,itmosoft/laravel-file-manager,v1.0.0,,"File uploads, folder organization, polymorphic ownership, and storage metadata for Laravel applications."
+2026-11-17T10:36:25Z,itmosoft/laravel-analytics,v1.0.0,,Application event tracking and time-based metric aggregation for Laravel applications.
+2026-11-17T10:42:02Z,kayko/mulla-laravel,v0.0.1,,"Official Laravel integration for the Mulla payment gateway (MTN MoMo & Airtel Money, Rwanda)."
+2026-11-17T10:42:05Z,itmosoft/laravel-api-keys,v1.0.0,,"Secure, scoped API key management for Laravel applications, with hashed secrets, expiration, revocation, and usage tracking."
+2026-11-17T10:42:45Z,wovosoft/laravel-uniexporter,v1.0.0,Narayan Adhikary,"Describe a document once as a schema and export it to PDF, DOCX, XLSX or any format with a pluggable driver"
+2026-11-17T10:49:12Z,jerry-ai-2026/db-tools,v1.0.0,Jerry,Laravel 数据库导入/导出工具命令集：JSON/CSV/Excel 导入，JSON/迁移/种子导出，连接信息查看。
+2026-11-17T11:04:57Z,leverprice/leverprice-php,v0.3.0,Leverprice,Server-side SDK for Leverprice price experiments
+2026-11-17T11:08:25Z,nickdekruijk/listmailing-php,0.1.0,Nick de Kruijk,"Client for the ListMailing sign-up API, with an optional Laravel layer: config, facade, a queued job that retries safely and a fake for tests"
