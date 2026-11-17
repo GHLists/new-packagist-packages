@@ -15,29 +15,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 16:20 UTC
+## Latest list — 2026-11-17 17:22 UTC
 
-New packages created between 2026-11-17 15:21 UTC and 2026-11-17 16:20 UTC.
+New packages created between 2026-11-17 16:20 UTC and 2026-11-17 17:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-17T16-20-47-440547Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-17T17-22-05-469065Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-17 15:22:29 | [spyck/automation-bundle](https://www.nuget.org/packages/spyck%2Fautomation-bundle) | 1.0.0 | Willem Verspyck | Automation Bundle for Symfony |
-| 2026-11-17 15:31:00 | [tornado-engine/github](https://www.nuget.org/packages/tornado-engine%2Fgithub) | v0.1.2 |  | Tornado Engine module: connect a GitHub account, and publish modules to GitHub… |
-| 2026-11-17 15:33:03 | [youvision/think-enum](https://www.nuget.org/packages/youvision%2Fthink-enum) | v1.0 | youvision | 基于 ThinkPHP 8 的枚举增强工具，更方便地在项目中定义并使用枚举 |
-| 2026-11-17 15:37:27 | [wonder-image/rsvp](https://www.nuget.org/packages/wonder-image%2Frsvp) | v2.1.0 |  | RSVP plugin for wonder-image/new-site projects. |
-| 2026-11-17 15:51:05 | [darvis/laravel-mfa](https://www.nuget.org/packages/darvis%2Flaravel-mfa) | v1.1.0 | Arvid de Jong | Login that survives an outage: two factor authentication (2FA), magic link, ema… |
-| 2026-11-17 15:52:25 | [drupal-security/scanner](https://www.nuget.org/packages/drupal-security%2Fscanner) | 1.0.0 | Mayank Gupta | Psalm taint-analysis security scanner for Drupal — finds XSS, SQL injection, RC… |
-| 2026-11-17 15:52:50 | [upassist/neos-ui-thememode](https://www.nuget.org/packages/upassist%2Fneos-ui-thememode) | v1.0.0 |  | Light, dark and auto theme mode for the Neos CMS backend (content UI and backen… |
-| 2026-11-17 15:54:37 | [brandcom/silverstripe-userforms-submission-cleanup](https://www.nuget.org/packages/brandcom%2Fsilverstripe-userforms-submission-cleanup) | v1.0.1 | brandcom | Deletes Silverstripe userforms submissions older than a retention window, inclu… |
-| 2026-11-17 15:56:29 | [jeffersongoncalves/laravel-ccpa](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-ccpa) | 1.0.0 | Jefferson Gonçalves | CCPA/CPRA toolkit core for Laravel: declare personal information on Eloquent mo… |
-| 2026-11-17 15:58:37 | [happenv-com/filament-search](https://www.nuget.org/packages/happenv-com%2Ffilament-search) | v0.1.0 | Happenv sp. z o.o.; webard | A Cmd+K palette for Filament panels that renders results from pluggable sources. |
-| 2026-11-17 16:05:34 | [jeffersongoncalves/laravel-ccpa-opt-out](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-ccpa-opt-out) | 1.0.0 | Jefferson Gonçalves | CCPA/CPRA opt-out ledger for Laravel: Do Not Sell or Share (§1798.120) and Limi… |
-| 2026-11-17 16:14:18 | [rusender/rusender-php](https://www.nuget.org/packages/rusender%2Frusender-php) | v0.1.0 | RuSender | Official PHP SDK for the RuSender public API |
-| 2026-11-17 16:15:07 | [jeffersongoncalves/laravel-ccpa-requests](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-ccpa-requests) | 1.0.0 | Jefferson Gonçalves | CCPA/CPRA consumer requests for Laravel: right to know, delete and correct, ver… |
-| 2026-11-17 16:15:49 | [jeffersongoncalves/laravel-ccpa-retention](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-ccpa-retention) | 1.0.0 | Jefferson Gonçalves | CCPA/CPRA retention for Laravel (§1798.100(a)(3)): deidentify personal informat… |
-| 2026-11-17 16:16:22 | [jeffersongoncalves/laravel-ccpa-audit-log](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-ccpa-audit-log) | 1.0.0 | Jefferson Gonçalves | CCPA/CPRA audit log for Laravel: tamper-evident, hash-chained record of who vie… |
+| 2026-11-17 16:24:57 | [jeffersongoncalves/laravel-ccpa-breaches](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-ccpa-breaches) | 1.0.0 | Jefferson Gonçalves | California data breach register for Laravel (Cal. Civ. Code §1798.82): notify r… |
+| 2026-11-17 16:25:31 | [jeffersongoncalves/laravel-ccpa-notices](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-ccpa-notices) | 1.0.0 | Jefferson Gonçalves | CCPA/CPRA notices for Laravel: privacy policy (§1798.130(a)(5)) and notice at c… |
+| 2026-11-17 16:32:08 | [hostkurd/flocms-frontend](https://www.nuget.org/packages/hostkurd%2Fflocms-frontend) | v0.1.0 | HostKurd | The public side of a FloCMS website: components written once and used in templa… |
+| 2026-11-17 16:34:33 | [jeffersongoncalves/laravel-ccpa-vendors](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-ccpa-vendors) | 1.0.0 | Jefferson Gonçalves | CCPA/CPRA vendor register for Laravel: service providers, contractors and third… |
+| 2026-11-17 16:35:10 | [jeffersongoncalves/laravel-ccpa-risk-assessments](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-ccpa-risk-assessments) | 1.0.0 | Jefferson Gonçalves | CCPA/CPRA risk assessments for Laravel (CCPA Regulations Article 10): risks sco… |
+| 2026-11-17 16:35:44 | [jeffersongoncalves/laravel-ccpa-minors](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-ccpa-minors) | 1.0.0 | Jefferson Gonçalves | CCPA/CPRA minors for Laravel (§1798.120(c)): no sale or sharing of personal inf… |
+| 2026-11-17 16:39:02 | [helori/php-sign](https://www.nuget.org/packages/helori%2Fphp-sign) | v1.0 | Helori Lanos | A framework agnostic PHP library to sign PDF documents |
+| 2026-11-17 16:42:59 | [webwizardsusa/rich-editor-plus-code](https://www.nuget.org/packages/webwizardsusa%2Frich-editor-plus-code) | v0.1.1 | Jamie Holly | Code blocks for Rich Editor Plus: pick the language, line numbers and highlight… |
+| 2026-11-17 16:48:25 | [tohawk89/plan-block](https://www.nuget.org/packages/tohawk89%2Fplan-block) | v0.1.0 | Nazar | Notion-style block system for Laravel: flexible itineraries, backup plans and l… |
+| 2026-11-17 17:05:23 | [ricfreire/mautic-theme-runner](https://www.nuget.org/packages/ricfreire%2Fmautic-theme-runner) | v1.0.0 |  | Runner - A free, responsive MJML email theme for Mautic, designed for sports an… |
+| 2026-11-17 17:08:04 | [upassist/neos-ui-sidebarcollapse](https://www.nuget.org/packages/upassist%2Fneos-ui-sidebarcollapse) | v1.0.0 |  | Icon-only collapsed sidebar for the Neos CMS backend modules |
+| 2026-11-17 17:10:06 | [mateusjunges/coding-style](https://www.nuget.org/packages/mateusjunges%2Fcoding-style) | v0.1.1 | Mateus Junges | Opinionated coding style tooling for Laravel applications |
 
 ## Data source
 
