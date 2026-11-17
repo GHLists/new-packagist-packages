@@ -15,21 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 02:21 UTC
+## Latest list — 2026-11-17 03:21 UTC
 
-New packages created between 2026-11-17 01:18 UTC and 2026-11-17 02:21 UTC.
+New packages created between 2026-11-17 02:21 UTC and 2026-11-17 03:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-17T02-21-02-549495Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-17T03-21-25-65969Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-17 01:19:05 | [vagkaefer/sicredi-cobranca](https://www.nuget.org/packages/vagkaefer%2Fsicredi-cobranca) | v1.0.0 | Vagner Kaefer | Pacote Laravel para a API de Cobrança do Sicredi: boleto, boleto híbrido com Pi… |
-| 2026-11-17 01:29:30 | [se7enxweb/ticketsystem](https://www.nuget.org/packages/se7enxweb%2Fticketsystem) | v1.0.0 | 7x; xrow GbR | ticketsystem for Exponential: help desk tickets as content objects, with readab… |
-| 2026-11-17 01:38:42 | [thomas-0816/duckdb-quack-protocol-php](https://www.nuget.org/packages/thomas-0816%2Fduckdb-quack-protocol-php) | 1.1 |  | PHP client for DuckDB Quack Remote Protocol, modern analytics |
-| 2026-11-17 01:39:41 | [jeffersongoncalves/laravel-lgpd-ripd](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-lgpd-ripd) | 1.0.0 | Jefferson Gonçalves | LGPD data protection impact assessment (RIPD) for Laravel: risks scored by like… |
-| 2026-11-17 01:39:46 | [jeffersongoncalves/laravel-lgpd-vendors](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-lgpd-vendors) | 1.0.0 | Jefferson Gonçalves | LGPD vendor register for Laravel: processors and controllers you share personal… |
-| 2026-11-17 01:47:05 | [nawasara/workspace](https://www.nuget.org/packages/nawasara%2Fworkspace) | v0.1.1 | Pringgo J. Saputro | Kisara Workspace control plane for the Nawasara superapp framework: pilot acces… |
-| 2026-11-17 02:11:43 | [getmaxqr/sdk](https://www.nuget.org/packages/getmaxqr%2Fsdk) | 0.1.0 | Max QR Code | Official PHP SDK for the Max QR Code API (generate, dynamic codes, bulk jobs). |
+| 2026-11-17 02:32:09 | [xiaoh0o/queue](https://www.nuget.org/packages/xiaoh0o%2Fqueue) | 1.0.1 |  | PHP queue |
+| 2026-11-17 02:42:17 | [thesis/source-location](https://www.nuget.org/packages/thesis%2Fsource-location) | v0.1.0 | Vadim Zanfir; Valentin Udalts… | Where in the source code: a file and a line, the caller outside a library, the… |
 
 ## Data source
 
