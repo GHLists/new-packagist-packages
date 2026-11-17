@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-17T22:24:24Z,nubos/starterkit,v1.33.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-17T22:31:55Z,samjuk/dev-standards,v1.0.0,,"Shared git hooks, commit rules and QA config for Magento, Laravel, Node and other projects."
+2026-11-17T22:32:08Z,sirthxalot/symfoniq,v1.0.1,Alexander Bösch,A demonstration web application based on the Symfony PHP framework following best practices and design patterns.
+2026-11-17T22:38:16Z,nubo-db/dynoxide-laravel,v1.0.1,,"Run Laravel's DynamoDB cache, sessions and failed jobs against Dynoxide in tests and local development."
+2026-11-17T22:46:48Z,xefi/faker-php-locales-de-ch,v1.0.0,Martin Soenen,Faker extension to include de_CH locale
+2026-11-17T22:50:31Z,orboni/orboni-php,v1.0.0,Orboni,"Orboni's API for PHP: crypto payments (USDT, USDC, BTC and more) paid straight to your own wallets."
