@@ -15,23 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 18:22 UTC
+## Latest list — 2026-11-17 19:22 UTC
 
-New packages created between 2026-11-17 17:22 UTC and 2026-11-17 18:22 UTC.
+New packages created between 2026-11-17 18:22 UTC and 2026-11-17 19:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-17T18-22-04-3495Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-17T19-22-10-233808Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-17 17:35:08 | [msads/agent-sdk-php](https://www.nuget.org/packages/msads%2Fagent-sdk-php) | v0.1.0 | MS TECH IT PRIVATE LIMITED | MS Ads Agent Exchange server SDK (offers, events, HMAC request signing) |
-| 2026-11-17 17:44:13 | [pimoudeveldhuis/nova-component-select-database-field](https://www.nuget.org/packages/pimoudeveldhuis%2Fnova-component-select-database-field) | v1.0.1 |  | A Laravel Nova field for editing ordered arrays with selectable options. |
-| 2026-11-17 17:50:27 | [teme/contracts](https://www.nuget.org/packages/teme%2Fcontracts) | v1.0.0 |  | Public extension contracts. Semver'd independently of the application. |
-| 2026-11-17 17:54:20 | [labyrinthe/labpay-laravel](https://www.nuget.org/packages/labyrinthe%2Flabpay-laravel) | v0.1.0 | Labyrinthe Innovations SARL | Laravel integration of LabPay (Mobile Money across Africa): client, facade, pub… |
-| 2026-11-17 17:54:26 | [labyrinthe/labpay-php](https://www.nuget.org/packages/labyrinthe%2Flabpay-php) | v0.1.0 | Labyrinthe Innovations SARL | Official PHP SDK for LabPay: collect and send Mobile Money (M-Pesa, Airtel Mone… |
-| 2026-11-17 17:58:07 | [tornado-engine/uploads](https://www.nuget.org/packages/tornado-engine%2Fuploads) | v0.1.0 |  | Tornado Engine core-module: upload files, and give Claude filtered copies (text… |
-| 2026-11-17 18:11:10 | [webksde/drowl_upsi](https://www.nuget.org/packages/webksde%2Fdrowl_upsi) | 0.0.1 | webks GmbH | Supports the DROWL Drupal Updateservice: Drush-driven start/finish workflow wit… |
-| 2026-11-17 18:14:11 | [tg666/messenger](https://www.nuget.org/packages/tg666%2Fmessenger) | v0.4.0 | Milan Felix Šulc | Fork of contributte/messenger: Symfony Messenger for Nette framework, with hand… |
-| 2026-11-17 18:16:25 | [adachsoft/model-pricing-lib](https://www.nuget.org/packages/adachsoft%2Fmodel-pricing-lib) | v0.1.0 |  | Versioned JSON price sheet catalog and BCMath cost estimator implementing adach… |
+| 2026-11-17 18:25:09 | [sightpress/core](https://www.nuget.org/packages/sightpress%2Fcore) | 0.1.0 |  | The core of SightPress, a powerful multi-site, multilingual CMS for everyone, d… |
+| 2026-11-17 18:25:41 | [sightpress/skeleton](https://www.nuget.org/packages/sightpress%2Fskeleton) | 0.1.0 |  | Start a new SightPress project: a powerful multi-site, multilingual CMS for eve… |
+| 2026-11-17 18:27:21 | [susantokun/lir-kit](https://www.nuget.org/packages/susantokun%2Flir-kit) | v0.2.0 |  | Passwordless email-code (OTP) sign-in, sender email settings with an editable t… |
+| 2026-11-17 18:28:08 | [backdrop-dev/icons](https://www.nuget.org/packages/backdrop-dev%2Ficons) | v1.0.0 | Benjamin Lu | Iconoir SVG icons for ClassicPress and WordPress themes and plugins, with helpe… |
+| 2026-11-17 18:30:52 | [zhylon/maillab-client](https://www.nuget.org/packages/zhylon%2Fmaillab-client) | v0.0.1 | TobyMaxham | Laravel mail transport and API client for Zhylon Maillab. |
+| 2026-11-17 18:31:12 | [ospo/theme-frontend-hyva](https://www.nuget.org/packages/ospo%2Ftheme-frontend-hyva) | 1.0.0 | Splendid Internet GmbH | Kind-Theme des Hyvä Default Themes mit eigenem Tailwind-Bau, damit Blog, Widget… |
+| 2026-11-17 18:47:00 | [tualo/encrypted-data](https://www.nuget.org/packages/tualo%2Fencrypted-data) | 1.0.2 | Thomas Hoffmann | tualo - encrypted-data: clientseitig verschluesselte Datenelemente (RSA-OAEP +… |
+| 2026-11-17 19:09:33 | [outstand/accordion](https://www.nuget.org/packages/outstand%2Faccordion) | 1.0.0 | Sérgio Santos | Accessible accordion blocks for the block editor, powered by the Interactivity… |
+| 2026-11-17 19:14:43 | [ktulchu/yii2-chart](https://www.nuget.org/packages/ktulchu%2Fyii2-chart) | v0.1.0 | Roman V Komorin | ActiveRecord time-series charts for Yii2 |
 
 ## Data source
 

@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-17T18:25:09Z,sightpress/core,0.1.0,,"The core of SightPress, a powerful multi-site, multilingual CMS for everyone, designed with blind and low-vision creators and audiences in mind. Built on modern, object-oriented PHP."
+2026-11-17T18:25:41Z,sightpress/skeleton,0.1.0,,"Start a new SightPress project: a powerful multi-site, multilingual CMS for everyone, designed with blind and low-vision creators and audiences in mind. Built on modern, object-oriented PHP."
+2026-11-17T18:27:21Z,susantokun/lir-kit,v0.2.0,,"Passwordless email-code (OTP) sign-in, sender email settings with an editable template, and a per-tenant sidebar menu editor for Laravel + Inertia + React."
+2026-11-17T18:28:08Z,backdrop-dev/icons,v1.0.0,Benjamin Lu,"Iconoir SVG icons for ClassicPress and WordPress themes and plugins, with helpers to output accessible inline icons. Built for Backdrop."
+2026-11-17T18:30:52Z,zhylon/maillab-client,v0.0.1,TobyMaxham,Laravel mail transport and API client for Zhylon Maillab.
+2026-11-17T18:31:12Z,ospo/theme-frontend-hyva,1.0.0,Splendid Internet GmbH,"Kind-Theme des Hyvä Default Themes mit eigenem Tailwind-Bau, damit Blog, Widgets und andere Hyvä-Module gestaltet sind"
+2026-11-17T18:47:00Z,tualo/encrypted-data,1.0.2,Thomas Hoffmann,"tualo - encrypted-data: clientseitig verschluesselte Datenelemente (RSA-OAEP + AES-GCM), private Schluessel verlassen nie den Browser"
+2026-11-17T19:09:33Z,outstand/accordion,1.0.0,Sérgio Santos,"Accessible accordion blocks for the block editor, powered by the Interactivity API."
+2026-11-17T19:14:43Z,ktulchu/yii2-chart,v0.1.0,Roman V Komorin,ActiveRecord time-series charts for Yii2
