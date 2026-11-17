@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-17T08:32:15Z,craftix/php-sms-sender,v1.0.0,,A clean and extensible PHP package for sending SMS messages through multiple providers.
+2026-11-17T08:36:19Z,rapidez/checkoutviabol,5.0.0,Jade,bol.checkout payment method support for Rapidez
+2026-11-17T08:44:49Z,justbetter/magento2-module-checkoutviabol-graphql,0.1.0,Jade Geels,"GraphQL support for the bol.checkout Magento 2 module, for headless frontends"
+2026-11-17T09:11:22Z,messenger-monitoring/messenger-monitoring,1.0.0,,Symfony Messenger message lifecycle monitoring bundle
+2026-11-17T09:14:38Z,moonetix/datacenter-ip-ranges,v1.3.0,Moonetix,"Daily cloud, hosting, CDN, Tor, iCloud Private Relay and search/AI crawler IP ranges from the providers' own feeds, with a dependency-free lookup and crawler verification helper."
