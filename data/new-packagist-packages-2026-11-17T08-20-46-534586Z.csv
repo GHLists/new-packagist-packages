@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-11-17T07:22:29Z,reachweb/statamic-resrv-vouchers,v1.0.0,Iosif Chatzimichail,"QR-code voucher generation, email delivery, and CP scanning for Statamic Resrv reservations."
+2026-11-17T07:24:46Z,billionverify/billionverify-php,v1.1.0,BillionVerify,Official BillionVerify PHP SDK for email verification
+2026-11-17T07:27:44Z,itmosoft/laravel-email-marketing,v1.0.0,,"Email audiences, consent-aware subscribers, reusable templates, campaign orchestration, and campaign metrics for Laravel."
+2026-11-17T07:31:16Z,itmosoft/laravel-marketing-automation,v1.0.0,,"Event-triggered marketing workflows, execution tracking, and pluggable action handlers for Laravel applications."
+2026-11-17T07:34:34Z,itmosoft/laravel-campaign-tracking,v1.0.1,,"UTM attribution, campaign touchpoints, conversion recording, and attribution summaries for Laravel applications."
+2026-11-17T07:43:18Z,itmosoft/laravel-referrals,v1.0.0,,"Referral codes, attribution, qualification, and reward integration for Laravel applications."
+2026-11-17T07:47:51Z,itmosoft/laravel-seo,v1.0.0,,"SEO metadata, canonical URLs, social sharing tags, and JSON-LD structured data for Laravel applications."
+2026-11-17T07:55:48Z,itmosoft/laravel-social-publishing,v1.0.1,,"Social account management, content scheduling, publication tracking, and platform adapter contracts for Laravel applications."
+2026-11-17T08:11:29Z,itmosoft/laravel-import-export,v1.0.0,,"Streaming CSV import and export utilities with header mapping, row validation, and error reporting for Laravel applications."
+2026-11-17T08:14:15Z,itmosoft/laravel-feature-flags,v1.0.0,,Database-backed feature flags with deterministic percentage rollouts and subject overrides for Laravel applications.
+2026-11-17T08:17:34Z,itmosoft/laravel-localization,v1.0.0,,"Locale registry, persistent subject preferences, and request locale resolution middleware for Laravel applications."
