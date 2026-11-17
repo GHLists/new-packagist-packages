@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-17T17:35:08Z,msads/agent-sdk-php,v0.1.0,MS TECH IT PRIVATE LIMITED,"MS Ads Agent Exchange server SDK (offers, events, HMAC request signing)"
+2026-11-17T17:44:13Z,pimoudeveldhuis/nova-component-select-database-field,v1.0.1,,A Laravel Nova field for editing ordered arrays with selectable options.
+2026-11-17T17:50:27Z,teme/contracts,v1.0.0,,Public extension contracts. Semver'd independently of the application.
+2026-11-17T17:54:20Z,labyrinthe/labpay-laravel,v0.1.0,Labyrinthe Innovations SARL,"Laravel integration of LabPay (Mobile Money across Africa): client, facade, publishable config and signed webhook route."
+2026-11-17T17:54:26Z,labyrinthe/labpay-php,v0.1.0,Labyrinthe Innovations SARL,"Official PHP SDK for LabPay: collect and send Mobile Money (M-Pesa, Airtel Money, Orange Money, MTN MoMo…) across Africa."
+2026-11-17T17:58:07Z,tornado-engine/uploads,v0.1.0,,"Tornado Engine core-module: upload files, and give Claude filtered copies (text run through the broker; images only when marked as having no student information)."
+2026-11-17T18:11:10Z,webksde/drowl_upsi,0.0.1,webks GmbH,"Supports the DROWL Drupal Updateservice: Drush-driven start/finish workflow with backups, git commits, maintenance mode, URL checks and customer notifications."
+2026-11-17T18:14:11Z,tg666/messenger,v0.4.0,Milan Felix Šulc,"Fork of contributte/messenger: Symfony Messenger for Nette framework, with handler detection aligned to Symfony"
+2026-11-17T18:16:25Z,adachsoft/model-pricing-lib,v0.1.0,,Versioned JSON price sheet catalog and BCMath cost estimator implementing adachsoft/model-pricing-contracts.
