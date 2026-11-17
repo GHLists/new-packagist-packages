@@ -1,0 +1,14 @@
+created_at,package,version,author,description
+2026-11-17T09:31:52Z,vectorbross/vb_bulk_translate,1.0.2,Stijn Stroobants,Queue translatable entities and translate them on cron with a TMGMT translator.
+2026-11-17T09:35:37Z,smepay/smepay-php,v0.1.0,,Official PHP SDK for the SMEPay External API (UPI payments).
+2026-11-17T09:39:22Z,vytux/vytux_menu2,v2.2.0,Vytautas Krivickas,"A webtrees custom module that adds a configurable menu of links, with optional icons stored in the database."
+2026-11-17T09:40:34Z,hachitechs/hideguard-m2,v1.0.0,,"HideGuard Bot & Checkout Guard for Magento 2: browser verification and server-side protection for storefronts, carts, checkout and customer accounts."
+2026-11-17T09:41:30Z,fayne/laravel-ocr,v0.1.0,,Laravel OCR with built-in cloud drivers
+2026-11-17T09:44:33Z,cable8mm/laravel-locale-timezone,v1.0.0,Samgu Lee,"Per-request locale and timezone context for Laravel: Accept-Language and X-Timezone headers, scoped container binding, request macros and sane fallbacks."
+2026-11-17T09:49:47Z,artack/fixtures-guard,1.0.0,ARTACK WebLab GmbH,Symfony bundle that stops Doctrine fixtures and Foundry from wiping a database whose data must stay
+2026-11-17T09:55:21Z,atlasaidev/atlasvoice-sdk,v0.4.0,AtlasAiDev,"PHP client for AtlasVoice Cloud text-to-speech: speech, audio jobs for long texts, voices, usage and licences. Works in WordPress, Laravel and plain PHP."
+2026-11-17T10:01:56Z,jeffersongoncalves/laravel-lgpd-minors,1.0.0,Jefferson Gonçalves,"ECA Digital (Lei 15.211/2025) toolkit for Laravel: age assurance results without raw documents, most-protective age band, guardian linking for accounts up to 16, suspension with appeal, adult-only route gate and ad-profiling block for minors."
+2026-11-17T10:10:54Z,jeffersongoncalves/filament-lgpd-minors,2.0.0,,
+2026-11-17T10:11:23Z,itmosoft/laravel-activity-timeline,v1.0.0,,"Polymorphic activity feed and chronological event timeline for Laravel models, with actor attribution and structured properties."
+2026-11-17T10:15:57Z,itmosoft/laravel-affiliate-marketing,v1.0.0,,"Affiliate program management, conversion attribution, and commission calculation for Laravel applications."
+2026-11-17T10:19:45Z,itmosoft/laravel-approvals,v1.0.0,,"Sequential, multi-step approval workflows for Laravel models and business processes."

@@ -15,19 +15,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 09:20 UTC
+## Latest list — 2026-11-17 10:21 UTC
 
-New packages created between 2026-11-17 08:20 UTC and 2026-11-17 09:20 UTC.
+New packages created between 2026-11-17 09:20 UTC and 2026-11-17 10:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-17T09-20-08-66107Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-17T10-21-30-030093Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-17 08:32:15 | [craftix/php-sms-sender](https://www.nuget.org/packages/craftix%2Fphp-sms-sender) | v1.0.0 |  | A clean and extensible PHP package for sending SMS messages through multiple pr… |
-| 2026-11-17 08:36:19 | [rapidez/checkoutviabol](https://www.nuget.org/packages/rapidez%2Fcheckoutviabol) | 5.0.0 | Jade | bol.checkout payment method support for Rapidez |
-| 2026-11-17 08:44:49 | [justbetter/magento2-module-checkoutviabol-graphql](https://www.nuget.org/packages/justbetter%2Fmagento2-module-checkoutviabol-graphql) | 0.1.0 | Jade Geels | GraphQL support for the bol.checkout Magento 2 module, for headless frontends |
-| 2026-11-17 09:11:22 | [messenger-monitoring/messenger-monitoring](https://www.nuget.org/packages/messenger-monitoring%2Fmessenger-monitoring) | 1.0.0 |  | Symfony Messenger message lifecycle monitoring bundle |
-| 2026-11-17 09:14:38 | [moonetix/datacenter-ip-ranges](https://www.nuget.org/packages/moonetix%2Fdatacenter-ip-ranges) | v1.3.0 | Moonetix | Daily cloud, hosting, CDN, Tor, iCloud Private Relay and search/AI crawler IP r… |
+| 2026-11-17 09:31:52 | [vectorbross/vb_bulk_translate](https://www.nuget.org/packages/vectorbross%2Fvb_bulk_translate) | 1.0.2 | Stijn Stroobants | Queue translatable entities and translate them on cron with a TMGMT translator. |
+| 2026-11-17 09:35:37 | [smepay/smepay-php](https://www.nuget.org/packages/smepay%2Fsmepay-php) | v0.1.0 |  | Official PHP SDK for the SMEPay External API (UPI payments). |
+| 2026-11-17 09:39:22 | [vytux/vytux_menu2](https://www.nuget.org/packages/vytux%2Fvytux_menu2) | v2.2.0 | Vytautas Krivickas | A webtrees custom module that adds a configurable menu of links, with optional… |
+| 2026-11-17 09:40:34 | [hachitechs/hideguard-m2](https://www.nuget.org/packages/hachitechs%2Fhideguard-m2) | v1.0.0 |  | HideGuard Bot & Checkout Guard for Magento 2: browser verification and server-s… |
+| 2026-11-17 09:41:30 | [fayne/laravel-ocr](https://www.nuget.org/packages/fayne%2Flaravel-ocr) | v0.1.0 |  | Laravel OCR with built-in cloud drivers |
+| 2026-11-17 09:44:33 | [cable8mm/laravel-locale-timezone](https://www.nuget.org/packages/cable8mm%2Flaravel-locale-timezone) | v1.0.0 | Samgu Lee | Per-request locale and timezone context for Laravel: Accept-Language and X-Time… |
+| 2026-11-17 09:49:47 | [artack/fixtures-guard](https://www.nuget.org/packages/artack%2Ffixtures-guard) | 1.0.0 | ARTACK WebLab GmbH | Symfony bundle that stops Doctrine fixtures and Foundry from wiping a database… |
+| 2026-11-17 09:55:21 | [atlasaidev/atlasvoice-sdk](https://www.nuget.org/packages/atlasaidev%2Fatlasvoice-sdk) | v0.4.0 | AtlasAiDev | PHP client for AtlasVoice Cloud text-to-speech: speech, audio jobs for long tex… |
+| 2026-11-17 10:01:56 | [jeffersongoncalves/laravel-lgpd-minors](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-lgpd-minors) | 1.0.0 | Jefferson Gonçalves | ECA Digital (Lei 15.211/2025) toolkit for Laravel: age assurance results withou… |
+| 2026-11-17 10:10:54 | [jeffersongoncalves/filament-lgpd-minors](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-lgpd-minors) | 2.0.0 |  |  |
+| 2026-11-17 10:11:23 | [itmosoft/laravel-activity-timeline](https://www.nuget.org/packages/itmosoft%2Flaravel-activity-timeline) | v1.0.0 |  | Polymorphic activity feed and chronological event timeline for Laravel models,… |
+| 2026-11-17 10:15:57 | [itmosoft/laravel-affiliate-marketing](https://www.nuget.org/packages/itmosoft%2Flaravel-affiliate-marketing) | v1.0.0 |  | Affiliate program management, conversion attribution, and commission calculatio… |
+| 2026-11-17 10:19:45 | [itmosoft/laravel-approvals](https://www.nuget.org/packages/itmosoft%2Flaravel-approvals) | v1.0.0 |  | Sequential, multi-step approval workflows for Laravel models and business proce… |
 
 ## Data source
 
