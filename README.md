@@ -15,21 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 00:19 UTC
+## Latest list — 2026-11-17 01:18 UTC
 
-New packages created between 2026-11-16 23:19 UTC and 2026-11-17 00:19 UTC.
+New packages created between 2026-11-17 00:19 UTC and 2026-11-17 01:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-17T00-19-28-0101Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-17T01-18-29-669209Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-16 23:28:43 | [jeffersongoncalves/filament-lgpd-incidents](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-lgpd-incidents) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-lgpd-incidents: register LGPD security incidents, a… |
-| 2026-11-16 23:28:54 | [triploide/toolbox](https://www.nuget.org/packages/triploide%2Ftoolbox) | 1.0.2 | Maximiliano Yañez | A Laravel CRUD toolkit that auto-resolves controllers, dataproviders, repositor… |
-| 2026-11-16 23:39:19 | [jeffersongoncalves/filament-lgpd-records](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-lgpd-records) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-lgpd-records: manage your LGPD records of processin… |
-| 2026-11-16 23:39:23 | [emielburgman/symfony-comments](https://www.nuget.org/packages/emielburgman%2Fsymfony-comments) | v1.0.0 | Emiel Burgman | The shared half of a blog comment system for Symfony: the Doctrine columns as a… |
-| 2026-11-16 23:42:43 | [joshua-barbosa/azure-blob-sdk](https://www.nuget.org/packages/joshua-barbosa%2Fazure-blob-sdk) | v0.1.0 | Joshua Barbosa | SDK PHP para o Azure Blob Storage, integrado ao Laravel: API fluente, driver de… |
-| 2026-11-16 23:46:50 | [jeffersongoncalves/filament-lgpd-audit-log](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-lgpd-audit-log) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-lgpd-audit-log: browse who viewed, changed, exporte… |
-| 2026-11-16 23:48:35 | [wavykit/inertia](https://www.nuget.org/packages/wavykit%2Finertia) | v0.1.0 |  | Share WavyKit pages, breadcrumbs, and menus with Inertia, with TypeScript types. |
+| 2026-11-17 01:05:13 | [dyrynda/sigen-cloud-php](https://www.nuget.org/packages/dyrynda%2Fsigen-cloud-php) | 0.1.0 | Michael Dyrynda | A PHP SDK for interacting with the Sigenergy (mySigen) cloud API |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-17T01:05:13Z,dyrynda/sigen-cloud-php,0.1.0,Michael Dyrynda,A PHP SDK for interacting with the Sigenergy (mySigen) cloud API
