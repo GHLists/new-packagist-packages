@@ -1,0 +1,16 @@
+created_at,package,version,author,description
+2026-11-17T19:32:27Z,backdrop-dev/template-helpers,v1.0.1,Benjamin Lu,"Backdrop Template Helpers is set a helper functions for setting the path, locations, and filtering templates."
+2026-11-17T19:42:19Z,backdrop-dev/tools,v1.0.0,Benjamin Lu,Backdrop Tools is a collection of helper classes and functions for developing themes and plugins.
+2026-11-17T19:49:28Z,backdrop-dev/template-hierarchy,v1.0.0,Benjamin Lu,A smarter and flexible template hierarchy.
+2026-11-17T19:50:10Z,jeffersongoncalves/filament-ccpa,2.0.0,,
+2026-11-17T19:51:55Z,jeffersongoncalves/filament-ccpa-opt-out,2.0.0,,
+2026-11-17T19:53:38Z,jeffersongoncalves/filament-ccpa-requests,3.0.0,Jefferson Gonçalves,"Filament plugin for laravel-ccpa-requests: handle CCPA consumer requests to know, delete and correct in your panel: acknowledge, verify, export, delete, extend the 45-day deadline, complete or deny."
+2026-11-17T19:55:12Z,jeffersongoncalves/filament-ccpa-retention,3.0.0,Jefferson Gonçalves,"Filament plugin for laravel-ccpa-retention: CCPA retention run from your panel: preview what expires, deidentify it and re-apply deletion after a backup restore."
+2026-11-17T19:56:46Z,jeffersongoncalves/filament-ccpa-audit-log,1.0.0,,
+2026-11-17T19:58:24Z,jeffersongoncalves/filament-ccpa-notices,2.0.0,,
+2026-11-17T20:00:00Z,jeffersongoncalves/filament-ccpa-vendors,3.0.0,Jefferson Gonçalves,"Filament plugin for laravel-ccpa-vendors: your CCPA service providers, contractors and third parties in the panel, with the contract terms each role requires, reviews by risk and data return on termination."
+2026-11-17T20:01:17Z,tencentcloud/makers,3.0.1701,tencentcloudapi,TencentCloudApi php sdk makers
+2026-11-17T20:01:37Z,jeffersongoncalves/filament-ccpa-risk-assessments,3.0.0,Jefferson Gonçalves,"Filament plugin for laravel-ccpa-risk-assessments: CCPA risk assessments in your panel: score risks, record the reviewers' views, approve, schedule the 3-year review, mark the CPPA submission and find activities still missing one."
+2026-11-17T20:03:14Z,jeffersongoncalves/filament-ccpa-breaches,2.0.0,,
+2026-11-17T20:04:52Z,jeffersongoncalves/filament-ccpa-minors,1.0.0,,
+2026-11-17T20:14:25Z,backdrop-dev/pagination,v1.0.0,Benjamin Lu,Enhanced pagination add-on for the Backdrop framework.
