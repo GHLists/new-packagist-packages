@@ -15,19 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 04:19 UTC
+## Latest list — 2026-11-17 05:20 UTC
 
-New packages created between 2026-11-17 03:21 UTC and 2026-11-17 04:19 UTC.
+New packages created between 2026-11-17 04:19 UTC and 2026-11-17 05:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-17T04-19-38-241133Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-17T05-20-00-299552Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-17 03:37:40 | [techbaripress/laravel](https://www.nuget.org/packages/techbaripress%2Flaravel) | v1.0.0 |  | News Bridge for Laravel: one command installs the connector that receives auto-… |
-| 2026-11-17 03:46:12 | [alibabacloud/qweneduaisuite-20261102](https://www.nuget.org/packages/alibabacloud%2Fqweneduaisuite-20261102) | 1.0.0 | Alibaba Cloud SDK | Alibaba Cloud QwenEduAiSuite (20261102) SDK Library for PHP |
-| 2026-11-17 03:47:16 | [alnaggar/laravel-remember-valid-cache](https://www.nuget.org/packages/alnaggar%2Flaravel-remember-valid-cache) | 1.0 | Ahmad Muhammad Rashad | Conditionally refresh Laravel cache values while retaining the last valid value. |
-| 2026-11-17 03:51:39 | [jeffersongoncalves/filament-lgpd-vendors](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-lgpd-vendors) | 2.0.0 |  |  |
-| 2026-11-17 03:51:40 | [jeffersongoncalves/filament-lgpd-ripd](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-lgpd-ripd) | 2.0.0 |  |  |
+| 2026-11-17 04:37:08 | [current/current](https://www.nuget.org/packages/current%2Fcurrent) | v0.3.0 |  | One description of a Laravel application's experience: pages, breadcrumbs, and… |
+| 2026-11-17 04:37:08 | [current/inertia](https://www.nuget.org/packages/current%2Finertia) | v0.2.0 |  | Share Current pages, breadcrumbs, and menus with Inertia, with TypeScript types. |
+| 2026-11-17 04:44:51 | [starbug/shipping-boxes](https://www.nuget.org/packages/starbug%2Fshipping-boxes) | v0.9.0 | Ali Gangji | Shipping box dimensions. |
+| 2026-11-17 04:45:14 | [starbug/box-packer](https://www.nuget.org/packages/starbug%2Fbox-packer) | v0.9.0 | Ali Gangji | Box packing for products. |
+| 2026-11-17 04:45:21 | [starbug/box-packer-admin](https://www.nuget.org/packages/starbug%2Fbox-packer-admin) | v0.9.1 | Ali Gangji | Admin screen for packing shipments. |
+| 2026-11-17 05:01:19 | [starbug/cart](https://www.nuget.org/packages/starbug%2Fcart) | v0.9.1 | Ali Gangji | Shopping cart built on orders. |
 
 ## Data source
 

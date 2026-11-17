@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-17T04:37:08Z,current/current,v0.3.0,,"One description of a Laravel application's experience: pages, breadcrumbs, and menus."
+2026-11-17T04:37:08Z,current/inertia,v0.2.0,,"Share Current pages, breadcrumbs, and menus with Inertia, with TypeScript types."
+2026-11-17T04:44:51Z,starbug/shipping-boxes,v0.9.0,Ali Gangji,Shipping box dimensions.
+2026-11-17T04:45:14Z,starbug/box-packer,v0.9.0,Ali Gangji,Box packing for products.
+2026-11-17T04:45:21Z,starbug/box-packer-admin,v0.9.1,Ali Gangji,Admin screen for packing shipments.
+2026-11-17T05:01:19Z,starbug/cart,v0.9.1,Ali Gangji,Shopping cart built on orders.
