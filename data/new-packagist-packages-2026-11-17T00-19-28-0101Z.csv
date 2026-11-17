@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-16T23:28:43Z,jeffersongoncalves/filament-lgpd-incidents,3.0.0,Jefferson Gonçalves,"Filament plugin for laravel-lgpd-incidents: register LGPD security incidents, assess the risk and track the 3-business-day ANPD and data subject notification deadline from your panel."
+2026-11-16T23:28:54Z,triploide/toolbox,1.0.2,Maximiliano Yañez,"A Laravel CRUD toolkit that auto-resolves controllers, dataproviders, repositories, validators, filters, and more by convention."
+2026-11-16T23:39:19Z,jeffersongoncalves/filament-lgpd-records,3.0.0,Jefferson Gonçalves,"Filament plugin for laravel-lgpd-records: manage your LGPD records of processing activities (ROPA, art. 37) from the panel and export them joined with the personal data inventory."
+2026-11-16T23:39:23Z,emielburgman/symfony-comments,v1.0.0,Emiel Burgman,"The shared half of a blog comment system for Symfony: the Doctrine columns as a trait, a comment form type, two interchangeable spam guards (session maths captcha or stateless honeypot + signed time trap), a posted event and avatar Twig helpers."
+2026-11-16T23:42:43Z,joshua-barbosa/azure-blob-sdk,v0.1.0,Joshua Barbosa,"SDK PHP para o Azure Blob Storage, integrado ao Laravel: API fluente, driver de Storage, comandos Artisan e múltiplas conexões (SAS URL, connection string ou conta+chave)."
+2026-11-16T23:46:50Z,jeffersongoncalves/filament-lgpd-audit-log,3.0.0,Jefferson Gonçalves,"Filament plugin for laravel-lgpd-audit-log: browse who viewed, changed, exported or anonymized personal data, and verify the hash chain of the LGPD audit log from your panel."
+2026-11-16T23:48:35Z,wavykit/inertia,v0.1.0,,"Share WavyKit pages, breadcrumbs, and menus with Inertia, with TypeScript types."
