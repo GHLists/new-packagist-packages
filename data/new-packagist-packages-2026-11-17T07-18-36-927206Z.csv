@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-17T06:32:18Z,cable8mm/laravel-vite-s3,v1.0.1,Samgu Lee,Sync the Vite build output to an S3 (or any Flysystem) disk with one artisan command.
+2026-11-17T06:33:01Z,billionsend/billionsend-php,v0.1.1,BillionSend,PHP SDK for the BillionSend email API
+2026-11-17T06:34:04Z,gsnugroho/laravel-rescue-audit,v0.1.2,Galih S. Nugroho,One-command health & security audit for existing Laravel apps. Generates an HTML/Markdown report with a 0-100 score and estimated fix hours.
+2026-11-17T06:56:01Z,starbug/impersonate,v0.9.1,Ali Gangji,Impersonate a user from the admin.
+2026-11-17T07:00:03Z,itmosoft/laravel-multitenancy,v1.0.0,,"Tenant resolution, request context, and shared-database isolation primitives for Laravel applications."
+2026-11-17T07:06:14Z,itmosoft/laravel-leads,v1.0.0,,"Lead capture, qualification, assignment, pipeline stages, and conversion tracking for Laravel applications."
+2026-11-17T07:11:48Z,itmosoft/laravel-forms,v1.0.0,,"Dynamic form definitions, versioned fields, submissions, and validation for Laravel applications."

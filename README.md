@@ -15,20 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 06:19 UTC
+## Latest list — 2026-11-17 07:18 UTC
 
-New packages created between 2026-11-17 05:20 UTC and 2026-11-17 06:19 UTC.
+New packages created between 2026-11-17 06:19 UTC and 2026-11-17 07:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-17T06-19-51-038737Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-17T07-18-36-927206Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-17 05:25:06 | [dakotajune/seeders](https://www.nuget.org/packages/dakotajune%2Fseeders) | v1.0.0 |  | Factories and seeders for Laravel Blueprint that are worth keeping: values from… |
-| 2026-11-17 05:31:17 | [muhdaimans/laravel-openapi-studio](https://www.nuget.org/packages/muhdaimans%2Flaravel-openapi-studio) | v0.1.0 |  | A local-only visual editor for creating, editing and deleting OpenAPI 3 (.yaml/… |
-| 2026-11-17 05:33:40 | [starbug/notifications](https://www.nuget.org/packages/starbug%2Fnotifications) | v0.9.0 | Ali Gangji | Notifications, delivered through channels and handlers. |
-| 2026-11-17 05:33:40 | [starbug/notifications-admin](https://www.nuget.org/packages/starbug%2Fnotifications-admin) | v0.9.2 | Ali Gangji | Admin screens for notifications. |
-| 2026-11-17 05:37:06 | [fiachehr/laravel-logger](https://www.nuget.org/packages/fiachehr%2Flaravel-logger) | v0.1.0 |  | Privacy-first structured JSON logging and an authorized, bounded log explorer f… |
-| 2026-11-17 05:37:07 | [itmosoft/laravel-marketplace](https://www.nuget.org/packages/itmosoft%2Flaravel-marketplace) | v1.0.1 |  | Marketplace order orchestration and vendor order attribution for Laravel applic… |
+| 2026-11-17 06:32:18 | [cable8mm/laravel-vite-s3](https://www.nuget.org/packages/cable8mm%2Flaravel-vite-s3) | v1.0.1 | Samgu Lee | Sync the Vite build output to an S3 (or any Flysystem) disk with one artisan co… |
+| 2026-11-17 06:33:01 | [billionsend/billionsend-php](https://www.nuget.org/packages/billionsend%2Fbillionsend-php) | v0.1.1 | BillionSend | PHP SDK for the BillionSend email API |
+| 2026-11-17 06:34:04 | [gsnugroho/laravel-rescue-audit](https://www.nuget.org/packages/gsnugroho%2Flaravel-rescue-audit) | v0.1.2 | Galih S. Nugroho | One-command health & security audit for existing Laravel apps. Generates an HTM… |
+| 2026-11-17 06:56:01 | [starbug/impersonate](https://www.nuget.org/packages/starbug%2Fimpersonate) | v0.9.1 | Ali Gangji | Impersonate a user from the admin. |
+| 2026-11-17 07:00:03 | [itmosoft/laravel-multitenancy](https://www.nuget.org/packages/itmosoft%2Flaravel-multitenancy) | v1.0.0 |  | Tenant resolution, request context, and shared-database isolation primitives fo… |
+| 2026-11-17 07:06:14 | [itmosoft/laravel-leads](https://www.nuget.org/packages/itmosoft%2Flaravel-leads) | v1.0.0 |  | Lead capture, qualification, assignment, pipeline stages, and conversion tracki… |
+| 2026-11-17 07:11:48 | [itmosoft/laravel-forms](https://www.nuget.org/packages/itmosoft%2Flaravel-forms) | v1.0.0 |  | Dynamic form definitions, versioned fields, submissions, and validation for Lar… |
 
 ## Data source
 
