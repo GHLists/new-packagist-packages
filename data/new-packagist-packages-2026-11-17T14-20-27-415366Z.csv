@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-17T13:52:28Z,nubos/starterkit,v1.30.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-17T14:02:31Z,colibri-informatique/laravel-geotools,v1.0.0,,"Generic geolocation for Laravel Eloquent models: address value object, pluggable geocoding, Haversine distance scopes, automatic coordinates, optional Leaflet map and Filament field."
+2026-11-17T14:02:32Z,crystoline/xpsr-database-seeder,v0.8.1,Adekunle,"Seed data for XPSR applications: seeders that converge, so running them again changes nothing; sets for reference and sample data; a dry run; and sample data that is the same on every machine"
+2026-11-17T14:04:45Z,jeffersongoncalves/filament-gdpr-dpia,3.0.0,Jefferson Gonçalves,"Filament plugin for laravel-gdpr-dpia: data protection impact assessments (Art. 35) in your panel, with risks before and after measures, DPO advice, approval, prior consultation flag and the activities still missing one."
+2026-11-17T14:11:02Z,jeffersongoncalves/filament-gdpr-breaches,3.0.0,Jefferson Gonçalves,"Filament plugin for laravel-gdpr-breaches: your personal data breach register in the panel, on the 72-hour clock: assess risk, notify the supervisory authority (Art. 33) and the data subjects (Art. 34)."
+2026-11-17T14:15:50Z,jeffersongoncalves/filament-gdpr-children,1.0.0,,
