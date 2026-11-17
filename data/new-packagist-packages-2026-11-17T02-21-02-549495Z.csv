@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-17T01:19:05Z,vagkaefer/sicredi-cobranca,v1.0.0,Vagner Kaefer,"Pacote Laravel para a API de Cobrança do Sicredi: boleto, boleto híbrido com Pix, consultas, comandos de instrução e webhook de liquidação"
+2026-11-17T01:29:30Z,se7enxweb/ticketsystem,v1.0.0,7x; xrow GbR,"ticketsystem for Exponential: help desk tickets as content objects, with readable ticket numbers, status sets, customer-scoped sharing, mail copies of every post and Exponential notification subscriptions. The 7x take-over of the xrow ticketsystem extension."
+2026-11-17T01:38:42Z,thomas-0816/duckdb-quack-protocol-php,1.1,,"PHP client for DuckDB Quack Remote Protocol, modern analytics"
+2026-11-17T01:39:41Z,jeffersongoncalves/laravel-lgpd-ripd,1.0.0,Jefferson Gonçalves,"LGPD data protection impact assessment (RIPD) for Laravel: risks scored by likelihood and impact with LINDDUN threats, mitigations and residual risk, DPO opinion, approval and periodic review, linked to the records of processing."
+2026-11-17T01:39:46Z,jeffersongoncalves/laravel-lgpd-vendors,1.0.0,Jefferson Gonçalves,"LGPD vendor register for Laravel: processors and controllers you share personal data with, risk tier, data processing agreement checklist, international transfer mechanism and periodic review."
+2026-11-17T01:47:05Z,nawasara/workspace,v0.1.1,Pringgo J. Saputro,"Kisara Workspace control plane for the Nawasara superapp framework: pilot access, account provisioning, OPD team folders, quotas and templates on top of Nextcloud + OnlyOffice."
+2026-11-17T02:11:43Z,getmaxqr/sdk,0.1.0,Max QR Code,"Official PHP SDK for the Max QR Code API (generate, dynamic codes, bulk jobs)."
