@@ -15,20 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 05:20 UTC
+## Latest list — 2026-11-17 06:19 UTC
 
-New packages created between 2026-11-17 04:19 UTC and 2026-11-17 05:20 UTC.
+New packages created between 2026-11-17 05:20 UTC and 2026-11-17 06:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-17T05-20-00-299552Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-17T06-19-51-038737Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-17 04:37:08 | [current/current](https://www.nuget.org/packages/current%2Fcurrent) | v0.3.0 |  | One description of a Laravel application's experience: pages, breadcrumbs, and… |
-| 2026-11-17 04:37:08 | [current/inertia](https://www.nuget.org/packages/current%2Finertia) | v0.2.0 |  | Share Current pages, breadcrumbs, and menus with Inertia, with TypeScript types. |
-| 2026-11-17 04:44:51 | [starbug/shipping-boxes](https://www.nuget.org/packages/starbug%2Fshipping-boxes) | v0.9.0 | Ali Gangji | Shipping box dimensions. |
-| 2026-11-17 04:45:14 | [starbug/box-packer](https://www.nuget.org/packages/starbug%2Fbox-packer) | v0.9.0 | Ali Gangji | Box packing for products. |
-| 2026-11-17 04:45:21 | [starbug/box-packer-admin](https://www.nuget.org/packages/starbug%2Fbox-packer-admin) | v0.9.1 | Ali Gangji | Admin screen for packing shipments. |
-| 2026-11-17 05:01:19 | [starbug/cart](https://www.nuget.org/packages/starbug%2Fcart) | v0.9.1 | Ali Gangji | Shopping cart built on orders. |
+| 2026-11-17 05:25:06 | [dakotajune/seeders](https://www.nuget.org/packages/dakotajune%2Fseeders) | v1.0.0 |  | Factories and seeders for Laravel Blueprint that are worth keeping: values from… |
+| 2026-11-17 05:31:17 | [muhdaimans/laravel-openapi-studio](https://www.nuget.org/packages/muhdaimans%2Flaravel-openapi-studio) | v0.1.0 |  | A local-only visual editor for creating, editing and deleting OpenAPI 3 (.yaml/… |
+| 2026-11-17 05:33:40 | [starbug/notifications](https://www.nuget.org/packages/starbug%2Fnotifications) | v0.9.0 | Ali Gangji | Notifications, delivered through channels and handlers. |
+| 2026-11-17 05:33:40 | [starbug/notifications-admin](https://www.nuget.org/packages/starbug%2Fnotifications-admin) | v0.9.2 | Ali Gangji | Admin screens for notifications. |
+| 2026-11-17 05:37:06 | [fiachehr/laravel-logger](https://www.nuget.org/packages/fiachehr%2Flaravel-logger) | v0.1.0 |  | Privacy-first structured JSON logging and an authorized, bounded log explorer f… |
+| 2026-11-17 05:37:07 | [itmosoft/laravel-marketplace](https://www.nuget.org/packages/itmosoft%2Flaravel-marketplace) | v1.0.1 |  | Marketplace order orchestration and vendor order attribution for Laravel applic… |
 
 ## Data source
 

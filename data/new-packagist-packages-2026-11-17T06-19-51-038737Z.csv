@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-17T05:25:06Z,dakotajune/seeders,v1.0.0,,"Factories and seeders for Laravel Blueprint that are worth keeping: values from column names and types, real foreign keys, states, reference and demo seeders in dependency order, repeatable output, a preview command, and a guard on what it overwrites."
+2026-11-17T05:31:17Z,muhdaimans/laravel-openapi-studio,v0.1.0,,"A local-only visual editor for creating, editing and deleting OpenAPI 3 (.yaml/.json) files in a Laravel project."
+2026-11-17T05:33:40Z,starbug/notifications,v0.9.0,Ali Gangji,"Notifications, delivered through channels and handlers."
+2026-11-17T05:33:40Z,starbug/notifications-admin,v0.9.2,Ali Gangji,Admin screens for notifications.
+2026-11-17T05:37:06Z,fiachehr/laravel-logger,v0.1.0,,"Privacy-first structured JSON logging and an authorized, bounded log explorer for Laravel."
+2026-11-17T05:37:07Z,itmosoft/laravel-marketplace,v1.0.1,,Marketplace order orchestration and vendor order attribution for Laravel applications.
