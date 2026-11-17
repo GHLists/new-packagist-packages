@@ -15,16 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 03:21 UTC
+## Latest list — 2026-11-17 04:19 UTC
 
-New packages created between 2026-11-17 02:21 UTC and 2026-11-17 03:21 UTC.
+New packages created between 2026-11-17 03:21 UTC and 2026-11-17 04:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-17T03-21-25-65969Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-17T04-19-38-241133Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-17 02:32:09 | [xiaoh0o/queue](https://www.nuget.org/packages/xiaoh0o%2Fqueue) | 1.0.1 |  | PHP queue |
-| 2026-11-17 02:42:17 | [thesis/source-location](https://www.nuget.org/packages/thesis%2Fsource-location) | v0.1.0 | Vadim Zanfir; Valentin Udalts… | Where in the source code: a file and a line, the caller outside a library, the… |
+| 2026-11-17 03:37:40 | [techbaripress/laravel](https://www.nuget.org/packages/techbaripress%2Flaravel) | v1.0.0 |  | News Bridge for Laravel: one command installs the connector that receives auto-… |
+| 2026-11-17 03:46:12 | [alibabacloud/qweneduaisuite-20261102](https://www.nuget.org/packages/alibabacloud%2Fqweneduaisuite-20261102) | 1.0.0 | Alibaba Cloud SDK | Alibaba Cloud QwenEduAiSuite (20261102) SDK Library for PHP |
+| 2026-11-17 03:47:16 | [alnaggar/laravel-remember-valid-cache](https://www.nuget.org/packages/alnaggar%2Flaravel-remember-valid-cache) | 1.0 | Ahmad Muhammad Rashad | Conditionally refresh Laravel cache values while retaining the last valid value. |
+| 2026-11-17 03:51:39 | [jeffersongoncalves/filament-lgpd-vendors](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-lgpd-vendors) | 2.0.0 |  |  |
+| 2026-11-17 03:51:40 | [jeffersongoncalves/filament-lgpd-ripd](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-lgpd-ripd) | 2.0.0 |  |  |
 
 ## Data source
 

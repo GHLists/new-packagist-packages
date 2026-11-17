@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-17T03:37:40Z,techbaripress/laravel,v1.0.0,,"News Bridge for Laravel: one command installs the connector that receives auto-posts, serves the e-paper / ID verification / job-application pages and sends new posts to photocard + social auto-post."
+2026-11-17T03:46:12Z,alibabacloud/qweneduaisuite-20261102,1.0.0,Alibaba Cloud SDK,Alibaba Cloud QwenEduAiSuite (20261102) SDK Library for PHP
+2026-11-17T03:47:16Z,alnaggar/laravel-remember-valid-cache,1.0,Ahmad Muhammad Rashad,Conditionally refresh Laravel cache values while retaining the last valid value.
+2026-11-17T03:51:39Z,jeffersongoncalves/filament-lgpd-vendors,2.0.0,,
+2026-11-17T03:51:40Z,jeffersongoncalves/filament-lgpd-ripd,2.0.0,,
