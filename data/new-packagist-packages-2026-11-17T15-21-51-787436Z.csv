@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-17T14:27:20Z,papi-ai/mcp,v0.15.0,Marcello Duarte,Model Context Protocol client for PapiAI: hands an MCP server's tools to the Agent
+2026-11-17T14:34:45Z,gunner42/laravel-eet-module,v1.0.1,GuNNeR42,Laravel client for the Czech electronic registration of sales (EET 2.0)
+2026-11-17T14:36:46Z,webservco/auth,v0.0.2,Radu Maier,"A PHP component/library. Password authentication and authenticated sessions for any account table, with throttling, legacy password upgrade, session timeouts and an optional second factor."
+2026-11-17T14:48:02Z,osaris-uk/click-and-drop,v1.0.1,Osaris,"Laravel client for the Royal Mail Click & Drop API (orders, labels, manifests, returns, services)."
+2026-11-17T14:52:30Z,klass8s/k8schema-generator,v0.1.0,,Generates PHP classes from Kubernetes API schema definitions
+2026-11-17T14:56:59Z,klass8s/klass8s,v0.1.0,Petr Buchin,Define Kubernetes manifests as PHP classes
+2026-11-17T15:01:11Z,xefi/faker-php-bank,v1.0.0,Lucas GOSGNACH,Faker extension to generate banking and credit card data
+2026-11-17T15:05:14Z,ombimo/laravel-html-cache,0.1.0,Bimo Aji Pamungkas,"Route-based full page HTML cache for Laravel, with resolve and write middleware"

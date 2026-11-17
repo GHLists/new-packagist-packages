@@ -15,20 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 14:20 UTC
+## Latest list — 2026-11-17 15:21 UTC
 
-New packages created between 2026-11-17 13:20 UTC and 2026-11-17 14:20 UTC.
+New packages created between 2026-11-17 14:20 UTC and 2026-11-17 15:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-17T14-20-27-415366Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-17T15-21-51-787436Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-17 13:52:28 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.30.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
-| 2026-11-17 14:02:31 | [colibri-informatique/laravel-geotools](https://www.nuget.org/packages/colibri-informatique%2Flaravel-geotools) | v1.0.0 |  | Generic geolocation for Laravel Eloquent models: address value object, pluggabl… |
-| 2026-11-17 14:02:32 | [crystoline/xpsr-database-seeder](https://www.nuget.org/packages/crystoline%2Fxpsr-database-seeder) | v0.8.1 | Adekunle | Seed data for XPSR applications: seeders that converge, so running them again c… |
-| 2026-11-17 14:04:45 | [jeffersongoncalves/filament-gdpr-dpia](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-gdpr-dpia) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-gdpr-dpia: data protection impact assessments (Art.… |
-| 2026-11-17 14:11:02 | [jeffersongoncalves/filament-gdpr-breaches](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-gdpr-breaches) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-gdpr-breaches: your personal data breach register i… |
-| 2026-11-17 14:15:50 | [jeffersongoncalves/filament-gdpr-children](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-gdpr-children) | 1.0.0 |  |  |
+| 2026-11-17 14:27:20 | [papi-ai/mcp](https://www.nuget.org/packages/papi-ai%2Fmcp) | v0.15.0 | Marcello Duarte | Model Context Protocol client for PapiAI: hands an MCP server's tools to the Ag… |
+| 2026-11-17 14:34:45 | [gunner42/laravel-eet-module](https://www.nuget.org/packages/gunner42%2Flaravel-eet-module) | v1.0.1 | GuNNeR42 | Laravel client for the Czech electronic registration of sales (EET 2.0) |
+| 2026-11-17 14:36:46 | [webservco/auth](https://www.nuget.org/packages/webservco%2Fauth) | v0.0.2 | Radu Maier | A PHP component/library. Password authentication and authenticated sessions for… |
+| 2026-11-17 14:48:02 | [osaris-uk/click-and-drop](https://www.nuget.org/packages/osaris-uk%2Fclick-and-drop) | v1.0.1 | Osaris | Laravel client for the Royal Mail Click & Drop API (orders, labels, manifests,… |
+| 2026-11-17 14:52:30 | [klass8s/k8schema-generator](https://www.nuget.org/packages/klass8s%2Fk8schema-generator) | v0.1.0 |  | Generates PHP classes from Kubernetes API schema definitions |
+| 2026-11-17 14:56:59 | [klass8s/klass8s](https://www.nuget.org/packages/klass8s%2Fklass8s) | v0.1.0 | Petr Buchin | Define Kubernetes manifests as PHP classes |
+| 2026-11-17 15:01:11 | [xefi/faker-php-bank](https://www.nuget.org/packages/xefi%2Ffaker-php-bank) | v1.0.0 | Lucas GOSGNACH | Faker extension to generate banking and credit card data |
+| 2026-11-17 15:05:14 | [ombimo/laravel-html-cache](https://www.nuget.org/packages/ombimo%2Flaravel-html-cache) | 0.1.0 | Bimo Aji Pamungkas | Route-based full page HTML cache for Laravel, with resolve and write middleware |
 
 ## Data source
 
