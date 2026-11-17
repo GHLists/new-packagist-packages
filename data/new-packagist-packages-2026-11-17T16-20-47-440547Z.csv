@@ -1,0 +1,16 @@
+created_at,package,version,author,description
+2026-11-17T15:22:29Z,spyck/automation-bundle,1.0.0,Willem Verspyck,Automation Bundle for Symfony
+2026-11-17T15:31:00Z,tornado-engine/github,v0.1.2,,"Tornado Engine module: connect a GitHub account, and publish modules to GitHub (private or public) and Packagist."
+2026-11-17T15:33:03Z,youvision/think-enum,v1.0,youvision,基于 ThinkPHP 8 的枚举增强工具，更方便地在项目中定义并使用枚举
+2026-11-17T15:37:27Z,wonder-image/rsvp,v2.1.0,,RSVP plugin for wonder-image/new-site projects.
+2026-11-17T15:51:05Z,darvis/laravel-mfa,v1.1.0,Arvid de Jong,"Login that survives an outage: two factor authentication (2FA), magic link, emailed code, SMS, authenticator app (TOTP), recovery codes and a login firewall with IP allow list and country filter, for every Laravel guard."
+2026-11-17T15:52:25Z,drupal-security/scanner,1.0.0,Mayank Gupta,"Psalm taint-analysis security scanner for Drupal — finds XSS, SQL injection, RCE, SSRF and insecure deserialization in modules, themes and core. A maintained, superset replacement for mortenson/psalm-plugin-drupal."
+2026-11-17T15:52:50Z,upassist/neos-ui-thememode,v1.0.0,,"Light, dark and auto theme mode for the Neos CMS backend (content UI and backend modules)"
+2026-11-17T15:54:37Z,brandcom/silverstripe-userforms-submission-cleanup,v1.0.1,brandcom,"Deletes Silverstripe userforms submissions older than a retention window, including field rows, uploaded files and their version history"
+2026-11-17T15:56:29Z,jeffersongoncalves/laravel-ccpa,1.0.0,Jefferson Gonçalves,"CCPA/CPRA toolkit core for Laravel: declare personal information on Eloquent models with its §1798.140(v) category, sensitive flag and whether it is sold or shared; build the inventory, export, deidentify, check k-anonymity."
+2026-11-17T15:58:37Z,happenv-com/filament-search,v0.1.0,Happenv sp. z o.o.; webard,A Cmd+K palette for Filament panels that renders results from pluggable sources.
+2026-11-17T16:05:34Z,jeffersongoncalves/laravel-ccpa-opt-out,1.0.0,Jefferson Gonçalves,"CCPA/CPRA opt-out ledger for Laravel: Do Not Sell or Share (§1798.120) and Limit the Use of Sensitive Personal Information (§1798.121), Global Privacy Control honored automatically, append-only proof and the 12-month wait before asking to opt back in."
+2026-11-17T16:14:18Z,rusender/rusender-php,v0.1.0,RuSender,Official PHP SDK for the RuSender public API
+2026-11-17T16:15:07Z,jeffersongoncalves/laravel-ccpa-requests,1.0.0,Jefferson Gonçalves,"CCPA/CPRA consumer requests for Laravel: right to know, delete and correct, verification, 10-business-day acknowledgement, 45-day deadline with one 45-day extension, automatic export and deletion."
+2026-11-17T16:15:49Z,jeffersongoncalves/laravel-ccpa-retention,1.0.0,Jefferson Gonçalves,"CCPA/CPRA retention for Laravel (§1798.100(a)(3)): deidentify personal information when its disclosed retention period ends, with tombstones to re-apply deletion after a backup restore."
+2026-11-17T16:16:22Z,jeffersongoncalves/laravel-ccpa-audit-log,1.0.0,Jefferson Gonçalves,"CCPA/CPRA audit log for Laravel: tamper-evident, hash-chained record of who viewed, changed, exported or deleted personal information."
