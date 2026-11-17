@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-17T20:28:16Z,thebeardedbear/urssaf-tierce-declaration-paje,v0.1.0,The Bearded Bear,"Client and domain model for the URSSAF ""API Tierce Déclaration PAJE"" (third-party Pajemploi declaration for childcare employers)"
+2026-11-17T20:49:11Z,z3l/fasthtmlparser,v0.1.0,z3l,"Fast HTML / XML parser for scraping, with XPath 1.0 and CSS selectors. PHP port of z3l.FastHtmlParser."
+2026-11-17T21:08:39Z,backdrop-dev/attr,v1.0.0,Benjamin Lu,"Backdrop Attr provides devs a system for adding filterable attributes. This is sort of like `body_class()`, `post_class()`, and `comment_class()` on steroids."
