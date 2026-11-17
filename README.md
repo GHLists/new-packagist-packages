@@ -15,39 +15,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 12:19 UTC
+## Latest list — 2026-11-17 13:20 UTC
 
-New packages created between 2026-11-17 11:21 UTC and 2026-11-17 12:19 UTC.
+New packages created between 2026-11-17 12:19 UTC and 2026-11-17 13:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-17T12-19-31-57926Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-17T13-20-42-010434Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-17 11:26:24 | [mediaq-studio/laravel-versioning](https://www.nuget.org/packages/mediaq-studio%2Flaravel-versioning) | v1.0.2 | MediaQ Creative Digital Solut… | npm-version style semantic version bumping for Laravel applications, with compo… |
-| 2026-11-17 11:27:23 | [pov/nova-database-select-array-field](https://www.nuget.org/packages/pov%2Fnova-database-select-array-field) | 1.0.1 |  | A Laravel Nova field for editing ordered arrays with selectable options. |
-| 2026-11-17 11:28:14 | [jeffersongoncalves/laravel-lgpd-takedown](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-lgpd-takedown) | 1.0.0 | Jefferson Gonçalves | ECA Digital notice and takedown for Laravel: public report channel with identif… |
-| 2026-11-17 11:29:53 | [itmosoft/laravel-stores](https://www.nuget.org/packages/itmosoft%2Flaravel-stores) | 1.0.1 |  | Multi-store storefront management for Laravel applications, with domains, brand… |
-| 2026-11-17 11:36:19 | [jeffersongoncalves/filament-lgpd-takedown](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-lgpd-takedown) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-lgpd-takedown: decide ECA Digital content notices i… |
-| 2026-11-17 11:36:53 | [devfortress/devfortress-sdk](https://www.nuget.org/packages/devfortress%2Fdevfortress-sdk) | v1.0.0 | Duncan Ndungu Ndegwa | DevFortress event reporting client for PHP (external mode). |
-| 2026-11-17 11:38:04 | [itmosoft/laravel-companies](https://www.nuget.org/packages/itmosoft%2Flaravel-companies) | v1.0.0 |  | Company accounts and polymorphic memberships for Laravel applications, with bus… |
-| 2026-11-17 11:41:59 | [itmosoft/laravel-suppliers](https://www.nuget.org/packages/itmosoft%2Flaravel-suppliers) | v1.0.0 |  | Supplier profiles, contacts, and supplier-product sourcing relationships for La… |
-| 2026-11-17 11:48:22 | [vusys/laravel-quantum-slipstream-drive](https://www.nuget.org/packages/vusys%2Flaravel-quantum-slipstream-drive) | v0.1.0 |  | A scoped Eloquent identity map, process-truth engine, and query-elision planner… |
-| 2026-11-17 11:52:01 | [jeffersongoncalves/laravel-gdpr](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-gdpr) | 1.0.0 | Jefferson Gonçalves | GDPR toolkit core for Laravel: declare personal data on Eloquent models with it… |
-| 2026-11-17 11:57:45 | [programster/pgsql-task-queue](https://www.nuget.org/packages/programster%2Fpgsql-task-queue) | 1.0.0-alpha1 | Stuart Page | A PostgreSQL task queue for PHP, with dependencies between tasks, retries, leas… |
-| 2026-11-17 11:58:01 | [jeffersongoncalves/laravel-gdpr-consent](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-gdpr-consent) | 1.0.0 | Jefferson Gonçalves | GDPR consent ledger for Laravel: append-only proof of consent per purpose and v… |
-| 2026-11-17 11:58:26 | [derkosmonaut/kern-contao](https://www.nuget.org/packages/derkosmonaut%2Fkern-contao) | v1.0.0 |  | KERN UX Design System (kern-ux-plain) Integration fuer Contao CMS 5: KERN-Asset… |
-| 2026-11-17 11:58:49 | [itmosoft/laravel-purchase-orders](https://www.nuget.org/packages/itmosoft%2Flaravel-purchase-orders) | 1.0.2 |  | Purchase order management for Laravel applications, with supplier-linked orders… |
-| 2026-11-17 12:01:26 | [jeffersongoncalves/laravel-gdpr-dsar](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-gdpr-dsar) | 1.0.0 | Jefferson Gonçalves | GDPR data subject requests for Laravel: access, rectification, erasure, restric… |
-| 2026-11-17 12:01:43 | [itmosoft/laravel-product-feeds](https://www.nuget.org/packages/itmosoft%2Flaravel-product-feeds) | v1.0.0 |  | Product feed generation for Laravel applications, with configurable fields, CSV… |
-| 2026-11-17 12:04:12 | [itmosoft/laravel-quotes](https://www.nuget.org/packages/itmosoft%2Flaravel-quotes) | v1.0.0 |  | Quote requests, supplier quotations, negotiation, and acceptance workflows for… |
-| 2026-11-17 12:05:13 | [survelium/agent-analytics-php](https://www.nuget.org/packages/survelium%2Fagent-analytics-php) | v0.1.0 | Catalin Prodan | Detect AI crawlers and AI-referred visitors server-side and report them to Surv… |
-| 2026-11-17 12:07:10 | [itmosoft/laravel-contract-pricing](https://www.nuget.org/packages/itmosoft%2Flaravel-contract-pricing) | v1.0.0 |  | Customer-specific contract price lists and quantity-based negotiated product pr… |
-| 2026-11-17 12:09:10 | [jeffersongoncalves/laravel-gdpr-retention](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-gdpr-retention) | 1.0.0 | Jefferson Gonçalves | GDPR storage limitation for Laravel (Art. 5(1)(e)): anonymize personal data whe… |
-| 2026-11-17 12:09:41 | [jeffersongoncalves/laravel-gdpr-audit-log](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-gdpr-audit-log) | 1.0.0 | Jefferson Gonçalves | GDPR accountability for Laravel (Art. 5(2)): tamper-evident, hash-chained log o… |
-| 2026-11-17 12:10:41 | [survelium/agent-analytics-laravel](https://www.nuget.org/packages/survelium%2Fagent-analytics-laravel) | v0.1.0 | Catalin Prodan | Laravel integration for Survelium agent analytics: report AI crawlers and AI-re… |
-| 2026-11-17 12:13:10 | [itmosoft/laravel-seller-verification](https://www.nuget.org/packages/itmosoft%2Flaravel-seller-verification) | 1.0.1 |  | Seller verification workflows for Laravel applications, with polymorphic seller… |
-| 2026-11-17 12:14:47 | [jeffersongoncalves/laravel-gdpr-breaches](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-gdpr-breaches) | 1.0.0 | Jefferson Gonçalves | GDPR personal data breach register for Laravel: 72-hour clock to the supervisor… |
-| 2026-11-17 12:18:38 | [jeffersongoncalves/laravel-gdpr-records](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-gdpr-records) | 1.0.0 | Jefferson Gonçalves | GDPR records of processing activities for Laravel (Art. 30): purposes, lawful b… |
+| 2026-11-17 12:23:00 | [jeffersongoncalves/laravel-gdpr-vendors](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-gdpr-vendors) | 1.0.0 | Jefferson Gonçalves | GDPR vendor register for Laravel: processors and controllers you share personal… |
+| 2026-11-17 12:23:20 | [itmosoft/laravel-disputes](https://www.nuget.org/packages/itmosoft%2Flaravel-disputes) | v1.0.0 |  | Dispute management workflows for Laravel applications, with polymorphic parties… |
+| 2026-11-17 12:26:50 | [itmosoft/laravel-escrow](https://www.nuget.org/packages/itmosoft%2Flaravel-escrow) | v1.0.0 |  | Escrow workflow records for Laravel applications, with integer minor-unit amoun… |
+| 2026-11-17 12:27:33 | [jeffersongoncalves/laravel-gdpr-dpia](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-gdpr-dpia) | 1.0.0 | Jefferson Gonçalves | GDPR data protection impact assessments for Laravel (Art. 35): risks scored by… |
+| 2026-11-17 12:29:52 | [itmosoft/laravel-b2b](https://www.nuget.org/packages/itmosoft%2Flaravel-b2b) | v1.0.0 |  | B2B commerce account management for Laravel applications, with company purchasi… |
+| 2026-11-17 12:31:07 | [jeffersongoncalves/filament-gdpr](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-gdpr) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-gdpr: your personal data inventory in the panel, wi… |
+| 2026-11-17 12:33:12 | [jeffersongoncalves/laravel-gdpr-children](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-gdpr-children) | 1.0.0 | Jefferson Gonçalves | GDPR children's consent for Laravel (Art. 8): age checks stored as results only… |
+| 2026-11-17 12:33:21 | [itmosoft/laravel-marketplace-messaging](https://www.nuget.org/packages/itmosoft%2Flaravel-marketplace-messaging) | v1.0.0 |  | Marketplace conversation and messaging primitives for Laravel applications, wit… |
+| 2026-11-17 12:35:47 | [jeffersongoncalves/filament-gdpr-consent](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-gdpr-consent) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-gdpr-consent: the GDPR consent ledger in your panel… |
+| 2026-11-17 12:39:32 | [itmosoft/laravel-service-listings](https://www.nuget.org/packages/itmosoft%2Flaravel-service-listings) | v1.0.0 |  | Service provider profiles and service listings for Laravel applications, with p… |
+| 2026-11-17 12:41:04 | [jeffersongoncalves/filament-gdpr-dsar](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-gdpr-dsar) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-gdpr-dsar: handle GDPR data subject requests (Arts.… |
+| 2026-11-17 12:42:21 | [itmosoft/laravel-proposals](https://www.nuget.org/packages/itmosoft%2Flaravel-proposals) | v1.0.0 |  | Proposal creation, submission, negotiation, counteroffers, and acceptance workf… |
+| 2026-11-17 12:47:03 | [jeffersongoncalves/filament-gdpr-retention](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-gdpr-retention) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-gdpr-retention: GDPR storage limitation run from yo… |
+| 2026-11-17 12:48:36 | [jeffersongoncalves/filament-gdpr-audit-log](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-gdpr-audit-log) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-gdpr-audit-log: the GDPR accountability log in your… |
+| 2026-11-17 12:49:56 | [nexphp/nexphp](https://www.nuget.org/packages/nexphp%2Fnexphp) | v1.0.0 | snigdho | NexPHP — Next-generation PHP framework designed for modern runtimes, developer… |
+| 2026-11-17 12:53:00 | [jeffersongoncalves/filament-gdpr-records](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-gdpr-records) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-gdpr-records: maintain your GDPR records of process… |
+| 2026-11-17 12:56:27 | [itmosoft/laravel-contracts](https://www.nuget.org/packages/itmosoft%2Flaravel-contracts) | v1.0.0 |  | Commercial agreement and contract lifecycle management for Laravel applications… |
+| 2026-11-17 12:57:29 | [jeffersongoncalves/filament-gdpr-vendors](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-gdpr-vendors) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-gdpr-vendors: keep your GDPR vendor register in the… |
+| 2026-11-17 12:58:49 | [itmosoft/laravel-tenders](https://www.nuget.org/packages/itmosoft%2Flaravel-tenders) | v1.0.0 |  | Tender publishing and bid submission workflows for Laravel applications, with d… |
+| 2026-11-17 12:58:59 | [lfiweb/spreadsheet-writer](https://www.nuget.org/packages/lfiweb%2Fspreadsheet-writer) | v1.0.0 |  | Lightweight writer for XLSX and ODS spreadsheet files without formulas or readi… |
+| 2026-11-17 13:01:39 | [itmosoft/laravel-procurement](https://www.nuget.org/packages/itmosoft%2Flaravel-procurement) | v1.0.0 |  | Procurement request and approval workflow primitives for Laravel applications,… |
+| 2026-11-17 13:04:01 | [itmosoft/laravel-compliance](https://www.nuget.org/packages/itmosoft%2Flaravel-compliance) | v1.0.0 |  | Compliance requirement and evidence tracking for Laravel applications, with pol… |
+| 2026-11-17 13:12:10 | [mertaydin/laravel-maintenance-manager](https://www.nuget.org/packages/mertaydin%2Flaravel-maintenance-manager) | v0.1.1 |  | A beautiful maintenance mode manager for Laravel applications. |
 
 ## Data source
 
