@@ -15,17 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 21:21 UTC
+## Latest list — 2026-11-17 22:21 UTC
 
-New packages created between 2026-11-17 20:20 UTC and 2026-11-17 21:21 UTC.
+New packages created between 2026-11-17 21:21 UTC and 2026-11-17 22:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-17T21-21-45-935034Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-17T22-21-50-397964Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-17 20:28:16 | [thebeardedbear/urssaf-tierce-declaration-paje](https://www.nuget.org/packages/thebeardedbear%2Furssaf-tierce-declaration-paje) | v0.1.0 | The Bearded Bear | Client and domain model for the URSSAF "API Tierce Déclaration PAJE" (third-par… |
-| 2026-11-17 20:49:11 | [z3l/fasthtmlparser](https://www.nuget.org/packages/z3l%2Ffasthtmlparser) | v0.1.0 | z3l | Fast HTML / XML parser for scraping, with XPath 1.0 and CSS selectors. PHP port… |
-| 2026-11-17 21:08:39 | [backdrop-dev/attr](https://www.nuget.org/packages/backdrop-dev%2Fattr) | v1.0.0 | Benjamin Lu | Backdrop Attr provides devs a system for adding filterable attributes. This is… |
+| 2026-11-17 21:35:43 | [sharpfy/nextapi](https://www.nuget.org/packages/sharpfy%2Fnextapi) | v0.2.0 | Sharpfy | SDK oficial da NextAPI para PHP: CNPJ (inclusive alfanumérico), CEP, sócios e m… |
+| 2026-11-17 21:51:46 | [backdrop-dev/template-manager](https://www.nuget.org/packages/backdrop-dev%2Ftemplate-manager) | v1.0.0 | Benjamin Lu | Custom templates for registering custom post templates, it works for any object… |
+| 2026-11-17 21:52:20 | [nubo-db/dynoxide](https://www.nuget.org/packages/nubo-db%2Fdynoxide) | v1.7.0 |  | Start a Dynoxide DynamoDB emulator from PHP tests: downloads, verifies and runs… |
+| 2026-11-17 22:04:31 | [sirthxalot/symfoniq](https://www.nuget.org/packages/sirthxalot%2Fsymfoniq) | v1.0.0 | Alexander Bösch | A demonstration web application based on the Symfony PHP framework following be… |
+| 2026-11-17 22:07:46 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.33.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-17 22:14:41 | [rishadblack/sylloo-app-base](https://www.nuget.org/packages/rishadblack%2Fsylloo-app-base) | v1.0.0 | S M Rishad | The shared base of the Sylloo device apps (Sylloo POS, Sylloo App desktop and m… |
+| 2026-11-17 22:14:42 | [rishadblack/sylloo-app-native](https://www.nuget.org/packages/rishadblack%2Fsylloo-app-native) | v0.1.0 | S M Rishad | Sylloo App's phone package: the native faces of the shared screens and the smal… |
 
 ## Data source
 

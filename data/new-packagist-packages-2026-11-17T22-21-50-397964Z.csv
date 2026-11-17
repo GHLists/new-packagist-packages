@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-17T21:35:43Z,sharpfy/nextapi,v0.2.0,Sharpfy,"SDK oficial da NextAPI para PHP: CNPJ (inclusive alfanumérico), CEP, sócios e mercado. Sem dependências."
+2026-11-17T21:51:46Z,backdrop-dev/template-manager,v1.0.0,Benjamin Lu,"Custom templates for registering custom post templates, it works for any object type (e.g., post, term, user, etc.), but does not add any UI elements of its own."
+2026-11-17T21:52:20Z,nubo-db/dynoxide,v1.7.0,,"Start a Dynoxide DynamoDB emulator from PHP tests: downloads, verifies and runs the binary, with a PHPUnit extension."
+2026-11-17T22:04:31Z,sirthxalot/symfoniq,v1.0.0,Alexander Bösch,A demonstration web application based on the Symfony PHP framework following best practices and design patterns.
+2026-11-17T22:07:46Z,nubos/starterkit,v1.33.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-17T22:14:41Z,rishadblack/sylloo-app-base,v1.0.0,S M Rishad,"The shared base of the Sylloo device apps (Sylloo POS, Sylloo App desktop and mobile): activation, Sign in with browser, PIN and lock, device states, release, the office calls and the REST client with its offline waiting list, updates, their screens (one logic, a Livewire + wire-bootstrap web face)…"
+2026-11-17T22:14:42Z,rishadblack/sylloo-app-native,v0.1.0,S M Rishad,Sylloo App's phone package: the native faces of the shared screens and the small Kotlin jobs (NativePHP Mobile plugin).
