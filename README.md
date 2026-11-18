@@ -15,18 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 13:20 UTC
+## Latest list — 2026-11-18 14:21 UTC
 
-New packages created between 2026-11-18 12:19 UTC and 2026-11-18 13:20 UTC.
+New packages created between 2026-11-18 13:20 UTC and 2026-11-18 14:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-18T13-20-25-928911Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-18T14-21-09-335488Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-18 12:40:23 | [mcarrowsmith-packages/smtp-debug](https://www.nuget.org/packages/mcarrowsmith-packages%2Fsmtp-debug) | v1.0.0 |  | A trivial tool to test and debug SMTP connectivity using PHPMailer. Works stand… |
-| 2026-11-18 12:44:15 | [aivcsb/nova-system-settings](https://www.nuget.org/packages/aivcsb%2Fnova-system-settings) | 1.0.2 |  | Nova 后台系统设置页: Schema 驱动的自定义设置表单 (常规/用户/安全/通知), 替代资源列表页 |
-| 2026-11-18 12:49:33 | [limegreentangerine/zumika_social_wall](https://www.nuget.org/packages/limegreentangerine%2Fzumika_social_wall) | v1.0.0 | Dave Hendy | Show a Zumika social wall on your Concrete CMS site. |
-| 2026-11-18 13:10:15 | [blackbird/customeritemstockalert-hyva-compatibility](https://www.nuget.org/packages/blackbird%2Fcustomeritemstockalert-hyva-compatibility) | 1.0.0 |  | Blackbird Customer Item Stock Alert Compatibility with Hÿva Theme check https:/… |
+| 2026-11-18 13:30:20 | [el-choco/error-analyzer](https://www.nuget.org/packages/el-choco%2Ferror-analyzer) | v0.1.0-alpha.2 | el-choco | Group Flarum log errors, identify packages mentioned in stack traces, and prepa… |
+| 2026-11-18 13:30:23 | [tornado-engine/notifications](https://www.nuget.org/packages/tornado-engine%2Fnotifications) | v0.1.0 |  | Tornado Engine core-module: the notification bell in the menu bar, with modules… |
+| 2026-11-18 13:49:57 | [qiick/laravel-oidc](https://www.nuget.org/packages/qiick%2Flaravel-oidc) | 1.0.0-beta.1 | Qiick | OpenID Connect client for Laravel: PKCE, id_token validation, logout, role mapp… |
+| 2026-11-18 13:55:19 | [phactorial/phactorial](https://www.nuget.org/packages/phactorial%2Fphactorial) | v0.18.0 | One Learning Community | Math typesetting in plain PHP: reads TeX and MathML, writes SVG, PNG, MathML, T… |
+| 2026-11-18 13:59:20 | [gadwinn/framework](https://www.nuget.org/packages/gadwinn%2Fframework) | v0.1.0 |  | Lightweight PSR-7/PSR-15 framework assembling the gadwinn/* packages. |
+| 2026-11-18 14:01:22 | [phactorial/commonmark](https://www.nuget.org/packages/phactorial%2Fcommonmark) | v0.18.0 | One Learning Community | GitHub's math syntax for league/commonmark, typeset on the server as SVG or Mat… |
+| 2026-11-18 14:02:25 | [gadwinn/skeleton](https://www.nuget.org/packages/gadwinn%2Fskeleton) | v0.1.0 |  | Starting project for gadwinn/framework applications. |
+| 2026-11-18 14:17:35 | [kafyx-3/laravel-datatables-export](https://www.nuget.org/packages/kafyx-3%2Flaravel-datatables-export) | v1.0.0 | kafyx-3 | Shortcut DataTables v2 + Export buttons tanpa jQuery untuk Laravel. |
+| 2026-11-18 14:19:49 | [bertrapp/corretor-php](https://www.nuget.org/packages/bertrapp%2Fcorretor-php) | v0.2.0 |  | Padrão de código verificável por ferramenta: analisa projetos Laravel e Node/Ty… |
 
 ## Data source
 

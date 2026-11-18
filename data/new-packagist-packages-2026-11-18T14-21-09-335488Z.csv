@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-18T13:30:20Z,el-choco/error-analyzer,v0.1.0-alpha.2,el-choco,"Group Flarum log errors, identify packages mentioned in stack traces, and prepare redacted support reports."
+2026-11-18T13:30:23Z,tornado-engine/notifications,v0.1.0,,"Tornado Engine core-module: the notification bell in the menu bar, with modules still to be set up."
+2026-11-18T13:49:57Z,qiick/laravel-oidc,1.0.0-beta.1,Qiick,"OpenID Connect client for Laravel: PKCE, id_token validation, logout, role mapping. Works with any IdP."
+2026-11-18T13:55:19Z,phactorial/phactorial,v0.18.0,One Learning Community,"Math typesetting in plain PHP: reads TeX and MathML, writes SVG, PNG, MathML, TeX, Word equations (OMML) and text."
+2026-11-18T13:59:20Z,gadwinn/framework,v0.1.0,,Lightweight PSR-7/PSR-15 framework assembling the gadwinn/* packages.
+2026-11-18T14:01:22Z,phactorial/commonmark,v0.18.0,One Learning Community,"GitHub's math syntax for league/commonmark, typeset on the server as SVG or MathML with Phactorial."
+2026-11-18T14:02:25Z,gadwinn/skeleton,v0.1.0,,Starting project for gadwinn/framework applications.
+2026-11-18T14:17:35Z,kafyx-3/laravel-datatables-export,v1.0.0,kafyx-3,Shortcut DataTables v2 + Export buttons tanpa jQuery untuk Laravel.
+2026-11-18T14:19:49Z,bertrapp/corretor-php,v0.2.0,,Padrão de código verificável por ferramenta: analisa projetos Laravel e Node/TypeScript e aponta violações das convenções do time.
