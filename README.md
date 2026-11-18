@@ -15,26 +15,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 11:21 UTC
+## Latest list — 2026-11-18 12:19 UTC
 
-New packages created between 2026-11-18 10:23 UTC and 2026-11-18 11:21 UTC.
+New packages created between 2026-11-18 11:21 UTC and 2026-11-18 12:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-18T11-21-34-255611Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-18T12-19-23-762363Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-18 10:33:01 | [mertaydin/laravel-system-monitor](https://www.nuget.org/packages/mertaydin%2Flaravel-system-monitor) | v0.1.2 |  | A customizable Laravel system monitoring dashboard for server resources, PHP, d… |
-| 2026-11-18 10:37:16 | [agent001/magento-support-assistant](https://www.nuget.org/packages/agent001%2Fmagento-support-assistant) | 1.1.0 |  | Agent001 catalog synchronization and storefront assistant for Magento 2 |
-| 2026-11-18 10:42:17 | [mom/microsoft](https://www.nuget.org/packages/mom%2Fmicrosoft) | v6.4.0 | Darwin Luague | A Microsoft 365 connector for mom/connectors: sign in with Microsoft and read a… |
-| 2026-11-18 11:10:30 | [chmuzamil/pakdatakit](https://www.nuget.org/packages/chmuzamil%2Fpakdatakit) | v2.5.0 | Muzamil Chaudhery | Pakistani data utilities for PHP and Laravel: validate CNIC, mobile, IBAN, NTN/… |
-| 2026-11-18 11:13:10 | [klxm/fluid](https://www.nuget.org/packages/klxm%2Ffluid) | 1.0.0-beta.1 | Thomas Skerbis; KLXM Crossmed… | Blöcke mit Feldschema und Bearbeiten direkt auf der Website für REDAXO 6 |
-| 2026-11-18 11:13:15 | [klxm/fluid_demo](https://www.nuget.org/packages/klxm%2Ffluid_demo) | 1.0.0-beta.1 | Thomas Skerbis; KLXM Crossmed… | Ergänzung für das REDAXO-6-AddOn fluid: Demo-Modus – Besucher bearbeiten die We… |
-| 2026-11-18 11:13:19 | [klxm/image_editor](https://www.nuget.org/packages/klxm%2Fimage_editor) | 1.0.0-beta.1 | Thomas Skerbis; KLXM Crossmed… | Bilder zerstörungsfrei bearbeiten für REDAXO 6: Zuschneiden, Drehen, Spiegeln,… |
-| 2026-11-18 11:13:23 | [klxm/video_editor](https://www.nuget.org/packages/klxm%2Fvideo_editor) | 1.0.0-beta.1 | Thomas Skerbis; KLXM Crossmed… | Videos im REDAXO-6-Medienpool bearbeiten: analysieren, für das Web optimieren,… |
-| 2026-11-18 11:13:27 | [klxm/navigation_array](https://www.nuget.org/packages/klxm%2Fnavigation_array) | 1.0.0-beta.1 | Thomas Skerbis; KLXM Crossmed… | Navigation als Array für REDAXO 6: Kategorien und Artikel mit Hierarchie, Filte… |
-| 2026-11-18 11:13:31 | [klxm/quickbar](https://www.nuget.org/packages/klxm%2Fquickbar) | 1.0.0-beta.1 | Thomas Skerbis; KLXM Crossmed… | Successor of quick_navigation for REDAXO 6: command palette with live search ac… |
-| 2026-11-18 11:13:35 | [klxm/tiptap](https://www.nuget.org/packages/klxm%2Ftiptap) | 1.0.0-beta.1 | Thomas Skerbis; KLXM Crossmed… | WYSIWYG and Markdown editor for REDAXO 6 based on TipTap: profiles with toolbar… |
-| 2026-11-18 11:13:39 | [klxm/klxm_meta](https://www.nuget.org/packages/klxm%2Fklxm_meta) | 1.0.0-beta.1 | Thomas Skerbis; KLXM Crossmed… | Shared meta fields for REDAXO 6: alternative text per language and “decorative”… |
+| 2026-11-18 11:35:31 | [openswoole/ext-openswoole](https://www.nuget.org/packages/openswoole%2Fext-openswoole) | v26.11.0 |  | High Performance Programmatic Server for PHP with Async IO, Coroutines and Fibe… |
+| 2026-11-18 11:36:30 | [jeffersongoncalves/lgpdkitv5](https://www.nuget.org/packages/jeffersongoncalves%2Flgpdkitv5) | 5.11.2 |  | LgpdKit starter kit built on Laravel 13.x and Filament 5.x with a ready-to-use… |
+| 2026-11-18 11:53:13 | [jeffersongoncalves/lgpdkitv4](https://www.nuget.org/packages/jeffersongoncalves%2Flgpdkitv4) | 4.14.0 |  | LgpdKit starter kit built on Laravel 13.x and Filament 4.x with a ready-to-use… |
+| 2026-11-18 11:54:39 | [jeffersongoncalves/lgpdkitv3](https://www.nuget.org/packages/jeffersongoncalves%2Flgpdkitv3) | 3.3.56 |  | LgpdKit starter kit built on Laravel 13.x and Filament 3.x with a ready-to-use… |
+| 2026-11-18 11:55:56 | [jeffersongoncalves/gdprkitv5](https://www.nuget.org/packages/jeffersongoncalves%2Fgdprkitv5) | 5.11.2 |  | GdprKit starter kit built on Laravel 13.x and Filament 5.x with a ready-to-use… |
+| 2026-11-18 11:58:40 | [jeffersongoncalves/gdprkitv3](https://www.nuget.org/packages/jeffersongoncalves%2Fgdprkitv3) | 3.3.56 |  | GdprKit starter kit built on Laravel 13.x and Filament 3.x with a ready-to-use… |
+| 2026-11-18 11:59:56 | [jeffersongoncalves/ccpakitv5](https://www.nuget.org/packages/jeffersongoncalves%2Fccpakitv5) | 5.11.2 |  | CcpaKit starter kit built on Laravel 13.x and Filament 5.x with a ready-to-use… |
+| 2026-11-18 12:01:22 | [jeffersongoncalves/ccpakitv4](https://www.nuget.org/packages/jeffersongoncalves%2Fccpakitv4) | 4.14.0 |  | CcpaKit starter kit built on Laravel 13.x and Filament 4.x with a ready-to-use… |
+| 2026-11-18 12:04:01 | [jeffersongoncalves/usprivacykitv5](https://www.nuget.org/packages/jeffersongoncalves%2Fusprivacykitv5) | 5.11.2 |  | UsPrivacyKit starter kit built on Laravel 13.x and Filament 5.x with a ready-to… |
+| 2026-11-18 12:05:22 | [jeffersongoncalves/usprivacykitv4](https://www.nuget.org/packages/jeffersongoncalves%2Fusprivacykitv4) | 4.14.0 |  | UsPrivacyKit starter kit built on Laravel 13.x and Filament 4.x with a ready-to… |
+| 2026-11-18 12:06:40 | [jeffersongoncalves/usprivacykitv3](https://www.nuget.org/packages/jeffersongoncalves%2Fusprivacykitv3) | 3.3.56 |  | UsPrivacyKit starter kit built on Laravel 13.x and Filament 3.x with a ready-to… |
+| 2026-11-18 12:09:19 | [jeffersongoncalves/quebeckitv4](https://www.nuget.org/packages/jeffersongoncalves%2Fquebeckitv4) | 4.14.0 |  | QuebecKit starter kit built on Laravel 13.x and Filament 4.x with a ready-to-us… |
+| 2026-11-18 12:10:40 | [jeffersongoncalves/quebeckitv3](https://www.nuget.org/packages/jeffersongoncalves%2Fquebeckitv3) | 3.3.56 |  | QuebecKit starter kit built on Laravel 13.x and Filament 3.x with a ready-to-us… |
 
 ## Data source
 
