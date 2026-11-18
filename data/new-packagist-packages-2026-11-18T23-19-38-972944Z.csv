@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-18T22:25:20Z,grupoclip/bcv-today,v1.0.0,Grupo Clip,"Official PHP client for the BCV Today API: Banco Central de Venezuela (BCV) exchange rates for USD, EUR, CNY, TRY and RUB, with exact decimal conversions and Laravel integration."
+2026-11-18T22:25:42Z,useflex/media-studio,v0.1.0,,"Self-hosted media library for Laravel with workspace storage, optional AI and Filament integrations."
+2026-11-18T22:55:45Z,esoul-cz/guidelines,v0.1.0,,"Layered, mergeable project guidelines for eSoul projects (Laravel, LSR, Astro) with drift detection."
+2026-11-18T23:01:19Z,daika7ana/simple-collections,v1.0.0,,Dependency-free Collection and LazyCollection for PHP 8.3+.

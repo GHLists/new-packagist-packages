@@ -15,21 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 22:22 UTC
+## Latest list — 2026-11-18 23:19 UTC
 
-New packages created between 2026-11-18 21:22 UTC and 2026-11-18 22:22 UTC.
+New packages created between 2026-11-18 22:22 UTC and 2026-11-18 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-18T22-22-32-484614Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-18T23-19-38-972944Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-18 21:23:11 | [prodbat/prodbat](https://www.nuget.org/packages/prodbat%2Fprodbat) | v0.0.1 |  | Monitoring for apps built with AI: server errors, logs, scheduled jobs and queu… |
-| 2026-11-18 21:31:29 | [hryvinskyi/magento2-catalog-sorting-pack](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-catalog-sorting-pack) | 1.0.0 | Volodymyr Hryvinskyi | Catalog sorting for Magento 2 in the search engine: out-of-stock products and p… |
-| 2026-11-18 21:56:11 | [jeffersongoncalves/laravel-privacy](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-privacy) | 1.0.0 | Jefferson Gonçalves | Shared privacy engine for the LGPD, GDPR, CCPA, US state and Quebec Law 25 suit… |
-| 2026-11-18 21:59:17 | [apimediaru/filament-documentation](https://www.nuget.org/packages/apimediaru%2Ffilament-documentation) | v0.1.0 |  | Markdown customer guides from installed packages in Filament. |
-| 2026-11-18 22:01:30 | [disputeguard/disputeguard-php](https://www.nuget.org/packages/disputeguard%2Fdisputeguard-php) | v0.1.0 |  | PHP client for the DisputeGuard Connect API: push orders and activity evidence,… |
-| 2026-11-18 22:01:44 | [uams-web/aether-enums](https://www.nuget.org/packages/uams-web%2Faether-enums) | v0.1.0 | UAMS Web Services; Josh Daugh… | The enums UAMS Statamic sites read (countries, currencies, languages, U.S. geog… |
-| 2026-11-18 22:02:12 | [uams-web/aether-fieldtypes](https://www.nuget.org/packages/uams-web%2Faether-fieldtypes) | v0.1.0 | UAMS Web Services; Josh Daugh… | The shared fieldtype add-on for UAMS Statamic sites: the traits, Control Panel… |
+| 2026-11-18 22:25:20 | [grupoclip/bcv-today](https://www.nuget.org/packages/grupoclip%2Fbcv-today) | v1.0.0 | Grupo Clip | Official PHP client for the BCV Today API: Banco Central de Venezuela (BCV) exc… |
+| 2026-11-18 22:25:42 | [useflex/media-studio](https://www.nuget.org/packages/useflex%2Fmedia-studio) | v0.1.0 |  | Self-hosted media library for Laravel with workspace storage, optional AI and F… |
+| 2026-11-18 22:55:45 | [esoul-cz/guidelines](https://www.nuget.org/packages/esoul-cz%2Fguidelines) | v0.1.0 |  | Layered, mergeable project guidelines for eSoul projects (Laravel, LSR, Astro)… |
+| 2026-11-18 23:01:19 | [daika7ana/simple-collections](https://www.nuget.org/packages/daika7ana%2Fsimple-collections) | v1.0.0 |  | Dependency-free Collection and LazyCollection for PHP 8.3+. |
 
 ## Data source
 
