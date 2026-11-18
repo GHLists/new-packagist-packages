@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-18T04:22:31Z,hampel/paypal-api,0.1.0,Simon Hampel,"A PHP client for the PayPal REST API - transaction search, captures and refunds, subscriptions and webhook verification - over any PSR-18 HTTP client"
+2026-11-18T04:52:59Z,robsontaviano/meadow,1.0.2,Robson Tenório,Gorgeous UI components for Livewire powered by daisyUI and Tailwind
+2026-11-18T05:00:26Z,hampel/paypal-api-laravel,0.1.0,Simon Hampel,"Laravel service provider, manager and facade for the PayPal REST API client, with named connections, cached tokens, and Http::fake() support"
+2026-11-18T05:04:13Z,jeffersongoncalves/laravel-quebec-requests,1.0.0,Jefferson Gonçalves,"Requests under Quebec Law 25: access, rectification, deletion, de-indexation, portability and automated decisions, answered within 30 days, with the refusal and the CAI review"
+2026-11-18T05:09:10Z,jeffersongoncalves/laravel-quebec-incidents,1.0.0,Jefferson Gonçalves,"Confidentiality incidents under Quebec Law 25: the mandatory incident register, the risk of serious injury assessment, notices to the CAI and the persons concerned, kept 5 years"
+2026-11-18T05:13:12Z,jeffersongoncalves/laravel-quebec-governance,1.0.0,Jefferson Gonçalves,"Governance under Quebec Law 25: the person in charge of the protection of personal information, governance policies, the processing activities inventory and a published privacy policy"
+2026-11-18T05:17:29Z,jeffersongoncalves/laravel-quebec-vendors,1.0.0,Jefferson Gonçalves,"Vendors under Quebec Law 25: service providers with a written mandate contract (s. 18.3), communications outside Quebec after a privacy impact assessment (s. 17), risk-based reviews"
