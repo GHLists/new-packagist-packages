@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-18T16:45:53Z,keyring/keyring,v0.1.0,,"Factor-driven authentication for Laravel: many authenticators per user, devices, sessions, step-up and risk."
+2026-11-18T16:48:58Z,okarabudka/laravel-base,v1.0.0,,"Laravel 12 project template with Docker (PHP-FPM, Nginx, Mailpit), Pest, Pint, Larastan and CI."
+2026-11-18T16:49:21Z,erag/laravel-orphan-files,v0.0.1,Er Amit Gupta,"Find the uploaded files your Laravel app no longer uses, like old avatars and images from deleted posts, and clean them up safely with a preview and a restorable trash. Works with local disks, S3, MinIO and RustFS."
+2026-11-18T16:49:54Z,particle-academy/fancy-service-token,v0.1.0,Particle Academy,"Short-lived HMAC-SHA256 service tokens from a Laravel app to its sidecar: a signer with Laravel HTTP client integration, the caller's request id, nonces and key rotation, plus a framework-free verifier. Standard library only (hash_hmac / hash_equals), no JWT library."
+2026-11-18T16:50:15Z,hds-solutions/laravel-appsync-events,v0.1.0,Hermann D. Schimpf,"AWS AppSync Events broadcasting driver for Laravel, with a Laravel Echo connector"
+2026-11-18T17:03:47Z,mageenv/module-e-invoice-hyva,1.0.0,,"Hyva storefront templates for MageEnv XRechnung & ZUGFeRD E-Invoicing: e-invoice downloads on the customer's invoice and credit memo pages and the B2B e-invoice settings in the customer account, for Hyva themes. No business logic."
