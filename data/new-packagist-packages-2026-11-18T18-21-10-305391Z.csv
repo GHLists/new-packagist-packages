@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-18T17:40:19Z,hrabosh/ema-upd-client,0.1.0,,Framework-independent PHP client for the EMA Union Product Database for veterinary medicines.
+2026-11-18T17:46:08Z,e98/laravel-youtrack,v0.1.0,,"Laravel wrapper for the JetBrains YouTrack REST API: create issues, read status and details, comment, search."
+2026-11-18T18:07:11Z,amrachraf6699/wtf-happened,v1.0.1,,A Git-first Laravel catch-up command with optional AI summaries.
+2026-11-18T18:07:38Z,bannerstop/sonar-php,v1.0.0,bannerstop GmbH,"Pulse client for sonar: report that a PHP job ran, with a short timeout, an on-disk buffer for outages and no dependencies"

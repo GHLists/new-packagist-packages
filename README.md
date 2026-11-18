@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 17:19 UTC
+## Latest list — 2026-11-18 18:21 UTC
 
-New packages created between 2026-11-18 16:19 UTC and 2026-11-18 17:19 UTC.
+New packages created between 2026-11-18 17:19 UTC and 2026-11-18 18:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-18T17-19-43-709243Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-18T18-21-10-305391Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-18 16:45:53 | [keyring/keyring](https://www.nuget.org/packages/keyring%2Fkeyring) | v0.1.0 |  | Factor-driven authentication for Laravel: many authenticators per user, devices… |
-| 2026-11-18 16:48:58 | [okarabudka/laravel-base](https://www.nuget.org/packages/okarabudka%2Flaravel-base) | v1.0.0 |  | Laravel 12 project template with Docker (PHP-FPM, Nginx, Mailpit), Pest, Pint,… |
-| 2026-11-18 16:49:21 | [erag/laravel-orphan-files](https://www.nuget.org/packages/erag%2Flaravel-orphan-files) | v0.0.1 | Er Amit Gupta | Find the uploaded files your Laravel app no longer uses, like old avatars and i… |
-| 2026-11-18 16:49:54 | [particle-academy/fancy-service-token](https://www.nuget.org/packages/particle-academy%2Ffancy-service-token) | v0.1.0 | Particle Academy | Short-lived HMAC-SHA256 service tokens from a Laravel app to its sidecar: a sig… |
-| 2026-11-18 16:50:15 | [hds-solutions/laravel-appsync-events](https://www.nuget.org/packages/hds-solutions%2Flaravel-appsync-events) | v0.1.0 | Hermann D. Schimpf | AWS AppSync Events broadcasting driver for Laravel, with a Laravel Echo connect… |
-| 2026-11-18 17:03:47 | [mageenv/module-e-invoice-hyva](https://www.nuget.org/packages/mageenv%2Fmodule-e-invoice-hyva) | 1.0.0 |  | Hyva storefront templates for MageEnv XRechnung & ZUGFeRD E-Invoicing: e-invoic… |
+| 2026-11-18 17:40:19 | [hrabosh/ema-upd-client](https://www.nuget.org/packages/hrabosh%2Fema-upd-client) | 0.1.0 |  | Framework-independent PHP client for the EMA Union Product Database for veterin… |
+| 2026-11-18 17:46:08 | [e98/laravel-youtrack](https://www.nuget.org/packages/e98%2Flaravel-youtrack) | v0.1.0 |  | Laravel wrapper for the JetBrains YouTrack REST API: create issues, read status… |
+| 2026-11-18 18:07:11 | [amrachraf6699/wtf-happened](https://www.nuget.org/packages/amrachraf6699%2Fwtf-happened) | v1.0.1 |  | A Git-first Laravel catch-up command with optional AI summaries. |
+| 2026-11-18 18:07:38 | [bannerstop/sonar-php](https://www.nuget.org/packages/bannerstop%2Fsonar-php) | v1.0.0 | bannerstop GmbH | Pulse client for sonar: report that a PHP job ran, with a short timeout, an on-… |
 
 ## Data source
 
