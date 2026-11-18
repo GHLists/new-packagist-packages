@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-18T09:29:09Z,mom/connectors,v6.3.0,Darwin Luague,A small SDK for describing the outside accounts a Laravel app connects.
+2026-11-18T09:31:57Z,shadrackjm/rampart,v0.1.0,Shadrack Mballah,"Roles & permissions for the Laravel Livewire starter kit. One command, Flux free, beautiful by default."
+2026-11-18T09:33:26Z,jeromegxj/castor-api,v0.1.0,Jérôme Gangneux,Expose Castor tasks marked with #[AsApi] over HTTP
+2026-11-18T09:33:33Z,mulertech/alerting-bundle,v1.0.0,Sébastien Muler,"Symfony bundle reporting whatever malfunctions in an application, over channels tried in order"
+2026-11-18T09:47:41Z,adachsoft/ai-model-list-tool,v0.1.0,Arkadiusz Adach,"An ai-tool-call tool for listing AI providers, models, and optional pricing metadata."
+2026-11-18T09:50:46Z,glassjob/job-executor-php,v0.4.0,,GlassJob PHP SDK: Executor (WebSocket protocol 1.1) and Admin HTTP client
+2026-11-18T10:03:09Z,reafeicht/prairie,1.0.1,Rea Feichtinger,Gorgeous UI components for Livewire powered by daisyUI and Tailwind
+2026-11-18T10:19:51Z,charm/composer-pie,0.1.0,Frode Børli,"PIE (the PHP Foundation's extension installer), per project: install PHP extensions into vendor/ and run PHP with them loaded."
