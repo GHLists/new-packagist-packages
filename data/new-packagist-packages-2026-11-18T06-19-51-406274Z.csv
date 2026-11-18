@@ -1,0 +1,16 @@
+created_at,package,version,author,description
+2026-11-18T05:21:16Z,jeffersongoncalves/laravel-quebec-pia,1.0.0,Jefferson Gonçalves,"Privacy impact assessments under Quebec Law 25: for information system projects (s. 3.3) and before communicating outside Quebec (s. 17), with scored risks, the person in charge's opinion, approval and review"
+2026-11-18T05:21:48Z,jeffersongoncalves/laravel-quebec-minors,1.0.0,Jefferson Gonçalves,"Minors under Quebec Law 25: consent of the person having parental authority under 14 (ss. 4.1 and 14), age assurance, guardian links and an adult-only middleware"
+2026-11-18T05:23:39Z,crabphp/psx,v0.1.0,,"PSX for Crab: a PHP server class and a React component in one file, with generated typed bindings"
+2026-11-18T05:25:05Z,b4n1/b4n1-db,v0.1.0,,b4n1-db SDK for PHP - sovereign embedded database over the b4n1-db binary
+2026-11-18T05:44:18Z,jeffersongoncalves/filament-quebec,3.0.0,Jefferson Gonçalves,"Filament admin for Quebec Law 25: the personal information inventory declared on your models, with sensitive information, communication outside Quebec and profiling flagged"
+2026-11-18T05:45:53Z,jeffersongoncalves/filament-quebec-consent,3.0.0,Jefferson Gonçalves,"Filament admin for Quebec Law 25 consent: the consent ledger per purpose, per user and visitor, with history and proof"
+2026-11-18T05:47:27Z,jeffersongoncalves/filament-quebec-requests,3.0.0,Jefferson Gonçalves,"Filament admin for Quebec Law 25 requests: access, portability, rectification, deletion, de-indexation and automated decisions, answered within 30 days"
+2026-11-18T05:48:58Z,jeffersongoncalves/filament-quebec-retention,3.0.0,Jefferson Gonçalves,"Filament admin for Quebec Law 25 retention: tombstones of destroyed or anonymized personal information, re-applied after a backup restore"
+2026-11-18T05:50:28Z,jeffersongoncalves/filament-quebec-audit-log,3.0.0,Jefferson Gonçalves,"Filament admin for the Quebec Law 25 audit log: who viewed, changed, exported or anonymized whose personal information, with the hash chain check"
+2026-11-18T05:52:03Z,jeffersongoncalves/filament-quebec-incidents,3.0.0,Jefferson Gonçalves,"Filament admin for Quebec Law 25 confidentiality incidents: the incident register, the risk of serious injury assessment and the notices to the CAI and the persons concerned"
+2026-11-18T05:53:37Z,jeffersongoncalves/filament-quebec-governance,3.0.0,Jefferson Gonçalves,"Filament admin for Quebec Law 25 governance: processing activities, recipients and communications outside Quebec, with the governance gaps"
+2026-11-18T05:55:09Z,jeffersongoncalves/filament-quebec-vendors,3.0.0,Jefferson Gonçalves,Filament admin for Quebec Law 25 vendors: service providers under a written contract (s. 18.3) and communications outside Quebec after an assessment (s. 17)
+2026-11-18T05:56:43Z,jeffersongoncalves/filament-quebec-pia,3.0.0,Jefferson Gonçalves,"Filament admin for Quebec Law 25 privacy impact assessments: projects (s. 3.3) and communications outside Quebec (s. 17), with scored risks and approval"
+2026-11-18T05:58:16Z,jeffersongoncalves/filament-quebec-minors,3.0.0,Jefferson Gonçalves,Filament admin for Quebec Law 25 minors: age checks and links to the person having parental authority for users under 14
+2026-11-18T06:03:20Z,robsontaviano/meadow,1.0.3,Robson Tenório,Gorgeous UI components for Livewire powered by daisyUI and Tailwind
