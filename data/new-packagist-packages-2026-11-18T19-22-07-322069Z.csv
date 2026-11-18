@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-18T18:29:52Z,westmschools/hello-wizard-of-oz,v1.0.0,,"Tornado Engine module: a random Wizard of Oz quote in the header of every page, like Hello Dolly."
+2026-11-18T18:31:15Z,numencode/wn-syncops-plugin,v2.0.1,Blaz Orazem,"Deployment, synchronization and backup commands for Winter CMS: deploy via Git, pull databases and media from a server over SSH, and back up databases, media and project files to cloud storage."
+2026-11-18T18:31:18Z,numencode/wn-dropboxadapter-plugin,v2.0.1,Blaz Orazem,Dropbox (API v2) filesystem disk for Winter CMS with OAuth2 refresh tokens and PKCE support.
+2026-11-18T19:01:10Z,woocommerce/extension-changelogger,v1.0.0,,Jetpack Changelogger formatter for the WooCommerce extension changelog format

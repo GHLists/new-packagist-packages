@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 18:21 UTC
+## Latest list — 2026-11-18 19:22 UTC
 
-New packages created between 2026-11-18 17:19 UTC and 2026-11-18 18:21 UTC.
+New packages created between 2026-11-18 18:21 UTC and 2026-11-18 19:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-18T18-21-10-305391Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-18T19-22-07-322069Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-18 17:40:19 | [hrabosh/ema-upd-client](https://www.nuget.org/packages/hrabosh%2Fema-upd-client) | 0.1.0 |  | Framework-independent PHP client for the EMA Union Product Database for veterin… |
-| 2026-11-18 17:46:08 | [e98/laravel-youtrack](https://www.nuget.org/packages/e98%2Flaravel-youtrack) | v0.1.0 |  | Laravel wrapper for the JetBrains YouTrack REST API: create issues, read status… |
-| 2026-11-18 18:07:11 | [amrachraf6699/wtf-happened](https://www.nuget.org/packages/amrachraf6699%2Fwtf-happened) | v1.0.1 |  | A Git-first Laravel catch-up command with optional AI summaries. |
-| 2026-11-18 18:07:38 | [bannerstop/sonar-php](https://www.nuget.org/packages/bannerstop%2Fsonar-php) | v1.0.0 | bannerstop GmbH | Pulse client for sonar: report that a PHP job ran, with a short timeout, an on-… |
+| 2026-11-18 18:29:52 | [westmschools/hello-wizard-of-oz](https://www.nuget.org/packages/westmschools%2Fhello-wizard-of-oz) | v1.0.0 |  | Tornado Engine module: a random Wizard of Oz quote in the header of every page,… |
+| 2026-11-18 18:31:15 | [numencode/wn-syncops-plugin](https://www.nuget.org/packages/numencode%2Fwn-syncops-plugin) | v2.0.1 | Blaz Orazem | Deployment, synchronization and backup commands for Winter CMS: deploy via Git,… |
+| 2026-11-18 18:31:18 | [numencode/wn-dropboxadapter-plugin](https://www.nuget.org/packages/numencode%2Fwn-dropboxadapter-plugin) | v2.0.1 | Blaz Orazem | Dropbox (API v2) filesystem disk for Winter CMS with OAuth2 refresh tokens and… |
+| 2026-11-18 19:01:10 | [woocommerce/extension-changelogger](https://www.nuget.org/packages/woocommerce%2Fextension-changelogger) | v1.0.0 |  | Jetpack Changelogger formatter for the WooCommerce extension changelog format |
 
 ## Data source
 
