@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-18T21:23:11Z,prodbat/prodbat,v0.0.1,,"Monitoring for apps built with AI: server errors, logs, scheduled jobs and queues, reported to Prodbat. Laravel and plain PHP."
+2026-11-18T21:31:29Z,hryvinskyi/magento2-catalog-sorting-pack,1.0.0,Volodymyr Hryvinskyi,"Catalog sorting for Magento 2 in the search engine: out-of-stock products and products without images last, per-store Sort By options, and the sort orders Best Sellers, Most Viewed, Now in Wishlists, Top Rated, Reviews Count, New and Biggest Saving on precomputed search-document fields."
+2026-11-18T21:56:11Z,jeffersongoncalves/laravel-privacy,1.0.0,Jefferson Gonçalves,"Shared privacy engine for the LGPD, GDPR, CCPA, US state and Quebec Law 25 suites: personal data declarations, inventory, anonymization, k-anonymity, retention with tombstones, hash-chained audit log and consent ledger."
+2026-11-18T21:59:17Z,apimediaru/filament-documentation,v0.1.0,,Markdown customer guides from installed packages in Filament.
+2026-11-18T22:01:30Z,disputeguard/disputeguard-php,v0.1.0,,"PHP client for the DisputeGuard Connect API: push orders and activity evidence, answer runtime evidence requests, read disputes and verify webhooks."
+2026-11-18T22:01:44Z,uams-web/aether-enums,v0.1.0,UAMS Web Services; Josh Daugherty,"The enums UAMS Statamic sites read (countries, currencies, languages, U.S. geography, MIME types, schema.org and standard classifications) and the commands that regenerate them."
+2026-11-18T22:02:12Z,uams-web/aether-fieldtypes,v0.1.0,UAMS Web Services; Josh Daugherty,"The shared fieldtype add-on for UAMS Statamic sites: the traits, Control Panel JavaScript, public Alpine helper and owner check that every fieldtype family builds on."
