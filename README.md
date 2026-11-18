@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 08:22 UTC
+## Latest list — 2026-11-18 09:19 UTC
 
-New packages created between 2026-11-18 07:22 UTC and 2026-11-18 08:22 UTC.
+New packages created between 2026-11-18 08:22 UTC and 2026-11-18 09:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-18T08-22-16-834314Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-18T09-19-40-394835Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-18 07:57:35 | [thb/rabbitmq](https://www.nuget.org/packages/thb%2Frabbitmq) | v1.0 |  | Webman plugin: RabbitMQ send/consume (workerman/rabbitmq) |
-| 2026-11-18 08:22:03 | [adachsoft/google-play-publisher](https://www.nuget.org/packages/adachsoft%2Fgoogle-play-publisher) | v0.1.0 | Arkadiusz Adach | google-play-publisher |
+| 2026-11-18 08:58:34 | [qaify/sentinel](https://www.nuget.org/packages/qaify%2Fsentinel) | v0.1.0 |  | Sensor aktivitas keamanan Laravel untuk SOC Qaify: login gagal, payload seranga… |
+| 2026-11-18 09:12:09 | [thb/rabbitmq](https://www.nuget.org/packages/thb%2Frabbitmq) | v3.0 |  | Webman plugin: RabbitMQ send/consume (workerman/rabbitmq) |
 
 ## Data source
 

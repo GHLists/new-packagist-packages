@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-18T08:58:34Z,qaify/sentinel,v0.1.0,,"Sensor aktivitas keamanan Laravel untuk SOC Qaify: login gagal, payload serangan, pemindai, lonjakan error — tanpa body / IP mentah."
+2026-11-18T09:12:09Z,thb/rabbitmq,v3.0,,Webman plugin: RabbitMQ send/consume (workerman/rabbitmq)
