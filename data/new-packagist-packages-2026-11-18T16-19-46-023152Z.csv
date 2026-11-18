@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-18T15:26:37Z,bannerstop/mention-api-client-bundle,v1.0.0,bannerstop GmbH,"Symfony integration of bannerstop/mention-api-client: configuration, an autowirable client for the mention-api /v2 interface and the generator for typed wrappers as a console command"
+2026-11-18T15:26:39Z,bannerstop/mention-api-client-laravel,v1.0.0,bannerstop GmbH,"Laravel integration of bannerstop/mention-api-client: configuration, a container-bound client and facade for the mention-api /v2 interface and the generator for typed wrappers as an Artisan command"
+2026-11-18T15:34:23Z,kirbydesk/kirbyblock-stats,1.0.0,Christian Fickinger,Stats Block for Kirby CMS
+2026-11-18T15:36:10Z,thebeardedbear/urssaf-tierce-declaration-auto-entrepreneur,v0.1.0,The Bearded Bear,"Client and domain model for the URSSAF ""API Tierce Déclaration auto-entrepreneur"" (third-party declaration and payment for auto-entrepreneurs)"
+2026-11-18T15:46:09Z,dbravoan/dbcms-installer,v0.1.1,,Instalador CLI de aplicaciones Laravel con dbCMS y extensiones Composer independientes.
+2026-11-18T15:48:46Z,webwizardsusa/laravel-image-cache,v0.1.0,Jamie Holly,"Drupal-style image styles for Laravel: Variants generated on demand, when an Image is stored or on a queue, for public and private Images, with optional usage tracking."
+2026-11-18T15:50:43Z,teu/stack-monitor,1.0.0,Andreas Hafner; teufels GmbH,Endpoint for stack information
+2026-11-18T15:57:54Z,gesnovasalud/environment-indicator,v1.0.0,Alvaro Torres,"Filament plugin that shows a colored bar and badge with the current environment, version and git branch."
+2026-11-18T16:12:15Z,ngsoft/cronicle-tasks-client,v1.0.0,Aymeric Anger,"PHP HTTP client for the Cronicle JSON REST API, with typed DTOs and OpenAPI schema"
+2026-11-18T16:17:59Z,packstub/filament-holler,v1.0.0,Ion Caliman; Packstub,"Audio, video and screen-share calls inside a Filament panel, 1-on-1 or in groups of up to four, peer to peer over WebRTC: a CallAction for any user record and a call widget on every page. The media goes browser to browser; polling signaling, no websockets. The panel side of packstub/holler."
