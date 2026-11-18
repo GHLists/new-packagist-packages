@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 07:22 UTC
+## Latest list — 2026-11-18 08:22 UTC
 
-New packages created between 2026-11-18 06:19 UTC and 2026-11-18 07:22 UTC.
+New packages created between 2026-11-18 07:22 UTC and 2026-11-18 08:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-18T07-22-05-117178Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-18T08-22-16-834314Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-18 06:45:56 | [itw/gatecha-shopware](https://www.nuget.org/packages/itw%2Fgatecha-shopware) | 1.0.0 | WorksDev | GateCHA (self-hosted ALTCHA) spam protection for Shopware 6 |
-| 2026-11-18 06:52:36 | [tinymvc/ember](https://www.nuget.org/packages/tinymvc%2Fember) | 1.0.0 | Shahin Moyshan | Ember is an AI-powered development companion for TinyMVC/Spark that equips AI c… |
+| 2026-11-18 07:57:35 | [thb/rabbitmq](https://www.nuget.org/packages/thb%2Frabbitmq) | v1.0 |  | Webman plugin: RabbitMQ send/consume (workerman/rabbitmq) |
+| 2026-11-18 08:22:03 | [adachsoft/google-play-publisher](https://www.nuget.org/packages/adachsoft%2Fgoogle-play-publisher) | v0.1.0 | Arkadiusz Adach | google-play-publisher |
 
 ## Data source
 
