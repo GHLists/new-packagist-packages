@@ -1,0 +1,16 @@
+created_at,package,version,author,description
+2026-11-18T01:23:55Z,jeffersongoncalves/filament-us-privacy,3.0.0,Jefferson Gonçalves,Filament plugin for laravel-us-privacy: the personal data inventory and the rules of the 18 US state privacy laws in your panel.
+2026-11-18T01:25:39Z,jeffersongoncalves/filament-us-privacy-opt-out,2.0.0,,
+2026-11-18T01:27:16Z,jeffersongoncalves/filament-us-privacy-requests,3.0.0,Jefferson Gonçalves,"Filament plugin for laravel-us-privacy-requests: consumer requests under the US state privacy laws in your panel, with each state's deadline, the extension and the appeal process."
+2026-11-18T01:28:48Z,jeffersongoncalves/filament-us-privacy-notices,2.0.0,,
+2026-11-18T01:30:24Z,jeffersongoncalves/filament-us-privacy-assessments,2.0.0,,
+2026-11-18T01:31:57Z,jeffersongoncalves/filament-us-privacy-vendors,2.0.0,,
+2026-11-18T01:33:31Z,jeffersongoncalves/filament-us-privacy-minors,3.0.0,Jefferson Gonçalves,"Filament plugin for laravel-us-privacy-minors: age checks, parent or guardian links and minors' consent for targeted advertising and sale under the US state privacy laws, in your panel."
+2026-11-18T01:45:23Z,jeffersongoncalves/laravel-quebec,1.0.0,Jefferson Gonçalves,"Quebec Law 25 (private sector privacy act) for Laravel: a personal information inventory with sensitive information, communications outside Quebec and profiling flagged, export and anonymization"
+2026-11-18T01:56:57Z,jeffersongoncalves/laravel-quebec-retention,1.0.0,Jefferson Gonçalves,"Retention for Quebec Law 25: destroy or anonymize personal information once its purposes are achieved, with tombstones that re-apply it after a backup restore"
+2026-11-18T01:57:26Z,jeffersongoncalves/laravel-quebec-audit-log,1.0.0,Jefferson Gonçalves,"Audit log for Quebec Law 25: who viewed, changed, exported or deleted whose personal information, hash-chained and append-only"
+2026-11-18T01:57:59Z,jeffersongoncalves/laravel-quebec-consent,1.0.0,Jefferson Gonçalves,"Consent for Quebec Law 25: a manifest, free and enlightened consent per specific purpose, versioned, with expiry, withdrawal and proof, for users and visitors"
+2026-11-18T01:58:40Z,atellitech/mcp-hyperf,v1.0.0,,"Streamable HTTP MCP server (tools, prompts and resources) that plugs into an existing Hyperf HTTP route."
+2026-11-18T02:00:26Z,hhr0815hhr/tsf,0.7.0,,TSF — TypePHP Server Framework：用 TypePHP(AOT) + PHP 构建高性能游戏服务器
+2026-11-18T02:14:33Z,usmrip/turnstile-waiting,v1.0.0,usmrip,"Universal Cloudflare Turnstile & Waiting Ticker module for HTML, PHP, JavaScript, TypeScript, and CSS"
+2026-11-18T02:15:39Z,artisan-toolbox/dapter,1.0.0-alpha.1,Allan Mariucci Carvalho,Data adapter foundations for Laravel and Inertia applications.

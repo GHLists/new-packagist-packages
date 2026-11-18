@@ -15,24 +15,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 01:20 UTC
+## Latest list — 2026-11-18 02:22 UTC
 
-New packages created between 2026-11-18 00:20 UTC and 2026-11-18 01:20 UTC.
+New packages created between 2026-11-18 01:20 UTC and 2026-11-18 02:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-18T01-20-40-559919Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-18T02-22-05-572979Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-18 00:26:37 | [rishadblack/sylloo-pos-core](https://www.nuget.org/packages/rishadblack%2Fsylloo-pos-core) | v1.0.1 | S M Rishad | The shared core of the Sylloo POS tills (PC and Android): the till's models and… |
-| 2026-11-18 00:30:09 | [jeffersongoncalves/laravel-us-privacy-opt-out](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-us-privacy-opt-out) | 1.0.0 | Jefferson Gonçalves | Opt-outs of sale, targeted advertising and profiling, and consent for sensitive… |
-| 2026-11-18 00:35:42 | [jeffersongoncalves/laravel-us-privacy-requests](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-us-privacy-requests) | 1.0.0 | Jefferson Gonçalves | Consumer requests under the US state privacy laws: access, correct, delete, por… |
-| 2026-11-18 00:37:03 | [websvc/yii2-audit](https://www.nuget.org/packages/websvc%2Fyii2-audit) | 1.0.0 | websvcPT | Records ActiveRecord changes and write requests of Yii2 apps in a dedicated aud… |
-| 2026-11-18 00:37:27 | [jeffersongoncalves/laravel-us-privacy-notices](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-us-privacy-notices) | 1.0.0 | Jefferson Gonçalves | Privacy notice for the US state privacy laws: processing activities, the disclo… |
-| 2026-11-18 00:44:31 | [jeffersongoncalves/laravel-us-privacy-assessments](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-us-privacy-assessments) | 1.0.0 | Jefferson Gonçalves | Data protection assessments under the US state privacy laws: targeted advertisi… |
-| 2026-11-18 00:45:44 | [prestashopheaven/build-pitfalls](https://www.nuget.org/packages/prestashopheaven%2Fbuild-pitfalls) | v1.1.0 | George van Engers | The pitfalls index of the Module-Factory: every known pitfall from the Notes of… |
-| 2026-11-18 00:49:41 | [jeffersongoncalves/laravel-us-privacy-vendors](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-us-privacy-vendors) | 1.0.0 | Jefferson Gonçalves | Processor register for the US state privacy laws: the contract terms every stat… |
-| 2026-11-18 01:11:04 | [jeffersongoncalves/laravel-us-privacy-minors](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-us-privacy-minors) | 1.0.0 | Jefferson Gonçalves | Minors under the US state privacy laws: age assurance, parent or guardian links… |
-| 2026-11-18 01:11:40 | [se7enxweb/sevenx_paypal](https://www.nuget.org/packages/se7enxweb%2Fsevenx_paypal) | v1.0.0 | 7x | PayPal Checkout for Exponential: PayPal's current REST APIs (Orders v2, Payment… |
+| 2026-11-18 01:23:55 | [jeffersongoncalves/filament-us-privacy](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-us-privacy) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-us-privacy: the personal data inventory and the rul… |
+| 2026-11-18 01:25:39 | [jeffersongoncalves/filament-us-privacy-opt-out](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-us-privacy-opt-out) | 2.0.0 |  |  |
+| 2026-11-18 01:27:16 | [jeffersongoncalves/filament-us-privacy-requests](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-us-privacy-requests) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-us-privacy-requests: consumer requests under the US… |
+| 2026-11-18 01:28:48 | [jeffersongoncalves/filament-us-privacy-notices](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-us-privacy-notices) | 2.0.0 |  |  |
+| 2026-11-18 01:30:24 | [jeffersongoncalves/filament-us-privacy-assessments](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-us-privacy-assessments) | 2.0.0 |  |  |
+| 2026-11-18 01:31:57 | [jeffersongoncalves/filament-us-privacy-vendors](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-us-privacy-vendors) | 2.0.0 |  |  |
+| 2026-11-18 01:33:31 | [jeffersongoncalves/filament-us-privacy-minors](https://www.nuget.org/packages/jeffersongoncalves%2Ffilament-us-privacy-minors) | 3.0.0 | Jefferson Gonçalves | Filament plugin for laravel-us-privacy-minors: age checks, parent or guardian l… |
+| 2026-11-18 01:45:23 | [jeffersongoncalves/laravel-quebec](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-quebec) | 1.0.0 | Jefferson Gonçalves | Quebec Law 25 (private sector privacy act) for Laravel: a personal information… |
+| 2026-11-18 01:56:57 | [jeffersongoncalves/laravel-quebec-retention](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-quebec-retention) | 1.0.0 | Jefferson Gonçalves | Retention for Quebec Law 25: destroy or anonymize personal information once its… |
+| 2026-11-18 01:57:26 | [jeffersongoncalves/laravel-quebec-audit-log](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-quebec-audit-log) | 1.0.0 | Jefferson Gonçalves | Audit log for Quebec Law 25: who viewed, changed, exported or deleted whose per… |
+| 2026-11-18 01:57:59 | [jeffersongoncalves/laravel-quebec-consent](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-quebec-consent) | 1.0.0 | Jefferson Gonçalves | Consent for Quebec Law 25: a manifest, free and enlightened consent per specifi… |
+| 2026-11-18 01:58:40 | [atellitech/mcp-hyperf](https://www.nuget.org/packages/atellitech%2Fmcp-hyperf) | v1.0.0 |  | Streamable HTTP MCP server (tools, prompts and resources) that plugs into an ex… |
+| 2026-11-18 02:00:26 | [hhr0815hhr/tsf](https://www.nuget.org/packages/hhr0815hhr%2Ftsf) | 0.7.0 |  | TSF — TypePHP Server Framework：用 TypePHP(AOT) + PHP 构建高性能游戏服务器 |
+| 2026-11-18 02:14:33 | [usmrip/turnstile-waiting](https://www.nuget.org/packages/usmrip%2Fturnstile-waiting) | v1.0.0 | usmrip | Universal Cloudflare Turnstile & Waiting Ticker module for HTML, PHP, JavaScrip… |
+| 2026-11-18 02:15:39 | [artisan-toolbox/dapter](https://www.nuget.org/packages/artisan-toolbox%2Fdapter) | 1.0.0-alpha.1 | Allan Mariucci Carvalho | Data adapter foundations for Laravel and Inertia applications. |
 
 ## Data source
 
