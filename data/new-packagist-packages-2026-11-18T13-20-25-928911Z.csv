@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-18T12:40:23Z,mcarrowsmith-packages/smtp-debug,v1.0.0,,A trivial tool to test and debug SMTP connectivity using PHPMailer. Works standalone or as a Laravel artisan command.
+2026-11-18T12:44:15Z,aivcsb/nova-system-settings,1.0.2,,"Nova 后台系统设置页: Schema 驱动的自定义设置表单 (常规/用户/安全/通知), 替代资源列表页"
+2026-11-18T12:49:33Z,limegreentangerine/zumika_social_wall,v1.0.0,Dave Hendy,Show a Zumika social wall on your Concrete CMS site.
+2026-11-18T13:10:15Z,blackbird/customeritemstockalert-hyva-compatibility,1.0.0,,Blackbird Customer Item Stock Alert Compatibility with Hÿva Theme check https://store.bird.eu/ : to get a license of Customer Item Stock Alert base module.

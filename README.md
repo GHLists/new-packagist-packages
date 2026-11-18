@@ -15,27 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 12:19 UTC
+## Latest list — 2026-11-18 13:20 UTC
 
-New packages created between 2026-11-18 11:21 UTC and 2026-11-18 12:19 UTC.
+New packages created between 2026-11-18 12:19 UTC and 2026-11-18 13:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-18T12-19-23-762363Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-18T13-20-25-928911Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-18 11:35:31 | [openswoole/ext-openswoole](https://www.nuget.org/packages/openswoole%2Fext-openswoole) | v26.11.0 |  | High Performance Programmatic Server for PHP with Async IO, Coroutines and Fibe… |
-| 2026-11-18 11:36:30 | [jeffersongoncalves/lgpdkitv5](https://www.nuget.org/packages/jeffersongoncalves%2Flgpdkitv5) | 5.11.2 |  | LgpdKit starter kit built on Laravel 13.x and Filament 5.x with a ready-to-use… |
-| 2026-11-18 11:53:13 | [jeffersongoncalves/lgpdkitv4](https://www.nuget.org/packages/jeffersongoncalves%2Flgpdkitv4) | 4.14.0 |  | LgpdKit starter kit built on Laravel 13.x and Filament 4.x with a ready-to-use… |
-| 2026-11-18 11:54:39 | [jeffersongoncalves/lgpdkitv3](https://www.nuget.org/packages/jeffersongoncalves%2Flgpdkitv3) | 3.3.56 |  | LgpdKit starter kit built on Laravel 13.x and Filament 3.x with a ready-to-use… |
-| 2026-11-18 11:55:56 | [jeffersongoncalves/gdprkitv5](https://www.nuget.org/packages/jeffersongoncalves%2Fgdprkitv5) | 5.11.2 |  | GdprKit starter kit built on Laravel 13.x and Filament 5.x with a ready-to-use… |
-| 2026-11-18 11:58:40 | [jeffersongoncalves/gdprkitv3](https://www.nuget.org/packages/jeffersongoncalves%2Fgdprkitv3) | 3.3.56 |  | GdprKit starter kit built on Laravel 13.x and Filament 3.x with a ready-to-use… |
-| 2026-11-18 11:59:56 | [jeffersongoncalves/ccpakitv5](https://www.nuget.org/packages/jeffersongoncalves%2Fccpakitv5) | 5.11.2 |  | CcpaKit starter kit built on Laravel 13.x and Filament 5.x with a ready-to-use… |
-| 2026-11-18 12:01:22 | [jeffersongoncalves/ccpakitv4](https://www.nuget.org/packages/jeffersongoncalves%2Fccpakitv4) | 4.14.0 |  | CcpaKit starter kit built on Laravel 13.x and Filament 4.x with a ready-to-use… |
-| 2026-11-18 12:04:01 | [jeffersongoncalves/usprivacykitv5](https://www.nuget.org/packages/jeffersongoncalves%2Fusprivacykitv5) | 5.11.2 |  | UsPrivacyKit starter kit built on Laravel 13.x and Filament 5.x with a ready-to… |
-| 2026-11-18 12:05:22 | [jeffersongoncalves/usprivacykitv4](https://www.nuget.org/packages/jeffersongoncalves%2Fusprivacykitv4) | 4.14.0 |  | UsPrivacyKit starter kit built on Laravel 13.x and Filament 4.x with a ready-to… |
-| 2026-11-18 12:06:40 | [jeffersongoncalves/usprivacykitv3](https://www.nuget.org/packages/jeffersongoncalves%2Fusprivacykitv3) | 3.3.56 |  | UsPrivacyKit starter kit built on Laravel 13.x and Filament 3.x with a ready-to… |
-| 2026-11-18 12:09:19 | [jeffersongoncalves/quebeckitv4](https://www.nuget.org/packages/jeffersongoncalves%2Fquebeckitv4) | 4.14.0 |  | QuebecKit starter kit built on Laravel 13.x and Filament 4.x with a ready-to-us… |
-| 2026-11-18 12:10:40 | [jeffersongoncalves/quebeckitv3](https://www.nuget.org/packages/jeffersongoncalves%2Fquebeckitv3) | 3.3.56 |  | QuebecKit starter kit built on Laravel 13.x and Filament 3.x with a ready-to-us… |
+| 2026-11-18 12:40:23 | [mcarrowsmith-packages/smtp-debug](https://www.nuget.org/packages/mcarrowsmith-packages%2Fsmtp-debug) | v1.0.0 |  | A trivial tool to test and debug SMTP connectivity using PHPMailer. Works stand… |
+| 2026-11-18 12:44:15 | [aivcsb/nova-system-settings](https://www.nuget.org/packages/aivcsb%2Fnova-system-settings) | 1.0.2 |  | Nova 后台系统设置页: Schema 驱动的自定义设置表单 (常规/用户/安全/通知), 替代资源列表页 |
+| 2026-11-18 12:49:33 | [limegreentangerine/zumika_social_wall](https://www.nuget.org/packages/limegreentangerine%2Fzumika_social_wall) | v1.0.0 | Dave Hendy | Show a Zumika social wall on your Concrete CMS site. |
+| 2026-11-18 13:10:15 | [blackbird/customeritemstockalert-hyva-compatibility](https://www.nuget.org/packages/blackbird%2Fcustomeritemstockalert-hyva-compatibility) | 1.0.0 |  | Blackbird Customer Item Stock Alert Compatibility with Hÿva Theme check https:/… |
 
 ## Data source
 
