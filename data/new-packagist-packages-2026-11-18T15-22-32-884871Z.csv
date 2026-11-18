@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-18T14:37:38Z,djl997/laravel-transip,v6.55.0,Dirk Jan Laros,Laravel client for the TransIP REST API v6.
+2026-11-18T14:49:07Z,blackbird/dynamicprice-hyva-compatibility,1.0.0,,Blackbird Dynamic Price Compatibility with Hÿva Theme check https://store.bird.eu/ : to get a license of Dynamic Price base module.
+2026-11-18T14:51:55Z,mybeast/translations-laravel,v0.1.0,My Beast,"Laravel SDK for My Beast Translations (services.my-beast.com/translations): your app's lang/ files pushed as they are, reviewed there, and pulled back."
+2026-11-18T15:01:18Z,d3creative/statamic-popcorn,v1.0.0,D3 Creative,"Popcorn by D3 Creative - Upload, choose and play Mux videos from a Statamic fieldtype, including videos already in your asset library."
+2026-11-18T15:04:09Z,magetips/module-appliances,1.0.0,Muhammad Umar,"Extended Protection Plans, Delivery Fees & Appliance-Specific Checkout for Magento 2.4.5 – 2.4.9"
+2026-11-18T15:08:08Z,himacode-company/workerless,v1.0.0,HimaCode,"A Laravel queue driver that runs your jobs without cron, SSH or queue:work. Built for shared hosting."
+2026-11-18T15:08:53Z,devfactorych/laravel-cloudflare-access,v1.0.0,Mark Cameron,Sign users into a Laravel app with Cloudflare Access (Zero Trust) SSO.
+2026-11-18T15:19:44Z,bannerstop/mention-api-client,v1.0.0,bannerstop GmbH,"Framework-agnostic PHP client for the mention-api /v2 interface: list, describe and run Queries and Routines with API key or OAuth 2.0 client-credentials authentication, typed errors and retries"
