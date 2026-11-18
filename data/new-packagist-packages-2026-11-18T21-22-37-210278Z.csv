@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-18T20:27:35Z,webwizardsusa/filament-resource-browser,v0.1.0,Jamie Holly,"Browse, select and create the records of one Filament resource from another, in a modal: pick an image for a post, or add a new one, without leaving the form."
+2026-11-18T20:47:24Z,korin/gedcom-cli,v0.1.0,,"Command-line tool for GEDCOM files: info, validate, convert and diff, built on korin/gedcom"
+2026-11-18T21:00:07Z,code-redlich/quick-add-cart,1.0.0,CodeRedlich,Add Products via name or product number to cart in checkout or card modal.
