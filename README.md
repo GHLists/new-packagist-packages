@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 23:21 UTC
+## Latest list — 2026-11-18 00:20 UTC
 
-New packages created between 2026-11-17 22:21 UTC and 2026-11-17 23:21 UTC.
+New packages created between 2026-11-17 23:21 UTC and 2026-11-18 00:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-17T23-21-18-850913Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-18T00-20-38-646369Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-17 22:24:24 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.33.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
-| 2026-11-17 22:31:55 | [samjuk/dev-standards](https://www.nuget.org/packages/samjuk%2Fdev-standards) | v1.0.0 |  | Shared git hooks, commit rules and QA config for Magento, Laravel, Node and oth… |
-| 2026-11-17 22:32:08 | [sirthxalot/symfoniq](https://www.nuget.org/packages/sirthxalot%2Fsymfoniq) | v1.0.1 | Alexander Bösch | A demonstration web application based on the Symfony PHP framework following be… |
-| 2026-11-17 22:38:16 | [nubo-db/dynoxide-laravel](https://www.nuget.org/packages/nubo-db%2Fdynoxide-laravel) | v1.0.1 |  | Run Laravel's DynamoDB cache, sessions and failed jobs against Dynoxide in test… |
-| 2026-11-17 22:46:48 | [xefi/faker-php-locales-de-ch](https://www.nuget.org/packages/xefi%2Ffaker-php-locales-de-ch) | v1.0.0 | Martin Soenen | Faker extension to include de_CH locale |
-| 2026-11-17 22:50:31 | [orboni/orboni-php](https://www.nuget.org/packages/orboni%2Forboni-php) | v1.0.0 | Orboni | Orboni's API for PHP: crypto payments (USDT, USDC, BTC and more) paid straight… |
+| 2026-11-17 23:24:34 | [berrycookie/module-consent-banner](https://www.nuget.org/packages/berrycookie%2Fmodule-consent-banner) | 1.0.0 | BerryCookie | BerryCookie – Cookie Consent: the BerryCookie cookie banner, script blocking an… |
+| 2026-11-17 23:50:25 | [fisharebest/badge](https://www.nuget.org/packages/fisharebest%2Fbadge) | 1.0.1 |  | Generate SVG badges from PHP CI results without an external service |
+| 2026-11-17 23:52:33 | [juaniquillo/table-component-action](https://www.nuget.org/packages/juaniquillo%2Ftable-component-action) | v0.1.0 | Juaniquillo | Table cell action/recipe components and table builders for backend tables. |
+| 2026-11-18 00:17:02 | [jeffersongoncalves/laravel-us-privacy](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-us-privacy) | 1.0.0 | Jefferson Gonçalves | US state privacy laws for Laravel: the rules of 18 state laws (Virginia, Colora… |
 
 ## Data source
 

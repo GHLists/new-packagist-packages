@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-17T23:24:34Z,berrycookie/module-consent-banner,1.0.0,BerryCookie,"BerryCookie – Cookie Consent: the BerryCookie cookie banner, script blocking and Google Consent Mode v2 for Magento Open Source and Adobe Commerce."
+2026-11-17T23:50:25Z,fisharebest/badge,1.0.1,,Generate SVG badges from PHP CI results without an external service
+2026-11-17T23:52:33Z,juaniquillo/table-component-action,v0.1.0,Juaniquillo,Table cell action/recipe components and table builders for backend tables.
+2026-11-18T00:17:02Z,jeffersongoncalves/laravel-us-privacy,1.0.0,Jefferson Gonçalves,"US state privacy laws for Laravel: the rules of 18 state laws (Virginia, Colorado, Texas...), their applicability, and a personal data inventory"
