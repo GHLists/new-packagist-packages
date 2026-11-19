@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 01:20 UTC
+## Latest list — 2026-11-19 02:22 UTC
 
-New packages created between 2026-11-19 00:22 UTC and 2026-11-19 01:20 UTC.
+New packages created between 2026-11-19 01:20 UTC and 2026-11-19 02:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-19T01-20-36-746356Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-19T02-22-11-866815Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-19 00:45:30 | [ajaflow/sdk](https://www.nuget.org/packages/ajaflow%2Fsdk) | v1.0.0 |  | PHP client for the AJA order API: the shop sends its orders and polls the merch… |
-| 2026-11-19 00:57:17 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.34.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
-| 2026-11-19 00:58:18 | [train-horn/yii2-sound-level](https://www.nuget.org/packages/train-horn%2Fyii2-sound-level) | v1.0.0 | Train Horn | Yii 2 extension: sound pressure level at distance (inverse-square law with opti… |
-| 2026-11-19 01:01:25 | [train-horn/craft-sound-level](https://www.nuget.org/packages/train-horn%2Fcraft-sound-level) | 1.0.0 | Train Horn | Twig helpers for Craft CMS 5 that estimate sound level at distance (inverse-squ… |
+| 2026-11-19 01:28:21 | [anio-software/test-package](https://www.nuget.org/packages/anio-software%2Ftest-package) | v0.0.3 |  | Test package |
+| 2026-11-19 01:56:32 | [liberty_code/translation](https://www.nuget.org/packages/liberty_code%2Ftranslation) | v1.0.0 |  | Library |
 
 ## Data source
 
