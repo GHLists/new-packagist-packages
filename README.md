@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 22:20 UTC
+## Latest list — 2026-11-19 23:19 UTC
 
-New packages created between 2026-11-19 21:18 UTC and 2026-11-19 22:20 UTC.
+New packages created between 2026-11-19 22:20 UTC and 2026-11-19 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-19T22-20-56-098585Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-19T23-19-50-599369Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-19 21:37:00 | [birinchishop/birinchishop](https://www.nuget.org/packages/birinchishop%2Fbirinchishop) | v0.1.0 | Birinchi Shop | Official PHP client for the Birinchi Shop Partner API (CPA affiliate network, U… |
-| 2026-11-19 21:50:33 | [norotaro/filament-modular-starter](https://www.nuget.org/packages/norotaro%2Ffilament-modular-starter) | v1.0.0 |  | Laravel 13 + Filament 5 modular starter kit: runtime module system, multi-panel… |
-| 2026-11-19 21:55:25 | [young-dogs/typo3-ai-translator](https://www.nuget.org/packages/young-dogs%2Ftypo3-ai-translator) | 1.0.0 |  | Young Dogs AI Translation service integration for TYPO3 |
+| 2026-11-19 23:04:56 | [speedyspec/cli-wordpress](https://www.nuget.org/packages/speedyspec%2Fcli-wordpress) | v0.1.1 |  | The speedyspec CLI plugin for WordPress: installs it, writes wp-config.php and… |
 
 ## Data source
 
