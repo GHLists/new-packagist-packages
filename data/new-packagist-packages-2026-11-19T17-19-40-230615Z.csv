@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-19T16:30:06Z,juaniquillo/laravel-package-template,v0.1.0,:author_name,:package_description
+2026-11-19T16:42:39Z,yu-laravel/similar-words,v1.0.0,Yuriy Akishin,Laravel Livewire tool that finds words and phrases with the closest embedding vector and shows them on a map.
+2026-11-19T17:14:32Z,alibabacloud/qwenb2bchat-20261105,1.0.0,Alibaba Cloud SDK,Alibaba Cloud QwenB2BChat (20261105) SDK Library for PHP
