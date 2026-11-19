@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 00:22 UTC
+## Latest list — 2026-11-19 01:20 UTC
 
-New packages created between 2026-11-18 23:19 UTC and 2026-11-19 00:22 UTC.
+New packages created between 2026-11-19 00:22 UTC and 2026-11-19 01:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-19T00-22-09-867607Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-19T01-20-36-746356Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-18 23:59:51 | [artisan-toolbox/permit](https://www.nuget.org/packages/artisan-toolbox%2Fpermit) | 1.0.0-beta.1 | Allan Mariucci Carvalho | Declare Laravel Gates and manage per-user permissions and roles. |
-| 2026-11-19 00:00:22 | [vested-networks/phonemgr-socialite](https://www.nuget.org/packages/vested-networks%2Fphonemgr-socialite) | v0.1.1 | Werner Garcia | Sign in with Phone Manager: a Socialite driver for Phone Manager's OpenID Conne… |
-| 2026-11-19 00:00:39 | [dply/laravel](https://www.nuget.org/packages/dply%2Flaravel) | 1.6.0 |  | Run Laravel queues on Cloudflare Queues when your app is deployed as a dply Edg… |
-| 2026-11-19 00:01:22 | [0x15f/agent-traffic](https://www.nuget.org/packages/0x15f%2Fagent-traffic) | v0.1.0 | Jake Casto | Tell AI agents, crawlers and bots apart from people. A PHP port of Mintlify age… |
+| 2026-11-19 00:45:30 | [ajaflow/sdk](https://www.nuget.org/packages/ajaflow%2Fsdk) | v1.0.0 |  | PHP client for the AJA order API: the shop sends its orders and polls the merch… |
+| 2026-11-19 00:57:17 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.34.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-19 00:58:18 | [train-horn/yii2-sound-level](https://www.nuget.org/packages/train-horn%2Fyii2-sound-level) | v1.0.0 | Train Horn | Yii 2 extension: sound pressure level at distance (inverse-square law with opti… |
+| 2026-11-19 01:01:25 | [train-horn/craft-sound-level](https://www.nuget.org/packages/train-horn%2Fcraft-sound-level) | 1.0.0 | Train Horn | Twig helpers for Craft CMS 5 that estimate sound level at distance (inverse-squ… |
 
 ## Data source
 

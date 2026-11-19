@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-19T00:45:30Z,ajaflow/sdk,v1.0.0,,PHP client for the AJA order API: the shop sends its orders and polls the merchant's actions.
+2026-11-19T00:57:17Z,nubos/starterkit,v1.34.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-19T00:58:18Z,train-horn/yii2-sound-level,v1.0.0,Train Horn,"Yii 2 extension: sound pressure level at distance (inverse-square law with optional air absorption), level addition, an accessible table widget and a console command."
+2026-11-19T01:01:25Z,train-horn/craft-sound-level,1.0.0,Train Horn,"Twig helpers for Craft CMS 5 that estimate sound level at distance (inverse-square law, optional air absorption) and render an accessible table."
