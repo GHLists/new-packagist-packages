@@ -1,0 +1,16 @@
+created_at,package,version,author,description
+2026-11-19T10:29:34Z,jiannius/mailog,v0.1.0,TJ,Jiannius Mailog - outgoing email audit logging for Laravel
+2026-11-19T10:32:29Z,altayofficial/binaryutils,0.2.8,,Classes and methods for conveniently handling binary data
+2026-11-19T10:32:29Z,altayofficial/color,0.3.2,,Color handling library used by PocketMine-MP and related projects
+2026-11-19T10:32:29Z,altayofficial/errorhandler,0.7.2,,Utilities to handle nasty PHP E_* errors in a usable way
+2026-11-19T10:32:30Z,altayofficial/log,0.4.1,,Logging components used by PocketMine-MP and related projects
+2026-11-19T10:32:30Z,altayofficial/math,1.0.1,,
+2026-11-19T10:32:30Z,altayofficial/snooze,0.5.1,,Thread notification management library for code using the pthreads extension
+2026-11-19T10:46:11Z,moduhelp/laravel,v0.1.0,,Laravel package that adds the ModuHelp support widget to your HTML pages.
+2026-11-19T10:47:26Z,diakonie-sh/dsh-mastodon,v1.0.0,Friedemann Altrock,Publish TYPO3 records as Mastodon posts.
+2026-11-19T10:50:47Z,net-os/laravel-release-control,v0.1.0,,Shared maintenance state and client compatibility policy for Laravel deployments.
+2026-11-19T10:59:00Z,derkosmonaut/nightmode-contao,v0.1.1,,"Nachtmodus für Infomonitore in Contao: Inhalte nur während der Öffnungszeiten, sonst Alternativinhalt"
+2026-11-19T11:05:44Z,ajaydhakal/qfpay-sdk,v1,Ajay Dhakal,QFPay payment and checkout SDK for Laravel
+2026-11-19T11:09:44Z,maxcode/module-popup,1.0.2,,"EN: Editable welcome popup for Magento 2 - shown once to each new visitor, content managed in a CMS block per store view, no third-party dependency. FR : Popup d'accueil editable pour Magento 2 - affichee une seule fois a chaque nouveau visiteur, contenu gere dans un bloc CMS par vue de magasin, sa…"
+2026-11-19T11:14:50Z,survos/connections-contract,2.45.66,,"Immutable values for a connections view: nodes, edges with source evidence, and per-group paging."
+2026-11-19T11:14:53Z,survos/connections-bundle,2.45.66,,Renders a connections graph (survos/connections-contract) as an accessible SVG with a text list and source quotes.
