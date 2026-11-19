@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-19T21:37:00Z,birinchishop/birinchishop,v0.1.0,Birinchi Shop,"Official PHP client for the Birinchi Shop Partner API (CPA affiliate network, Uzbekistan): offers, tracking links, orders, stats, events, webhooks, Meta ads."
+2026-11-19T21:50:33Z,norotaro/filament-modular-starter,v1.0.0,,"Laravel 13 + Filament 5 modular starter kit: runtime module system, multi-panel Filament architecture, partner integration layer, Spanish i18n convention. No domain logic, no tenancy."
+2026-11-19T21:55:25Z,young-dogs/typo3-ai-translator,1.0.0,,Young Dogs AI Translation service integration for TYPO3
