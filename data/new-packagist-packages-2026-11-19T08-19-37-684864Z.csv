@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-19T07:29:09Z,cartwright-jp/php-imap-mcp,v0.1.0,Kazuki Aruga (Cartwright),"Remote MCP server in PHP for reading, searching and drafting IMAP mail on shared hosting such as XServer"
+2026-11-19T07:39:32Z,stolt/hyde-llms-txt,v0.9.0,Raphael Stolt,A HydePHP extension that generates an llms.txt file from site content during a static-site build.
+2026-11-19T07:49:44Z,poppy/faker,4.3.1-rc.1,Mark Zhao; François Zaninotto,Poppy Faker is a PHP library that generates fake data for zh user.
+2026-11-19T08:04:40Z,anamcoollzz/laravel-stisla-package,v1.0.1,,"Publishable Laravel Stisla admin panel, auth, RBAC, and modular app starter package."
+2026-11-19T08:04:43Z,mertaydin/laravel-server-security-update-monitor,v0.1.4,Mert Aydın,Monitor Linux server package updates and security patches from a Laravel dashboard.
