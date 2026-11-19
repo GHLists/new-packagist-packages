@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 12:22 UTC
+## Latest list — 2026-11-19 13:20 UTC
 
-New packages created between 2026-11-19 11:19 UTC and 2026-11-19 12:22 UTC.
+New packages created between 2026-11-19 12:22 UTC and 2026-11-19 13:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-19T12-22-22-949171Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-19T13-20-31-830995Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-19 11:37:12 | [daika7ana/dragonstar-php-sdk](https://www.nuget.org/packages/daika7ana%2Fdragonstar-php-sdk) | v1.0.0 | Dan-Radu Pana | Typed PHP SDK for the Dragon Star Courier API. |
-| 2026-11-19 11:44:33 | [inspirecz/dresscode-standard](https://www.nuget.org/packages/inspirecz%2Fdresscode-standard) | v1.0.0 | INSPIRE CZ s.r.o. | INSPIRE coding standard for DressCode: presets translated from inspirecz/coding… |
-| 2026-11-19 11:52:48 | [justinholtweb/craft-chisel](https://www.nuget.org/packages/justinholtweb%2Fcraft-chisel) | 6.0.0-beta.1 | Justin Holt | Run allowlisted Artisan commands from the Craft CP — forms built from each comm… |
-| 2026-11-19 12:07:04 | [daika7ana/fancourier-php-sdk](https://www.nuget.org/packages/daika7ana%2Ffancourier-php-sdk) | v1.0.0 | Dan-Radu Pana | Typed PHP SDK for the FAN Courier API. |
-| 2026-11-19 12:16:38 | [justinholtweb/craft-dipstick](https://www.nuget.org/packages/justinholtweb%2Fcraft-dipstick) | 6.0.0-beta.1 | Justin Holt | Check the engine before you run Craft on Octane: finds state that leaks between… |
-| 2026-11-19 12:18:47 | [ozioma/otp](https://www.nuget.org/packages/ozioma%2Fotp) | 1.0.1 |  | Framework-independent one-time password generation and verification for PHP, wi… |
+| 2026-11-19 12:50:49 | [blackbird/checkoutmessage-hyva-compatibility](https://www.nuget.org/packages/blackbird%2Fcheckoutmessage-hyva-compatibility) | 1.0.0 |  | Blackbird Checkout Message Compatibility with Hÿva Theme check https://store.bi… |
+| 2026-11-19 12:55:19 | [twtgroup/headliner](https://www.nuget.org/packages/twtgroup%2Fheadliner) | v1.0.1 | twtgroup | Headliner - Shows and validates the heading structure (H1-H6) of a page in the… |
+| 2026-11-19 13:02:53 | [ernestdefoe/permission-desk](https://www.nuget.org/packages/ernestdefoe%2Fpermission-desk) | 1.0.0 | Ernest Defoe | Permission Desk: a group-first replacement for Flarum's admin Permissions page.… |
+| 2026-11-19 13:09:05 | [nguyenthuan2412/native-playwright](https://www.nuget.org/packages/nguyenthuan2412%2Fnative-playwright) | v0.1.0 |  | Playwright-style browser automation for PHP over CDP, without Node.js. Works in… |
 
 ## Data source
 

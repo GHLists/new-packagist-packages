@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-19T12:50:49Z,blackbird/checkoutmessage-hyva-compatibility,1.0.0,,Blackbird Checkout Message Compatibility with Hÿva Theme check https://store.bird.eu/ : to get a license of Checkout Message base module.
+2026-11-19T12:55:19Z,twtgroup/headliner,v1.0.1,twtgroup,Headliner - Shows and validates the heading structure (H1-H6) of a page in the TYPO3 page module.
+2026-11-19T13:02:53Z,ernestdefoe/permission-desk,1.0.0,Ernest Defoe,"Permission Desk: a group-first replacement for Flarum's admin Permissions page. See and edit what each group can do in plain words, check what one member can do and why, compare and copy groups, apply presets, review every change before saving, and undo it from the history."
+2026-11-19T13:09:05Z,nguyenthuan2412/native-playwright,v0.1.0,,"Playwright-style browser automation for PHP over CDP, without Node.js. Works in Swoole coroutines."
