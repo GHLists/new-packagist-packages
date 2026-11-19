@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-19T20:35:19Z,tomvondracek/bolt-altcha,v1.0.1,Tomáš Vondráček,"Bolt CMS extension that protects forms from bots with ALTCHA, a self-hosted proof-of-work challenge: Bolt's login and password reset by configuration, any Symfony or hand-written form with the library's own options. No third-party requests, no cookies."
+2026-11-19T20:35:45Z,ua0leg/yii2-mcp,v1.0.0,Oleg,"Yii2 MCP server module: Streamable HTTP endpoint, optional OAuth 2.1 for Claude connectors, and in-process tool runner"
+2026-11-19T20:36:54Z,speedyspec/cli-wordpress-org,v0.1.1,,The speedyspec CLI source plugin for wordpress.org's plugin and theme directories
+2026-11-19T20:49:27Z,narek/sharp-php,v0.1.1,Narek,SharpPHP: a C#-like language that compiles to modern PHP.
+2026-11-19T21:00:51Z,voharaa/privatbank-autoclient,v0.1.0,Vohar Andrii,Unofficial PHP client for the PrivatBank Autoclient API (Privat24 for Business): account balances and statements.
+2026-11-19T21:13:45Z,ayewar/strata,v1.0.0,zerak jamil,"High-performance hybrid search engine for Laravel (<1ms HTTP cycle, 1.5M+ records, immutable segments, BM25 + quantized vector RRF)"
