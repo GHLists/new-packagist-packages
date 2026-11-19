@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-19T05:25:51Z,jorisnoo/statamic-license-health-check,0.1.0,Joris Noordermeer,Monitor Statamic license validity without alerting on temporary Outpost outages.
+2026-11-19T05:31:26Z,nepdatejs/nepdate,v0.1.2,Shishir Rai,"Bikram Sambat (BS) ⇄ AD dates for PHP: conversion, arithmetic, formatting, parsing, fiscal year. PHP port of @nepdatejs/core, checked against it by conformance fixtures. Zero dependencies."
