@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-19T13:21:39Z,fisharebest/figlet,1.0.0,Greg Roach,A zero-dependency PHP library and CLI for rendering FIGlet text banners.
+2026-11-19T13:26:45Z,market-media/plates,v1.0.0,,"Plates, o sistema de templates nativo do PHP que é rápido, fácil de usar e fácil de estender."
+2026-11-19T13:27:07Z,baldie81/magento2-sdk,v1.0.0,baldie81,"Framework-independent PHP SDK for the Magento 2 REST API: products, attributes, attribute sets, categories, orders, customers and the asynchronous bulk API."
+2026-11-19T13:42:34Z,stolt/hyde-reading-time,v0.9.0,Raphael Stolt,Estimated Markdown reading times for HydePHP pages.
+2026-11-19T13:55:34Z,portalcurso/php-template,v1.0.0,Edivan Fontes,"Sistema de templates nativo em PHP puro (7.4+), inspirado no League Plates: layouts, seções, inserts, pastas, funções e extensões."
+2026-11-19T14:01:23Z,eii/filament-language-switch,v1.0.0,,Filament topbar language switcher plugin

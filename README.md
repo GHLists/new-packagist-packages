@@ -15,18 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 13:20 UTC
+## Latest list — 2026-11-19 14:21 UTC
 
-New packages created between 2026-11-19 12:22 UTC and 2026-11-19 13:20 UTC.
+New packages created between 2026-11-19 13:20 UTC and 2026-11-19 14:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-19T13-20-31-830995Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-19T14-21-17-537618Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-19 12:50:49 | [blackbird/checkoutmessage-hyva-compatibility](https://www.nuget.org/packages/blackbird%2Fcheckoutmessage-hyva-compatibility) | 1.0.0 |  | Blackbird Checkout Message Compatibility with Hÿva Theme check https://store.bi… |
-| 2026-11-19 12:55:19 | [twtgroup/headliner](https://www.nuget.org/packages/twtgroup%2Fheadliner) | v1.0.1 | twtgroup | Headliner - Shows and validates the heading structure (H1-H6) of a page in the… |
-| 2026-11-19 13:02:53 | [ernestdefoe/permission-desk](https://www.nuget.org/packages/ernestdefoe%2Fpermission-desk) | 1.0.0 | Ernest Defoe | Permission Desk: a group-first replacement for Flarum's admin Permissions page.… |
-| 2026-11-19 13:09:05 | [nguyenthuan2412/native-playwright](https://www.nuget.org/packages/nguyenthuan2412%2Fnative-playwright) | v0.1.0 |  | Playwright-style browser automation for PHP over CDP, without Node.js. Works in… |
+| 2026-11-19 13:21:39 | [fisharebest/figlet](https://www.nuget.org/packages/fisharebest%2Ffiglet) | 1.0.0 | Greg Roach | A zero-dependency PHP library and CLI for rendering FIGlet text banners. |
+| 2026-11-19 13:26:45 | [market-media/plates](https://www.nuget.org/packages/market-media%2Fplates) | v1.0.0 |  | Plates, o sistema de templates nativo do PHP que é rápido, fácil de usar e fáci… |
+| 2026-11-19 13:27:07 | [baldie81/magento2-sdk](https://www.nuget.org/packages/baldie81%2Fmagento2-sdk) | v1.0.0 | baldie81 | Framework-independent PHP SDK for the Magento 2 REST API: products, attributes,… |
+| 2026-11-19 13:42:34 | [stolt/hyde-reading-time](https://www.nuget.org/packages/stolt%2Fhyde-reading-time) | v0.9.0 | Raphael Stolt | Estimated Markdown reading times for HydePHP pages. |
+| 2026-11-19 13:55:34 | [portalcurso/php-template](https://www.nuget.org/packages/portalcurso%2Fphp-template) | v1.0.0 | Edivan Fontes | Sistema de templates nativo em PHP puro (7.4+), inspirado no League Plates: lay… |
+| 2026-11-19 14:01:23 | [eii/filament-language-switch](https://www.nuget.org/packages/eii%2Ffilament-language-switch) | v1.0.0 |  | Filament topbar language switcher plugin |
 
 ## Data source
 
