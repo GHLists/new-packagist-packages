@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-19T04:32:07Z,nepdatejs/nepdate,v0.1.1,Shishir Rai,"Bikram Sambat (BS) ⇄ AD dates for PHP: conversion, arithmetic, formatting, parsing, fiscal year. PHP port of @nepdatejs/core, checked against it by conformance fixtures. Zero dependencies."
+2026-11-19T04:46:59Z,frandeone/ecf-sdk,v0.1.1,Frande Connection SRL,SDK PHP de Frande ECF: facturación electrónica (e-CF) DGII República Dominicana
+2026-11-19T04:56:45Z,hipdevteam/ion-mu,v3.5.8,ION,ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Intelligence
+2026-11-19T04:57:22Z,b4n1/b4n1-secrets,v0.1.2,Bani Montoya,Sovereign offline vault — committable encrypted secrets
+2026-11-19T05:03:34Z,eii/arqon-forms,v1.0.0,,A dynamic form builder and submission manager for Laravel 13 and Filament 5.
+2026-11-19T05:08:08Z,js-upup/image-input-inspector,v0.1.0,,Inspect local image dimensions and check configurable upload limits
