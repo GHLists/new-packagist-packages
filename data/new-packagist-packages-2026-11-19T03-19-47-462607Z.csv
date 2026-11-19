@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-19T02:37:32Z,pushinbr/nimbus,v0.1.0,,Nimbus: the API-first PHP framework for the PAM runtime.
+2026-11-19T02:49:32Z,queen-one/module-connect,v1.0.0,,Queen One Connect for Magento 2
+2026-11-19T02:58:33Z,content-true/live-swap-face-frame-audit,v0.1.0,,Compare sampled RGB frames and flag abrupt visual changes for manual video review
+2026-11-19T03:01:05Z,content-true/bank-file-tool-reconciliation,v0.1.0,,Reconcile normalized bank-statement CSV rows with opening and closing balances
+2026-11-19T03:03:38Z,content-true/image-unblur-pixel-compare,v0.1.0,,Measure pixel changes between aligned original and restored RGB images
+2026-11-19T03:17:13Z,bijayx/nepal-pay-laravel,v0.1.0,Bijay Shrestha,"Khalti and eSewa payment gateways for Laravel behind one typed, verified API."
+2026-11-19T03:17:18Z,bijayx/iap-guard-laravel,v0.1.0,Bijay Shrestha,Server-side verification and ownership protection for Apple App Store and Google Play in-app purchases in Laravel.
