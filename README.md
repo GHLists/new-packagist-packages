@@ -15,18 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 19:19 UTC
+## Latest list — 2026-11-19 20:19 UTC
 
-New packages created between 2026-11-19 18:21 UTC and 2026-11-19 19:19 UTC.
+New packages created between 2026-11-19 19:19 UTC and 2026-11-19 20:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-19T19-19-50-12171Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-19T20-19-42-924739Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-19 18:25:17 | [brunasebold/module-sales-transfer](https://www.nuget.org/packages/brunasebold%2Fmodule-sales-transfer) | 1.0.0 | Bruna Sebold | Copy Magento orders, invoices, shipments and credit memos between installations… |
-| 2026-11-19 18:53:54 | [letterncms/wilgendaal](https://www.nuget.org/packages/letterncms%2Fwilgendaal) | 0.2.0 |  | A Flemish city's website, in Dutch, built for accessibility: a home page that o… |
-| 2026-11-19 18:54:40 | [letterncms/lindenhof](https://www.nuget.org/packages/letterncms%2Flindenhof) | 0.2.0 |  | A complete website for a Flemish hospital, in Dutch: care and care providers fr… |
-| 2026-11-19 19:13:49 | [noid-oss/authz](https://www.nuget.org/packages/noid-oss%2Fauthz) | v0.1.0 |  | PHP SDK for the noid authz contract: token verification, claim hints, live Keto… |
+| 2026-11-19 19:39:45 | [puzzlesoft/laravel-global-search](https://www.nuget.org/packages/puzzlesoft%2Flaravel-global-search) | v1.0.1 |  | Global search and command palette for Laravel applications |
 
 ## Data source
 
