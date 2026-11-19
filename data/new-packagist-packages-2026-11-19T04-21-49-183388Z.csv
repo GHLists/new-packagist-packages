@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-19T03:37:20Z,intelligence-cloud/sdk,v0.1.0,,PHP SDK for the Intelligence Cloud partner API: customer lifecycle and conversation intelligence.
+2026-11-19T04:05:08Z,ernestdefoe/community-reviews,1.0.1,Ernest Defoe,"Community Reviews: a catalog of products your members review, with a rating and comment per criterion, photos, price paid, merchants, comments and moderation. Feature for feature with the MyBB Community Reviews plugin."
+2026-11-19T04:15:44Z,ernestdefoe/skylight,1.0.0,Ernestdefoe,"Skylight: a calm glass-and-daylight theme for Flarum 2, with a Studio where each member picks their own accent, background, glass, text size and list view."

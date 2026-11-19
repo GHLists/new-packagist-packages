@@ -15,21 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 03:19 UTC
+## Latest list — 2026-11-19 04:21 UTC
 
-New packages created between 2026-11-19 02:22 UTC and 2026-11-19 03:19 UTC.
+New packages created between 2026-11-19 03:19 UTC and 2026-11-19 04:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-19T03-19-47-462607Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-19T04-21-49-183388Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-19 02:37:32 | [pushinbr/nimbus](https://www.nuget.org/packages/pushinbr%2Fnimbus) | v0.1.0 |  | Nimbus: the API-first PHP framework for the PAM runtime. |
-| 2026-11-19 02:49:32 | [queen-one/module-connect](https://www.nuget.org/packages/queen-one%2Fmodule-connect) | v1.0.0 |  | Queen One Connect for Magento 2 |
-| 2026-11-19 02:58:33 | [content-true/live-swap-face-frame-audit](https://www.nuget.org/packages/content-true%2Flive-swap-face-frame-audit) | v0.1.0 |  | Compare sampled RGB frames and flag abrupt visual changes for manual video revi… |
-| 2026-11-19 03:01:05 | [content-true/bank-file-tool-reconciliation](https://www.nuget.org/packages/content-true%2Fbank-file-tool-reconciliation) | v0.1.0 |  | Reconcile normalized bank-statement CSV rows with opening and closing balances |
-| 2026-11-19 03:03:38 | [content-true/image-unblur-pixel-compare](https://www.nuget.org/packages/content-true%2Fimage-unblur-pixel-compare) | v0.1.0 |  | Measure pixel changes between aligned original and restored RGB images |
-| 2026-11-19 03:17:13 | [bijayx/nepal-pay-laravel](https://www.nuget.org/packages/bijayx%2Fnepal-pay-laravel) | v0.1.0 | Bijay Shrestha | Khalti and eSewa payment gateways for Laravel behind one typed, verified API. |
-| 2026-11-19 03:17:18 | [bijayx/iap-guard-laravel](https://www.nuget.org/packages/bijayx%2Fiap-guard-laravel) | v0.1.0 | Bijay Shrestha | Server-side verification and ownership protection for Apple App Store and Googl… |
+| 2026-11-19 03:37:20 | [intelligence-cloud/sdk](https://www.nuget.org/packages/intelligence-cloud%2Fsdk) | v0.1.0 |  | PHP SDK for the Intelligence Cloud partner API: customer lifecycle and conversa… |
+| 2026-11-19 04:05:08 | [ernestdefoe/community-reviews](https://www.nuget.org/packages/ernestdefoe%2Fcommunity-reviews) | 1.0.1 | Ernest Defoe | Community Reviews: a catalog of products your members review, with a rating and… |
+| 2026-11-19 04:15:44 | [ernestdefoe/skylight](https://www.nuget.org/packages/ernestdefoe%2Fskylight) | 1.0.0 | Ernestdefoe | Skylight: a calm glass-and-daylight theme for Flarum 2, with a Studio where eac… |
 
 ## Data source
 
