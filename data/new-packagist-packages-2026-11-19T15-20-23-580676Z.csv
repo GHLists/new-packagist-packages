@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-19T14:21:22Z,semsen1/three-d-preview-field,v1.0.0,,"Laravel Nova field: upload and preview 3D models (STL, OBJ, PLY, GLB/GLTF, 3MF, FBX)"
+2026-11-19T14:23:44Z,daika7ana/innoship-php-sdk,v1.0.0,Dan-Radu Pana,Typed PHP SDK for the Innoship shipping API.
+2026-11-19T14:37:57Z,webservco/encryption,v0.0.1,Radu Maier,"A PHP component/library. Encrypts secrets for storage with a key from the configuration (XChaCha20-Poly1305, libsodium), each bound to its row by associated data."
+2026-11-19T14:46:51Z,kraenkvisuell/statamic-bunny-cache,v0.1.2,Sebastian Hilger,"Full static caching for Statamic on the bunny.net CDN: pages are cached at the edge and purged through the bunny.net API whenever Statamic invalidates them. No nginx rewrite rules, no public/static folder."
+2026-11-19T14:50:57Z,blackbird/billmap-hyva-compatibility,1.0.0,,Blackbird BillMap Payment Gateway Compatibility with Hÿva Checkout check https://store.bird.eu/ : to get a license of BillMap base module.
+2026-11-19T15:04:06Z,dorsetdigital/silverstripe-reapit,v1.0.0,,Reapit Foundations property import for Silverstripe CMS
+2026-11-19T15:05:58Z,hval/scalapay-php,1.0.0,Hermann Vallieri,"Unofficial PHP library for the Scalapay Buy Now Pay Later payment gateway: orders, capture, refund, void and webhooks"
+2026-11-19T15:09:42Z,nubos/starterkit,v1.35.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-19T15:10:57Z,iguazoft/yii2-tenancy,v1.0.0,Danny Rios Tolosa,"Row-level multi-tenancy for Yii2 ActiveRecord that fails closed: scoped queries and mass writes, immutable tenant column, subdomain resolution, a schema checker for CI and isolation assertions for tests."

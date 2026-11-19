@@ -15,20 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 14:21 UTC
+## Latest list — 2026-11-19 15:20 UTC
 
-New packages created between 2026-11-19 13:20 UTC and 2026-11-19 14:21 UTC.
+New packages created between 2026-11-19 14:21 UTC and 2026-11-19 15:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-19T14-21-17-537618Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-19T15-20-23-580676Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-19 13:21:39 | [fisharebest/figlet](https://www.nuget.org/packages/fisharebest%2Ffiglet) | 1.0.0 | Greg Roach | A zero-dependency PHP library and CLI for rendering FIGlet text banners. |
-| 2026-11-19 13:26:45 | [market-media/plates](https://www.nuget.org/packages/market-media%2Fplates) | v1.0.0 |  | Plates, o sistema de templates nativo do PHP que é rápido, fácil de usar e fáci… |
-| 2026-11-19 13:27:07 | [baldie81/magento2-sdk](https://www.nuget.org/packages/baldie81%2Fmagento2-sdk) | v1.0.0 | baldie81 | Framework-independent PHP SDK for the Magento 2 REST API: products, attributes,… |
-| 2026-11-19 13:42:34 | [stolt/hyde-reading-time](https://www.nuget.org/packages/stolt%2Fhyde-reading-time) | v0.9.0 | Raphael Stolt | Estimated Markdown reading times for HydePHP pages. |
-| 2026-11-19 13:55:34 | [portalcurso/php-template](https://www.nuget.org/packages/portalcurso%2Fphp-template) | v1.0.0 | Edivan Fontes | Sistema de templates nativo em PHP puro (7.4+), inspirado no League Plates: lay… |
-| 2026-11-19 14:01:23 | [eii/filament-language-switch](https://www.nuget.org/packages/eii%2Ffilament-language-switch) | v1.0.0 |  | Filament topbar language switcher plugin |
+| 2026-11-19 14:21:22 | [semsen1/three-d-preview-field](https://www.nuget.org/packages/semsen1%2Fthree-d-preview-field) | v1.0.0 |  | Laravel Nova field: upload and preview 3D models (STL, OBJ, PLY, GLB/GLTF, 3MF,… |
+| 2026-11-19 14:23:44 | [daika7ana/innoship-php-sdk](https://www.nuget.org/packages/daika7ana%2Finnoship-php-sdk) | v1.0.0 | Dan-Radu Pana | Typed PHP SDK for the Innoship shipping API. |
+| 2026-11-19 14:37:57 | [webservco/encryption](https://www.nuget.org/packages/webservco%2Fencryption) | v0.0.1 | Radu Maier | A PHP component/library. Encrypts secrets for storage with a key from the confi… |
+| 2026-11-19 14:46:51 | [kraenkvisuell/statamic-bunny-cache](https://www.nuget.org/packages/kraenkvisuell%2Fstatamic-bunny-cache) | v0.1.2 | Sebastian Hilger | Full static caching for Statamic on the bunny.net CDN: pages are cached at the… |
+| 2026-11-19 14:50:57 | [blackbird/billmap-hyva-compatibility](https://www.nuget.org/packages/blackbird%2Fbillmap-hyva-compatibility) | 1.0.0 |  | Blackbird BillMap Payment Gateway Compatibility with Hÿva Checkout check https:… |
+| 2026-11-19 15:04:06 | [dorsetdigital/silverstripe-reapit](https://www.nuget.org/packages/dorsetdigital%2Fsilverstripe-reapit) | v1.0.0 |  | Reapit Foundations property import for Silverstripe CMS |
+| 2026-11-19 15:05:58 | [hval/scalapay-php](https://www.nuget.org/packages/hval%2Fscalapay-php) | 1.0.0 | Hermann Vallieri | Unofficial PHP library for the Scalapay Buy Now Pay Later payment gateway: orde… |
+| 2026-11-19 15:09:42 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.35.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-19 15:10:57 | [iguazoft/yii2-tenancy](https://www.nuget.org/packages/iguazoft%2Fyii2-tenancy) | v1.0.0 | Danny Rios Tolosa | Row-level multi-tenancy for Yii2 ActiveRecord that fails closed: scoped queries… |
 
 ## Data source
 
