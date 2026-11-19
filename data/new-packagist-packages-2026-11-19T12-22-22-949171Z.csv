@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-19T11:37:12Z,daika7ana/dragonstar-php-sdk,v1.0.0,Dan-Radu Pana,Typed PHP SDK for the Dragon Star Courier API.
+2026-11-19T11:44:33Z,inspirecz/dresscode-standard,v1.0.0,INSPIRE CZ s.r.o.,INSPIRE coding standard for DressCode: presets translated from inspirecz/coding-standard and the Inspire sniffs ported as DressCode rules.
+2026-11-19T11:52:48Z,justinholtweb/craft-chisel,6.0.0-beta.1,Justin Holt,"Run allowlisted Artisan commands from the Craft CP — forms built from each command's signature, permission per command, full audit log."
+2026-11-19T12:07:04Z,daika7ana/fancourier-php-sdk,v1.0.0,Dan-Radu Pana,Typed PHP SDK for the FAN Courier API.
+2026-11-19T12:16:38Z,justinholtweb/craft-dipstick,6.0.0-beta.1,Justin Holt,"Check the engine before you run Craft on Octane: finds state that leaks between requests in plugins, modules and templates."
+2026-11-19T12:18:47Z,ozioma/otp,1.0.1,,"Framework-independent one-time password generation and verification for PHP, with optional Laravel integration."
