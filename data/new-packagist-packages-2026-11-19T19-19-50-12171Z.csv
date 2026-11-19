@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-19T18:25:17Z,brunasebold/module-sales-transfer,1.0.0,Bruna Sebold,"Copy Magento orders, invoices, shipments and credit memos between installations without sending email, charging a payment or changing stock."
+2026-11-19T18:53:54Z,letterncms/wilgendaal,0.2.0,,"A Flemish city's website, in Dutch, built for accessibility: a home page that opens on the town and what you want to arrange, 46 services under 10 themes with cost, term and what to bring, an A to Z, news, events, participation, the council, locations with opening hours and maps, notices with tagge…"
+2026-11-19T18:54:40Z,letterncms/lindenhof,0.2.0,,"A complete website for a Flemish hospital, in Dutch: care and care providers from A to Z, conditions and treatments, your consultation, day admission and stay step by step, emergency care, visiting, campuses, news, events and jobs, with forms to request an appointment, sign up and apply. Built to t…"
+2026-11-19T19:13:49Z,noid-oss/authz,v0.1.0,,"PHP SDK for the noid authz contract: token verification, claim hints, live Keto-backed permission checks and a PSR-15 guard."
