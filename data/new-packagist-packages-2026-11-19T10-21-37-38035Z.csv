@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-19T09:29:32Z,yu-laravel/dns-check,v1.0.0,Yuriy Akishin,"Laravel Livewire tool that checks a domain's DNS and mail records: nameservers, MX, SPF, DKIM, DMARC, CAA and expiry."
+2026-11-19T09:29:32Z,yu-laravel/link-preview,v1.0.0,Yuriy Akishin,"Laravel Livewire tool that shows how a link looks when shared in messengers and social networks, and checks its Open Graph and Twitter tags."
+2026-11-19T09:29:32Z,yu-laravel/page-speed,v1.0.0,Yuriy Akishin,Laravel Livewire tool that checks page speed and Core Web Vitals through the Google PageSpeed Insights API.
+2026-11-19T09:29:32Z,yu-laravel/schema-validator,v1.0.0,Yuriy Akishin,Laravel Livewire tool that validates Schema.org structured data (JSON-LD and microdata) and rich result requirements.
+2026-11-19T09:29:32Z,yu-laravel/security-check,v1.0.0,Yuriy Akishin,"Laravel Livewire tool that checks a site's SSL certificate, HTTPS redirect and security headers."
+2026-11-19T09:29:32Z,yu-laravel/seo-meta-analyzer,v1.0.0,Yuriy Akishin,"Laravel Livewire tool that checks a page's title, description and other meta tags and suggests better ones with AI."
+2026-11-19T09:29:32Z,yu-laravel/web-tools-core,v1.0.0,Yuriy Akishin,"Shared core for the yu-laravel web tools: SSRF-safe page fetcher, TLS inspector, checklist report, base Livewire tool component and locale resolver."
+2026-11-19T09:29:32Z,yu-laravel/webmcp-analyzer,v1.0.0,Yuriy Akishin,Laravel Livewire tool that checks how a page exposes WebMCP tools to AI agents.
+2026-11-19T10:03:27Z,ikongdev/font-awesome,v1.1.0,Jericho Umayam,Using FontAwesome Enum in Filament
+2026-11-19T10:10:43Z,fedor/work-orchestrator,v0.4.0,,Finite concurrent and parallel work orchestration with managed subprocess lifecycles

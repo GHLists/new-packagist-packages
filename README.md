@@ -15,21 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 09:20 UTC
+## Latest list — 2026-11-19 10:21 UTC
 
-New packages created between 2026-11-19 08:19 UTC and 2026-11-19 09:20 UTC.
+New packages created between 2026-11-19 09:20 UTC and 2026-11-19 10:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-19T09-20-44-51026Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-19T10-21-37-38035Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-19 08:26:42 | [formfeed/laravel](https://www.nuget.org/packages/formfeed%2Flaravel) | v0.3.28 | Formfeed | Formfeed for Laravel: the API client from config/formfeed.php, the Formfeed fac… |
-| 2026-11-19 08:26:42 | [formfeed/sdk](https://www.nuget.org/packages/formfeed%2Fsdk) | v0.3.28 | Formfeed | PHP client for the Formfeed API: PDFs and images from templates, HTML or URLs,… |
-| 2026-11-19 08:48:18 | [chunkify/chunkify-analytics-php](https://www.nuget.org/packages/chunkify%2Fchunkify-analytics-php) | v0.9.0 |  | Chunkify Analytics PHP SDK |
-| 2026-11-19 08:52:15 | [dskripchenko/laravel-telemetry](https://www.nuget.org/packages/dskripchenko%2Flaravel-telemetry) | v0.2.0 | Denis Skripchenko | Performance telemetry for Laravel without an agent or a database: a Server-Timi… |
-| 2026-11-19 08:57:19 | [showmac/pay-sdk](https://www.nuget.org/packages/showmac%2Fpay-sdk) | v1.0.0 |  | ShowMac 支付网关 PHP 客户端 |
-| 2026-11-19 09:03:46 | [specialistaweb/rss-news-import](https://www.nuget.org/packages/specialistaweb%2Frss-news-import) | 2.0.1 | Giulia Tuveri | Imports external RSS/Atom feeds into EXT:news via the Scheduler and SimplePie,… |
-| 2026-11-19 09:06:08 | [dashed/dashed-cookies](https://www.nuget.org/packages/dashed%2Fdashed-cookies) | v4.0.1 | Robin van Maasakker | Cookie consent, cookie overview and consent logging for Dashed CMS |
+| 2026-11-19 09:29:32 | [yu-laravel/dns-check](https://www.nuget.org/packages/yu-laravel%2Fdns-check) | v1.0.0 | Yuriy Akishin | Laravel Livewire tool that checks a domain's DNS and mail records: nameservers,… |
+| 2026-11-19 09:29:32 | [yu-laravel/link-preview](https://www.nuget.org/packages/yu-laravel%2Flink-preview) | v1.0.0 | Yuriy Akishin | Laravel Livewire tool that shows how a link looks when shared in messengers and… |
+| 2026-11-19 09:29:32 | [yu-laravel/page-speed](https://www.nuget.org/packages/yu-laravel%2Fpage-speed) | v1.0.0 | Yuriy Akishin | Laravel Livewire tool that checks page speed and Core Web Vitals through the Go… |
+| 2026-11-19 09:29:32 | [yu-laravel/schema-validator](https://www.nuget.org/packages/yu-laravel%2Fschema-validator) | v1.0.0 | Yuriy Akishin | Laravel Livewire tool that validates Schema.org structured data (JSON-LD and mi… |
+| 2026-11-19 09:29:32 | [yu-laravel/security-check](https://www.nuget.org/packages/yu-laravel%2Fsecurity-check) | v1.0.0 | Yuriy Akishin | Laravel Livewire tool that checks a site's SSL certificate, HTTPS redirect and… |
+| 2026-11-19 09:29:32 | [yu-laravel/seo-meta-analyzer](https://www.nuget.org/packages/yu-laravel%2Fseo-meta-analyzer) | v1.0.0 | Yuriy Akishin | Laravel Livewire tool that checks a page's title, description and other meta ta… |
+| 2026-11-19 09:29:32 | [yu-laravel/web-tools-core](https://www.nuget.org/packages/yu-laravel%2Fweb-tools-core) | v1.0.0 | Yuriy Akishin | Shared core for the yu-laravel web tools: SSRF-safe page fetcher, TLS inspector… |
+| 2026-11-19 09:29:32 | [yu-laravel/webmcp-analyzer](https://www.nuget.org/packages/yu-laravel%2Fwebmcp-analyzer) | v1.0.0 | Yuriy Akishin | Laravel Livewire tool that checks how a page exposes WebMCP tools to AI agents. |
+| 2026-11-19 10:03:27 | [ikongdev/font-awesome](https://www.nuget.org/packages/ikongdev%2Ffont-awesome) | v1.1.0 | Jericho Umayam | Using FontAwesome Enum in Filament |
+| 2026-11-19 10:10:43 | [fedor/work-orchestrator](https://www.nuget.org/packages/fedor%2Fwork-orchestrator) | v0.4.0 |  | Finite concurrent and parallel work orchestration with managed subprocess lifec… |
 
 ## Data source
 
