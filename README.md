@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 23:19 UTC
+## Latest list — 2026-11-19 00:22 UTC
 
-New packages created between 2026-11-18 22:22 UTC and 2026-11-18 23:19 UTC.
+New packages created between 2026-11-18 23:19 UTC and 2026-11-19 00:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-18T23-19-38-972944Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-19T00-22-09-867607Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-18 22:25:20 | [grupoclip/bcv-today](https://www.nuget.org/packages/grupoclip%2Fbcv-today) | v1.0.0 | Grupo Clip | Official PHP client for the BCV Today API: Banco Central de Venezuela (BCV) exc… |
-| 2026-11-18 22:25:42 | [useflex/media-studio](https://www.nuget.org/packages/useflex%2Fmedia-studio) | v0.1.0 |  | Self-hosted media library for Laravel with workspace storage, optional AI and F… |
-| 2026-11-18 22:55:45 | [esoul-cz/guidelines](https://www.nuget.org/packages/esoul-cz%2Fguidelines) | v0.1.0 |  | Layered, mergeable project guidelines for eSoul projects (Laravel, LSR, Astro)… |
-| 2026-11-18 23:01:19 | [daika7ana/simple-collections](https://www.nuget.org/packages/daika7ana%2Fsimple-collections) | v1.0.0 |  | Dependency-free Collection and LazyCollection for PHP 8.3+. |
+| 2026-11-18 23:59:51 | [artisan-toolbox/permit](https://www.nuget.org/packages/artisan-toolbox%2Fpermit) | 1.0.0-beta.1 | Allan Mariucci Carvalho | Declare Laravel Gates and manage per-user permissions and roles. |
+| 2026-11-19 00:00:22 | [vested-networks/phonemgr-socialite](https://www.nuget.org/packages/vested-networks%2Fphonemgr-socialite) | v0.1.1 | Werner Garcia | Sign in with Phone Manager: a Socialite driver for Phone Manager's OpenID Conne… |
+| 2026-11-19 00:00:39 | [dply/laravel](https://www.nuget.org/packages/dply%2Flaravel) | 1.6.0 |  | Run Laravel queues on Cloudflare Queues when your app is deployed as a dply Edg… |
+| 2026-11-19 00:01:22 | [0x15f/agent-traffic](https://www.nuget.org/packages/0x15f%2Fagent-traffic) | v0.1.0 | Jake Casto | Tell AI agents, crawlers and bots apart from people. A PHP port of Mintlify age… |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-18T23:59:51Z,artisan-toolbox/permit,1.0.0-beta.1,Allan Mariucci Carvalho,Declare Laravel Gates and manage per-user permissions and roles.
+2026-11-19T00:00:22Z,vested-networks/phonemgr-socialite,v0.1.1,Werner Garcia,"Sign in with Phone Manager: a Socialite driver for Phone Manager's OpenID Connect provider, and verification of its provisioning tokens."
+2026-11-19T00:00:39Z,dply/laravel,1.6.0,,Run Laravel queues on Cloudflare Queues when your app is deployed as a dply Edge container.
+2026-11-19T00:01:22Z,0x15f/agent-traffic,v0.1.0,Jake Casto,"Tell AI agents, crawlers and bots apart from people. A PHP port of Mintlify agent-traffic."
