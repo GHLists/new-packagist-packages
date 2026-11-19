@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 06:21 UTC
+## Latest list — 2026-11-19 07:21 UTC
 
-New packages created between 2026-11-19 05:19 UTC and 2026-11-19 06:21 UTC.
+New packages created between 2026-11-19 06:21 UTC and 2026-11-19 07:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-19T06-21-03-497979Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-19T07-21-29-358856Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-19 05:25:51 | [jorisnoo/statamic-license-health-check](https://www.nuget.org/packages/jorisnoo%2Fstatamic-license-health-check) | 0.1.0 | Joris Noordermeer | Monitor Statamic license validity without alerting on temporary Outpost outages. |
-| 2026-11-19 05:31:26 | [nepdatejs/nepdate](https://www.nuget.org/packages/nepdatejs%2Fnepdate) | v0.1.2 | Shishir Rai | Bikram Sambat (BS) ⇄ AD dates for PHP: conversion, arithmetic, formatting, pars… |
+| 2026-11-19 06:52:12 | [muhdaimans/identiq-ekyc](https://www.nuget.org/packages/muhdaimans%2Fidentiq-ekyc) | v0.1.0 |  | Laravel client for the IDentiQ eKYC API: onboarding journeys, results and signe… |
+| 2026-11-19 07:07:32 | [toshkq93/laravel-boundaries](https://www.nuget.org/packages/toshkq93%2Flaravel-boundaries) | 0.0.1 | toshkq93 | Modular monolith for Laravel with enforced module boundaries: modules with thei… |
 
 ## Data source
 
