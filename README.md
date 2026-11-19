@@ -15,23 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 15:20 UTC
+## Latest list — 2026-11-19 16:19 UTC
 
-New packages created between 2026-11-19 14:21 UTC and 2026-11-19 15:20 UTC.
+New packages created between 2026-11-19 15:20 UTC and 2026-11-19 16:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-19T15-20-23-580676Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-19T16-19-09-088636Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-19 14:21:22 | [semsen1/three-d-preview-field](https://www.nuget.org/packages/semsen1%2Fthree-d-preview-field) | v1.0.0 |  | Laravel Nova field: upload and preview 3D models (STL, OBJ, PLY, GLB/GLTF, 3MF,… |
-| 2026-11-19 14:23:44 | [daika7ana/innoship-php-sdk](https://www.nuget.org/packages/daika7ana%2Finnoship-php-sdk) | v1.0.0 | Dan-Radu Pana | Typed PHP SDK for the Innoship shipping API. |
-| 2026-11-19 14:37:57 | [webservco/encryption](https://www.nuget.org/packages/webservco%2Fencryption) | v0.0.1 | Radu Maier | A PHP component/library. Encrypts secrets for storage with a key from the confi… |
-| 2026-11-19 14:46:51 | [kraenkvisuell/statamic-bunny-cache](https://www.nuget.org/packages/kraenkvisuell%2Fstatamic-bunny-cache) | v0.1.2 | Sebastian Hilger | Full static caching for Statamic on the bunny.net CDN: pages are cached at the… |
-| 2026-11-19 14:50:57 | [blackbird/billmap-hyva-compatibility](https://www.nuget.org/packages/blackbird%2Fbillmap-hyva-compatibility) | 1.0.0 |  | Blackbird BillMap Payment Gateway Compatibility with Hÿva Checkout check https:… |
-| 2026-11-19 15:04:06 | [dorsetdigital/silverstripe-reapit](https://www.nuget.org/packages/dorsetdigital%2Fsilverstripe-reapit) | v1.0.0 |  | Reapit Foundations property import for Silverstripe CMS |
-| 2026-11-19 15:05:58 | [hval/scalapay-php](https://www.nuget.org/packages/hval%2Fscalapay-php) | 1.0.0 | Hermann Vallieri | Unofficial PHP library for the Scalapay Buy Now Pay Later payment gateway: orde… |
-| 2026-11-19 15:09:42 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.35.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
-| 2026-11-19 15:10:57 | [iguazoft/yii2-tenancy](https://www.nuget.org/packages/iguazoft%2Fyii2-tenancy) | v1.0.0 | Danny Rios Tolosa | Row-level multi-tenancy for Yii2 ActiveRecord that fails closed: scoped queries… |
+| 2026-11-19 15:22:52 | [webwizardsusa/filament-table-layouts](https://www.nuget.org/packages/webwizardsusa%2Ffilament-table-layouts) | v0.1.0 | Jamie Holly | Let people switch a Filament table between a table and a card grid, with an ima… |
+| 2026-11-19 15:33:20 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.36.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-19 15:36:39 | [threadlive/threadlive-laravel](https://www.nuget.org/packages/threadlive%2Fthreadlive-laravel) | v0.1.0 | Mikhail Kovchuk | Threadlive — live chat in Telegram threads. The Laravel side: the widget's API,… |
+| 2026-11-19 15:42:06 | [neuronaptiq/magento-search](https://www.nuget.org/packages/neuronaptiq%2Fmagento-search) | 2.1.1 |  | Semantic search for Magento 2 powered by the NeuronaptiQ search API |
+| 2026-11-19 15:54:20 | [neuronaptiq/magento-search-elasticsuite](https://www.nuget.org/packages/neuronaptiq%2Fmagento-search-elasticsuite) | 2.0.0 |  | Smile ElasticSuite integration of the NeuronaptiQ semantic search for Magento 2 |
+| 2026-11-19 16:05:58 | [88pay/webhooks](https://www.nuget.org/packages/88pay%2Fwebhooks) | v1.0.0 |  | Verify notifications (webhooks) sent by 88Pay: HMAC-SHA256 signature, timestamp… |
+| 2026-11-19 16:17:18 | [veltra/veltra-laravel](https://www.nuget.org/packages/veltra%2Fveltra-laravel) | v1.0.0 | Veltra Ecosystem Team | Enterprise Admin Dashboard UI Suite for Laravel 10, 11, 12 and 13 powered by Ta… |
 
 ## Data source
 

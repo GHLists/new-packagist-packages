@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-19T15:22:52Z,webwizardsusa/filament-table-layouts,v0.1.0,Jamie Holly,"Let people switch a Filament table between a table and a card grid, with an image at the top of each card, remembered per table."
+2026-11-19T15:33:20Z,nubos/starterkit,v1.36.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-19T15:36:39Z,threadlive/threadlive-laravel,v0.1.0,Mikhail Kovchuk,"Threadlive — live chat in Telegram threads. The Laravel side: the widget's API, the Telegram webhook, one forum topic per conversation."
+2026-11-19T15:42:06Z,neuronaptiq/magento-search,2.1.1,,Semantic search for Magento 2 powered by the NeuronaptiQ search API
+2026-11-19T15:54:20Z,neuronaptiq/magento-search-elasticsuite,2.0.0,,Smile ElasticSuite integration of the NeuronaptiQ semantic search for Magento 2
+2026-11-19T16:05:58Z,88pay/webhooks,v1.0.0,,"Verify notifications (webhooks) sent by 88Pay: HMAC-SHA256 signature, timestamp window and AES-256-GCM authorization token."
+2026-11-19T16:17:18Z,veltra/veltra-laravel,v1.0.0,Veltra Ecosystem Team,"Enterprise Admin Dashboard UI Suite for Laravel 10, 11, 12 and 13 powered by Tailwind CSS v4 and Vanilla JS"
