@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-19T08:26:42Z,formfeed/laravel,v0.3.28,Formfeed,"Formfeed for Laravel: the API client from config/formfeed.php, the Formfeed facade, a middleware that checks webhook signatures, and Formfeed::fake() for tests."
+2026-11-19T08:26:42Z,formfeed/sdk,v0.3.28,Formfeed,"PHP client for the Formfeed API: PDFs and images from templates, HTML or URLs, and tools for existing PDFs."
+2026-11-19T08:48:18Z,chunkify/chunkify-analytics-php,v0.9.0,,Chunkify Analytics PHP SDK
+2026-11-19T08:52:15Z,dskripchenko/laravel-telemetry,v0.2.0,Denis Skripchenko,"Performance telemetry for Laravel without an agent or a database: a Server-Timing header on every answer, one structured log line per request, job and command, and the slow and repeated (N+1) queries behind them."
+2026-11-19T08:57:19Z,showmac/pay-sdk,v1.0.0,,ShowMac 支付网关 PHP 客户端
+2026-11-19T09:03:46Z,specialistaweb/rss-news-import,2.0.1,Giulia Tuveri,"Imports external RSS/Atom feeds into EXT:news via the Scheduler and SimplePie, with images, categories, keyword filters and Fluid templates."
+2026-11-19T09:06:08Z,dashed/dashed-cookies,v4.0.1,Robin van Maasakker,"Cookie consent, cookie overview and consent logging for Dashed CMS"
