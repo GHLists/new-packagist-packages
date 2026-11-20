@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-20T15:21:48Z,codeverseindia/tourkinet-appstarter,v1.0.0,,Minimal PHP application starter powered by LightPHP Core
+2026-11-20T15:25:46Z,wnikk/qrcode-cute,v1.0.0,,"QR codes in the shape of a square, circle, triangle or hexagon, as SVG, PNG and WebP. Pure PHP, no dependencies."
+2026-11-20T15:51:36Z,cengizkemec/flarum-google-news,v1.0.0,Cengiz Kemec,"Google News, structured data, sitemap and RSS/Atom integration for Flarum."
+2026-11-20T16:07:25Z,xiconfjs/vampire-invoicesuite,v1.0.0,Ralf Fuhrmann,"A document validator for horstoeko/invoicesuite that checks e-invoices against the official EN 16931, XRechnung, Factur-X / ZUGFeRD and Peppol rule sets in pure PHP with VAMPIRE PHP. Works like the KoSIT validator of invoicesuite, without Java."
