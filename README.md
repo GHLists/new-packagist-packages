@@ -15,21 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 22:20 UTC
+## Latest list — 2026-11-20 23:21 UTC
 
-New packages created between 2026-11-20 21:21 UTC and 2026-11-20 22:20 UTC.
+New packages created between 2026-11-20 22:20 UTC and 2026-11-20 23:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-20T22-20-18-658901Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-20T23-21-34-631895Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-20 21:26:12 | [aristonis/filament-shortcut-keys](https://www.nuget.org/packages/aristonis%2Ffilament-shortcut-keys) | v1.0.0 | Mekad Alibrahem | Keyboard shortcuts for a Filament panel, assigned automatically from its resour… |
-| 2026-11-20 21:29:17 | [otten-it/version-report](https://www.nuget.org/packages/otten-it%2Fversion-report) | v1.0.0 | Otten IT | Lets a monitoring dashboard read which Laravel, PHP and package versions a Lara… |
-| 2026-11-20 21:48:13 | [serverfy/sense](https://www.nuget.org/packages/serverfy%2Fsense) | v2.0.0 | Serverfy Core Team | Serverfy Sense - Zero-overhead Deep APM, Waterfall Tracing, Error Tracking and… |
-| 2026-11-20 21:50:23 | [reachbell/reachbell](https://www.nuget.org/packages/reachbell%2Freachbell) | v1.0.1 | DotSpheres Technologies Pvt L… | ReachBell server SDK for PHP: transactional push, email, SMS and WhatsApp, even… |
-| 2026-11-20 21:59:59 | [instatus/otel](https://www.nuget.org/packages/instatus%2Fotel) | v0.1.0 | Instatus | Errors, logs and traces for PHP on OpenTelemetry, with the Sentry SDK's API. |
-| 2026-11-20 22:06:19 | [xihanfun/xihan-framework](https://www.nuget.org/packages/xihanfun%2Fxihan-framework) | v0.2.0-rc.1 | XiHanFun | XiHan Framework SDK for PHP: primitives, manifest, invocation context, pipeline… |
-| 2026-11-20 22:06:45 | [koderia-creative-lab/laravel-smslive247](https://www.nuget.org/packages/koderia-creative-lab%2Flaravel-smslive247) | v1.0.0 | Koderia Creative Lab | A modern Laravel client and Notification Channel driver for the SMSLive247 SMS… |
+| 2026-11-20 22:33:00 | [koderia-creative-lab/laravel-upperlink](https://www.nuget.org/packages/koderia-creative-lab%2Flaravel-upperlink) | v1.0.0 | Koderia Creative Lab | A modern Laravel client and driver for the Upperlink (PayChoice / Paygate) paym… |
+| 2026-11-20 22:40:25 | [printmelo/printmelo-laravel](https://www.nuget.org/packages/printmelo%2Fprintmelo-laravel) | v1.0.1 | Printmelo | Laravel integration for Printmelo: a facade, config, webhook handling with even… |
+| 2026-11-20 22:40:25 | [printmelo/printmelo-php](https://www.nuget.org/packages/printmelo%2Fprintmelo-php) | v1.0.0 | Printmelo | Official PHP SDK for the Printmelo API: print from your own software to printer… |
+| 2026-11-20 22:56:51 | [devmount/kirby-updater](https://www.nuget.org/packages/devmount%2Fkirby-updater) | 1.0.0 | Andreas Müller | Update the Kirby core to the latest patch or minor release from the Panel |
 
 ## Data source
 

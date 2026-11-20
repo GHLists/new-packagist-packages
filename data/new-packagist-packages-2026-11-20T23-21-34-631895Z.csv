@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-20T22:33:00Z,koderia-creative-lab/laravel-upperlink,v1.0.0,Koderia Creative Lab,A modern Laravel client and driver for the Upperlink (PayChoice / Paygate) payment gateway.
+2026-11-20T22:40:25Z,printmelo/printmelo-laravel,v1.0.1,Printmelo,"Laravel integration for Printmelo: a facade, config, webhook handling with events, and Http::fake() support."
+2026-11-20T22:40:25Z,printmelo/printmelo-php,v1.0.0,Printmelo,Official PHP SDK for the Printmelo API: print from your own software to printers on location.
+2026-11-20T22:56:51Z,devmount/kirby-updater,1.0.0,Andreas Müller,Update the Kirby core to the latest patch or minor release from the Panel
