@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 03:21 UTC
+## Latest list — 2026-11-20 04:21 UTC
 
-New packages created between 2026-11-20 02:19 UTC and 2026-11-20 03:21 UTC.
+New packages created between 2026-11-20 03:21 UTC and 2026-11-20 04:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-20T03-21-57-482823Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-20T04-21-38-835111Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-20 02:41:31 | [dcodegroup/dcode-starter-kit](https://www.nuget.org/packages/dcodegroup%2Fdcode-starter-kit) | v0.0.1 | DCode Group Pty Ltd | Our standard templates and auth structure for new projects |
-| 2026-11-20 02:53:56 | [evo-mark/inertia-symfony](https://www.nuget.org/packages/evo-mark%2Finertia-symfony) | v1.0.0 | evoMark | Inertia.js adapter for Symfony |
+| 2026-11-20 04:02:00 | [kastsecho/bootstrap-inertia-starter-kit](https://www.nuget.org/packages/kastsecho%2Fbootstrap-inertia-starter-kit) | v1.0.0-alpha.1 |  | The skeleton application for the Laravel framework. |
 
 ## Data source
 
