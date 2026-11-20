@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-20T20:24:43Z,sorge-it/http-server,v1.0.0,Stefan Sorge,"In-process HTTP/1.1 server for Pest and PHPUnit browser tests, built for coding agents. The page sees the test's RefreshDatabase transaction, actingAs() user and fakes. No event loop, no package dependencies; tests compare each response to a valid request byte for byte with FrankenPHP. Loopback onl…"
+2026-11-20T21:13:28Z,sebastian-meyer/post-office,v1.0.0,Sebastian Meyer; Sebastian Meyer,This is a Web Frontend for a Mail Server with Postfix and Dovecot.

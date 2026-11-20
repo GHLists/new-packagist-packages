@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 20:19 UTC
+## Latest list — 2026-11-20 21:21 UTC
 
-New packages created between 2026-11-20 19:19 UTC and 2026-11-20 20:19 UTC.
+New packages created between 2026-11-20 20:19 UTC and 2026-11-20 21:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-20T20-19-20-172018Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-20T21-21-04-006331Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-20 19:30:29 | [kba-team/cakephp2-graylog](https://www.nuget.org/packages/kba-team%2Fcakephp2-graylog) | v1.0.0 |  | Graylog engine for CakePHP 2 |
-| 2026-11-20 19:32:57 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.39.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
-| 2026-11-20 20:01:03 | [plutuss/static-text-filamentphp](https://www.nuget.org/packages/plutuss%2Fstatic-text-filamentphp) | v1.0.0 |  | Manage Static Text Laravel pages and localized content blocks in a Filament pan… |
-| 2026-11-20 20:14:11 | [overclokk/auryn](https://www.nuget.org/packages/overclokk%2Fauryn) | v1.5.0 | Daniel Lowrey; Levi Morrison;… | Fork of rdlowrey/auryn with proxy support thanks to Ocramius/ProxyManager\|Frien… |
+| 2026-11-20 20:24:43 | [sorge-it/http-server](https://www.nuget.org/packages/sorge-it%2Fhttp-server) | v1.0.0 | Stefan Sorge | In-process HTTP/1.1 server for Pest and PHPUnit browser tests, built for coding… |
+| 2026-11-20 21:13:28 | [sebastian-meyer/post-office](https://www.nuget.org/packages/sebastian-meyer%2Fpost-office) | v1.0.0 | Sebastian Meyer; Sebastian Me… | This is a Web Frontend for a Mail Server with Postfix and Dovecot. |
 
 ## Data source
 
