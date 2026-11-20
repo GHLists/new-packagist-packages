@@ -15,19 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 11:21 UTC
+## Latest list — 2026-11-20 12:19 UTC
 
-New packages created between 2026-11-20 10:21 UTC and 2026-11-20 11:21 UTC.
+New packages created between 2026-11-20 11:21 UTC and 2026-11-20 12:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-20T11-21-39-0437Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-20T12-19-55-831138Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-20 10:25:47 | [soshopay/sdk](https://www.nuget.org/packages/soshopay%2Fsdk) | v1.0.0 |  | Thin PSR-18 Soshopay API client |
-| 2026-11-20 10:37:46 | [masilia/ibexa-icons](https://www.nuget.org/packages/masilia%2Fibexa-icons) | 0.1.0 | MasiliaLabs | The icons of the content types and groups of Ibexa, chosen at run time (registr… |
-| 2026-11-20 10:39:12 | [plokko/laravel-bulkgate](https://www.nuget.org/packages/plokko%2Flaravel-bulkgate) | 0.0.1 | Francesco Pellerone | Laravel BulkGate API integration |
-| 2026-11-20 10:56:57 | [angeo/module-ai-assist](https://www.nuget.org/packages/angeo%2Fmodule-ai-assist) | 1.0.0 | Ievgenii Gryshkun | Optional AI assistant for the Angeo AEO admin pages in Magento 2. Explains audi… |
-| 2026-11-20 11:13:19 | [codeverseindia/tourkinet-travel-app](https://www.nuget.org/packages/codeverseindia%2Ftourkinet-travel-app) | v1.1.0 |  | Tour Kinet Travel Application - Packages, Blogs, Destinations and Inquiries |
+| 2026-11-20 11:34:36 | [empiricompany/maho-onepage-checkout-stylish](https://www.nuget.org/packages/empiricompany%2Fmaho-onepage-checkout-stylish) | 1.0.0 |  | One-step checkout style presets for Maho: every step in the left column, the or… |
+| 2026-11-20 11:48:44 | [mapsight/pulp-ogc](https://www.nuget.org/packages/mapsight%2Fpulp-ogc) | v1.0.0 | Paul Golmann | Read OGC Web Feature Services (WFS) as GeoJSON in Pulp pipelines, with paging a… |
+| 2026-11-20 12:03:35 | [winglet/core](https://www.nuget.org/packages/winglet%2Fcore) | v0.13.0-RC4 | Winglet | Winglet Core Framework |
 
 ## Data source
 

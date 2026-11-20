@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-20T11:34:36Z,empiricompany/maho-onepage-checkout-stylish,1.0.0,,"One-step checkout style presets for Maho: every step in the left column, the order summary pinned on a sticky full-height panel on the right, with a store-scoped on/off switch"
+2026-11-20T11:48:44Z,mapsight/pulp-ogc,v1.0.0,Paul Golmann,"Read OGC Web Feature Services (WFS) as GeoJSON in Pulp pipelines, with paging and completeness checks."
+2026-11-20T12:03:35Z,winglet/core,v0.13.0-RC4,Winglet,Winglet Core Framework
