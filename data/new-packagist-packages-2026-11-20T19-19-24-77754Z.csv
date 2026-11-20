@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-20T18:30:48Z,sellissimo/core,v1.0.0-beta.24,,Sellissimo for Statamic 6.
+2026-11-20T18:30:59Z,sellissimo/shipping-flat-rate,v1.0.0-beta.24,,Flat Rate Shipping for Sellissimo for Statamic 6.
+2026-11-20T18:45:07Z,nubos/starterkit,v1.38.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
