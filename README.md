@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 09:21 UTC
+## Latest list — 2026-11-20 10:21 UTC
 
-New packages created between 2026-11-20 08:20 UTC and 2026-11-20 09:21 UTC.
+New packages created between 2026-11-20 09:21 UTC and 2026-11-20 10:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-20T09-21-51-472006Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-20T10-21-18-136544Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-20 08:32:47 | [byteworks/sonata-theme-bundle](https://www.nuget.org/packages/byteworks%2Fsonata-theme-bundle) | 1.0.0 |  | AdminLTE 4 (Bootstrap 5, no jQuery) theme for SonataAdminBundle 4.x |
-| 2026-11-20 08:40:45 | [nirogilanka/medical-calculators](https://www.nuget.org/packages/nirogilanka%2Fmedical-calculators) | v1.0.0 | Dr. Priya Sammani (MBBS, PG D… | Free multilingual WordPress plugin providing 76 doctor-reviewed interactive med… |
-| 2026-11-20 08:45:35 | [nickdekruijk/laravel-beacon](https://www.nuget.org/packages/nickdekruijk%2Flaravel-beacon) | 1.1.0 | Nick de Kruijk | Reports the exceptions of a Laravel site to your own dashboard, without a key:… |
-| 2026-11-20 09:03:20 | [nickaguilarh/laravel-readiness](https://www.nuget.org/packages/nickaguilarh%2Flaravel-readiness) | v0.1.0 | Nick Aguilar H | Readiness probe toolkit for Laravel: per-instance drain mode, bounded database/… |
+| 2026-11-20 09:36:16 | [startpro/wiki-reader](https://www.nuget.org/packages/startpro%2Fwiki-reader) | v0.1.0-beta.2 |  | Reading progress and multiple bookmarks for LR Wiki on Flarum 2.x |
+| 2026-11-20 09:37:43 | [codeberry/beads-for-laravel](https://www.nuget.org/packages/codeberry%2Fbeads-for-laravel) | v1.0.0 | Jurrid | A local, Linear-style UI for beads (bd) issue tracking inside your Laravel app. |
+| 2026-11-20 10:03:50 | [jaypalsapara/laravel-react-starter-kit](https://www.nuget.org/packages/jaypalsapara%2Flaravel-react-starter-kit) | v0.1.0 |  | The skeleton application for the Laravel framework. |
 
 ## Data source
 

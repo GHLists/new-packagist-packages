@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-20T09:36:16Z,startpro/wiki-reader,v0.1.0-beta.2,,Reading progress and multiple bookmarks for LR Wiki on Flarum 2.x
+2026-11-20T09:37:43Z,codeberry/beads-for-laravel,v1.0.0,Jurrid,"A local, Linear-style UI for beads (bd) issue tracking inside your Laravel app."
+2026-11-20T10:03:50Z,jaypalsapara/laravel-react-starter-kit,v0.1.0,,The skeleton application for the Laravel framework.
