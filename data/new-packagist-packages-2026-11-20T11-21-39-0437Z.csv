@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-20T10:25:47Z,soshopay/sdk,v1.0.0,,Thin PSR-18 Soshopay API client
+2026-11-20T10:37:46Z,masilia/ibexa-icons,0.1.0,MasiliaLabs,"The icons of the content types and groups of Ibexa, chosen at run time (registry, detection, icon picker, assistant) instead of YAML"
+2026-11-20T10:39:12Z,plokko/laravel-bulkgate,0.0.1,Francesco Pellerone,Laravel BulkGate API integration
+2026-11-20T10:56:57Z,angeo/module-ai-assist,1.0.0,Ievgenii Gryshkun,"Optional AI assistant for the Angeo AEO admin pages in Magento 2. Explains audit results, brand-visibility runs and agent-activity reports in plain words and suggests fixes as text to copy. Uses your own Anthropic, OpenAI or Gemini key. Off by default; it never changes the store."
+2026-11-20T11:13:19Z,codeverseindia/tourkinet-travel-app,v1.1.0,,"Tour Kinet Travel Application - Packages, Blogs, Destinations and Inquiries"

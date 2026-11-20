@@ -15,17 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 10:21 UTC
+## Latest list — 2026-11-20 11:21 UTC
 
-New packages created between 2026-11-20 09:21 UTC and 2026-11-20 10:21 UTC.
+New packages created between 2026-11-20 10:21 UTC and 2026-11-20 11:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-20T10-21-18-136544Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-20T11-21-39-0437Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-20 09:36:16 | [startpro/wiki-reader](https://www.nuget.org/packages/startpro%2Fwiki-reader) | v0.1.0-beta.2 |  | Reading progress and multiple bookmarks for LR Wiki on Flarum 2.x |
-| 2026-11-20 09:37:43 | [codeberry/beads-for-laravel](https://www.nuget.org/packages/codeberry%2Fbeads-for-laravel) | v1.0.0 | Jurrid | A local, Linear-style UI for beads (bd) issue tracking inside your Laravel app. |
-| 2026-11-20 10:03:50 | [jaypalsapara/laravel-react-starter-kit](https://www.nuget.org/packages/jaypalsapara%2Flaravel-react-starter-kit) | v0.1.0 |  | The skeleton application for the Laravel framework. |
+| 2026-11-20 10:25:47 | [soshopay/sdk](https://www.nuget.org/packages/soshopay%2Fsdk) | v1.0.0 |  | Thin PSR-18 Soshopay API client |
+| 2026-11-20 10:37:46 | [masilia/ibexa-icons](https://www.nuget.org/packages/masilia%2Fibexa-icons) | 0.1.0 | MasiliaLabs | The icons of the content types and groups of Ibexa, chosen at run time (registr… |
+| 2026-11-20 10:39:12 | [plokko/laravel-bulkgate](https://www.nuget.org/packages/plokko%2Flaravel-bulkgate) | 0.0.1 | Francesco Pellerone | Laravel BulkGate API integration |
+| 2026-11-20 10:56:57 | [angeo/module-ai-assist](https://www.nuget.org/packages/angeo%2Fmodule-ai-assist) | 1.0.0 | Ievgenii Gryshkun | Optional AI assistant for the Angeo AEO admin pages in Magento 2. Explains audi… |
+| 2026-11-20 11:13:19 | [codeverseindia/tourkinet-travel-app](https://www.nuget.org/packages/codeverseindia%2Ftourkinet-travel-app) | v1.1.0 |  | Tour Kinet Travel Application - Packages, Blogs, Destinations and Inquiries |
 
 ## Data source
 
