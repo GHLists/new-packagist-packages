@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 05:19 UTC
+## Latest list — 2026-11-20 07:20 UTC
 
-New packages created between 2026-11-20 04:21 UTC and 2026-11-20 05:19 UTC.
+New packages created between 2026-11-20 06:19 UTC and 2026-11-20 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-20T05-19-09-841186Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-20T07-20-58-802303Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-20 04:30:50 | [stolt/hyde-git-meta](https://www.nuget.org/packages/stolt%2Fhyde-git-meta) | v0.9.1 | Raphael Stolt | Git commit metadata for HydePHP pages and posts at build time. |
-| 2026-11-20 04:46:42 | [steinhaug/email_routes_hq](https://www.nuget.org/packages/steinhaug%2Femail_routes_hq) | v0.9.9 | Kim Steinhaug | Transactional email dispatch with MySQL-backed volume limits and delivery histo… |
+| 2026-11-20 06:40:07 | [axioapi/axioapi](https://www.nuget.org/packages/axioapi%2Faxioapi) | v1.0.0 |  | Official PHP SDK for the AxioAPI REST API: temp mail API, receive SMS and OTP A… |
 
 ## Data source
 

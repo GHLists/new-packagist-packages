@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-20T06:40:07Z,axioapi/axioapi,v1.0.0,,"Official PHP SDK for the AxioAPI REST API: temp mail API, receive SMS and OTP API, email validation API, proxy API, SEO API (keyword data and backlink API), search API and social scraper APIs. One API key."
