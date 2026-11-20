@@ -1,0 +1,22 @@
+created_at,package,version,author,description
+2026-11-20T13:39:34Z,coinolive/coinolive-php,v1.0.0,Coino Live,PHP library for the Coino Live crypto payment API
+2026-11-20T13:52:02Z,qiick/laravel-api-keys,v0.1.0,Qiick,"Contract-only API key mechanics for qiick Laravel products: issue, parse, verify, scopes, IP allowlist, rotation, and RFC 6750 refusals."
+2026-11-20T13:52:55Z,evanschleret/laravel-api-resource-tool,v1.0.0,Evan Schleret,Reusable API resource responses and request-driven Eloquent scopes for Laravel.
+2026-11-20T13:57:36Z,fivejars/diffy_trusted_login,1.0.0-beta1,,"Lets Diffy log in past the login form's bot protections via a secret request header, with optional spambot and TFA integration."
+2026-11-20T14:06:37Z,dbravoan/dbcms-admin-theme-termocms,v0.0.1,,Backoffice claro corporativo/clínico en tonos slate con acentos azul médico #0090A8 y tipografía Plus Jakarta Sans.
+2026-11-20T14:06:37Z,dbravoan/dbcms-blocks-before-after,v0.0.1,,BeforeAfter
+2026-11-20T14:06:37Z,dbravoan/dbcms-blocks-scrollytelling,v0.0.1,,Accessible scroll-based editorial composition for dbCMS
+2026-11-20T14:06:37Z,dbravoan/dbcms-module-analytics,v0.0.1,,Google Analytics 4 with consent-gated measurement and optional campaign reporting
+2026-11-20T14:06:37Z,dbravoan/dbcms-module-content-audit,v0.0.1,,"Flujo editorial de calidad, inferencia de capacidad de publicación por roles, cola de aprobación previa, notificaciones automáticas y control exhaustivo de cambios con comparador visual (Diff) de versiones."
+2026-11-20T14:06:38Z,dbravoan/dbcms-module-popups,v0.0.1,,Editorial popups and announcement overlays using shared dbCMS blocks and privacy controls
+2026-11-20T14:06:38Z,dbravoan/dbcms-theme-db-brutalist,v0.0.1,,"Estética neo-brutalista audaz con bordes gruesos negros, sombras duras desplazadas, colores pop saturados y tipografía tipográfica rotunda."
+2026-11-20T14:06:38Z,dbravoan/dbcms-theme-db-cyber,v0.0.1,,"Plantilla oficial dbCMS con estética cyber-terminal, Google Sans Code, acentos neón #00FF99 y canvas generativo de polígonos."
+2026-11-20T14:06:38Z,dbravoan/dbcms-theme-db-editorial,v0.0.1,,Plantilla minimalista de alta legibilidad tipo publicación editorial con tipografía refinada y modo claro.
+2026-11-20T14:06:38Z,dbravoan/dbcms-theme-db-enterprise,v0.0.1,,Plantilla SaaS corporativa moderna en tonos pizarra e índigo para soluciones empresariales B2B.
+2026-11-20T14:06:38Z,dbravoan/dbcms-theme-db-minimal,v0.0.1,,"Estética minimalista escandinava con líneas limpias, máxima legibilidad, paleta monocromática y generoso espacio negativo."
+2026-11-20T14:06:38Z,dbravoan/dbcms-theme-db-sunset,v0.0.1,,"Estética glassmorphism moderna sobre fondo obsidiana con degradados atardecer, paneles traslúcidos y acentos rosa/ámbar."
+2026-11-20T14:06:38Z,dbravoan/dbcms-theme-default-clean,v0.0.1,,"Tema neutro de referencia: claro, minimalista y sin dependencias visuales, usado como fallback seguro y como base para nuevos temas."
+2026-11-20T14:10:20Z,dbravoan/dbcms-module-gallery,v0.0.1,,"Álbumes editoriales con páginas públicas, traducciones y publicación propias; reutiliza la biblioteca multimedia del núcleo."
+2026-11-20T14:10:58Z,concept-image/laravel-fortress,0.0.3,Aurélien Cellier,"Laravel Fortress: switchable security modules (HTTPS, security headers, session and password hardening, safe mail links), modular .htaccess security rules with the Perishable Press firewall, and a security maintenance killswitch."
+2026-11-20T14:15:49Z,dbravoan/dbcms-core,v0.0.1,,dbCMS core for Laravel
+2026-11-20T14:15:49Z,dbravoan/dbcms-module-blog,v0.0.1,,"Multi-author, multi-market blog engine with categories, tags, reading time, and embeddable widgets"

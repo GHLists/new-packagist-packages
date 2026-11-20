@@ -15,24 +15,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 13:22 UTC
+## Latest list — 2026-11-20 14:20 UTC
 
-New packages created between 2026-11-20 12:19 UTC and 2026-11-20 13:22 UTC.
+New packages created between 2026-11-20 13:22 UTC and 2026-11-20 14:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-20T13-22-03-918031Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-20T14-20-21-824498Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-20 12:20:00 | [lessormq/client](https://www.nuget.org/packages/lessormq%2Fclient) | v0.1.0 |  | PHP client and worker for LessorMQ, the message queue over HTTP where the serve… |
-| 2026-11-20 12:20:05 | [lessormq/messenger](https://www.nuget.org/packages/lessormq%2Fmessenger) | v0.1.0 |  | Symfony Messenger transport for LessorMQ: the queue decides retries, delays and… |
-| 2026-11-20 12:23:42 | [hanshs474/aibirthday](https://www.nuget.org/packages/hanshs474%2Faibirthday) | v0.1.0 | AI Birthday Video Generator | AI birthday video generator from a single photo: they pop champagne on a park b… |
-| 2026-11-20 12:32:54 | [absdev/laravel-modules](https://www.nuget.org/packages/absdev%2Flaravel-modules) | v1.0.2 | Mark Gregory | Laravel Module Management |
-| 2026-11-20 12:32:54 | [spryker/product-attachment-extension](https://www.nuget.org/packages/spryker%2Fproduct-attachment-extension) | 1.0.0 |  | ProductAttachmentExtension module |
-| 2026-11-20 12:54:06 | [mr-glubschi/seat-contracts](https://www.nuget.org/packages/mr-glubschi%2Fseat-contracts) | v0.2.0 |  | SeAT plugin: prices of capital ships from contracts in all regions, with one cl… |
-| 2026-11-20 12:58:05 | [vlec/laravel-verifactu](https://www.nuget.org/packages/vlec%2Flaravel-verifactu) | v0.1.0 | Ilie | Issue VERI*FACTU invoices from a Laravel app through the Verifactu service. |
-| 2026-11-20 13:00:08 | [intelligent-intern/sepa-creator](https://www.nuget.org/packages/intelligent-intern%2Fsepa-creator) | v0.1.1 |  | SEPA transfers, direct debits and payment status reading with exact amounts and… |
-| 2026-11-20 13:07:07 | [wearejust/statamic-video-storage](https://www.nuget.org/packages/wearejust%2Fstatamic-video-storage) | 0.0.1 |  |  |
-| 2026-11-20 13:10:25 | [enigmoss/php-sdk](https://www.nuget.org/packages/enigmoss%2Fphp-sdk) | v1.0.0 |  | Official PHP SDK for the Enigmoss Project API v4: payments, static wallets, pay… |
+| 2026-11-20 13:39:34 | [coinolive/coinolive-php](https://www.nuget.org/packages/coinolive%2Fcoinolive-php) | v1.0.0 | Coino Live | PHP library for the Coino Live crypto payment API |
+| 2026-11-20 13:52:02 | [qiick/laravel-api-keys](https://www.nuget.org/packages/qiick%2Flaravel-api-keys) | v0.1.0 | Qiick | Contract-only API key mechanics for qiick Laravel products: issue, parse, verif… |
+| 2026-11-20 13:52:55 | [evanschleret/laravel-api-resource-tool](https://www.nuget.org/packages/evanschleret%2Flaravel-api-resource-tool) | v1.0.0 | Evan Schleret | Reusable API resource responses and request-driven Eloquent scopes for Laravel. |
+| 2026-11-20 13:57:36 | [fivejars/diffy_trusted_login](https://www.nuget.org/packages/fivejars%2Fdiffy_trusted_login) | 1.0.0-beta1 |  | Lets Diffy log in past the login form's bot protections via a secret request he… |
+| 2026-11-20 14:06:37 | [dbravoan/dbcms-admin-theme-termocms](https://www.nuget.org/packages/dbravoan%2Fdbcms-admin-theme-termocms) | v0.0.1 |  | Backoffice claro corporativo/clínico en tonos slate con acentos azul médico #00… |
+| 2026-11-20 14:06:37 | [dbravoan/dbcms-blocks-before-after](https://www.nuget.org/packages/dbravoan%2Fdbcms-blocks-before-after) | v0.0.1 |  | BeforeAfter |
+| 2026-11-20 14:06:37 | [dbravoan/dbcms-blocks-scrollytelling](https://www.nuget.org/packages/dbravoan%2Fdbcms-blocks-scrollytelling) | v0.0.1 |  | Accessible scroll-based editorial composition for dbCMS |
+| 2026-11-20 14:06:37 | [dbravoan/dbcms-module-analytics](https://www.nuget.org/packages/dbravoan%2Fdbcms-module-analytics) | v0.0.1 |  | Google Analytics 4 with consent-gated measurement and optional campaign reporti… |
+| 2026-11-20 14:06:37 | [dbravoan/dbcms-module-content-audit](https://www.nuget.org/packages/dbravoan%2Fdbcms-module-content-audit) | v0.0.1 |  | Flujo editorial de calidad, inferencia de capacidad de publicación por roles, c… |
+| 2026-11-20 14:06:38 | [dbravoan/dbcms-module-popups](https://www.nuget.org/packages/dbravoan%2Fdbcms-module-popups) | v0.0.1 |  | Editorial popups and announcement overlays using shared dbCMS blocks and privac… |
+| 2026-11-20 14:06:38 | [dbravoan/dbcms-theme-db-brutalist](https://www.nuget.org/packages/dbravoan%2Fdbcms-theme-db-brutalist) | v0.0.1 |  | Estética neo-brutalista audaz con bordes gruesos negros, sombras duras desplaza… |
+| 2026-11-20 14:06:38 | [dbravoan/dbcms-theme-db-cyber](https://www.nuget.org/packages/dbravoan%2Fdbcms-theme-db-cyber) | v0.0.1 |  | Plantilla oficial dbCMS con estética cyber-terminal, Google Sans Code, acentos… |
+| 2026-11-20 14:06:38 | [dbravoan/dbcms-theme-db-editorial](https://www.nuget.org/packages/dbravoan%2Fdbcms-theme-db-editorial) | v0.0.1 |  | Plantilla minimalista de alta legibilidad tipo publicación editorial con tipogr… |
+| 2026-11-20 14:06:38 | [dbravoan/dbcms-theme-db-enterprise](https://www.nuget.org/packages/dbravoan%2Fdbcms-theme-db-enterprise) | v0.0.1 |  | Plantilla SaaS corporativa moderna en tonos pizarra e índigo para soluciones em… |
+| 2026-11-20 14:06:38 | [dbravoan/dbcms-theme-db-minimal](https://www.nuget.org/packages/dbravoan%2Fdbcms-theme-db-minimal) | v0.0.1 |  | Estética minimalista escandinava con líneas limpias, máxima legibilidad, paleta… |
+| 2026-11-20 14:06:38 | [dbravoan/dbcms-theme-db-sunset](https://www.nuget.org/packages/dbravoan%2Fdbcms-theme-db-sunset) | v0.0.1 |  | Estética glassmorphism moderna sobre fondo obsidiana con degradados atardecer,… |
+| 2026-11-20 14:06:38 | [dbravoan/dbcms-theme-default-clean](https://www.nuget.org/packages/dbravoan%2Fdbcms-theme-default-clean) | v0.0.1 |  | Tema neutro de referencia: claro, minimalista y sin dependencias visuales, usad… |
+| 2026-11-20 14:10:20 | [dbravoan/dbcms-module-gallery](https://www.nuget.org/packages/dbravoan%2Fdbcms-module-gallery) | v0.0.1 |  | Álbumes editoriales con páginas públicas, traducciones y publicación propias; r… |
+| 2026-11-20 14:10:58 | [concept-image/laravel-fortress](https://www.nuget.org/packages/concept-image%2Flaravel-fortress) | 0.0.3 | Aurélien Cellier | Laravel Fortress: switchable security modules (HTTPS, security headers, session… |
+| 2026-11-20 14:15:49 | [dbravoan/dbcms-core](https://www.nuget.org/packages/dbravoan%2Fdbcms-core) | v0.0.1 |  | dbCMS core for Laravel |
+| 2026-11-20 14:15:49 | [dbravoan/dbcms-module-blog](https://www.nuget.org/packages/dbravoan%2Fdbcms-module-blog) | v0.0.1 |  | Multi-author, multi-market blog engine with categories, tags, reading time, and… |
 
 ## Data source
 
