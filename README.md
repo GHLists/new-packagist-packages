@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 23:19 UTC
+## Latest list — 2026-11-20 00:19 UTC
 
-New packages created between 2026-11-19 22:20 UTC and 2026-11-19 23:19 UTC.
+New packages created between 2026-11-19 23:19 UTC and 2026-11-20 00:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-19T23-19-50-599369Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-20T00-19-26-64926Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-19 23:04:56 | [speedyspec/cli-wordpress](https://www.nuget.org/packages/speedyspec%2Fcli-wordpress) | v0.1.1 |  | The speedyspec CLI plugin for WordPress: installs it, writes wp-config.php and… |
+| 2026-11-20 00:00:15 | [nativephp/parcel](https://www.nuget.org/packages/nativephp%2Fparcel) | 1.0.0 | Simon Hamp; Eser DENIZ | Laravel PHAR bundler for NativePHP applications with cross-platform path handli… |
 
 ## Data source
 

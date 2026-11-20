@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-20T00:00:15Z,nativephp/parcel,1.0.0,Simon Hamp; Eser DENIZ,Laravel PHAR bundler for NativePHP applications with cross-platform path handling and optimization features
