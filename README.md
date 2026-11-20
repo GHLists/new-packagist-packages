@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 04:21 UTC
+## Latest list — 2026-11-20 05:19 UTC
 
-New packages created between 2026-11-20 03:21 UTC and 2026-11-20 04:21 UTC.
+New packages created between 2026-11-20 04:21 UTC and 2026-11-20 05:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-20T04-21-38-835111Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-20T05-19-09-841186Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-20 04:02:00 | [kastsecho/bootstrap-inertia-starter-kit](https://www.nuget.org/packages/kastsecho%2Fbootstrap-inertia-starter-kit) | v1.0.0-alpha.1 |  | The skeleton application for the Laravel framework. |
+| 2026-11-20 04:30:50 | [stolt/hyde-git-meta](https://www.nuget.org/packages/stolt%2Fhyde-git-meta) | v0.9.1 | Raphael Stolt | Git commit metadata for HydePHP pages and posts at build time. |
+| 2026-11-20 04:46:42 | [steinhaug/email_routes_hq](https://www.nuget.org/packages/steinhaug%2Femail_routes_hq) | v0.9.9 | Kim Steinhaug | Transactional email dispatch with MySQL-backed volume limits and delivery histo… |
 
 ## Data source
 

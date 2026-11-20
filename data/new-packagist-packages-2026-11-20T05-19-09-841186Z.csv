@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-20T04:30:50Z,stolt/hyde-git-meta,v0.9.1,Raphael Stolt,Git commit metadata for HydePHP pages and posts at build time.
+2026-11-20T04:46:42Z,steinhaug/email_routes_hq,v0.9.9,Kim Steinhaug,Transactional email dispatch with MySQL-backed volume limits and delivery history.
