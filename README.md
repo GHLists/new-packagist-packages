@@ -15,35 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 14:20 UTC
+## Latest list — 2026-11-20 15:18 UTC
 
-New packages created between 2026-11-20 13:22 UTC and 2026-11-20 14:20 UTC.
+New packages created between 2026-11-20 14:20 UTC and 2026-11-20 15:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-20T14-20-21-824498Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-20T15-18-46-407071Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-20 13:39:34 | [coinolive/coinolive-php](https://www.nuget.org/packages/coinolive%2Fcoinolive-php) | v1.0.0 | Coino Live | PHP library for the Coino Live crypto payment API |
-| 2026-11-20 13:52:02 | [qiick/laravel-api-keys](https://www.nuget.org/packages/qiick%2Flaravel-api-keys) | v0.1.0 | Qiick | Contract-only API key mechanics for qiick Laravel products: issue, parse, verif… |
-| 2026-11-20 13:52:55 | [evanschleret/laravel-api-resource-tool](https://www.nuget.org/packages/evanschleret%2Flaravel-api-resource-tool) | v1.0.0 | Evan Schleret | Reusable API resource responses and request-driven Eloquent scopes for Laravel. |
-| 2026-11-20 13:57:36 | [fivejars/diffy_trusted_login](https://www.nuget.org/packages/fivejars%2Fdiffy_trusted_login) | 1.0.0-beta1 |  | Lets Diffy log in past the login form's bot protections via a secret request he… |
-| 2026-11-20 14:06:37 | [dbravoan/dbcms-admin-theme-termocms](https://www.nuget.org/packages/dbravoan%2Fdbcms-admin-theme-termocms) | v0.0.1 |  | Backoffice claro corporativo/clínico en tonos slate con acentos azul médico #00… |
-| 2026-11-20 14:06:37 | [dbravoan/dbcms-blocks-before-after](https://www.nuget.org/packages/dbravoan%2Fdbcms-blocks-before-after) | v0.0.1 |  | BeforeAfter |
-| 2026-11-20 14:06:37 | [dbravoan/dbcms-blocks-scrollytelling](https://www.nuget.org/packages/dbravoan%2Fdbcms-blocks-scrollytelling) | v0.0.1 |  | Accessible scroll-based editorial composition for dbCMS |
-| 2026-11-20 14:06:37 | [dbravoan/dbcms-module-analytics](https://www.nuget.org/packages/dbravoan%2Fdbcms-module-analytics) | v0.0.1 |  | Google Analytics 4 with consent-gated measurement and optional campaign reporti… |
-| 2026-11-20 14:06:37 | [dbravoan/dbcms-module-content-audit](https://www.nuget.org/packages/dbravoan%2Fdbcms-module-content-audit) | v0.0.1 |  | Flujo editorial de calidad, inferencia de capacidad de publicación por roles, c… |
-| 2026-11-20 14:06:38 | [dbravoan/dbcms-module-popups](https://www.nuget.org/packages/dbravoan%2Fdbcms-module-popups) | v0.0.1 |  | Editorial popups and announcement overlays using shared dbCMS blocks and privac… |
-| 2026-11-20 14:06:38 | [dbravoan/dbcms-theme-db-brutalist](https://www.nuget.org/packages/dbravoan%2Fdbcms-theme-db-brutalist) | v0.0.1 |  | Estética neo-brutalista audaz con bordes gruesos negros, sombras duras desplaza… |
-| 2026-11-20 14:06:38 | [dbravoan/dbcms-theme-db-cyber](https://www.nuget.org/packages/dbravoan%2Fdbcms-theme-db-cyber) | v0.0.1 |  | Plantilla oficial dbCMS con estética cyber-terminal, Google Sans Code, acentos… |
-| 2026-11-20 14:06:38 | [dbravoan/dbcms-theme-db-editorial](https://www.nuget.org/packages/dbravoan%2Fdbcms-theme-db-editorial) | v0.0.1 |  | Plantilla minimalista de alta legibilidad tipo publicación editorial con tipogr… |
-| 2026-11-20 14:06:38 | [dbravoan/dbcms-theme-db-enterprise](https://www.nuget.org/packages/dbravoan%2Fdbcms-theme-db-enterprise) | v0.0.1 |  | Plantilla SaaS corporativa moderna en tonos pizarra e índigo para soluciones em… |
-| 2026-11-20 14:06:38 | [dbravoan/dbcms-theme-db-minimal](https://www.nuget.org/packages/dbravoan%2Fdbcms-theme-db-minimal) | v0.0.1 |  | Estética minimalista escandinava con líneas limpias, máxima legibilidad, paleta… |
-| 2026-11-20 14:06:38 | [dbravoan/dbcms-theme-db-sunset](https://www.nuget.org/packages/dbravoan%2Fdbcms-theme-db-sunset) | v0.0.1 |  | Estética glassmorphism moderna sobre fondo obsidiana con degradados atardecer,… |
-| 2026-11-20 14:06:38 | [dbravoan/dbcms-theme-default-clean](https://www.nuget.org/packages/dbravoan%2Fdbcms-theme-default-clean) | v0.0.1 |  | Tema neutro de referencia: claro, minimalista y sin dependencias visuales, usad… |
-| 2026-11-20 14:10:20 | [dbravoan/dbcms-module-gallery](https://www.nuget.org/packages/dbravoan%2Fdbcms-module-gallery) | v0.0.1 |  | Álbumes editoriales con páginas públicas, traducciones y publicación propias; r… |
-| 2026-11-20 14:10:58 | [concept-image/laravel-fortress](https://www.nuget.org/packages/concept-image%2Flaravel-fortress) | 0.0.3 | Aurélien Cellier | Laravel Fortress: switchable security modules (HTTPS, security headers, session… |
-| 2026-11-20 14:15:49 | [dbravoan/dbcms-core](https://www.nuget.org/packages/dbravoan%2Fdbcms-core) | v0.0.1 |  | dbCMS core for Laravel |
-| 2026-11-20 14:15:49 | [dbravoan/dbcms-module-blog](https://www.nuget.org/packages/dbravoan%2Fdbcms-module-blog) | v0.0.1 |  | Multi-author, multi-market blog engine with categories, tags, reading time, and… |
+| 2026-11-20 14:25:04 | [meetmage/module-advanced-seo](https://www.nuget.org/packages/meetmage%2Fmodule-advanced-seo) | v1.0.0 | Meet Shekhat | Smart meta templates, structured data and canonical URL control for Magento 2,… |
+| 2026-11-20 14:34:36 | [salable/sdk](https://www.nuget.org/packages/salable%2Fsdk) | v1.0.0-beta.1 | Salable | Official PHP SDK for the Salable API |
+| 2026-11-20 15:07:12 | [jonatasfenske/router](https://www.nuget.org/packages/jonatasfenske%2Frouter) | v1.0.0 | Robson V. Leite; Jonatas Fens… | Roteamento MVC PHP 8.5 com atributos #[Route], Rate Limiting, CORS automático,… |
+| 2026-11-20 15:07:57 | [script-development/laravel-retention](https://www.nuget.org/packages/script-development%2Flaravel-retention) | v0.1.0 |  | Retention kernel for Laravel territories: a prune for append-only, hash-chained… |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-20T14:25:04Z,meetmage/module-advanced-seo,v1.0.0,Meet Shekhat,"Smart meta templates, structured data and canonical URL control for Magento 2, with Hyvä and Luma support."
+2026-11-20T14:34:36Z,salable/sdk,v1.0.0-beta.1,Salable,Official PHP SDK for the Salable API
+2026-11-20T15:07:12Z,jonatasfenske/router,v1.0.0,Robson V. Leite; Jonatas Fenske,"Roteamento MVC PHP 8.5 com atributos #[Route], Rate Limiting, CORS automático, Error Handlers e validação tipada de parâmetros"
+2026-11-20T15:07:57Z,script-development/laravel-retention,v0.1.0,,"Retention kernel for Laravel territories: a prune for append-only, hash-chained audit tables that keeps the remaining chain verifiable."
