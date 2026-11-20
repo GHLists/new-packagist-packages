@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-20T21:26:12Z,aristonis/filament-shortcut-keys,v1.0.0,Mekad Alibrahem,"Keyboard shortcuts for a Filament panel, assigned automatically from its resources, pages, actions and tables."
+2026-11-20T21:29:17Z,otten-it/version-report,v1.0.0,Otten IT,"Lets a monitoring dashboard read which Laravel, PHP and package versions a Laravel application runs on, behind a secret token."
+2026-11-20T21:48:13Z,serverfy/sense,v2.0.0,Serverfy Core Team,"Serverfy Sense - Zero-overhead Deep APM, Waterfall Tracing, Error Tracking and SRE bridge for Laravel"
+2026-11-20T21:50:23Z,reachbell/reachbell,v1.0.1,DotSpheres Technologies Pvt Ltd,"ReachBell server SDK for PHP: transactional push, email, SMS and WhatsApp, events, subscribers, contacts and campaigns."
+2026-11-20T21:59:59Z,instatus/otel,v0.1.0,Instatus,"Errors, logs and traces for PHP on OpenTelemetry, with the Sentry SDK's API."
+2026-11-20T22:06:19Z,xihanfun/xihan-framework,v0.2.0-rc.1,XiHanFun,"XiHan Framework SDK for PHP: primitives, manifest, invocation context, pipeline, operations and the out-of-process plugin runtime."
+2026-11-20T22:06:45Z,koderia-creative-lab/laravel-smslive247,v1.0.0,Koderia Creative Lab,A modern Laravel client and Notification Channel driver for the SMSLive247 SMS Gateway.
