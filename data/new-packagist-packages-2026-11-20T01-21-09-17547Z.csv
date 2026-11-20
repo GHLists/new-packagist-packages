@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-20T00:31:19Z,phalcon/volt,v1.0.0,Phalcon Team; Contributors,Phalcon Volt is an HTML template engine for server-side rendering.
+2026-11-20T00:35:37Z,inengine/modulus,v0.1.0-beta.2,James Johnson,"Modulus — module runtime for InEngine (enable/disable, discovery, lifecycle, doctor)"
+2026-11-20T00:36:02Z,inengine/modulus-composer,v0.1.0-beta.2,James Johnson,"Modulus Composer — Composer client for InEngine Modulus (require/remove/update, constraint rewrite, ModuleUpdateApplier)"
+2026-11-20T01:05:36Z,inengine/core,0.1.0-beta.1,,InEngine Core — opinionated Laravel-based modular application builder framework
+2026-11-20T01:07:51Z,phalcon/phql,v1.0.0,Phalcon Team,Phalcon Query Language (PHQL)
+2026-11-20T01:15:55Z,dackou/bazi,v1.0,dackou,用于八字（四柱）排盘的 PHP 组件。
