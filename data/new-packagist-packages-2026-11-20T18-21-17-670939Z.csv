@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-20T17:31:42Z,reachbell/reachbell,v1.0.0,DotSpheres Technologies Pvt Ltd,"ReachBell server SDK for PHP: transactional push, email, SMS and WhatsApp, events, subscribers, contacts and campaigns."
+2026-11-20T17:40:38Z,veasin/ff-windows,0.0.1,V,"Windows platform capability layer for ff: net, process, fs, folder, shortcut, clipboard, notify, dialog, system, registry."
+2026-11-20T17:56:15Z,el-choco/editorial,0.1.0-alpha.2,el-choco,"Collaborative drafts, revision history and review before publishing a Flarum discussion."
+2026-11-20T17:56:57Z,narek/sharp-php,v0.6.0,Narek,SharpPHP: a C#-like language that compiles to modern PHP.
+2026-11-20T18:06:03Z,manadah/data-viewer,v0.1.0,,"Contrato Laravel (TableQuery) para o DataViewer: colunas, filtros, ordenação, busca e configuração serializável para o frontend."
