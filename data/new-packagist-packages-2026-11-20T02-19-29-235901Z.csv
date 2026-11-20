@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-20T01:30:38Z,hejunjie/wechat-clawbot,v1.0.0,何俊杰,"WeChat ClawBot API client for PHP — QR-code login, long-polling messages, send/receive text & media. Zero dependencies. | 微信 ClawBot 的 PHP 客户端：扫码登录、长轮询收消息、文本与媒体收发，零第三方依赖"
+2026-11-20T01:55:09Z,nowo-tech/currency-kit-bundle,v0.1.0,Héctor Franco Aceituno; Nowo.tech,"Currency conversion at reference rates for Symfony: ECB euro reference rates stored by date, decimal-string amounts, cross rates through the euro, manual rates, console sync with a Scheduler bridge and a Twig filter. FrankenPHP worker safe."
+2026-11-20T01:58:03Z,js-upup/reference-image-batch-checker,v0.1.0,,Check local reference image batches for upload limits and identical files
