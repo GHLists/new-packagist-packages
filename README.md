@@ -15,17 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 12:19 UTC
+## Latest list — 2026-11-20 13:22 UTC
 
-New packages created between 2026-11-20 11:21 UTC and 2026-11-20 12:19 UTC.
+New packages created between 2026-11-20 12:19 UTC and 2026-11-20 13:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-20T12-19-55-831138Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-20T13-22-03-918031Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-20 11:34:36 | [empiricompany/maho-onepage-checkout-stylish](https://www.nuget.org/packages/empiricompany%2Fmaho-onepage-checkout-stylish) | 1.0.0 |  | One-step checkout style presets for Maho: every step in the left column, the or… |
-| 2026-11-20 11:48:44 | [mapsight/pulp-ogc](https://www.nuget.org/packages/mapsight%2Fpulp-ogc) | v1.0.0 | Paul Golmann | Read OGC Web Feature Services (WFS) as GeoJSON in Pulp pipelines, with paging a… |
-| 2026-11-20 12:03:35 | [winglet/core](https://www.nuget.org/packages/winglet%2Fcore) | v0.13.0-RC4 | Winglet | Winglet Core Framework |
+| 2026-11-20 12:20:00 | [lessormq/client](https://www.nuget.org/packages/lessormq%2Fclient) | v0.1.0 |  | PHP client and worker for LessorMQ, the message queue over HTTP where the serve… |
+| 2026-11-20 12:20:05 | [lessormq/messenger](https://www.nuget.org/packages/lessormq%2Fmessenger) | v0.1.0 |  | Symfony Messenger transport for LessorMQ: the queue decides retries, delays and… |
+| 2026-11-20 12:23:42 | [hanshs474/aibirthday](https://www.nuget.org/packages/hanshs474%2Faibirthday) | v0.1.0 | AI Birthday Video Generator | AI birthday video generator from a single photo: they pop champagne on a park b… |
+| 2026-11-20 12:32:54 | [absdev/laravel-modules](https://www.nuget.org/packages/absdev%2Flaravel-modules) | v1.0.2 | Mark Gregory | Laravel Module Management |
+| 2026-11-20 12:32:54 | [spryker/product-attachment-extension](https://www.nuget.org/packages/spryker%2Fproduct-attachment-extension) | 1.0.0 |  | ProductAttachmentExtension module |
+| 2026-11-20 12:54:06 | [mr-glubschi/seat-contracts](https://www.nuget.org/packages/mr-glubschi%2Fseat-contracts) | v0.2.0 |  | SeAT plugin: prices of capital ships from contracts in all regions, with one cl… |
+| 2026-11-20 12:58:05 | [vlec/laravel-verifactu](https://www.nuget.org/packages/vlec%2Flaravel-verifactu) | v0.1.0 | Ilie | Issue VERI*FACTU invoices from a Laravel app through the Verifactu service. |
+| 2026-11-20 13:00:08 | [intelligent-intern/sepa-creator](https://www.nuget.org/packages/intelligent-intern%2Fsepa-creator) | v0.1.1 |  | SEPA transfers, direct debits and payment status reading with exact amounts and… |
+| 2026-11-20 13:07:07 | [wearejust/statamic-video-storage](https://www.nuget.org/packages/wearejust%2Fstatamic-video-storage) | 0.0.1 |  |  |
+| 2026-11-20 13:10:25 | [enigmoss/php-sdk](https://www.nuget.org/packages/enigmoss%2Fphp-sdk) | v1.0.0 |  | Official PHP SDK for the Enigmoss Project API v4: payments, static wallets, pay… |
 
 ## Data source
 

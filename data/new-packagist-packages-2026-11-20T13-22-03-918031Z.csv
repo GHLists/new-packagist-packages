@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-20T12:20:00Z,lessormq/client,v0.1.0,,"PHP client and worker for LessorMQ, the message queue over HTTP where the server decides and clients only claim, run, ack or fail"
+2026-11-20T12:20:05Z,lessormq/messenger,v0.1.0,,"Symfony Messenger transport for LessorMQ: the queue decides retries, delays and dead-lettering; the transport only claims, runs, acks or fails"
+2026-11-20T12:23:42Z,hanshs474/aibirthday,v0.1.0,AI Birthday Video Generator,"AI birthday video generator from a single photo: they pop champagne on a park bench, blow out a Scorpio cake, or light a crown cake at the car window. Official PHP SDK for AI Birthday Video Generator (aibirthdayvideogenerator.com)."
+2026-11-20T12:32:54Z,absdev/laravel-modules,v1.0.2,Mark Gregory,Laravel Module Management
+2026-11-20T12:32:54Z,spryker/product-attachment-extension,1.0.0,,ProductAttachmentExtension module
+2026-11-20T12:54:06Z,mr-glubschi/seat-contracts,v0.2.0,,"SeAT plugin: prices of capital ships from contracts in all regions, with one click to the contract in the game."
+2026-11-20T12:58:05Z,vlec/laravel-verifactu,v0.1.0,Ilie,Issue VERI*FACTU invoices from a Laravel app through the Verifactu service.
+2026-11-20T13:00:08Z,intelligent-intern/sepa-creator,v0.1.1,,"SEPA transfers, direct debits and payment status reading with exact amounts and mandatory offline ISO/business validation."
+2026-11-20T13:07:07Z,wearejust/statamic-video-storage,0.0.1,,
+2026-11-20T13:10:25Z,enigmoss/php-sdk,v1.0.0,,"Official PHP SDK for the Enigmoss Project API v4: payments, static wallets, payouts, refunds, transfers and signed webhooks."
