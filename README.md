@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 02:19 UTC
+## Latest list — 2026-11-20 03:21 UTC
 
-New packages created between 2026-11-20 01:21 UTC and 2026-11-20 02:19 UTC.
+New packages created between 2026-11-20 02:19 UTC and 2026-11-20 03:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-20T02-19-29-235901Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-20T03-21-57-482823Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-20 01:30:38 | [hejunjie/wechat-clawbot](https://www.nuget.org/packages/hejunjie%2Fwechat-clawbot) | v1.0.0 | 何俊杰 | WeChat ClawBot API client for PHP — QR-code login, long-polling messages, send/… |
-| 2026-11-20 01:55:09 | [nowo-tech/currency-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fcurrency-kit-bundle) | v0.1.0 | Héctor Franco Aceituno; Nowo.… | Currency conversion at reference rates for Symfony: ECB euro reference rates st… |
-| 2026-11-20 01:58:03 | [js-upup/reference-image-batch-checker](https://www.nuget.org/packages/js-upup%2Freference-image-batch-checker) | v0.1.0 |  | Check local reference image batches for upload limits and identical files |
+| 2026-11-20 02:41:31 | [dcodegroup/dcode-starter-kit](https://www.nuget.org/packages/dcodegroup%2Fdcode-starter-kit) | v0.0.1 | DCode Group Pty Ltd | Our standard templates and auth structure for new projects |
+| 2026-11-20 02:53:56 | [evo-mark/inertia-symfony](https://www.nuget.org/packages/evo-mark%2Finertia-symfony) | v1.0.0 | evoMark | Inertia.js adapter for Symfony |
 
 ## Data source
 
