@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 16:20 UTC
+## Latest list — 2026-11-20 17:21 UTC
 
-New packages created between 2026-11-20 15:18 UTC and 2026-11-20 16:20 UTC.
+New packages created between 2026-11-20 16:20 UTC and 2026-11-20 17:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-20T16-20-41-136546Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-20T17-21-17-332633Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-20 15:21:48 | [codeverseindia/tourkinet-appstarter](https://www.nuget.org/packages/codeverseindia%2Ftourkinet-appstarter) | v1.0.0 |  | Minimal PHP application starter powered by LightPHP Core |
-| 2026-11-20 15:25:46 | [wnikk/qrcode-cute](https://www.nuget.org/packages/wnikk%2Fqrcode-cute) | v1.0.0 |  | QR codes in the shape of a square, circle, triangle or hexagon, as SVG, PNG and… |
-| 2026-11-20 15:51:36 | [cengizkemec/flarum-google-news](https://www.nuget.org/packages/cengizkemec%2Fflarum-google-news) | v1.0.0 | Cengiz Kemec | Google News, structured data, sitemap and RSS/Atom integration for Flarum. |
-| 2026-11-20 16:07:25 | [xiconfjs/vampire-invoicesuite](https://www.nuget.org/packages/xiconfjs%2Fvampire-invoicesuite) | v1.0.0 | Ralf Fuhrmann | A document validator for horstoeko/invoicesuite that checks e-invoices against… |
+| 2026-11-20 16:23:54 | [postalkit/postalkit-php](https://www.nuget.org/packages/postalkit%2Fpostalkit-php) | v0.1.0 |  | PHP and Laravel client for the PostalKit API: Mexican postal codes (SEPOMEX), c… |
+| 2026-11-20 16:35:12 | [inboundr/inboundr](https://www.nuget.org/packages/inboundr%2Finboundr) | v0.1.0 | Inboundr | PHP SDK for the Inboundr API: receive email over signed webhooks, read and repl… |
+| 2026-11-20 16:45:07 | [codenyra/precognition-plus](https://www.nuget.org/packages/codenyra%2Fprecognition-plus) | v0.1.1 | CodeNyra | Checks common Laravel FormRequest rules in the browser for Precognition forms,… |
+| 2026-11-20 16:56:04 | [inboundr/inboundr-laravel](https://www.nuget.org/packages/inboundr%2Finboundr-laravel) | v0.1.0 | Inboundr | Laravel integration for Inboundr: a verified webhook route that turns inbound e… |
+| 2026-11-20 17:20:13 | [alibabacloud/qwenb2bmed-20261116](https://www.nuget.org/packages/alibabacloud%2Fqwenb2bmed-20261116) | 1.0.0 | Alibaba Cloud SDK | Alibaba Cloud QwenB2BMed (20261116) SDK Library for PHP |
 
 ## Data source
 

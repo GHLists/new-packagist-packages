@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-20T16:23:54Z,postalkit/postalkit-php,v0.1.0,,"PHP and Laravel client for the PostalKit API: Mexican postal codes (SEPOMEX), colonias, states, municipalities, streets and geocoding."
+2026-11-20T16:35:12Z,inboundr/inboundr,v0.1.0,Inboundr,"PHP SDK for the Inboundr API: receive email over signed webhooks, read and reply to it."
+2026-11-20T16:45:07Z,codenyra/precognition-plus,v0.1.1,CodeNyra,"Checks common Laravel FormRequest rules in the browser for Precognition forms, with Precognition as the fallback for rules that need the server."
+2026-11-20T16:56:04Z,inboundr/inboundr-laravel,v0.1.0,Inboundr,"Laravel integration for Inboundr: a verified webhook route that turns inbound email into events, and the API client from the container."
+2026-11-20T17:20:13Z,alibabacloud/qwenb2bmed-20261116,1.0.0,Alibaba Cloud SDK,Alibaba Cloud QwenB2BMed (20261116) SDK Library for PHP
