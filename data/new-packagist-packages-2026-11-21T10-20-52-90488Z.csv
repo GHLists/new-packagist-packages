@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-21T10:11:36Z,login512/login512-laravel,2.1.1,Login512 Team,Official Laravel Package for Login512 Post-Quantum Biometrics and Passkeys
+2026-11-21T10:11:37Z,login512/login512-symfony-bundle,2.1.1,Login512 Team,"Symfony bundle for Login512 (face login + passkeys): security authenticator, nonce endpoint and API client"
+2026-11-21T10:11:37Z,login512/server-sdk,v1.0.0,login512.com,Official Login512 Server SDK for PHP (Post-Quantum Passwordless Face Authentication)

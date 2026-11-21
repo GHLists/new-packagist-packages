@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 09:20 UTC
+## Latest list — 2026-11-21 10:20 UTC
 
-New packages created between 2026-11-21 08:21 UTC and 2026-11-21 09:20 UTC.
+New packages created between 2026-11-21 09:20 UTC and 2026-11-21 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-21T09-20-54-679952Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-21T10-20-52-90488Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 08:32:38 | [maarheeze/compass](https://www.nuget.org/packages/maarheeze%2Fcompass) | 1.0.0 |  | Repository and deployment status dashboard for GitHub and Laravel Forge |
-| 2026-11-21 08:59:03 | [italystrap/empress-cache](https://www.nuget.org/packages/italystrap%2Fempress-cache) | 1.0.0 | overclokk | File based cache for the providers configuration aggregated by italystrap/empre… |
-| 2026-11-21 09:19:01 | [datacircle/laragent-tools](https://www.nuget.org/packages/datacircle%2Flaragent-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. Four LarAgent tools call Datacircle's public API. You n… |
+| 2026-11-21 10:11:36 | [login512/login512-laravel](https://www.nuget.org/packages/login512%2Flogin512-laravel) | 2.1.1 | Login512 Team | Official Laravel Package for Login512 Post-Quantum Biometrics and Passkeys |
+| 2026-11-21 10:11:37 | [login512/login512-symfony-bundle](https://www.nuget.org/packages/login512%2Flogin512-symfony-bundle) | 2.1.1 | Login512 Team | Symfony bundle for Login512 (face login + passkeys): security authenticator, no… |
+| 2026-11-21 10:11:37 | [login512/server-sdk](https://www.nuget.org/packages/login512%2Fserver-sdk) | v1.0.0 | login512.com | Official Login512 Server SDK for PHP (Post-Quantum Passwordless Face Authentica… |
 
 ## Data source
 
