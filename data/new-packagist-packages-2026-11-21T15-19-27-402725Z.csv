@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-11-21T14:24:15Z,phem/ui-base,v0.1.0,Yonel Ceruto,"Phem components that copy the behavior and the look of Base UI, styled with Tailwind CSS"
+2026-11-21T14:26:40Z,shortdramadb/nativephp-parallax,v1.0.0,,NativePHP Mobile plugin: a native parallax container whose content moves slower than the page scrolls
+2026-11-21T14:26:41Z,shortdramadb/nativephp-secure-storage,v1.0.0,,"NativePHP Mobile plugin: secure storage in the iOS Keychain and Android Keystore, behind NativePHP's SecureStorage facade"
+2026-11-21T14:40:09Z,modjocams/live-cam-api-client,v1.0.0,ModjoCams Engineering,High-performance PHP 8.4 client and flat-file JSON cache manager for live streaming APIs with SEO tag popularity filtering.
+2026-11-21T14:49:04Z,sunrice/commerce-rental,v0.1.0,,"Rentals for Sunrice Commerce: physical units per location, date-range bookings with buffer days, no double booking, rental pricing and rental lifecycle."
+2026-11-21T14:50:57Z,sumly/sdk,v1.0.0,,"Sumly for PHP and Laravel: events, payments, costs and feature flags from your server."
+2026-11-21T14:51:00Z,usezeny/laravel,v1.0.0,,PHP and Laravel SDK for the Merchant API v1
+2026-11-21T14:59:27Z,shareglint/laravel,v1.0.0,,"Laravel integration for Shareglint — signed og:image URLs, a Blade component and queued OG image generation for Eloquent models"
+2026-11-21T14:59:27Z,shareglint/shareglint-php,v1.0.0,,PHP client for Shareglint — generate Open Graph images over HTTP
+2026-11-21T14:59:40Z,clesson-de/silverstripe-github,1.0.0,Kai Feldmaier,GitHub Repository Management für SilverStripe 6
+2026-11-21T15:01:21Z,heano/craft-basin,1.0.0,Heano,"Use Basin (usebasin.com) forms in Craft CMS, and view and manage their submissions from the Control Panel."
+2026-11-21T15:16:15Z,custom-graphics/golf-cart-wraps,v1.0.1,Golf Cart Wraps,"Public reference data for 34 golf cart models, body configurations, wrap finishes and panels."

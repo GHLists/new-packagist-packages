@@ -15,25 +15,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 14:21 UTC
+## Latest list — 2026-11-21 15:19 UTC
 
-New packages created between 2026-11-21 13:18 UTC and 2026-11-21 14:21 UTC.
+New packages created between 2026-11-21 14:21 UTC and 2026-11-21 15:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-21T14-21-32-135601Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-21T15-19-27-402725Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 13:22:35 | [karrieremag/contao-ausbildungsbetrieb-um-die-ecke](https://www.nuget.org/packages/karrieremag%2Fcontao-ausbildungsbetrieb-um-die-ecke) | 1.0.0 | Karrieremag GmbH | Ausbildungsbetrieb um die Ecke: kostenloses Azubi-Siegel und Widget mit Karte (… |
-| 2026-11-21 13:22:35 | [karrieremag/typo3-ausbildungsbetrieb-um-die-ecke](https://www.nuget.org/packages/karrieremag%2Ftypo3-ausbildungsbetrieb-um-die-ecke) | 1.0.0 | Karrieremag GmbH | Ausbildungsbetrieb um die Ecke: kostenloses Azubi-Siegel und Widget mit Karte (… |
-| 2026-11-21 13:37:40 | [parasoled/getopt](https://www.nuget.org/packages/parasoled%2Fgetopt) | v1.0.0 |  | A POSIX command-line parser with typed values, validation and generated help. |
-| 2026-11-21 13:46:06 | [glofora/gsend-transport](https://www.nuget.org/packages/glofora%2Fgsend-transport) | v1.0.0 | Glofora Solutions | gSend mail transport driver and client for Laravel and PHP |
-| 2026-11-21 13:48:07 | [webservco/access-control](https://www.nuget.org/packages/webservco%2Faccess-control) | v0.0.1 | Radu Maier | A PHP component/library. Roles, feature flags and usage limits per user, with a… |
-| 2026-11-21 13:48:32 | [nwnuyhs/flarum-user-manager](https://www.nuget.org/packages/nwnuyhs%2Fflarum-user-manager) | v1.1.0 | X Theme | A better user admin for Flarum 2: email-confirmation status, sorting and filter… |
-| 2026-11-21 13:55:56 | [nguyenthuan2412/outbox-pattern](https://www.nuget.org/packages/nguyenthuan2412%2Foutbox-pattern) | v0.1.0 | nguyenthuan2412 | Framework-agnostic Transactional Outbox abstractions for PHP: contracts + relay… |
-| 2026-11-21 13:59:46 | [gosuccess/iso3166-2](https://www.nuget.org/packages/gosuccess%2Fiso3166-2) | 0.1.0 | GoSuccess GmbH | Dependency-free ISO 3166-2 country subdivisions with English and German names f… |
-| 2026-11-21 14:03:05 | [gosuccess/byteplant-api](https://www.nuget.org/packages/gosuccess%2Fbyteplant-api) | 0.1.0 | GoSuccess GmbH | A modern, strongly-typed, dependency-free PHP client for the real-time email ve… |
-| 2026-11-21 14:18:58 | [empiricompany/maho-omnibus](https://www.nuget.org/packages/empiricompany%2Fmaho-omnibus) | 1.0.0 |  | EU Omnibus Directive (2019/2161) compliance for Maho: records the price history… |
-| 2026-11-21 14:19:13 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.41.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-21 14:24:15 | [phem/ui-base](https://www.nuget.org/packages/phem%2Fui-base) | v0.1.0 | Yonel Ceruto | Phem components that copy the behavior and the look of Base UI, styled with Tai… |
+| 2026-11-21 14:26:40 | [shortdramadb/nativephp-parallax](https://www.nuget.org/packages/shortdramadb%2Fnativephp-parallax) | v1.0.0 |  | NativePHP Mobile plugin: a native parallax container whose content moves slower… |
+| 2026-11-21 14:26:41 | [shortdramadb/nativephp-secure-storage](https://www.nuget.org/packages/shortdramadb%2Fnativephp-secure-storage) | v1.0.0 |  | NativePHP Mobile plugin: secure storage in the iOS Keychain and Android Keystor… |
+| 2026-11-21 14:40:09 | [modjocams/live-cam-api-client](https://www.nuget.org/packages/modjocams%2Flive-cam-api-client) | v1.0.0 | ModjoCams Engineering | High-performance PHP 8.4 client and flat-file JSON cache manager for live strea… |
+| 2026-11-21 14:49:04 | [sunrice/commerce-rental](https://www.nuget.org/packages/sunrice%2Fcommerce-rental) | v0.1.0 |  | Rentals for Sunrice Commerce: physical units per location, date-range bookings… |
+| 2026-11-21 14:50:57 | [sumly/sdk](https://www.nuget.org/packages/sumly%2Fsdk) | v1.0.0 |  | Sumly for PHP and Laravel: events, payments, costs and feature flags from your… |
+| 2026-11-21 14:51:00 | [usezeny/laravel](https://www.nuget.org/packages/usezeny%2Flaravel) | v1.0.0 |  | PHP and Laravel SDK for the Merchant API v1 |
+| 2026-11-21 14:59:27 | [shareglint/laravel](https://www.nuget.org/packages/shareglint%2Flaravel) | v1.0.0 |  | Laravel integration for Shareglint — signed og:image URLs, a Blade component an… |
+| 2026-11-21 14:59:27 | [shareglint/shareglint-php](https://www.nuget.org/packages/shareglint%2Fshareglint-php) | v1.0.0 |  | PHP client for Shareglint — generate Open Graph images over HTTP |
+| 2026-11-21 14:59:40 | [clesson-de/silverstripe-github](https://www.nuget.org/packages/clesson-de%2Fsilverstripe-github) | 1.0.0 | Kai Feldmaier | GitHub Repository Management für SilverStripe 6 |
+| 2026-11-21 15:01:21 | [heano/craft-basin](https://www.nuget.org/packages/heano%2Fcraft-basin) | 1.0.0 | Heano | Use Basin (usebasin.com) forms in Craft CMS, and view and manage their submissi… |
+| 2026-11-21 15:16:15 | [custom-graphics/golf-cart-wraps](https://www.nuget.org/packages/custom-graphics%2Fgolf-cart-wraps) | v1.0.1 | Golf Cart Wraps | Public reference data for 34 golf cart models, body configurations, wrap finish… |
 
 ## Data source
 
