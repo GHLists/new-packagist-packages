@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-21T00:34:04Z,pushery/tax-audit-export-for-laravel,v0.1.0,Pushery,"Writes the index.xml, DTD and CSV files of a tax audit data export (GoBD, GDPdU, DSFinV-K) from table definitions, with a reader and a test helper."
+2026-11-21T00:35:00Z,pushery/sovereign-ai-for-laravel,v0.1.0,Pushery,"IONOS AI Model Hub and OVHcloud AI Endpoints as providers for the Laravel AI SDK, held to endpoints in the EU, with a model catalog and token usage."
+2026-11-21T00:48:10Z,datacircle/laravel-ai-tools,v0.1.0,Wayne Hamadi,Find the best GTM APIs. Four Laravel AI SDK tools call Datacircle's public API. You need no API key.
