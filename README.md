@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 05:20 UTC
+## Latest list — 2026-11-21 06:19 UTC
 
-New packages created between 2026-11-21 04:19 UTC and 2026-11-21 05:20 UTC.
+New packages created between 2026-11-21 05:20 UTC and 2026-11-21 06:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-21T05-20-32-272753Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-21T06-19-32-951483Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 04:40:17 | [pennweb/penn_global_metatags](https://www.nuget.org/packages/pennweb%2Fpenn_global_metatags) | 1.0.0 |  | Structured data and social sharing defaults for Penn Drupal sites: Organization… |
-| 2026-11-21 05:01:18 | [westonruter/phpstan-diff](https://www.nuget.org/packages/westonruter%2Fphpstan-diff) | v1.0.0 | Weston Ruter | Run PHPStan and report only the errors on lines changed relative to a base bran… |
-| 2026-11-21 05:06:47 | [pennweb/penn_upstream_social](https://www.nuget.org/packages/pennweb%2Fpenn_upstream_social) | 1.0.0 |  | Social sharing images for sites on the Penn upstream: each content type's own i… |
+| 2026-11-21 05:50:21 | [brianhenryie/bh-wp-plugin-meta-kit](https://www.nuget.org/packages/brianhenryie%2Fbh-wp-plugin-meta-kit) | 1.0.0 | Brian Henry | Library with convenience functions for WordPress admin plugin meta. |
 
 ## Data source
 
