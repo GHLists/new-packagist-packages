@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-21T15:34:52Z,besnovatyj/yii2-cms-sr-projects,v1.1.6,Besnovatyj,Модуль проектов
+2026-11-21T15:36:37Z,sellissimo/core,v1.0.0,,Sellissimo for Statamic 6.
+2026-11-21T15:36:37Z,sellissimo/mollie,v1.0.0,,Mollie for Sellissimo for Statamic 6.
+2026-11-21T15:36:37Z,sellissimo/stripe,v1.0.0,,Stripe for Sellissimo for Statamic 6.
+2026-11-21T15:36:38Z,sellissimo/shipping-flat-rate,v1.0.0,,Flat Rate Shipping for Sellissimo for Statamic 6.
+2026-11-21T15:55:48Z,skrull/sylius-admin-passkey-login-plugin,v0.1.0,Simon Krull,Passkey (WebAuthn) login support for the Sylius admin
+2026-11-21T16:10:57Z,vutbr/oidc-client,v1.0.0,Pavel Witassek; Patrik Sehnoutek,OAuth 2.1 / OpenID Connect client for VUT Auth Provider
