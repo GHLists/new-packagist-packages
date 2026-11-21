@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 20:22 UTC
+## Latest list — 2026-11-21 21:19 UTC
 
-New packages created between 2026-11-21 19:19 UTC and 2026-11-21 20:22 UTC.
+New packages created between 2026-11-21 20:22 UTC and 2026-11-21 21:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-21T20-22-03-400091Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-21T21-19-55-583488Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 19:37:00 | [yetidevworks/yetipdf-write](https://www.nuget.org/packages/yetidevworks%2Fyetipdf-write) | 0.1.0 | Yetidevworks | The fastest PDF generation for PHP: pure PHP, no dependencies, with a layout mo… |
-| 2026-11-21 19:56:22 | [steffenr/dsv-php](https://www.nuget.org/packages/steffenr%2Fdsv-php) | v0.1.0 | Steffen Rühlmann; Philipp Sch… | PHP library for parsing, validating and writing DSV files (DSV7 / DSV8) used in… |
-| 2026-11-21 20:01:42 | [onysko/octane-health](https://www.nuget.org/packages/onysko%2Foctane-health) | 1.0.0 | Pavlo Onysko | Health checks for Laravel Octane in production: per-worker memory growth with r… |
+| 2026-11-21 20:34:33 | [sendzly/sendzly-php](https://www.nuget.org/packages/sendzly%2Fsendzly-php) | v1.0.0 | Sendzly Team | SDK oficial de Sendzly para PHP y Laravel: envía correos transaccionales (MT 1-… |
+| 2026-11-21 20:51:51 | [trail/editor](https://www.nuget.org/packages/trail%2Feditor) | 0.5.0 | Alex Brindley | Markdown and page editor for trail |
+| 2026-11-21 20:55:32 | [absdev/laravel-modules](https://www.nuget.org/packages/absdev%2Flaravel-modules) | 1.0.6 | Mark Gregory | Laravel Module Management |
+| 2026-11-21 21:02:29 | [yasinkuyu/omnipay-paytr](https://www.nuget.org/packages/yasinkuyu%2Fomnipay-paytr) | v3.0.0 | Yasin Kuyu; Contributors | PayTR gateway for Omnipay: iFrame payment page, signed notification (callback)… |
 
 ## Data source
 
