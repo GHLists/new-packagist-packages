@@ -15,23 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 17:21 UTC
+## Latest list — 2026-11-21 18:21 UTC
 
-New packages created between 2026-11-21 16:20 UTC and 2026-11-21 17:21 UTC.
+New packages created between 2026-11-21 17:21 UTC and 2026-11-21 18:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-21T17-21-00-369587Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-21T18-21-48-393595Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 16:45:00 | [imrandevbd/laravel-role-matrix](https://www.nuget.org/packages/imrandevbd%2Flaravel-role-matrix) | v1.1.0 | Imran Ahmed | Premium role and permission management for Laravel, with a Role × Module × Acti… |
-| 2026-11-21 16:51:17 | [websitepruefen/typo3-connect](https://www.nuget.org/packages/websitepruefen%2Ftypo3-connect) | v0.1.0 |  | Connects a TYPO3 website with websiteprüfen.de: finished articles arrive as new… |
-| 2026-11-21 16:55:32 | [xincheng/yii2-rabbitmq](https://www.nuget.org/packages/xincheng%2Fyii2-rabbitmq) | 3.0.0 | Mikhail Bakulin | Wrapper based on php-amqplib to incorporate messaging in your Yii2 application… |
-| 2026-11-21 17:07:09 | [sinemacula/laravel-authentication](https://www.nuget.org/packages/sinemacula%2Flaravel-authentication) | v0.1.0 | Ben Carey | Stateless contextual authentication primitives (Identity, Principal, Session, T… |
-| 2026-11-21 17:07:14 | [sinemacula/laravel-mfa](https://www.nuget.org/packages/sinemacula%2Flaravel-mfa) | v0.1.0 | Ben Carey | Driver-based multi-factor authentication (TOTP, email, SMS, passkeys and recove… |
-| 2026-11-21 17:07:19 | [sinemacula/laravel-sso](https://www.nuget.org/packages/sinemacula%2Flaravel-sso) | v0.1.0 | Ben Carey | Tenant single sign-on over SAML 2.0 and OpenID Connect for Laravel 12 and 13: c… |
-| 2026-11-21 17:07:24 | [sinemacula/laravel-audit-log](https://www.nuget.org/packages/sinemacula%2Flaravel-audit-log) | v0.1.0 | Ben Carey | Event-driven audit logging of user activity for Laravel 12 and 13: automatic ca… |
-| 2026-11-21 17:07:29 | [sinemacula/laravel-authorization](https://www.nuget.org/packages/sinemacula%2Flaravel-authorization) | v0.1.0 | Ben Carey | Role-based access control and IAM-style policy evaluation for Laravel 12 and 13. |
-| 2026-11-21 17:07:53 | [quikcast/quikcast](https://www.nuget.org/packages/quikcast%2Fquikcast) | 0.0.1 |  | PHP client library for the Quikcast native management API. |
+| 2026-11-21 17:30:23 | [filertia/panel](https://www.nuget.org/packages/filertia%2Fpanel) | v0.4.0 | Pol Cámara | Resource-driven admin panels for Laravel, Inertia, Vue 3, and Tailwind CSS 4 |
+| 2026-11-21 17:31:08 | [kongono/framework](https://www.nuget.org/packages/kongono%2Fframework) | v1.0.0 | Anthony Iovanna | A modern, zero-legacy PHP 8.5+ application framework built from the ground up w… |
+| 2026-11-21 17:34:19 | [mopux/mopux-php](https://www.nuget.org/packages/mopux%2Fmopux-php) | v0.1.1 | Mopux | Official PHP client for the Mopux API, with first-class Laravel integration. |
+| 2026-11-21 17:55:37 | [sinemacula/laravel-iam](https://www.nuget.org/packages/sinemacula%2Flaravel-iam) | v0.1.0 | Ben Carey | Identity and access management for Laravel: installs the authentication, author… |
 
 ## Data source
 

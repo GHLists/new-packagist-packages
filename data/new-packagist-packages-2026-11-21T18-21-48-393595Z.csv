@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-21T17:30:23Z,filertia/panel,v0.4.0,Pol Cámara,"Resource-driven admin panels for Laravel, Inertia, Vue 3, and Tailwind CSS 4"
+2026-11-21T17:31:08Z,kongono/framework,v1.0.0,Anthony Iovanna,"A modern, zero-legacy PHP 8.5+ application framework built from the ground up with zero Symfony dependency and integrated Oshie (learn), Chie (build), and Hantei (debug/test) AI companions."
+2026-11-21T17:34:19Z,mopux/mopux-php,v0.1.1,Mopux,"Official PHP client for the Mopux API, with first-class Laravel integration."
+2026-11-21T17:55:37Z,sinemacula/laravel-iam,v0.1.0,Ben Carey,"Identity and access management for Laravel: installs the authentication, authorization, MFA, SSO and audit log packages and binds them together."
