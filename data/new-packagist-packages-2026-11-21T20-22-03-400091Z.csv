@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-21T19:37:00Z,yetidevworks/yetipdf-write,0.1.0,Yetidevworks,"The fastest PDF generation for PHP: pure PHP, no dependencies, with a layout model inspired by Typst"
+2026-11-21T19:56:22Z,steffenr/dsv-php,v0.1.0,Steffen Rühlmann; Philipp Schröer,"PHP library for parsing, validating and writing DSV files (DSV7 / DSV8) used in German swimming (Deutscher Schwimm-Verband)"
+2026-11-21T20:01:42Z,onysko/octane-health,1.0.0,Pavlo Onysko,"Health checks for Laravel Octane in production: per-worker memory growth with route attribution, worker lifecycle, state leaking between requests and pool saturation."
