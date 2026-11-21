@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-21T06:31:01Z,consentinel/module-cookie-consent,1.0.0,Consentinel,Consentinel Cookie Consent and Pre-Consent Script Blocker with Google Consent Mode v2 for Magento 2
+2026-11-21T06:39:15Z,schachbulle/contao-galeriemetadaten-bundle,1.0.0,Frank Hoppe,"Abweichende Metadaten (Titel, Alternativtext, Link, Bildunterschrift) für einzelne Bilder im Contao-Galerie-Element, nur für diese eine Galerie. Für Contao 4.13 und 5.7."
+2026-11-21T06:50:05Z,js-upup/video-subtitle-window,v0.1.0,,Clip and rebase subtitle cues for a video excerpt.
+2026-11-21T06:51:53Z,tohawk89/laravel-sso-client,v0.1.0,Nazar,"Plug-and-play Single Sign-On client for Laravel apps: OAuth 2.0 + PKCE login, user sync and global logout against your SSO server."
+2026-11-21T07:08:11Z,pingoline/laravel-sdk,v1.0.0,PingoLine,"Official PingoLine SDK for Laravel - Automated Order Confirmation Calls, SMS Gateway, IVR & Telephony in Bangladesh."
+2026-11-21T07:16:22Z,tobento/service-repository-relation,2.0,Tobias Strub,"Relations between storage repositories such as many to one, one to many and many to many."
