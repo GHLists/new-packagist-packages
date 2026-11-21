@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 11:21 UTC
+## Latest list — 2026-11-21 12:18 UTC
 
-New packages created between 2026-11-21 10:20 UTC and 2026-11-21 11:21 UTC.
+New packages created between 2026-11-21 11:21 UTC and 2026-11-21 12:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-21T11-21-57-859412Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-21T12-18-54-112396Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 10:39:04 | [fluffy-space/saaspaws](https://www.nuget.org/packages/fluffy-space%2Fsaaspaws) | v0.1.1 | Fluffy space | SaasPaws - SaaS operations modules for Fluffy Paws apps: in-app deployments, op… |
-| 2026-11-21 10:56:28 | [exceedone/exment-plugins-release](https://www.nuget.org/packages/exceedone%2Fexment-plugins-release) | 7.2.0 | Exceed One Co.,Ltd. | The free official plugins of Exment (ExmentPM, IT Support, Groupware), as signe… |
-| 2026-11-21 11:14:14 | [jasirilabs/laravel-selcom](https://www.nuget.org/packages/jasirilabs%2Flaravel-selcom) | v0.1.0 |  | Laravel integration for the Selcom API gateway: config, container bindings, web… |
+| 2026-11-21 11:30:25 | [finget/sdk](https://www.nuget.org/packages/finget%2Fsdk) | v1.0.0 | Finget | Official PHP SDK for the Finget passwordless login and notification API |
+| 2026-11-21 11:45:07 | [rakeshrai/laravel-nepali-date-converter](https://www.nuget.org/packages/rakeshrai%2Flaravel-nepali-date-converter) | v1.0.0-beta.1 | Rakesh Rai | Laravel Nepali Date Converter is a package to convert English (AD) dates to Nep… |
+| 2026-11-21 11:46:51 | [finget/laravel](https://www.nuget.org/packages/finget%2Flaravel) | v1.0.0 | Finget | Official Laravel package for Finget passwordless login and notifications |
 
 ## Data source
 

@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-21T11:30:25Z,finget/sdk,v1.0.0,Finget,Official PHP SDK for the Finget passwordless login and notification API
+2026-11-21T11:45:07Z,rakeshrai/laravel-nepali-date-converter,v1.0.0-beta.1,Rakesh Rai,Laravel Nepali Date Converter is a package to convert English (AD) dates to Nepali (BS)
+2026-11-21T11:46:51Z,finget/laravel,v1.0.0,Finget,Official Laravel package for Finget passwordless login and notifications
