@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-21T21:35:12Z,el-choco/repo-sync,v0.1.0-beta.1,el-choco,Synchronize GitHub README files with Flarum posts and announce releases in existing discussions.
+2026-11-21T21:47:25Z,daryl-peterson/librenms-device-backups,v0.2.0-alpha,daryl-peterson,LibreNMS plugin for device backups
+2026-11-21T21:52:08Z,gavtaylor/hoveractions,v0.1.0,Gavin Taylor,Outlook-style hover actions for Roundcube's Elastic message list: the date moves to the subject line and flag/unflag and delete go on the line above
+2026-11-21T22:06:07Z,nyoncode/laravel-pwa,v1.0.0,Ondřej Nyklíček,"Production-grade PWA for Laravel: offline-first service worker with per-user caches and cache rules, persistent login, maintenance screen, kill switch, web push notifications and per-tenant manifests."

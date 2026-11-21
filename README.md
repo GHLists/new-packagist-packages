@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 21:19 UTC
+## Latest list — 2026-11-21 22:20 UTC
 
-New packages created between 2026-11-21 20:22 UTC and 2026-11-21 21:19 UTC.
+New packages created between 2026-11-21 21:19 UTC and 2026-11-21 22:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-21T21-19-55-583488Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-21T22-20-03-808023Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 20:34:33 | [sendzly/sendzly-php](https://www.nuget.org/packages/sendzly%2Fsendzly-php) | v1.0.0 | Sendzly Team | SDK oficial de Sendzly para PHP y Laravel: envía correos transaccionales (MT 1-… |
-| 2026-11-21 20:51:51 | [trail/editor](https://www.nuget.org/packages/trail%2Feditor) | 0.5.0 | Alex Brindley | Markdown and page editor for trail |
-| 2026-11-21 20:55:32 | [absdev/laravel-modules](https://www.nuget.org/packages/absdev%2Flaravel-modules) | 1.0.6 | Mark Gregory | Laravel Module Management |
-| 2026-11-21 21:02:29 | [yasinkuyu/omnipay-paytr](https://www.nuget.org/packages/yasinkuyu%2Fomnipay-paytr) | v3.0.0 | Yasin Kuyu; Contributors | PayTR gateway for Omnipay: iFrame payment page, signed notification (callback)… |
+| 2026-11-21 21:35:12 | [el-choco/repo-sync](https://www.nuget.org/packages/el-choco%2Frepo-sync) | v0.1.0-beta.1 | el-choco | Synchronize GitHub README files with Flarum posts and announce releases in exis… |
+| 2026-11-21 21:47:25 | [daryl-peterson/librenms-device-backups](https://www.nuget.org/packages/daryl-peterson%2Flibrenms-device-backups) | v0.2.0-alpha | daryl-peterson | LibreNMS plugin for device backups |
+| 2026-11-21 21:52:08 | [gavtaylor/hoveractions](https://www.nuget.org/packages/gavtaylor%2Fhoveractions) | v0.1.0 | Gavin Taylor | Outlook-style hover actions for Roundcube's Elastic message list: the date move… |
+| 2026-11-21 22:06:07 | [nyoncode/laravel-pwa](https://www.nuget.org/packages/nyoncode%2Flaravel-pwa) | v1.0.0 | Ondřej Nyklíček | Production-grade PWA for Laravel: offline-first service worker with per-user ca… |
 
 ## Data source
 
