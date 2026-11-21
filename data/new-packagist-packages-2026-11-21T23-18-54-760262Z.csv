@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-21T22:44:36Z,ticketbaiws/ticketbaiws-php,v1.0.0,Berein Internet S.L.,"Cliente PHP oficial de la API de Ticketbai WS: facturas TicketBAI (Araba, Bizkaia/Batuz, Gipuzkoa), Verifactu (AEAT) y LROE de Bizkaia."
+2026-11-21T22:49:47Z,nubos/starterkit,v1.44.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-21T22:56:21Z,fake-email-pro/fake-email-php,v0.1.0,fake-email.pro,"Official PHP client for the fake-email.pro API: disposable mailboxes, one-time codes and magic links for end-to-end tests of signup and OTP flows"

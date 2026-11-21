@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 22:20 UTC
+## Latest list — 2026-11-21 23:18 UTC
 
-New packages created between 2026-11-21 21:19 UTC and 2026-11-21 22:20 UTC.
+New packages created between 2026-11-21 22:20 UTC and 2026-11-21 23:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-21T22-20-03-808023Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-21T23-18-54-760262Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 21:35:12 | [el-choco/repo-sync](https://www.nuget.org/packages/el-choco%2Frepo-sync) | v0.1.0-beta.1 | el-choco | Synchronize GitHub README files with Flarum posts and announce releases in exis… |
-| 2026-11-21 21:47:25 | [daryl-peterson/librenms-device-backups](https://www.nuget.org/packages/daryl-peterson%2Flibrenms-device-backups) | v0.2.0-alpha | daryl-peterson | LibreNMS plugin for device backups |
-| 2026-11-21 21:52:08 | [gavtaylor/hoveractions](https://www.nuget.org/packages/gavtaylor%2Fhoveractions) | v0.1.0 | Gavin Taylor | Outlook-style hover actions for Roundcube's Elastic message list: the date move… |
-| 2026-11-21 22:06:07 | [nyoncode/laravel-pwa](https://www.nuget.org/packages/nyoncode%2Flaravel-pwa) | v1.0.0 | Ondřej Nyklíček | Production-grade PWA for Laravel: offline-first service worker with per-user ca… |
+| 2026-11-21 22:44:36 | [ticketbaiws/ticketbaiws-php](https://www.nuget.org/packages/ticketbaiws%2Fticketbaiws-php) | v1.0.0 | Berein Internet S.L. | Cliente PHP oficial de la API de Ticketbai WS: facturas TicketBAI (Araba, Bizka… |
+| 2026-11-21 22:49:47 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.44.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-21 22:56:21 | [fake-email-pro/fake-email-php](https://www.nuget.org/packages/fake-email-pro%2Ffake-email-php) | v0.1.0 | fake-email.pro | Official PHP client for the fake-email.pro API: disposable mailboxes, one-time… |
 
 ## Data source
 
