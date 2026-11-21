@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-11-21T13:22:35Z,karrieremag/contao-ausbildungsbetrieb-um-die-ecke,1.0.0,Karrieremag GmbH,"Ausbildungsbetrieb um die Ecke: kostenloses Azubi-Siegel und Widget mit Karte (Map), Ausbildungsberufen und Weg mit Bus und Bahn. Zeigen Sie auf Ihrer Webseite, dass Sie ausbilden. Von dein-ausbildungsplatz.de."
+2026-11-21T13:22:35Z,karrieremag/typo3-ausbildungsbetrieb-um-die-ecke,1.0.0,Karrieremag GmbH,"Ausbildungsbetrieb um die Ecke: kostenloses Azubi-Siegel und Widget mit Karte (Map), Ausbildungsberufen und Weg mit Bus und Bahn. Zeigen Sie auf Ihrer Webseite, dass Sie ausbilden. Von dein-ausbildungsplatz.de."
+2026-11-21T13:37:40Z,parasoled/getopt,v1.0.0,,"A POSIX command-line parser with typed values, validation and generated help."
+2026-11-21T13:46:06Z,glofora/gsend-transport,v1.0.0,Glofora Solutions,gSend mail transport driver and client for Laravel and PHP
+2026-11-21T13:48:07Z,webservco/access-control,v0.0.1,Radu Maier,"A PHP component/library. Roles, feature flags and usage limits per user, with access levels, per-user overrides and counters in fixed UTC windows."
+2026-11-21T13:48:32Z,nwnuyhs/flarum-user-manager,v1.1.0,X Theme,"A better user admin for Flarum 2: email-confirmation status, sorting and filters, sign-up stats, bulk actions (activate, groups, suspend, message, delete), CSV export, user details, cleanup of unconfirmed sign-ups and an action log."
+2026-11-21T13:55:56Z,nguyenthuan2412/outbox-pattern,v0.1.0,nguyenthuan2412,"Framework-agnostic Transactional Outbox abstractions for PHP: contracts + relay/retry/worker orchestration, with Swoole coroutine runtime support. You bring the store and publisher."
+2026-11-21T13:59:46Z,gosuccess/iso3166-2,0.1.0,GoSuccess GmbH,Dependency-free ISO 3166-2 country subdivisions with English and German names for PHP.
+2026-11-21T14:03:05Z,gosuccess/byteplant-api,0.1.0,GoSuccess GmbH,"A modern, strongly-typed, dependency-free PHP client for the real-time email verification API of Byteplant's Email-Validator."
+2026-11-21T14:18:58Z,empiricompany/maho-omnibus,1.0.0,,"EU Omnibus Directive (2019/2161) compliance for Maho: records the price history, shows the lowest price of the reference period next to a crossed-out price, and reports the products that do not comply."
+2026-11-21T14:19:13Z,nubos/starterkit,v1.41.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
