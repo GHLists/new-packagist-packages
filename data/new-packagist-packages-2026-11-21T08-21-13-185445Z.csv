@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-21T07:22:54Z,particle-academy/prism-agent-docs,v0.1.2,Wish Born,"A Word-document subagent for prism-harness: edits an existing .docx or creates one through Fancy's last-word writer, keeps every picture and the letterhead, knows the format's limits and checks its own output before handing back."
+2026-11-21T07:27:35Z,formbridge/formbridge-bundle,v0.1.1,,"Symfony forms as MCP tools, as forms a person completes inside the conversation (MCP Apps), and as tools for Symfony AI agents."
+2026-11-21T07:45:41Z,clesson-de/silverstripe-elemental-essentials,1.0.1,,"Essential text, image, video and audio content elements for Silverstripe Elemental"
+2026-11-21T08:00:38Z,adnane1deev/laravel-charipay,v1.0.0,,A Laravel integration for the ChariPay payment API.
