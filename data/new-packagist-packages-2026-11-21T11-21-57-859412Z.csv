@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-21T10:39:04Z,fluffy-space/saaspaws,v0.1.1,Fluffy space,"SaasPaws - SaaS operations modules for Fluffy Paws apps: in-app deployments, ops (logs, system monitor, cron admin, resource alerts) and backups."
+2026-11-21T10:56:28Z,exceedone/exment-plugins-release,7.2.0,"Exceed One Co.,Ltd.","The free official plugins of Exment (ExmentPM, IT Support, Groupware), as signed releases. Exment installs one only when a system administrator chooses it (Admin setting > Feature management)."
+2026-11-21T11:14:14Z,jasirilabs/laravel-selcom,v0.1.0,,"Laravel integration for the Selcom API gateway: config, container bindings, webhooks, optional models, commands and testing helpers, built on selcom-developers/selcom-php. Not affiliated with Selcom Paytech Ltd."

@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 10:20 UTC
+## Latest list — 2026-11-21 11:21 UTC
 
-New packages created between 2026-11-21 09:20 UTC and 2026-11-21 10:20 UTC.
+New packages created between 2026-11-21 10:20 UTC and 2026-11-21 11:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-21T10-20-52-90488Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-21T11-21-57-859412Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 10:11:36 | [login512/login512-laravel](https://www.nuget.org/packages/login512%2Flogin512-laravel) | 2.1.1 | Login512 Team | Official Laravel Package for Login512 Post-Quantum Biometrics and Passkeys |
-| 2026-11-21 10:11:37 | [login512/login512-symfony-bundle](https://www.nuget.org/packages/login512%2Flogin512-symfony-bundle) | 2.1.1 | Login512 Team | Symfony bundle for Login512 (face login + passkeys): security authenticator, no… |
-| 2026-11-21 10:11:37 | [login512/server-sdk](https://www.nuget.org/packages/login512%2Fserver-sdk) | v1.0.0 | login512.com | Official Login512 Server SDK for PHP (Post-Quantum Passwordless Face Authentica… |
+| 2026-11-21 10:39:04 | [fluffy-space/saaspaws](https://www.nuget.org/packages/fluffy-space%2Fsaaspaws) | v0.1.1 | Fluffy space | SaasPaws - SaaS operations modules for Fluffy Paws apps: in-app deployments, op… |
+| 2026-11-21 10:56:28 | [exceedone/exment-plugins-release](https://www.nuget.org/packages/exceedone%2Fexment-plugins-release) | 7.2.0 | Exceed One Co.,Ltd. | The free official plugins of Exment (ExmentPM, IT Support, Groupware), as signe… |
+| 2026-11-21 11:14:14 | [jasirilabs/laravel-selcom](https://www.nuget.org/packages/jasirilabs%2Flaravel-selcom) | v0.1.0 |  | Laravel integration for the Selcom API gateway: config, container bindings, web… |
 
 ## Data source
 
