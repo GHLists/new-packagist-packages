@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 04:19 UTC
+## Latest list — 2026-11-21 05:20 UTC
 
-New packages created between 2026-11-21 03:20 UTC and 2026-11-21 04:19 UTC.
+New packages created between 2026-11-21 04:19 UTC and 2026-11-21 05:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-21T04-19-24-791302Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-21T05-20-32-272753Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 03:59:56 | [douglas-fortunatus/yakpro-po](https://www.nuget.org/packages/douglas-fortunatus%2Fyakpro-po) | 3.0.4 |  | Composer-ready YAK Pro PHP obfuscator 3 |
+| 2026-11-21 04:40:17 | [pennweb/penn_global_metatags](https://www.nuget.org/packages/pennweb%2Fpenn_global_metatags) | 1.0.0 |  | Structured data and social sharing defaults for Penn Drupal sites: Organization… |
+| 2026-11-21 05:01:18 | [westonruter/phpstan-diff](https://www.nuget.org/packages/westonruter%2Fphpstan-diff) | v1.0.0 | Weston Ruter | Run PHPStan and report only the errors on lines changed relative to a base bran… |
+| 2026-11-21 05:06:47 | [pennweb/penn_upstream_social](https://www.nuget.org/packages/pennweb%2Fpenn_upstream_social) | 1.0.0 |  | Social sharing images for sites on the Penn upstream: each content type's own i… |
 
 ## Data source
 

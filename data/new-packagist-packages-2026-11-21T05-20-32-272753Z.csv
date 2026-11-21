@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-21T04:40:17Z,pennweb/penn_global_metatags,1.0.0,,"Structured data and social sharing defaults for Penn Drupal sites: Organization and WebSite, WebPage details, breadcrumbs that include the current page, and Open Graph/Twitter card tags."
+2026-11-21T05:01:18Z,westonruter/phpstan-diff,v1.0.0,Weston Ruter,Run PHPStan and report only the errors on lines changed relative to a base branch.
+2026-11-21T05:06:47Z,pennweb/penn_upstream_social,1.0.0,,"Social sharing images for sites on the Penn upstream: each content type's own image, falling back to the Penn graphic."
