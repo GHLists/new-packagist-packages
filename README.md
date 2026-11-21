@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 08:21 UTC
+## Latest list — 2026-11-21 09:20 UTC
 
-New packages created between 2026-11-21 07:21 UTC and 2026-11-21 08:21 UTC.
+New packages created between 2026-11-21 08:21 UTC and 2026-11-21 09:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-21T08-21-13-185445Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-21T09-20-54-679952Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 07:22:54 | [particle-academy/prism-agent-docs](https://www.nuget.org/packages/particle-academy%2Fprism-agent-docs) | v0.1.2 | Wish Born | A Word-document subagent for prism-harness: edits an existing .docx or creates… |
-| 2026-11-21 07:27:35 | [formbridge/formbridge-bundle](https://www.nuget.org/packages/formbridge%2Fformbridge-bundle) | v0.1.1 |  | Symfony forms as MCP tools, as forms a person completes inside the conversation… |
-| 2026-11-21 07:45:41 | [clesson-de/silverstripe-elemental-essentials](https://www.nuget.org/packages/clesson-de%2Fsilverstripe-elemental-essentials) | 1.0.1 |  | Essential text, image, video and audio content elements for Silverstripe Elemen… |
-| 2026-11-21 08:00:38 | [adnane1deev/laravel-charipay](https://www.nuget.org/packages/adnane1deev%2Flaravel-charipay) | v1.0.0 |  | A Laravel integration for the ChariPay payment API. |
+| 2026-11-21 08:32:38 | [maarheeze/compass](https://www.nuget.org/packages/maarheeze%2Fcompass) | 1.0.0 |  | Repository and deployment status dashboard for GitHub and Laravel Forge |
+| 2026-11-21 08:59:03 | [italystrap/empress-cache](https://www.nuget.org/packages/italystrap%2Fempress-cache) | 1.0.0 | overclokk | File based cache for the providers configuration aggregated by italystrap/empre… |
+| 2026-11-21 09:19:01 | [datacircle/laragent-tools](https://www.nuget.org/packages/datacircle%2Flaragent-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. Four LarAgent tools call Datacircle's public API. You n… |
 
 ## Data source
 
