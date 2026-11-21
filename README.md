@@ -15,21 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 16:20 UTC
+## Latest list — 2026-11-21 17:21 UTC
 
-New packages created between 2026-11-21 15:19 UTC and 2026-11-21 16:20 UTC.
+New packages created between 2026-11-21 16:20 UTC and 2026-11-21 17:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-21T16-20-11-007065Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-21T17-21-00-369587Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 15:34:52 | [besnovatyj/yii2-cms-sr-projects](https://www.nuget.org/packages/besnovatyj%2Fyii2-cms-sr-projects) | v1.1.6 | Besnovatyj | Модуль проектов |
-| 2026-11-21 15:36:37 | [sellissimo/core](https://www.nuget.org/packages/sellissimo%2Fcore) | v1.0.0 |  | Sellissimo for Statamic 6. |
-| 2026-11-21 15:36:37 | [sellissimo/mollie](https://www.nuget.org/packages/sellissimo%2Fmollie) | v1.0.0 |  | Mollie for Sellissimo for Statamic 6. |
-| 2026-11-21 15:36:37 | [sellissimo/stripe](https://www.nuget.org/packages/sellissimo%2Fstripe) | v1.0.0 |  | Stripe for Sellissimo for Statamic 6. |
-| 2026-11-21 15:36:38 | [sellissimo/shipping-flat-rate](https://www.nuget.org/packages/sellissimo%2Fshipping-flat-rate) | v1.0.0 |  | Flat Rate Shipping for Sellissimo for Statamic 6. |
-| 2026-11-21 15:55:48 | [skrull/sylius-admin-passkey-login-plugin](https://www.nuget.org/packages/skrull%2Fsylius-admin-passkey-login-plugin) | v0.1.0 | Simon Krull | Passkey (WebAuthn) login support for the Sylius admin |
-| 2026-11-21 16:10:57 | [vutbr/oidc-client](https://www.nuget.org/packages/vutbr%2Foidc-client) | v1.0.0 | Pavel Witassek; Patrik Sehnou… | OAuth 2.1 / OpenID Connect client for VUT Auth Provider |
+| 2026-11-21 16:45:00 | [imrandevbd/laravel-role-matrix](https://www.nuget.org/packages/imrandevbd%2Flaravel-role-matrix) | v1.1.0 | Imran Ahmed | Premium role and permission management for Laravel, with a Role × Module × Acti… |
+| 2026-11-21 16:51:17 | [websitepruefen/typo3-connect](https://www.nuget.org/packages/websitepruefen%2Ftypo3-connect) | v0.1.0 |  | Connects a TYPO3 website with websiteprüfen.de: finished articles arrive as new… |
+| 2026-11-21 16:55:32 | [xincheng/yii2-rabbitmq](https://www.nuget.org/packages/xincheng%2Fyii2-rabbitmq) | 3.0.0 | Mikhail Bakulin | Wrapper based on php-amqplib to incorporate messaging in your Yii2 application… |
+| 2026-11-21 17:07:09 | [sinemacula/laravel-authentication](https://www.nuget.org/packages/sinemacula%2Flaravel-authentication) | v0.1.0 | Ben Carey | Stateless contextual authentication primitives (Identity, Principal, Session, T… |
+| 2026-11-21 17:07:14 | [sinemacula/laravel-mfa](https://www.nuget.org/packages/sinemacula%2Flaravel-mfa) | v0.1.0 | Ben Carey | Driver-based multi-factor authentication (TOTP, email, SMS, passkeys and recove… |
+| 2026-11-21 17:07:19 | [sinemacula/laravel-sso](https://www.nuget.org/packages/sinemacula%2Flaravel-sso) | v0.1.0 | Ben Carey | Tenant single sign-on over SAML 2.0 and OpenID Connect for Laravel 12 and 13: c… |
+| 2026-11-21 17:07:24 | [sinemacula/laravel-audit-log](https://www.nuget.org/packages/sinemacula%2Flaravel-audit-log) | v0.1.0 | Ben Carey | Event-driven audit logging of user activity for Laravel 12 and 13: automatic ca… |
+| 2026-11-21 17:07:29 | [sinemacula/laravel-authorization](https://www.nuget.org/packages/sinemacula%2Flaravel-authorization) | v0.1.0 | Ben Carey | Role-based access control and IAM-style policy evaluation for Laravel 12 and 13. |
+| 2026-11-21 17:07:53 | [quikcast/quikcast](https://www.nuget.org/packages/quikcast%2Fquikcast) | 0.0.1 |  | PHP client library for the Quikcast native management API. |
 
 ## Data source
 

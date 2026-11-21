@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-21T16:45:00Z,imrandevbd/laravel-role-matrix,v1.1.0,Imran Ahmed,"Premium role and permission management for Laravel, with a Role × Module × Action matrix."
+2026-11-21T16:51:17Z,websitepruefen/typo3-connect,v0.1.0,,"Connects a TYPO3 website with websiteprüfen.de: finished articles arrive as news or pages with one click, with SEO title, description and cover image."
+2026-11-21T16:55:32Z,xincheng/yii2-rabbitmq,3.0.0,Mikhail Bakulin,"Wrapper based on php-amqplib to incorporate messaging in your Yii2 application via RabbitMQ. Inspired by RabbitMqBundle for Symfony 2, really awesome package."
+2026-11-21T17:07:09Z,sinemacula/laravel-authentication,v0.1.0,Ben Carey,"Stateless contextual authentication primitives (Identity, Principal, Session, Tenant) for Laravel 12 and 13."
+2026-11-21T17:07:14Z,sinemacula/laravel-mfa,v0.1.0,Ben Carey,"Driver-based multi-factor authentication (TOTP, email, SMS, passkeys and recovery codes) for Laravel 12 and 13."
+2026-11-21T17:07:19Z,sinemacula/laravel-sso,v0.1.0,Ben Carey,"Tenant single sign-on over SAML 2.0 and OpenID Connect for Laravel 12 and 13: connections, verified domains, enforcement, linking and a verified handoff."
+2026-11-21T17:07:24Z,sinemacula/laravel-audit-log,v0.1.0,Ben Carey,"Event-driven audit logging of user activity for Laravel 12 and 13: automatic capture of authentication events, a manual capture API, append-only storage with signed and sealed entries, audited reads, retention, holds and erasure."
+2026-11-21T17:07:29Z,sinemacula/laravel-authorization,v0.1.0,Ben Carey,Role-based access control and IAM-style policy evaluation for Laravel 12 and 13.
+2026-11-21T17:07:53Z,quikcast/quikcast,0.0.1,,PHP client library for the Quikcast native management API.
