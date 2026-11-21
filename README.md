@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 18:21 UTC
+## Latest list — 2026-11-21 19:19 UTC
 
-New packages created between 2026-11-21 17:21 UTC and 2026-11-21 18:21 UTC.
+New packages created between 2026-11-21 18:21 UTC and 2026-11-21 19:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-21T18-21-48-393595Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-21T19-19-13-427725Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 17:30:23 | [filertia/panel](https://www.nuget.org/packages/filertia%2Fpanel) | v0.4.0 | Pol Cámara | Resource-driven admin panels for Laravel, Inertia, Vue 3, and Tailwind CSS 4 |
-| 2026-11-21 17:31:08 | [kongono/framework](https://www.nuget.org/packages/kongono%2Fframework) | v1.0.0 | Anthony Iovanna | A modern, zero-legacy PHP 8.5+ application framework built from the ground up w… |
-| 2026-11-21 17:34:19 | [mopux/mopux-php](https://www.nuget.org/packages/mopux%2Fmopux-php) | v0.1.1 | Mopux | Official PHP client for the Mopux API, with first-class Laravel integration. |
-| 2026-11-21 17:55:37 | [sinemacula/laravel-iam](https://www.nuget.org/packages/sinemacula%2Flaravel-iam) | v0.1.0 | Ben Carey | Identity and access management for Laravel: installs the authentication, author… |
+| 2026-11-21 18:29:15 | [ebln/psr7-symfony1-bridge](https://www.nuget.org/packages/ebln%2Fpsr7-symfony1-bridge) | v0.2.0 | ebln | Converts between symfony1 request and response objects and PSR-7 messages |
+| 2026-11-21 18:37:00 | [kladero/veratag-typo3-extension](https://www.nuget.org/packages/kladero%2Fveratag-typo3-extension) | v1.0.0 | Kladero GmbH | vera[tag] - Synchronize disclosure data from vera[tag], manage your integration… |
+| 2026-11-21 18:38:03 | [simplygoodwork/craft-dolly](https://www.nuget.org/packages/simplygoodwork%2Fcraft-dolly) | 5.0.0-beta.1 |  | Easily port content from one environment to another. |
+| 2026-11-21 18:48:27 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.43.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-21 18:54:42 | [loki-checkout/magento2-indian-gst](https://www.nuget.org/packages/loki-checkout%2Fmagento2-indian-gst) | 1.0.0 |  | Indian GST number field for Loki Checkout |
 
 ## Data source
 

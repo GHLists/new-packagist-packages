@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-21T18:29:15Z,ebln/psr7-symfony1-bridge,v0.2.0,ebln,Converts between symfony1 request and response objects and PSR-7 messages
+2026-11-21T18:37:00Z,kladero/veratag-typo3-extension,v1.0.0,Kladero GmbH,"vera[tag] - Synchronize disclosure data from vera[tag], manage your integration in TYPO3, and deliver language-aware AI content disclosures to website visitors."
+2026-11-21T18:38:03Z,simplygoodwork/craft-dolly,5.0.0-beta.1,,Easily port content from one environment to another.
+2026-11-21T18:48:27Z,nubos/starterkit,v1.43.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-21T18:54:42Z,loki-checkout/magento2-indian-gst,1.0.0,,Indian GST number field for Loki Checkout
