@@ -15,17 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 12:18 UTC
+## Latest list — 2026-11-21 13:18 UTC
 
-New packages created between 2026-11-21 11:21 UTC and 2026-11-21 12:18 UTC.
+New packages created between 2026-11-21 12:18 UTC and 2026-11-21 13:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-21T12-18-54-112396Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-21T13-18-53-235752Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 11:30:25 | [finget/sdk](https://www.nuget.org/packages/finget%2Fsdk) | v1.0.0 | Finget | Official PHP SDK for the Finget passwordless login and notification API |
-| 2026-11-21 11:45:07 | [rakeshrai/laravel-nepali-date-converter](https://www.nuget.org/packages/rakeshrai%2Flaravel-nepali-date-converter) | v1.0.0-beta.1 | Rakesh Rai | Laravel Nepali Date Converter is a package to convert English (AD) dates to Nep… |
-| 2026-11-21 11:46:51 | [finget/laravel](https://www.nuget.org/packages/finget%2Flaravel) | v1.0.0 | Finget | Official Laravel package for Finget passwordless login and notifications |
+| 2026-11-21 12:19:02 | [sunrice/account](https://www.nuget.org/packages/sunrice%2Faccount) | v0.1.0 |  | Site accounts for Sunrice CMS: registration, sign-in, password reset, email ver… |
+| 2026-11-21 12:21:29 | [sunrice/content-restriction](https://www.nuget.org/packages/sunrice%2Fcontent-restriction) | v0.1.0 |  | Members-only content for Sunrice CMS: restrict collections, taxonomies, entries… |
+| 2026-11-21 12:38:31 | [henzeb/housepedia-data-intelligence-laravel](https://www.nuget.org/packages/henzeb%2Fhousepedia-data-intelligence-laravel) | v1.0.0 | Henze Berkheij | Laravel integration for the Housepedia Data Intelligence PHP SDK |
 
 ## Data source
 

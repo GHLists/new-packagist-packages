@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-21T12:19:02Z,sunrice/account,v0.1.0,,"Site accounts for Sunrice CMS: registration, sign-in, password reset, email verification, a My Account area other plugins extend, account emails, roles and settings."
+2026-11-21T12:21:29Z,sunrice/content-restriction,v0.1.0,,"Members-only content for Sunrice CMS: restrict collections, taxonomies, entries and terms to signed-in accounts or some roles, and choose what visitors who may not open them get."
+2026-11-21T12:38:31Z,henzeb/housepedia-data-intelligence-laravel,v1.0.0,Henze Berkheij,Laravel integration for the Housepedia Data Intelligence PHP SDK
