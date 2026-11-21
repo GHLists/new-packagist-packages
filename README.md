@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 01:19 UTC
+## Latest list — 2026-11-21 04:19 UTC
 
-New packages created between 2026-11-21 00:20 UTC and 2026-11-21 01:19 UTC.
+New packages created between 2026-11-21 03:20 UTC and 2026-11-21 04:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-21T01-19-53-908365Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-21T04-19-24-791302Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 00:34:04 | [pushery/tax-audit-export-for-laravel](https://www.nuget.org/packages/pushery%2Ftax-audit-export-for-laravel) | v0.1.0 | Pushery | Writes the index.xml, DTD and CSV files of a tax audit data export (GoBD, GDPdU… |
-| 2026-11-21 00:35:00 | [pushery/sovereign-ai-for-laravel](https://www.nuget.org/packages/pushery%2Fsovereign-ai-for-laravel) | v0.1.0 | Pushery | IONOS AI Model Hub and OVHcloud AI Endpoints as providers for the Laravel AI SD… |
-| 2026-11-21 00:48:10 | [datacircle/laravel-ai-tools](https://www.nuget.org/packages/datacircle%2Flaravel-ai-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. Four Laravel AI SDK tools call Datacircle's public API.… |
+| 2026-11-21 03:59:56 | [douglas-fortunatus/yakpro-po](https://www.nuget.org/packages/douglas-fortunatus%2Fyakpro-po) | 3.0.4 |  | Composer-ready YAK Pro PHP obfuscator 3 |
 
 ## Data source
 
