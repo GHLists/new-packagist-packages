@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 01:20 UTC
+## Latest list — 2026-11-22 02:18 UTC
 
-New packages created between 2026-11-22 00:19 UTC and 2026-11-22 01:20 UTC.
+New packages created between 2026-11-22 01:20 UTC and 2026-11-22 02:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T01-20-06-342121Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T02-18-42-562576Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 00:31:58 | [atannex/desk-deploy](https://www.nuget.org/packages/atannex%2Fdesk-deploy) | v1.0.1 | Atannex Enterprise | Universal Laravel deployment engine: atomic releases on VPS servers, in-place d… |
+| 2026-11-22 02:08:14 | [js-upup/palette-css-export](https://www.nuget.org/packages/js-upup%2Fpalette-css-export) | v0.1.0 |  | Export an ordered RGB palette as CSS custom properties. |
+| 2026-11-22 02:09:49 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.45.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
 
 ## Data source
 
