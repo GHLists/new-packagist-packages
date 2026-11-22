@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 16:18 UTC
+## Latest list — 2026-11-22 17:21 UTC
 
-New packages created between 2026-11-22 15:18 UTC and 2026-11-22 16:18 UTC.
+New packages created between 2026-11-22 16:18 UTC and 2026-11-22 17:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T16-18-33-462371Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T17-21-03-856444Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 15:19:12 | [fiberphp/http](https://www.nuget.org/packages/fiberphp%2Fhttp) | v0.1.0 | PangBin | 🌐 FiberPHP HTTP 子系统 —— 基于 Workerman 协议实现，支持请求/响应/中间件、协程管道、协程隔离。 |
-| 2026-11-22 15:23:12 | [effyads/laravel](https://www.nuget.org/packages/effyads%2Flaravel) | v1.0.1 |  | EffyAds advertisement sync, rendering and click/view tracking for Laravel appli… |
-| 2026-11-22 15:25:00 | [fiberphp/router](https://www.nuget.org/packages/fiberphp%2Frouter) | v0.1.0 | PangBin | 🛣️ FiberPHP 路由器 —— 属性路由声明，支持中间件管道、控制器依赖注入、路由缓存、RESTful 约定。 |
-| 2026-11-22 15:41:16 | [himelali/urlkit](https://www.nuget.org/packages/himelali%2Furlkit) | v1.0.0 | Md. Himel Ali | A modern, powerful and framework-independent PHP URL management toolkit with St… |
-| 2026-11-22 15:58:26 | [boctulus/simplerest-fine-grained-acl](https://www.nuget.org/packages/boctulus%2Fsimplerest-fine-grained-acl) | v1.0.0 | boctulus | Full equiped ACL for SimpleRest |
-| 2026-11-22 16:04:14 | [boctulus/simplerest-basic-acl](https://www.nuget.org/packages/boctulus%2Fsimplerest-basic-acl) | v1.0.0 | boctulus | Basic ACL for SimpleRest |
+| 2026-11-22 16:32:21 | [richie314/simple-virtualfs](https://www.nuget.org/packages/richie314%2Fsimple-virtualfs) | v0.1.0 | Riccardo Ciucci | Virtual file locations with client-side encryption and PDF and image helpers |
+| 2026-11-22 16:50:38 | [davingm/argon](https://www.nuget.org/packages/davingm%2Fargon) | v1.0.0 | davingm | Laravel 12 starter with the Argon Dashboard and borrowing-system backend. |
+| 2026-11-22 16:54:27 | [ibrahim-sajib/laravel-approval-flow](https://www.nuget.org/packages/ibrahim-sajib%2Flaravel-approval-flow) | v0.1.0-beta | Ibrahim Sajib | Configurable multi-step approval workflows (sequential, parallel, optional appr… |
+| 2026-11-22 17:11:24 | [firasarafah/laronclad](https://www.nuget.org/packages/firasarafah%2Flaronclad) | v0.1.1-alpha | Firas Arafah | Runtime security sensor for Laravel: observes SQL queries and outbound requests… |
 
 ## Data source
 
