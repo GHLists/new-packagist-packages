@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-22T14:34:23Z,freebirds/apptagg-shop,v1.0.0,,"Sell a Laravel shop's products in the Apptagg app: product sync, order import and status updates through the Apptagg Shop API."
+2026-11-22T14:36:10Z,fiberphp/cache,v0.1.0,PangBin,⚡ PSR-16 缓存组件 —— Redis store（键前缀隔离、TTL 归一、NX 抢占）与多 store 静态门面。
+2026-11-22T14:46:23Z,nakanoaas/uuid58,v0.1.2,,"Shorten UUIDs to 22-character Base58 strings, and back. URL-safe, order-preserving, and identical across languages under a stable, well-tested spec. No extensions required."
+2026-11-22T14:50:32Z,luany/pt,v1.0.0,António Ambrósio Ngola,"Luany em Português — a API do framework Luany em português: Modelo, Consulta, Esquema/Tabela, Rota e helpers."
+2026-11-22T15:01:49Z,fiberphp/framework,v0.1.0,PangBin,🚀 FiberPHP 框架核心 —— 应用生命周期编排、容器、配置、日志、控制台 CLI、环境变量、包发现、文件热重载与内存监控。
+2026-11-22T15:04:07Z,wsrv/client,v0.1.0-rc.1,,PHP client for the wsrvd WebSocket sidecar (IPC protocol v0) and an embedded server over FFI. Works on every PHP stack; the sidecar client is pure PHP.
+2026-11-22T15:09:30Z,daun/statamic-tree-sync,1.0.0,Philipp Daun,Keep the trees of collections and navigations in sync across Statamic sites
