@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 22:19 UTC
+## Latest list — 2026-11-22 23:21 UTC
 
-New packages created between 2026-11-22 21:20 UTC and 2026-11-22 22:19 UTC.
+New packages created between 2026-11-22 22:19 UTC and 2026-11-22 23:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T22-19-52-820278Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T23-21-16-562693Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 21:34:09 | [foresi/vat](https://www.nuget.org/packages/foresi%2Fvat) | v0.9.29 |  | The VAT of the firm: its VAT periods with the due dates from the country's rule… |
-| 2026-11-22 21:53:01 | [delgraf/module-seo-html-sitemap-tree](https://www.nuget.org/packages/delgraf%2Fmodule-seo-html-sitemap-tree) | v1.0.0 | Delgraf | Hierarchical, collapsible tree view for the Swissup SEO HTML Sitemap on Magento… |
-| 2026-11-22 21:57:00 | [foresi/activities](https://www.nuget.org/packages/foresi%2Factivities) | v0.9.29 |  | Meetings, calls, notes and tasks logged or planned on any record, on its timeli… |
-| 2026-11-22 22:03:11 | [jenswittmann/kirby-jolitypo](https://www.nuget.org/packages/jenswittmann%2Fkirby-jolitypo) | v0.1.0 | Jens Wittmann | Microtypography for Kirby: JoliTypo as a field and blocks method (quotes, dashe… |
+| 2026-11-22 22:25:58 | [kinetis/vector-ai](https://www.nuget.org/packages/kinetis%2Fvector-ai) | v0.1.0 | Alon Noy | AI for the Kinetis Vector admin, on kinetis/neuron: plain-language filters, an… |
+| 2026-11-22 23:15:49 | [thebeardedbear/urssaf-mobilite-internationale](https://www.nuget.org/packages/thebeardedbear%2Furssaf-mobilite-internationale) | v0.1.0 | The Bearded Bear | Client and domain model for the URSSAF "API Mobilité internationale" (posting o… |
 
 ## Data source
 
