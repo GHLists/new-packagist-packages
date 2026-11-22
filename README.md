@@ -15,21 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 20:20 UTC
+## Latest list — 2026-11-22 21:20 UTC
 
-New packages created between 2026-11-22 19:18 UTC and 2026-11-22 20:20 UTC.
+New packages created between 2026-11-22 20:20 UTC and 2026-11-22 21:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T20-20-39-495028Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T21-20-25-540979Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 19:18:46 | [hryvinskyi/magento2-admin-setup-wizard](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-admin-setup-wizard) | 1.0.0 | Volodymyr Hryvinskyi | A setup-wizard frame for the Magento admin: scopes, settings with inheritance a… |
-| 2026-11-22 19:24:46 | [hryvinskyi/magento2-json-template](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-json-template) | 1.0.0 | Volodymyr Hryvinskyi | Compiled JSON templates for Magento 2: a JSON document with {{ expressions }},… |
-| 2026-11-22 19:33:35 | [hryvinskyi/magento2-rich-snippets](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-rich-snippets) | 1.0.0 | Volodymyr Hryvinskyi | Rich snippets for Magento 2: JSON-LD blocks written as templates, placed by kin… |
-| 2026-11-22 19:47:08 | [agilisdating/agilis-ads](https://www.nuget.org/packages/agilisdating%2Fagilis-ads) | v0.1.0 | Agilis | Official PHP client for the Agilis Advertising REST API: Offers, Events and web… |
-| 2026-11-22 19:56:36 | [marekskopal/lithophane](https://www.nuget.org/packages/marekskopal%2Flithophane) | v0.1.0 | Marek Skopal | Generate printable lithophane STL models from images. Library + CLI. |
-| 2026-11-22 20:01:29 | [type-lang/mapper-laravel](https://www.nuget.org/packages/type-lang%2Fmapper-laravel) | 2.0.0-beta8 |  | Laravel integration of the TypeLang mapper |
-| 2026-11-22 20:01:46 | [type-lang/mapper-symfony](https://www.nuget.org/packages/type-lang%2Fmapper-symfony) | 2.0.0-beta8 |  | Symfony integration of the TypeLang mapper |
+| 2026-11-22 20:25:48 | [delgraf/module-cart-item-image-fix](https://www.nuget.org/packages/delgraf%2Fmodule-cart-item-image-fix) | v1.0.0 | Delgraf | Restores the core data (product_id, ...) on Magento 2 cart item images replaced… |
+| 2026-11-22 20:26:03 | [denetorus/galaxy-validation](https://www.nuget.org/packages/denetorus%2Fgalaxy-validation) | v0.1.0 |  | Independent value validation and normalization with explicit type rules. |
+| 2026-11-22 20:27:34 | [thud/laravel](https://www.nuget.org/packages/thud%2Flaravel) | v0.1.0 |  | Catch Laravel jobs, scheduled commands and webhooks that report success but did… |
+| 2026-11-22 20:49:59 | [avdeb/kirby-avdeb](https://www.nuget.org/packages/avdeb%2Fkirby-avdeb) | 1.0.0 | AVDEB | Show AVDEB products (a creator's shop, a category, a search or a single product… |
+| 2026-11-22 21:15:53 | [ashenrayne/ar_docs](https://www.nuget.org/packages/ashenrayne%2Far_docs) | 1.0.1 |  | Hosts Ashen Rayne client docs at private links; recipients answer in any browse… |
 
 ## Data source
 

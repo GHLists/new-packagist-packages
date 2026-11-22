@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-22T20:25:48Z,delgraf/module-cart-item-image-fix,v1.0.0,Delgraf,"Restores the core data (product_id, ...) on Magento 2 cart item images replaced by third-party modules, e.g. MageWorx Advanced Product Options, fixing conflicts with modules such as Swissup ProLabels"
+2026-11-22T20:26:03Z,denetorus/galaxy-validation,v0.1.0,,Independent value validation and normalization with explicit type rules.
+2026-11-22T20:27:34Z,thud/laravel,v0.1.0,,"Catch Laravel jobs, scheduled commands and webhooks that report success but didn't do their work."
+2026-11-22T20:49:59Z,avdeb/kirby-avdeb,1.0.0,AVDEB,"Show AVDEB products (a creator's shop, a category, a search or a single product) on your Kirby site with your affiliate referral code on every link: KirbyTags, blocks with a live Panel preview, and PHP helpers."
+2026-11-22T21:15:53Z,ashenrayne/ar_docs,1.0.1,,Hosts Ashen Rayne client docs at private links; recipients answer in any browser and the answers save to the site.
