@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 17:21 UTC
+## Latest list — 2026-11-22 18:18 UTC
 
-New packages created between 2026-11-22 16:18 UTC and 2026-11-22 17:21 UTC.
+New packages created between 2026-11-22 17:21 UTC and 2026-11-22 18:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T17-21-03-856444Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T18-18-54-465958Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 16:32:21 | [richie314/simple-virtualfs](https://www.nuget.org/packages/richie314%2Fsimple-virtualfs) | v0.1.0 | Riccardo Ciucci | Virtual file locations with client-side encryption and PDF and image helpers |
-| 2026-11-22 16:50:38 | [davingm/argon](https://www.nuget.org/packages/davingm%2Fargon) | v1.0.0 | davingm | Laravel 12 starter with the Argon Dashboard and borrowing-system backend. |
-| 2026-11-22 16:54:27 | [ibrahim-sajib/laravel-approval-flow](https://www.nuget.org/packages/ibrahim-sajib%2Flaravel-approval-flow) | v0.1.0-beta | Ibrahim Sajib | Configurable multi-step approval workflows (sequential, parallel, optional appr… |
-| 2026-11-22 17:11:24 | [firasarafah/laronclad](https://www.nuget.org/packages/firasarafah%2Flaronclad) | v0.1.1-alpha | Firas Arafah | Runtime security sensor for Laravel: observes SQL queries and outbound requests… |
+| 2026-11-22 17:28:18 | [tournayrelabs/phpstan-rules](https://www.nuget.org/packages/tournayrelabs%2Fphpstan-rules) | v0.1.0 |  | PHPStan rules you can enable one by one through configuration |
+| 2026-11-22 17:45:31 | [silvershop-suite/food-information](https://www.nuget.org/packages/silvershop-suite%2Ffood-information) | 1.0.0 | Remy Vaartjes; SilverShop-Sui… | Food information for SilverShop (CMS 6), usable by any shop that sells food: an… |
+| 2026-11-22 17:47:09 | [adhir2099/initials-avatar](https://www.nuget.org/packages/adhir2099%2Finitials-avatar) | v1.0.0 | Adhir Serrano | Zero-dependency PHP 8.2+ initials avatar generator supporting SVG and GD PNG re… |
+| 2026-11-22 18:09:58 | [nwidart/metrics-store](https://www.nuget.org/packages/nwidart%2Fmetrics-store) | 0.1.1 | Nicolas Widart | Cross-process aggregation for OpenTelemetry metrics in shared-nothing PHP runti… |
 
 ## Data source
 

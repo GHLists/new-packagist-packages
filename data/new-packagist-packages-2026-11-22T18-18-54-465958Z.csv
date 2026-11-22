@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-22T17:28:18Z,tournayrelabs/phpstan-rules,v0.1.0,,PHPStan rules you can enable one by one through configuration
+2026-11-22T17:45:31Z,silvershop-suite/food-information,1.0.0,Remy Vaartjes; SilverShop-Suite Contributors,"Food information for SilverShop (CMS 6), usable by any shop that sells food: an allergen catalogue with per-country rule profiles (EU, UK, US, Canada, Australia/New Zealand, Japan, Codex), contains / may contain / free from per product, ingredients with allergens in bold, diet claims, label particu…"
+2026-11-22T17:47:09Z,adhir2099/initials-avatar,v1.0.0,Adhir Serrano,"Zero-dependency PHP 8.2+ initials avatar generator supporting SVG and GD PNG rendering, deterministic color palettes, WCAG auto-contrast, and full UTF-8 support."
+2026-11-22T18:09:58Z,nwidart/metrics-store,0.1.1,Nicolas Widart,Cross-process aggregation for OpenTelemetry metrics in shared-nothing PHP runtimes such as PHP-FPM.
