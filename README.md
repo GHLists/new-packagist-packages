@@ -15,18 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 19:18 UTC
+## Latest list — 2026-11-22 20:20 UTC
 
-New packages created between 2026-11-22 18:18 UTC and 2026-11-22 19:18 UTC.
+New packages created between 2026-11-22 19:18 UTC and 2026-11-22 20:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T19-18-43-947155Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T20-20-39-495028Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 18:20:08 | [firasarafah/laronclad](https://www.nuget.org/packages/firasarafah%2Flaronclad) | v0.1.2-alpha | Firas Arafah | Runtime security sensor for Laravel: observes SQL queries and outbound requests… |
-| 2026-11-22 19:00:10 | [crabphp/sentry](https://www.nuget.org/packages/crabphp%2Fsentry) | v0.1.0 |  | Error reporting for the Crab framework: errors the application logs, sent to Se… |
-| 2026-11-22 19:01:37 | [foresi/skeleton](https://www.nuget.org/packages/foresi%2Fskeleton) | v0.1.0 |  | The starting point of a Foresi application: an open-source business system for… |
-| 2026-11-22 19:03:48 | [shipswitch/shipswitch](https://www.nuget.org/packages/shipswitch%2Fshipswitch) | v0.1.0 | Arnaud Nicastro | PHP SDK for ShipSwitch feature flags |
+| 2026-11-22 19:18:46 | [hryvinskyi/magento2-admin-setup-wizard](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-admin-setup-wizard) | 1.0.0 | Volodymyr Hryvinskyi | A setup-wizard frame for the Magento admin: scopes, settings with inheritance a… |
+| 2026-11-22 19:24:46 | [hryvinskyi/magento2-json-template](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-json-template) | 1.0.0 | Volodymyr Hryvinskyi | Compiled JSON templates for Magento 2: a JSON document with {{ expressions }},… |
+| 2026-11-22 19:33:35 | [hryvinskyi/magento2-rich-snippets](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-rich-snippets) | 1.0.0 | Volodymyr Hryvinskyi | Rich snippets for Magento 2: JSON-LD blocks written as templates, placed by kin… |
+| 2026-11-22 19:47:08 | [agilisdating/agilis-ads](https://www.nuget.org/packages/agilisdating%2Fagilis-ads) | v0.1.0 | Agilis | Official PHP client for the Agilis Advertising REST API: Offers, Events and web… |
+| 2026-11-22 19:56:36 | [marekskopal/lithophane](https://www.nuget.org/packages/marekskopal%2Flithophane) | v0.1.0 | Marek Skopal | Generate printable lithophane STL models from images. Library + CLI. |
+| 2026-11-22 20:01:29 | [type-lang/mapper-laravel](https://www.nuget.org/packages/type-lang%2Fmapper-laravel) | 2.0.0-beta8 |  | Laravel integration of the TypeLang mapper |
+| 2026-11-22 20:01:46 | [type-lang/mapper-symfony](https://www.nuget.org/packages/type-lang%2Fmapper-symfony) | 2.0.0-beta8 |  | Symfony integration of the TypeLang mapper |
 
 ## Data source
 
