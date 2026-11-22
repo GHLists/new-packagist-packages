@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-22T08:25:57Z,datacircle/openai-php-tools,v0.1.0,Wayne Hamadi,"Find the best GTM APIs. Four function tools for the OpenAI PHP client, for chat and responses. The tools call Datacircle's public API. You need no API key."
+2026-11-22T08:43:23Z,qiick/laravel-outbound,v0.1.0,Qiick,SSRF-safe outbound HTTP and Standard Webhooks signing for qiick Laravel products.
+2026-11-22T08:51:31Z,fiberphp/snowflake,v0.1.0,PangBin,❄️ FiberPHP 雪花算法 ID 生成器 —— 64 位分布式唯一 ID，支持 Redis 租约自动分配 workerId、时钟回拨保护，零依赖。
+2026-11-22T08:51:36Z,fiberphp/uuid,v0.1.0,PangBin,🔢 FiberPHP UUID 组件 —— RFC 9562 规范，支持 v4 随机和 v7 时间排序生成，零依赖纯库。
+2026-11-22T08:59:47Z,fiberphp/encryption,v0.1.0,PangBin,🔐 FiberPHP 加密组件 —— AES-CBC/GCM 认证加密、bcrypt/argon2 密码哈希、HMAC 与 RSA 签名，零依赖纯库。
+2026-11-22T08:59:56Z,fiberphp/encryption-gm,v0.1.0,PangBin,🛡️ FiberPHP 国密加密 —— SM3/SM4 算法实现，符合国密标准，零框架依赖。
+2026-11-22T09:00:06Z,fiberphp/jwt,v0.1.0,PangBin,🎟️ FiberPHP JWT 组件 —— JSON Web Token 编解码，支持 HS256/384/512 与 RS256/384/512，声明验证，零依赖纯库。
+2026-11-22T09:01:10Z,meetmage/module-payment-script-guard,v1.0.0,Meet Shekhat,"PCI DSS 4.0.1 payment page script inventory (6.4.3) and tamper detection (11.6.1) for Magento 2, with Hyvä and Luma support."
+2026-11-22T09:02:22Z,courseexe/realtime,v1.0.0,Courseexe; Projectsly AI,Official PHP Server Publisher SDK for Courseexe Realtime Channels
