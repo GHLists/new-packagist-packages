@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-22T15:19:12Z,fiberphp/http,v0.1.0,PangBin,🌐 FiberPHP HTTP 子系统 —— 基于 Workerman 协议实现，支持请求/响应/中间件、协程管道、协程隔离。
+2026-11-22T15:23:12Z,effyads/laravel,v1.0.1,,"EffyAds advertisement sync, rendering and click/view tracking for Laravel applications"
+2026-11-22T15:25:00Z,fiberphp/router,v0.1.0,PangBin,🛣️ FiberPHP 路由器 —— 属性路由声明，支持中间件管道、控制器依赖注入、路由缓存、RESTful 约定。
+2026-11-22T15:41:16Z,himelali/urlkit,v1.0.0,Md. Himel Ali,"A modern, powerful and framework-independent PHP URL management toolkit with Static and Fluent APIs."
+2026-11-22T15:58:26Z,boctulus/simplerest-fine-grained-acl,v1.0.0,boctulus,Full equiped ACL for SimpleRest
+2026-11-22T16:04:14Z,boctulus/simplerest-basic-acl,v1.0.0,boctulus,Basic ACL for SimpleRest

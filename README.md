@@ -15,21 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 15:18 UTC
+## Latest list — 2026-11-22 16:18 UTC
 
-New packages created between 2026-11-22 14:20 UTC and 2026-11-22 15:18 UTC.
+New packages created between 2026-11-22 15:18 UTC and 2026-11-22 16:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T15-18-48-323335Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T16-18-33-462371Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 14:34:23 | [freebirds/apptagg-shop](https://www.nuget.org/packages/freebirds%2Fapptagg-shop) | v1.0.0 |  | Sell a Laravel shop's products in the Apptagg app: product sync, order import a… |
-| 2026-11-22 14:36:10 | [fiberphp/cache](https://www.nuget.org/packages/fiberphp%2Fcache) | v0.1.0 | PangBin | ⚡ PSR-16 缓存组件 —— Redis store（键前缀隔离、TTL 归一、NX 抢占）与多 store 静态门面。 |
-| 2026-11-22 14:46:23 | [nakanoaas/uuid58](https://www.nuget.org/packages/nakanoaas%2Fuuid58) | v0.1.2 |  | Shorten UUIDs to 22-character Base58 strings, and back. URL-safe, order-preserv… |
-| 2026-11-22 14:50:32 | [luany/pt](https://www.nuget.org/packages/luany%2Fpt) | v1.0.0 | António Ambrósio Ngola | Luany em Português — a API do framework Luany em português: Modelo, Consulta, E… |
-| 2026-11-22 15:01:49 | [fiberphp/framework](https://www.nuget.org/packages/fiberphp%2Fframework) | v0.1.0 | PangBin | 🚀 FiberPHP 框架核心 —— 应用生命周期编排、容器、配置、日志、控制台 CLI、环境变量、包发现、文件热重载与内存监控。 |
-| 2026-11-22 15:04:07 | [wsrv/client](https://www.nuget.org/packages/wsrv%2Fclient) | v0.1.0-rc.1 |  | PHP client for the wsrvd WebSocket sidecar (IPC protocol v0) and an embedded se… |
-| 2026-11-22 15:09:30 | [daun/statamic-tree-sync](https://www.nuget.org/packages/daun%2Fstatamic-tree-sync) | 1.0.0 | Philipp Daun | Keep the trees of collections and navigations in sync across Statamic sites |
+| 2026-11-22 15:19:12 | [fiberphp/http](https://www.nuget.org/packages/fiberphp%2Fhttp) | v0.1.0 | PangBin | 🌐 FiberPHP HTTP 子系统 —— 基于 Workerman 协议实现，支持请求/响应/中间件、协程管道、协程隔离。 |
+| 2026-11-22 15:23:12 | [effyads/laravel](https://www.nuget.org/packages/effyads%2Flaravel) | v1.0.1 |  | EffyAds advertisement sync, rendering and click/view tracking for Laravel appli… |
+| 2026-11-22 15:25:00 | [fiberphp/router](https://www.nuget.org/packages/fiberphp%2Frouter) | v0.1.0 | PangBin | 🛣️ FiberPHP 路由器 —— 属性路由声明，支持中间件管道、控制器依赖注入、路由缓存、RESTful 约定。 |
+| 2026-11-22 15:41:16 | [himelali/urlkit](https://www.nuget.org/packages/himelali%2Furlkit) | v1.0.0 | Md. Himel Ali | A modern, powerful and framework-independent PHP URL management toolkit with St… |
+| 2026-11-22 15:58:26 | [boctulus/simplerest-fine-grained-acl](https://www.nuget.org/packages/boctulus%2Fsimplerest-fine-grained-acl) | v1.0.0 | boctulus | Full equiped ACL for SimpleRest |
+| 2026-11-22 16:04:14 | [boctulus/simplerest-basic-acl](https://www.nuget.org/packages/boctulus%2Fsimplerest-basic-acl) | v1.0.0 | boctulus | Basic ACL for SimpleRest |
 
 ## Data source
 
