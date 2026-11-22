@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 05:20 UTC
+## Latest list — 2026-11-22 07:18 UTC
 
-New packages created between 2026-11-22 04:18 UTC and 2026-11-22 05:20 UTC.
+New packages created between 2026-11-22 06:20 UTC and 2026-11-22 07:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T05-20-40-298631Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T07-18-33-848246Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 04:32:51 | [datacircle/anthropic-tools](https://www.nuget.org/packages/datacircle%2Fanthropic-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. Four tools for the tool runner of the Anthropic PHP SDK… |
-| 2026-11-22 05:13:54 | [shipwelldev/afterburner](https://www.nuget.org/packages/shipwelldev%2Fafterburner) | v0.1 |  | Publishes Laravel application guidelines, skills, and project rules for coding… |
-| 2026-11-22 05:17:44 | [isud/tm](https://www.nuget.org/packages/isud%2Ftm) | 1.0.0 | isud-opensource | 优标宝开放 API PHP SDK：零第三方运行时依赖，基于 cURL，契约驱动 |
+| 2026-11-22 06:49:09 | [symfony/ux-upload](https://www.nuget.org/packages/symfony%2Fux-upload) | v3.8.0 | Simon André; Symfony Community | Direct and resumable file uploads for Symfony applications |
+| 2026-11-22 07:03:43 | [marqius/wkhtmltopdf](https://www.nuget.org/packages/marqius%2Fwkhtmltopdf) | 0.12.13 | Simple AI LLC | marqius-wkhtmltopdf, the maintained drop-in replacement for wkhtmltopdf, for Sn… |
 
 ## Data source
 

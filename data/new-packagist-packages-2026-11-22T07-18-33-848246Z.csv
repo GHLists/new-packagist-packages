@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-22T06:49:09Z,symfony/ux-upload,v3.8.0,Simon André; Symfony Community,Direct and resumable file uploads for Symfony applications
+2026-11-22T07:03:43Z,marqius/wkhtmltopdf,0.12.13,Simple AI LLC,"marqius-wkhtmltopdf, the maintained drop-in replacement for wkhtmltopdf, for Snappy, laravel-snappy, phpwkhtmltopdf, KnpSnappyBundle and CakePdf (commercial, 30-day trial)"
