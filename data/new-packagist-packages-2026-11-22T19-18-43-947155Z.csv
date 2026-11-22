@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-22T18:20:08Z,firasarafah/laronclad,v0.1.2-alpha,Firas Arafah,"Runtime security sensor for Laravel: observes SQL queries and outbound requests and logs suspicious patterns. Detection only, never blocks."
+2026-11-22T19:00:10Z,crabphp/sentry,v0.1.0,,"Error reporting for the Crab framework: errors the application logs, sent to Sentry or a Sentry-compatible tracker (Crab Trap, Harbor), with no SDK"
+2026-11-22T19:01:37Z,foresi/skeleton,v0.1.0,,The starting point of a Foresi application: an open-source business system for small firms.
+2026-11-22T19:03:48Z,shipswitch/shipswitch,v0.1.0,Arnaud Nicastro,PHP SDK for ShipSwitch feature flags

@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 18:18 UTC
+## Latest list — 2026-11-22 19:18 UTC
 
-New packages created between 2026-11-22 17:21 UTC and 2026-11-22 18:18 UTC.
+New packages created between 2026-11-22 18:18 UTC and 2026-11-22 19:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T18-18-54-465958Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T19-18-43-947155Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 17:28:18 | [tournayrelabs/phpstan-rules](https://www.nuget.org/packages/tournayrelabs%2Fphpstan-rules) | v0.1.0 |  | PHPStan rules you can enable one by one through configuration |
-| 2026-11-22 17:45:31 | [silvershop-suite/food-information](https://www.nuget.org/packages/silvershop-suite%2Ffood-information) | 1.0.0 | Remy Vaartjes; SilverShop-Sui… | Food information for SilverShop (CMS 6), usable by any shop that sells food: an… |
-| 2026-11-22 17:47:09 | [adhir2099/initials-avatar](https://www.nuget.org/packages/adhir2099%2Finitials-avatar) | v1.0.0 | Adhir Serrano | Zero-dependency PHP 8.2+ initials avatar generator supporting SVG and GD PNG re… |
-| 2026-11-22 18:09:58 | [nwidart/metrics-store](https://www.nuget.org/packages/nwidart%2Fmetrics-store) | 0.1.1 | Nicolas Widart | Cross-process aggregation for OpenTelemetry metrics in shared-nothing PHP runti… |
+| 2026-11-22 18:20:08 | [firasarafah/laronclad](https://www.nuget.org/packages/firasarafah%2Flaronclad) | v0.1.2-alpha | Firas Arafah | Runtime security sensor for Laravel: observes SQL queries and outbound requests… |
+| 2026-11-22 19:00:10 | [crabphp/sentry](https://www.nuget.org/packages/crabphp%2Fsentry) | v0.1.0 |  | Error reporting for the Crab framework: errors the application logs, sent to Se… |
+| 2026-11-22 19:01:37 | [foresi/skeleton](https://www.nuget.org/packages/foresi%2Fskeleton) | v0.1.0 |  | The starting point of a Foresi application: an open-source business system for… |
+| 2026-11-22 19:03:48 | [shipswitch/shipswitch](https://www.nuget.org/packages/shipswitch%2Fshipswitch) | v0.1.0 | Arnaud Nicastro | PHP SDK for ShipSwitch feature flags |
 
 ## Data source
 
