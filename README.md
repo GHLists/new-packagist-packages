@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 21:20 UTC
+## Latest list — 2026-11-22 22:19 UTC
 
-New packages created between 2026-11-22 20:20 UTC and 2026-11-22 21:20 UTC.
+New packages created between 2026-11-22 21:20 UTC and 2026-11-22 22:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T21-20-25-540979Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T22-19-52-820278Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 20:25:48 | [delgraf/module-cart-item-image-fix](https://www.nuget.org/packages/delgraf%2Fmodule-cart-item-image-fix) | v1.0.0 | Delgraf | Restores the core data (product_id, ...) on Magento 2 cart item images replaced… |
-| 2026-11-22 20:26:03 | [denetorus/galaxy-validation](https://www.nuget.org/packages/denetorus%2Fgalaxy-validation) | v0.1.0 |  | Independent value validation and normalization with explicit type rules. |
-| 2026-11-22 20:27:34 | [thud/laravel](https://www.nuget.org/packages/thud%2Flaravel) | v0.1.0 |  | Catch Laravel jobs, scheduled commands and webhooks that report success but did… |
-| 2026-11-22 20:49:59 | [avdeb/kirby-avdeb](https://www.nuget.org/packages/avdeb%2Fkirby-avdeb) | 1.0.0 | AVDEB | Show AVDEB products (a creator's shop, a category, a search or a single product… |
-| 2026-11-22 21:15:53 | [ashenrayne/ar_docs](https://www.nuget.org/packages/ashenrayne%2Far_docs) | 1.0.1 |  | Hosts Ashen Rayne client docs at private links; recipients answer in any browse… |
+| 2026-11-22 21:34:09 | [foresi/vat](https://www.nuget.org/packages/foresi%2Fvat) | v0.9.29 |  | The VAT of the firm: its VAT periods with the due dates from the country's rule… |
+| 2026-11-22 21:53:01 | [delgraf/module-seo-html-sitemap-tree](https://www.nuget.org/packages/delgraf%2Fmodule-seo-html-sitemap-tree) | v1.0.0 | Delgraf | Hierarchical, collapsible tree view for the Swissup SEO HTML Sitemap on Magento… |
+| 2026-11-22 21:57:00 | [foresi/activities](https://www.nuget.org/packages/foresi%2Factivities) | v0.9.29 |  | Meetings, calls, notes and tasks logged or planned on any record, on its timeli… |
+| 2026-11-22 22:03:11 | [jenswittmann/kirby-jolitypo](https://www.nuget.org/packages/jenswittmann%2Fkirby-jolitypo) | v0.1.0 | Jens Wittmann | Microtypography for Kirby: JoliTypo as a field and blocks method (quotes, dashe… |
 
 ## Data source
 

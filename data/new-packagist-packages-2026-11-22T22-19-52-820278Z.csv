@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-22T21:34:09Z,foresi/vat,v0.9.29,,"The VAT of the firm: its VAT periods with the due dates from the country's rules, and where it pays its VAT."
+2026-11-22T21:53:01Z,delgraf/module-seo-html-sitemap-tree,v1.0.0,Delgraf,"Hierarchical, collapsible tree view for the Swissup SEO HTML Sitemap on Magento 2: nested categories, optional products inside their categories, no changes to the Swissup module"
+2026-11-22T21:57:00Z,foresi/activities,v0.9.29,,"Meetings, calls, notes and tasks logged or planned on any record, on its timeline and in the calendar."
+2026-11-22T22:03:11Z,jenswittmann/kirby-jolitypo,v0.1.0,Jens Wittmann,"Microtypography for Kirby: JoliTypo as a field and blocks method (quotes, dashes, ellipsis, no-break spaces between numbers and units)."
