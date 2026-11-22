@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-22T11:32:55Z,raj5852/hello-world,v1.0.0,,A test package
+2026-11-22T11:34:58Z,smstunnel/flarum-sms,v1.0.0,NARBOWEB SRL,"Text alerts for your Flarum staff, and opt-in reply and mention texts for members, sent from your own Android phone with SMSTunnel."
+2026-11-22T11:41:38Z,datacircle/mcp-tools,v0.1.0,Wayne Hamadi,Find the best GTM APIs. This package adds four tools to an MCP server that uses the MCP PHP SDK. The tools call Datacircle's public API. You need no API key.
+2026-11-22T12:11:38Z,esoul-cz/coding-standard,v0.1.0,,Shared PHP-CS-Fixer ruleset for eSoul PHP projects.

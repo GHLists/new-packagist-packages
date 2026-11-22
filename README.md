@@ -15,21 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 11:19 UTC
+## Latest list — 2026-11-22 12:19 UTC
 
-New packages created between 2026-11-22 10:21 UTC and 2026-11-22 11:19 UTC.
+New packages created between 2026-11-22 11:19 UTC and 2026-11-22 12:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T11-19-34-635895Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T12-19-40-536267Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 10:28:50 | [ibexa/agent-platform-api](https://www.nuget.org/packages/ibexa%2Fagent-platform-api) | v1.0.0-beta4 | Ibexa R&D | PHP client for the Ibexa Agentic Marketing Platform REST API |
-| 2026-11-22 10:31:42 | [fiberphp/container](https://www.nuget.org/packages/fiberphp%2Fcontainer) | v0.1.0 | PangBin | 🚀 FiberPHP IoC 服务容器 —— PSR-11 实现，支持绑定/单例/上下文绑定、延迟加载、构造参数自动装配与 #[Inject] 属性注入。 |
-| 2026-11-22 10:40:36 | [contractlayer/econtract-laravel](https://www.nuget.org/packages/contractlayer%2Fecontract-laravel) | v0.1.2 |  | Laravel integration of eContract e-signatures: provider interface, webhook veri… |
-| 2026-11-22 10:55:07 | [fiberphp/context](https://www.nuget.org/packages/fiberphp%2Fcontext) | v0.1.0 | PangBin | 🧵 FiberPHP 请求级上下文容器 —— 基于 Workerman Coroutine 上下文、Fiber 隔离、销毁回调（onDestroy）。 |
-| 2026-11-22 11:09:51 | [fiberphp/manifest](https://www.nuget.org/packages/fiberphp%2Fmanifest) | v0.1.0 | PangBin | FiberPHP 包发现清单——扫描 vendor/composer/installed.json 的 extra.fiberphp 声明，汇总 middle… |
-| 2026-11-22 11:09:53 | [fiberphp/pipeline](https://www.nuget.org/packages/fiberphp%2Fpipeline) | v0.1.0 | PangBin | 🔗 FiberPHP 洋葱模型管道构造器 —— 零依赖的中间件管线核心。 |
-| 2026-11-22 11:09:55 | [fiberphp/provider](https://www.nuget.org/packages/fiberphp%2Fprovider) | v0.1.0 | PangBin | FiberPHP 服务提供者基类 —— register/boot/bootAfter 生命周期钩子、critical/network/bootTimeout… |
+| 2026-11-22 11:32:55 | [raj5852/hello-world](https://www.nuget.org/packages/raj5852%2Fhello-world) | v1.0.0 |  | A test package |
+| 2026-11-22 11:34:58 | [smstunnel/flarum-sms](https://www.nuget.org/packages/smstunnel%2Fflarum-sms) | v1.0.0 | NARBOWEB SRL | Text alerts for your Flarum staff, and opt-in reply and mention texts for membe… |
+| 2026-11-22 11:41:38 | [datacircle/mcp-tools](https://www.nuget.org/packages/datacircle%2Fmcp-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. This package adds four tools to an MCP server that uses… |
+| 2026-11-22 12:11:38 | [esoul-cz/coding-standard](https://www.nuget.org/packages/esoul-cz%2Fcoding-standard) | v0.1.0 |  | Shared PHP-CS-Fixer ruleset for eSoul PHP projects. |
 
 ## Data source
 
