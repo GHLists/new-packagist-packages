@@ -15,18 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 12:19 UTC
+## Latest list — 2026-11-22 13:20 UTC
 
-New packages created between 2026-11-22 11:19 UTC and 2026-11-22 12:19 UTC.
+New packages created between 2026-11-22 12:19 UTC and 2026-11-22 13:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T12-19-40-536267Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T13-20-47-613421Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 11:32:55 | [raj5852/hello-world](https://www.nuget.org/packages/raj5852%2Fhello-world) | v1.0.0 |  | A test package |
-| 2026-11-22 11:34:58 | [smstunnel/flarum-sms](https://www.nuget.org/packages/smstunnel%2Fflarum-sms) | v1.0.0 | NARBOWEB SRL | Text alerts for your Flarum staff, and opt-in reply and mention texts for membe… |
-| 2026-11-22 11:41:38 | [datacircle/mcp-tools](https://www.nuget.org/packages/datacircle%2Fmcp-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. This package adds four tools to an MCP server that uses… |
-| 2026-11-22 12:11:38 | [esoul-cz/coding-standard](https://www.nuget.org/packages/esoul-cz%2Fcoding-standard) | v0.1.0 |  | Shared PHP-CS-Fixer ruleset for eSoul PHP projects. |
+| 2026-11-22 12:26:22 | [sunder6218/laravel-crate.io](https://www.nuget.org/packages/sunder6218%2Flaravel-crate.io) | v14.1.0 | Sunder S | Crate.io driver for Laravel |
+| 2026-11-22 12:37:17 | [datacircle/laravel-mcp-tools](https://www.nuget.org/packages/datacircle%2Flaravel-mcp-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. Four Laravel MCP tools call Datacircle's public API. Yo… |
+| 2026-11-22 12:40:17 | [sunder6218/html](https://www.nuget.org/packages/sunder6218%2Fhtml) | v6.5.0 | Sunder S | HTML and Form Builders for the Laravel Framework |
+| 2026-11-22 12:46:17 | [sunder6218/adldap2-laravel](https://www.nuget.org/packages/sunder6218%2Fadldap2-laravel) | v6.2.0 |  | LDAP Authentication & Management for Laravel. |
+| 2026-11-22 12:48:42 | [survos/ai-embed-bundle](https://www.nuget.org/packages/survos%2Fai-embed-bundle) | 2.45.83 |  | Model-aware embedding requests, reusable vector caches and document embedding w… |
+| 2026-11-22 12:52:47 | [sunder6218/adldap2](https://www.nuget.org/packages/sunder6218%2Fadldap2) | v10.6.0 | Sunder | A PHP LDAP Package for humans. |
+| 2026-11-22 13:00:36 | [oe2i/panda](https://www.nuget.org/packages/oe2i%2Fpanda) | v1.0.0 | Anthony Osawere; oe2i | Opinionated Laravel 13 + Livewire 4 + Flux UI starter kit. |
+| 2026-11-22 13:01:05 | [fiberphp/redis](https://www.nuget.org/packages/fiberphp%2Fredis) | v0.1.0 | PangBin | 🔴 Redis 协程客户端 —— 基于 Workerman 连接池与 phpredis，多连接池化、协程内复用、协程结束自动归还。 |
+| 2026-11-22 13:02:55 | [zimmer-yan/open-sentinel](https://www.nuget.org/packages/zimmer-yan%2Fopen-sentinel) | 0.1.0 |  | Simple open source sentry alternative |
+| 2026-11-22 13:16:10 | [nwidart/laravel-actuator](https://www.nuget.org/packages/nwidart%2Flaravel-actuator) | 1.0.0 | Nicolas Widart | Production-ready monitoring endpoints for Laravel, modelled on Spring Boot Actu… |
 
 ## Data source
 

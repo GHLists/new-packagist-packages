@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-22T12:26:22Z,sunder6218/laravel-crate.io,v14.1.0,Sunder S,Crate.io driver for Laravel
+2026-11-22T12:37:17Z,datacircle/laravel-mcp-tools,v0.1.0,Wayne Hamadi,Find the best GTM APIs. Four Laravel MCP tools call Datacircle's public API. You need no API key.
+2026-11-22T12:40:17Z,sunder6218/html,v6.5.0,Sunder S,HTML and Form Builders for the Laravel Framework
+2026-11-22T12:46:17Z,sunder6218/adldap2-laravel,v6.2.0,,LDAP Authentication & Management for Laravel.
+2026-11-22T12:48:42Z,survos/ai-embed-bundle,2.45.83,,"Model-aware embedding requests, reusable vector caches and document embedding workflows for Symfony."
+2026-11-22T12:52:47Z,sunder6218/adldap2,v10.6.0,Sunder,A PHP LDAP Package for humans.
+2026-11-22T13:00:36Z,oe2i/panda,v1.0.0,Anthony Osawere; oe2i,Opinionated Laravel 13 + Livewire 4 + Flux UI starter kit.
+2026-11-22T13:01:05Z,fiberphp/redis,v0.1.0,PangBin,🔴 Redis 协程客户端 —— 基于 Workerman 连接池与 phpredis，多连接池化、协程内复用、协程结束自动归还。
+2026-11-22T13:02:55Z,zimmer-yan/open-sentinel,0.1.0,,Simple open source sentry alternative
+2026-11-22T13:16:10Z,nwidart/laravel-actuator,1.0.0,Nicolas Widart,"Production-ready monitoring endpoints for Laravel, modelled on Spring Boot Actuator."
