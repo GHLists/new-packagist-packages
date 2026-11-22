@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 03:19 UTC
+## Latest list — 2026-11-22 04:18 UTC
 
-New packages created between 2026-11-22 02:18 UTC and 2026-11-22 03:19 UTC.
+New packages created between 2026-11-22 03:19 UTC and 2026-11-22 04:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T03-19-13-630163Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T04-18-44-876517Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 02:20:57 | [goletter/hyperf-asset](https://www.nuget.org/packages/goletter%2Fhyperf-asset) | v1.0.0 | goletter | Strict multi-channel asset ledger for Hyperf: fixed pipeline + ChannelInterface… |
-| 2026-11-22 02:37:44 | [dev1/pey-laravel](https://www.nuget.org/packages/dev1%2Fpey-laravel) | v0.1.0 | DEV1 Softworks Labs | Unofficial Laravel integration for the Pey API (CoDi payments, Mexico). Not aff… |
+| 2026-11-22 03:26:21 | [aliu-zhongzheng/laravel-compat](https://www.nuget.org/packages/aliu-zhongzheng%2Flaravel-compat) | v0.1.1 |  | Static compatibility audit for legacy Laravel/PHP projects: PHPCompatibility fi… |
+| 2026-11-22 03:47:27 | [browshot-php/browshot](https://www.nuget.org/packages/browshot-php%2Fbrowshot) | v1.32.0 | Julien Sobrier | PHP library for Browshot API: take screenshots of any web page |
 
 ## Data source
 

@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-22T03:26:21Z,aliu-zhongzheng/laravel-compat,v0.1.1,,Static compatibility audit for legacy Laravel/PHP projects: PHPCompatibility findings aggregated into a human-readable report.
+2026-11-22T03:47:27Z,browshot-php/browshot,v1.32.0,Julien Sobrier,PHP library for Browshot API: take screenshots of any web page
