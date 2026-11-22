@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 00:19 UTC
+## Latest list — 2026-11-22 01:20 UTC
 
-New packages created between 2026-11-21 23:18 UTC and 2026-11-22 00:19 UTC.
+New packages created between 2026-11-22 00:19 UTC and 2026-11-22 01:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T00-19-20-603633Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T01-20-06-342121Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-21 23:24:18 | [j4kim/laravel-vue-starter](https://www.nuget.org/packages/j4kim%2Flaravel-vue-starter) | v1.0.0 |  | Fork of laravel/laravel with personal defaults |
+| 2026-11-22 00:31:58 | [atannex/desk-deploy](https://www.nuget.org/packages/atannex%2Fdesk-deploy) | v1.0.1 | Atannex Enterprise | Universal Laravel deployment engine: atomic releases on VPS servers, in-place d… |
 
 ## Data source
 

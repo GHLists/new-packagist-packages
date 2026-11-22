@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-22T00:31:58Z,atannex/desk-deploy,v1.0.1,Atannex Enterprise,"Universal Laravel deployment engine: atomic releases on VPS servers, in-place deployments to shared hosting over SFTP/FTPS, Git deployments, local and CI builds, artifacts, rollbacks and health checks."
