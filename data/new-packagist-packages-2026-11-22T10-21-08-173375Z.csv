@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-22T09:50:27Z,mtm4web/zatca-phase2-tlv-qr,v1.0.0,MTM4WEB,Zero-dependency PHP 8.2+ & Laravel helper for ZATCA Phase 2 TLV Base64 QR code generation (Saudi e-Invoicing).
+2026-11-22T10:10:13Z,dzbuild/dzship,v1.3.0,DZBuild,"PHP client for dzship, the free shipping API for Algeria: create and track COD parcels with 101 couriers (Yalidine, ZR Express, Maystro, NOEST, Osen Express, DHD and every Ecotrack courier) through one request shape."
+2026-11-22T10:20:15Z,fiberphp/config,v0.1.0,PangBin,⚙️ FiberPHP 配置仓库与 .env 加载 —— 点号键只读配置、目录递归合并、.env 级联加载的零依赖纯库。
