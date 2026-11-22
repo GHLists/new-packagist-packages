@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-22T02:20:57Z,goletter/hyperf-asset,v1.0.0,goletter,Strict multi-channel asset ledger for Hyperf: fixed pipeline + ChannelInterface + ActionParser DSL.
+2026-11-22T02:37:44Z,dev1/pey-laravel,v0.1.0,DEV1 Softworks Labs,"Unofficial Laravel integration for the Pey API (CoDi payments, Mexico). Not affiliated with Pey or Banco de México."

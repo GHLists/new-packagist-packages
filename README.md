@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 02:18 UTC
+## Latest list — 2026-11-22 03:19 UTC
 
-New packages created between 2026-11-22 01:20 UTC and 2026-11-22 02:18 UTC.
+New packages created between 2026-11-22 02:18 UTC and 2026-11-22 03:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T02-18-42-562576Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T03-19-13-630163Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 02:08:14 | [js-upup/palette-css-export](https://www.nuget.org/packages/js-upup%2Fpalette-css-export) | v0.1.0 |  | Export an ordered RGB palette as CSS custom properties. |
-| 2026-11-22 02:09:49 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.45.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-22 02:20:57 | [goletter/hyperf-asset](https://www.nuget.org/packages/goletter%2Fhyperf-asset) | v1.0.0 | goletter | Strict multi-channel asset ledger for Hyperf: fixed pipeline + ChannelInterface… |
+| 2026-11-22 02:37:44 | [dev1/pey-laravel](https://www.nuget.org/packages/dev1%2Fpey-laravel) | v0.1.0 | DEV1 Softworks Labs | Unofficial Laravel integration for the Pey API (CoDi payments, Mexico). Not aff… |
 
 ## Data source
 
