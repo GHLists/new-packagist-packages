@@ -15,17 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 10:21 UTC
+## Latest list — 2026-11-22 11:19 UTC
 
-New packages created between 2026-11-22 09:21 UTC and 2026-11-22 10:21 UTC.
+New packages created between 2026-11-22 10:21 UTC and 2026-11-22 11:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T10-21-08-173375Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T11-19-34-635895Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 09:50:27 | [mtm4web/zatca-phase2-tlv-qr](https://www.nuget.org/packages/mtm4web%2Fzatca-phase2-tlv-qr) | v1.0.0 | MTM4WEB | Zero-dependency PHP 8.2+ & Laravel helper for ZATCA Phase 2 TLV Base64 QR code… |
-| 2026-11-22 10:10:13 | [dzbuild/dzship](https://www.nuget.org/packages/dzbuild%2Fdzship) | v1.3.0 | DZBuild | PHP client for dzship, the free shipping API for Algeria: create and track COD… |
-| 2026-11-22 10:20:15 | [fiberphp/config](https://www.nuget.org/packages/fiberphp%2Fconfig) | v0.1.0 | PangBin | ⚙️ FiberPHP 配置仓库与 .env 加载 —— 点号键只读配置、目录递归合并、.env 级联加载的零依赖纯库。 |
+| 2026-11-22 10:28:50 | [ibexa/agent-platform-api](https://www.nuget.org/packages/ibexa%2Fagent-platform-api) | v1.0.0-beta4 | Ibexa R&D | PHP client for the Ibexa Agentic Marketing Platform REST API |
+| 2026-11-22 10:31:42 | [fiberphp/container](https://www.nuget.org/packages/fiberphp%2Fcontainer) | v0.1.0 | PangBin | 🚀 FiberPHP IoC 服务容器 —— PSR-11 实现，支持绑定/单例/上下文绑定、延迟加载、构造参数自动装配与 #[Inject] 属性注入。 |
+| 2026-11-22 10:40:36 | [contractlayer/econtract-laravel](https://www.nuget.org/packages/contractlayer%2Fecontract-laravel) | v0.1.2 |  | Laravel integration of eContract e-signatures: provider interface, webhook veri… |
+| 2026-11-22 10:55:07 | [fiberphp/context](https://www.nuget.org/packages/fiberphp%2Fcontext) | v0.1.0 | PangBin | 🧵 FiberPHP 请求级上下文容器 —— 基于 Workerman Coroutine 上下文、Fiber 隔离、销毁回调（onDestroy）。 |
+| 2026-11-22 11:09:51 | [fiberphp/manifest](https://www.nuget.org/packages/fiberphp%2Fmanifest) | v0.1.0 | PangBin | FiberPHP 包发现清单——扫描 vendor/composer/installed.json 的 extra.fiberphp 声明，汇总 middle… |
+| 2026-11-22 11:09:53 | [fiberphp/pipeline](https://www.nuget.org/packages/fiberphp%2Fpipeline) | v0.1.0 | PangBin | 🔗 FiberPHP 洋葱模型管道构造器 —— 零依赖的中间件管线核心。 |
+| 2026-11-22 11:09:55 | [fiberphp/provider](https://www.nuget.org/packages/fiberphp%2Fprovider) | v0.1.0 | PangBin | FiberPHP 服务提供者基类 —— register/boot/bootAfter 生命周期钩子、critical/network/bootTimeout… |
 
 ## Data source
 

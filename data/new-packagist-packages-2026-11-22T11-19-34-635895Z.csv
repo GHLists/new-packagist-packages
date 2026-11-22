@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-22T10:28:50Z,ibexa/agent-platform-api,v1.0.0-beta4,Ibexa R&D,PHP client for the Ibexa Agentic Marketing Platform REST API
+2026-11-22T10:31:42Z,fiberphp/container,v0.1.0,PangBin,🚀 FiberPHP IoC 服务容器 —— PSR-11 实现，支持绑定/单例/上下文绑定、延迟加载、构造参数自动装配与 #[Inject] 属性注入。
+2026-11-22T10:40:36Z,contractlayer/econtract-laravel,v0.1.2,,"Laravel integration of eContract e-signatures: provider interface, webhook verification, signed PDF download"
+2026-11-22T10:55:07Z,fiberphp/context,v0.1.0,PangBin,🧵 FiberPHP 请求级上下文容器 —— 基于 Workerman Coroutine 上下文、Fiber 隔离、销毁回调（onDestroy）。
+2026-11-22T11:09:51Z,fiberphp/manifest,v0.1.0,PangBin,FiberPHP 包发现清单——扫描 vendor/composer/installed.json 的 extra.fiberphp 声明，汇总 middleware/commands/providers/aliases/pathRelation，带缓存指纹与原子写入。
+2026-11-22T11:09:53Z,fiberphp/pipeline,v0.1.0,PangBin,🔗 FiberPHP 洋葱模型管道构造器 —— 零依赖的中间件管线核心。
+2026-11-22T11:09:55Z,fiberphp/provider,v0.1.0,PangBin,FiberPHP 服务提供者基类 —— register/boot/bootAfter 生命周期钩子、critical/network/bootTimeout 调度元数据、singleton 便捷绑定。
