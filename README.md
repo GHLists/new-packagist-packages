@@ -15,24 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 13:20 UTC
+## Latest list — 2026-11-22 14:20 UTC
 
-New packages created between 2026-11-22 12:19 UTC and 2026-11-22 13:20 UTC.
+New packages created between 2026-11-22 13:20 UTC and 2026-11-22 14:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T13-20-47-613421Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T14-20-42-891309Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 12:26:22 | [sunder6218/laravel-crate.io](https://www.nuget.org/packages/sunder6218%2Flaravel-crate.io) | v14.1.0 | Sunder S | Crate.io driver for Laravel |
-| 2026-11-22 12:37:17 | [datacircle/laravel-mcp-tools](https://www.nuget.org/packages/datacircle%2Flaravel-mcp-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. Four Laravel MCP tools call Datacircle's public API. Yo… |
-| 2026-11-22 12:40:17 | [sunder6218/html](https://www.nuget.org/packages/sunder6218%2Fhtml) | v6.5.0 | Sunder S | HTML and Form Builders for the Laravel Framework |
-| 2026-11-22 12:46:17 | [sunder6218/adldap2-laravel](https://www.nuget.org/packages/sunder6218%2Fadldap2-laravel) | v6.2.0 |  | LDAP Authentication & Management for Laravel. |
-| 2026-11-22 12:48:42 | [survos/ai-embed-bundle](https://www.nuget.org/packages/survos%2Fai-embed-bundle) | 2.45.83 |  | Model-aware embedding requests, reusable vector caches and document embedding w… |
-| 2026-11-22 12:52:47 | [sunder6218/adldap2](https://www.nuget.org/packages/sunder6218%2Fadldap2) | v10.6.0 | Sunder | A PHP LDAP Package for humans. |
-| 2026-11-22 13:00:36 | [oe2i/panda](https://www.nuget.org/packages/oe2i%2Fpanda) | v1.0.0 | Anthony Osawere; oe2i | Opinionated Laravel 13 + Livewire 4 + Flux UI starter kit. |
-| 2026-11-22 13:01:05 | [fiberphp/redis](https://www.nuget.org/packages/fiberphp%2Fredis) | v0.1.0 | PangBin | 🔴 Redis 协程客户端 —— 基于 Workerman 连接池与 phpredis，多连接池化、协程内复用、协程结束自动归还。 |
-| 2026-11-22 13:02:55 | [zimmer-yan/open-sentinel](https://www.nuget.org/packages/zimmer-yan%2Fopen-sentinel) | 0.1.0 |  | Simple open source sentry alternative |
-| 2026-11-22 13:16:10 | [nwidart/laravel-actuator](https://www.nuget.org/packages/nwidart%2Flaravel-actuator) | 1.0.0 | Nicolas Widart | Production-ready monitoring endpoints for Laravel, modelled on Spring Boot Actu… |
+| 2026-11-22 13:26:25 | [fiberphp/helper](https://www.nuget.org/packages/fiberphp%2Fhelper) | v0.1.0 | PangBin | 🧰 FiberPHP 通用工具集 —— Arr / Str / Collection 与全局助手函数。 |
+| 2026-11-22 13:30:50 | [fiberphp/event](https://www.nuget.org/packages/fiberphp%2Fevent) | v0.1.0 | PangBin | 📡 FiberPHP 事件调度器 —— PSR-14 标准实现（EventDispatcher + ListenerProvider）。 |
+| 2026-11-22 13:36:19 | [daryl-peterson/librenms-device-path](https://www.nuget.org/packages/daryl-peterson%2Flibrenms-device-path) | v0.0.1-alpha | daryl-peterson | LibreNMS Plugin for showing device path under the device view |
+| 2026-11-22 13:43:25 | [fiberphp/validate](https://www.nuget.org/packages/fiberphp%2Fvalidate) | v0.1.0 | PangBin | ✅ FiberPHP 数据验证 —— 多规则链式验证，支持内置规则与自定义扩展。 |
+| 2026-11-22 13:45:36 | [tmonier/sylius-platform-health-plugin](https://www.nuget.org/packages/tmonier%2Fsylius-platform-health-plugin) | v0.1.0 | Thibaut Monier | Platform health for Sylius 2: a probe contract that integrators implement in a… |
+| 2026-11-22 13:51:47 | [nowo-tech/report-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Freport-kit-bundle) | v0.1.0 | Héctor Franco Aceituno; Nowo.… | Reports and scheduled exports for Symfony: report types with parameter schemas,… |
+| 2026-11-22 14:05:36 | [fiberphp/console](https://www.nuget.org/packages/fiberphp%2Fconsole) | v0.1.0 | PangBin | ⌨️ FiberPHP 控制台引擎 —— 命令注册与分发、argv 解析、ANSI 输出格式化、交互问答与表格输出。 |
+| 2026-11-22 14:13:33 | [fiberphp/exception](https://www.nuget.org/packages/fiberphp%2Fexception) | v0.1.0 | PangBin | 🛡️ FiberPHP 异常处理 —— ExceptionHandler 接口、框架异常基类、默认 Handler 实现，支持 HTTP/Console/RP… |
 
 ## Data source
 

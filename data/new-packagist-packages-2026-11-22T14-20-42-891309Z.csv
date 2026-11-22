@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-22T13:26:25Z,fiberphp/helper,v0.1.0,PangBin,🧰 FiberPHP 通用工具集 —— Arr / Str / Collection 与全局助手函数。
+2026-11-22T13:30:50Z,fiberphp/event,v0.1.0,PangBin,📡 FiberPHP 事件调度器 —— PSR-14 标准实现（EventDispatcher + ListenerProvider）。
+2026-11-22T13:36:19Z,daryl-peterson/librenms-device-path,v0.0.1-alpha,daryl-peterson,LibreNMS Plugin for showing device path under the device view
+2026-11-22T13:43:25Z,fiberphp/validate,v0.1.0,PangBin,✅ FiberPHP 数据验证 —— 多规则链式验证，支持内置规则与自定义扩展。
+2026-11-22T13:45:36Z,tmonier/sylius-platform-health-plugin,v0.1.0,Thibaut Monier,Platform health for Sylius 2: a probe contract that integrators implement in a few lines and a runner that a faulty probe can never break
+2026-11-22T13:51:47Z,nowo-tech/report-kit-bundle,v0.1.0,Héctor Franco Aceituno; Nowo.tech,"Reports and scheduled exports for Symfony: report types with parameter schemas, PDF / XLSX / CSV / JSON renderers, server-side SVG charts, on-screen report pages and per-owner scheduled e-mail subscriptions."
+2026-11-22T14:05:36Z,fiberphp/console,v0.1.0,PangBin,⌨️ FiberPHP 控制台引擎 —— 命令注册与分发、argv 解析、ANSI 输出格式化、交互问答与表格输出。
+2026-11-22T14:13:33Z,fiberphp/exception,v0.1.0,PangBin,🛡️ FiberPHP 异常处理 —— ExceptionHandler 接口、框架异常基类、默认 Handler 实现，支持 HTTP/Console/RPC 三种上下文渲染。
