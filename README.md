@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 04:18 UTC
+## Latest list — 2026-11-22 05:20 UTC
 
-New packages created between 2026-11-22 03:19 UTC and 2026-11-22 04:18 UTC.
+New packages created between 2026-11-22 04:18 UTC and 2026-11-22 05:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T04-18-44-876517Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-22T05-20-40-298631Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 03:26:21 | [aliu-zhongzheng/laravel-compat](https://www.nuget.org/packages/aliu-zhongzheng%2Flaravel-compat) | v0.1.1 |  | Static compatibility audit for legacy Laravel/PHP projects: PHPCompatibility fi… |
-| 2026-11-22 03:47:27 | [browshot-php/browshot](https://www.nuget.org/packages/browshot-php%2Fbrowshot) | v1.32.0 | Julien Sobrier | PHP library for Browshot API: take screenshots of any web page |
+| 2026-11-22 04:32:51 | [datacircle/anthropic-tools](https://www.nuget.org/packages/datacircle%2Fanthropic-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. Four tools for the tool runner of the Anthropic PHP SDK… |
+| 2026-11-22 05:13:54 | [shipwelldev/afterburner](https://www.nuget.org/packages/shipwelldev%2Fafterburner) | v0.1 |  | Publishes Laravel application guidelines, skills, and project rules for coding… |
+| 2026-11-22 05:17:44 | [isud/tm](https://www.nuget.org/packages/isud%2Ftm) | 1.0.0 | isud-opensource | 优标宝开放 API PHP SDK：零第三方运行时依赖，基于 cURL，契约驱动 |
 
 ## Data source
 

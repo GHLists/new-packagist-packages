@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-22T04:32:51Z,datacircle/anthropic-tools,v0.1.0,Wayne Hamadi,Find the best GTM APIs. Four tools for the tool runner of the Anthropic PHP SDK. The tools call Datacircle's public API. You need no API key.
+2026-11-22T05:13:54Z,shipwelldev/afterburner,v0.1,,"Publishes Laravel application guidelines, skills, and project rules for coding agents without an MCP server."
+2026-11-22T05:17:44Z,isud/tm,1.0.0,isud-opensource,优标宝开放 API PHP SDK：零第三方运行时依赖，基于 cURL，契约驱动
