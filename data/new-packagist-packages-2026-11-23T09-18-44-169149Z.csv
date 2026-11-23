@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-23T08:48:35Z,mattmy/laravel-attribute-mapper,v0.1.0,,Map validated Laravel Form Request fields to fillable Eloquent attributes using naming rules and aliases.

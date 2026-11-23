@@ -15,16 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 08:20 UTC
+## Latest list — 2026-11-23 09:18 UTC
 
-New packages created between 2026-11-23 07:20 UTC and 2026-11-23 08:20 UTC.
+New packages created between 2026-11-23 08:20 UTC and 2026-11-23 09:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-23T08-20-16-886593Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-23T09-18-44-169149Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-23 07:23:56 | [php-concept/component-auth-api-token](https://www.nuget.org/packages/php-concept%2Fcomponent-auth-api-token) | v1.0.0 |  | Concept component — Bearer API token authentication scaffold |
-| 2026-11-23 07:59:07 | [dmsandhika/ocr-client](https://www.nuget.org/packages/dmsandhika%2Focr-client) | v1.0.1 | dmsandhika | Official PHP Client SDK for OCR Service (KTP, MyKad IC, Passport, and Receipts) |
+| 2026-11-23 08:48:35 | [mattmy/laravel-attribute-mapper](https://www.nuget.org/packages/mattmy%2Flaravel-attribute-mapper) | v0.1.0 |  | Map validated Laravel Form Request fields to fillable Eloquent attributes using… |
 
 ## Data source
 
