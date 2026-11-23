@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-11-23T16:30:35Z,mockcard/mockcard-php,v2.0.0,Arixeva Labs,"MockCard SDK for PHP: chaos runs in CI, payment webhook checks and the production probe guard."
+2026-11-23T16:30:40Z,davereid/drush-helper,v0.1.0,,Helpful Drush commands.
+2026-11-23T16:32:12Z,pharaonic/laravel-api-versioning,13.0.2,Moamen Eltouny (Raggi),"Laravel-native API versioning: version groups and constraints on Route, header, query and path resolution, version-specific controllers, and versioned JSON resources."
+2026-11-23T16:35:42Z,youmad/endurance-route-fit,v0.1.0,,Streaming FIT Course validation and staged Endurance Route mapping
+2026-11-23T16:35:45Z,youmad/endurance-route-gpx,v0.1.0,,Selected GPX recorded track geometry for immutable Endurance Route revisions
+2026-11-23T16:35:48Z,youmad/endurance-route-kml,v0.1.0,,KML path interpretation for immutable Route revisions
+2026-11-23T16:35:51Z,youmad/endurance-route-postgresql,v0.1.0,,PostgreSQL storage for immutable route revisions and bounded streams
+2026-11-23T16:44:37Z,kristos80/mule,v1.0.0,,"A committed, content-hashed verdict cache for PHP mutation testing: mutate only the files whose score can no longer be trusted."
+2026-11-23T16:51:31Z,cairophp/laravel-octane,v0.1.0,,Run Laravel Octane on the Cairo application server
+2026-11-23T17:01:31Z,goodport/mail-tracker,v1.1.0,Goodport; J David Baker,Log and track outgoing Laravel emails with per-type retention and a built-in admin panel.
+2026-11-23T17:05:52Z,atwx/silverstripe-error-reporting,v1.0.0,,"Report real errors of Silverstripe sites to Sentry/GlitchTip: errors and fatals only, noise filtered, one fingerprint per cause, tagged with site and installation"

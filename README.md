@@ -15,29 +15,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 16:21 UTC
+## Latest list — 2026-11-23 17:20 UTC
 
-New packages created between 2026-11-23 15:22 UTC and 2026-11-23 16:21 UTC.
+New packages created between 2026-11-23 16:21 UTC and 2026-11-23 17:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-23T16-21-43-20574Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-23T17-20-22-577897Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-23 15:24:41 | [timbaron/naija-tel](https://www.nuget.org/packages/timbaron%2Fnaija-tel) | v0.1.0 | Timothy Akiode | Nigerian Telecom Intelligence for Laravel |
-| 2026-11-23 15:25:47 | [datacircle/gemini-php-tools](https://www.nuget.org/packages/datacircle%2Fgemini-php-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. Four function tools for the Gemini PHP client. The tool… |
-| 2026-11-23 15:26:10 | [marshallu/herd-fpp](https://www.nuget.org/packages/marshallu%2Fherd-fpp) | v1.0.0 | Christopher McComas | Focal point picker for WordPress images. |
-| 2026-11-23 15:36:32 | [youmad/endurance-activity-analysis](https://www.nuget.org/packages/youmad%2Fendurance-activity-analysis) | v0.1.0 |  | Streaming GPS distance, speed and movement estimates for recorded activities |
-| 2026-11-23 15:36:35 | [youmad/endurance-geo](https://www.nuget.org/packages/youmad%2Fendurance-geo) | v0.1.0 |  | Streaming path geometry and spherical distance calculations |
-| 2026-11-23 15:38:19 | [youmad/endurance-gpx](https://www.nuget.org/packages/youmad%2Fendurance-gpx) | v0.1.0 |  | Streaming GPX tracks, routes and waypoints for PHP |
-| 2026-11-23 15:38:21 | [youmad/endurance-kml](https://www.nuget.org/packages/youmad%2Fendurance-kml) | v0.1.0 |  | Streaming KML 2.2 source inspection |
-| 2026-11-23 15:38:25 | [youmad/endurance-workout](https://www.nuget.org/packages/youmad%2Fendurance-workout) | v0.1.0 |  | Immutable workout prescriptions with typed targets and bounded repeat occurrenc… |
-| 2026-11-23 15:40:38 | [ignescent/loaded-dice](https://www.nuget.org/packages/ignescent%2Floaded-dice) | 1.0.0 | Michael Cordingley | Utilities for deterministic randomness. |
-| 2026-11-23 15:53:40 | [konradmichalik/typo3-outbound](https://www.nuget.org/packages/konradmichalik%2Ftypo3-outbound) | 0.1.0 | Konrad Michalik | Outbound - Declarative API clients for TYPO3: describe external APIs as PHP int… |
-| 2026-11-23 16:14:20 | [automattic/jetpack-announcements](https://www.nuget.org/packages/automattic%2Fjetpack-announcements) | v0.1.0 |  | A product-agnostic channel to tell Jetpack users what is new. |
-| 2026-11-23 16:16:09 | [youmad/endurance-activity-gpx](https://www.nuget.org/packages/youmad%2Fendurance-activity-gpx) | v0.1.0 |  | GPX recorded tracks mapped to Endurance Activity import streams |
-| 2026-11-23 16:16:12 | [youmad/endurance-route](https://www.nuget.org/packages/youmad%2Fendurance-route) | v0.1.0 |  | Routes, immutable content revisions and streaming publication contracts |
-| 2026-11-23 16:16:16 | [youmad/endurance-workout-fit](https://www.nuget.org/packages/youmad%2Fendurance-workout-fit) | v0.1.0 |  | Explicit FIT Workout interpretation into immutable Endurance Workout prescripti… |
-| 2026-11-23 16:16:19 | [youmad/endurance-workout-postgresql](https://www.nuget.org/packages/youmad%2Fendurance-workout-postgresql) | v0.1.0 |  | Atomic PostgreSQL publication and immutable Workout revision storage |
+| 2026-11-23 16:30:35 | [mockcard/mockcard-php](https://www.nuget.org/packages/mockcard%2Fmockcard-php) | v2.0.0 | Arixeva Labs | MockCard SDK for PHP: chaos runs in CI, payment webhook checks and the producti… |
+| 2026-11-23 16:30:40 | [davereid/drush-helper](https://www.nuget.org/packages/davereid%2Fdrush-helper) | v0.1.0 |  | Helpful Drush commands. |
+| 2026-11-23 16:32:12 | [pharaonic/laravel-api-versioning](https://www.nuget.org/packages/pharaonic%2Flaravel-api-versioning) | 13.0.2 | Moamen Eltouny (Raggi) | Laravel-native API versioning: version groups and constraints on Route, header,… |
+| 2026-11-23 16:35:42 | [youmad/endurance-route-fit](https://www.nuget.org/packages/youmad%2Fendurance-route-fit) | v0.1.0 |  | Streaming FIT Course validation and staged Endurance Route mapping |
+| 2026-11-23 16:35:45 | [youmad/endurance-route-gpx](https://www.nuget.org/packages/youmad%2Fendurance-route-gpx) | v0.1.0 |  | Selected GPX recorded track geometry for immutable Endurance Route revisions |
+| 2026-11-23 16:35:48 | [youmad/endurance-route-kml](https://www.nuget.org/packages/youmad%2Fendurance-route-kml) | v0.1.0 |  | KML path interpretation for immutable Route revisions |
+| 2026-11-23 16:35:51 | [youmad/endurance-route-postgresql](https://www.nuget.org/packages/youmad%2Fendurance-route-postgresql) | v0.1.0 |  | PostgreSQL storage for immutable route revisions and bounded streams |
+| 2026-11-23 16:44:37 | [kristos80/mule](https://www.nuget.org/packages/kristos80%2Fmule) | v1.0.0 |  | A committed, content-hashed verdict cache for PHP mutation testing: mutate only… |
+| 2026-11-23 16:51:31 | [cairophp/laravel-octane](https://www.nuget.org/packages/cairophp%2Flaravel-octane) | v0.1.0 |  | Run Laravel Octane on the Cairo application server |
+| 2026-11-23 17:01:31 | [goodport/mail-tracker](https://www.nuget.org/packages/goodport%2Fmail-tracker) | v1.1.0 | Goodport; J David Baker | Log and track outgoing Laravel emails with per-type retention and a built-in ad… |
+| 2026-11-23 17:05:52 | [atwx/silverstripe-error-reporting](https://www.nuget.org/packages/atwx%2Fsilverstripe-error-reporting) | v1.0.0 |  | Report real errors of Silverstripe sites to Sentry/GlitchTip: errors and fatals… |
 
 ## Data source
 
