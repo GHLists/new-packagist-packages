@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-23T04:29:36Z,observe/laravel,v1.0.0,,"Monitor every Laravel scheduled task with Observe: failures, missed runs and runtimes, with no changes to your schedule."
