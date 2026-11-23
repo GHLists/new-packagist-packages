@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-23T03:22:35Z,fiberphp/orm,v0.1.0,PangBin,🏗️ FiberPHP ORM —— Active Record 模式，支持关联关系、预加载、属性转换、时间戳、查询作用域。
+2026-11-23T03:29:24Z,fiberphp/skeleton,v0.1.0,PangBin,📦 FiberPHP 应用骨架 —— 开箱即用的项目模板，集成路由、控制器、配置、中间件，快速启动。
+2026-11-23T03:41:00Z,edueevaristo/reforma-tributaria-api,v0.2.0,Eduardo Evaristo,"Biblioteca PHP open source para a Reforma Tributaria do Consumo (IBS, CBS e IS): cronograma de transicao, base de calculo, tabelas de CST e cClassTrib, calculo, grupos XML da NF-e/NFC-e e cliente da Calculadora de Tributos oficial da Receita Federal."
+2026-11-23T03:58:03Z,mucan54/laravel-transforms-request-guard,v1.0.0,Muhammed Can Özdemir,"Guards Laravel's global TrimStrings / ConvertEmptyStringsToNull middleware against the large-input-key denial of service, where a sub-1MB request can pin a PHP-FPM worker for ~55s. Backport-style protection for Laravel 11.x/12.x; 13.38.0+ ships the fix natively."
