@@ -15,15 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 09:18 UTC
+## Latest list — 2026-11-23 10:20 UTC
 
-New packages created between 2026-11-23 08:20 UTC and 2026-11-23 09:18 UTC.
+New packages created between 2026-11-23 09:18 UTC and 2026-11-23 10:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-23T09-18-44-169149Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-23T10-20-32-689563Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-23 08:48:35 | [mattmy/laravel-attribute-mapper](https://www.nuget.org/packages/mattmy%2Flaravel-attribute-mapper) | v0.1.0 |  | Map validated Laravel Form Request fields to fillable Eloquent attributes using… |
+| 2026-11-23 09:56:02 | [aliarteo/ali-docs-bundle](https://www.nuget.org/packages/aliarteo%2Fali-docs-bundle) | v1.0.0 | Benoit A. | A Symfony Bundle to build documentation websites from Markdown files. |
+| 2026-11-23 09:56:30 | [pollora/object-cache](https://www.nuget.org/packages/pollora%2Fobject-cache) | v0.1.0 | Olivier Gorzalka | A persistent Redis object cache for WordPress, built for Pollora and Laravel. |
 
 ## Data source
 
