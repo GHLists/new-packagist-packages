@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-23T18:27:07Z,wenmark/wpcodebox2-cli,v1.0.1,Michael Wender,WP-CLI commands for managing WPCodeBox 2 snippets and folders without the browser UI.
+2026-11-23T18:27:22Z,cboxdk/laravel-signals-client,v0.1.0,,Typed transport for Cbox Signals
+2026-11-23T18:29:08Z,mockcard/laravel,v2.0.0,Arixeva Labs,"MockCard for Laravel: probe-guard middleware, chaos runs from Artisan and Pest/PHPUnit."
+2026-11-23T18:29:54Z,mockcard/symfony-bundle,v2.0.0,Arixeva Labs,"MockCard for Symfony: probe guard for webhook routes, DI configuration and a chaos-run console command."
+2026-11-23T19:06:28Z,rasuvaeff/mcp,v0.1.0,Victor Razuvaev,"Framework-neutral MCP server runtime on the official mcp/sdk: attribute tools, interceptors, visibility, sessions and OAuth over PSR contracts"
+2026-11-23T19:06:42Z,adachsoft/calendar,v0.1.1,Arkadiusz Adach,"Calendar logic for adachsoft/calendar-contracts: calendar service with access policy, recurring entries expanded into occurrences for day/week/month views, shared with accounts and groups via principal-contracts."
+2026-11-23T19:11:36Z,fisharebest/database,0.9.0,Greg Roach,Database abstraction layer - query builder and schema builder
+2026-11-23T19:12:47Z,rasuvaeff/mcp-openapi,v0.1.0,Victor Razuvaev,"Serve allow-listed OpenAPI operations as MCP tools: PSR-18 or in-process PSR-15 execution, no framework required"

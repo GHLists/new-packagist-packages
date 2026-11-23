@@ -15,21 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 18:20 UTC
+## Latest list — 2026-11-23 19:20 UTC
 
-New packages created between 2026-11-23 17:20 UTC and 2026-11-23 18:20 UTC.
+New packages created between 2026-11-23 18:20 UTC and 2026-11-23 19:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-23T18-20-57-912973Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-23T19-20-41-713593Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-23 17:30:15 | [klsoft/yii3-doctrine-app](https://www.nuget.org/packages/klsoft%2Fyii3-doctrine-app) | 1.0.0 |  | A Yii 3 web application template that supports the Doctrine ORM |
-| 2026-11-23 17:39:17 | [ernestdefoe/duskline](https://www.nuget.org/packages/ernestdefoe%2Fduskline) | 1.0.0 | Ernestdefoe | Duskline: a gaming theme for Flarum 2. An illustrated neon coastal skyline whos… |
-| 2026-11-23 17:45:16 | [creativefactoryrv/openai-conversions-api](https://www.nuget.org/packages/creativefactoryrv%2Fopenai-conversions-api) | v1.0.0 |  | Client PHP (PSR-18) per la Conversions API di OpenAI Ads: invio di eventi di co… |
-| 2026-11-23 17:51:07 | [ismailnakkar/laravel-mail-content](https://www.nuget.org/packages/ismailnakkar%2Flaravel-mail-content) | v1.0.0 | Ismail Nakkar | The shared contract for package mail in Laravel: what a mail says, as ordered p… |
-| 2026-11-23 18:05:45 | [adachsoft/codegen-file-list](https://www.nuget.org/packages/adachsoft%2Fcodegen-file-list) | v0.1.1 | Arkadiusz Adach | Execute ordered code-generation file operations with optional AI-assisted edits… |
-| 2026-11-23 18:18:30 | [alibabacloud/qwenb2bchat-20261121](https://www.nuget.org/packages/alibabacloud%2Fqwenb2bchat-20261121) | 1.0.0 | Alibaba Cloud SDK | Alibaba Cloud QwenB2BChat (20261121) SDK Library for PHP |
-| 2026-11-23 18:18:41 | [alibabacloud/qwenb2bmed-20261121](https://www.nuget.org/packages/alibabacloud%2Fqwenb2bmed-20261121) | 1.0.0 | Alibaba Cloud SDK | Alibaba Cloud QwenB2BMed (20261121) SDK Library for PHP |
+| 2026-11-23 18:27:07 | [wenmark/wpcodebox2-cli](https://www.nuget.org/packages/wenmark%2Fwpcodebox2-cli) | v1.0.1 | Michael Wender | WP-CLI commands for managing WPCodeBox 2 snippets and folders without the brows… |
+| 2026-11-23 18:27:22 | [cboxdk/laravel-signals-client](https://www.nuget.org/packages/cboxdk%2Flaravel-signals-client) | v0.1.0 |  | Typed transport for Cbox Signals |
+| 2026-11-23 18:29:08 | [mockcard/laravel](https://www.nuget.org/packages/mockcard%2Flaravel) | v2.0.0 | Arixeva Labs | MockCard for Laravel: probe-guard middleware, chaos runs from Artisan and Pest/… |
+| 2026-11-23 18:29:54 | [mockcard/symfony-bundle](https://www.nuget.org/packages/mockcard%2Fsymfony-bundle) | v2.0.0 | Arixeva Labs | MockCard for Symfony: probe guard for webhook routes, DI configuration and a ch… |
+| 2026-11-23 19:06:28 | [rasuvaeff/mcp](https://www.nuget.org/packages/rasuvaeff%2Fmcp) | v0.1.0 | Victor Razuvaev | Framework-neutral MCP server runtime on the official mcp/sdk: attribute tools,… |
+| 2026-11-23 19:06:42 | [adachsoft/calendar](https://www.nuget.org/packages/adachsoft%2Fcalendar) | v0.1.1 | Arkadiusz Adach | Calendar logic for adachsoft/calendar-contracts: calendar service with access p… |
+| 2026-11-23 19:11:36 | [fisharebest/database](https://www.nuget.org/packages/fisharebest%2Fdatabase) | 0.9.0 | Greg Roach | Database abstraction layer - query builder and schema builder |
+| 2026-11-23 19:12:47 | [rasuvaeff/mcp-openapi](https://www.nuget.org/packages/rasuvaeff%2Fmcp-openapi) | v0.1.0 | Victor Razuvaev | Serve allow-listed OpenAPI operations as MCP tools: PSR-18 or in-process PSR-15… |
 
 ## Data source
 
