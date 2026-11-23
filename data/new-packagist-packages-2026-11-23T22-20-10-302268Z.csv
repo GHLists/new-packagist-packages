@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-23T21:22:00Z,blokbay/module-payment,v1.1.0,Blokbay,"Blokbay crypto payments for Magento Open Source and Adobe Commerce: Bitcoin, USDC, USDT and ETH paid straight to the merchant's wallet, 1% per payment."
+2026-11-23T21:28:57Z,datacircle/bedrock-tools,v0.1.0,Wayne Hamadi,Find the best GTM APIs. Four tools for Amazon Bedrock's Converse API in the AWS SDK for PHP. The tools call Datacircle's public API. You need no API key.
+2026-11-23T21:29:09Z,mgamadeus/ddd-browser,0.1.0-rc.4,Marius-Eugen Gerdan,"Browser sessions and website analysis for mgamadeus/ddd: agent-controllable browsing, screenshots, rendered page to markdown, design extraction, on-site SEO, performance and tech audits"
+2026-11-23T21:29:43Z,puzzlesoft/activitylog-ui,v1.0.0,Puzzlesoft,"A modern, friendly interface to browse activity logs recorded with spatie/laravel-activitylog."
+2026-11-23T21:31:34Z,freyr/message-broker-storage-postgresql,v0.1.0,Freyr Development Team,"PostgreSQL storage adapter for freyr/message-broker: outbox, deduplication and dead-letter stores, schema installer and retention"
+2026-11-23T21:31:39Z,freyr/message-broker-transport-amqp,v0.1.0,Freyr Development Team,AMQP (RabbitMQ) transport adapter for freyr/message-broker: outbox relay publisher and consumer
+2026-11-23T21:31:43Z,freyr/message-broker-webhook-http,v0.1.0,Freyr Development Team,HTTP webhook sender for freyr/message-broker: signed parallel requests (Standard Webhooks) with Symfony HttpClient
+2026-11-23T21:31:48Z,freyr/message-broker-ratelimit-redis,v0.1.0,Freyr Development Team,"Redis rate limit store for freyr/message-broker: the token buckets of the webhook lanes in Lua scripts, with a phpredis or a Predis client"
+2026-11-23T21:44:04Z,php-io-extensions/multicurl,0.11.1,"Project Saturn Studios, LLC",libcurl's multi socket API bound 1:1 into PHP on top of ext-curl handles
+2026-11-23T21:54:27Z,abolaradev/visitor-insight,v1.0.0,abolaradev,"A Laravel package that provides comprehensive visitor information, including user details, IP address, device, browser, and geolocation data such as country, city, and coordinates."
