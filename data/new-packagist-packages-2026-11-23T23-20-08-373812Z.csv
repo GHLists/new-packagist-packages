@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-23T22:25:59Z,hnooz/filament-zone-map,v1.0.0,Mohamed Idris,"Draw, edit and display geographic zones on Google Maps in Filament."
+2026-11-23T22:32:59Z,sliusardev/hata,v0.1.3,,"Hata: an admin panel and CMS for Laravel (users, roles, site settings, media library, content)."
+2026-11-23T23:10:02Z,juaniquillo/backend-design-system,v0.1.0,Victor Sánchez,"Laravel design system: PHP components, Tailwind theme files, config-driven designs."
