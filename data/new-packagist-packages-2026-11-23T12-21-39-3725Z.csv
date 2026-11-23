@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-23T11:21:41Z,schorsch3000/tick,v1.0.0,schorsch3000,Tiny helper to run loops at a fixed interval without drift
+2026-11-23T11:41:40Z,mertaydin/laravel-backup-manager,v0.3.0,,Database and application file backups for Laravel with pluggable cloud storage.
+2026-11-23T11:55:19Z,buildwithsmk/laravel-tenancy,v1.0.0,,"Lightweight multi-tenancy for Laravel: shared database by default, and upgrade any tenant to a dedicated database, Redis or storage."
+2026-11-23T12:12:16Z,tomgould/apple-news-api,v2.3.0,TomGould,PHP client for the Apple News Publisher API that builds Apple News Format documents from PHP objects
+2026-11-23T12:12:22Z,tomgould/puzzlerphpsdk,v1.1.2,Tom Gould,PHP SDK for Puzzler Media REST API
+2026-11-23T12:12:29Z,tomgould/turbopush,v2.2.0,Tom Gould,"PHP endpoint for TurboPush chunked uploads: validates, stores and safely reassembles file chunks sent by the TurboPush browser client."
