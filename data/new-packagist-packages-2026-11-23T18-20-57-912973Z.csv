@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-23T17:30:15Z,klsoft/yii3-doctrine-app,1.0.0,,A Yii 3 web application template that supports the Doctrine ORM
+2026-11-23T17:39:17Z,ernestdefoe/duskline,1.0.0,Ernestdefoe,"Duskline: a gaming theme for Flarum 2. An illustrated neon coastal skyline whose sky follows each visitor's local time, with player cards, glowing tag tiles and a member paint shop."
+2026-11-23T17:45:16Z,creativefactoryrv/openai-conversions-api,v1.0.0,,Client PHP (PSR-18) per la Conversions API di OpenAI Ads: invio di eventi di conversione server-to-server.
+2026-11-23T17:51:07Z,ismailnakkar/laravel-mail-content,v1.0.0,Ismail Nakkar,"The shared contract for package mail in Laravel: what a mail says, as ordered plain-text blocks, and the one template an app lays every package's mail out with."
+2026-11-23T18:05:45Z,adachsoft/codegen-file-list,v0.1.1,Arkadiusz Adach,Execute ordered code-generation file operations with optional AI-assisted edits and implementation.
+2026-11-23T18:18:30Z,alibabacloud/qwenb2bchat-20261121,1.0.0,Alibaba Cloud SDK,Alibaba Cloud QwenB2BChat (20261121) SDK Library for PHP
+2026-11-23T18:18:41Z,alibabacloud/qwenb2bmed-20261121,1.0.0,Alibaba Cloud SDK,Alibaba Cloud QwenB2BMed (20261121) SDK Library for PHP

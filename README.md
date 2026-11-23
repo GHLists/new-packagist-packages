@@ -15,25 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 17:20 UTC
+## Latest list — 2026-11-23 18:20 UTC
 
-New packages created between 2026-11-23 16:21 UTC and 2026-11-23 17:20 UTC.
+New packages created between 2026-11-23 17:20 UTC and 2026-11-23 18:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-23T17-20-22-577897Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-23T18-20-57-912973Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-23 16:30:35 | [mockcard/mockcard-php](https://www.nuget.org/packages/mockcard%2Fmockcard-php) | v2.0.0 | Arixeva Labs | MockCard SDK for PHP: chaos runs in CI, payment webhook checks and the producti… |
-| 2026-11-23 16:30:40 | [davereid/drush-helper](https://www.nuget.org/packages/davereid%2Fdrush-helper) | v0.1.0 |  | Helpful Drush commands. |
-| 2026-11-23 16:32:12 | [pharaonic/laravel-api-versioning](https://www.nuget.org/packages/pharaonic%2Flaravel-api-versioning) | 13.0.2 | Moamen Eltouny (Raggi) | Laravel-native API versioning: version groups and constraints on Route, header,… |
-| 2026-11-23 16:35:42 | [youmad/endurance-route-fit](https://www.nuget.org/packages/youmad%2Fendurance-route-fit) | v0.1.0 |  | Streaming FIT Course validation and staged Endurance Route mapping |
-| 2026-11-23 16:35:45 | [youmad/endurance-route-gpx](https://www.nuget.org/packages/youmad%2Fendurance-route-gpx) | v0.1.0 |  | Selected GPX recorded track geometry for immutable Endurance Route revisions |
-| 2026-11-23 16:35:48 | [youmad/endurance-route-kml](https://www.nuget.org/packages/youmad%2Fendurance-route-kml) | v0.1.0 |  | KML path interpretation for immutable Route revisions |
-| 2026-11-23 16:35:51 | [youmad/endurance-route-postgresql](https://www.nuget.org/packages/youmad%2Fendurance-route-postgresql) | v0.1.0 |  | PostgreSQL storage for immutable route revisions and bounded streams |
-| 2026-11-23 16:44:37 | [kristos80/mule](https://www.nuget.org/packages/kristos80%2Fmule) | v1.0.0 |  | A committed, content-hashed verdict cache for PHP mutation testing: mutate only… |
-| 2026-11-23 16:51:31 | [cairophp/laravel-octane](https://www.nuget.org/packages/cairophp%2Flaravel-octane) | v0.1.0 |  | Run Laravel Octane on the Cairo application server |
-| 2026-11-23 17:01:31 | [goodport/mail-tracker](https://www.nuget.org/packages/goodport%2Fmail-tracker) | v1.1.0 | Goodport; J David Baker | Log and track outgoing Laravel emails with per-type retention and a built-in ad… |
-| 2026-11-23 17:05:52 | [atwx/silverstripe-error-reporting](https://www.nuget.org/packages/atwx%2Fsilverstripe-error-reporting) | v1.0.0 |  | Report real errors of Silverstripe sites to Sentry/GlitchTip: errors and fatals… |
+| 2026-11-23 17:30:15 | [klsoft/yii3-doctrine-app](https://www.nuget.org/packages/klsoft%2Fyii3-doctrine-app) | 1.0.0 |  | A Yii 3 web application template that supports the Doctrine ORM |
+| 2026-11-23 17:39:17 | [ernestdefoe/duskline](https://www.nuget.org/packages/ernestdefoe%2Fduskline) | 1.0.0 | Ernestdefoe | Duskline: a gaming theme for Flarum 2. An illustrated neon coastal skyline whos… |
+| 2026-11-23 17:45:16 | [creativefactoryrv/openai-conversions-api](https://www.nuget.org/packages/creativefactoryrv%2Fopenai-conversions-api) | v1.0.0 |  | Client PHP (PSR-18) per la Conversions API di OpenAI Ads: invio di eventi di co… |
+| 2026-11-23 17:51:07 | [ismailnakkar/laravel-mail-content](https://www.nuget.org/packages/ismailnakkar%2Flaravel-mail-content) | v1.0.0 | Ismail Nakkar | The shared contract for package mail in Laravel: what a mail says, as ordered p… |
+| 2026-11-23 18:05:45 | [adachsoft/codegen-file-list](https://www.nuget.org/packages/adachsoft%2Fcodegen-file-list) | v0.1.1 | Arkadiusz Adach | Execute ordered code-generation file operations with optional AI-assisted edits… |
+| 2026-11-23 18:18:30 | [alibabacloud/qwenb2bchat-20261121](https://www.nuget.org/packages/alibabacloud%2Fqwenb2bchat-20261121) | 1.0.0 | Alibaba Cloud SDK | Alibaba Cloud QwenB2BChat (20261121) SDK Library for PHP |
+| 2026-11-23 18:18:41 | [alibabacloud/qwenb2bmed-20261121](https://www.nuget.org/packages/alibabacloud%2Fqwenb2bmed-20261121) | 1.0.0 | Alibaba Cloud SDK | Alibaba Cloud QwenB2BMed (20261121) SDK Library for PHP |
 
 ## Data source
 
