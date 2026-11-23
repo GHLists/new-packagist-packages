@@ -1,0 +1,16 @@
+created_at,package,version,author,description
+2026-11-23T15:24:41Z,timbaron/naija-tel,v0.1.0,Timothy Akiode,Nigerian Telecom Intelligence for Laravel
+2026-11-23T15:25:47Z,datacircle/gemini-php-tools,v0.1.0,Wayne Hamadi,Find the best GTM APIs. Four function tools for the Gemini PHP client. The tools call Datacircle's public API. You need no API key.
+2026-11-23T15:26:10Z,marshallu/herd-fpp,v1.0.0,Christopher McComas,Focal point picker for WordPress images.
+2026-11-23T15:36:32Z,youmad/endurance-activity-analysis,v0.1.0,,"Streaming GPS distance, speed and movement estimates for recorded activities"
+2026-11-23T15:36:35Z,youmad/endurance-geo,v0.1.0,,Streaming path geometry and spherical distance calculations
+2026-11-23T15:38:19Z,youmad/endurance-gpx,v0.1.0,,"Streaming GPX tracks, routes and waypoints for PHP"
+2026-11-23T15:38:21Z,youmad/endurance-kml,v0.1.0,,Streaming KML 2.2 source inspection
+2026-11-23T15:38:25Z,youmad/endurance-workout,v0.1.0,,Immutable workout prescriptions with typed targets and bounded repeat occurrence reads
+2026-11-23T15:40:38Z,ignescent/loaded-dice,1.0.0,Michael Cordingley,Utilities for deterministic randomness.
+2026-11-23T15:53:40Z,konradmichalik/typo3-outbound,0.1.0,Konrad Michalik,"Outbound - Declarative API clients for TYPO3: describe external APIs as PHP interfaces with attributes, with retries, caching, rate limits, format profiles and safe defaults."
+2026-11-23T16:14:20Z,automattic/jetpack-announcements,v0.1.0,,A product-agnostic channel to tell Jetpack users what is new.
+2026-11-23T16:16:09Z,youmad/endurance-activity-gpx,v0.1.0,,GPX recorded tracks mapped to Endurance Activity import streams
+2026-11-23T16:16:12Z,youmad/endurance-route,v0.1.0,,"Routes, immutable content revisions and streaming publication contracts"
+2026-11-23T16:16:16Z,youmad/endurance-workout-fit,v0.1.0,,Explicit FIT Workout interpretation into immutable Endurance Workout prescriptions
+2026-11-23T16:16:19Z,youmad/endurance-workout-postgresql,v0.1.0,,Atomic PostgreSQL publication and immutable Workout revision storage
