@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 00:18 UTC
+## Latest list — 2026-11-23 01:19 UTC
 
-New packages created between 2026-11-22 23:21 UTC and 2026-11-23 00:18 UTC.
+New packages created between 2026-11-23 00:18 UTC and 2026-11-23 01:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-23T00-18-47-963811Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-23T01-19-49-06629Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-23 00:01:00 | [zunix/notification-lab](https://www.nuget.org/packages/zunix%2Fnotification-lab) | v0.1.0 |  | Test Firebase Cloud Messaging in your browser and inspect Laravel database noti… |
-| 2026-11-23 00:06:22 | [orboni/craft-commerce-orboni](https://www.nuget.org/packages/orboni%2Fcraft-commerce-orboni) | 1.0.0 | Orboni | Crypto payments for Craft Commerce: USDT, USDC, Bitcoin and more, paid straight… |
+| 2026-11-23 00:20:22 | [davereid/drupal-gitlab-api-docs](https://www.nuget.org/packages/davereid%2Fdrupal-gitlab-api-docs) | 1.0.0 | Dave Reid | Generates API docs for a Drupal module's MkDocs site with phpDocumentor, includ… |
+| 2026-11-23 01:15:53 | [mgamadeus/ddd-clouddrive](https://www.nuget.org/packages/mgamadeus%2Fddd-clouddrive) | 0.1.0-rc.1 | Marius-Eugen Gerdan | Cloud drive for mgamadeus/ddd: spaces with host-owned rights, versioned files i… |
 
 ## Data source
 
