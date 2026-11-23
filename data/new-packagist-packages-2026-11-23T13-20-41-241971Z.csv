@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-23T12:25:16Z,tomgould/rsstojson,v2.1.1,Tom Gould,Universal RSS/Atom/XML parser that outputs clean JSON-compatible arrays.
+2026-11-23T12:29:28Z,mirror-and-mountain/meros-email-connectors,v0.0.1,tmw-mm,A collection of email connectors for Meros powered WordPress themes.
+2026-11-23T12:31:37Z,orboni/bagisto-payment,v1.0.0,Orboni,"Crypto payments for Bagisto through Orboni: USDT, USDC, Bitcoin, Ethereum and more, paid straight to your own wallets on Orboni's payment page."
+2026-11-23T12:55:44Z,philipschlender/container-php,1.0.0,Philip Schlender,Container
+2026-11-23T13:05:50Z,soara/laravel-debugger,v0.1.0,Soara,"Log viewer and debugging tools for Laravel apps: logs, failed jobs, scheduler, cache, mail, storage, external connections and user impersonation."
