@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 23:21 UTC
+## Latest list — 2026-11-23 00:18 UTC
 
-New packages created between 2026-11-22 22:19 UTC and 2026-11-22 23:21 UTC.
+New packages created between 2026-11-22 23:21 UTC and 2026-11-23 00:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-22T23-21-16-562693Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-23T00-18-47-963811Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-22 22:25:58 | [kinetis/vector-ai](https://www.nuget.org/packages/kinetis%2Fvector-ai) | v0.1.0 | Alon Noy | AI for the Kinetis Vector admin, on kinetis/neuron: plain-language filters, an… |
-| 2026-11-22 23:15:49 | [thebeardedbear/urssaf-mobilite-internationale](https://www.nuget.org/packages/thebeardedbear%2Furssaf-mobilite-internationale) | v0.1.0 | The Bearded Bear | Client and domain model for the URSSAF "API Mobilité internationale" (posting o… |
+| 2026-11-23 00:01:00 | [zunix/notification-lab](https://www.nuget.org/packages/zunix%2Fnotification-lab) | v0.1.0 |  | Test Firebase Cloud Messaging in your browser and inspect Laravel database noti… |
+| 2026-11-23 00:06:22 | [orboni/craft-commerce-orboni](https://www.nuget.org/packages/orboni%2Fcraft-commerce-orboni) | 1.0.0 | Orboni | Crypto payments for Craft Commerce: USDT, USDC, Bitcoin and more, paid straight… |
 
 ## Data source
 
