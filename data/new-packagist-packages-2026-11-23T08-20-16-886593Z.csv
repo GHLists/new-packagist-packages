@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-23T07:23:56Z,php-concept/component-auth-api-token,v1.0.0,,Concept component — Bearer API token authentication scaffold
+2026-11-23T07:59:07Z,dmsandhika/ocr-client,v1.0.1,dmsandhika,"Official PHP Client SDK for OCR Service (KTP, MyKad IC, Passport, and Receipts)"
