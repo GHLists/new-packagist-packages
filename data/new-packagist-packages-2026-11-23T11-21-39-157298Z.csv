@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-23T10:25:12Z,fisharebest/collection,1.0.0,Greg Roach,Collection objects for PHP arrays
+2026-11-23T10:30:57Z,shoplygg/shoply-php,v0.11.3,,"Shoply's API from your own server: every route as a method, safe retries, pages, checking webhooks, and OAuth for apps."
+2026-11-23T10:45:42Z,cofa/php-issues-checker,v0.1.0,Mahmoud Gamal,Checks your PHP runtime against officially reported PHP security issues (php.net + php/php-src advisories) and tells you how to protect yourself.
+2026-11-23T10:46:04Z,upigateways/sdk,v1.0.1,UPI Gateways,Official PHP SDK for UPI Gateways - Zero Transaction Fee (0% MDR) UPI Payment Gateway with instant direct bank settlement.
+2026-11-23T10:51:20Z,buildwithsmk/laravel-tenant-permission,v1.0.0,,"Roles and permissions for Laravel. Works as plain RBAC in a single app, or tenant-scoped RBAC in a multi-tenant app. Per-user grant/deny overrides, Super Admin and tenant-admin bypass, and an optional built-in management UI."
+2026-11-23T10:55:36Z,filefabrik/rfc9421,v1.9.0,RT Filefabrik,Create and validate RFC 9421 HTTP Signatures for ActivityPub.
+2026-11-23T11:00:23Z,ahwet-sen/asset-files,v1.18.0,Ahwet Şen,Asset Files.
+2026-11-23T11:14:59Z,mcdennem/bolt-translations,v0.1.0,,Craft-like translations manager for Bolt CMS
+2026-11-23T11:17:14Z,islesurlasorguetourisme/sulu-qrcode-bundle,v0.1.0,Enzo Brigati,"Dynamic QR codes for Sulu 3: stable short URLs, editable targets, scan statistics and PNG/SVG rendering."
