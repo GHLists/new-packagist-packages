@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 01:19 UTC
+## Latest list — 2026-11-23 02:19 UTC
 
-New packages created between 2026-11-23 00:18 UTC and 2026-11-23 01:19 UTC.
+New packages created between 2026-11-23 01:19 UTC and 2026-11-23 02:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-23T01-19-49-06629Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-23T02-19-05-334011Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-23 00:20:22 | [davereid/drupal-gitlab-api-docs](https://www.nuget.org/packages/davereid%2Fdrupal-gitlab-api-docs) | 1.0.0 | Dave Reid | Generates API docs for a Drupal module's MkDocs site with phpDocumentor, includ… |
-| 2026-11-23 01:15:53 | [mgamadeus/ddd-clouddrive](https://www.nuget.org/packages/mgamadeus%2Fddd-clouddrive) | 0.1.0-rc.1 | Marius-Eugen Gerdan | Cloud drive for mgamadeus/ddd: spaces with host-owned rights, versioned files i… |
+| 2026-11-23 01:26:09 | [sightpress/theme-template](https://www.nuget.org/packages/sightpress%2Ftheme-template) | 0.1.0 |  | A starting point for a SightPress theme: SightPress is a powerful CMS for every… |
+| 2026-11-23 01:51:02 | [acerdp/acerdp](https://www.nuget.org/packages/acerdp%2Facerdp) | v1.1.0 |  | Client for the AceRDP API: Windows RDP and Linux VPS servers. |
+| 2026-11-23 02:01:33 | [fiberphp/database](https://www.nuget.org/packages/fiberphp%2Fdatabase) | v0.1.0 | PangBin | 🗄️ FiberPHP 数据库组件 —— 基于 PDO 的连接池、查询构造器、驱动抽象层、协程安全。 |
+| 2026-11-23 02:14:21 | [thebeardedbear/urssaf-dpae](https://www.nuget.org/packages/thebeardedbear%2Furssaf-dpae) | v0.1.0 | The Bearded Bear | Client and domain model for the URSSAF "API DPAE" (Déclaration Préalable À l'Em… |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-23T01:26:09Z,sightpress/theme-template,0.1.0,,"A starting point for a SightPress theme: SightPress is a powerful CMS for everyone, designed with blind and low-vision creators and audiences in mind. Create your own theme from it with composer create-project, then make it yours."
+2026-11-23T01:51:02Z,acerdp/acerdp,v1.1.0,,Client for the AceRDP API: Windows RDP and Linux VPS servers.
+2026-11-23T02:01:33Z,fiberphp/database,v0.1.0,PangBin,🗄️ FiberPHP 数据库组件 —— 基于 PDO 的连接池、查询构造器、驱动抽象层、协程安全。
+2026-11-23T02:14:21Z,thebeardedbear/urssaf-dpae,v0.1.0,The Bearded Bear,"Client and domain model for the URSSAF ""API DPAE"" (Déclaration Préalable À l'Embauche: deposit and returns)"
