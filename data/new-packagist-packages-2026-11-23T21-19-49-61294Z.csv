@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-23T20:28:21Z,xraytools/api,v0.1.0,,PHP client for Xray management panels.
+2026-11-23T20:38:18Z,cosmira/conform,v1.0.0,Cosmira,OpenAPI 3.0 request and response validator for PHP and Laravel
+2026-11-23T20:38:37Z,konradmichalik/php-outbound,0.1.0,Konrad Michalik,"Outbound - Declarative API clients for PHP: describe external APIs as interfaces with attributes, with retries, caching, rate limits and safe defaults."
+2026-11-23T21:13:31Z,pharaonic/laravel-api-idempotency,13.0.0,Moamen Eltouny (Raggi),"Opt-in HTTP idempotency for Laravel routes: Route::post(...)->idempotent() with atomic database or Redis reservation, request fingerprinting, safe response replay and fail-closed recovery."

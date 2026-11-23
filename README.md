@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 20:19 UTC
+## Latest list — 2026-11-23 21:19 UTC
 
-New packages created between 2026-11-23 19:20 UTC and 2026-11-23 20:19 UTC.
+New packages created between 2026-11-23 20:19 UTC and 2026-11-23 21:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-23T20-19-53-39659Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-23T21-19-49-61294Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-23 19:38:29 | [soderlind/network-ai-connector](https://www.nuget.org/packages/soderlind%2Fnetwork-ai-connector) | 1.0.0 | Per Søderlind |  |
-| 2026-11-23 19:41:46 | [koriym/mini-cache](https://www.nuget.org/packages/koriym%2Fmini-cache) | 1.0.0 | Akihito Koriyama | Simplest cache with no expiration |
+| 2026-11-23 20:28:21 | [xraytools/api](https://www.nuget.org/packages/xraytools%2Fapi) | v0.1.0 |  | PHP client for Xray management panels. |
+| 2026-11-23 20:38:18 | [cosmira/conform](https://www.nuget.org/packages/cosmira%2Fconform) | v1.0.0 | Cosmira | OpenAPI 3.0 request and response validator for PHP and Laravel |
+| 2026-11-23 20:38:37 | [konradmichalik/php-outbound](https://www.nuget.org/packages/konradmichalik%2Fphp-outbound) | 0.1.0 | Konrad Michalik | Outbound - Declarative API clients for PHP: describe external APIs as interface… |
+| 2026-11-23 21:13:31 | [pharaonic/laravel-api-idempotency](https://www.nuget.org/packages/pharaonic%2Flaravel-api-idempotency) | 13.0.0 | Moamen Eltouny (Raggi) | Opt-in HTTP idempotency for Laravel routes: Route::post(...)->idempotent() with… |
 
 ## Data source
 
