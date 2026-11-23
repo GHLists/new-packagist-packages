@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-23T05:28:18Z,js-upup/exploded-view-brief,v0.1.0,,"Turn an ordered parts list, layout axis and fixed assemblies into a product illustration brief."
+2026-11-23T05:45:10Z,webicorns/pongback,0.9.0,Michael Blunck; Philipp Thiele,TYPO3 extension for sending and receiving Pingbacks
+2026-11-23T06:15:18Z,thb/concurrency,v1.0,,Webman plugin: multi-port HTTP concurrency workers with round-robin client

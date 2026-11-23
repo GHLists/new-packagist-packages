@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 05:18 UTC
+## Latest list — 2026-11-23 06:18 UTC
 
-New packages created between 2026-11-23 04:21 UTC and 2026-11-23 05:18 UTC.
+New packages created between 2026-11-23 05:18 UTC and 2026-11-23 06:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-23T05-18-52-925651Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-23T06-18-34-322754Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-23 04:29:36 | [observe/laravel](https://www.nuget.org/packages/observe%2Flaravel) | v1.0.0 |  | Monitor every Laravel scheduled task with Observe: failures, missed runs and ru… |
+| 2026-11-23 05:28:18 | [js-upup/exploded-view-brief](https://www.nuget.org/packages/js-upup%2Fexploded-view-brief) | v0.1.0 |  | Turn an ordered parts list, layout axis and fixed assemblies into a product ill… |
+| 2026-11-23 05:45:10 | [webicorns/pongback](https://www.nuget.org/packages/webicorns%2Fpongback) | 0.9.0 | Michael Blunck; Philipp Thiele | TYPO3 extension for sending and receiving Pingbacks |
+| 2026-11-23 06:15:18 | [thb/concurrency](https://www.nuget.org/packages/thb%2Fconcurrency) | v1.0 |  | Webman plugin: multi-port HTTP concurrency workers with round-robin client |
 
 ## Data source
 
