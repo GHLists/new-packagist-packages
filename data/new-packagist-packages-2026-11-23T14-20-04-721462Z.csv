@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-23T13:25:45Z,hk100/tcp-socket,v1.0.0,hk100,"Multi-protocol (TCP / WebSocket / MQTT) communication package for Hyperf and Laravel, with server and client drivers."
+2026-11-23T13:34:13Z,rashed50702/laravel-bangla-pdf,v1.0.0,Md. Rashedul Hasan,"Generate Bangla (Bengali) + English PDFs in Laravel with mPDF: correct conjunct shaping, automatic font switching, Bangla digits, Taka formatting and amount in words."
+2026-11-23T13:39:10Z,nubos/starterkit,v1.47.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-23T13:48:38Z,infrangible/phpstan-magento,1.0.0,Andreas Knollmann,"PHPStan rules and configuration for Magento 2 modules: the checks of PhpStorm that PHPStan does not do itself, and the classes that Magento generates"
+2026-11-23T13:57:43Z,psbits/contact-book,0.1.0-alpha,Daniel Ablass,Comprehensive contact management
+2026-11-23T14:10:57Z,datacircle/php-mcp-tools,v0.1.0,Wayne Hamadi,Find the best GTM APIs. This package adds four tools to an MCP server made with PHP MCP Server. The tools call Datacircle's public API. You need no API key.
+2026-11-23T14:11:06Z,ideal-postcodes/laravel,v0.1.0,Ideal Postcodes,"Laravel package for the Ideal Postcodes PHP SDK: set your API key in .env, then inject the client or any resource, or call the facade"

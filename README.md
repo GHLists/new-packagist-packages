@@ -15,19 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 13:20 UTC
+## Latest list — 2026-11-23 14:20 UTC
 
-New packages created between 2026-11-23 12:21 UTC and 2026-11-23 13:20 UTC.
+New packages created between 2026-11-23 13:20 UTC and 2026-11-23 14:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-23T13-20-41-241971Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-23T14-20-04-721462Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-23 12:25:16 | [tomgould/rsstojson](https://www.nuget.org/packages/tomgould%2Frsstojson) | v2.1.1 | Tom Gould | Universal RSS/Atom/XML parser that outputs clean JSON-compatible arrays. |
-| 2026-11-23 12:29:28 | [mirror-and-mountain/meros-email-connectors](https://www.nuget.org/packages/mirror-and-mountain%2Fmeros-email-connectors) | v0.0.1 | tmw-mm | A collection of email connectors for Meros powered WordPress themes. |
-| 2026-11-23 12:31:37 | [orboni/bagisto-payment](https://www.nuget.org/packages/orboni%2Fbagisto-payment) | v1.0.0 | Orboni | Crypto payments for Bagisto through Orboni: USDT, USDC, Bitcoin, Ethereum and m… |
-| 2026-11-23 12:55:44 | [philipschlender/container-php](https://www.nuget.org/packages/philipschlender%2Fcontainer-php) | 1.0.0 | Philip Schlender | Container |
-| 2026-11-23 13:05:50 | [soara/laravel-debugger](https://www.nuget.org/packages/soara%2Flaravel-debugger) | v0.1.0 | Soara | Log viewer and debugging tools for Laravel apps: logs, failed jobs, scheduler,… |
+| 2026-11-23 13:25:45 | [hk100/tcp-socket](https://www.nuget.org/packages/hk100%2Ftcp-socket) | v1.0.0 | hk100 | Multi-protocol (TCP / WebSocket / MQTT) communication package for Hyperf and La… |
+| 2026-11-23 13:34:13 | [rashed50702/laravel-bangla-pdf](https://www.nuget.org/packages/rashed50702%2Flaravel-bangla-pdf) | v1.0.0 | Md. Rashedul Hasan | Generate Bangla (Bengali) + English PDFs in Laravel with mPDF: correct conjunct… |
+| 2026-11-23 13:39:10 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.47.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-23 13:48:38 | [infrangible/phpstan-magento](https://www.nuget.org/packages/infrangible%2Fphpstan-magento) | 1.0.0 | Andreas Knollmann | PHPStan rules and configuration for Magento 2 modules: the checks of PhpStorm t… |
+| 2026-11-23 13:57:43 | [psbits/contact-book](https://www.nuget.org/packages/psbits%2Fcontact-book) | 0.1.0-alpha | Daniel Ablass | Comprehensive contact management |
+| 2026-11-23 14:10:57 | [datacircle/php-mcp-tools](https://www.nuget.org/packages/datacircle%2Fphp-mcp-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. This package adds four tools to an MCP server made with… |
+| 2026-11-23 14:11:06 | [ideal-postcodes/laravel](https://www.nuget.org/packages/ideal-postcodes%2Flaravel) | v0.1.0 | Ideal Postcodes | Laravel package for the Ideal Postcodes PHP SDK: set your API key in .env, then… |
 
 ## Data source
 
