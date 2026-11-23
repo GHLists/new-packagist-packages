@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-23T14:35:21Z,p6g9yhk6/relay_tracking,1.0.0,P6g9YHK6,"Per recipient delivery tracking of sent mail (delivered, opened, clicked, bounced, spam, unsubscribed) and blocked contacts management for mail sent through a transactional SMTP relay such as Brevo. Roundcube holds no relay key: a server-side collector feeds it."
+2026-11-23T14:50:29Z,alexandrebulete/ddd-media-bundle,1.0.0,Alexandre Bulete,"A media library as a reusable DDD Bounded Context: files on Flysystem, resized on demand with LiipImagine, Sylius admin, usage guard."
+2026-11-23T14:57:35Z,webpatser/resonate-upstream,v0.1.0,Christoph Kempen,Subscribe a Resonate server to external sockets (Socket.IO v4 or plain websocket) and pass their messages on to channels or the queue
+2026-11-23T15:06:53Z,filafly/filament-tabler-icons,v1.0.0,Nolan Nordlund,"Tabler Icons pack for Filament Icons: replaces every Filament UI icon with Tabler Icons, outline or filled"
+2026-11-23T15:13:39Z,drupal/display_builder_ai_recipe,1.0.0-alpha1,Jean Valverde,"Adds the Display Builder AI assistant to a Display Builder site, with an AI provider."
+2026-11-23T15:15:45Z,nubos/starterkit,v1.48.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."

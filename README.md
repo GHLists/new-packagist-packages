@@ -15,21 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 14:20 UTC
+## Latest list — 2026-11-23 15:22 UTC
 
-New packages created between 2026-11-23 13:20 UTC and 2026-11-23 14:20 UTC.
+New packages created between 2026-11-23 14:20 UTC and 2026-11-23 15:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-23T14-20-04-721462Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-23T15-22-38-591633Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-23 13:25:45 | [hk100/tcp-socket](https://www.nuget.org/packages/hk100%2Ftcp-socket) | v1.0.0 | hk100 | Multi-protocol (TCP / WebSocket / MQTT) communication package for Hyperf and La… |
-| 2026-11-23 13:34:13 | [rashed50702/laravel-bangla-pdf](https://www.nuget.org/packages/rashed50702%2Flaravel-bangla-pdf) | v1.0.0 | Md. Rashedul Hasan | Generate Bangla (Bengali) + English PDFs in Laravel with mPDF: correct conjunct… |
-| 2026-11-23 13:39:10 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.47.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
-| 2026-11-23 13:48:38 | [infrangible/phpstan-magento](https://www.nuget.org/packages/infrangible%2Fphpstan-magento) | 1.0.0 | Andreas Knollmann | PHPStan rules and configuration for Magento 2 modules: the checks of PhpStorm t… |
-| 2026-11-23 13:57:43 | [psbits/contact-book](https://www.nuget.org/packages/psbits%2Fcontact-book) | 0.1.0-alpha | Daniel Ablass | Comprehensive contact management |
-| 2026-11-23 14:10:57 | [datacircle/php-mcp-tools](https://www.nuget.org/packages/datacircle%2Fphp-mcp-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. This package adds four tools to an MCP server made with… |
-| 2026-11-23 14:11:06 | [ideal-postcodes/laravel](https://www.nuget.org/packages/ideal-postcodes%2Flaravel) | v0.1.0 | Ideal Postcodes | Laravel package for the Ideal Postcodes PHP SDK: set your API key in .env, then… |
+| 2026-11-23 14:35:21 | [p6g9yhk6/relay_tracking](https://www.nuget.org/packages/p6g9yhk6%2Frelay_tracking) | 1.0.0 | P6g9YHK6 | Per recipient delivery tracking of sent mail (delivered, opened, clicked, bounc… |
+| 2026-11-23 14:50:29 | [alexandrebulete/ddd-media-bundle](https://www.nuget.org/packages/alexandrebulete%2Fddd-media-bundle) | 1.0.0 | Alexandre Bulete | A media library as a reusable DDD Bounded Context: files on Flysystem, resized… |
+| 2026-11-23 14:57:35 | [webpatser/resonate-upstream](https://www.nuget.org/packages/webpatser%2Fresonate-upstream) | v0.1.0 | Christoph Kempen | Subscribe a Resonate server to external sockets (Socket.IO v4 or plain websocke… |
+| 2026-11-23 15:06:53 | [filafly/filament-tabler-icons](https://www.nuget.org/packages/filafly%2Ffilament-tabler-icons) | v1.0.0 | Nolan Nordlund | Tabler Icons pack for Filament Icons: replaces every Filament UI icon with Tabl… |
+| 2026-11-23 15:13:39 | [drupal/display_builder_ai_recipe](https://www.nuget.org/packages/drupal%2Fdisplay_builder_ai_recipe) | 1.0.0-alpha1 | Jean Valverde | Adds the Display Builder AI assistant to a Display Builder site, with an AI pro… |
+| 2026-11-23 15:15:45 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.48.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
 
 ## Data source
 
