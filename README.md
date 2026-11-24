@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 23:20 UTC
+## Latest list — 2026-11-24 00:19 UTC
 
-New packages created between 2026-11-23 22:20 UTC and 2026-11-23 23:20 UTC.
+New packages created between 2026-11-23 23:20 UTC and 2026-11-24 00:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-23T23-20-08-373812Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T00-19-15-426965Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-23 22:25:59 | [hnooz/filament-zone-map](https://www.nuget.org/packages/hnooz%2Ffilament-zone-map) | v1.0.0 | Mohamed Idris | Draw, edit and display geographic zones on Google Maps in Filament. |
-| 2026-11-23 22:32:59 | [sliusardev/hata](https://www.nuget.org/packages/sliusardev%2Fhata) | v0.1.3 |  | Hata: an admin panel and CMS for Laravel (users, roles, site settings, media li… |
-| 2026-11-23 23:10:02 | [juaniquillo/backend-design-system](https://www.nuget.org/packages/juaniquillo%2Fbackend-design-system) | v0.1.0 | Victor Sánchez | Laravel design system: PHP components, Tailwind theme files, config-driven desi… |
+| 2026-11-23 23:57:37 | [venusian/topside](https://www.nuget.org/packages/venusian%2Ftopside) | 0.11.3 | Angel Gonzalez | The Venusian Visual Output Framework. |
+| 2026-11-24 00:02:03 | [hassan-razhei/larapython](https://www.nuget.org/packages/hassan-razhei%2Flarapython) | v1.0.0 | Hassan-Razhei | Unified Laravel-Python Integration Engine for background tasks, Boost MCP, and… |
 
 ## Data source
 
