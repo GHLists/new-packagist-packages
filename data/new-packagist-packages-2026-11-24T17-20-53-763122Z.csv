@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-24T16:36:06Z,emmanpbarrameda/filament-scaffold2,v1.0.0,Emmanuel P. Barrameda; Solution Forest (original filament-scaffold),"Scaffold Manager for Filament v4/v5: generate migrations, models, resources, policies, controllers and API services from your panel. Based on solution-forest/filament-scaffold."
+2026-11-24T16:40:57Z,leadveyor/leadveyor-php,v0.1.0,Leadveyor,"Official PHP client for the Leadveyor API: lead scoring, sources, webhooks."
+2026-11-24T16:42:02Z,jostar/savedate-wordpress,v0.2.0,,"WordPress-Plugin für SaveDate-Events: Termine verwalten, Listen, Kalender und Formulare einbinden."
+2026-11-24T16:44:17Z,jostar/savedate-client,v0.1.2,,"PHP-Client für die SaveDate-Event-API mit Validierung, Admin-Oberfläche und Ansichten für Cairo, WordPress und andere Systeme."
+2026-11-24T16:47:24Z,eshimischi/vendor-cleanup,v2.0.3,eshimischi,"Global CLI tool & Composer plugin to strip tests, docs, and dev files from vendor in production"
+2026-11-24T16:50:36Z,shoplygg/shoply-php,v0.11.5,,"Shoply's API from your own server: every route as a method, safe retries, pages, checking webhooks, and OAuth for apps."
+2026-11-24T17:09:24Z,ray/fake-query,0.1.0,Akihito Koriyama,Fakes Ray.MediaQuery query interfaces by returning JSON fixture data instead of executing SQL

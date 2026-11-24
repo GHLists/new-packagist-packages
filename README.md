@@ -15,18 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 16:21 UTC
+## Latest list — 2026-11-24 17:20 UTC
 
-New packages created between 2026-11-24 15:20 UTC and 2026-11-24 16:21 UTC.
+New packages created between 2026-11-24 16:21 UTC and 2026-11-24 17:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T16-21-57-774352Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T17-20-53-763122Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 15:23:10 | [zaver/openmage-payment](https://www.nuget.org/packages/zaver%2Fopenmage-payment) | 1.0.1 | Zaver | Zaver Checkout payment module for OpenMage LTS (Magento 1): pay later, instalme… |
-| 2026-11-24 15:59:22 | [mrdellimore/rusty-sheet](https://www.nuget.org/packages/mrdellimore%2Frusty-sheet) | 0.1.2 |  | Rust-powered PHP extension for streaming XLSX and CSV: OpenSpout-compatible rea… |
-| 2026-11-24 16:03:26 | [rylacdang/formcast](https://www.nuget.org/packages/rylacdang%2Fformcast) | v0.1.0 | Ryan Lester Lacdang | Cast your Laravel FormRequest rules to typed Zod schemas, TypeScript types, and… |
-| 2026-11-24 16:12:13 | [eshimischi/vendor-cleanup](https://www.nuget.org/packages/eshimischi%2Fvendor-cleanup) | v2.0.1 | eshimischi | Global CLI tool & Composer plugin to strip tests, docs, and dev files from vend… |
+| 2026-11-24 16:36:06 | [emmanpbarrameda/filament-scaffold2](https://www.nuget.org/packages/emmanpbarrameda%2Ffilament-scaffold2) | v1.0.0 | Emmanuel P. Barrameda; Soluti… | Scaffold Manager for Filament v4/v5: generate migrations, models, resources, po… |
+| 2026-11-24 16:40:57 | [leadveyor/leadveyor-php](https://www.nuget.org/packages/leadveyor%2Fleadveyor-php) | v0.1.0 | Leadveyor | Official PHP client for the Leadveyor API: lead scoring, sources, webhooks. |
+| 2026-11-24 16:42:02 | [jostar/savedate-wordpress](https://www.nuget.org/packages/jostar%2Fsavedate-wordpress) | v0.2.0 |  | WordPress-Plugin für SaveDate-Events: Termine verwalten, Listen, Kalender und F… |
+| 2026-11-24 16:44:17 | [jostar/savedate-client](https://www.nuget.org/packages/jostar%2Fsavedate-client) | v0.1.2 |  | PHP-Client für die SaveDate-Event-API mit Validierung, Admin-Oberfläche und Ans… |
+| 2026-11-24 16:47:24 | [eshimischi/vendor-cleanup](https://www.nuget.org/packages/eshimischi%2Fvendor-cleanup) | v2.0.3 | eshimischi | Global CLI tool & Composer plugin to strip tests, docs, and dev files from vend… |
+| 2026-11-24 16:50:36 | [shoplygg/shoply-php](https://www.nuget.org/packages/shoplygg%2Fshoply-php) | v0.11.5 |  | Shoply's API from your own server: every route as a method, safe retries, pages… |
+| 2026-11-24 17:09:24 | [ray/fake-query](https://www.nuget.org/packages/ray%2Ffake-query) | 0.1.0 | Akihito Koriyama | Fakes Ray.MediaQuery query interfaces by returning JSON fixture data instead of… |
 
 ## Data source
 
