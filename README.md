@@ -15,17 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 02:20 UTC
+## Latest list — 2026-11-24 03:18 UTC
 
-New packages created between 2026-11-24 01:21 UTC and 2026-11-24 02:20 UTC.
+New packages created between 2026-11-24 02:20 UTC and 2026-11-24 03:18 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T02-20-13-0131Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T03-18-54-68324Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 01:28:29 | [pushinbr/nimbus-rector](https://www.nuget.org/packages/pushinbr%2Fnimbus-rector) | v0.1.0 |  | Rector rules that rewrite the mechanical parts of a Laravel application for Nim… |
-| 2026-11-24 01:42:32 | [rushphp/code-tool](https://www.nuget.org/packages/rushphp%2Fcode-tool) | v0.2.0 | RUSHphp | RUSH code tool. Shared-host code delivery: check, push, promote, release and ro… |
-| 2026-11-24 01:58:02 | [js-upup/image-text-edit-csv](https://www.nuget.org/packages/js-upup%2Fimage-text-edit-csv) | v0.1.0 |  | Stream text replacement manifests for image edit reviews as CSV. |
+| 2026-11-24 02:20:26 | [luany/starter](https://www.nuget.org/packages/luany%2Fstarter) | v1.0.1 | António Ambrósio Ngola | Luany starter kit em português: registo, entrada, recuperação de palavra-passe… |
 
 ## Data source
 
