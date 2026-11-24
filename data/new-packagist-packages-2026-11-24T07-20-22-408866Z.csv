@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-24T06:21:46Z,ongudidan/laravel-payments-engine,v1.0.1,Ongudidan,"Unified enterprise payment accounts, physical cash vault denominations, customer/supplier wallets, M-Pesa STK/C2B automation, double-entry general ledger, and financial reporting engine for Laravel."
+2026-11-24T06:24:03Z,fiberphp/queue-rabbitmq,v0.1.0,PangBin,🐰 FiberPHP RabbitMQ 队列驱动 —— AMQP 协议实现，支持连接池、延迟消息、消息确认。
+2026-11-24T07:04:28Z,psbits/gift-log,0.1.0-alpha,Daniel Ablass,Keep a record of all the gifts you have received or given.

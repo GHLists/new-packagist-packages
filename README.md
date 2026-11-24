@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 06:21 UTC
+## Latest list — 2026-11-24 07:20 UTC
 
-New packages created between 2026-11-24 05:21 UTC and 2026-11-24 06:21 UTC.
+New packages created between 2026-11-24 06:21 UTC and 2026-11-24 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T06-21-29-006823Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T07-20-22-408866Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 06:17:34 | [klsoft/yii3-doctrine-app](https://www.nuget.org/packages/klsoft%2Fyii3-doctrine-app) | 1.0.0 |  | A Yii 3 web application template that supports the Doctrine ORM |
+| 2026-11-24 06:21:46 | [ongudidan/laravel-payments-engine](https://www.nuget.org/packages/ongudidan%2Flaravel-payments-engine) | v1.0.1 | Ongudidan | Unified enterprise payment accounts, physical cash vault denominations, custome… |
+| 2026-11-24 06:24:03 | [fiberphp/queue-rabbitmq](https://www.nuget.org/packages/fiberphp%2Fqueue-rabbitmq) | v0.1.0 | PangBin | 🐰 FiberPHP RabbitMQ 队列驱动 —— AMQP 协议实现，支持连接池、延迟消息、消息确认。 |
+| 2026-11-24 07:04:28 | [psbits/gift-log](https://www.nuget.org/packages/psbits%2Fgift-log) | 0.1.0-alpha | Daniel Ablass | Keep a record of all the gifts you have received or given. |
 
 ## Data source
 
