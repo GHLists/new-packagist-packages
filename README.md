@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 21:20 UTC
+## Latest list — 2026-11-24 22:19 UTC
 
-New packages created between 2026-11-24 20:19 UTC and 2026-11-24 21:20 UTC.
+New packages created between 2026-11-24 21:20 UTC and 2026-11-24 22:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T21-20-06-363026Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T22-19-20-073177Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 20:24:20 | [eshimischi/vendor-cleanup](https://www.nuget.org/packages/eshimischi%2Fvendor-cleanup) | v2.1.3 | eshimischi | Global CLI tool & Composer plugin to strip tests, docs, and dev files from vend… |
-| 2026-11-24 20:36:24 | [mrcaspan/flarum2-events-calendar](https://www.nuget.org/packages/mrcaspan%2Fflarum2-events-calendar) | v1.1.0 | MrCaspan | Events calendar for Flarum 2.0: discussions in an events tag get a date and app… |
-| 2026-11-24 20:45:03 | [jimbojsb/gatekeeper](https://www.nuget.org/packages/jimbojsb%2Fgatekeeper) | v0.1.1 |  | Code-defined roles and permissions for Laravel, stored as a JSON column on the… |
-| 2026-11-24 20:48:14 | [hamzaaqq/openqa-toolkit](https://www.nuget.org/packages/hamzaaqq%2Fopenqa-toolkit) | v0.1.0 |  | Small CLI for repeatable web quality checks |
-| 2026-11-24 21:11:18 | [zeeshan-elahi/laravel-ai-guard](https://www.nuget.org/packages/zeeshan-elahi%2Flaravel-ai-guard) | v0.1.0 | Zeeshan Elahi | Prompt-injection and tool-safety guard for the Laravel AI SDK: tool policies, u… |
+| 2026-11-24 21:30:59 | [coderstudios/do-interview](https://www.nuget.org/packages/coderstudios%2Fdo-interview) | 0.1.1 |  | Researched, voice-based practice interviews with written debriefs, as a Laravel… |
+| 2026-11-24 21:41:53 | [psbits/episode-guide](https://www.nuget.org/packages/psbits%2Fepisode-guide) | 0.1.0-alpha | Daniel Ablass | Create your own episode guide library. |
+| 2026-11-24 22:02:04 | [runio/easyadmin-ux](https://www.nuget.org/packages/runio%2Feasyadmin-ux) | v0.1.0 | Amer Malik Mohammed | Switchable layouts and a modern UX layer for EasyAdmin 5. |
+| 2026-11-24 22:09:41 | [sattleme/module-payment](https://www.nuget.org/packages/sattleme%2Fmodule-payment) | 1.0.0 | sattle.me | sattle.me for Magento Open Source and Adobe Commerce: bitcoin payments, in Ligh… |
+| 2026-11-24 22:09:44 | [marcin-orlowski/php-cs-fixer-extras](https://www.nuget.org/packages/marcin-orlowski%2Fphp-cs-fixer-extras) | 1.0.0 | Marcin Orlowski | Extra fixers for PHP CS Fixer. |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-24T21:30:59Z,coderstudios/do-interview,0.1.1,,"Researched, voice-based practice interviews with written debriefs, as a Laravel package."
+2026-11-24T21:41:53Z,psbits/episode-guide,0.1.0-alpha,Daniel Ablass,Create your own episode guide library.
+2026-11-24T22:02:04Z,runio/easyadmin-ux,v0.1.0,Amer Malik Mohammed,Switchable layouts and a modern UX layer for EasyAdmin 5.
+2026-11-24T22:09:41Z,sattleme/module-payment,1.0.0,sattle.me,"sattle.me for Magento Open Source and Adobe Commerce: bitcoin payments, in Lightning or on-chain, paid straight to the merchant's sattle.me wallet."
+2026-11-24T22:09:44Z,marcin-orlowski/php-cs-fixer-extras,1.0.0,Marcin Orlowski,Extra fixers for PHP CS Fixer.
