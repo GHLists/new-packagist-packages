@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-24T08:59:57Z,filefabrik/rfc9421,v1.10.6,RT Filefabrik,Create and validate RFC 9421 HTTP Signatures for ActivityPub.
+2026-11-24T09:02:41Z,b2pweb/bdf-api,v1.0.0,,Bdf Soap Api component
+2026-11-24T09:06:05Z,packstub/filament-saas-starter,v1.0.0,Packstub,"A multi-tenant SaaS starter kit for Laravel and Filament: sign-up, workspaces, team invitations, plans with limits and Stripe billing."
