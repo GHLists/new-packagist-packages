@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 00:19 UTC
+## Latest list — 2026-11-24 01:21 UTC
 
-New packages created between 2026-11-23 23:20 UTC and 2026-11-24 00:19 UTC.
+New packages created between 2026-11-24 00:19 UTC and 2026-11-24 01:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T00-19-15-426965Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T01-21-44-822943Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-23 23:57:37 | [venusian/topside](https://www.nuget.org/packages/venusian%2Ftopside) | 0.11.3 | Angel Gonzalez | The Venusian Visual Output Framework. |
-| 2026-11-24 00:02:03 | [hassan-razhei/larapython](https://www.nuget.org/packages/hassan-razhei%2Flarapython) | v1.0.0 | Hassan-Razhei | Unified Laravel-Python Integration Engine for background tasks, Boost MCP, and… |
+| 2026-11-24 00:40:04 | [noneo/sdk-pennylane](https://www.nuget.org/packages/noneo%2Fsdk-pennylane) | v1.0.0 | Valentin Goulier; Noneo | SDK pour l'accès à l'API Pennylane |
+| 2026-11-24 01:07:24 | [mundosms/sdk](https://www.nuget.org/packages/mundosms%2Fsdk) | v1.0.0 | MundoSMS | Cliente de la API REST v3 de MundoSMS: SMS, WhatsApp, centralita, VozPush y Num… |
 
 ## Data source
 

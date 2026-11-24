@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-24T00:40:04Z,noneo/sdk-pennylane,v1.0.0,Valentin Goulier; Noneo,SDK pour l'accès à l'API Pennylane
+2026-11-24T01:07:24Z,mundosms/sdk,v1.0.0,MundoSMS,"Cliente de la API REST v3 de MundoSMS: SMS, WhatsApp, centralita, VozPush y NumCheck. Firma cada petición y reintenta solo lo que es seguro repetir. Sin dependencias."
