@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-24T03:23:32Z,lucasferro0/boleto-kit,0.1.0,Lucas Ferro,Biblioteca PHP para validação e conversão entre código de barras e linha digitável de boletos bancários e convênios (FEBRABAN).
+2026-11-24T03:37:05Z,klsoft/yii3-doctrine-app,1.0.0,,A Yii 3 web application template that supports the Doctrine ORM
+2026-11-24T03:37:45Z,fiberphp/queue,v0.1.0,PangBin,📨 FiberPHP 队列核心 —— 契约与管理器，驱动策略模式，支持生产者/消费者模型、重试/死信策略、链路追踪传播。
+2026-11-24T03:40:34Z,klsoft/yii3-cms,1.0.0,,A content management system based on the Yii 3 framework and uses the Doctrine ORM
