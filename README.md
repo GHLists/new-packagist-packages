@@ -15,19 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 22:19 UTC
+## Latest list — 2026-11-24 23:19 UTC
 
-New packages created between 2026-11-24 21:20 UTC and 2026-11-24 22:19 UTC.
+New packages created between 2026-11-24 22:19 UTC and 2026-11-24 23:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T22-19-20-073177Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T23-19-40-707107Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 21:30:59 | [coderstudios/do-interview](https://www.nuget.org/packages/coderstudios%2Fdo-interview) | 0.1.1 |  | Researched, voice-based practice interviews with written debriefs, as a Laravel… |
-| 2026-11-24 21:41:53 | [psbits/episode-guide](https://www.nuget.org/packages/psbits%2Fepisode-guide) | 0.1.0-alpha | Daniel Ablass | Create your own episode guide library. |
-| 2026-11-24 22:02:04 | [runio/easyadmin-ux](https://www.nuget.org/packages/runio%2Feasyadmin-ux) | v0.1.0 | Amer Malik Mohammed | Switchable layouts and a modern UX layer for EasyAdmin 5. |
-| 2026-11-24 22:09:41 | [sattleme/module-payment](https://www.nuget.org/packages/sattleme%2Fmodule-payment) | 1.0.0 | sattle.me | sattle.me for Magento Open Source and Adobe Commerce: bitcoin payments, in Ligh… |
-| 2026-11-24 22:09:44 | [marcin-orlowski/php-cs-fixer-extras](https://www.nuget.org/packages/marcin-orlowski%2Fphp-cs-fixer-extras) | 1.0.0 | Marcin Orlowski | Extra fixers for PHP CS Fixer. |
+| 2026-11-24 22:40:30 | [curly-message/parser](https://www.nuget.org/packages/curly-message%2Fparser) | v1.0.0-RC.0 |  | PHP implementation of the Curly Message Format. |
+| 2026-11-24 22:46:20 | [shoplygg/shoply-php](https://www.nuget.org/packages/shoplygg%2Fshoply-php) | v0.12.0 |  | Shoply's API from your own server: every route as a method, safe retries, pages… |
+| 2026-11-24 22:47:02 | [1994/forms-captcha-statamic](https://www.nuget.org/packages/1994%2Fforms-captcha-statamic) | v1.0.0 | 1994 | Captcha fields for Statamic forms: Turnstile, hCaptcha or reCAPTCHA, dragged in… |
 
 ## Data source
 
