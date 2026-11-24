@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 05:21 UTC
+## Latest list — 2026-11-24 06:21 UTC
 
-New packages created between 2026-11-24 04:21 UTC and 2026-11-24 05:21 UTC.
+New packages created between 2026-11-24 05:21 UTC and 2026-11-24 06:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T05-21-49-014612Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T06-21-29-006823Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 04:29:50 | [fiberphp/queue-redis](https://www.nuget.org/packages/fiberphp%2Fqueue-redis) | v0.1.0 | PangBin | 📨 FiberPHP Redis 队列驱动 —— 基于 Redis Stream，支持延迟消息、消费组、pending 认领。 |
+| 2026-11-24 06:17:34 | [klsoft/yii3-doctrine-app](https://www.nuget.org/packages/klsoft%2Fyii3-doctrine-app) | 1.0.0 |  | A Yii 3 web application template that supports the Doctrine ORM |
 
 ## Data source
 
