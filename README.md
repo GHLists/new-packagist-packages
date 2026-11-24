@@ -15,20 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 12:21 UTC
+## Latest list — 2026-11-24 13:20 UTC
 
-New packages created between 2026-11-24 11:18 UTC and 2026-11-24 12:21 UTC.
+New packages created between 2026-11-24 12:21 UTC and 2026-11-24 13:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T12-21-50-286871Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T13-20-37-499407Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 11:25:26 | [lexflame/intelfield](https://www.nuget.org/packages/lexflame%2Fintelfield) | v0.1.0 |  | Browser form controls: jQuery fields, date/time pickers, buttons and AJAX conne… |
-| 2026-11-24 11:29:59 | [opencultureconsulting/updater](https://www.nuget.org/packages/opencultureconsulting%2Fupdater) | v1.0.0 | Open Culture Consulting; Seba… | A self-update command for Composer-based applications. |
-| 2026-11-24 11:31:22 | [serversmtp/serversmtp-laravel](https://www.nuget.org/packages/serversmtp%2Fserversmtp-laravel) | v0.1.0 | Think AI SRL | ServerSMTP mail transport and automation events for Laravel |
-| 2026-11-24 11:51:27 | [jellyhaus/vite](https://www.nuget.org/packages/jellyhaus%2Fvite) | 2026.11.3 | Jason Millis | Vite Integration for Vanilla PHP Projects |
-| 2026-11-24 11:58:00 | [jeffersongoncalves/laravel-scanner-guard-haproxy](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-scanner-guard-haproxy) | 1.0.0 | Jefferson Gonçalves | HAProxy denylist sink for laravel-scanner-guard: writes banned IPs as an ACL fi… |
-| 2026-11-24 11:58:15 | [jeffersongoncalves/laravel-scanner-guard-aws-waf](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-scanner-guard-aws-waf) | 1.0.0 | Jefferson Gonçalves | AWS WAF denylist sink for laravel-scanner-guard: keeps IP sets in sync so a web… |
+| 2026-11-24 12:27:13 | [agent001/sylius-ai-assistant-plugin](https://www.nuget.org/packages/agent001%2Fsylius-ai-assistant-plugin) | 1.0.0 | Agent001 Team | Agent001 AI Customer Support Assistant for Sylius eCommerce. |
+| 2026-11-24 12:32:51 | [globalxtreme/php-asa](https://www.nuget.org/packages/globalxtreme%2Fphp-asa) | 1.0.0 | Yuswa | GlobalXtreme ASA Automation Package for PHP Language |
+| 2026-11-24 12:51:45 | [jacobdelcroix/ffbb-api-sdk](https://www.nuget.org/packages/jacobdelcroix%2Fffbb-api-sdk) | v0.1.1 | Jacob Delcroix | SDK PHP (Saloon) non officiel pour les données FFBB : clubs, compétitions, poul… |
+| 2026-11-24 13:03:11 | [ifynx/gulf-e-invoicing](https://www.nuget.org/packages/ifynx%2Fgulf-e-invoicing) | v0.1.0 | iFynx Integrated Solutions P.… | Saudi ZATCA Phase 2 (Fatoora) signing, XAdES and QR plus UAE Peppol PINT AE e-i… |
+| 2026-11-24 13:08:14 | [survos/omc](https://www.nuget.org/packages/survos%2Fomc) | 2.45.88 |  | MovieLabs OMC 2.8 DTOs, schema validation and production catalog JSON. |
+| 2026-11-24 13:09:52 | [lessormq/laravel](https://www.nuget.org/packages/lessormq%2Flaravel) | v0.4.9 |  | Laravel queue driver for LessorMQ: the queue decides retries, backoff and dead-… |
 
 ## Data source
 
