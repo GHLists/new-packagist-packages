@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 01:21 UTC
+## Latest list — 2026-11-24 02:20 UTC
 
-New packages created between 2026-11-24 00:19 UTC and 2026-11-24 01:21 UTC.
+New packages created between 2026-11-24 01:21 UTC and 2026-11-24 02:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T01-21-44-822943Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T02-20-13-0131Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 00:40:04 | [noneo/sdk-pennylane](https://www.nuget.org/packages/noneo%2Fsdk-pennylane) | v1.0.0 | Valentin Goulier; Noneo | SDK pour l'accès à l'API Pennylane |
-| 2026-11-24 01:07:24 | [mundosms/sdk](https://www.nuget.org/packages/mundosms%2Fsdk) | v1.0.0 | MundoSMS | Cliente de la API REST v3 de MundoSMS: SMS, WhatsApp, centralita, VozPush y Num… |
+| 2026-11-24 01:28:29 | [pushinbr/nimbus-rector](https://www.nuget.org/packages/pushinbr%2Fnimbus-rector) | v0.1.0 |  | Rector rules that rewrite the mechanical parts of a Laravel application for Nim… |
+| 2026-11-24 01:42:32 | [rushphp/code-tool](https://www.nuget.org/packages/rushphp%2Fcode-tool) | v0.2.0 | RUSHphp | RUSH code tool. Shared-host code delivery: check, push, promote, release and ro… |
+| 2026-11-24 01:58:02 | [js-upup/image-text-edit-csv](https://www.nuget.org/packages/js-upup%2Fimage-text-edit-csv) | v0.1.0 |  | Stream text replacement manifests for image edit reviews as CSV. |
 
 ## Data source
 
