@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-24T10:27:53Z,jeffersongoncalves/laravel-scanner-guard-caddy,1.0.0,Jefferson Gonçalves,Caddy denylist sink for laravel-scanner-guard: writes banned IPs as an imported Caddyfile and reloads Caddy
+2026-11-24T10:28:09Z,jeffersongoncalves/laravel-scanner-guard-apache,1.0.0,Jefferson Gonçalves,Apache denylist sink for laravel-scanner-guard: writes banned IPs as an included Require file and reloads Apache
+2026-11-24T10:31:54Z,iperstudio/impersonate-plugin,v1.0.1,Iperstudio,"Admin-only, request-scoped account impersonation for Kirby websites."
+2026-11-24T10:32:10Z,jeffersongoncalves/laravel-scanner-guard-frankenphp,1.0.0,Jefferson Gonçalves,FrankenPHP denylist sink for laravel-scanner-guard: writes banned IPs as an imported Caddyfile and reloads FrankenPHP
+2026-11-24T10:41:26Z,wrdev/minimax-php-client,v0.9.0,Vlad G.,Framework-agnostic PHP client for the Minimax accounting API.
+2026-11-24T10:42:00Z,mygeocode/mygeocode,v1.1.1,My Geocode,"Official PHP client for the My Geocode API: forward and reverse geocoding, address autocomplete, IP, timezone, elevation and postal code lookups."
+2026-11-24T10:43:48Z,vinworld/vinmail,v0.1.0,Vinworld,Official PHP and Laravel SDK for the VinMail transactional email API.
+2026-11-24T10:52:50Z,bunowave/recloud-laravel,v1.0.0,,"ReCloud Turnstile bot protection for Laravel: Blade component, validation rule, middleware and facade."
