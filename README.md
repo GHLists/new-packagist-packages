@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 20:19 UTC
+## Latest list — 2026-11-24 21:20 UTC
 
-New packages created between 2026-11-24 19:20 UTC and 2026-11-24 20:19 UTC.
+New packages created between 2026-11-24 20:19 UTC and 2026-11-24 21:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T20-19-04-603535Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T21-20-06-363026Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 19:23:23 | [mrcaspan/flarum2-email-editor](https://www.nuget.org/packages/mrcaspan%2Fflarum2-email-editor) | v1.0.0 | MrCaspan | Edit the subject and wording of every email your Flarum 2.0 forum sends, and st… |
-| 2026-11-24 19:37:57 | [wpcerber/wp-cerber](https://www.nuget.org/packages/wpcerber%2Fwp-cerber) | 10.0.0 | Cerber Tech Inc. | Advanced WordPress security plugin featuring a web application firewall (WAF),… |
-| 2026-11-24 19:56:09 | [konradmichalik/phpstan-exception-codes](https://www.nuget.org/packages/konradmichalik%2Fphpstan-exception-codes) | 0.1.0 | Konrad Michalik | PHPStan rules for unique, plausible exception codes, as TYPO3 expects them |
-| 2026-11-24 19:57:21 | [konradmichalik/phpstan-typo3-dead-code](https://www.nuget.org/packages/konradmichalik%2Fphpstan-typo3-dead-code) | 0.1.0 | Konrad Michalik | TYPO3 entry points for shipmonk/dead-code-detector: DI constructors, route targ… |
-| 2026-11-24 20:00:09 | [konradmichalik/ttt-phpstan](https://www.nuget.org/packages/konradmichalik%2Fttt-phpstan) | 0.1.0 | Konrad Michalik | PHPStan rules that point to ttt attributes instead of hand-written test state |
-| 2026-11-24 20:08:57 | [eshimischi/vendor-cleanup](https://www.nuget.org/packages/eshimischi%2Fvendor-cleanup) | v2.1.2 | eshimischi | Global CLI tool & Composer plugin to strip tests, docs, and dev files from vend… |
+| 2026-11-24 20:24:20 | [eshimischi/vendor-cleanup](https://www.nuget.org/packages/eshimischi%2Fvendor-cleanup) | v2.1.3 | eshimischi | Global CLI tool & Composer plugin to strip tests, docs, and dev files from vend… |
+| 2026-11-24 20:36:24 | [mrcaspan/flarum2-events-calendar](https://www.nuget.org/packages/mrcaspan%2Fflarum2-events-calendar) | v1.1.0 | MrCaspan | Events calendar for Flarum 2.0: discussions in an events tag get a date and app… |
+| 2026-11-24 20:45:03 | [jimbojsb/gatekeeper](https://www.nuget.org/packages/jimbojsb%2Fgatekeeper) | v0.1.1 |  | Code-defined roles and permissions for Laravel, stored as a JSON column on the… |
+| 2026-11-24 20:48:14 | [hamzaaqq/openqa-toolkit](https://www.nuget.org/packages/hamzaaqq%2Fopenqa-toolkit) | v0.1.0 |  | Small CLI for repeatable web quality checks |
+| 2026-11-24 21:11:18 | [zeeshan-elahi/laravel-ai-guard](https://www.nuget.org/packages/zeeshan-elahi%2Flaravel-ai-guard) | v0.1.0 | Zeeshan Elahi | Prompt-injection and tool-safety guard for the Laravel AI SDK: tool policies, u… |
 
 ## Data source
 
