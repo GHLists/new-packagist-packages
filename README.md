@@ -15,18 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 19:20 UTC
+## Latest list — 2026-11-24 20:19 UTC
 
-New packages created between 2026-11-24 18:20 UTC and 2026-11-24 19:20 UTC.
+New packages created between 2026-11-24 19:20 UTC and 2026-11-24 20:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T19-20-15-621265Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T20-19-04-603535Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 18:23:44 | [averay/phpforce-soap-client](https://www.nuget.org/packages/averay%2Fphpforce-soap-client) | v0.2.0 | David de Boer; Adam Averay | A PHP client for the Salesforce SOAP API |
-| 2026-11-24 18:43:00 | [lokus/servercheck](https://www.nuget.org/packages/lokus%2Fservercheck) | v1.0.0 |  |  |
-| 2026-11-24 18:43:30 | [scottboms/mastodon-feed](https://www.nuget.org/packages/scottboms%2Fmastodon-feed) | 6.0.0 | Scott Boms | Mastodon Feed plugin for Kirby |
-| 2026-11-24 19:12:13 | [statamic/forms-pro](https://www.nuget.org/packages/statamic%2Fforms-pro) | v1.0.0 |  |  |
+| 2026-11-24 19:23:23 | [mrcaspan/flarum2-email-editor](https://www.nuget.org/packages/mrcaspan%2Fflarum2-email-editor) | v1.0.0 | MrCaspan | Edit the subject and wording of every email your Flarum 2.0 forum sends, and st… |
+| 2026-11-24 19:37:57 | [wpcerber/wp-cerber](https://www.nuget.org/packages/wpcerber%2Fwp-cerber) | 10.0.0 | Cerber Tech Inc. | Advanced WordPress security plugin featuring a web application firewall (WAF),… |
+| 2026-11-24 19:56:09 | [konradmichalik/phpstan-exception-codes](https://www.nuget.org/packages/konradmichalik%2Fphpstan-exception-codes) | 0.1.0 | Konrad Michalik | PHPStan rules for unique, plausible exception codes, as TYPO3 expects them |
+| 2026-11-24 19:57:21 | [konradmichalik/phpstan-typo3-dead-code](https://www.nuget.org/packages/konradmichalik%2Fphpstan-typo3-dead-code) | 0.1.0 | Konrad Michalik | TYPO3 entry points for shipmonk/dead-code-detector: DI constructors, route targ… |
+| 2026-11-24 20:00:09 | [konradmichalik/ttt-phpstan](https://www.nuget.org/packages/konradmichalik%2Fttt-phpstan) | 0.1.0 | Konrad Michalik | PHPStan rules that point to ttt attributes instead of hand-written test state |
+| 2026-11-24 20:08:57 | [eshimischi/vendor-cleanup](https://www.nuget.org/packages/eshimischi%2Fvendor-cleanup) | v2.1.2 | eshimischi | Global CLI tool & Composer plugin to strip tests, docs, and dev files from vend… |
 
 ## Data source
 

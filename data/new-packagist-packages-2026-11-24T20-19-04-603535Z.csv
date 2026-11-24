@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-24T19:23:23Z,mrcaspan/flarum2-email-editor,v1.0.0,MrCaspan,"Edit the subject and wording of every email your Flarum 2.0 forum sends, and style the email layout, from the admin panel. Emails added by extensions you install later show up automatically."
+2026-11-24T19:37:57Z,wpcerber/wp-cerber,10.0.0,Cerber Tech Inc.,"Advanced WordPress security plugin featuring a web application firewall (WAF), malware scanner, brute-force protection, two-factor authentication (2FA), bot detection, anti-spam, and comprehensive security activity logging."
+2026-11-24T19:56:09Z,konradmichalik/phpstan-exception-codes,0.1.0,Konrad Michalik,"PHPStan rules for unique, plausible exception codes, as TYPO3 expects them"
+2026-11-24T19:57:21Z,konradmichalik/phpstan-typo3-dead-code,0.1.0,Konrad Michalik,"TYPO3 entry points for shipmonk/dead-code-detector: DI constructors, route targets and TypoScript userFunc"
+2026-11-24T20:00:09Z,konradmichalik/ttt-phpstan,0.1.0,Konrad Michalik,PHPStan rules that point to ttt attributes instead of hand-written test state
+2026-11-24T20:08:57Z,eshimischi/vendor-cleanup,v2.1.2,eshimischi,"Global CLI tool & Composer plugin to strip tests, docs, and dev files from vendor in production"
