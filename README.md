@@ -15,23 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 14:22 UTC
+## Latest list — 2026-11-24 15:20 UTC
 
-New packages created between 2026-11-24 13:20 UTC and 2026-11-24 14:22 UTC.
+New packages created between 2026-11-24 14:22 UTC and 2026-11-24 15:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T14-22-04-409643Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T15-20-33-372622Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 13:47:03 | [jelix/ldapadmin-module](https://www.nuget.org/packages/jelix%2Fldapadmin-module) | v1.0.0-rc.1 | Laurent Jouanneau | Module for Jelix, displaying an interface to manage an LDAP configuration used… |
-| 2026-11-24 13:49:47 | [avaro/sdk](https://www.nuget.org/packages/avaro%2Fsdk) | v1.0.0 | Jan Habbo Brüning | PHP SDK for the Avaro API v3: shop catalog, customer sign-in, quotes, orders, i… |
-| 2026-11-24 13:59:21 | [scalecommerce/videooptimizer-typo3](https://www.nuget.org/packages/scalecommerce%2Fvideooptimizer-typo3) | v1.0.2 | ScaleCommerce GmbH | Integrates ScaleCommerce VideoOptimizer into TYPO3: pick, upload and manage CDN… |
-| 2026-11-24 14:05:43 | [qdpops/breeze](https://www.nuget.org/packages/qdpops%2Fbreeze) | v1.1.0 |  | Breeze: a light, modern skin for Roundcube 1.6 (date groups, attachment chips,… |
-| 2026-11-24 14:05:43 | [qdpops/tw-folders](https://www.nuget.org/packages/qdpops%2Ftw-folders) | v1.1.0 |  | Companion plugin for the Breeze skin: folder icons and colors, folder rules wit… |
-| 2026-11-24 14:07:52 | [communiqate/communiqate-php](https://www.nuget.org/packages/communiqate%2Fcommuniqate-php) | v0.1.0 |  | Framework-independent PHP SDK for the CommuniQate Workspaces API and webhooks. |
-| 2026-11-24 14:08:58 | [communiqate/communiqate-laravel](https://www.nuget.org/packages/communiqate%2Fcommuniqate-laravel) | v0.1.1 |  | Laravel mail, notifications, facade and webhook integration for CommuniQate Wor… |
-| 2026-11-24 14:12:04 | [brikdigital/craft-queue-monitor](https://www.nuget.org/packages/brikdigital%2Fcraft-queue-monitor) | 1.0.0 |  |  |
-| 2026-11-24 14:14:39 | [limegreentangerine/svelte-builder](https://www.nuget.org/packages/limegreentangerine%2Fsvelte-builder) | 0.0.0 | Lee Jones |  |
+| 2026-11-24 14:23:10 | [wiseadmin/wise-crontab](https://www.nuget.org/packages/wiseadmin%2Fwise-crontab) | v1.0.1 | WiseAdmin Team | WiseAdmin 定时任务调度引擎 — 支持语义化调度与 Cron 表达式、双驱动任务源、分布式锁、任务编排、告警通知、并行执行与后台可视化界面 |
+| 2026-11-24 14:24:13 | [wiseadmin/wise-mcp](https://www.nuget.org/packages/wiseadmin%2Fwise-mcp) | v1.0.1 | WiseAdmin Team | WiseAdmin MCP (Model Context Protocol) 基础设施包 — 协议内核、stdio/Streamable HTTP 传输、Se… |
+| 2026-11-24 14:25:59 | [wiseadmin/wise-rag](https://www.nuget.org/packages/wiseadmin%2Fwise-rag) | v1.0.1 | WiseAdmin Team | WiseAdmin RAG 知识库包 — 文档摄取、向量检索、引用溯源，插件零接入；内含独立命名空间的 Wiki 知识编译引擎（wise\wiki） |
+| 2026-11-24 14:26:22 | [wiseadmin/wise-url](https://www.nuget.org/packages/wiseadmin%2Fwise-url) | v1.0.1 | WiseAdmin Team | WiseAdmin URL 规则引擎 — 方案化 URL 生成与解析、前缀隔离、历史 301、PHPCMS v9 风格规则语法、内置方案与自定义方案 |
+| 2026-11-24 14:35:12 | [sy/bootstrap-wysiwyg](https://www.nuget.org/packages/sy%2Fbootstrap-wysiwyg) | 1.0.1 | Syone | Shared WYSIWYG engine and CKEditor backend for the sy/bootstrap plugins |
+| 2026-11-24 14:39:01 | [rkr/ai-watermark-removal-tools](https://www.nuget.org/packages/rkr%2Fai-watermark-removal-tools) | v1.1.0 |  | Clean invisible Unicode marks in text and remove embedded C2PA provenance metad… |
+| 2026-11-24 14:41:07 | [prolificjones/npm-plugin-installer](https://www.nuget.org/packages/prolificjones%2Fnpm-plugin-installer) | 0.0.3 |  | Installs npm packages and patches package.json after composer install/update. |
+| 2026-11-24 14:58:05 | [mrdellimore/rusty-sheet](https://www.nuget.org/packages/mrdellimore%2Frusty-sheet) | 0.1.0 |  | Rust-powered PHP extension for streaming XLSX and CSV: OpenSpout-compatible rea… |
 
 ## Data source
 
