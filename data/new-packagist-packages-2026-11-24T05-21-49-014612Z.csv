@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-24T04:29:50Z,fiberphp/queue-redis,v0.1.0,PangBin,📨 FiberPHP Redis 队列驱动 —— 基于 Redis Stream，支持延迟消息、消费组、pending 认领。
