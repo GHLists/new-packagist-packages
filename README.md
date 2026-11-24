@@ -15,22 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 11:18 UTC
+## Latest list — 2026-11-24 12:21 UTC
 
-New packages created between 2026-11-24 10:21 UTC and 2026-11-24 11:18 UTC.
+New packages created between 2026-11-24 11:18 UTC and 2026-11-24 12:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T11-18-56-775356Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T12-21-50-286871Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 10:27:53 | [jeffersongoncalves/laravel-scanner-guard-caddy](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-scanner-guard-caddy) | 1.0.0 | Jefferson Gonçalves | Caddy denylist sink for laravel-scanner-guard: writes banned IPs as an imported… |
-| 2026-11-24 10:28:09 | [jeffersongoncalves/laravel-scanner-guard-apache](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-scanner-guard-apache) | 1.0.0 | Jefferson Gonçalves | Apache denylist sink for laravel-scanner-guard: writes banned IPs as an include… |
-| 2026-11-24 10:31:54 | [iperstudio/impersonate-plugin](https://www.nuget.org/packages/iperstudio%2Fimpersonate-plugin) | v1.0.1 | Iperstudio | Admin-only, request-scoped account impersonation for Kirby websites. |
-| 2026-11-24 10:32:10 | [jeffersongoncalves/laravel-scanner-guard-frankenphp](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-scanner-guard-frankenphp) | 1.0.0 | Jefferson Gonçalves | FrankenPHP denylist sink for laravel-scanner-guard: writes banned IPs as an imp… |
-| 2026-11-24 10:41:26 | [wrdev/minimax-php-client](https://www.nuget.org/packages/wrdev%2Fminimax-php-client) | v0.9.0 | Vlad G. | Framework-agnostic PHP client for the Minimax accounting API. |
-| 2026-11-24 10:42:00 | [mygeocode/mygeocode](https://www.nuget.org/packages/mygeocode%2Fmygeocode) | v1.1.1 | My Geocode | Official PHP client for the My Geocode API: forward and reverse geocoding, addr… |
-| 2026-11-24 10:43:48 | [vinworld/vinmail](https://www.nuget.org/packages/vinworld%2Fvinmail) | v0.1.0 | Vinworld | Official PHP and Laravel SDK for the VinMail transactional email API. |
-| 2026-11-24 10:52:50 | [bunowave/recloud-laravel](https://www.nuget.org/packages/bunowave%2Frecloud-laravel) | v1.0.0 |  | ReCloud Turnstile bot protection for Laravel: Blade component, validation rule,… |
+| 2026-11-24 11:25:26 | [lexflame/intelfield](https://www.nuget.org/packages/lexflame%2Fintelfield) | v0.1.0 |  | Browser form controls: jQuery fields, date/time pickers, buttons and AJAX conne… |
+| 2026-11-24 11:29:59 | [opencultureconsulting/updater](https://www.nuget.org/packages/opencultureconsulting%2Fupdater) | v1.0.0 | Open Culture Consulting; Seba… | A self-update command for Composer-based applications. |
+| 2026-11-24 11:31:22 | [serversmtp/serversmtp-laravel](https://www.nuget.org/packages/serversmtp%2Fserversmtp-laravel) | v0.1.0 | Think AI SRL | ServerSMTP mail transport and automation events for Laravel |
+| 2026-11-24 11:51:27 | [jellyhaus/vite](https://www.nuget.org/packages/jellyhaus%2Fvite) | 2026.11.3 | Jason Millis | Vite Integration for Vanilla PHP Projects |
+| 2026-11-24 11:58:00 | [jeffersongoncalves/laravel-scanner-guard-haproxy](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-scanner-guard-haproxy) | 1.0.0 | Jefferson Gonçalves | HAProxy denylist sink for laravel-scanner-guard: writes banned IPs as an ACL fi… |
+| 2026-11-24 11:58:15 | [jeffersongoncalves/laravel-scanner-guard-aws-waf](https://www.nuget.org/packages/jeffersongoncalves%2Flaravel-scanner-guard-aws-waf) | 1.0.0 | Jefferson Gonçalves | AWS WAF denylist sink for laravel-scanner-guard: keeps IP sets in sync so a web… |
 
 ## Data source
 

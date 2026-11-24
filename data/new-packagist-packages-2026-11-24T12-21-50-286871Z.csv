@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-24T11:25:26Z,lexflame/intelfield,v0.1.0,,"Browser form controls: jQuery fields, date/time pickers, buttons and AJAX connectors"
+2026-11-24T11:29:59Z,opencultureconsulting/updater,v1.0.0,Open Culture Consulting; Sebastian Meyer,A self-update command for Composer-based applications.
+2026-11-24T11:31:22Z,serversmtp/serversmtp-laravel,v0.1.0,Think AI SRL,ServerSMTP mail transport and automation events for Laravel
+2026-11-24T11:51:27Z,jellyhaus/vite,2026.11.3,Jason Millis,Vite Integration for Vanilla PHP Projects
+2026-11-24T11:58:00Z,jeffersongoncalves/laravel-scanner-guard-haproxy,1.0.0,Jefferson Gonçalves,HAProxy denylist sink for laravel-scanner-guard: writes banned IPs as an ACL file and reloads HAProxy
+2026-11-24T11:58:15Z,jeffersongoncalves/laravel-scanner-guard-aws-waf,1.0.0,Jefferson Gonçalves,"AWS WAF denylist sink for laravel-scanner-guard: keeps IP sets in sync so a web ACL rule blocks banned IPs at CloudFront, ALB or API Gateway"
