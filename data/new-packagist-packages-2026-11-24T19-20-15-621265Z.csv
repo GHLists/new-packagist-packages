@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-24T18:23:44Z,averay/phpforce-soap-client,v0.2.0,David de Boer; Adam Averay,A PHP client for the Salesforce SOAP API
+2026-11-24T18:43:00Z,lokus/servercheck,v1.0.0,,
+2026-11-24T18:43:30Z,scottboms/mastodon-feed,6.0.0,Scott Boms,Mastodon Feed plugin for Kirby
+2026-11-24T19:12:13Z,statamic/forms-pro,v1.0.0,,

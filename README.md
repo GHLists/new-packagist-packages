@@ -15,19 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 18:20 UTC
+## Latest list — 2026-11-24 19:20 UTC
 
-New packages created between 2026-11-24 17:20 UTC and 2026-11-24 18:20 UTC.
+New packages created between 2026-11-24 18:20 UTC and 2026-11-24 19:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T18-20-14-774844Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T19-20-15-621265Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 17:28:22 | [huseyinfiliz/theme-transitions](https://www.nuget.org/packages/huseyinfiliz%2Ftheme-transitions) | 1.0 | Hüseyin Filiz | Smooth, customizable View Transition animations for Flarum 2 theme switching. |
-| 2026-11-24 17:29:27 | [barrierepruefungde/typo3](https://www.nuget.org/packages/barrierepruefungde%2Ftypo3) | v0.1.0 |  | Barrierefreiheitserklärung von barrierepruefung.de in TYPO3 einbinden: Prüfung,… |
-| 2026-11-24 17:44:18 | [mrcaspan/flarum2-mail-catcher](https://www.nuget.org/packages/mrcaspan%2Fflarum2-mail-catcher) | v1.0.0 | MrCaspan | Catch every outgoing email in the database instead of sending it, and read or d… |
-| 2026-11-24 18:00:36 | [buriti8/log-viewer](https://www.nuget.org/packages/buriti8%2Flog-viewer) | 12.0.0 | buriti8; ARCANEDEV | Log Viewer for Laravel with compiled assets included. Fork of arcanedev/log-vie… |
-| 2026-11-24 18:14:28 | [adachsoft/data-backup-contracts](https://www.nuget.org/packages/adachsoft%2Fdata-backup-contracts) | v0.2.0 | Arkadiusz Adach | Interfaces and value objects for interoperable PHP data backup and restore inte… |
+| 2026-11-24 18:23:44 | [averay/phpforce-soap-client](https://www.nuget.org/packages/averay%2Fphpforce-soap-client) | v0.2.0 | David de Boer; Adam Averay | A PHP client for the Salesforce SOAP API |
+| 2026-11-24 18:43:00 | [lokus/servercheck](https://www.nuget.org/packages/lokus%2Fservercheck) | v1.0.0 |  |  |
+| 2026-11-24 18:43:30 | [scottboms/mastodon-feed](https://www.nuget.org/packages/scottboms%2Fmastodon-feed) | 6.0.0 | Scott Boms | Mastodon Feed plugin for Kirby |
+| 2026-11-24 19:12:13 | [statamic/forms-pro](https://www.nuget.org/packages/statamic%2Fforms-pro) | v1.0.0 |  |  |
 
 ## Data source
 
