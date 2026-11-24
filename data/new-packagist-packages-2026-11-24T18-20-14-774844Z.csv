@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-24T17:28:22Z,huseyinfiliz/theme-transitions,1.0,Hüseyin Filiz,"Smooth, customizable View Transition animations for Flarum 2 theme switching."
+2026-11-24T17:29:27Z,barrierepruefungde/typo3,v0.1.0,,"Barrierefreiheitserklärung von barrierepruefung.de in TYPO3 einbinden: Prüfung, Entwurf und veröffentlichte Erklärung über die Public API des Dienstes."
+2026-11-24T17:44:18Z,mrcaspan/flarum2-mail-catcher,v1.0.0,MrCaspan,"Catch every outgoing email in the database instead of sending it, and read or delete them from the admin panel. For Flarum 2.0 test and staging sites."
+2026-11-24T18:00:36Z,buriti8/log-viewer,12.0.0,buriti8; ARCANEDEV,Log Viewer for Laravel with compiled assets included. Fork of arcanedev/log-viewer
+2026-11-24T18:14:28Z,adachsoft/data-backup-contracts,v0.2.0,Arkadiusz Adach,Interfaces and value objects for interoperable PHP data backup and restore integrations.

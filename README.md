@@ -15,21 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 17:20 UTC
+## Latest list — 2026-11-24 18:20 UTC
 
-New packages created between 2026-11-24 16:21 UTC and 2026-11-24 17:20 UTC.
+New packages created between 2026-11-24 17:20 UTC and 2026-11-24 18:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T17-20-53-763122Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T18-20-14-774844Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 16:36:06 | [emmanpbarrameda/filament-scaffold2](https://www.nuget.org/packages/emmanpbarrameda%2Ffilament-scaffold2) | v1.0.0 | Emmanuel P. Barrameda; Soluti… | Scaffold Manager for Filament v4/v5: generate migrations, models, resources, po… |
-| 2026-11-24 16:40:57 | [leadveyor/leadveyor-php](https://www.nuget.org/packages/leadveyor%2Fleadveyor-php) | v0.1.0 | Leadveyor | Official PHP client for the Leadveyor API: lead scoring, sources, webhooks. |
-| 2026-11-24 16:42:02 | [jostar/savedate-wordpress](https://www.nuget.org/packages/jostar%2Fsavedate-wordpress) | v0.2.0 |  | WordPress-Plugin für SaveDate-Events: Termine verwalten, Listen, Kalender und F… |
-| 2026-11-24 16:44:17 | [jostar/savedate-client](https://www.nuget.org/packages/jostar%2Fsavedate-client) | v0.1.2 |  | PHP-Client für die SaveDate-Event-API mit Validierung, Admin-Oberfläche und Ans… |
-| 2026-11-24 16:47:24 | [eshimischi/vendor-cleanup](https://www.nuget.org/packages/eshimischi%2Fvendor-cleanup) | v2.0.3 | eshimischi | Global CLI tool & Composer plugin to strip tests, docs, and dev files from vend… |
-| 2026-11-24 16:50:36 | [shoplygg/shoply-php](https://www.nuget.org/packages/shoplygg%2Fshoply-php) | v0.11.5 |  | Shoply's API from your own server: every route as a method, safe retries, pages… |
-| 2026-11-24 17:09:24 | [ray/fake-query](https://www.nuget.org/packages/ray%2Ffake-query) | 0.1.0 | Akihito Koriyama | Fakes Ray.MediaQuery query interfaces by returning JSON fixture data instead of… |
+| 2026-11-24 17:28:22 | [huseyinfiliz/theme-transitions](https://www.nuget.org/packages/huseyinfiliz%2Ftheme-transitions) | 1.0 | Hüseyin Filiz | Smooth, customizable View Transition animations for Flarum 2 theme switching. |
+| 2026-11-24 17:29:27 | [barrierepruefungde/typo3](https://www.nuget.org/packages/barrierepruefungde%2Ftypo3) | v0.1.0 |  | Barrierefreiheitserklärung von barrierepruefung.de in TYPO3 einbinden: Prüfung,… |
+| 2026-11-24 17:44:18 | [mrcaspan/flarum2-mail-catcher](https://www.nuget.org/packages/mrcaspan%2Fflarum2-mail-catcher) | v1.0.0 | MrCaspan | Catch every outgoing email in the database instead of sending it, and read or d… |
+| 2026-11-24 18:00:36 | [buriti8/log-viewer](https://www.nuget.org/packages/buriti8%2Flog-viewer) | 12.0.0 | buriti8; ARCANEDEV | Log Viewer for Laravel with compiled assets included. Fork of arcanedev/log-vie… |
+| 2026-11-24 18:14:28 | [adachsoft/data-backup-contracts](https://www.nuget.org/packages/adachsoft%2Fdata-backup-contracts) | v0.2.0 | Arkadiusz Adach | Interfaces and value objects for interoperable PHP data backup and restore inte… |
 
 ## Data source
 
