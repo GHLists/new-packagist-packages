@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-24T15:23:10Z,zaver/openmage-payment,1.0.1,Zaver,"Zaver Checkout payment module for OpenMage LTS (Magento 1): pay later, instalments, bank transfer and more through Zaver"
+2026-11-24T15:59:22Z,mrdellimore/rusty-sheet,0.1.2,,"Rust-powered PHP extension for streaming XLSX and CSV: OpenSpout-compatible reading and writing, hundreds of times faster, with flat memory."
+2026-11-24T16:03:26Z,rylacdang/formcast,v0.1.0,Ryan Lester Lacdang,"Cast your Laravel FormRequest rules to typed Zod schemas, TypeScript types, and Laravel-identical error messages."
+2026-11-24T16:12:13Z,eshimischi/vendor-cleanup,v2.0.1,eshimischi,"Global CLI tool & Composer plugin to strip tests, docs, and dev files from vendor in production"
