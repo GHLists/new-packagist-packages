@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-24T13:47:03Z,jelix/ldapadmin-module,v1.0.0-rc.1,Laurent Jouanneau,"Module for Jelix, displaying an interface to manage an LDAP configuration used by some modules like multiauth"
+2026-11-24T13:49:47Z,avaro/sdk,v1.0.0,Jan Habbo Brüning,"PHP SDK for the Avaro API v3: shop catalog, customer sign-in, quotes, orders, invoices and hotel booking requests"
+2026-11-24T13:59:21Z,scalecommerce/videooptimizer-typo3,v1.0.2,ScaleCommerce GmbH,"Integrates ScaleCommerce VideoOptimizer into TYPO3: pick, upload and manage CDN-delivered videos in the backend and embed them with five ready-to-use content elements."
+2026-11-24T14:05:43Z,qdpops/breeze,v1.1.0,,"Breeze: a light, modern skin for Roundcube 1.6 (date groups, attachment chips, floating compose, phone layout)"
+2026-11-24T14:05:43Z,qdpops/tw-folders,v1.1.0,,"Companion plugin for the Breeze skin: folder icons and colors, folder rules without ManageSieve, attachment chips, contacts from mail"
+2026-11-24T14:07:52Z,communiqate/communiqate-php,v0.1.0,,Framework-independent PHP SDK for the CommuniQate Workspaces API and webhooks.
+2026-11-24T14:08:58Z,communiqate/communiqate-laravel,v0.1.1,,"Laravel mail, notifications, facade and webhook integration for CommuniQate Workspaces."
+2026-11-24T14:12:04Z,brikdigital/craft-queue-monitor,1.0.0,,
+2026-11-24T14:14:39Z,limegreentangerine/svelte-builder,0.0.0,Lee Jones,

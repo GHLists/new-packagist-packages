@@ -15,20 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 13:20 UTC
+## Latest list — 2026-11-24 14:22 UTC
 
-New packages created between 2026-11-24 12:21 UTC and 2026-11-24 13:20 UTC.
+New packages created between 2026-11-24 13:20 UTC and 2026-11-24 14:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T13-20-37-499407Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-24T14-22-04-409643Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 12:27:13 | [agent001/sylius-ai-assistant-plugin](https://www.nuget.org/packages/agent001%2Fsylius-ai-assistant-plugin) | 1.0.0 | Agent001 Team | Agent001 AI Customer Support Assistant for Sylius eCommerce. |
-| 2026-11-24 12:32:51 | [globalxtreme/php-asa](https://www.nuget.org/packages/globalxtreme%2Fphp-asa) | 1.0.0 | Yuswa | GlobalXtreme ASA Automation Package for PHP Language |
-| 2026-11-24 12:51:45 | [jacobdelcroix/ffbb-api-sdk](https://www.nuget.org/packages/jacobdelcroix%2Fffbb-api-sdk) | v0.1.1 | Jacob Delcroix | SDK PHP (Saloon) non officiel pour les données FFBB : clubs, compétitions, poul… |
-| 2026-11-24 13:03:11 | [ifynx/gulf-e-invoicing](https://www.nuget.org/packages/ifynx%2Fgulf-e-invoicing) | v0.1.0 | iFynx Integrated Solutions P.… | Saudi ZATCA Phase 2 (Fatoora) signing, XAdES and QR plus UAE Peppol PINT AE e-i… |
-| 2026-11-24 13:08:14 | [survos/omc](https://www.nuget.org/packages/survos%2Fomc) | 2.45.88 |  | MovieLabs OMC 2.8 DTOs, schema validation and production catalog JSON. |
-| 2026-11-24 13:09:52 | [lessormq/laravel](https://www.nuget.org/packages/lessormq%2Flaravel) | v0.4.9 |  | Laravel queue driver for LessorMQ: the queue decides retries, backoff and dead-… |
+| 2026-11-24 13:47:03 | [jelix/ldapadmin-module](https://www.nuget.org/packages/jelix%2Fldapadmin-module) | v1.0.0-rc.1 | Laurent Jouanneau | Module for Jelix, displaying an interface to manage an LDAP configuration used… |
+| 2026-11-24 13:49:47 | [avaro/sdk](https://www.nuget.org/packages/avaro%2Fsdk) | v1.0.0 | Jan Habbo Brüning | PHP SDK for the Avaro API v3: shop catalog, customer sign-in, quotes, orders, i… |
+| 2026-11-24 13:59:21 | [scalecommerce/videooptimizer-typo3](https://www.nuget.org/packages/scalecommerce%2Fvideooptimizer-typo3) | v1.0.2 | ScaleCommerce GmbH | Integrates ScaleCommerce VideoOptimizer into TYPO3: pick, upload and manage CDN… |
+| 2026-11-24 14:05:43 | [qdpops/breeze](https://www.nuget.org/packages/qdpops%2Fbreeze) | v1.1.0 |  | Breeze: a light, modern skin for Roundcube 1.6 (date groups, attachment chips,… |
+| 2026-11-24 14:05:43 | [qdpops/tw-folders](https://www.nuget.org/packages/qdpops%2Ftw-folders) | v1.1.0 |  | Companion plugin for the Breeze skin: folder icons and colors, folder rules wit… |
+| 2026-11-24 14:07:52 | [communiqate/communiqate-php](https://www.nuget.org/packages/communiqate%2Fcommuniqate-php) | v0.1.0 |  | Framework-independent PHP SDK for the CommuniQate Workspaces API and webhooks. |
+| 2026-11-24 14:08:58 | [communiqate/communiqate-laravel](https://www.nuget.org/packages/communiqate%2Fcommuniqate-laravel) | v0.1.1 |  | Laravel mail, notifications, facade and webhook integration for CommuniQate Wor… |
+| 2026-11-24 14:12:04 | [brikdigital/craft-queue-monitor](https://www.nuget.org/packages/brikdigital%2Fcraft-queue-monitor) | 1.0.0 |  |  |
+| 2026-11-24 14:14:39 | [limegreentangerine/svelte-builder](https://www.nuget.org/packages/limegreentangerine%2Fsvelte-builder) | 0.0.0 | Lee Jones |  |
 
 ## Data source
 
