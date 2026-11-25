@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-25T15:23:45Z,shoplygg/shoply-php,v0.12.1,,"Shoply's API from your own server: every route as a method, safe retries, pages, checking webhooks, and OAuth for apps."
+2026-11-25T15:32:38Z,rushphp/schema-tool,v0.1.0,RUSHphp,RUSH schema tool. Structural database schema versioning for SQLite and MySQL/MariaDB.
+2026-11-25T15:55:29Z,webfactory/newsletter-registration-bundle,1.0.0,,Symfony-Bundle for Newsletter-Registration
+2026-11-25T15:56:08Z,nr/processmigrations,1.0.2,Neue Rituale,"Run schema and data migrations step by step, from the admin, a cron job or the CLI"
+2026-11-25T16:13:39Z,postilon/postilon-php,v1.0.0,Kulina Pte. Ltd.,PHP SDK for the Postilon transactional email API
+2026-11-25T16:13:57Z,concept-image/wp-hook-attributes,0.0.1,Aurélien,"Declare WordPress actions and filters with PHP attributes (#[Action], #[Filter], #[WhenConfig]) on Acorn classes."
+2026-11-25T16:15:35Z,concept-image/wp-fortress,0.0.1,Aurélien,"WP Fortress: switchable security modules for WordPress on Bedrock + Acorn (security headers and CSP, trusted hosts, safe and sanitized uploads, REST and user enumeration hardening), modular .htaccess security rules with the Perishable Press firewall, and a security maintenance killswitch. Defers to…"

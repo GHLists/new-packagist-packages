@@ -15,29 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 15:19 UTC
+## Latest list — 2026-11-25 16:19 UTC
 
-New packages created between 2026-11-25 14:21 UTC and 2026-11-25 15:19 UTC.
+New packages created between 2026-11-25 15:19 UTC and 2026-11-25 16:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-25T15-19-57-003862Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-25T16-19-31-630153Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-25 14:28:12 | [ahasend/symfony-mailer](https://www.nuget.org/packages/ahasend%2Fsymfony-mailer) | v1.0.0 | Farhad Hedayatifard; Symfony… | AhaSend Mailer Bridge: the Symfony 8.2 bridge, with API v2 and webhooks, for Sy… |
-| 2026-11-25 14:30:02 | [dimmi/dimmi-php](https://www.nuget.org/packages/dimmi%2Fdimmi-php) | v0.1.0 |  | PHP client for the dimmi REST API, identity tokens for the messenger and webhoo… |
-| 2026-11-25 14:30:07 | [dimmi/dimmi-laravel](https://www.nuget.org/packages/dimmi%2Fdimmi-laravel) | v0.1.0 |  | dimmi for Laravel: the messenger with signed identity, the REST API client, web… |
-| 2026-11-25 14:34:34 | [captchacore/statamic](https://www.nuget.org/packages/captchacore%2Fstatamic) | v1.2.0 | SpeedIT Solutions | Privacy-friendly CAPTCHA and bot defense for Statamic forms — proof of work ins… |
-| 2026-11-25 14:35:06 | [ahasend/laravel-mailer](https://www.nuget.org/packages/ahasend%2Flaravel-mailer) | v1.0.0 | AhaSend; Aamir Yaqoob | AhaSend for Laravel 11, 12 and 13: API v2 and SMTP mail transports, and webhooks |
-| 2026-11-25 14:42:20 | [coretsia/platform-routing](https://www.nuget.org/packages/coretsia%2Fplatform-routing) | v0.14.0 | Vladyslav Mudrichenko | Coretsia routing runtime package: deterministic route compilation, artifact-bac… |
-| 2026-11-25 14:51:57 | [webdna/craft-cookiebot-embeds](https://www.nuget.org/packages/webdna%2Fcraft-cookiebot-embeds) | 1.0.0 | webdna | Third-party videos, maps, widgets and tracking scripts wait for the visitor's C… |
-| 2026-11-25 14:56:01 | [emaia/laravel-hotwire-starter](https://www.nuget.org/packages/emaia%2Flaravel-hotwire-starter) | v0.1.0 |  | A Laravel starter kit with Hotwire and Docker. |
-| 2026-11-25 14:59:37 | [tracksim/tracksim-php](https://www.nuget.org/packages/tracksim%2Ftracksim-php) | v1.0.0 | Omnibyte Technologies Limited | Official PHP and Laravel client for the TrackSim API and webhooks |
-| 2026-11-25 14:59:52 | [muckiware/mucki-safe-agent-plugin](https://www.nuget.org/packages/muckiware%2Fmucki-safe-agent-plugin) | v0.1.0 | muckiware | MuckiSafe Agent plugin for Shopware 6 - agent control plane for MuckiSafe host… |
-| 2026-11-25 15:01:59 | [adachsoft/mailbox-gmail](https://www.nuget.org/packages/adachsoft%2Fmailbox-gmail) | v0.1.1 | Arkadiusz Adach | Gmail API adapter for the AdachSoft provider-independent mailbox contract. |
-| 2026-11-25 15:02:30 | [threadable/state-machine](https://www.nuget.org/packages/threadable%2Fstate-machine) | 0.1.0 | Padraig Nolan; Tomasz Mrozińs… | State Machine for Laravel by Threadable |
-| 2026-11-25 15:03:40 | [james-draper/archipelago](https://www.nuget.org/packages/james-draper%2Farchipelago) | v1.0.0 |  | PHP 5.0.0+ compatible legacy refactoring framework. |
-| 2026-11-25 15:05:03 | [licers/licers](https://www.nuget.org/packages/licers%2Flicers) | v1.0.0 | Licers | License keys for PHP apps and WordPress plugins: Ed25519-signed checks, device… |
-| 2026-11-25 15:13:22 | [igne-agency/laravel-nova](https://www.nuget.org/packages/igne-agency%2Flaravel-nova) | v0.1.0 | Rick Blanksma | Reusable Laravel Nova 5 features for IGNE projects: a grouped main menu, panel… |
+| 2026-11-25 15:23:45 | [shoplygg/shoply-php](https://www.nuget.org/packages/shoplygg%2Fshoply-php) | v0.12.1 |  | Shoply's API from your own server: every route as a method, safe retries, pages… |
+| 2026-11-25 15:32:38 | [rushphp/schema-tool](https://www.nuget.org/packages/rushphp%2Fschema-tool) | v0.1.0 | RUSHphp | RUSH schema tool. Structural database schema versioning for SQLite and MySQL/Ma… |
+| 2026-11-25 15:55:29 | [webfactory/newsletter-registration-bundle](https://www.nuget.org/packages/webfactory%2Fnewsletter-registration-bundle) | 1.0.0 |  | Symfony-Bundle for Newsletter-Registration |
+| 2026-11-25 15:56:08 | [nr/processmigrations](https://www.nuget.org/packages/nr%2Fprocessmigrations) | 1.0.2 | Neue Rituale | Run schema and data migrations step by step, from the admin, a cron job or the… |
+| 2026-11-25 16:13:39 | [postilon/postilon-php](https://www.nuget.org/packages/postilon%2Fpostilon-php) | v1.0.0 | Kulina Pte. Ltd. | PHP SDK for the Postilon transactional email API |
+| 2026-11-25 16:13:57 | [concept-image/wp-hook-attributes](https://www.nuget.org/packages/concept-image%2Fwp-hook-attributes) | 0.0.1 | Aurélien | Declare WordPress actions and filters with PHP attributes (#[Action], #[Filter]… |
+| 2026-11-25 16:15:35 | [concept-image/wp-fortress](https://www.nuget.org/packages/concept-image%2Fwp-fortress) | 0.0.1 | Aurélien | WP Fortress: switchable security modules for WordPress on Bedrock + Acorn (secu… |
 
 ## Data source
 
