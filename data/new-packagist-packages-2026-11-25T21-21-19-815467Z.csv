@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-25T20:30:33Z,kurama/framework,v1.0.0,berlium,"Kurama - a lightweight, standalone PHP micro framework by berlium."
+2026-11-25T21:02:39Z,wernerkrauss/silverstripe-contact,v0.1.0,,Simple contact module for Silverstripe CMS
+2026-11-25T21:02:39Z,wernerkrauss/silverstripe-umami,v0.1.0,,"Umami analytics integration for Silverstripe: SiteConfig settings, environment-gated tracker template and optional vanilla-cookieconsent integration."

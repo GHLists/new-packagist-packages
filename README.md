@@ -15,19 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 19:22 UTC
+## Latest list — 2026-11-25 21:21 UTC
 
-New packages created between 2026-11-25 18:20 UTC and 2026-11-25 19:22 UTC.
+New packages created between 2026-11-25 20:18 UTC and 2026-11-25 21:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-25T19-22-38-628944Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-25T21-21-19-815467Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-25 18:29:48 | [card2k/card2k-php](https://www.nuget.org/packages/card2k%2Fcard2k-php) | v0.1.0 |  | SDK PHP chính thức cho API v3 của Card2K: nạp game, thẻ cào, đổi thẻ, ví, bảo h… |
-| 2026-11-25 18:39:46 | [restruct/silverstripe-seo](https://www.nuget.org/packages/restruct%2Fsilverstripe-seo) | 0.1.0 | Restruct | SEO essentials for Silverstripe CMS 6: meta title, description fallback, robots… |
-| 2026-11-25 18:55:17 | [shreifelagamy/laravel-authentica](https://www.nuget.org/packages/shreifelagamy%2Flaravel-authentica) | v0.1.1 | Shreif Ashraf | Laravel client, facade and notification channel for Authentica: SMS, and one-ti… |
-| 2026-11-25 19:06:16 | [weirdo/laravel-workflow](https://www.nuget.org/packages/weirdo%2Flaravel-workflow) | v1.0.0 | Angel Hidalgo | Integerate Symfony Workflow component into Laravel. |
-| 2026-11-25 19:15:38 | [binable/address-kit](https://www.nuget.org/packages/binable%2Faddress-kit) | 0.0.1 | Tim Lochmüller | Symfony bundle for address handling: validation, normalization and permutation… |
+| 2026-11-25 20:30:33 | [kurama/framework](https://www.nuget.org/packages/kurama%2Fframework) | v1.0.0 | berlium | Kurama - a lightweight, standalone PHP micro framework by berlium. |
+| 2026-11-25 21:02:39 | [wernerkrauss/silverstripe-contact](https://www.nuget.org/packages/wernerkrauss%2Fsilverstripe-contact) | v0.1.0 |  | Simple contact module for Silverstripe CMS |
+| 2026-11-25 21:02:39 | [wernerkrauss/silverstripe-umami](https://www.nuget.org/packages/wernerkrauss%2Fsilverstripe-umami) | v0.1.0 |  | Umami analytics integration for Silverstripe: SiteConfig settings, environment-… |
 
 ## Data source
 
