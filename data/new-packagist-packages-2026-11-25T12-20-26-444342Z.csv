@@ -1,0 +1,14 @@
+created_at,package,version,author,description
+2026-11-25T11:24:23Z,kinoba/dead-code-bundle,v0.2.0,Kinoba,Generate code coverage on live server
+2026-11-25T11:31:14Z,klsoft/yii3-doctrine-app,1.0.0,,A Yii 3 web application template that supports the Doctrine ORM
+2026-11-25T11:35:09Z,klsoft/yii3-cms,1.0.0,,A content management system based on the Yii 3 framework and uses the Doctrine ORM
+2026-11-25T11:36:35Z,meetmage/module-security-health-check,v1.0.0,Meet Shekhat,"Admin dashboard and weekly email that flag an outdated or end-of-life Magento or PHP version, Composer packages with known security advisories, and missing hardening settings."
+2026-11-25T11:39:28Z,tuxweb-it/pyroshape,v0.9.2,Dino Ciuffetti,Reusable backend toolkit for Pyroshape applications
+2026-11-25T11:45:34Z,utafitilabs/image-bundle,v0.1.0,Ezekiel Mjema,"Image renditions for Symfony: named profiles turn one kept original into fixed renditions on Flysystem storages, made at once or through Messenger, on imagine/imagine."
+2026-11-25T11:52:04Z,kibatic/cms-bundle,v0.1.0,,Simple block based CMS bundle for Symfony
+2026-11-25T11:56:55Z,james-draper/archipelago,v1.0.2,,PHP 5.0.0+ compatible legacy refactoring framework.
+2026-11-25T11:57:58Z,supabase-php/supabase-client,v1.0.0,Sushil Kumar,Supabase Client for PHP.
+2026-11-25T12:00:28Z,dmorenof/frankfurter-sdk,v0.1.0,David Moreno Falero,Unofficial PHP SDK for the Frankfurter API: current and historical foreign exchange rates from the European Central Bank and other public providers.
+2026-11-25T12:05:29Z,apibara/vehicle-auction-api,v0.1.0,,Official PHP SDK for Apibara.tech Copart and IAAI Vehicle Auction Data API
+2026-11-25T12:06:55Z,mirror-and-mountain/meros-foundations,v1.0.0,,A lean Laravel-in-WordPress integration layer for the Meros framework.
+2026-11-25T12:13:47Z,proudnerds/pn-abtestpages,14.3.0,IllusionFACTORY; Proud Nerds,Provides simple A/B testing between two full TYPO3 pages: visitors are randomly assigned page A or B and the choice is remembered in a cookie.
