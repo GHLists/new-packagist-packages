@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-25T09:21:41Z,baris-dev/filament-media-library,v0.1.1,,"Filament Curator için klasör gezintili, kullanım takipli ve güvenli silmeli medya kütüphanesi eklentisi."
+2026-11-25T09:26:57Z,tanbal/php-router,v1.0.1,tanbal8,A simple PHP router and backend utilities
+2026-11-25T09:27:25Z,mathsgod/light-xml,v1.0.0,,"LINQ-style XML construction, querying and editing for PHP"
+2026-11-25T09:49:18Z,proudnerds/pn-utilities,14.3.0,Proud Nerds,"Backend tools for TYPO3: a list of pages that have not been changed for a while, and backend user management for non-admins."
+2026-11-25T10:04:13Z,iquesters/event,v1.0.0,Pritam Bag,"Events for organisations: publish events, members register, admins see attendees. Built on the iquesters modules."
+2026-11-25T10:05:36Z,iquesters/community,v1.0.0,Pritam Bag,"Members, a configurable member directory, approval, plans and tags for Laravel apps (alumni associations, clubs, societies)."
