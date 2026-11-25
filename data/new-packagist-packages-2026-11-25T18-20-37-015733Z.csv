@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-25T17:23:09Z,dmstr/symfony-app-settings-bundle,0.1.0,diemeisterei GmbH,"Symfony bundle for runtime application settings: sections contributed by the app or bundles with a JSON schema each, stored as JSON, validated on write, exposed as an admin-only API Platform resource and readable as typed values with defaults."
+2026-11-25T17:31:33Z,cohete/skeleton,v0.2.0,Pascual Munoz,Skeleton project for Cohete async PHP framework
+2026-11-25T17:32:35Z,serversmtp/serversmtp-symfony-mailer,v0.1.0,Think AI SRL,"ServerSMTP API transport for Symfony Mailer (Symfony 6/7, Drupal 10/11, Shopware 6)"
+2026-11-25T17:33:08Z,ergebnis/rector-config,0.1.0,Andreas Möller,Provides a configuration factory and rule sets for rector/rector.
+2026-11-25T17:50:43Z,do-while/contao-manager-blank,1.0.0,,Öffnet den Menüpunkt 'Contao-Manager' im Contao-Backend in einem neuen Browser-Fenster

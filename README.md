@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 17:20 UTC
+## Latest list — 2026-11-25 18:20 UTC
 
-New packages created between 2026-11-25 16:19 UTC and 2026-11-25 17:20 UTC.
+New packages created between 2026-11-25 17:20 UTC and 2026-11-25 18:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-25T17-20-36-412345Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-25T18-20-37-015733Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-25 16:35:37 | [varify-io/core](https://www.nuget.org/packages/varify-io%2Fcore) | v0.1.0 |  | Framework-agnostic core of the Varify server-side SDK: local evaluation, sticky… |
-| 2026-11-25 16:35:37 | [varify-io/shopware](https://www.nuget.org/packages/varify-io%2Fshopware) | v0.1.0 |  | Varify server-side A/B testing for Shopware 6.7: assignments in Twig, cache-awa… |
-| 2026-11-25 16:52:24 | [laveroadmin/config](https://www.nuget.org/packages/laveroadmin%2Fconfig) | v1.0.1 | Aleksandr Kireev | Config extension for LaveroAdmin |
-| 2026-11-25 16:52:24 | [laveroadmin/wafu](https://www.nuget.org/packages/laveroadmin%2Fwafu) | v1.0.1 | Aleksandr Kireev | WAFU Firewall management extension for LaveroAdmin |
-| 2026-11-25 17:03:42 | [brace/core](https://www.nuget.org/packages/brace%2Fcore) | v1.0.0 | Matthias Leuffen | Modular Microservice Framework |
+| 2026-11-25 17:23:09 | [dmstr/symfony-app-settings-bundle](https://www.nuget.org/packages/dmstr%2Fsymfony-app-settings-bundle) | 0.1.0 | diemeisterei GmbH | Symfony bundle for runtime application settings: sections contributed by the ap… |
+| 2026-11-25 17:31:33 | [cohete/skeleton](https://www.nuget.org/packages/cohete%2Fskeleton) | v0.2.0 | Pascual Munoz | Skeleton project for Cohete async PHP framework |
+| 2026-11-25 17:32:35 | [serversmtp/serversmtp-symfony-mailer](https://www.nuget.org/packages/serversmtp%2Fserversmtp-symfony-mailer) | v0.1.0 | Think AI SRL | ServerSMTP API transport for Symfony Mailer (Symfony 6/7, Drupal 10/11, Shopwar… |
+| 2026-11-25 17:33:08 | [ergebnis/rector-config](https://www.nuget.org/packages/ergebnis%2Frector-config) | 0.1.0 | Andreas Möller | Provides a configuration factory and rule sets for rector/rector. |
+| 2026-11-25 17:50:43 | [do-while/contao-manager-blank](https://www.nuget.org/packages/do-while%2Fcontao-manager-blank) | 1.0.0 |  | Öffnet den Menüpunkt 'Contao-Manager' im Contao-Backend in einem neuen Browser-… |
 
 ## Data source
 
