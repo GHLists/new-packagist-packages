@@ -15,22 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 13:20 UTC
+## Latest list — 2026-11-25 14:21 UTC
 
-New packages created between 2026-11-25 12:20 UTC and 2026-11-25 13:20 UTC.
+New packages created between 2026-11-25 13:20 UTC and 2026-11-25 14:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-25T13-20-34-105353Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-25T14-21-04-175002Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-25 12:39:45 | [sparkable/magento-mago-attribute-sets](https://www.nuget.org/packages/sparkable%2Fmagento-mago-attribute-sets) | 1.0.0 |  | Mago Assistant tool that reads and rearranges the groups and attributes of a pr… |
-| 2026-11-25 12:39:45 | [sparkable/magento-mago-bulk-update](https://www.nuget.org/packages/sparkable%2Fmagento-mago-bulk-update) | 1.0.0 |  | Mago Assistant tool that sets attribute values on many products and adds attrib… |
-| 2026-11-25 12:39:45 | [sparkable/magento-mago-product-finder](https://www.nuget.org/packages/sparkable%2Fmagento-mago-product-finder) | 1.0.0 |  | Mago Assistant tool that finds products, parent products and product attributes |
-| 2026-11-25 12:42:02 | [hans2103/magento2-hyva-dashboard-google](https://www.nuget.org/packages/hans2103%2Fmagento2-hyva-dashboard-google) | v26.48.0 | Hans Kuijpers | Google Analytics 4 and Google Search Console widgets for the Hyvä Admin Dashboa… |
-| 2026-11-25 12:51:46 | [salvatore/laravel-sanctum-manager](https://www.nuget.org/packages/salvatore%2Flaravel-sanctum-manager) | 1.1.0 | Salvatore Cervone | Advanced Scope/Ability registry, hierarchical wildcards, token lifecycle manage… |
-| 2026-11-25 12:56:25 | [zangles/laravel-mda](https://www.nuget.org/packages/zangles%2Flaravel-mda) | v0.1.0 | Guido Fonticelli | Generadores y reglas de arquitectura para Model Domain Architecture (MDA) en La… |
-| 2026-11-25 13:08:51 | [webid-am/laravel](https://www.nuget.org/packages/webid-am%2Flaravel) | v0.1.0 |  | Sign in with webid for Laravel sites: one connection key, the sign-in routes, u… |
-| 2026-11-25 13:11:43 | [ianfoxdev/webhook-outbox](https://www.nuget.org/packages/ianfoxdev%2Fwebhook-outbox) | v0.1.0 | Anatoly Pankratyev | Webhooks queued in your database transaction and delivered by a separate relay,… |
+| 2026-11-25 13:33:33 | [solutionforest/filament-unsaved-changes-bar](https://www.nuget.org/packages/solutionforest%2Ffilament-unsaved-changes-bar) | v0.2.0 | Solution Forest | A floating Shopify / Laravel Cloud-style "Unsaved changes · Discard · Save" bar… |
+| 2026-11-25 14:03:00 | [qiick/laravel-access](https://www.nuget.org/packages/qiick%2Flaravel-access) | v0.1.0-beta.1 | Qiick | Shared authorization core for qiick Laravel products: Gate::before, effective p… |
 
 ## Data source
 
