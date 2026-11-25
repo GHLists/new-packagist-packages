@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-25T12:39:45Z,sparkable/magento-mago-attribute-sets,1.0.0,,Mago Assistant tool that reads and rearranges the groups and attributes of a product attribute set
+2026-11-25T12:39:45Z,sparkable/magento-mago-bulk-update,1.0.0,,Mago Assistant tool that sets attribute values on many products and adds attribute options
+2026-11-25T12:39:45Z,sparkable/magento-mago-product-finder,1.0.0,,"Mago Assistant tool that finds products, parent products and product attributes"
+2026-11-25T12:42:02Z,hans2103/magento2-hyva-dashboard-google,v26.48.0,Hans Kuijpers,"Google Analytics 4 and Google Search Console widgets for the Hyvä Admin Dashboard: top Google search queries, search performance and a GA4 vs Magento e-commerce check."
+2026-11-25T12:51:46Z,salvatore/laravel-sanctum-manager,1.1.0,Salvatore Cervone,"Advanced Scope/Ability registry, hierarchical wildcards, token lifecycle management (rotation with grace period, IP/origin restrictions, max uses, debounced audit) for Laravel Sanctum — Zero-Migration first with optional extended migrations."
+2026-11-25T12:56:25Z,zangles/laravel-mda,v0.1.0,Guido Fonticelli,Generadores y reglas de arquitectura para Model Domain Architecture (MDA) en Laravel.
+2026-11-25T13:08:51Z,webid-am/laravel,v0.1.0,,"Sign in with webid for Laravel sites: one connection key, the sign-in routes, users found or created, and webid's APIs."
+2026-11-25T13:11:43Z,ianfoxdev/webhook-outbox,v0.1.0,Anatoly Pankratyev,"Webhooks queued in your database transaction and delivered by a separate relay, signed per Standard Webhooks."
