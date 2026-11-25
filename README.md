@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 18:20 UTC
+## Latest list — 2026-11-25 19:22 UTC
 
-New packages created between 2026-11-25 17:20 UTC and 2026-11-25 18:20 UTC.
+New packages created between 2026-11-25 18:20 UTC and 2026-11-25 19:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-25T18-20-37-015733Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-25T19-22-38-628944Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-25 17:23:09 | [dmstr/symfony-app-settings-bundle](https://www.nuget.org/packages/dmstr%2Fsymfony-app-settings-bundle) | 0.1.0 | diemeisterei GmbH | Symfony bundle for runtime application settings: sections contributed by the ap… |
-| 2026-11-25 17:31:33 | [cohete/skeleton](https://www.nuget.org/packages/cohete%2Fskeleton) | v0.2.0 | Pascual Munoz | Skeleton project for Cohete async PHP framework |
-| 2026-11-25 17:32:35 | [serversmtp/serversmtp-symfony-mailer](https://www.nuget.org/packages/serversmtp%2Fserversmtp-symfony-mailer) | v0.1.0 | Think AI SRL | ServerSMTP API transport for Symfony Mailer (Symfony 6/7, Drupal 10/11, Shopwar… |
-| 2026-11-25 17:33:08 | [ergebnis/rector-config](https://www.nuget.org/packages/ergebnis%2Frector-config) | 0.1.0 | Andreas Möller | Provides a configuration factory and rule sets for rector/rector. |
-| 2026-11-25 17:50:43 | [do-while/contao-manager-blank](https://www.nuget.org/packages/do-while%2Fcontao-manager-blank) | 1.0.0 |  | Öffnet den Menüpunkt 'Contao-Manager' im Contao-Backend in einem neuen Browser-… |
+| 2026-11-25 18:29:48 | [card2k/card2k-php](https://www.nuget.org/packages/card2k%2Fcard2k-php) | v0.1.0 |  | SDK PHP chính thức cho API v3 của Card2K: nạp game, thẻ cào, đổi thẻ, ví, bảo h… |
+| 2026-11-25 18:39:46 | [restruct/silverstripe-seo](https://www.nuget.org/packages/restruct%2Fsilverstripe-seo) | 0.1.0 | Restruct | SEO essentials for Silverstripe CMS 6: meta title, description fallback, robots… |
+| 2026-11-25 18:55:17 | [shreifelagamy/laravel-authentica](https://www.nuget.org/packages/shreifelagamy%2Flaravel-authentica) | v0.1.1 | Shreif Ashraf | Laravel client, facade and notification channel for Authentica: SMS, and one-ti… |
+| 2026-11-25 19:06:16 | [weirdo/laravel-workflow](https://www.nuget.org/packages/weirdo%2Flaravel-workflow) | v1.0.0 | Angel Hidalgo | Integerate Symfony Workflow component into Laravel. |
+| 2026-11-25 19:15:38 | [binable/address-kit](https://www.nuget.org/packages/binable%2Faddress-kit) | 0.0.1 | Tim Lochmüller | Symfony bundle for address handling: validation, normalization and permutation… |
 
 ## Data source
 

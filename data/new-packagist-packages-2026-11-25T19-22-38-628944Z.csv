@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-25T18:29:48Z,card2k/card2k-php,v0.1.0,,"SDK PHP chính thức cho API v3 của Card2K: nạp game, thẻ cào, đổi thẻ, ví, bảo hành, webhook."
+2026-11-25T18:39:46Z,restruct/silverstripe-seo,0.1.0,Restruct,"SEO essentials for Silverstripe CMS 6: meta title, description fallback, robots (meta + X-Robots-Tag), canonical (tag + Link header), Open Graph with fallbacks, and a sitemap bridge."
+2026-11-25T18:55:17Z,shreifelagamy/laravel-authentica,v0.1.1,Shreif Ashraf,"Laravel client, facade and notification channel for Authentica: SMS, and one-time codes by SMS, WhatsApp or email."
+2026-11-25T19:06:16Z,weirdo/laravel-workflow,v1.0.0,Angel Hidalgo,Integerate Symfony Workflow component into Laravel.
+2026-11-25T19:15:38Z,binable/address-kit,0.0.1,Tim Lochmüller,"Symfony bundle for address handling: validation, normalization and permutation of postal addresses."
