@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-25T16:35:37Z,varify-io/core,v0.1.0,,"Framework-agnostic core of the Varify server-side SDK: local evaluation, sticky assignments, config loading."
+2026-11-25T16:35:37Z,varify-io/shopware,v0.1.0,,"Varify server-side A/B testing for Shopware 6.7: assignments in Twig, cache-aware, tracked through varify.js."
+2026-11-25T16:52:24Z,laveroadmin/config,v1.0.1,Aleksandr Kireev,Config extension for LaveroAdmin
+2026-11-25T16:52:24Z,laveroadmin/wafu,v1.0.1,Aleksandr Kireev,WAFU Firewall management extension for LaveroAdmin
+2026-11-25T17:03:42Z,brace/core,v1.0.0,Matthias Leuffen,Modular Microservice Framework
