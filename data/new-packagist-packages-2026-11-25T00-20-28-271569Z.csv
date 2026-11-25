@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-24T23:32:30Z,wsign/wsign-php,v1.0.0,wsign,"Official PHP library for the wsign e-signature API: signature requests, templates, sessions, embedded signing, evidence records and webhooks."
+2026-11-24T23:51:56Z,andrexdd/tombstone,v1.0.0,andre,"Keeps deleted discussions from becoming dead 404 links. Automatically serves a proper 410 Gone page, or a 301 redirect you set, for any discussion URL that no longer exists."
+2026-11-25T00:06:17Z,protocollive/php86time,2026.11.24,Fabio Carpi,Time namespace classes for PHP < 8.6
+2026-11-25T00:17:25Z,datacircle/laravel-boost,v0.1.0,Wayne Hamadi,Find the best GTM APIs. Four Laravel Boost tools call Datacircle's public API. You need no API key.

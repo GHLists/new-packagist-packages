@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 23:19 UTC
+## Latest list — 2026-11-25 00:20 UTC
 
-New packages created between 2026-11-24 22:19 UTC and 2026-11-24 23:19 UTC.
+New packages created between 2026-11-24 23:19 UTC and 2026-11-25 00:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-24T23-19-40-707107Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-25T00-20-28-271569Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 22:40:30 | [curly-message/parser](https://www.nuget.org/packages/curly-message%2Fparser) | v1.0.0-RC.0 |  | PHP implementation of the Curly Message Format. |
-| 2026-11-24 22:46:20 | [shoplygg/shoply-php](https://www.nuget.org/packages/shoplygg%2Fshoply-php) | v0.12.0 |  | Shoply's API from your own server: every route as a method, safe retries, pages… |
-| 2026-11-24 22:47:02 | [1994/forms-captcha-statamic](https://www.nuget.org/packages/1994%2Fforms-captcha-statamic) | v1.0.0 | 1994 | Captcha fields for Statamic forms: Turnstile, hCaptcha or reCAPTCHA, dragged in… |
+| 2026-11-24 23:32:30 | [wsign/wsign-php](https://www.nuget.org/packages/wsign%2Fwsign-php) | v1.0.0 | wsign | Official PHP library for the wsign e-signature API: signature requests, templat… |
+| 2026-11-24 23:51:56 | [andrexdd/tombstone](https://www.nuget.org/packages/andrexdd%2Ftombstone) | v1.0.0 | andre | Keeps deleted discussions from becoming dead 404 links. Automatically serves a… |
+| 2026-11-25 00:06:17 | [protocollive/php86time](https://www.nuget.org/packages/protocollive%2Fphp86time) | 2026.11.24 | Fabio Carpi | Time namespace classes for PHP < 8.6 |
+| 2026-11-25 00:17:25 | [datacircle/laravel-boost](https://www.nuget.org/packages/datacircle%2Flaravel-boost) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. Four Laravel Boost tools call Datacircle's public API.… |
 
 ## Data source
 
