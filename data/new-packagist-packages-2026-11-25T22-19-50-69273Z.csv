@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-25T21:22:13Z,dmstr/firecrawl-bundle,0.1.0,diemeisterei GmbH,"Symfony bundle for self-hosted Firecrawl v2: a `firecrawl` connection type of dmstr/api-configuration-bundle with health probe, a REST client behind an interface with a scriptable test fake, synchronous pass-through resources, a job reference table with background scan and import, crawl profiles wi…"
+2026-11-25T21:33:37Z,atom-fm/sql,v0.1.0,,Parameterized SQL query builder and dialect compilers for PHP
+2026-11-25T21:33:47Z,atom-fm/orm,v0.1.0,,Attribute-based PHP models and persistence using PDO
+2026-11-25T21:44:05Z,owner888/php-http,v1.0.0,owner888,"Zero-dependency pure-PHP 8.3+ async event loop (stream_select / Io\Poll + Fibers), non-blocking DNS/TLS sockets, HTTP/1.1 & HTTP/2 client (ALPN, HPACK, connection pools, gzip, HTTP/SOCKS5 proxies), and WebSocket client."
+2026-11-25T21:46:04Z,goodport/laravel-ai-journal,v1.0.0,goodport,Journal and response replay for Laravel AI agent calls.
+2026-11-25T21:51:38Z,aymericcucherousset/d2-symfony,v0.1.0,Aymeric Cucherousset,"Render D2 diagrams (d2lang.com) in Symfony & Twig: local binary or Kroki, cached, profiler-ready."
+2026-11-25T21:54:36Z,ghazali/laravel-hybrid-crypto,v1.0.1,,"A Laravel package for hybrid encryption using P-384, X25519, and ML-KEM-768."
+2026-11-25T21:54:47Z,ghazali/universal-probabilistic-engine,v1.0.1,Ghazali,Universal Probabilistic Engine (UPE) providing O(1) Bloom Filter shielding and high-speed CRUD operations for Laravel.
+2026-11-25T22:07:06Z,kaizendeveloper/iniparser,v1.0.0,Miguel Delli Carpini; Austin Hyde; Till Klampaeckel,A Zend_Config_Ini like parser for .ini files. Forked from austinhyde/iniparser because the old repo is not suitable for PHP 8.5.13
