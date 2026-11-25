@@ -15,20 +15,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 10:19 UTC
+## Latest list — 2026-11-25 11:21 UTC
 
-New packages created between 2026-11-25 09:19 UTC and 2026-11-25 10:19 UTC.
+New packages created between 2026-11-25 10:19 UTC and 2026-11-25 11:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-25T10-19-00-202729Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-25T11-21-07-190781Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-25 09:21:41 | [baris-dev/filament-media-library](https://www.nuget.org/packages/baris-dev%2Ffilament-media-library) | v0.1.1 |  | Filament Curator için klasör gezintili, kullanım takipli ve güvenli silmeli med… |
-| 2026-11-25 09:26:57 | [tanbal/php-router](https://www.nuget.org/packages/tanbal%2Fphp-router) | v1.0.1 | tanbal8 | A simple PHP router and backend utilities |
-| 2026-11-25 09:27:25 | [mathsgod/light-xml](https://www.nuget.org/packages/mathsgod%2Flight-xml) | v1.0.0 |  | LINQ-style XML construction, querying and editing for PHP |
-| 2026-11-25 09:49:18 | [proudnerds/pn-utilities](https://www.nuget.org/packages/proudnerds%2Fpn-utilities) | 14.3.0 | Proud Nerds | Backend tools for TYPO3: a list of pages that have not been changed for a while… |
-| 2026-11-25 10:04:13 | [iquesters/event](https://www.nuget.org/packages/iquesters%2Fevent) | v1.0.0 | Pritam Bag | Events for organisations: publish events, members register, admins see attendee… |
-| 2026-11-25 10:05:36 | [iquesters/community](https://www.nuget.org/packages/iquesters%2Fcommunity) | v1.0.0 | Pritam Bag | Members, a configurable member directory, approval, plans and tags for Laravel… |
+| 2026-11-25 10:19:04 | [atannex/claude-support](https://www.nuget.org/packages/atannex%2Fclaude-support) | v1.2.1 | Atanga Leke Collins | Claude Code support for Laravel: curated slash commands, subagents and skills (… |
+| 2026-11-25 10:20:11 | [nietthijmen/laravel-kernel](https://www.nuget.org/packages/nietthijmen%2Flaravel-kernel) | v1.0.0 | nietthijmen | A kernel.sh wrapper for laravel |
+| 2026-11-25 10:20:33 | [mowzs/article](https://www.nuget.org/packages/mowzs%2Farticle) | v1.0.0 | sunboy | 文章 |
+| 2026-11-25 10:20:35 | [mowzs/system](https://www.nuget.org/packages/mowzs%2Fsystem) | v1.0.0 | sunboy | 系统核心模块 |
+| 2026-11-25 10:20:36 | [mowzs/static](https://www.nuget.org/packages/mowzs%2Fstatic) | v1.0.0 | sunboy | 静态资源 |
+| 2026-11-25 10:20:40 | [mowzs/lib](https://www.nuget.org/packages/mowzs%2Flib) | v1.0.0 | sunboy |  |
+| 2026-11-25 10:34:35 | [kirbydesk/kirbyblock-divider](https://www.nuget.org/packages/kirbydesk%2Fkirbyblock-divider) | 1.0.0 | Christian Fickinger | Divider Block for Kirby CMS |
+| 2026-11-25 10:54:58 | [net-os/laravel-emqx](https://www.nuget.org/packages/net-os%2Flaravel-emqx) | v1.0.0 | Rick Bongers | MQTT publishing and EMQX credential management for Laravel. |
+| 2026-11-25 11:05:24 | [tuxweb-it/pyroshape](https://www.nuget.org/packages/tuxweb-it%2Fpyroshape) | v0.9.1 | Dino Ciuffetti | Reusable backend toolkit for Pyroshape applications |
+| 2026-11-25 11:13:41 | [simflex/texted](https://www.nuget.org/packages/simflex%2Ftexted) | v1.0.0 |  | texted — блочный редактор статей для сайтов и CMS: textarea → блоки → чистый HT… |
 
 ## Data source
 

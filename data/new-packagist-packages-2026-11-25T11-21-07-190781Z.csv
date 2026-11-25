@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-25T10:19:04Z,atannex/claude-support,v1.2.1,Atanga Leke Collins,"Claude Code support for Laravel: curated slash commands, subagents and skills (including an enterprise-grade product redesign brief), a stack-aware CLAUDE.md block and safe settings.json permissions, kept in sync by a hash manifest that never overwrites your local edits."
+2026-11-25T10:20:11Z,nietthijmen/laravel-kernel,v1.0.0,nietthijmen,A kernel.sh wrapper for laravel
+2026-11-25T10:20:33Z,mowzs/article,v1.0.0,sunboy,文章
+2026-11-25T10:20:35Z,mowzs/system,v1.0.0,sunboy,系统核心模块
+2026-11-25T10:20:36Z,mowzs/static,v1.0.0,sunboy,静态资源
+2026-11-25T10:20:40Z,mowzs/lib,v1.0.0,sunboy,
+2026-11-25T10:34:35Z,kirbydesk/kirbyblock-divider,1.0.0,Christian Fickinger,Divider Block for Kirby CMS
+2026-11-25T10:54:58Z,net-os/laravel-emqx,v1.0.0,Rick Bongers,MQTT publishing and EMQX credential management for Laravel.
+2026-11-25T11:05:24Z,tuxweb-it/pyroshape,v0.9.1,Dino Ciuffetti,Reusable backend toolkit for Pyroshape applications
+2026-11-25T11:13:41Z,simflex/texted,v1.0.0,,texted — блочный редактор статей для сайтов и CMS: textarea → блоки → чистый HTML
