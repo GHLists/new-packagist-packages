@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-25T03:26:13Z,particle-academy/fancy-schema,v0.1.0,Particle Academy,"Zero-dependency, fail-closed JSON Schema 2020-12 validator for PHP, matching @particle-academy/fancy-schema. A keyword it does not implement, or a $ref it cannot resolve, throws instead of passing. Errors carry a JSON pointer and a stable code. Every limit configurable."
+2026-11-25T03:28:02Z,dmorenof/sendgrid-sdk,v0.1.0,David Moreno Falero,"Unofficial PHP SDK for the whole Twilio SendGrid v3 API (mail send, marketing campaigns, contacts, templates, suppression, statistics, subusers, teammates, domain authentication and more) in one package."
+2026-11-25T03:59:02Z,jiannius/audit,v1.0.0-alpha.2,TJ,"A small, generic audit trail for Laravel 13: append-only, strict-mode safe, fail-closed."
