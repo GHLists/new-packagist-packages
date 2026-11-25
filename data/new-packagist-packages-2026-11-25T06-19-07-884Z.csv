@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-25T05:36:13Z,proflujo/laravel-analytics,v1.0,proflujo,"Lightweight, self-contained, explicit application-event analytics for Laravel."

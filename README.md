@@ -15,18 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 05:19 UTC
+## Latest list — 2026-11-25 06:19 UTC
 
-New packages created between 2026-11-25 04:19 UTC and 2026-11-25 05:19 UTC.
+New packages created between 2026-11-25 05:19 UTC and 2026-11-25 06:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-25T05-19-28-011Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-25T06-19-07-884Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-25 04:25:22 | [raytech/raytech-log-viewer](https://www.nuget.org/packages/raytech%2Fraytech-log-viewer) | v1.1.0 | RayTech | Ready-to-use modern log viewer plugin for all Laravel and server logs with them… |
-| 2026-11-25 04:26:53 | [vcorexplatform/auth](https://www.nuget.org/packages/vcorexplatform%2Fauth) | v1.0.0 |  | Session authentication, registration and credential recovery for VCoreX Framewo… |
-| 2026-11-25 04:51:22 | [litebackup/sdk](https://www.nuget.org/packages/litebackup%2Fsdk) | v1.3.0 | Litebackup | Back up, replicate, and restore SQLite databases with Litebackup |
-| 2026-11-25 05:00:18 | [nowo-tech/seed-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fseed-kit-bundle) | v0.1.0 | Héctor Franco Aceituno; Nowo.… | Seed data for Symfony: one provider per kind of data, export (empty template or… |
+| 2026-11-25 05:36:13 | [proflujo/laravel-analytics](https://www.nuget.org/packages/proflujo%2Flaravel-analytics) | v1.0 | proflujo | Lightweight, self-contained, explicit application-event analytics for Laravel. |
 
 ## Data source
 
