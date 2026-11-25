@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 04:19 UTC
+## Latest list — 2026-11-25 05:19 UTC
 
-New packages created between 2026-11-25 03:20 UTC and 2026-11-25 04:19 UTC.
+New packages created between 2026-11-25 04:19 UTC and 2026-11-25 05:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-25T04-19-56-803509Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-25T05-19-28-011Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-25 03:26:13 | [particle-academy/fancy-schema](https://www.nuget.org/packages/particle-academy%2Ffancy-schema) | v0.1.0 | Particle Academy | Zero-dependency, fail-closed JSON Schema 2020-12 validator for PHP, matching @p… |
-| 2026-11-25 03:28:02 | [dmorenof/sendgrid-sdk](https://www.nuget.org/packages/dmorenof%2Fsendgrid-sdk) | v0.1.0 | David Moreno Falero | Unofficial PHP SDK for the whole Twilio SendGrid v3 API (mail send, marketing c… |
-| 2026-11-25 03:59:02 | [jiannius/audit](https://www.nuget.org/packages/jiannius%2Faudit) | v1.0.0-alpha.2 | TJ | A small, generic audit trail for Laravel 13: append-only, strict-mode safe, fai… |
+| 2026-11-25 04:25:22 | [raytech/raytech-log-viewer](https://www.nuget.org/packages/raytech%2Fraytech-log-viewer) | v1.1.0 | RayTech | Ready-to-use modern log viewer plugin for all Laravel and server logs with them… |
+| 2026-11-25 04:26:53 | [vcorexplatform/auth](https://www.nuget.org/packages/vcorexplatform%2Fauth) | v1.0.0 |  | Session authentication, registration and credential recovery for VCoreX Framewo… |
+| 2026-11-25 04:51:22 | [litebackup/sdk](https://www.nuget.org/packages/litebackup%2Fsdk) | v1.3.0 | Litebackup | Back up, replicate, and restore SQLite databases with Litebackup |
+| 2026-11-25 05:00:18 | [nowo-tech/seed-kit-bundle](https://www.nuget.org/packages/nowo-tech%2Fseed-kit-bundle) | v0.1.0 | Héctor Franco Aceituno; Nowo.… | Seed data for Symfony: one provider per kind of data, export (empty template or… |
 
 ## Data source
 

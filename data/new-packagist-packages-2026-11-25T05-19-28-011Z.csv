@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-25T04:25:22Z,raytech/raytech-log-viewer,v1.1.0,RayTech,"Ready-to-use modern log viewer plugin for all Laravel and server logs with theme customization, live AJAX refresh, instant search, and zero database setup."
+2026-11-25T04:26:53Z,vcorexplatform/auth,v1.0.0,,"Session authentication, registration and credential recovery for VCoreX Framework"
+2026-11-25T04:51:22Z,litebackup/sdk,v1.3.0,Litebackup,"Back up, replicate, and restore SQLite databases with Litebackup"
+2026-11-25T05:00:18Z,nowo-tech/seed-kit-bundle,v0.1.0,Héctor Franco Aceituno; Nowo.tech,"Seed data for Symfony: one provider per kind of data, export (empty template or current rows) and import of YAML / JSON / JSON Lines documents validated by a JSON Schema, a dry-run diff with a plan hash, and an idempotent batched apply through the host's own handlers with leases, access checks and…"
