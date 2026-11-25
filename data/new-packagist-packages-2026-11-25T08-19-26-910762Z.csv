@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-25T07:23:49Z,octoverse-id/octoreview-php,v0.1.0,,"Official PHP SDK for Octoreview: multi-tenant reviews, ratings and review media."
+2026-11-25T07:55:08Z,averay/salesforce-utils,v0.1.0,Adam Averay,A collection of utilities to make interacting with the Phpforce Salesforce SOAP library easier
+2026-11-25T07:57:39Z,adachsoft/mailbox-contract-tests,v0.2.0,Arkadiusz Adach,Reusable PHPUnit contract tests for mailbox implementations
