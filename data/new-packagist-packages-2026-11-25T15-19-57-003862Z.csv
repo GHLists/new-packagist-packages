@@ -1,0 +1,16 @@
+created_at,package,version,author,description
+2026-11-25T14:28:12Z,ahasend/symfony-mailer,v1.0.0,Farhad Hedayatifard; Symfony Community,"AhaSend Mailer Bridge: the Symfony 8.2 bridge, with API v2 and webhooks, for Symfony 7.4, 8.0 and 8.1"
+2026-11-25T14:30:02Z,dimmi/dimmi-php,v0.1.0,,"PHP client for the dimmi REST API, identity tokens for the messenger and webhook verification."
+2026-11-25T14:30:07Z,dimmi/dimmi-laravel,v0.1.0,,"dimmi for Laravel: the messenger with signed identity, the REST API client, webhooks and artisan checks."
+2026-11-25T14:34:34Z,captchacore/statamic,v1.2.0,SpeedIT Solutions,"Privacy-friendly CAPTCHA and bot defense for Statamic forms — proof of work instead of image puzzles, no tracking cookies"
+2026-11-25T14:35:06Z,ahasend/laravel-mailer,v1.0.0,AhaSend; Aamir Yaqoob,"AhaSend for Laravel 11, 12 and 13: API v2 and SMTP mail transports, and webhooks"
+2026-11-25T14:42:20Z,coretsia/platform-routing,v0.14.0,Vladyslav Mudrichenko,"Coretsia routing runtime package: deterministic route compilation, artifact-backed route matching, and reserved endpoint protection."
+2026-11-25T14:51:57Z,webdna/craft-cookiebot-embeds,1.0.0,webdna,"Third-party videos, maps, widgets and tracking scripts wait for the visitor's Cookiebot consent, without marking each one up by hand"
+2026-11-25T14:56:01Z,emaia/laravel-hotwire-starter,v0.1.0,,A Laravel starter kit with Hotwire and Docker.
+2026-11-25T14:59:37Z,tracksim/tracksim-php,v1.0.0,Omnibyte Technologies Limited,Official PHP and Laravel client for the TrackSim API and webhooks
+2026-11-25T14:59:52Z,muckiware/mucki-safe-agent-plugin,v0.1.0,muckiware,MuckiSafe Agent plugin for Shopware 6 - agent control plane for MuckiSafe host actions
+2026-11-25T15:01:59Z,adachsoft/mailbox-gmail,v0.1.1,Arkadiusz Adach,Gmail API adapter for the AdachSoft provider-independent mailbox contract.
+2026-11-25T15:02:30Z,threadable/state-machine,0.1.0,Padraig Nolan; Tomasz Mroziński,State Machine for Laravel by Threadable
+2026-11-25T15:03:40Z,james-draper/archipelago,v1.0.0,,PHP 5.0.0+ compatible legacy refactoring framework.
+2026-11-25T15:05:03Z,licers/licers,v1.0.0,Licers,"License keys for PHP apps and WordPress plugins: Ed25519-signed checks, device limits, entitlements, offline files, floating seats. Free, with Licers."
+2026-11-25T15:13:22Z,igne-agency/laravel-nova,v0.1.0,Rick Blanksma,"Reusable Laravel Nova 5 features for IGNE projects: a grouped main menu, panel defaults, branding, resource helpers, enum badges, filters, Dutch translations and a custom 403 page."
