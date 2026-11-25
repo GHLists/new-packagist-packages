@@ -15,17 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 08:19 UTC
+## Latest list — 2026-11-25 09:19 UTC
 
-New packages created between 2026-11-25 07:20 UTC and 2026-11-25 08:19 UTC.
+New packages created between 2026-11-25 08:19 UTC and 2026-11-25 09:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-25T08-19-26-910762Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-25T09-19-35-154419Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-25 07:23:49 | [octoverse-id/octoreview-php](https://www.nuget.org/packages/octoverse-id%2Foctoreview-php) | v0.1.0 |  | Official PHP SDK for Octoreview: multi-tenant reviews, ratings and review media. |
-| 2026-11-25 07:55:08 | [averay/salesforce-utils](https://www.nuget.org/packages/averay%2Fsalesforce-utils) | v0.1.0 | Adam Averay | A collection of utilities to make interacting with the Phpforce Salesforce SOAP… |
-| 2026-11-25 07:57:39 | [adachsoft/mailbox-contract-tests](https://www.nuget.org/packages/adachsoft%2Fmailbox-contract-tests) | v0.2.0 | Arkadiusz Adach | Reusable PHPUnit contract tests for mailbox implementations |
+| 2026-11-25 08:20:54 | [andrekelling/kirby-anchor-field](https://www.nuget.org/packages/andrekelling%2Fkirby-anchor-field) | 1.0.0 | André Kelling | Add anchor type field for Kirby Panel |
+| 2026-11-25 08:24:20 | [replayd/laravel](https://www.nuget.org/packages/replayd%2Flaravel) | v0.1.1 |  | Send Laravel backend errors and performance issues (N+1 queries, slow queries)… |
+| 2026-11-25 08:41:42 | [klsoft/yii3-doctrine-app](https://www.nuget.org/packages/klsoft%2Fyii3-doctrine-app) | 1.0.0 |  | A Yii 3 web application template that supports the Doctrine ORM |
+| 2026-11-25 08:45:17 | [klsoft/yii3-cms](https://www.nuget.org/packages/klsoft%2Fyii3-cms) | 1.0.0 |  | A content management system based on the Yii 3 framework and uses the Doctrine… |
+| 2026-11-25 08:55:41 | [kreativsoehne/contao-request-token-bundle](https://www.nuget.org/packages/kreativsoehne%2Fcontao-request-token-bundle) | v1.0.0 | Kreativ&Söhne GmbH | Keeps Contao 4.13 forms working behind a consent tool: when a page went out wit… |
+| 2026-11-25 08:55:53 | [hirasso/phpstan-illuminate-collections](https://www.nuget.org/packages/hirasso%2Fphpstan-illuminate-collections) | v1.0.0 | Rasso Hilber | PHPStan narrowing for filter()/reject()/where() on illuminate/collections, with… |
 
 ## Data source
 

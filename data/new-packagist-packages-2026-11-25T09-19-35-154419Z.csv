@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-25T08:20:54Z,andrekelling/kirby-anchor-field,1.0.0,André Kelling,Add anchor type field for Kirby Panel
+2026-11-25T08:24:20Z,replayd/laravel,v0.1.1,,"Send Laravel backend errors and performance issues (N+1 queries, slow queries) to replayd, linked to frontend events by request id"
+2026-11-25T08:41:42Z,klsoft/yii3-doctrine-app,1.0.0,,A Yii 3 web application template that supports the Doctrine ORM
+2026-11-25T08:45:17Z,klsoft/yii3-cms,1.0.0,,A content management system based on the Yii 3 framework and uses the Doctrine ORM
+2026-11-25T08:55:41Z,kreativsoehne/contao-request-token-bundle,v1.0.0,Kreativ&Söhne GmbH,"Keeps Contao 4.13 forms working behind a consent tool: when a page went out without its request token, the form fetches one right before it is sent, instead of failing with ""Invalid request token""."
+2026-11-25T08:55:53Z,hirasso/phpstan-illuminate-collections,v1.0.0,Rasso Hilber,"PHPStan narrowing for filter()/reject()/where() on illuminate/collections, without Larastan"
