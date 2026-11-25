@@ -15,19 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 01:21 UTC
+## Latest list — 2026-11-25 02:20 UTC
 
-New packages created between 2026-11-25 00:20 UTC and 2026-11-25 01:21 UTC.
+New packages created between 2026-11-25 01:21 UTC and 2026-11-25 02:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-25T01-21-24-708404Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-25T02-20-39-334111Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-25 00:43:14 | [oe2i/groy-package](https://www.nuget.org/packages/oe2i%2Fgroy-package) | v1.0.0-alpha.1 | Anthony Osawere; oe2i | Opinionated Laravel 13 package starter kit. |
-| 2026-11-25 00:48:51 | [verbb/editor](https://www.nuget.org/packages/verbb%2Feditor) | 1.0.0 | Verbb | A Craft-native frontend rich-text editor foundation. |
-| 2026-11-25 00:48:55 | [verbb/protect](https://www.nuget.org/packages/verbb%2Fprotect) | 1.0.0 | Verbb | Shared protection infrastructure for untrusted user-generated actions. |
-| 2026-11-25 00:57:02 | [datacircle/logiscape-mcp-tools](https://www.nuget.org/packages/datacircle%2Flogiscape-mcp-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. This package adds four tools to an MCP server made with… |
-| 2026-11-25 01:07:03 | [edydeyemi/laravel-paystack](https://www.nuget.org/packages/edydeyemi%2Flaravel-paystack) | v1.0.0 | edydeyemi | A modern, fluent PHP/Laravel 13 package for integrating Paystack payments, subs… |
+| 2026-11-25 01:30:02 | [datacircle/opgg-laravel-mcp-tools](https://www.nuget.org/packages/datacircle%2Fopgg-laravel-mcp-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. Four tools for OP.GG's Laravel MCP Server call Datacirc… |
+| 2026-11-25 01:50:02 | [vcorexplatform/core](https://www.nuget.org/packages/vcorexplatform%2Fcore) | v1.0.0 |  | Starter MVC core with RedBeanPHP |
+| 2026-11-25 01:50:02 | [vcorexplatform/http-client](https://www.nuget.org/packages/vcorexplatform%2Fhttp-client) | v1.0.0 |  | Filtered outbound HTTP client for Starter |
+| 2026-11-25 01:50:02 | [vcorexplatform/session](https://www.nuget.org/packages/vcorexplatform%2Fsession) | v1.0.0 |  | Cookie-based PHP sessions for Starter |
+| 2026-11-25 01:50:03 | [vcorexplatform/framework](https://www.nuget.org/packages/vcorexplatform%2Fframework) | v1.1.0 |  | Starter PHP MVC application template |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-25T01:30:02Z,datacircle/opgg-laravel-mcp-tools,v0.1.0,Wayne Hamadi,Find the best GTM APIs. Four tools for OP.GG's Laravel MCP Server call Datacircle's public API. You need no API key.
+2026-11-25T01:50:02Z,vcorexplatform/core,v1.0.0,,Starter MVC core with RedBeanPHP
+2026-11-25T01:50:02Z,vcorexplatform/http-client,v1.0.0,,Filtered outbound HTTP client for Starter
+2026-11-25T01:50:02Z,vcorexplatform/session,v1.0.0,,Cookie-based PHP sessions for Starter
+2026-11-25T01:50:03Z,vcorexplatform/framework,v1.1.0,,Starter PHP MVC application template
