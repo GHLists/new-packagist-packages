@@ -1,0 +1,16 @@
+created_at,package,version,author,description
+2026-11-25T02:31:30Z,dmorenof/trustpilot-sdk,v0.1.0,David Moreno Falero,Unofficial PHP SDK for the Trustpilot Business Units and Reviews APIs.
+2026-11-25T02:31:31Z,dmorenof/catastro-sdk,v0.1.0,David Moreno Falero,"Unofficial PHP SDK for the JSON web services of the Spanish Cadastre Virtual Office (Sede Electrónica del Catastro, OVC): street index and non-protected property data, by name, by codes and by coordinates."
+2026-11-25T02:31:33Z,dmorenof/floorfy-sdk,v0.1.0,David Moreno Falero,"Unofficial PHP SDK for the Floorfy REST API (properties, panoramas, services, users, folders, analytics, watermarks, subscription)."
+2026-11-25T02:31:35Z,dmorenof/gocardless-sdk,v0.1.0,David Moreno Falero,"Unofficial PHP SDK for the GoCardless API (customers, mandates, payments, subscriptions, billing requests, payouts, refunds and more)."
+2026-11-25T02:31:36Z,dmorenof/neutrinoapi-sdk,v0.1.0,David Moreno Falero,"Unofficial PHP SDK for the NeutrinoAPI web services (phone, email, IP, URL and other validation and lookup APIs)."
+2026-11-25T02:31:38Z,dmorenof/mailjet-sdk,v0.1.0,David Moreno Falero,"Unofficial PHP SDK for the Mailjet Email API v3 (contacts, lists, campaigns, templates, statistics, senders and more)."
+2026-11-25T02:31:42Z,dmorenof/marketo-sdk,v0.1.0,David Moreno Falero,"Unofficial PHP SDK for the Marketo Engage REST API (Lead Database, Asset, Identity and User Management)."
+2026-11-25T02:31:51Z,dmorenof/infobip-sdk,v0.1.0,David Moreno Falero,"Unofficial PHP SDK for the Infobip platform API (SMS, MMS, WhatsApp, voice, email, RCS, Viber, Line, people and more)."
+2026-11-25T02:31:52Z,dmorenof/aplazame-sdk,v0.1.0,David Moreno Falero,"Unofficial PHP SDK for the Aplazame merchant API (checkout, orders, captures, voids, refunds, campaigns and POS checkout)."
+2026-11-25T02:31:53Z,dmorenof/restb-sdk,v0.1.0,David Moreno Falero,Unofficial PHP SDK for the Restb.ai Vision API (computer vision for real estate photos).
+2026-11-25T02:31:54Z,dmorenof/uda-sdk,v0.1.0,David Moreno Falero,"Unofficial PHP SDK for the Urban Data Analytics (uDA) Pulse API (assets, portfolios, indicators, valuation and forecasts)."
+2026-11-25T02:32:24Z,dmorenof/stripe-sdk,v0.1.0,David Moreno Falero,"Unofficial PHP SDK for the Stripe API, generated from Stripe's public OpenAPI document (payments, customers, billing, Connect, issuing and more)."
+2026-11-25T02:32:36Z,dmorenof/deepl-sdk,v0.1.0,David Moreno Falero,"Unofficial PHP SDK for the DeepL API (text and document translation, glossaries, usage, languages and writing improvement)."
+2026-11-25T02:32:38Z,dmorenof/sendbird-sdk,v0.1.0,David Moreno Falero,"Unofficial PHP SDK for the Sendbird Chat Platform API (users, channels, messages, moderation, bots, announcements and more)."
+2026-11-25T02:33:28Z,latch/vault-php-sdk,v0.1.0,,Framework-independent PHP SDK for Vault-compatible APIs

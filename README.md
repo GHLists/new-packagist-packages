@@ -15,19 +15,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 02:20 UTC
+## Latest list — 2026-11-25 03:20 UTC
 
-New packages created between 2026-11-25 01:21 UTC and 2026-11-25 02:20 UTC.
+New packages created between 2026-11-25 02:20 UTC and 2026-11-25 03:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-25T02-20-39-334111Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-25T03-20-05-7745Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-25 01:30:02 | [datacircle/opgg-laravel-mcp-tools](https://www.nuget.org/packages/datacircle%2Fopgg-laravel-mcp-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. Four tools for OP.GG's Laravel MCP Server call Datacirc… |
-| 2026-11-25 01:50:02 | [vcorexplatform/core](https://www.nuget.org/packages/vcorexplatform%2Fcore) | v1.0.0 |  | Starter MVC core with RedBeanPHP |
-| 2026-11-25 01:50:02 | [vcorexplatform/http-client](https://www.nuget.org/packages/vcorexplatform%2Fhttp-client) | v1.0.0 |  | Filtered outbound HTTP client for Starter |
-| 2026-11-25 01:50:02 | [vcorexplatform/session](https://www.nuget.org/packages/vcorexplatform%2Fsession) | v1.0.0 |  | Cookie-based PHP sessions for Starter |
-| 2026-11-25 01:50:03 | [vcorexplatform/framework](https://www.nuget.org/packages/vcorexplatform%2Fframework) | v1.1.0 |  | Starter PHP MVC application template |
+| 2026-11-25 02:31:30 | [dmorenof/trustpilot-sdk](https://www.nuget.org/packages/dmorenof%2Ftrustpilot-sdk) | v0.1.0 | David Moreno Falero | Unofficial PHP SDK for the Trustpilot Business Units and Reviews APIs. |
+| 2026-11-25 02:31:31 | [dmorenof/catastro-sdk](https://www.nuget.org/packages/dmorenof%2Fcatastro-sdk) | v0.1.0 | David Moreno Falero | Unofficial PHP SDK for the JSON web services of the Spanish Cadastre Virtual Of… |
+| 2026-11-25 02:31:33 | [dmorenof/floorfy-sdk](https://www.nuget.org/packages/dmorenof%2Ffloorfy-sdk) | v0.1.0 | David Moreno Falero | Unofficial PHP SDK for the Floorfy REST API (properties, panoramas, services, u… |
+| 2026-11-25 02:31:35 | [dmorenof/gocardless-sdk](https://www.nuget.org/packages/dmorenof%2Fgocardless-sdk) | v0.1.0 | David Moreno Falero | Unofficial PHP SDK for the GoCardless API (customers, mandates, payments, subsc… |
+| 2026-11-25 02:31:36 | [dmorenof/neutrinoapi-sdk](https://www.nuget.org/packages/dmorenof%2Fneutrinoapi-sdk) | v0.1.0 | David Moreno Falero | Unofficial PHP SDK for the NeutrinoAPI web services (phone, email, IP, URL and… |
+| 2026-11-25 02:31:38 | [dmorenof/mailjet-sdk](https://www.nuget.org/packages/dmorenof%2Fmailjet-sdk) | v0.1.0 | David Moreno Falero | Unofficial PHP SDK for the Mailjet Email API v3 (contacts, lists, campaigns, te… |
+| 2026-11-25 02:31:42 | [dmorenof/marketo-sdk](https://www.nuget.org/packages/dmorenof%2Fmarketo-sdk) | v0.1.0 | David Moreno Falero | Unofficial PHP SDK for the Marketo Engage REST API (Lead Database, Asset, Ident… |
+| 2026-11-25 02:31:51 | [dmorenof/infobip-sdk](https://www.nuget.org/packages/dmorenof%2Finfobip-sdk) | v0.1.0 | David Moreno Falero | Unofficial PHP SDK for the Infobip platform API (SMS, MMS, WhatsApp, voice, ema… |
+| 2026-11-25 02:31:52 | [dmorenof/aplazame-sdk](https://www.nuget.org/packages/dmorenof%2Faplazame-sdk) | v0.1.0 | David Moreno Falero | Unofficial PHP SDK for the Aplazame merchant API (checkout, orders, captures, v… |
+| 2026-11-25 02:31:53 | [dmorenof/restb-sdk](https://www.nuget.org/packages/dmorenof%2Frestb-sdk) | v0.1.0 | David Moreno Falero | Unofficial PHP SDK for the Restb.ai Vision API (computer vision for real estate… |
+| 2026-11-25 02:31:54 | [dmorenof/uda-sdk](https://www.nuget.org/packages/dmorenof%2Fuda-sdk) | v0.1.0 | David Moreno Falero | Unofficial PHP SDK for the Urban Data Analytics (uDA) Pulse API (assets, portfo… |
+| 2026-11-25 02:32:24 | [dmorenof/stripe-sdk](https://www.nuget.org/packages/dmorenof%2Fstripe-sdk) | v0.1.0 | David Moreno Falero | Unofficial PHP SDK for the Stripe API, generated from Stripe's public OpenAPI d… |
+| 2026-11-25 02:32:36 | [dmorenof/deepl-sdk](https://www.nuget.org/packages/dmorenof%2Fdeepl-sdk) | v0.1.0 | David Moreno Falero | Unofficial PHP SDK for the DeepL API (text and document translation, glossaries… |
+| 2026-11-25 02:32:38 | [dmorenof/sendbird-sdk](https://www.nuget.org/packages/dmorenof%2Fsendbird-sdk) | v0.1.0 | David Moreno Falero | Unofficial PHP SDK for the Sendbird Chat Platform API (users, channels, message… |
+| 2026-11-25 02:33:28 | [latch/vault-php-sdk](https://www.nuget.org/packages/latch%2Fvault-php-sdk) | v0.1.0 |  | Framework-independent PHP SDK for Vault-compatible APIs |
 
 ## Data source
 
