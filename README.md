@@ -15,15 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 06:19 UTC
+## Latest list — 2026-11-25 07:20 UTC
 
-New packages created between 2026-11-25 05:19 UTC and 2026-11-25 06:19 UTC.
+New packages created between 2026-11-25 06:19 UTC and 2026-11-25 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-25T06-19-07-884Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-25T07-20-28-850242Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-25 05:36:13 | [proflujo/laravel-analytics](https://www.nuget.org/packages/proflujo%2Flaravel-analytics) | v1.0 | proflujo | Lightweight, self-contained, explicit application-event analytics for Laravel. |
+| 2026-11-25 06:27:33 | [allswap/statamic-crypto-validator](https://www.nuget.org/packages/allswap%2Fstatamic-crypto-validator) | 1.0.0 | AllSwap Protocol | Multi-chain cryptocurrency address validation for Statamic CMS forms and Antler… |
+| 2026-11-25 06:39:13 | [jovishin/tron-api](https://www.nuget.org/packages/jovishin%2Ftron-api) | v4.0.1 | Shamsudin Serderov | PHP 7.4 的 TRON SDK，源自 iexbase/tron-api 4.0.1，隨附 Web3 2.0.1。 |
+| 2026-11-25 06:47:27 | [bezicto/pdfparser](https://www.nuget.org/packages/bezicto%2Fpdfparser) | v1.0.0 | Khairul Asyrani bin Sulaiman;… | Standalone PHP PDF parser library to extract text, metadata, and page details w… |
 
 ## Data source
 

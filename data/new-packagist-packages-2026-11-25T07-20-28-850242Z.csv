@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-25T06:27:33Z,allswap/statamic-crypto-validator,1.0.0,AllSwap Protocol,"Multi-chain cryptocurrency address validation for Statamic CMS forms and Antlers templates (Bitcoin, Ethereum, Solana, TON, TRON)."
+2026-11-25T06:39:13Z,jovishin/tron-api,v4.0.1,Shamsudin Serderov,PHP 7.4 的 TRON SDK，源自 iexbase/tron-api 4.0.1，隨附 Web3 2.0.1。
+2026-11-25T06:47:27Z,bezicto/pdfparser,v1.0.0,Khairul Asyrani bin Sulaiman; Sebastien MALOT,"Standalone PHP PDF parser library to extract text, metadata, and page details with low memory usage."
