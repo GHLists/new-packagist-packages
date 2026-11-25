@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-25T22:23:28Z,atom-fm/framework,v0.1.0,,Atom Framework
+2026-11-25T22:33:46Z,atom-fm/lucide,v0.1.0,,Lucide icon resolver for Atom Framework
+2026-11-25T22:36:49Z,atom-fm/starter,v0.1.0,,A minimal Atom application with SQLite and Accounts
+2026-11-25T22:47:48Z,ghazali/epass-package,v1.0.1,,"Headless Laravel package for ePass authentication, passport verification, and Play Integrity attestation."
+2026-11-25T22:50:30Z,debuss-a/piccolo-container,0.1.0,Alexandre Debusschère,"A PSR-11 dependency injection container with singleton, scoped and transient lifetimes, made for long-running PHP workers (FrankenPHP, RoadRunner, ...)."
+2026-11-25T22:52:42Z,nr/emailservice,3.0.0,,ProcessWire module for templated emails with CSS inlining and logging
+2026-11-25T23:12:40Z,debuss-a/piccolo-framework,0.1.0,Alexandre Debusschère,"The framework of the Piccolo skeleton: a PSR-15 application built on Laminas Stratigility and Mezzio components, with a scoped container, attribute-based routing, and FrankenPHP worker mode support."
