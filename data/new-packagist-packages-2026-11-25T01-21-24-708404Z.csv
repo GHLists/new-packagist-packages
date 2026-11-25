@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-25T00:43:14Z,oe2i/groy-package,v1.0.0-alpha.1,Anthony Osawere; oe2i,Opinionated Laravel 13 package starter kit.
+2026-11-25T00:48:51Z,verbb/editor,1.0.0,Verbb,A Craft-native frontend rich-text editor foundation.
+2026-11-25T00:48:55Z,verbb/protect,1.0.0,Verbb,Shared protection infrastructure for untrusted user-generated actions.
+2026-11-25T00:57:02Z,datacircle/logiscape-mcp-tools,v0.1.0,Wayne Hamadi,Find the best GTM APIs. This package adds four tools to an MCP server made with the MCP SDK for PHP (logiscape/mcp-sdk-php). The tools call Datacircle's public API. You need no API key.
+2026-11-25T01:07:03Z,edydeyemi/laravel-paystack,v1.0.0,edydeyemi,"A modern, fluent PHP/Laravel 13 package for integrating Paystack payments, subscriptions, transfers, subaccounts, dedicated virtual accounts, and webhooks."

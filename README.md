@@ -15,18 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 00:20 UTC
+## Latest list — 2026-11-25 01:21 UTC
 
-New packages created between 2026-11-24 23:19 UTC and 2026-11-25 00:20 UTC.
+New packages created between 2026-11-25 00:20 UTC and 2026-11-25 01:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-25T00-20-28-271569Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-25T01-21-24-708404Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-24 23:32:30 | [wsign/wsign-php](https://www.nuget.org/packages/wsign%2Fwsign-php) | v1.0.0 | wsign | Official PHP library for the wsign e-signature API: signature requests, templat… |
-| 2026-11-24 23:51:56 | [andrexdd/tombstone](https://www.nuget.org/packages/andrexdd%2Ftombstone) | v1.0.0 | andre | Keeps deleted discussions from becoming dead 404 links. Automatically serves a… |
-| 2026-11-25 00:06:17 | [protocollive/php86time](https://www.nuget.org/packages/protocollive%2Fphp86time) | 2026.11.24 | Fabio Carpi | Time namespace classes for PHP < 8.6 |
-| 2026-11-25 00:17:25 | [datacircle/laravel-boost](https://www.nuget.org/packages/datacircle%2Flaravel-boost) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. Four Laravel Boost tools call Datacircle's public API.… |
+| 2026-11-25 00:43:14 | [oe2i/groy-package](https://www.nuget.org/packages/oe2i%2Fgroy-package) | v1.0.0-alpha.1 | Anthony Osawere; oe2i | Opinionated Laravel 13 package starter kit. |
+| 2026-11-25 00:48:51 | [verbb/editor](https://www.nuget.org/packages/verbb%2Feditor) | 1.0.0 | Verbb | A Craft-native frontend rich-text editor foundation. |
+| 2026-11-25 00:48:55 | [verbb/protect](https://www.nuget.org/packages/verbb%2Fprotect) | 1.0.0 | Verbb | Shared protection infrastructure for untrusted user-generated actions. |
+| 2026-11-25 00:57:02 | [datacircle/logiscape-mcp-tools](https://www.nuget.org/packages/datacircle%2Flogiscape-mcp-tools) | v0.1.0 | Wayne Hamadi | Find the best GTM APIs. This package adds four tools to an MCP server made with… |
+| 2026-11-25 01:07:03 | [edydeyemi/laravel-paystack](https://www.nuget.org/packages/edydeyemi%2Flaravel-paystack) | v1.0.0 | edydeyemi | A modern, fluent PHP/Laravel 13 package for integrating Paystack payments, subs… |
 
 ## Data source
 
