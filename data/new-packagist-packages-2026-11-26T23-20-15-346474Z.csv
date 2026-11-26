@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-26T22:32:03Z,nubos/starterkit,v1.53.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-26T22:43:56Z,linkxtr/filament-qrcode,v1.0.0,Khaled Sadek,"A clean, modern Filament plugin to generate, render, style, and export QR codes powered by linkxtr/laravel-qrcode"

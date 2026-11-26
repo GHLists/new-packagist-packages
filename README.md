@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 22:20 UTC
+## Latest list — 2026-11-26 23:20 UTC
 
-New packages created between 2026-11-26 21:20 UTC and 2026-11-26 22:20 UTC.
+New packages created between 2026-11-26 22:20 UTC and 2026-11-26 23:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-26T22-20-07-904098Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-26T23-20-15-346474Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-26 21:25:57 | [directorytree/progress](https://www.nuget.org/packages/directorytree%2Fprogress) | v1.0.1 | Steve Bauman | Track the progress of long-running work in Laravel applications. |
-| 2026-11-26 21:41:33 | [adachsoft/workflow-step-social](https://www.nuget.org/packages/adachsoft%2Fworkflow-step-social) | v0.2.0 | Arkadiusz Adach | Social media publishing step for AdachSoft workflows. |
-| 2026-11-26 22:02:34 | [portpro/document-reader](https://www.nuget.org/packages/portpro%2Fdocument-reader) | v0.1.0 |  | Self-hosted text, table and labeled-field extraction for documents and images. |
-| 2026-11-26 22:07:34 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.52.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-26 22:32:03 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.53.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-26 22:43:56 | [linkxtr/filament-qrcode](https://www.nuget.org/packages/linkxtr%2Ffilament-qrcode) | v1.0.0 | Khaled Sadek | A clean, modern Filament plugin to generate, render, style, and export QR codes… |
 
 ## Data source
 
