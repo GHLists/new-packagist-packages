@@ -15,16 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 19:19 UTC
+## Latest list — 2026-11-26 20:21 UTC
 
-New packages created between 2026-11-26 18:20 UTC and 2026-11-26 19:19 UTC.
+New packages created between 2026-11-26 19:19 UTC and 2026-11-26 20:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-26T19-19-06-614702Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-26T20-21-26-378403Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-26 18:29:00 | [betocampoy/champs-sdk-sicredi](https://www.nuget.org/packages/betocampoy%2Fchamps-sdk-sicredi) | v0.1.0 | Beto Campoy | SDK PHP da Champs para a API de Cobrança do Sicredi: boleto tradicional e híbri… |
-| 2026-11-26 18:37:34 | [hryvinskyi/magento2-catalog-sorting-price](https://www.nuget.org/packages/hryvinskyi%2Fmagento2-catalog-sorting-price) | 1.0.0 | Volodymyr Hryvinskyi | Catalog sort options Price: Low to High and Price: High to Low: two Sort By ent… |
+| 2026-11-26 19:40:56 | [loki-checkout/magento2-at](https://www.nuget.org/packages/loki-checkout%2Fmagento2-at) | 1.0.0 |  | Austrian settings for LokiCheckout |
+| 2026-11-26 19:47:25 | [loki-checkout/magento2-br](https://www.nuget.org/packages/loki-checkout%2Fmagento2-br) | 1.0.0 |  | Brazilian settings for LokiCheckout |
+| 2026-11-26 19:47:27 | [loki-checkout/magento2-au](https://www.nuget.org/packages/loki-checkout%2Fmagento2-au) | 1.0.0 |  | Australian settings for LokiCheckout |
+| 2026-11-26 19:57:00 | [amwaluddinlubis/ci4-tabel-form-helper](https://www.nuget.org/packages/amwaluddinlubis%2Fci4-tabel-form-helper) | v1.1.0 | Amwaluddin Lubis | Helper tabel daftar dan form modal CRUD untuk CodeIgniter 4: tabel_bantu() + fo… |
+| 2026-11-26 20:20:29 | [adachsoft/social-post-contracts](https://www.nuget.org/packages/adachsoft%2Fsocial-post-contracts) | v0.1.0 | Arkadiusz Adach | Provider-independent contracts and models for publishing social media posts in… |
 
 ## Data source
 
