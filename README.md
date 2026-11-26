@@ -15,21 +15,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 11:19 UTC
+## Latest list — 2026-11-26 12:20 UTC
 
-New packages created between 2026-11-26 10:22 UTC and 2026-11-26 11:19 UTC.
+New packages created between 2026-11-26 11:19 UTC and 2026-11-26 12:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-26T11-19-11-904306Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-26T12-20-31-093514Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-26 10:31:37 | [kraz/json-rpc-server](https://www.nuget.org/packages/kraz%2Fjson-rpc-server) | 1.0.0 | Krasen Borisov | JSON-RPC 2.0 Server: transport-agnostic core, PSR-15 HTTP handler, attribute-dr… |
-| 2026-11-26 10:34:32 | [upassist/neos-useravatar](https://www.nuget.org/packages/upassist%2Fneos-useravatar) | 0.1.0 |  | Profile photo (upload or Gravatar) for Neos backend users, shown in the Neos UI… |
-| 2026-11-26 10:34:50 | [restruct/silverstripe-rendered-content-extractor](https://www.nuget.org/packages/restruct%2Fsilverstripe-rendered-content-extractor) | 0.1.0 | Restruct | Render a CMS page in-process (draft or live, as any member) and extract its HTM… |
-| 2026-11-26 10:53:51 | [kraz/json-rpc-server-bundle](https://www.nuget.org/packages/kraz%2Fjson-rpc-server-bundle) | 1.0.0 | Krasen Borisov | Symfony bundle for kraz/json-rpc-server: JSON-RPC 2.0 endpoints with Security,… |
-| 2026-11-26 10:53:57 | [beffroi/framework](https://www.nuget.org/packages/beffroi%2Fframework) | 0.1.0 | All contributors | An identity provider for the Symfony ecosystem: identity core, OAuth 2.0 / Open… |
-| 2026-11-26 10:54:54 | [loamhill/api-php-sdk](https://www.nuget.org/packages/loamhill%2Fapi-php-sdk) | v1.0.1 |  | PHP SDK for the Loamhill crypto payment API |
-| 2026-11-26 11:09:17 | [studio-variable/kirby-typography](https://www.nuget.org/packages/studio-variable%2Fkirby-typography) | v1.0.0 | Studio Variable | French typography for Kirby: automatic non-breaking spaces on output and a visi… |
+| 2026-11-26 11:21:42 | [otaqq/html-graft](https://www.nuget.org/packages/otaqq%2Fhtml-graft) | v0.1.0 | otaqq | Rewrite an opaque HTML document at serve time without re-parsing it: fill comme… |
+| 2026-11-26 11:23:43 | [limegreentangerine/careers_manager](https://www.nuget.org/packages/limegreentangerine%2Fcareers_manager) | 0.0.1 |  | Careers Management System |
+| 2026-11-26 11:23:46 | [se7enxweb/xne](https://www.nuget.org/packages/se7enxweb%2Fxne) | v0.3.0.8 | 7x | xne (Exponential Network): safe, verified upgrades for Exponential installs. De… |
+| 2026-11-26 11:24:12 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.49.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-26 11:28:30 | [qiick/laravel-audit](https://www.nuget.org/packages/qiick%2Flaravel-audit) | v0.1.0-beta.1 | Qiick | Shared audit log for qiick Laravel products: the activity_log table, a secret-s… |
+| 2026-11-26 11:30:27 | [meetmage/module-accessibility-checker](https://www.nuget.org/packages/meetmage%2Fmodule-accessibility-checker) | v1.0.0 | Meet Shekhat | Find and fix accessibility problems in Magento 2 for the European Accessibility… |
+| 2026-11-26 11:39:15 | [switch-network/masslytics-client](https://www.nuget.org/packages/switch-network%2Fmasslytics-client) | v1.0.0 | RicardoSwitchNetwork | PHP client for the Masslytics API |
+| 2026-11-26 11:53:23 | [hipdevteam/ion-mu](https://www.nuget.org/packages/hipdevteam%2Fion-mu) | v3.7.0 | ION | ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Inte… |
+| 2026-11-26 11:54:44 | [drupal/display_builder_basecoat](https://www.nuget.org/packages/drupal%2Fdisplay_builder_basecoat) | 1.0.0-alpha1 | Jean Valverde | Provide a Display Builder Demo website with Basecoat. |
+| 2026-11-26 11:54:44 | [drupal/display_builder_bulma](https://www.nuget.org/packages/drupal%2Fdisplay_builder_bulma) | 1.0.0-alpha1 | Jean Valverde | Provide a Display Builder Demo website with Bulma. |
+| 2026-11-26 11:54:44 | [drupal/display_builder_patternfly](https://www.nuget.org/packages/drupal%2Fdisplay_builder_patternfly) | 1.0.0-alpha1 | Jean Valverde | Provide a Display Builder Demo website with PatternFly. |
+| 2026-11-26 11:54:44 | [drupal/display_builder_pico](https://www.nuget.org/packages/drupal%2Fdisplay_builder_pico) | 1.0.0-alpha1 | Jean Valverde | Provide a Display Builder Demo website with Pico. |
+| 2026-11-26 11:54:44 | [drupal/display_builder_webawesome](https://www.nuget.org/packages/drupal%2Fdisplay_builder_webawesome) | 1.0.0-alpha1 | Jean Valverde | Provide a Display Builder Demo website with Web Awesome. |
 
 ## Data source
 
