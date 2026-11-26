@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-25T23:37:58Z,obelaw/ium,v1.0.0,Karim Mohamed; Obelaw Team,"Obelawium (IUM) Core — Modular ERP Domain Standard, Registry, Contracts, Building Blocks, and Conformance Suite for Laravel"
+2026-11-25T23:40:26Z,obelaw/ium-accounting,v1.0.0,Obelaw Team,Enterprise General Ledger & Financial Management (FMS) Domain Module for Obelawium ERP
+2026-11-25T23:42:29Z,obelaw/runner-laravel,v1.0.0,Obelaw Team,"A Laravel package that provides a runner system for executing tasks with dependencies, scheduling, and logging."
+2026-11-25T23:45:04Z,chr-z/valida-nfse,v1.0.0,Christian Eliel,"Validador offline de XML de NFS-e (DPS/NFSe padrao nacional e ABRASF) para PHP. Zero dependencias de runtime, sem rede, com codigos de erro estaveis para CI."
+2026-11-26T00:02:12Z,dmstr/neuron-ai-bundle,0.1.0,diemeisterei GmbH,"Symfony bundle integrating the Neuron AI framework: provider factory (Anthropic/Ollama), embeddings, pgvector store wiring, a chat service and MCP servers as an `mcp` connection type of dmstr/api-configuration-bundle."
+2026-11-26T00:04:08Z,obelaw/trail,v1.0.0,,"Minimal, activity trail for Eloquent models."
