@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-26T05:30:57Z,smart145/html,v6.5.0,Adam Engebretson; Taylor Otwell,HTML and Form Builders for the Laravel Framework (Smart 145 fork of the abandoned laravelcollective/html)
+2026-11-26T05:51:56Z,diepxuan/laravel-catalog,2.9.1,Tran Ngoc Duc,Catalog package for DXPanel
