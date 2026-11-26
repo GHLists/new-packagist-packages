@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-26T14:30:18Z,sightpress/module-template,0.1.0,,"A starting point for a SightPress module: SightPress is a powerful CMS for everyone, designed with blind and low-vision creators and audiences in mind. Create your own module from it with composer create-project, then make it yours."
+2026-11-26T14:37:27Z,vivomedia/neos-notfound,1.0.0,,"Neos CMS package that renders a normal editable page for 404 errors, aware of content dimensions"
+2026-11-26T14:48:20Z,goodport/laravel-ai-resilience,v1.0.0,goodport,Rate limiting and retries for Laravel AI agent prompts.
+2026-11-26T14:51:58Z,mirror-and-mountain/meros-portal,v1.0.0,tmw-mm,Customer Portals for Meros-powered WordPress sites.
+2026-11-26T15:07:15Z,dynamikasolucoesweb/laravel-captcha,v1.0.0,Dynamika Soluções Web,"One captcha API for Laravel: Cloudflare Turnstile, hCaptcha and Google reCAPTCHA v2/v3, switchable at runtime."
