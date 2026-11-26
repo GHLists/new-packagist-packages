@@ -15,21 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 16:19 UTC
+## Latest list — 2026-11-26 17:22 UTC
 
-New packages created between 2026-11-26 15:20 UTC and 2026-11-26 16:19 UTC.
+New packages created between 2026-11-26 16:19 UTC and 2026-11-26 17:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-26T16-19-46-585021Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-26T17-22-04-322508Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-26 15:20:39 | [alexandrebulete/ddd-comment-bundle](https://www.nuget.org/packages/alexandrebulete%2Fddd-comment-bundle) | 1.0.0 | Alexandre Bulete | Comments under any content as a reusable DDD Bounded Context: manual or automat… |
-| 2026-11-26 15:32:37 | [byte5/whereabouts](https://www.nuget.org/packages/byte5%2Fwhereabouts) | v0.1.1 | byte5 GmbH | Shows where an asset is used and warns before one in use is deleted. |
-| 2026-11-26 15:34:31 | [myleapp/myle](https://www.nuget.org/packages/myleapp%2Fmyle) | v0.1.0 | Myle | The official PHP SDK of the Myle API (https://api.myleapp.fr) |
-| 2026-11-26 15:47:04 | [alexandrebulete/ddd-seo-bundle](https://www.nuget.org/packages/alexandrebulete%2Fddd-seo-bundle) | 1.0.0 | Alexandre Bulete | SEO as a reusable DDD Bounded Context: titles, descriptions, canonical and shar… |
-| 2026-11-26 15:49:49 | [qmgateway/qmgateway-php](https://www.nuget.org/packages/qmgateway%2Fqmgateway-php) | v0.1.0 |  | The official PHP SDK for the QMGateway API: send SMS and one-time passwords, fo… |
-| 2026-11-26 16:10:38 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.50.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
-| 2026-11-26 16:13:32 | [indual-web/swiss-parks-php-sdk](https://www.nuget.org/packages/indual-web%2Fswiss-parks-php-sdk) | v22.0 | indual | PHP SDK that imports Swiss Parks offers into a local SQLite database and render… |
+| 2026-11-26 16:49:13 | [backsystem/base](https://www.nuget.org/packages/backsystem%2Fbase) | v1.0.95 |  |  |
+| 2026-11-26 17:06:29 | [cart-recovery/module-abandoned-cart](https://www.nuget.org/packages/cart-recovery%2Fmodule-abandoned-cart) | v1.0.0 |  | Configurable abandoned cart recovery emails for Magento Open Source and Adobe C… |
+| 2026-11-26 17:16:38 | [considbrs-webdev/revisionary-municipio-frontend](https://www.nuget.org/packages/considbrs-webdev%2Frevisionary-municipio-frontend) | 1.0.2 |  | Simplified front-end experience for the revisor role (Revisionary) on Municipio… |
 
 ## Data source
 

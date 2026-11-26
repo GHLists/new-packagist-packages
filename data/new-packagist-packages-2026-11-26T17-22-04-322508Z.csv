@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-26T16:49:13Z,backsystem/base,v1.0.95,,
+2026-11-26T17:06:29Z,cart-recovery/module-abandoned-cart,v1.0.0,,Configurable abandoned cart recovery emails for Magento Open Source and Adobe Commerce.
+2026-11-26T17:16:38Z,considbrs-webdev/revisionary-municipio-frontend,1.0.2,,"Simplified front-end experience for the revisor role (Revisionary) on Municipio/Modularity sites: suggest-changes button, per-module pencils and return-to-page after submitting."
