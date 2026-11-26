@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-26T09:31:10Z,amc/openlibrary-php,v1.0.0,,"An object-oriented PHP client for the Open Library API with typed search results, request throttling, and rate-limit retries."
+2026-11-26T09:31:44Z,rllngr/kirby-doczer,0.1,Nicolas Rollinger,Read-only connector that exposes the public content of a Kirby site to a doczer app installed on the same server.
+2026-11-26T09:37:39Z,darkwood/darkwood-bundle,v0.1.0,,Shared Darkwood Identity templates and design assets for Symfony applications.
+2026-11-26T09:42:49Z,klsoft/yii3-cms,1.0.0,,A content management system based on the Yii 3 framework and uses the Doctrine ORM
+2026-11-26T09:45:43Z,itmosoft/laravel-health,v1.0.0,,Extensible health checks for Laravel applications.
+2026-11-26T09:47:58Z,gunner91/site-ai-assistant,v1.0.0,Vladyslav Koshelyev,"Drop-in AI chat assistant for any PHP website: answers from your Markdown knowledge base, captures leads to Telegram, works with any OpenAI-compatible model, built-in cost limits. No dependencies."
+2026-11-26T10:03:21Z,pixelperfectat/magento2-module-newsletter-signup-hyva-checkout,0.1.0,,"Newsletter sign-up for Hyvä Checkout: a sign-up line with a short benefit, shown only to shoppers who are not subscribed"
+2026-11-26T10:06:08Z,storedo/client,v0.1.0,ma-kom agentur UG,"STOREDO-Client für PHP: Bewertung, Ampel und Aufgaben je Domain in eigene Software holen (nur lesend, ohne Abhängigkeiten)."
+2026-11-26T10:07:26Z,pactivasign/pactivasign-php,v0.1.1,,"Official PHP client for the PactivaSign e-signature API: envelopes, documents, templates and webhooks, with OAuth 2.0 private_key_jwt and DPoP."
