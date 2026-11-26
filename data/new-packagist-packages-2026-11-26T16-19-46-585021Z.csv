@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-26T15:20:39Z,alexandrebulete/ddd-comment-bundle,1.0.0,Alexandre Bulete,"Comments under any content as a reusable DDD Bounded Context: manual or automatic moderation in a Sylius back office, spam checks (ddd-antispam-bundle), per-kind and per-content opening, notices through ddd-notification-bundle."
+2026-11-26T15:32:37Z,byte5/whereabouts,v0.1.1,byte5 GmbH,Shows where an asset is used and warns before one in use is deleted.
+2026-11-26T15:34:31Z,myleapp/myle,v0.1.0,Myle,The official PHP SDK of the Myle API (https://api.myleapp.fr)
+2026-11-26T15:47:04Z,alexandrebulete/ddd-seo-bundle,1.0.0,Alexandre Bulete,"SEO as a reusable DDD Bounded Context: titles, descriptions, canonical and share tags per page, templates by kind of content, sitemap.xml and robots.txt, edited in a Sylius back office."
+2026-11-26T15:49:49Z,qmgateway/qmgateway-php,v0.1.0,,"The official PHP SDK for the QMGateway API: send SMS and one-time passwords, follow delivery, read replies, and verify webhooks. No dependencies."
+2026-11-26T16:10:38Z,nubos/starterkit,v1.50.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-26T16:13:32Z,indual-web/swiss-parks-php-sdk,v22.0,indual,"PHP SDK that imports Swiss Parks offers into a local SQLite database and renders filter, list, map and detail views"

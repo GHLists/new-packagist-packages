@@ -15,19 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 15:20 UTC
+## Latest list — 2026-11-26 16:19 UTC
 
-New packages created between 2026-11-26 14:20 UTC and 2026-11-26 15:20 UTC.
+New packages created between 2026-11-26 15:20 UTC and 2026-11-26 16:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-26T15-20-20-474342Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-26T16-19-46-585021Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-26 14:30:18 | [sightpress/module-template](https://www.nuget.org/packages/sightpress%2Fmodule-template) | 0.1.0 |  | A starting point for a SightPress module: SightPress is a powerful CMS for ever… |
-| 2026-11-26 14:37:27 | [vivomedia/neos-notfound](https://www.nuget.org/packages/vivomedia%2Fneos-notfound) | 1.0.0 |  | Neos CMS package that renders a normal editable page for 404 errors, aware of c… |
-| 2026-11-26 14:48:20 | [goodport/laravel-ai-resilience](https://www.nuget.org/packages/goodport%2Flaravel-ai-resilience) | v1.0.0 | goodport | Rate limiting and retries for Laravel AI agent prompts. |
-| 2026-11-26 14:51:58 | [mirror-and-mountain/meros-portal](https://www.nuget.org/packages/mirror-and-mountain%2Fmeros-portal) | v1.0.0 | tmw-mm | Customer Portals for Meros-powered WordPress sites. |
-| 2026-11-26 15:07:15 | [dynamikasolucoesweb/laravel-captcha](https://www.nuget.org/packages/dynamikasolucoesweb%2Flaravel-captcha) | v1.0.0 | Dynamika Soluções Web | One captcha API for Laravel: Cloudflare Turnstile, hCaptcha and Google reCAPTCH… |
+| 2026-11-26 15:20:39 | [alexandrebulete/ddd-comment-bundle](https://www.nuget.org/packages/alexandrebulete%2Fddd-comment-bundle) | 1.0.0 | Alexandre Bulete | Comments under any content as a reusable DDD Bounded Context: manual or automat… |
+| 2026-11-26 15:32:37 | [byte5/whereabouts](https://www.nuget.org/packages/byte5%2Fwhereabouts) | v0.1.1 | byte5 GmbH | Shows where an asset is used and warns before one in use is deleted. |
+| 2026-11-26 15:34:31 | [myleapp/myle](https://www.nuget.org/packages/myleapp%2Fmyle) | v0.1.0 | Myle | The official PHP SDK of the Myle API (https://api.myleapp.fr) |
+| 2026-11-26 15:47:04 | [alexandrebulete/ddd-seo-bundle](https://www.nuget.org/packages/alexandrebulete%2Fddd-seo-bundle) | 1.0.0 | Alexandre Bulete | SEO as a reusable DDD Bounded Context: titles, descriptions, canonical and shar… |
+| 2026-11-26 15:49:49 | [qmgateway/qmgateway-php](https://www.nuget.org/packages/qmgateway%2Fqmgateway-php) | v0.1.0 |  | The official PHP SDK for the QMGateway API: send SMS and one-time passwords, fo… |
+| 2026-11-26 16:10:38 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.50.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-26 16:13:32 | [indual-web/swiss-parks-php-sdk](https://www.nuget.org/packages/indual-web%2Fswiss-parks-php-sdk) | v22.0 | indual | PHP SDK that imports Swiss Parks offers into a local SQLite database and render… |
 
 ## Data source
 
