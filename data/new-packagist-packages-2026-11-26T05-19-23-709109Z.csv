@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-26T04:36:29Z,hipdevteam/ion-mu,v3.6.0,ION,ION MU — WordPress mu-plugin that fire-and-forgets activity events to Site Intelligence
+2026-11-26T04:42:17Z,yuandianxitong/plugin-kernel,v1.0.0,,Shared plugin kernel for Yuandian Webman applications
+2026-11-26T04:56:52Z,athenanetworks/abr,1.0,,"A clean, modern, object-oriented client for the Australian Business Register (ABN Lookup) web services."
+2026-11-26T05:05:59Z,hamzaahmadaslam/dbdelta-dryrun,v1.0.0,Hamza Ahmad Aslam,"A WP-CLI command that creates CREATE TABLE statements under a scratch prefix, runs dbDelta() again and reports every ALTER it would repeat on each call, with the cause and the fix."
+2026-11-26T05:06:00Z,hamzaahmadaslam/option-churn,v1.0.0,Hamza Ahmad Aslam,"Development plugin for WordPress: counts how often each option is rewritten across requests, by request type and caller, and how often update_option() was called with an unchanged value. Stores totals, never values."
+2026-11-26T05:06:02Z,hamzaahmadaslam/woo-note-triage,v1.0.0,Hamza Ahmad Aslam,"WooCommerce plugin that sorts the notes customers write at checkout into gift messages, delivery instructions, questions, complaints and fraud signals, and ranks them by urgency with TypeSafe's Jev model."
+2026-11-26T05:10:24Z,diepxuan/laravel-catalog,2.7.3,Tran Ngoc Duc,Catalog package for DXPanel
+2026-11-26T05:10:53Z,diepxuan/laravel-simba,1.2.5,Tran Ngoc Duc,Laravel Integration With Simba
