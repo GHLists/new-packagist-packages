@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-26T10:31:37Z,kraz/json-rpc-server,1.0.0,Krasen Borisov,"JSON-RPC 2.0 Server: transport-agnostic core, PSR-15 HTTP handler, attribute-driven methods, Service Mapping Description (SMD)"
+2026-11-26T10:34:32Z,upassist/neos-useravatar,0.1.0,,"Profile photo (upload or Gravatar) for Neos backend users, shown in the Neos UI and the backend modules instead of the initials or user icon"
+2026-11-26T10:34:50Z,restruct/silverstripe-rendered-content-extractor,0.1.0,Restruct,"Render a CMS page in-process (draft or live, as any member) and extract its HTML, headers, content area and head; safe to call from the CMS, CLI or a queued job. It does not change how pages render."
+2026-11-26T10:53:51Z,kraz/json-rpc-server-bundle,1.0.0,Krasen Borisov,"Symfony bundle for kraz/json-rpc-server: JSON-RPC 2.0 endpoints with Security, RateLimiter, Serializer and Validator integration"
+2026-11-26T10:53:57Z,beffroi/framework,0.1.0,All contributors,"An identity provider for the Symfony ecosystem: identity core, OAuth 2.0 / OpenID Connect module, SAML 2.0 module, XML security, the SAML 2.0 model and its bindings, the application built on them, and the terminal client that administers it."
+2026-11-26T10:54:54Z,loamhill/api-php-sdk,v1.0.1,,PHP SDK for the Loamhill crypto payment API
+2026-11-26T11:09:17Z,studio-variable/kirby-typography,v1.0.0,Studio Variable,French typography for Kirby: automatic non-breaking spaces on output and a visible non-breaking space button in the writer

@@ -15,23 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 10:22 UTC
+## Latest list — 2026-11-26 11:19 UTC
 
-New packages created between 2026-11-26 09:22 UTC and 2026-11-26 10:22 UTC.
+New packages created between 2026-11-26 10:22 UTC and 2026-11-26 11:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-26T10-22-26-476264Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-26T11-19-11-904306Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-26 09:31:10 | [amc/openlibrary-php](https://www.nuget.org/packages/amc%2Fopenlibrary-php) | v1.0.0 |  | An object-oriented PHP client for the Open Library API with typed search result… |
-| 2026-11-26 09:31:44 | [rllngr/kirby-doczer](https://www.nuget.org/packages/rllngr%2Fkirby-doczer) | 0.1 | Nicolas Rollinger | Read-only connector that exposes the public content of a Kirby site to a doczer… |
-| 2026-11-26 09:37:39 | [darkwood/darkwood-bundle](https://www.nuget.org/packages/darkwood%2Fdarkwood-bundle) | v0.1.0 |  | Shared Darkwood Identity templates and design assets for Symfony applications. |
-| 2026-11-26 09:42:49 | [klsoft/yii3-cms](https://www.nuget.org/packages/klsoft%2Fyii3-cms) | 1.0.0 |  | A content management system based on the Yii 3 framework and uses the Doctrine… |
-| 2026-11-26 09:45:43 | [itmosoft/laravel-health](https://www.nuget.org/packages/itmosoft%2Flaravel-health) | v1.0.0 |  | Extensible health checks for Laravel applications. |
-| 2026-11-26 09:47:58 | [gunner91/site-ai-assistant](https://www.nuget.org/packages/gunner91%2Fsite-ai-assistant) | v1.0.0 | Vladyslav Koshelyev | Drop-in AI chat assistant for any PHP website: answers from your Markdown knowl… |
-| 2026-11-26 10:03:21 | [pixelperfectat/magento2-module-newsletter-signup-hyva-checkout](https://www.nuget.org/packages/pixelperfectat%2Fmagento2-module-newsletter-signup-hyva-checkout) | 0.1.0 |  | Newsletter sign-up for Hyvä Checkout: a sign-up line with a short benefit, show… |
-| 2026-11-26 10:06:08 | [storedo/client](https://www.nuget.org/packages/storedo%2Fclient) | v0.1.0 | ma-kom agentur UG | STOREDO-Client für PHP: Bewertung, Ampel und Aufgaben je Domain in eigene Softw… |
-| 2026-11-26 10:07:26 | [pactivasign/pactivasign-php](https://www.nuget.org/packages/pactivasign%2Fpactivasign-php) | v0.1.1 |  | Official PHP client for the PactivaSign e-signature API: envelopes, documents,… |
+| 2026-11-26 10:31:37 | [kraz/json-rpc-server](https://www.nuget.org/packages/kraz%2Fjson-rpc-server) | 1.0.0 | Krasen Borisov | JSON-RPC 2.0 Server: transport-agnostic core, PSR-15 HTTP handler, attribute-dr… |
+| 2026-11-26 10:34:32 | [upassist/neos-useravatar](https://www.nuget.org/packages/upassist%2Fneos-useravatar) | 0.1.0 |  | Profile photo (upload or Gravatar) for Neos backend users, shown in the Neos UI… |
+| 2026-11-26 10:34:50 | [restruct/silverstripe-rendered-content-extractor](https://www.nuget.org/packages/restruct%2Fsilverstripe-rendered-content-extractor) | 0.1.0 | Restruct | Render a CMS page in-process (draft or live, as any member) and extract its HTM… |
+| 2026-11-26 10:53:51 | [kraz/json-rpc-server-bundle](https://www.nuget.org/packages/kraz%2Fjson-rpc-server-bundle) | 1.0.0 | Krasen Borisov | Symfony bundle for kraz/json-rpc-server: JSON-RPC 2.0 endpoints with Security,… |
+| 2026-11-26 10:53:57 | [beffroi/framework](https://www.nuget.org/packages/beffroi%2Fframework) | 0.1.0 | All contributors | An identity provider for the Symfony ecosystem: identity core, OAuth 2.0 / Open… |
+| 2026-11-26 10:54:54 | [loamhill/api-php-sdk](https://www.nuget.org/packages/loamhill%2Fapi-php-sdk) | v1.0.1 |  | PHP SDK for the Loamhill crypto payment API |
+| 2026-11-26 11:09:17 | [studio-variable/kirby-typography](https://www.nuget.org/packages/studio-variable%2Fkirby-typography) | v1.0.0 | Studio Variable | French typography for Kirby: automatic non-breaking spaces on output and a visi… |
 
 ## Data source
 
