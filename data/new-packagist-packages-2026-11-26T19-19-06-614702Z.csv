@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-26T18:29:00Z,betocampoy/champs-sdk-sicredi,v0.1.0,Beto Campoy,"SDK PHP da Champs para a API de Cobrança do Sicredi: boleto tradicional e híbrido, comandos de instrução, conciliação e webhook. Sem regra de negócio de nenhuma aplicação."
+2026-11-26T18:37:34Z,hryvinskyi/magento2-catalog-sorting-price,1.0.0,Volodymyr Hryvinskyi,"Catalog sort options Price: Low to High and Price: High to Low: two Sort By entries ordered by the shopper's price, each in its own direction."
