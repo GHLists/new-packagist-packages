@@ -15,19 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 20:21 UTC
+## Latest list — 2026-11-26 21:20 UTC
 
-New packages created between 2026-11-26 19:19 UTC and 2026-11-26 20:21 UTC.
+New packages created between 2026-11-26 20:21 UTC and 2026-11-26 21:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-26T20-21-26-378403Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-26T21-20-54-983358Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-26 19:40:56 | [loki-checkout/magento2-at](https://www.nuget.org/packages/loki-checkout%2Fmagento2-at) | 1.0.0 |  | Austrian settings for LokiCheckout |
-| 2026-11-26 19:47:25 | [loki-checkout/magento2-br](https://www.nuget.org/packages/loki-checkout%2Fmagento2-br) | 1.0.0 |  | Brazilian settings for LokiCheckout |
-| 2026-11-26 19:47:27 | [loki-checkout/magento2-au](https://www.nuget.org/packages/loki-checkout%2Fmagento2-au) | 1.0.0 |  | Australian settings for LokiCheckout |
-| 2026-11-26 19:57:00 | [amwaluddinlubis/ci4-tabel-form-helper](https://www.nuget.org/packages/amwaluddinlubis%2Fci4-tabel-form-helper) | v1.1.0 | Amwaluddin Lubis | Helper tabel daftar dan form modal CRUD untuk CodeIgniter 4: tabel_bantu() + fo… |
-| 2026-11-26 20:20:29 | [adachsoft/social-post-contracts](https://www.nuget.org/packages/adachsoft%2Fsocial-post-contracts) | v0.1.0 | Arkadiusz Adach | Provider-independent contracts and models for publishing social media posts in… |
+| 2026-11-26 20:34:50 | [addresszen/laravel](https://www.nuget.org/packages/addresszen%2Flaravel) | v0.1.0 | AddressZen | Laravel package for the AddressZen PHP SDK: set your API key in .env, then inje… |
+| 2026-11-26 20:34:50 | [addresszen/sdk](https://www.nuget.org/packages/addresszen%2Fsdk) | v0.1.0 | AddressZen | PHP client for the AddressZen API: US address verification, address autocomplet… |
+| 2026-11-26 20:39:51 | [jayik/laravel](https://www.nuget.org/packages/jayik%2Flaravel) | v1.0.0 |  | Laravel client for the Jayik Merchant API v2: orders, warehouses, categories, r… |
+| 2026-11-26 20:48:53 | [ismailnakkar/laravel-code-sample](https://www.nuget.org/packages/ismailnakkar%2Flaravel-code-sample) | v0.1.0 | Ismail Nakkar | Highlight a code sample written in a Blade slot, server-side with tempest/highl… |
+| 2026-11-26 20:54:59 | [ditscheri/laravel-toolkit](https://www.nuget.org/packages/ditscheri%2Flaravel-toolkit) | v0.0.1 | Daniel Albertsen | Opinionated defaults and tools for Laravel. |
+| 2026-11-26 21:14:10 | [kgaut/github_api](https://www.nuget.org/packages/kgaut%2Fgithub_api) | 1.0.0 | Kevin Gautreau | Integrates your Drupal site with GitHub through the KnpLabs GitHub API client. |
+| 2026-11-26 21:17:31 | [addresszen/symfony-bundle](https://www.nuget.org/packages/addresszen%2Fsymfony-bundle) | v0.1.0 | AddressZen | Symfony bundle for the AddressZen PHP SDK: configure your API key once, inject… |
+| 2026-11-26 21:19:30 | [dynamikasolucoesweb/laravel-menu](https://www.nuget.org/packages/dynamikasolucoesweb%2Flaravel-menu) | v1.0.0 | Giordani da Silveira dos Sant… | Menus para Laravel: desktop adaptativo (mega menu) e mobile responsivo, com cac… |
 
 ## Data source
 

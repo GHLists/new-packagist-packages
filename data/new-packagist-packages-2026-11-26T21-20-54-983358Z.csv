@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-26T20:34:50Z,addresszen/laravel,v0.1.0,AddressZen,"Laravel package for the AddressZen PHP SDK: set your API key in .env, then inject the client or call the facade"
+2026-11-26T20:34:50Z,addresszen/sdk,v0.1.0,AddressZen,"PHP client for the AddressZen API: US address verification, address autocomplete, email and phone validation and key management"
+2026-11-26T20:39:51Z,jayik/laravel,v1.0.0,,"Laravel client for the Jayik Merchant API v2: orders, warehouses, categories, reference data, API keys and signed webhooks."
+2026-11-26T20:48:53Z,ismailnakkar/laravel-code-sample,v0.1.0,Ismail Nakkar,"Highlight a code sample written in a Blade slot, server-side with tempest/highlight: no script draws it, and the copied text is the code itself."
+2026-11-26T20:54:59Z,ditscheri/laravel-toolkit,v0.0.1,Daniel Albertsen,Opinionated defaults and tools for Laravel.
+2026-11-26T21:14:10Z,kgaut/github_api,1.0.0,Kevin Gautreau,Integrates your Drupal site with GitHub through the KnpLabs GitHub API client.
+2026-11-26T21:17:31Z,addresszen/symfony-bundle,v0.1.0,AddressZen,"Symfony bundle for the AddressZen PHP SDK: configure your API key once, inject the client anywhere"
+2026-11-26T21:19:30Z,dynamikasolucoesweb/laravel-menu,v1.0.0,Giordani da Silveira dos Santos,"Menus para Laravel: desktop adaptativo (mega menu) e mobile responsivo, com cache, assets versionados e acessibilidade."
