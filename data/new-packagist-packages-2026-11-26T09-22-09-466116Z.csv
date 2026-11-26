@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-26T08:35:31Z,voidable/laravel,v0.8.0,,Laravel integration for Voidable UI web components with Livewire + Alpine.js
+2026-11-26T08:44:14Z,studio-variable/kirby-soft-nav,v1.0.0,Studio Variable,"Opt-in soft navigation for Kirby: links swap part of the page or run a script, and update the URL and history without a full reload"
+2026-11-26T09:16:29Z,melo/jwt,v0.0.1,,A production-ready JWT authentication package for Webman / Workerman.

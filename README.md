@@ -15,20 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 08:21 UTC
+## Latest list — 2026-11-26 09:22 UTC
 
-New packages created between 2026-11-26 07:22 UTC and 2026-11-26 08:21 UTC.
+New packages created between 2026-11-26 08:21 UTC and 2026-11-26 09:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-26T08-21-23-743357Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-26T09-22-09-466116Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-26 07:22:26 | [klsoft/yii3-cms](https://www.nuget.org/packages/klsoft%2Fyii3-cms) | 1.0.0 |  | A content management system based on the Yii 3 framework and uses the Doctrine… |
-| 2026-11-26 07:31:02 | [proudnerds/pn-search-suggestions](https://www.nuget.org/packages/proudnerds%2Fpn-search-suggestions) | 14.3.1 | Netcreators; Proud Nerds | Show customized results on search form |
-| 2026-11-26 07:41:36 | [newgeode/webguard](https://www.nuget.org/packages/newgeode%2Fwebguard) | v1.0.0 | New Geode | Lightweight Laravel security middleware for IP restrictions, trusted proxies, H… |
-| 2026-11-26 08:01:46 | [arkhan0072-dev/laravel-ledger](https://www.nuget.org/packages/arkhan0072-dev%2Flaravel-ledger) | v0.1.0 | Abdulrehman Khan | Double-entry accounting ledger for Laravel: balanced journal entries, integer m… |
-| 2026-11-26 08:12:17 | [tracewick/laravel](https://www.nuget.org/packages/tracewick%2Flaravel) | v1.0.0-rc.1 |  | Tracewick sampling profiler integration for Laravel |
-| 2026-11-26 08:13:03 | [nesravomigarbi/examen-civique-france](https://www.nuget.org/packages/nesravomigarbi%2Fexamen-civique-france) | v1.0.0 | Nesra Vomigarbi | Official French civic exam (examen civique) 2026 question lists and nationality… |
+| 2026-11-26 08:35:31 | [voidable/laravel](https://www.nuget.org/packages/voidable%2Flaravel) | v0.8.0 |  | Laravel integration for Voidable UI web components with Livewire + Alpine.js |
+| 2026-11-26 08:44:14 | [studio-variable/kirby-soft-nav](https://www.nuget.org/packages/studio-variable%2Fkirby-soft-nav) | v1.0.0 | Studio Variable | Opt-in soft navigation for Kirby: links swap part of the page or run a script,… |
+| 2026-11-26 09:16:29 | [melo/jwt](https://www.nuget.org/packages/melo%2Fjwt) | v0.0.1 |  | A production-ready JWT authentication package for Webman / Workerman. |
 
 ## Data source
 
