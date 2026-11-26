@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-26T01:56:52Z,smith89k/laravel-post-mcp,v0.2.0,smith89k,"Let Claude manage the blog posts of any Laravel site through MCP, using the site's existing Post model."

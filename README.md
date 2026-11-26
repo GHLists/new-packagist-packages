@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 01:21 UTC
+## Latest list — 2026-11-26 02:22 UTC
 
-New packages created between 2026-11-26 00:19 UTC and 2026-11-26 01:21 UTC.
+New packages created between 2026-11-26 01:21 UTC and 2026-11-26 02:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-26T01-21-35-524863Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-26T02-22-08-908884Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-26 00:35:54 | [atom-fm/components](https://www.nuget.org/packages/atom-fm%2Fcomponents) | v0.2.0 |  | Server-rendered UI components for Atom Framework |
+| 2026-11-26 01:56:52 | [smith89k/laravel-post-mcp](https://www.nuget.org/packages/smith89k%2Flaravel-post-mcp) | v0.2.0 | smith89k | Let Claude manage the blog posts of any Laravel site through MCP, using the sit… |
 
 ## Data source
 
