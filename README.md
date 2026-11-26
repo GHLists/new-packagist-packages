@@ -15,15 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 02:22 UTC
+## Latest list — 2026-11-26 03:21 UTC
 
-New packages created between 2026-11-26 01:21 UTC and 2026-11-26 02:22 UTC.
+New packages created between 2026-11-26 02:22 UTC and 2026-11-26 03:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-26T02-22-08-908884Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-26T03-21-17-696538Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-26 01:56:52 | [smith89k/laravel-post-mcp](https://www.nuget.org/packages/smith89k%2Flaravel-post-mcp) | v0.2.0 | smith89k | Let Claude manage the blog posts of any Laravel site through MCP, using the sit… |
+| 2026-11-26 02:24:04 | [genmagic/module-product-photos](https://www.nuget.org/packages/genmagic%2Fmodule-product-photos) | 1.0.2 |  | Make new product photos from a product's own base image in the Magento admin, p… |
 
 ## Data source
 
