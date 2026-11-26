@@ -15,26 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 07:22 UTC
+## Latest list — 2026-11-26 08:21 UTC
 
-New packages created between 2026-11-26 06:21 UTC and 2026-11-26 07:22 UTC.
+New packages created between 2026-11-26 07:22 UTC and 2026-11-26 08:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-26T07-22-12-81221Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-26T08-21-23-743357Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-26 06:31:08 | [laveroadmin/forms](https://www.nuget.org/packages/laveroadmin%2Fforms) | v1.0.0 | Aleksandr Kireev | Public form builder, lead submissions inbox, and antispam for LaveroAdmin. |
-| 2026-11-26 06:33:51 | [laveroadmin/mail-log](https://www.nuget.org/packages/laveroadmin%2Fmail-log) | v1.0.0 | Aleksandr Kireev | Outgoing email log & HTML preview for LaveroAdmin. |
-| 2026-11-26 06:36:36 | [se7enxweb/tron](https://www.nuget.org/packages/se7enxweb%2Ftron) | 0.0.0.13 | 7x | tron, the open MCP server layer of Exponential: stdio and streamable HTTP trans… |
-| 2026-11-26 06:37:25 | [laveroadmin/menus](https://www.nuget.org/packages/laveroadmin%2Fmenus) | v1.0.0 | Aleksandr Kireev | Public site navigation and multi-menu builder with drag-and-drop Tree and forev… |
-| 2026-11-26 06:39:33 | [laveroadmin/notifications](https://www.nuget.org/packages/laveroadmin%2Fnotifications) | v1.0.0 | Aleksandr Kireev | Unified Telegram, Email, and Webhook notification channels & logs for LaveroAdm… |
-| 2026-11-26 06:42:33 | [proudnerds/pn-export-redirects](https://www.nuget.org/packages/proudnerds%2Fpn-export-redirects) | 14.3.0 | Proud Nerds | Adds a CSV export to the redirects module |
-| 2026-11-26 06:42:59 | [laveroadmin/seo](https://www.nuget.org/packages/laveroadmin%2Fseo) | v1.0.0 | Aleksandr Kireev | SEO redirects manager (301/302/410), robots.txt editor, and global meta setting… |
-| 2026-11-26 06:45:03 | [laveroadmin/sessions](https://www.nuget.org/packages/laveroadmin%2Fsessions) | v1.0.0 | Aleksandr Kireev | Active admin sessions manager and login audit for LaveroAdmin. |
-| 2026-11-26 06:46:50 | [laveroadmin/tiptap](https://www.nuget.org/packages/laveroadmin%2Ftiptap) | v1.0.0 | Aleksandr Kireev | Modern TipTap WYSIWYG editor field for LaveroAdmin forms. |
-| 2026-11-26 06:49:44 | [laveroadmin/cache-manager](https://www.nuget.org/packages/laveroadmin%2Fcache-manager) | v1.0.0 | Aleksandr Kireev | Cache, OPcache, and Artisan optimization manager for LaveroAdmin (shared-hostin… |
-| 2026-11-26 06:50:44 | [athenanetworks/acma-senderid](https://www.nuget.org/packages/athenanetworks%2Facma-senderid) | 1.0.0 |  | PHP client for the ACMA SMS Sender ID Register API (RCS Verification Authority… |
-| 2026-11-26 07:17:39 | [mathsgod/light-io](https://www.nuget.org/packages/mathsgod%2Flight-io) | v1.0.0 |  | Text writers for PHP strings and streams |
+| 2026-11-26 07:22:26 | [klsoft/yii3-cms](https://www.nuget.org/packages/klsoft%2Fyii3-cms) | 1.0.0 |  | A content management system based on the Yii 3 framework and uses the Doctrine… |
+| 2026-11-26 07:31:02 | [proudnerds/pn-search-suggestions](https://www.nuget.org/packages/proudnerds%2Fpn-search-suggestions) | 14.3.1 | Netcreators; Proud Nerds | Show customized results on search form |
+| 2026-11-26 07:41:36 | [newgeode/webguard](https://www.nuget.org/packages/newgeode%2Fwebguard) | v1.0.0 | New Geode | Lightweight Laravel security middleware for IP restrictions, trusted proxies, H… |
+| 2026-11-26 08:01:46 | [arkhan0072-dev/laravel-ledger](https://www.nuget.org/packages/arkhan0072-dev%2Flaravel-ledger) | v0.1.0 | Abdulrehman Khan | Double-entry accounting ledger for Laravel: balanced journal entries, integer m… |
+| 2026-11-26 08:12:17 | [tracewick/laravel](https://www.nuget.org/packages/tracewick%2Flaravel) | v1.0.0-rc.1 |  | Tracewick sampling profiler integration for Laravel |
+| 2026-11-26 08:13:03 | [nesravomigarbi/examen-civique-france](https://www.nuget.org/packages/nesravomigarbi%2Fexamen-civique-france) | v1.0.0 | Nesra Vomigarbi | Official French civic exam (examen civique) 2026 question lists and nationality… |
 
 ## Data source
 

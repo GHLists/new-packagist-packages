@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-26T07:22:26Z,klsoft/yii3-cms,1.0.0,,A content management system based on the Yii 3 framework and uses the Doctrine ORM
+2026-11-26T07:31:02Z,proudnerds/pn-search-suggestions,14.3.1,Netcreators; Proud Nerds,Show customized results on search form
+2026-11-26T07:41:36Z,newgeode/webguard,v1.0.0,New Geode,"Lightweight Laravel security middleware for IP restrictions, trusted proxies, HTTPS enforcement, bot traps, Panic Shield, and input sanitization."
+2026-11-26T08:01:46Z,arkhan0072-dev/laravel-ledger,v0.1.0,Abdulrehman Khan,"Double-entry accounting ledger for Laravel: balanced journal entries, integer money, account balances."
+2026-11-26T08:12:17Z,tracewick/laravel,v1.0.0-rc.1,,Tracewick sampling profiler integration for Laravel
+2026-11-26T08:13:03Z,nesravomigarbi/examen-civique-france,v1.0.0,Nesra Vomigarbi,Official French civic exam (examen civique) 2026 question lists and nationality acquisition statistics 2008–2025.
