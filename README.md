@@ -15,17 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 17:22 UTC
+## Latest list — 2026-11-26 18:20 UTC
 
-New packages created between 2026-11-26 16:19 UTC and 2026-11-26 17:22 UTC.
+New packages created between 2026-11-26 17:22 UTC and 2026-11-26 18:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-26T17-22-04-322508Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-26T18-20-49-32235Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-26 16:49:13 | [backsystem/base](https://www.nuget.org/packages/backsystem%2Fbase) | v1.0.95 |  |  |
-| 2026-11-26 17:06:29 | [cart-recovery/module-abandoned-cart](https://www.nuget.org/packages/cart-recovery%2Fmodule-abandoned-cart) | v1.0.0 |  | Configurable abandoned cart recovery emails for Magento Open Source and Adobe C… |
-| 2026-11-26 17:16:38 | [considbrs-webdev/revisionary-municipio-frontend](https://www.nuget.org/packages/considbrs-webdev%2Frevisionary-municipio-frontend) | 1.0.2 |  | Simplified front-end experience for the revisor role (Revisionary) on Municipio… |
+| 2026-11-26 17:22:57 | [ghimire/laravel-saas](https://www.nuget.org/packages/ghimire%2Flaravel-saas) | 0.1.0 |  | All-in-one modular Laravel 8-13 multi-tenant SaaS engine, billing, subscription… |
+| 2026-11-26 17:29:26 | [atom-fm/validation](https://www.nuget.org/packages/atom-fm%2Fvalidation) | v0.1.0 |  | Attribute and schema validation for PHP |
+| 2026-11-26 17:32:47 | [tuxweb-it/pyroshape](https://www.nuget.org/packages/tuxweb-it%2Fpyroshape) | v0.9.3 | Dino Ciuffetti | Reusable backend toolkit for Pyroshape applications |
+| 2026-11-26 17:39:04 | [rasuvaeff/laravel-mcp](https://www.nuget.org/packages/rasuvaeff%2Flaravel-mcp) | v0.1.0 | Victor Razuvaev | Laravel integration of the rasuvaeff/mcp server |
+| 2026-11-26 17:39:04 | [rasuvaeff/symfony-mcp](https://www.nuget.org/packages/rasuvaeff%2Fsymfony-mcp) | v0.1.0 | Victor Razuvaev | Symfony integration of the rasuvaeff/mcp server |
+| 2026-11-26 17:55:59 | [kongono/ai](https://www.nuget.org/packages/kongono%2Fai) | v1.22.0 | Anthony Iovanna | Kongono v1 standalone PHP 8.5 multi-provider AI SDK (OpenAI, Anthropic Claude,… |
+| 2026-11-26 17:55:59 | [kongono/security](https://www.nuget.org/packages/kongono%2Fsecurity) | v1.22.0 | Anthony Iovanna | Kongono v1 standalone PHP 8.5 security & passwordless auth primitives: HKDF XCh… |
+| 2026-11-26 17:55:59 | [kongono/validation](https://www.nuget.org/packages/kongono%2Fvalidation) | v1.22.0 | Anthony Iovanna | Kongono v1 zero-bloat PHP 8.5 attribute-driven readonly DTO validator (nested D… |
 
 ## Data source
 

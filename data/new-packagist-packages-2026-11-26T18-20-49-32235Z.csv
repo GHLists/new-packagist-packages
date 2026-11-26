@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-26T17:22:57Z,ghimire/laravel-saas,0.1.0,,"All-in-one modular Laravel 8-13 multi-tenant SaaS engine, billing, subscriptions, org/branch RBAC, and self-contained Developer Center."
+2026-11-26T17:29:26Z,atom-fm/validation,v0.1.0,,Attribute and schema validation for PHP
+2026-11-26T17:32:47Z,tuxweb-it/pyroshape,v0.9.3,Dino Ciuffetti,Reusable backend toolkit for Pyroshape applications
+2026-11-26T17:39:04Z,rasuvaeff/laravel-mcp,v0.1.0,Victor Razuvaev,Laravel integration of the rasuvaeff/mcp server
+2026-11-26T17:39:04Z,rasuvaeff/symfony-mcp,v0.1.0,Victor Razuvaev,Symfony integration of the rasuvaeff/mcp server
+2026-11-26T17:55:59Z,kongono/ai,v1.22.0,Anthony Iovanna,"Kongono v1 standalone PHP 8.5 multi-provider AI SDK (OpenAI, Anthropic Claude, Google Gemini, Groq, Ollama), live streaming, structured DTO extraction, PromptGuard canary injection defense, EvalRunner, RAG KnowledgeBase, governed AgentRunner, and JSON-RPC 2.0 MCP server."
+2026-11-26T17:55:59Z,kongono/security,v1.22.0,Anthony Iovanna,"Kongono v1 standalone PHP 8.5 security & passwordless auth primitives: HKDF XChaCha20-Poly1305 Encryptor, Argon2id PasswordHasher, RFC 6238 Totp + pure-PHP ISO/IEC 18004 QrCodeSvg, cryptographic QrLoginAuth, OneTimeCodeAuth (Email/SMS OTP), MagicLinkAuth, WebAuthn PasskeyVerifier (ES256/Ed25519), P…"
+2026-11-26T17:55:59Z,kongono/validation,v1.22.0,Anthony Iovanna,"Kongono v1 zero-bloat PHP 8.5 attribute-driven readonly DTO validator (nested DTOs, BackedEnum, ArrayOf, custom RuleInterface)."
