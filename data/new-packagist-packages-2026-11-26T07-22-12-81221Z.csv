@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-11-26T06:31:08Z,laveroadmin/forms,v1.0.0,Aleksandr Kireev,"Public form builder, lead submissions inbox, and antispam for LaveroAdmin."
+2026-11-26T06:33:51Z,laveroadmin/mail-log,v1.0.0,Aleksandr Kireev,Outgoing email log & HTML preview for LaveroAdmin.
+2026-11-26T06:36:36Z,se7enxweb/tron,0.0.0.13,7x,"tron, the open MCP server layer of Exponential: stdio and streamable HTTP transports, per-user tokens, Exponential roles and policies, an audit log, and programs (child extensions) found and loaded by convention"
+2026-11-26T06:37:25Z,laveroadmin/menus,v1.0.0,Aleksandr Kireev,Public site navigation and multi-menu builder with drag-and-drop Tree and forever caching.
+2026-11-26T06:39:33Z,laveroadmin/notifications,v1.0.0,Aleksandr Kireev,"Unified Telegram, Email, and Webhook notification channels & logs for LaveroAdmin."
+2026-11-26T06:42:33Z,proudnerds/pn-export-redirects,14.3.0,Proud Nerds,Adds a CSV export to the redirects module
+2026-11-26T06:42:59Z,laveroadmin/seo,v1.0.0,Aleksandr Kireev,"SEO redirects manager (301/302/410), robots.txt editor, and global meta settings for LaveroAdmin."
+2026-11-26T06:45:03Z,laveroadmin/sessions,v1.0.0,Aleksandr Kireev,Active admin sessions manager and login audit for LaveroAdmin.
+2026-11-26T06:46:50Z,laveroadmin/tiptap,v1.0.0,Aleksandr Kireev,Modern TipTap WYSIWYG editor field for LaveroAdmin forms.
+2026-11-26T06:49:44Z,laveroadmin/cache-manager,v1.0.0,Aleksandr Kireev,"Cache, OPcache, and Artisan optimization manager for LaveroAdmin (shared-hosting friendly)."
+2026-11-26T06:50:44Z,athenanetworks/acma-senderid,1.0.0,,"PHP client for the ACMA SMS Sender ID Register API (RCS Verification Authority API), with optional Laravel integration."
+2026-11-26T07:17:39Z,mathsgod/light-io,v1.0.0,,Text writers for PHP strings and streams
