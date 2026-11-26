@@ -1,0 +1,13 @@
+created_at,package,version,author,description
+2026-11-26T13:21:02Z,restruct/silverstripe-video-consent-gate,0.1.0,Restruct,"YouTube and Vimeo embeds that make no request to YouTube or Vimeo before consent: lite players behind a consent gate, a click-to-play placeholder with a self-hosted poster, and an opt-in filter for raw iframes in HTML content."
+2026-11-26T13:21:15Z,searchjet/laravel-searchjet,v2.0.0,SearchJet,"Laravel client for the SearchJet search API: search, document indexing and search analytics"
+2026-11-26T13:22:35Z,data-health/data-health-filament,v0.1.0,Jascha Gerles,A Filament interface for managing Data Health findings
+2026-11-26T13:30:21Z,pecotamic/glide-versioning,1.0.0,Werner Freytag,Cache busting for statically cached Glide images in Statamic
+2026-11-26T13:31:59Z,solution25/typo3-ai-connector,v0.1.0,Solution25,AI connector - Connects a TYPO3 site to AI clients such as Claude through the Solution25 MCP gateway.
+2026-11-26T13:34:13Z,arkhan0072-dev/laravel-zatca,v0.3.0,Abdulrehman Khan,"ZATCA (Fatoora) e-invoicing for Laravel: a concurrency-safe invoice chain, onboarding, and exactly-once reporting and clearance."
+2026-11-26T13:35:39Z,aclips/class-override,v1.0.2,,Runtime PHP class overriding with inheritance
+2026-11-26T13:43:47Z,doolat/balanced-brackets,v1.0.0,,"Validates balanced brackets: (), [], {}"
+2026-11-26T13:51:22Z,nedbb/secure-upload,v1.0.0,nedbb,"A small, secure-by-default file upload library"
+2026-11-26T14:04:59Z,qiick/laravel-settings,v0.1.0-beta.1,Qiick,"Scoped, typed settings and encrypted secrets for qiick Laravel products."
+2026-11-26T14:06:20Z,trongio/php-ts-types,v0.1.0,,"Generate TypeScript types from PHP classes: a small structural type model, a deterministic emitter with a drift check, a reflection source and Laravel + Inertia integration."
+2026-11-26T14:07:54Z,bmailu/bmailu,v0.1.0,,Official PHP SDK for the Bmailu Email API
