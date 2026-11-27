@@ -15,21 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 17:19 UTC
+## Latest list — 2026-11-27 18:21 UTC
 
-New packages created between 2026-11-27 16:19 UTC and 2026-11-27 17:19 UTC.
+New packages created between 2026-11-27 17:19 UTC and 2026-11-27 18:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-27T17-19-39-638954Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-27T18-21-18-92646Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-27 16:24:36 | [abolaradev/geo-guard](https://www.nuget.org/packages/abolaradev%2Fgeo-guard) | v1.0.0 | abolaradev | GeoGuard is a Laravel package for IP geolocation, visitor profiling, and geogra… |
-| 2026-11-27 16:35:41 | [bootcndev/bootcn](https://www.nuget.org/packages/bootcndev%2Fbootcn) | v0.6.1 |  | The bootcn CLI for PHP and Laravel projects, no Node.js needed: install copy-pa… |
-| 2026-11-27 16:36:40 | [kariricode/http](https://www.nuget.org/packages/kariricode%2Fhttp) | v4.0.0 | Walmir Silva | PSR-7, PSR-15 and PSR-17 for PHP 8.4: validated messages, a middleware dispatch… |
-| 2026-11-27 16:42:05 | [yuccastream/tuna-sdk-php](https://www.nuget.org/packages/yuccastream%2Ftuna-sdk-php) | v0.1.0 | tuna.am authors | Expose local HTTP and TCP services through tuna.am tunnels |
-| 2026-11-27 16:50:28 | [agentisend/symfony-mailer](https://www.nuget.org/packages/agentisend%2Fsymfony-mailer) | v0.1.0 | AgentiSend | Symfony Mailer transport that posts each message to POST /emails. DSNs: agentis… |
-| 2026-11-27 17:01:29 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.56.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
-| 2026-11-27 17:03:48 | [mignuti/drupal-chatbot](https://www.nuget.org/packages/mignuti%2Fdrupal-chatbot) | v1.0.0 | Mignuti Media | Mignuti Chatbot for Drupal: AI chatbot trained on your own content, added to ev… |
+| 2026-11-27 17:41:09 | [kfriars/filament-pulse-widgets](https://www.nuget.org/packages/kfriars%2Ffilament-pulse-widgets) | v1.0.0 | Kurt Friars | Laravel Pulse cards as Filament v5 widgets, alongside your panel's own widgets. |
+| 2026-11-27 17:46:30 | [membergate/membergate-api](https://www.nuget.org/packages/membergate%2Fmembergate-api) | v1.0.0 | Membergate Limited | Client for the Membergate API: signed requests, every API method, hosted sign-i… |
+| 2026-11-27 17:46:52 | [kariricode/websocket](https://www.nuget.org/packages/kariricode%2Fwebsocket) | v4.0.0 | Walmir Silva | RFC 6455 WebSocket server for PHP 8.4: strict frame parsing and handshake, clos… |
+| 2026-11-27 17:47:50 | [mscode-pl/vocative](https://www.nuget.org/packages/mscode-pl%2Fvocative) | v0.1.0 | Mateusz Sikorski | Address people by first name in their language: vocative case, gender and salut… |
 
 ## Data source
 

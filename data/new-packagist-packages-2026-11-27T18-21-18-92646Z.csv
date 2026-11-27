@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-27T17:41:09Z,kfriars/filament-pulse-widgets,v1.0.0,Kurt Friars,"Laravel Pulse cards as Filament v5 widgets, alongside your panel's own widgets."
+2026-11-27T17:46:30Z,membergate/membergate-api,v1.0.0,Membergate Limited,"Client for the Membergate API: signed requests, every API method, hosted sign-in helpers."
+2026-11-27T17:46:52Z,kariricode/websocket,v4.0.0,Walmir Silva,"RFC 6455 WebSocket server for PHP 8.4: strict frame parsing and handshake, closing handshake, connection pool, and kariricode/router integration."
+2026-11-27T17:47:50Z,mscode-pl/vocative,v0.1.0,Mateusz Sikorski,"Address people by first name in their language: vocative case, gender and salutation. Starting with Polish."
