@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 03:20 UTC
+## Latest list — 2026-11-27 07:20 UTC
 
-New packages created between 2026-11-27 02:22 UTC and 2026-11-27 03:20 UTC.
+New packages created between 2026-11-27 06:22 UTC and 2026-11-27 07:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-27T03-20-23-886774Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-27T07-20-13-344962Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-27 02:39:02 | [melo/exception-handler](https://www.nuget.org/packages/melo%2Fexception-handler) | v1.0.0 | 棉花糖 | Webman exception handler with unified JSON responses |
-| 2026-11-27 03:01:23 | [nativehttp/client](https://www.nuget.org/packages/nativehttp%2Fclient) | v1.1.0 |  | Pure-PHP HTTP client with its own TLS 1.3 and HTTP/2 stack and a modern browser… |
-| 2026-11-27 03:05:44 | [codepulse2020/media-upload](https://www.nuget.org/packages/codepulse2020%2Fmedia-upload) | v1.0.0 |  | Secure-by-default file and image upload pipeline for Laravel. |
+| 2026-11-27 06:23:47 | [longquan/easy-umspay](https://www.nuget.org/packages/longquan%2Feasy-umspay) | 1.0.0 | Lonquan | 银联商务UMS支付PHP SDK - 支持自助签约和新购物车支付 |
+| 2026-11-27 06:25:23 | [qiick/laravel-mcp-oauth](https://www.nuget.org/packages/qiick%2Flaravel-mcp-oauth) | v1.0.0-beta.1 | Qiick | OAuth authorization server for laravel/mcp endpoints in qiick Laravel products. |
+| 2026-11-27 06:44:10 | [longquan/easy-mqtt](https://www.nuget.org/packages/longquan%2Feasy-mqtt) | 1.0.0 | lonquan | 基于 php-mqtt/client 的 Laravel MQTT Factory |
+| 2026-11-27 06:46:21 | [rapttor/yii2-glass](https://www.nuget.org/packages/rapttor%2Fyii2-glass) | v1.0.0 |  | The Rapttor glass UI for Yii2: refractive glass app shell, Vue components, pane… |
 
 ## Data source
 

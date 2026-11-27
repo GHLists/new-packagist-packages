@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-27T06:23:47Z,longquan/easy-umspay,1.0.0,Lonquan,银联商务UMS支付PHP SDK - 支持自助签约和新购物车支付
+2026-11-27T06:25:23Z,qiick/laravel-mcp-oauth,v1.0.0-beta.1,Qiick,OAuth authorization server for laravel/mcp endpoints in qiick Laravel products.
+2026-11-27T06:44:10Z,longquan/easy-mqtt,1.0.0,lonquan,基于 php-mqtt/client 的 Laravel MQTT Factory
+2026-11-27T06:46:21Z,rapttor/yii2-glass,v1.0.0,,"The Rapttor glass UI for Yii2: refractive glass app shell, Vue components, panels and docks, light and dark, no JavaScript build step"
