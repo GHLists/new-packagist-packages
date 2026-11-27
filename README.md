@@ -15,17 +15,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 08:21 UTC
+## Latest list — 2026-11-27 09:19 UTC
 
-New packages created between 2026-11-27 07:20 UTC and 2026-11-27 08:21 UTC.
+New packages created between 2026-11-27 08:21 UTC and 2026-11-27 09:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-27T08-21-23-609588Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-27T09-19-07-674406Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-27 07:28:45 | [developerawam/wire-media](https://www.nuget.org/packages/developerawam%2Fwire-media) | v1.0.0 | developerawam | Premium Livewire media upload & image editor for Laravel 12. Upload, crop, zoom… |
-| 2026-11-27 07:34:38 | [masmerise/kbo-public-search-php-sdk](https://www.nuget.org/packages/masmerise%2Fkbo-public-search-php-sdk) | v1.0.0 | Muhammed Sari | An unofficial PHP SDK for accessing the KBO/BCE Public Search web service. |
-| 2026-11-27 07:46:42 | [masmerise/kbo-public-search-for-laravel](https://www.nuget.org/packages/masmerise%2Fkbo-public-search-for-laravel) | 1.0.0 | Muhammed Sarı | Laravel framework adapter for the KBO Public Search SDK. |
+| 2026-11-27 08:38:16 | [clesson-de/silverstripe-qr-code](https://www.nuget.org/packages/clesson-de%2Fsilverstripe-qr-code) | 1.0.0 |  | A public React QR code generator with SVG/PNG downloads, a page type and option… |
+| 2026-11-27 08:42:55 | [ixbox/wristband](https://www.nuget.org/packages/ixbox%2Fwristband) | v0.2.0 |  | Verify user identity passed by an authenticating edge (AWS ALB x-amzn-oidc-data… |
+| 2026-11-27 08:44:01 | [ixbox/laravel-wristband](https://www.nuget.org/packages/ixbox%2Flaravel-wristband) | v0.2.0 |  | Laravel guard that authenticates users from an authenticating edge: AWS ALB (x-… |
+| 2026-11-27 08:45:10 | [loki-checkout/magento2-ca](https://www.nuget.org/packages/loki-checkout%2Fmagento2-ca) | 1.0.0 |  | Canadian settings for LokiCheckout |
+| 2026-11-27 08:46:21 | [loki-checkout/magento2-ch](https://www.nuget.org/packages/loki-checkout%2Fmagento2-ch) | 1.0.0 |  | Swiss settings for LokiCheckout |
+| 2026-11-27 08:49:08 | [bifrost-mz/pulse-laravel](https://www.nuget.org/packages/bifrost-mz%2Fpulse-laravel) | v1.0.0 |  | Automatic Pulse feedback widget and error monitoring for Laravel |
+| 2026-11-27 08:59:59 | [craftcms/wp-import](https://www.nuget.org/packages/craftcms%2Fwp-import) | 1.0.0 | Pixel & Tonic | WordPress → Craft CMS content importer |
+| 2026-11-27 09:12:52 | [santa77/peppol-dir](https://www.nuget.org/packages/santa77%2Fpeppol-dir) | v0.2.0 |  | Live Peppol recipient lookup for Slovak DIČ and company names |
 
 ## Data source
 

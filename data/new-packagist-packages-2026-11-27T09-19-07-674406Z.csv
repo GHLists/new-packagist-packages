@@ -1,0 +1,9 @@
+created_at,package,version,author,description
+2026-11-27T08:38:16Z,clesson-de/silverstripe-qr-code,1.0.0,,"A public React QR code generator with SVG/PNG downloads, a page type and optional Elemental integration."
+2026-11-27T08:42:55Z,ixbox/wristband,v0.2.0,,"Verify user identity passed by an authenticating edge (AWS ALB x-amzn-oidc-data, oauth2-proxy, OIDC bearer tokens). PHP 7.2+, no JWT library dependency."
+2026-11-27T08:44:01Z,ixbox/laravel-wristband,v0.2.0,,"Laravel guard that authenticates users from an authenticating edge: AWS ALB (x-amzn-oidc-data), oauth2-proxy, OIDC bearer tokens."
+2026-11-27T08:45:10Z,loki-checkout/magento2-ca,1.0.0,,Canadian settings for LokiCheckout
+2026-11-27T08:46:21Z,loki-checkout/magento2-ch,1.0.0,,Swiss settings for LokiCheckout
+2026-11-27T08:49:08Z,bifrost-mz/pulse-laravel,v1.0.0,,Automatic Pulse feedback widget and error monitoring for Laravel
+2026-11-27T08:59:59Z,craftcms/wp-import,1.0.0,Pixel & Tonic,WordPress → Craft CMS content importer
+2026-11-27T09:12:52Z,santa77/peppol-dir,v0.2.0,,Live Peppol recipient lookup for Slovak DIČ and company names
