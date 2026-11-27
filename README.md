@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 02:22 UTC
+## Latest list — 2026-11-27 03:20 UTC
 
-New packages created between 2026-11-27 01:20 UTC and 2026-11-27 02:22 UTC.
+New packages created between 2026-11-27 02:22 UTC and 2026-11-27 03:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-27T02-22-17-884542Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-27T03-20-23-886774Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-27 01:29:01 | [checknetworks/checknetworks-php](https://www.nuget.org/packages/checknetworks%2Fchecknetworks-php) | v2.0.0-RC6 |  | The official PHP client for the Check Networks API. |
-| 2026-11-27 01:41:27 | [gustavo-peixoto/php-qa-scope](https://www.nuget.org/packages/gustavo-peixoto%2Fphp-qa-scope) | 0.1.0 | GustavoPeixoto | Synchronize managed PHP QA scope blocks across PHP QA tool configuration files. |
-| 2026-11-27 01:46:01 | [mdgascar/mdg-utils-bundle](https://www.nuget.org/packages/mdgascar%2Fmdg-utils-bundle) | v0.1.0 |  | Symfony bundle: validation constraints, Twig filters and Doctrine types for Mal… |
-| 2026-11-27 02:02:25 | [businessapi/monitorhq-php](https://www.nuget.org/packages/businessapi%2Fmonitorhq-php) | v1.0.2 | Business API | PHP SDK for the MonitorHQ API: Australian company, trust, sole trader and ABN m… |
+| 2026-11-27 02:39:02 | [melo/exception-handler](https://www.nuget.org/packages/melo%2Fexception-handler) | v1.0.0 | 棉花糖 | Webman exception handler with unified JSON responses |
+| 2026-11-27 03:01:23 | [nativehttp/client](https://www.nuget.org/packages/nativehttp%2Fclient) | v1.1.0 |  | Pure-PHP HTTP client with its own TLS 1.3 and HTTP/2 stack and a modern browser… |
+| 2026-11-27 03:05:44 | [codepulse2020/media-upload](https://www.nuget.org/packages/codepulse2020%2Fmedia-upload) | v1.0.0 |  | Secure-by-default file and image upload pipeline for Laravel. |
 
 ## Data source
 
