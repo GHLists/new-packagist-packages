@@ -1,0 +1,15 @@
+created_at,package,version,author,description
+2026-11-27T14:19:28Z,mignuti/contao-chatbot,v1.0.0,Mignuti Media,"Mignuti Chatbot for Contao - AI chatbot trained on your own content. Adds the chat widget to every page of a website root, configured in the site structure."
+2026-11-27T14:27:16Z,walsgit/flarum-custom-heroes,1.0.0,Wa!id,"Customize the hero headers of your Flarum forum: background image, overlay, height, logo, text, social icons and buttons."
+2026-11-27T14:34:58Z,yoya/io_matroska,1.0.0,yoya,"Matroska (mkv, webm) parser, dumper and builder"
+2026-11-27T14:35:01Z,yoya/io_jpeg2000,1.0.0,yoya,"JPEG 2000 (jp2, j2k) parser, dumper and builder"
+2026-11-27T14:36:45Z,ochorocho/typo3-mercure,1.0.0,,"Mercure for TYPO3: publish real-time updates with symfony/mercure, synchronously or through TYPO3's message bus, and subscribe from Fluid with authorization cookies"
+2026-11-27T14:41:34Z,infrangible/m2-widget-theme-copy,1.0.0,Andreas Knollmann,"Console command for Magento 2 that copies the widgets of one theme to another theme, for example after switching the store to a new or child theme."
+2026-11-27T14:45:00Z,bluefairy/module-recipes-hyva,v1.4.0,Blue Fairy Development,Magento 2 Recipe Management Extension — Hyva Frontend
+2026-11-27T14:51:32Z,bluefairy/module-free-gift-hyva,v1.3.0,,BlueFairy Free Gift Hyva Theme integration
+2026-11-27T14:54:57Z,bluefairy/module-mega-menu-hyva,v2.2.0,,BlueFairy MegaMenu — Hyva Theme companion module
+2026-11-27T15:00:14Z,sylius/shadcn-admin-ui,v0.15.0,,Build your Tailwind CSS and shadcn/ui admin panels with Sylius and Symfony UX
+2026-11-27T15:01:37Z,kariricode/cli,v4.1.0,Walmir Silva,"Professional developer toolchain for the KaririCode Framework — code generation, inspection, and ARFA 1.3 compliance checking."
+2026-11-27T15:03:39Z,infrangible/m2-theme-frontend-luma-left,2.0.0,Andreas Knollmann,"Luma child theme for Magento 2 that shows the header, the category navigation and the footer in a fixed column on the left of wide screens."
+2026-11-27T15:08:56Z,akyos/payment-bundle,7.4.0,Lilian Carneau; Johan JOULKVA; Thomas Sebert,AkyosCMS for Symfony - Payment
+2026-11-27T15:11:08Z,dipswitch/openfeature-provider,v0.1.0,,Server-side OpenFeature provider for Dipswitch boolean flags over OFREP.
