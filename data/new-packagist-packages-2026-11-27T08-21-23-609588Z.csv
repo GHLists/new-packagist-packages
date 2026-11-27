@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-27T07:28:45Z,developerawam/wire-media,v1.0.0,developerawam,"Premium Livewire media upload & image editor for Laravel 12. Upload, crop, zoom, rotate, flip, fullscreen lightbox, dark mode. Zero external JS dependencies."
+2026-11-27T07:34:38Z,masmerise/kbo-public-search-php-sdk,v1.0.0,Muhammed Sari,An unofficial PHP SDK for accessing the KBO/BCE Public Search web service.
+2026-11-27T07:46:42Z,masmerise/kbo-public-search-for-laravel,1.0.0,Muhammed Sarı,Laravel framework adapter for the KBO Public Search SDK.

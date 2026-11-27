@@ -15,18 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 07:20 UTC
+## Latest list — 2026-11-27 08:21 UTC
 
-New packages created between 2026-11-27 06:22 UTC and 2026-11-27 07:20 UTC.
+New packages created between 2026-11-27 07:20 UTC and 2026-11-27 08:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-27T07-20-13-344962Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-27T08-21-23-609588Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-27 06:23:47 | [longquan/easy-umspay](https://www.nuget.org/packages/longquan%2Feasy-umspay) | 1.0.0 | Lonquan | 银联商务UMS支付PHP SDK - 支持自助签约和新购物车支付 |
-| 2026-11-27 06:25:23 | [qiick/laravel-mcp-oauth](https://www.nuget.org/packages/qiick%2Flaravel-mcp-oauth) | v1.0.0-beta.1 | Qiick | OAuth authorization server for laravel/mcp endpoints in qiick Laravel products. |
-| 2026-11-27 06:44:10 | [longquan/easy-mqtt](https://www.nuget.org/packages/longquan%2Feasy-mqtt) | 1.0.0 | lonquan | 基于 php-mqtt/client 的 Laravel MQTT Factory |
-| 2026-11-27 06:46:21 | [rapttor/yii2-glass](https://www.nuget.org/packages/rapttor%2Fyii2-glass) | v1.0.0 |  | The Rapttor glass UI for Yii2: refractive glass app shell, Vue components, pane… |
+| 2026-11-27 07:28:45 | [developerawam/wire-media](https://www.nuget.org/packages/developerawam%2Fwire-media) | v1.0.0 | developerawam | Premium Livewire media upload & image editor for Laravel 12. Upload, crop, zoom… |
+| 2026-11-27 07:34:38 | [masmerise/kbo-public-search-php-sdk](https://www.nuget.org/packages/masmerise%2Fkbo-public-search-php-sdk) | v1.0.0 | Muhammed Sari | An unofficial PHP SDK for accessing the KBO/BCE Public Search web service. |
+| 2026-11-27 07:46:42 | [masmerise/kbo-public-search-for-laravel](https://www.nuget.org/packages/masmerise%2Fkbo-public-search-for-laravel) | 1.0.0 | Muhammed Sarı | Laravel framework adapter for the KBO Public Search SDK. |
 
 ## Data source
 
