@@ -15,18 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 21:22 UTC
+## Latest list — 2026-11-27 22:20 UTC
 
-New packages created between 2026-11-27 20:19 UTC and 2026-11-27 21:22 UTC.
+New packages created between 2026-11-27 21:22 UTC and 2026-11-27 22:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-27T21-22-06-425219Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-27T22-20-02-777205Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-27 20:36:58 | [krystalcode/api-session](https://www.nuget.org/packages/krystalcode%2Fapi-session) | 1.0.0 | krystalcode | Provides session management functionality for API clients including requesting,… |
-| 2026-11-27 20:51:36 | [termstrap/termstrap](https://www.nuget.org/packages/termstrap%2Ftermstrap) | v0.1.0 |  | Native PHP port of Termstrap terminal rendering engine |
-| 2026-11-27 20:54:54 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.57.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
-| 2026-11-27 21:00:17 | [siberfx/ploi-laravel](https://www.nuget.org/packages/siberfx%2Fploi-laravel) | 1.0.1 | Selim Görmüş | The Ploi.io PHP SDK, made for Laravel: config-driven multi-account clients, Lar… |
+| 2026-11-27 21:27:37 | [netprogfr/temibox](https://www.nuget.org/packages/netprogfr%2Ftemibox) | 1.0.1 |  | Temibox front-end library (built files): Tailwind CSS, Alpine.js and HTMX compo… |
+| 2026-11-27 21:32:04 | [amwaluddinlubis/laravel-tabel-form-helper](https://www.nuget.org/packages/amwaluddinlubis%2Flaravel-tabel-form-helper) | v1.0.0 | Amwaluddin Lubis | Helper tabel daftar dan form modal CRUD untuk Laravel: tabel_bantu() + form_mod… |
+| 2026-11-27 21:35:12 | [cripcha/cripcha-php](https://www.nuget.org/packages/cripcha%2Fcripcha-php) | v1.0.3 | Crispy Medias | Server side check of Cripcha tokens: the privacy-first, cookie-free captcha hos… |
+| 2026-11-27 21:35:18 | [cripcha/cripcha-bundle](https://www.nuget.org/packages/cripcha%2Fcripcha-bundle) | v1.0.3 | Crispy Medias | Symfony bundle of Cripcha: form type, validation constraint and Twig helper for… |
+| 2026-11-27 21:35:26 | [cripcha/cripcha-laravel](https://www.nuget.org/packages/cripcha%2Fcripcha-laravel) | v1.0.3 | Crispy Medias | Laravel package of Cripcha: validation rule and Blade component for the privacy… |
+| 2026-11-27 21:43:49 | [midariadev/multitenant](https://www.nuget.org/packages/midariadev%2Fmultitenant) | 0.1.0 |  | Business tenancy, plans and subscriptions for Laravel. |
+| 2026-11-27 22:04:31 | [b4n1/b4n1-telemetry](https://www.nuget.org/packages/b4n1%2Fb4n1-telemetry) | v0.1.1 | Bani Montoya | Sovereign telemetry collector — durable queue, secret scrubbing, typed API |
+| 2026-11-27 22:09:34 | [runio/script-ui](https://www.nuget.org/packages/runio%2Fscript-ui) | v0.1.0 | Amer Malik Mohammed | Turn one PHP script into an internal tool with a web UI. No HTML, no JavaScript… |
+| 2026-11-27 22:10:48 | [dream1/efaktura-connector](https://www.nuget.org/packages/dream1%2Fefaktura-connector) | v0.1.0 | DreaM1 | Framework-independent Peppol and SAPI e-invoice connector with an optional Lara… |
 
 ## Data source
 

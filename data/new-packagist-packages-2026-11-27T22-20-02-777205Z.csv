@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-27T21:27:37Z,netprogfr/temibox,1.0.1,,"Temibox front-end library (built files): Tailwind CSS, Alpine.js and HTMX components."
+2026-11-27T21:32:04Z,amwaluddinlubis/laravel-tabel-form-helper,v1.0.0,Amwaluddin Lubis,"Helper tabel daftar dan form modal CRUD untuk Laravel: tabel_bantu() + form_modal() + crud_bantu() dari konfigurasi, lengkap dengan paginasi/pencarian tabel, select searchable, isian tanggal dd-mm-yyyy, dan field uang. Versi Laravel dari ci4-tabel-form-helper."
+2026-11-27T21:35:12Z,cripcha/cripcha-php,v1.0.3,Crispy Medias,"Server side check of Cripcha tokens: the privacy-first, cookie-free captcha hosted in the EU"
+2026-11-27T21:35:18Z,cripcha/cripcha-bundle,v1.0.3,Crispy Medias,"Symfony bundle of Cripcha: form type, validation constraint and Twig helper for the privacy-first, cookie-free captcha"
+2026-11-27T21:35:26Z,cripcha/cripcha-laravel,v1.0.3,Crispy Medias,"Laravel package of Cripcha: validation rule and Blade component for the privacy-first, cookie-free captcha"
+2026-11-27T21:43:49Z,midariadev/multitenant,0.1.0,,"Business tenancy, plans and subscriptions for Laravel."
+2026-11-27T22:04:31Z,b4n1/b4n1-telemetry,v0.1.1,Bani Montoya,"Sovereign telemetry collector — durable queue, secret scrubbing, typed API"
+2026-11-27T22:09:34Z,runio/script-ui,v0.1.0,Amer Malik Mohammed,"Turn one PHP script into an internal tool with a web UI. No HTML, no JavaScript, no controller."
+2026-11-27T22:10:48Z,dream1/efaktura-connector,v0.1.0,DreaM1,Framework-independent Peppol and SAPI e-invoice connector with an optional Laravel bridge.
