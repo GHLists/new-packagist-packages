@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-27T09:23:37Z,hryvinskyi/magento2-free-gift-import-amasty,1.0.0,Volodymyr Hryvinskyi,"Imports the free gift setup of Amasty Free Gift and Free Bar into the free gift module and the cart progress bar: the gift rules, the progress bar settings, the spent and note settings, and the cleanup of the carts that hold an Amasty gift line. Reads the tables those modules left behind; it does n…"
+2026-11-27T09:26:33Z,storeteam/module-disable-compare,1.0.0,StoreTeam — Magento 2 & Hyvä Specialists,"Lightweight Magento 2.4.x & Hyvä Theme module to cleanly disable Compare Products across catalog, search, widgets, and customer-data without core edits."
+2026-11-27T09:31:53Z,loki-checkout/magento2-fi,1.0.0,,Finnish settings for LokiCheckout
+2026-11-27T09:40:52Z,carbon/inject-javascript-on-login-page,0.1.0,,Inject JavaScript into the Neos backend login page
+2026-11-27T09:57:03Z,yireo/magento2-remove-search,1.0.0,,N/A
+2026-11-27T10:00:06Z,loki-checkout/magento2-dk,1.0.0,,Danish settings for LokiCheckout
+2026-11-27T10:00:10Z,loki-checkout/magento2-it,0.0.1,,Italian settings for LokiCheckout
+2026-11-27T10:00:23Z,loki-checkout/magento2-ie,1.0.0,,Irish settings for LokiCheckout
+2026-11-27T10:11:59Z,nubos/starterkit,v1.54.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
