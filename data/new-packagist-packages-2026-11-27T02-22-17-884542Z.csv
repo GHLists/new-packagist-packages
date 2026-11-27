@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-27T01:29:01Z,checknetworks/checknetworks-php,v2.0.0-RC6,,The official PHP client for the Check Networks API.
+2026-11-27T01:41:27Z,gustavo-peixoto/php-qa-scope,0.1.0,GustavoPeixoto,Synchronize managed PHP QA scope blocks across PHP QA tool configuration files.
+2026-11-27T01:46:01Z,mdgascar/mdg-utils-bundle,v0.1.0,,"Symfony bundle: validation constraints, Twig filters and Doctrine types for Malagasy phone numbers, Ariary amounts, number words and dates."
+2026-11-27T02:02:25Z,businessapi/monitorhq-php,v1.0.2,Business API,"PHP SDK for the MonitorHQ API: Australian company, trust, sole trader and ABN monitoring. Track ASIC, ABR, PPSR, trade mark and licence register changes, and verify webhook signatures."

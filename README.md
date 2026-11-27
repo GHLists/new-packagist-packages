@@ -15,18 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 00:21 UTC
+## Latest list — 2026-11-27 02:22 UTC
 
-New packages created between 2026-11-26 23:20 UTC and 2026-11-27 00:21 UTC.
+New packages created between 2026-11-27 01:20 UTC and 2026-11-27 02:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-27T00-21-02-67967Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-27T02-22-17-884542Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-26 23:24:06 | [trustcomponent/trustcomponent-php](https://www.nuget.org/packages/trustcomponent%2Ftrustcomponent-php) | v0.0.1-beta.1 | Trustcaptcha GmbH | Official TrustComponent SDK for PHP: TrustCaptcha, TrustAnalytics, TrustMonitor… |
-| 2026-11-26 23:30:57 | [goodport/laravel-auto-moderator](https://www.nuget.org/packages/goodport%2Flaravel-auto-moderator) | v1.0.0 | goodport | Synchronous content moderation profiles with built-in and custom checks. |
-| 2026-11-26 23:47:17 | [mdgascar/mdg-utils-laravel](https://www.nuget.org/packages/mdgascar%2Fmdg-utils-laravel) | v0.1.0 |  | Laravel validation rules, Eloquent casts and Blade directives for Malagasy phon… |
-| 2026-11-27 00:14:23 | [spaze/psalm-plugin-nette](https://www.nuget.org/packages/spaze%2Fpsalm-plugin-nette) | v0.1.0 | Michal Špaček | Psalm plugin for Nette: tells the unused code detection what Nette, Nette Teste… |
+| 2026-11-27 01:29:01 | [checknetworks/checknetworks-php](https://www.nuget.org/packages/checknetworks%2Fchecknetworks-php) | v2.0.0-RC6 |  | The official PHP client for the Check Networks API. |
+| 2026-11-27 01:41:27 | [gustavo-peixoto/php-qa-scope](https://www.nuget.org/packages/gustavo-peixoto%2Fphp-qa-scope) | 0.1.0 | GustavoPeixoto | Synchronize managed PHP QA scope blocks across PHP QA tool configuration files. |
+| 2026-11-27 01:46:01 | [mdgascar/mdg-utils-bundle](https://www.nuget.org/packages/mdgascar%2Fmdg-utils-bundle) | v0.1.0 |  | Symfony bundle: validation constraints, Twig filters and Doctrine types for Mal… |
+| 2026-11-27 02:02:25 | [businessapi/monitorhq-php](https://www.nuget.org/packages/businessapi%2Fmonitorhq-php) | v1.0.2 | Business API | PHP SDK for the MonitorHQ API: Australian company, trust, sole trader and ABN m… |
 
 ## Data source
 
