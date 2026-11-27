@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-27T20:36:58Z,krystalcode/api-session,1.0.0,krystalcode,"Provides session management functionality for API clients including requesting, refreshing and storing access tokens."
+2026-11-27T20:51:36Z,termstrap/termstrap,v0.1.0,,Native PHP port of Termstrap terminal rendering engine
+2026-11-27T20:54:54Z,nubos/starterkit,v1.57.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-27T21:00:17Z,siberfx/ploi-laravel,1.0.1,Selim Görmüş,"The Ploi.io PHP SDK, made for Laravel: config-driven multi-account clients, Laravel's HTTP client (fakes, retries, timeouts), collections, typed exceptions and Artisan commands."

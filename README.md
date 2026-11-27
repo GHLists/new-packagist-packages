@@ -15,20 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 20:19 UTC
+## Latest list — 2026-11-27 21:22 UTC
 
-New packages created between 2026-11-27 19:19 UTC and 2026-11-27 20:19 UTC.
+New packages created between 2026-11-27 20:19 UTC and 2026-11-27 21:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-27T20-19-35-943385Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-27T21-22-06-425219Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-27 19:28:21 | [mphpmaster/laravel-nova-sanadwa-whatsapp](https://www.nuget.org/packages/mphpmaster%2Flaravel-nova-sanadwa-whatsapp) | v1.0.0 | mPhpMaster | WhatsApp for Laravel and Nova: SanadWA / UltraMsg drivers, notification channel… |
-| 2026-11-27 19:42:37 | [pfrenssen/drupal-sniffs](https://www.nuget.org/packages/pfrenssen%2Fdrupal-sniffs) | 1.0.0 |  | PHP_CodeSniffer sniffs that align Drupal projects with the conventions of Drupa… |
-| 2026-11-27 19:45:20 | [lopescte/nfse-nacional-php](https://www.nuget.org/packages/lopescte%2Fnfse-nacional-php) | 1.0.0 | Marcelo Lopes | SDK PHP independente para integração com a NFS-e Nacional. |
-| 2026-11-27 19:45:41 | [lopescte/bb-api-php](https://www.nuget.org/packages/lopescte%2Fbb-api-php) | 1.0.0 | Marcelo Lopes | Integração com a API de cobrança do Banco do Brasil |
-| 2026-11-27 20:03:12 | [kariricode/eventloop](https://www.nuget.org/packages/kariricode%2Feventloop) | v4.2.0 | Walmir Silva | Event loop for PHP 8.4: timers, stream readiness, signals, deferred callbacks a… |
-| 2026-11-27 20:12:03 | [lindesbs/contao-well-known-bundle](https://www.nuget.org/packages/lindesbs%2Fcontao-well-known-bundle) | 0.5 | Stefan Lindecke | Pflege und Auslieferung von /.well-known/-Endpunkten (security.txt, change-pass… |
+| 2026-11-27 20:36:58 | [krystalcode/api-session](https://www.nuget.org/packages/krystalcode%2Fapi-session) | 1.0.0 | krystalcode | Provides session management functionality for API clients including requesting,… |
+| 2026-11-27 20:51:36 | [termstrap/termstrap](https://www.nuget.org/packages/termstrap%2Ftermstrap) | v0.1.0 |  | Native PHP port of Termstrap terminal rendering engine |
+| 2026-11-27 20:54:54 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.57.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-27 21:00:17 | [siberfx/ploi-laravel](https://www.nuget.org/packages/siberfx%2Fploi-laravel) | 1.0.1 | Selim Görmüş | The Ploi.io PHP SDK, made for Laravel: config-driven multi-account clients, Lar… |
 
 ## Data source
 
