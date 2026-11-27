@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 23:20 UTC
+## Latest list — 2026-11-27 00:21 UTC
 
-New packages created between 2026-11-26 22:20 UTC and 2026-11-26 23:20 UTC.
+New packages created between 2026-11-26 23:20 UTC and 2026-11-27 00:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-26T23-20-15-346474Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-27T00-21-02-67967Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-26 22:32:03 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.53.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
-| 2026-11-26 22:43:56 | [linkxtr/filament-qrcode](https://www.nuget.org/packages/linkxtr%2Ffilament-qrcode) | v1.0.0 | Khaled Sadek | A clean, modern Filament plugin to generate, render, style, and export QR codes… |
+| 2026-11-26 23:24:06 | [trustcomponent/trustcomponent-php](https://www.nuget.org/packages/trustcomponent%2Ftrustcomponent-php) | v0.0.1-beta.1 | Trustcaptcha GmbH | Official TrustComponent SDK for PHP: TrustCaptcha, TrustAnalytics, TrustMonitor… |
+| 2026-11-26 23:30:57 | [goodport/laravel-auto-moderator](https://www.nuget.org/packages/goodport%2Flaravel-auto-moderator) | v1.0.0 | goodport | Synchronous content moderation profiles with built-in and custom checks. |
+| 2026-11-26 23:47:17 | [mdgascar/mdg-utils-laravel](https://www.nuget.org/packages/mdgascar%2Fmdg-utils-laravel) | v0.1.0 |  | Laravel validation rules, Eloquent casts and Blade directives for Malagasy phon… |
+| 2026-11-27 00:14:23 | [spaze/psalm-plugin-nette](https://www.nuget.org/packages/spaze%2Fpsalm-plugin-nette) | v0.1.0 | Michal Špaček | Psalm plugin for Nette: tells the unused code detection what Nette, Nette Teste… |
 
 ## Data source
 

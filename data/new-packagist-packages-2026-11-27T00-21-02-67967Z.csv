@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-26T23:24:06Z,trustcomponent/trustcomponent-php,v0.0.1-beta.1,Trustcaptcha GmbH,"Official TrustComponent SDK for PHP: TrustCaptcha, TrustAnalytics, TrustMonitoring, Trust VAT Checker and the platform API."
+2026-11-26T23:30:57Z,goodport/laravel-auto-moderator,v1.0.0,goodport,Synchronous content moderation profiles with built-in and custom checks.
+2026-11-26T23:47:17Z,mdgascar/mdg-utils-laravel,v0.1.0,,"Laravel validation rules, Eloquent casts and Blade directives for Malagasy phone numbers, Ariary amounts, number words and dates."
+2026-11-27T00:14:23Z,spaze/psalm-plugin-nette,v0.1.0,Michal Špaček,"Psalm plugin for Nette: tells the unused code detection what Nette, Nette Tester and the DI container call"
