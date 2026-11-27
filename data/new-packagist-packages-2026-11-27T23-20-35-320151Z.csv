@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-27T22:27:28Z,b4n1/b4n1-audit,v0.1.6,Bani Montoya,Sovereign security audit - static analysis engine
+2026-11-27T22:32:56Z,neo-digital/contao-indexnow-bundle,v1.0.0,NEO Digital,"IndexNow for Contao 5: tells Bing, Yandex, Seznam, Naver and Yep within minutes which pages, news and events were published, changed or removed. Key and domains in the back end, key file served automatically, queue with retry, full submission of all URLs, connection check and a log."
+2026-11-27T22:38:10Z,debuss-a/piccolo-database,0.1.0,Alexandre Debusschère,"Database access through stored procedures only for Piccolo: a class per procedure, typed for the IDE and PHPStan, run by a connection made for long-running PHP workers."
