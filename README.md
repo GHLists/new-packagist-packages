@@ -15,18 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 18:21 UTC
+## Latest list — 2026-11-27 19:19 UTC
 
-New packages created between 2026-11-27 17:19 UTC and 2026-11-27 18:21 UTC.
+New packages created between 2026-11-27 18:21 UTC and 2026-11-27 19:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-27T18-21-18-92646Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-27T19-19-48-315994Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-27 17:41:09 | [kfriars/filament-pulse-widgets](https://www.nuget.org/packages/kfriars%2Ffilament-pulse-widgets) | v1.0.0 | Kurt Friars | Laravel Pulse cards as Filament v5 widgets, alongside your panel's own widgets. |
-| 2026-11-27 17:46:30 | [membergate/membergate-api](https://www.nuget.org/packages/membergate%2Fmembergate-api) | v1.0.0 | Membergate Limited | Client for the Membergate API: signed requests, every API method, hosted sign-i… |
-| 2026-11-27 17:46:52 | [kariricode/websocket](https://www.nuget.org/packages/kariricode%2Fwebsocket) | v4.0.0 | Walmir Silva | RFC 6455 WebSocket server for PHP 8.4: strict frame parsing and handshake, clos… |
-| 2026-11-27 17:47:50 | [mscode-pl/vocative](https://www.nuget.org/packages/mscode-pl%2Fvocative) | v0.1.0 | Mateusz Sikorski | Address people by first name in their language: vocative case, gender and salut… |
+| 2026-11-27 18:21:57 | [assetfeed/filament-ai-detector](https://www.nuget.org/packages/assetfeed%2Ffilament-ai-detector) | v0.1.0 |  | A Filament infolist entry that checks a text attribute for AI-written passages… |
+| 2026-11-27 18:43:33 | [serkannyildirim/lidio-php-sdk](https://www.nuget.org/packages/serkannyildirim%2Flidio-php-sdk) | v0.1.0 | Serkan Yıldırım | Unofficial PHP SDK for the Lidio payment API (hosted payment page, payment stat… |
+| 2026-11-27 18:47:08 | [innoboxrr/zoom-sdk](https://www.nuget.org/packages/innoboxrr%2Fzoom-sdk) | 1.0.0 | Homero Raul | Crea, consulta, actualiza y elimina reuniones de Zoom desde Laravel con la API… |
+| 2026-11-27 18:51:24 | [delivrie/delivrie-php](https://www.nuget.org/packages/delivrie%2Fdelivrie-php) | v0.1.0 | Surce Inc | The PHP SDK for Delivrie: send email, manage domains, keys, webhooks, contacts… |
+| 2026-11-27 18:55:53 | [eduardogp321/filament-mia-theme-v2](https://www.nuget.org/packages/eduardogp321%2Ffilament-mia-theme-v2) | 1.0.0 | Eduardo Palacios | A warm, editorial theme and design system for Filament PHP with live customizer. |
+| 2026-11-27 19:06:34 | [writealt/statamic-writealt](https://www.nuget.org/packages/writealt%2Fstatamic-writealt) | v0.1.0 |  | Native bulk image alt text and same-format compression for Statamic 6. |
+| 2026-11-27 19:10:25 | [kariricode/async-primitives](https://www.nuget.org/packages/kariricode%2Fasync-primitives) | v4.1.0 | Walmir Silva | Async building blocks for PHP 8.4 below the event loop: retries with backoff, r… |
 
 ## Data source
 

@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-27T18:21:57Z,assetfeed/filament-ai-detector,v0.1.0,,A Filament infolist entry that checks a text attribute for AI-written passages with the AssetFeed AI content detector and marks them on the View page.
+2026-11-27T18:43:33Z,serkannyildirim/lidio-php-sdk,v0.1.0,Serkan Yıldırım,"Unofficial PHP SDK for the Lidio payment API (hosted payment page, payment status, notifications)."
+2026-11-27T18:47:08Z,innoboxrr/zoom-sdk,1.0.0,Homero Raul,"Crea, consulta, actualiza y elimina reuniones de Zoom desde Laravel con la API Server-to-Server OAuth."
+2026-11-27T18:51:24Z,delivrie/delivrie-php,v0.1.0,Surce Inc,"The PHP SDK for Delivrie: send email, manage domains, keys, webhooks, contacts and templates, and verify webhooks."
+2026-11-27T18:55:53Z,eduardogp321/filament-mia-theme-v2,1.0.0,Eduardo Palacios,"A warm, editorial theme and design system for Filament PHP with live customizer."
+2026-11-27T19:06:34Z,writealt/statamic-writealt,v0.1.0,,Native bulk image alt text and same-format compression for Statamic 6.
+2026-11-27T19:10:25Z,kariricode/async-primitives,v4.1.0,Walmir Silva,"Async building blocks for PHP 8.4 below the event loop: retries with backoff, resource pools, time limits, in-process metrics, runtime detection and graceful worker shutdown."
