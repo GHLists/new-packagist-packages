@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-27T15:21:30Z,jimbo2150/css-indexed-dom,v1.0.1,Jim Robinson,"Fast, indexed CSS selector queries over PHP's native Dom\HTMLDocument and Dom\DocumentFragment with Selectors Level 4 parity."
+2026-11-27T15:27:11Z,kariricode/sse,v4.0.0,Walmir Silva,"Server-Sent Events for PHP 8.4 (WHATWG HTML §9.2): immutable events, a wire-format serializer that cannot be split by a field value, Last-Event-ID replay, and a request normalizer for kariricode/router."
+2026-11-27T15:41:07Z,infrangible/m2-page-cache-vary-fix,1.0.0,Andreas Knollmann,"Fixes the built-in full page cache of Magento 2.4.8, which shows logged-in customers the cached pages of guests, for example with ""Create an Account"" or guest prices."
+2026-11-27T15:42:57Z,concept7/statamic-bard-set-clipboard,v1.0.0,Concept7,Copy Bard sets from the set menu and paste them with a toolbar button or Cmd/Ctrl+V
+2026-11-27T16:08:06Z,filevora/filevora,v0.1.0,,"Headless PHP SDK for resumable uploads, private storage, background derivatives, and short-lived delivery. PHP port of Filevora."
