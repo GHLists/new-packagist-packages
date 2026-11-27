@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-27T16:24:36Z,abolaradev/geo-guard,v1.0.0,abolaradev,"GeoGuard is a Laravel package for IP geolocation, visitor profiling, and geographic access control. It provides location details, timezone, ISP, ASN, and proxy/hosting detection, with tools to restrict or allow access based on visitor locations."
+2026-11-27T16:35:41Z,bootcndev/bootcn,v0.6.1,,"The bootcn CLI for PHP and Laravel projects, no Node.js needed: install copy-paste Bootstrap 5.3 components into your project."
+2026-11-27T16:36:40Z,kariricode/http,v4.0.0,Walmir Silva,"PSR-7, PSR-15 and PSR-17 for PHP 8.4: validated messages, a middleware dispatcher, CORS and client-certificate middleware, and a request handler backed by kariricode/router."
+2026-11-27T16:42:05Z,yuccastream/tuna-sdk-php,v0.1.0,tuna.am authors,Expose local HTTP and TCP services through tuna.am tunnels
+2026-11-27T16:50:28Z,agentisend/symfony-mailer,v0.1.0,AgentiSend,Symfony Mailer transport that posts each message to POST /emails. DSNs: agentisend+api://KEY@default and agentisend://KEY@default.
+2026-11-27T17:01:29Z,nubos/starterkit,v1.56.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-27T17:03:48Z,mignuti/drupal-chatbot,v1.0.0,Mignuti Media,"Mignuti Chatbot for Drupal: AI chatbot trained on your own content, added to every front-end page."

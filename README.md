@@ -15,19 +15,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 16:19 UTC
+## Latest list — 2026-11-27 17:19 UTC
 
-New packages created between 2026-11-27 15:19 UTC and 2026-11-27 16:19 UTC.
+New packages created between 2026-11-27 16:19 UTC and 2026-11-27 17:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-27T16-19-17-272401Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-27T17-19-39-638954Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-27 15:21:30 | [jimbo2150/css-indexed-dom](https://www.nuget.org/packages/jimbo2150%2Fcss-indexed-dom) | v1.0.1 | Jim Robinson | Fast, indexed CSS selector queries over PHP's native Dom\HTMLDocument and Dom\D… |
-| 2026-11-27 15:27:11 | [kariricode/sse](https://www.nuget.org/packages/kariricode%2Fsse) | v4.0.0 | Walmir Silva | Server-Sent Events for PHP 8.4 (WHATWG HTML §9.2): immutable events, a wire-for… |
-| 2026-11-27 15:41:07 | [infrangible/m2-page-cache-vary-fix](https://www.nuget.org/packages/infrangible%2Fm2-page-cache-vary-fix) | 1.0.0 | Andreas Knollmann | Fixes the built-in full page cache of Magento 2.4.8, which shows logged-in cust… |
-| 2026-11-27 15:42:57 | [concept7/statamic-bard-set-clipboard](https://www.nuget.org/packages/concept7%2Fstatamic-bard-set-clipboard) | v1.0.0 | Concept7 | Copy Bard sets from the set menu and paste them with a toolbar button or Cmd/Ct… |
-| 2026-11-27 16:08:06 | [filevora/filevora](https://www.nuget.org/packages/filevora%2Ffilevora) | v0.1.0 |  | Headless PHP SDK for resumable uploads, private storage, background derivatives… |
+| 2026-11-27 16:24:36 | [abolaradev/geo-guard](https://www.nuget.org/packages/abolaradev%2Fgeo-guard) | v1.0.0 | abolaradev | GeoGuard is a Laravel package for IP geolocation, visitor profiling, and geogra… |
+| 2026-11-27 16:35:41 | [bootcndev/bootcn](https://www.nuget.org/packages/bootcndev%2Fbootcn) | v0.6.1 |  | The bootcn CLI for PHP and Laravel projects, no Node.js needed: install copy-pa… |
+| 2026-11-27 16:36:40 | [kariricode/http](https://www.nuget.org/packages/kariricode%2Fhttp) | v4.0.0 | Walmir Silva | PSR-7, PSR-15 and PSR-17 for PHP 8.4: validated messages, a middleware dispatch… |
+| 2026-11-27 16:42:05 | [yuccastream/tuna-sdk-php](https://www.nuget.org/packages/yuccastream%2Ftuna-sdk-php) | v0.1.0 | tuna.am authors | Expose local HTTP and TCP services through tuna.am tunnels |
+| 2026-11-27 16:50:28 | [agentisend/symfony-mailer](https://www.nuget.org/packages/agentisend%2Fsymfony-mailer) | v0.1.0 | AgentiSend | Symfony Mailer transport that posts each message to POST /emails. DSNs: agentis… |
+| 2026-11-27 17:01:29 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.56.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
+| 2026-11-27 17:03:48 | [mignuti/drupal-chatbot](https://www.nuget.org/packages/mignuti%2Fdrupal-chatbot) | v1.0.0 | Mignuti Media | Mignuti Chatbot for Drupal: AI chatbot trained on your own content, added to ev… |
 
 ## Data source
 
