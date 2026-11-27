@@ -1,0 +1,12 @@
+created_at,package,version,author,description
+2026-11-27T13:22:46Z,loki-checkout/magento2-sp,1.0.0,,Spanish settings for LokiCheckout
+2026-11-27T13:27:58Z,loki-checkout/magento2-se,1.0.0,,Swedish settings for LokiCheckout
+2026-11-27T13:41:18Z,loki-checkout/magento2-quote-address-extended-example,0.0.1,,"Example of adding a column to the loki_quote_address_extended table and showing it in checkout, emails and backend"
+2026-11-27T13:48:37Z,elisbanpaco/phpguard,v0.1.0,,Detector experimental de código malicioso PHP mediante análisis estático y GNN
+2026-11-27T13:51:36Z,loki-checkout/magento2-cz,1.0.0,,Czech settings for LokiCheckout
+2026-11-27T14:02:15Z,loki-checkout/magento2-luma-skinny,0.0.1,,Attempt to remove as many Luma non-checkout elements as possible
+2026-11-27T14:05:29Z,cinderwatch/cinder-php,1.0.0,Rhys Lees,"Framework-agnostic PHP client for Cinder error, log, trace, health and schedule monitoring."
+2026-11-27T14:05:31Z,cinderwatch/cinder-laravel,1.0.0,Rhys Lees,"Laravel adapter for Cinder error, log, trace, health and schedule monitoring."
+2026-11-27T14:05:33Z,cinderwatch/cinder-wordpress,1.0.0,Rhys Lees,"WordPress adapter for Cinder error, log, trace, health and schedule monitoring."
+2026-11-27T14:07:16Z,cdyun/thinkphp-filesystem,v1.0.0,cdyun,基于 league/flysystem实现文件系统驱动，支持本地、OSS、COS、Q牛云、AWS S3等，提供统一的文件操作接口。
+2026-11-27T14:11:53Z,loki-checkout/magento2-dotdigitalgroup-sms,0.0.1,,Compatibility module for the Dotdigital SMS module

@@ -15,23 +15,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 13:19 UTC
+## Latest list — 2026-11-27 14:19 UTC
 
-New packages created between 2026-11-27 12:21 UTC and 2026-11-27 13:19 UTC.
+New packages created between 2026-11-27 13:19 UTC and 2026-11-27 14:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-27T13-19-30-950686Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-27T14-19-08-42607Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-27 12:23:01 | [qiick/laravel-http-basics](https://www.nuget.org/packages/qiick%2Flaravel-http-basics) | v1.0.0-beta.1 | Qiick | Shared HTTP runtime for qiick Laravel products: X-Request-Id, Accept-Language /… |
-| 2026-11-27 12:44:09 | [kariricode/router](https://www.nuget.org/packages/kariricode%2Frouter) | v4.1.0 | Walmir Silva | Protocol-agnostic routing engine for PHP 8.4+: static routes in a hash map, par… |
-| 2026-11-27 12:44:11 | [kariricode/cache](https://www.nuget.org/packages/kariricode%2Fcache) | v4.1.0 | Walmir Silva | Multi-tier cache for PHP 8.4+: SIEVE eviction, XFetch probabilistic early recom… |
-| 2026-11-27 12:45:27 | [visus/module-admin-sso-login](https://www.nuget.org/packages/visus%2Fmodule-admin-sso-login) | 1.0.0 |  | Magento module providing SAML single sign-on for admin users |
-| 2026-11-27 12:47:30 | [loki-checkout/magento2-joseph-leedy-custom-fees](https://www.nuget.org/packages/loki-checkout%2Fmagento2-joseph-leedy-custom-fees) | 1.0.0 |  | Compatibility module for the JosephLeedy CustomFees module |
-| 2026-11-27 13:00:29 | [mhinspeya/module-onlineshop](https://www.nuget.org/packages/mhinspeya%2Fmodule-onlineshop) | 1.0.0 | MHinspeya | OnlineShop app webview login |
-| 2026-11-27 13:03:55 | [nsilver/laravel-click-merchant](https://www.nuget.org/packages/nsilver%2Flaravel-click-merchant) | v0.1.0 |  | Laravel integration for CLICK Merchant API |
-| 2026-11-27 13:10:51 | [neuron-core/iq-stream-php](https://www.nuget.org/packages/neuron-core%2Fiq-stream-php) | 1.0.0 | Valerio Barbera | IQ-Stream official client library for the PHP ecosystem. |
-| 2026-11-27 13:12:53 | [jonesshen/php-cs-fixer-config](https://www.nuget.org/packages/jonesshen%2Fphp-cs-fixer-config) | v1.0.0 | Jone Shen | A custom PHP CS Fixer configuration library |
+| 2026-11-27 13:22:46 | [loki-checkout/magento2-sp](https://www.nuget.org/packages/loki-checkout%2Fmagento2-sp) | 1.0.0 |  | Spanish settings for LokiCheckout |
+| 2026-11-27 13:27:58 | [loki-checkout/magento2-se](https://www.nuget.org/packages/loki-checkout%2Fmagento2-se) | 1.0.0 |  | Swedish settings for LokiCheckout |
+| 2026-11-27 13:41:18 | [loki-checkout/magento2-quote-address-extended-example](https://www.nuget.org/packages/loki-checkout%2Fmagento2-quote-address-extended-example) | 0.0.1 |  | Example of adding a column to the loki_quote_address_extended table and showing… |
+| 2026-11-27 13:48:37 | [elisbanpaco/phpguard](https://www.nuget.org/packages/elisbanpaco%2Fphpguard) | v0.1.0 |  | Detector experimental de código malicioso PHP mediante análisis estático y GNN |
+| 2026-11-27 13:51:36 | [loki-checkout/magento2-cz](https://www.nuget.org/packages/loki-checkout%2Fmagento2-cz) | 1.0.0 |  | Czech settings for LokiCheckout |
+| 2026-11-27 14:02:15 | [loki-checkout/magento2-luma-skinny](https://www.nuget.org/packages/loki-checkout%2Fmagento2-luma-skinny) | 0.0.1 |  | Attempt to remove as many Luma non-checkout elements as possible |
+| 2026-11-27 14:05:29 | [cinderwatch/cinder-php](https://www.nuget.org/packages/cinderwatch%2Fcinder-php) | 1.0.0 | Rhys Lees | Framework-agnostic PHP client for Cinder error, log, trace, health and schedule… |
+| 2026-11-27 14:05:31 | [cinderwatch/cinder-laravel](https://www.nuget.org/packages/cinderwatch%2Fcinder-laravel) | 1.0.0 | Rhys Lees | Laravel adapter for Cinder error, log, trace, health and schedule monitoring. |
+| 2026-11-27 14:05:33 | [cinderwatch/cinder-wordpress](https://www.nuget.org/packages/cinderwatch%2Fcinder-wordpress) | 1.0.0 | Rhys Lees | WordPress adapter for Cinder error, log, trace, health and schedule monitoring. |
+| 2026-11-27 14:07:16 | [cdyun/thinkphp-filesystem](https://www.nuget.org/packages/cdyun%2Fthinkphp-filesystem) | v1.0.0 | cdyun | 基于 league/flysystem实现文件系统驱动，支持本地、OSS、COS、Q牛云、AWS S3等，提供统一的文件操作接口。 |
+| 2026-11-27 14:11:53 | [loki-checkout/magento2-dotdigitalgroup-sms](https://www.nuget.org/packages/loki-checkout%2Fmagento2-dotdigitalgroup-sms) | 0.0.1 |  | Compatibility module for the Dotdigital SMS module |
 
 ## Data source
 
