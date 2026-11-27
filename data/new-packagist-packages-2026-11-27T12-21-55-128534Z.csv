@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-27T11:22:35Z,nubos/starterkit,v1.55.0,,"A Laravel starter kit for multi-tenant business applications. Start with teams, permissions, and a flexible data model — and make it your own."
+2026-11-27T11:26:04Z,sendrail/laravel,v0.1.0,Sendrail,"Laravel integration for Sendrail, the Czech SMS API: facade, notification channel and webhook signature middleware"
+2026-11-27T11:26:04Z,sendrail/nette,v0.1.0,Sendrail,"Nette DI extension for Sendrail, the Czech SMS API: the client and the webhook verifier as services"
+2026-11-27T11:26:04Z,sendrail/sendrail-php,v0.1.0,Sendrail,"Official PHP SDK for Sendrail, the Czech SMS API: send SMS and verification codes (OTP), check numbers, manage opt-outs and templates, verify webhooks"
+2026-11-27T11:27:28Z,dskripchenko/laravel-standards,v1.0.0,Denis Skripchenko,"Source of truth for PHP, Laravel and Vue projects: coding style, architecture, security, documentation and the packages a project may use. No PHP code. AGENTS.md is the file models must follow."
+2026-11-27T11:42:46Z,mindvoice-pro/sdk,v0.1.0,,PHP-клиент публичного API MindVoice для API-ключей Workspace.
+2026-11-27T11:47:48Z,mignuti/typo3-chatbot,v1.1.2,Mignuti Media,"Mignuti Chatbot - AI chatbot for TYPO3, trained on your own content. Adds the chat widget to every page via a site set or static TypoScript template."
+2026-11-27T11:48:45Z,yii2-extensions/soft-delete,0.1.0,,Soft deletion and restoration for Yii2 ActiveRecord
+2026-11-27T12:00:59Z,presentkim/library-name,0.1.0,,Virtual inventory menus (entity containers) for axolotl-pm/PocketMine-MP
+2026-11-27T12:17:13Z,yireo/magento2-clean-admin-menu,1.0.0,,N/A
