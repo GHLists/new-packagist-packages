@@ -15,24 +15,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 12:21 UTC
+## Latest list — 2026-11-27 13:19 UTC
 
-New packages created between 2026-11-27 11:19 UTC and 2026-11-27 12:21 UTC.
+New packages created between 2026-11-27 12:21 UTC and 2026-11-27 13:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-27T12-21-55-128534Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-27T13-19-30-950686Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-27 11:22:35 | [nubos/starterkit](https://www.nuget.org/packages/nubos%2Fstarterkit) | v1.55.0 |  | A Laravel starter kit for multi-tenant business applications. Start with teams,… |
-| 2026-11-27 11:26:04 | [sendrail/laravel](https://www.nuget.org/packages/sendrail%2Flaravel) | v0.1.0 | Sendrail | Laravel integration for Sendrail, the Czech SMS API: facade, notification chann… |
-| 2026-11-27 11:26:04 | [sendrail/nette](https://www.nuget.org/packages/sendrail%2Fnette) | v0.1.0 | Sendrail | Nette DI extension for Sendrail, the Czech SMS API: the client and the webhook… |
-| 2026-11-27 11:26:04 | [sendrail/sendrail-php](https://www.nuget.org/packages/sendrail%2Fsendrail-php) | v0.1.0 | Sendrail | Official PHP SDK for Sendrail, the Czech SMS API: send SMS and verification cod… |
-| 2026-11-27 11:27:28 | [dskripchenko/laravel-standards](https://www.nuget.org/packages/dskripchenko%2Flaravel-standards) | v1.0.0 | Denis Skripchenko | Source of truth for PHP, Laravel and Vue projects: coding style, architecture,… |
-| 2026-11-27 11:42:46 | [mindvoice-pro/sdk](https://www.nuget.org/packages/mindvoice-pro%2Fsdk) | v0.1.0 |  | PHP-клиент публичного API MindVoice для API-ключей Workspace. |
-| 2026-11-27 11:47:48 | [mignuti/typo3-chatbot](https://www.nuget.org/packages/mignuti%2Ftypo3-chatbot) | v1.1.2 | Mignuti Media | Mignuti Chatbot - AI chatbot for TYPO3, trained on your own content. Adds the c… |
-| 2026-11-27 11:48:45 | [yii2-extensions/soft-delete](https://www.nuget.org/packages/yii2-extensions%2Fsoft-delete) | 0.1.0 |  | Soft deletion and restoration for Yii2 ActiveRecord |
-| 2026-11-27 12:00:59 | [presentkim/library-name](https://www.nuget.org/packages/presentkim%2Flibrary-name) | 0.1.0 |  | Virtual inventory menus (entity containers) for axolotl-pm/PocketMine-MP |
-| 2026-11-27 12:17:13 | [yireo/magento2-clean-admin-menu](https://www.nuget.org/packages/yireo%2Fmagento2-clean-admin-menu) | 1.0.0 |  | N/A |
+| 2026-11-27 12:23:01 | [qiick/laravel-http-basics](https://www.nuget.org/packages/qiick%2Flaravel-http-basics) | v1.0.0-beta.1 | Qiick | Shared HTTP runtime for qiick Laravel products: X-Request-Id, Accept-Language /… |
+| 2026-11-27 12:44:09 | [kariricode/router](https://www.nuget.org/packages/kariricode%2Frouter) | v4.1.0 | Walmir Silva | Protocol-agnostic routing engine for PHP 8.4+: static routes in a hash map, par… |
+| 2026-11-27 12:44:11 | [kariricode/cache](https://www.nuget.org/packages/kariricode%2Fcache) | v4.1.0 | Walmir Silva | Multi-tier cache for PHP 8.4+: SIEVE eviction, XFetch probabilistic early recom… |
+| 2026-11-27 12:45:27 | [visus/module-admin-sso-login](https://www.nuget.org/packages/visus%2Fmodule-admin-sso-login) | 1.0.0 |  | Magento module providing SAML single sign-on for admin users |
+| 2026-11-27 12:47:30 | [loki-checkout/magento2-joseph-leedy-custom-fees](https://www.nuget.org/packages/loki-checkout%2Fmagento2-joseph-leedy-custom-fees) | 1.0.0 |  | Compatibility module for the JosephLeedy CustomFees module |
+| 2026-11-27 13:00:29 | [mhinspeya/module-onlineshop](https://www.nuget.org/packages/mhinspeya%2Fmodule-onlineshop) | 1.0.0 | MHinspeya | OnlineShop app webview login |
+| 2026-11-27 13:03:55 | [nsilver/laravel-click-merchant](https://www.nuget.org/packages/nsilver%2Flaravel-click-merchant) | v0.1.0 |  | Laravel integration for CLICK Merchant API |
+| 2026-11-27 13:10:51 | [neuron-core/iq-stream-php](https://www.nuget.org/packages/neuron-core%2Fiq-stream-php) | 1.0.0 | Valerio Barbera | IQ-Stream official client library for the PHP ecosystem. |
+| 2026-11-27 13:12:53 | [jonesshen/php-cs-fixer-config](https://www.nuget.org/packages/jonesshen%2Fphp-cs-fixer-config) | v1.0.0 | Jone Shen | A custom PHP CS Fixer configuration library |
 
 ## Data source
 

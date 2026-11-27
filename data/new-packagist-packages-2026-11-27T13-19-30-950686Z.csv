@@ -1,0 +1,10 @@
+created_at,package,version,author,description
+2026-11-27T12:23:01Z,qiick/laravel-http-basics,v1.0.0-beta.1,Qiick,"Shared HTTP runtime for qiick Laravel products: X-Request-Id, Accept-Language / Content-Language, security headers, and Idempotency-Key."
+2026-11-27T12:44:09Z,kariricode/router,v4.1.0,Walmir Silva,"Protocol-agnostic routing engine for PHP 8.4+: static routes in a hash map, parameterized routes in chunked PCRE with MARK verbs, typed parameter constraints, attribute and array route loading, URL generation and an OPcache-friendly compiled route table."
+2026-11-27T12:44:11Z,kariricode/cache,v4.1.0,Walmir Silva,"Multi-tier cache for PHP 8.4+: SIEVE eviction, XFetch probabilistic early recomputation, stale-while-revalidate, tag invalidation and PSR-6/PSR-16 bridges. Zero runtime dependencies."
+2026-11-27T12:45:27Z,visus/module-admin-sso-login,1.0.0,,Magento module providing SAML single sign-on for admin users
+2026-11-27T12:47:30Z,loki-checkout/magento2-joseph-leedy-custom-fees,1.0.0,,Compatibility module for the JosephLeedy CustomFees module
+2026-11-27T13:00:29Z,mhinspeya/module-onlineshop,1.0.0,MHinspeya,OnlineShop app webview login
+2026-11-27T13:03:55Z,nsilver/laravel-click-merchant,v0.1.0,,Laravel integration for CLICK Merchant API
+2026-11-27T13:10:51Z,neuron-core/iq-stream-php,1.0.0,Valerio Barbera,IQ-Stream official client library for the PHP ecosystem.
+2026-11-27T13:12:53Z,jonesshen/php-cs-fixer-config,v1.0.0,Jone Shen,A custom PHP CS Fixer configuration library
