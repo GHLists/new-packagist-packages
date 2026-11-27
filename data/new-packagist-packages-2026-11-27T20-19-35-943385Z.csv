@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-27T19:28:21Z,mphpmaster/laravel-nova-sanadwa-whatsapp,v1.0.0,mPhpMaster,"WhatsApp for Laravel and Nova: SanadWA / UltraMsg drivers, notification channel with template fallback, signed webhooks, message log, conversations, contacts and a diagnostics page. Arabic and English."
+2026-11-27T19:42:37Z,pfrenssen/drupal-sniffs,1.0.0,,PHP_CodeSniffer sniffs that align Drupal projects with the conventions of Drupal core.
+2026-11-27T19:45:20Z,lopescte/nfse-nacional-php,1.0.0,Marcelo Lopes,SDK PHP independente para integração com a NFS-e Nacional.
+2026-11-27T19:45:41Z,lopescte/bb-api-php,1.0.0,Marcelo Lopes,Integração com a API de cobrança do Banco do Brasil
+2026-11-27T20:03:12Z,kariricode/eventloop,v4.2.0,Walmir Silva,"Event loop for PHP 8.4: timers, stream readiness, signals, deferred callbacks and microtasks, fiber suspensions and cooperative cancellation, on stream_select."
+2026-11-27T20:12:03Z,lindesbs/contao-well-known-bundle,0.5,Stefan Lindecke,"Pflege und Auslieferung von /.well-known/-Endpunkten (security.txt, change-password, App-Links, eigene) pro Website-Startpunkt"

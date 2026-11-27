@@ -15,21 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 19:19 UTC
+## Latest list — 2026-11-27 20:19 UTC
 
-New packages created between 2026-11-27 18:21 UTC and 2026-11-27 19:19 UTC.
+New packages created between 2026-11-27 19:19 UTC and 2026-11-27 20:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-27T19-19-48-315994Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-27T20-19-35-943385Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-27 18:21:57 | [assetfeed/filament-ai-detector](https://www.nuget.org/packages/assetfeed%2Ffilament-ai-detector) | v0.1.0 |  | A Filament infolist entry that checks a text attribute for AI-written passages… |
-| 2026-11-27 18:43:33 | [serkannyildirim/lidio-php-sdk](https://www.nuget.org/packages/serkannyildirim%2Flidio-php-sdk) | v0.1.0 | Serkan Yıldırım | Unofficial PHP SDK for the Lidio payment API (hosted payment page, payment stat… |
-| 2026-11-27 18:47:08 | [innoboxrr/zoom-sdk](https://www.nuget.org/packages/innoboxrr%2Fzoom-sdk) | 1.0.0 | Homero Raul | Crea, consulta, actualiza y elimina reuniones de Zoom desde Laravel con la API… |
-| 2026-11-27 18:51:24 | [delivrie/delivrie-php](https://www.nuget.org/packages/delivrie%2Fdelivrie-php) | v0.1.0 | Surce Inc | The PHP SDK for Delivrie: send email, manage domains, keys, webhooks, contacts… |
-| 2026-11-27 18:55:53 | [eduardogp321/filament-mia-theme-v2](https://www.nuget.org/packages/eduardogp321%2Ffilament-mia-theme-v2) | 1.0.0 | Eduardo Palacios | A warm, editorial theme and design system for Filament PHP with live customizer. |
-| 2026-11-27 19:06:34 | [writealt/statamic-writealt](https://www.nuget.org/packages/writealt%2Fstatamic-writealt) | v0.1.0 |  | Native bulk image alt text and same-format compression for Statamic 6. |
-| 2026-11-27 19:10:25 | [kariricode/async-primitives](https://www.nuget.org/packages/kariricode%2Fasync-primitives) | v4.1.0 | Walmir Silva | Async building blocks for PHP 8.4 below the event loop: retries with backoff, r… |
+| 2026-11-27 19:28:21 | [mphpmaster/laravel-nova-sanadwa-whatsapp](https://www.nuget.org/packages/mphpmaster%2Flaravel-nova-sanadwa-whatsapp) | v1.0.0 | mPhpMaster | WhatsApp for Laravel and Nova: SanadWA / UltraMsg drivers, notification channel… |
+| 2026-11-27 19:42:37 | [pfrenssen/drupal-sniffs](https://www.nuget.org/packages/pfrenssen%2Fdrupal-sniffs) | 1.0.0 |  | PHP_CodeSniffer sniffs that align Drupal projects with the conventions of Drupa… |
+| 2026-11-27 19:45:20 | [lopescte/nfse-nacional-php](https://www.nuget.org/packages/lopescte%2Fnfse-nacional-php) | 1.0.0 | Marcelo Lopes | SDK PHP independente para integração com a NFS-e Nacional. |
+| 2026-11-27 19:45:41 | [lopescte/bb-api-php](https://www.nuget.org/packages/lopescte%2Fbb-api-php) | 1.0.0 | Marcelo Lopes | Integração com a API de cobrança do Banco do Brasil |
+| 2026-11-27 20:03:12 | [kariricode/eventloop](https://www.nuget.org/packages/kariricode%2Feventloop) | v4.2.0 | Walmir Silva | Event loop for PHP 8.4: timers, stream readiness, signals, deferred callbacks a… |
+| 2026-11-27 20:12:03 | [lindesbs/contao-well-known-bundle](https://www.nuget.org/packages/lindesbs%2Fcontao-well-known-bundle) | 0.5 | Stefan Lindecke | Pflege und Auslieferung von /.well-known/-Endpunkten (security.txt, change-pass… |
 
 ## Data source
 
