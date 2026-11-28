@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-27T23:32:47Z,hassan-razhei/entity-ai,v1.0.0,Hassan-Razhei,"Framework-agnostic Laravel AI infrastructure SDK: agents, RAG, streaming, failover, cost, audit and conversations via injectable contracts."
+2026-11-27T23:35:22Z,pantono/scheduler,1.0.1,Chris Burton,Scheduler Module for pantono
+2026-11-27T23:48:40Z,maniaba/shield-ldap,v1.0.0,,LDAP and Active Directory authentication for CodeIgniter Shield
+2026-11-28T00:14:41Z,uxf/mailing,3.91.1,UXF,"React Email rendering for Symfony Mailer: ReactEmail base class, node renderer, preview endpoints and TypeScript typegen"

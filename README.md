@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 23:20 UTC
+## Latest list — 2026-11-28 00:20 UTC
 
-New packages created between 2026-11-27 22:20 UTC and 2026-11-27 23:20 UTC.
+New packages created between 2026-11-27 23:20 UTC and 2026-11-28 00:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-27T23-20-35-320151Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-28T00-20-11-960988Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-27 22:27:28 | [b4n1/b4n1-audit](https://www.nuget.org/packages/b4n1%2Fb4n1-audit) | v0.1.6 | Bani Montoya | Sovereign security audit - static analysis engine |
-| 2026-11-27 22:32:56 | [neo-digital/contao-indexnow-bundle](https://www.nuget.org/packages/neo-digital%2Fcontao-indexnow-bundle) | v1.0.0 | NEO Digital | IndexNow for Contao 5: tells Bing, Yandex, Seznam, Naver and Yep within minutes… |
-| 2026-11-27 22:38:10 | [debuss-a/piccolo-database](https://www.nuget.org/packages/debuss-a%2Fpiccolo-database) | 0.1.0 | Alexandre Debusschère | Database access through stored procedures only for Piccolo: a class per procedu… |
+| 2026-11-27 23:32:47 | [hassan-razhei/entity-ai](https://www.nuget.org/packages/hassan-razhei%2Fentity-ai) | v1.0.0 | Hassan-Razhei | Framework-agnostic Laravel AI infrastructure SDK: agents, RAG, streaming, failo… |
+| 2026-11-27 23:35:22 | [pantono/scheduler](https://www.nuget.org/packages/pantono%2Fscheduler) | 1.0.1 | Chris Burton | Scheduler Module for pantono |
+| 2026-11-27 23:48:40 | [maniaba/shield-ldap](https://www.nuget.org/packages/maniaba%2Fshield-ldap) | v1.0.0 |  | LDAP and Active Directory authentication for CodeIgniter Shield |
+| 2026-11-28 00:14:41 | [uxf/mailing](https://www.nuget.org/packages/uxf%2Fmailing) | 3.91.1 | UXF | React Email rendering for Symfony Mailer: ReactEmail base class, node renderer,… |
 
 ## Data source
 
