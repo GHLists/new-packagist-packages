@@ -1,0 +1,2 @@
+created_at,package,version,author,description
+2026-11-28T09:48:01Z,studio-variable/kirby-history,v0.1.0,Studio Variable,"A Panel area listing every page by last edit: who edited it, when, its template and status, sortable and filterable"

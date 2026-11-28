@@ -15,18 +15,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 09:19 UTC
+## Latest list — 2026-11-28 10:21 UTC
 
-New packages created between 2026-11-28 08:19 UTC and 2026-11-28 09:19 UTC.
+New packages created between 2026-11-28 09:19 UTC and 2026-11-28 10:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-28T09-19-43-358023Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-28T10-21-43-486471Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-28 08:22:32 | [reportdesigner/reportdesigner](https://www.nuget.org/packages/reportdesigner%2Freportdesigner) | v0.5.0 | Ariful Alam | ReportDesigner engine for PHP (Laravel, CodeIgniter, Symfony, plain PHP): JSON… |
-| 2026-11-28 08:35:42 | [szgyds/gy-cron](https://www.nuget.org/packages/szgyds%2Fgy-cron) | v1.1.0 | szgyds | Hyperf 2.2 / 3.1 / 3.2 跨版本分布式定时任务组件：Scheduler 主动调度，Worker 注解声明任务，JSON-RPC 同步执行。 |
-| 2026-11-28 08:59:56 | [nr/scheduledpageactions](https://www.nuget.org/packages/nr%2Fscheduledpageactions) | 1.0.4 | Neue Rituale | Schedule actions like publish, unpublish or hide for ProcessWire pages |
-| 2026-11-28 09:04:27 | [lyrasoft/agents](https://www.nuget.org/packages/lyrasoft%2Fagents) | 0.1.0 |  | Agents package for Windwalker. |
+| 2026-11-28 09:48:01 | [studio-variable/kirby-history](https://www.nuget.org/packages/studio-variable%2Fkirby-history) | v0.1.0 | Studio Variable | A Panel area listing every page by last edit: who edited it, when, its template… |
 
 ## Data source
 
