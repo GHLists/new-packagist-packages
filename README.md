@@ -15,18 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 00:20 UTC
+## Latest list — 2026-11-28 01:19 UTC
 
-New packages created between 2026-11-27 23:20 UTC and 2026-11-28 00:20 UTC.
+New packages created between 2026-11-28 00:20 UTC and 2026-11-28 01:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-28T00-20-11-960988Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-28T01-19-57-281509Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-27 23:32:47 | [hassan-razhei/entity-ai](https://www.nuget.org/packages/hassan-razhei%2Fentity-ai) | v1.0.0 | Hassan-Razhei | Framework-agnostic Laravel AI infrastructure SDK: agents, RAG, streaming, failo… |
-| 2026-11-27 23:35:22 | [pantono/scheduler](https://www.nuget.org/packages/pantono%2Fscheduler) | 1.0.1 | Chris Burton | Scheduler Module for pantono |
-| 2026-11-27 23:48:40 | [maniaba/shield-ldap](https://www.nuget.org/packages/maniaba%2Fshield-ldap) | v1.0.0 |  | LDAP and Active Directory authentication for CodeIgniter Shield |
-| 2026-11-28 00:14:41 | [uxf/mailing](https://www.nuget.org/packages/uxf%2Fmailing) | 3.91.1 | UXF | React Email rendering for Symfony Mailer: ReactEmail base class, node renderer,… |
+| 2026-11-28 00:28:49 | [pierdolabs/codice-fiscale](https://www.nuget.org/packages/pierdolabs%2Fcodice-fiscale) | v1.0.1 | Pierdomenico Guarnieri | Generazione, validazione e decodifica del codice fiscale italiano, con archivio… |
+| 2026-11-28 00:35:20 | [pierdolabs/codice-fiscale-names](https://www.nuget.org/packages/pierdolabs%2Fcodice-fiscale-names) | v1.0.1 | Pierdomenico Guarnieri | Dizionario di nomi e cognomi per paese e provincia italiana (Wikidata + statist… |
 
 ## Data source
 

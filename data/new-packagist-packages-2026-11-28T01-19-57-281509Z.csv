@@ -1,0 +1,3 @@
+created_at,package,version,author,description
+2026-11-28T00:28:49Z,pierdolabs/codice-fiscale,v1.0.1,Pierdomenico Guarnieri,"Generazione, validazione e decodifica del codice fiscale italiano, con archivio storico di comuni e stati esteri. PHP puro, zero dipendenze."
+2026-11-28T00:35:20Z,pierdolabs/codice-fiscale-names,v1.0.1,Pierdomenico Guarnieri,"Dizionario di nomi e cognomi per paese e provincia italiana (Wikidata + statistiche ufficiali), usato da pierdolabs/codice-fiscale per CodiceFiscale::suggestNames()."
