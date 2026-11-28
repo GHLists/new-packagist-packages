@@ -1,0 +1,14 @@
+created_at,package,version,author,description
+2026-11-28T15:24:12Z,danilovl/phpstan-rules,v0.0.2,Vladimir Danilov,"Custom PHPStan rules shared by danilovl packages: no array shapes, no call chains as arguments, test method order and others"
+2026-11-28T15:26:09Z,fiberphp/tracing,v0.1.0,PangBin,🔗 FiberPHP 链路追踪 —— 基于 Zipkin，覆盖 HTTP 与数据库查询，支持 trace_id/span_id 自动传播。
+2026-11-28T15:28:04Z,anprsoftware/laravel-sdk,v1.0.0,,Laravel SDK for ANPR.Software — automatic number plate recognition API
+2026-11-28T15:36:16Z,egensolve/realtime-events,0.2.0,,"Realtime Events protocol validation, channel authorization and publication for PHP."
+2026-11-28T15:37:48Z,clavia/authzen,v0.1.0,Julien Guittard,An OpenID AuthZEN 1.0 client on PSR-18 and a PSR-15 middleware that enforces its decisions
+2026-11-28T15:38:50Z,danilovl/sqids-bundle,v0.0.1,Vladimir Danilov,Symfony bundle provides integrates sqids
+2026-11-28T15:47:53Z,egensolve/realtime-events-laravel,0.2.0,,Transactional Laravel outbox for Realtime Events.
+2026-11-28T15:52:21Z,webpatser/livewire-gate,v1.0.0,Christoph Kempen,"Captcha gate for Livewire and Blade: check first, then show the form. Turnstile, hCaptcha, reCAPTCHA, Friendly Captcha, Altcha"
+2026-11-28T15:58:05Z,ernestdefoe/postcards,1.0.0,Ernest Defoe,"Postcards: the discussion list as cards. The first picture or video of each discussion on the front, the author's avatar over it, an excerpt and the counts below. Grid, masonry or wide, per tag, with uploaded tag covers and a built-in view counter."
+2026-11-28T16:07:19Z,ernestdefoe/astrolabe,1.0.0,Ernest Defoe,"Astrolabe: show the whole forum in another calendar and in native numerals. Persian (Jalali), Hijri, Hebrew, Japanese or Buddhist dates and Persian, Arabic, Bengali or Devanagari digits on every date, relative time, count and date picker, for core and every extension, with user posts left untouched…"
+2026-11-28T16:07:59Z,egensolve/cloud-sdk-http,0.2.0,,Shared HTTP transport for Egensolve Cloud PHP SDKs.
+2026-11-28T16:08:08Z,egensolve/media,0.2.0,,Egensolve Media Storage client for PHP
+2026-11-28T16:08:17Z,egensolve/artifacts,0.2.0,,Egensolve Artifact Storage client for PHP
