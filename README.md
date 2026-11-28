@@ -15,20 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 12:20 UTC
+## Latest list — 2026-11-28 13:19 UTC
 
-New packages created between 2026-11-28 11:20 UTC and 2026-11-28 12:20 UTC.
+New packages created between 2026-11-28 12:20 UTC and 2026-11-28 13:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-28T12-20-56-125132Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-28T13-19-58-21063Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-28 11:22:27 | [personyze/personyze](https://www.nuget.org/packages/personyze%2Fpersonyze) | v1.2.0 | Personyze | Server-side personalization and A/B testing with Personyze. One endpoint, no ru… |
-| 2026-11-28 11:22:29 | [certles/filament-maps](https://www.nuget.org/packages/certles%2Ffilament-maps) | v1.0.0 |  | Reliable map fields for Filament: location picker with address search, GeoJSON… |
-| 2026-11-28 11:36:15 | [baseos/connect-laravel](https://www.nuget.org/packages/baseos%2Fconnect-laravel) | 1.0.0 | BaseOS | BaseOS Connect for Laravel — one-command pairing, HMAC receiver, Eloquent publi… |
-| 2026-11-28 11:58:48 | [pkc/sms-gateway](https://www.nuget.org/packages/pkc%2Fsms-gateway) | v1.0.0 | pkc | A multi-provider SMS gateway integration package for Laravel. |
-| 2026-11-28 12:00:28 | [sec/promotionimage](https://www.nuget.org/packages/sec%2Fpromotionimage) | 1.0.4 | Stefan Eik Christiansen | Add an image to Shopware promotions and display it in cart and checkout line it… |
-| 2026-11-28 12:13:50 | [klsoft/auth-session](https://www.nuget.org/packages/klsoft%2Fauth-session) | 1.0.0 |  | Session based authentication |
+| 2026-11-28 12:24:12 | [mignuti/contao-trackd-analytics](https://www.nuget.org/packages/mignuti%2Fcontao-trackd-analytics) | 1.0.1 | Mignuti Media | trackd.one for Contao - cookieless, privacy-friendly analytics. Adds the trackd… |
+| 2026-11-28 12:56:30 | [jaizendra-netizen/cold-email-subject-lint](https://www.nuget.org/packages/jaizendra-netizen%2Fcold-email-subject-lint) | v1.0.0 | OneGTMLab | PHP CLI and library that lints a cold email subject line: length, ALL CAPS, rep… |
+| 2026-11-28 12:56:42 | [jaizendra-netizen/average-contract-value-calc](https://www.nuget.org/packages/jaizendra-netizen%2Faverage-contract-value-calc) | v1.0.0 | OneGTMLab | PHP CLI and library: average contract value (mean and median) from a contracts… |
+| 2026-11-28 13:05:59 | [klsoft/auth-session](https://www.nuget.org/packages/klsoft%2Fauth-session) | 1.0.0 |  | Session based authentication |
+| 2026-11-28 13:15:53 | [aldinokemal/gowa-sdk-php](https://www.nuget.org/packages/aldinokemal%2Fgowa-sdk-php) | v9.11.0 | OpenAPI | This API is used for sending whatsapp via API. The web dashboard is a separate… |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-28T12:24:12Z,mignuti/contao-trackd-analytics,1.0.1,Mignuti Media,"trackd.one for Contao - cookieless, privacy-friendly analytics. Adds the trackd.one script to every page of a website root, configured in the site structure."
+2026-11-28T12:56:30Z,jaizendra-netizen/cold-email-subject-lint,v1.0.0,OneGTMLab,"PHP CLI and library that lints a cold email subject line: length, ALL CAPS, repeated punctuation, spam-trigger phrases, fake Re: prefixes and unfilled merge fields."
+2026-11-28T12:56:42Z,jaizendra-netizen/average-contract-value-calc,v1.0.0,OneGTMLab,"PHP CLI and library: average contract value (mean and median) from a contracts CSV, overall and by segment, with multi-year deals normalised to a yearly figure."
+2026-11-28T13:05:59Z,klsoft/auth-session,1.0.0,,Session based authentication
+2026-11-28T13:15:53Z,aldinokemal/gowa-sdk-php,v9.11.0,OpenAPI,This API is used for sending whatsapp via API. The web dashboard is a separate project (gowa-ui); the server downloads its latest release asset and serves it at `/` (or returns a JSON banner when APP_UI_ENABLED=false). Device scoping: - Send `X-Device-Id` on all device-scoped REST calls. - WebSocke…
