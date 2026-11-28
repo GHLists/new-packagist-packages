@@ -15,24 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 14:21 UTC
+## Latest list — 2026-11-28 15:22 UTC
 
-New packages created between 2026-11-28 13:19 UTC and 2026-11-28 14:21 UTC.
+New packages created between 2026-11-28 14:21 UTC and 2026-11-28 15:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-28T14-21-51-923018Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-28T15-22-04-109314Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-28 13:36:04 | [jaizendra-netizen/lead-source-conversion-report](https://www.nuget.org/packages/jaizendra-netizen%2Flead-source-conversion-report) | v1.0.0 | OneGTMLab | PHP CLI and library: funnel conversion by lead source from a CSV of leads and t… |
-| 2026-11-28 13:36:16 | [jaizendra-netizen/sdr-activity-report](https://www.nuget.org/packages/jaizendra-netizen%2Fsdr-activity-report) | v1.0.0 | OneGTMLab | PHP CLI and library: activity report per sales development rep from a CSV of lo… |
-| 2026-11-28 13:51:12 | [saascity/typo3-ai-robots](https://www.nuget.org/packages/saascity%2Ftypo3-ai-robots) | v1.0.0 | SaaSCity | TYPO3 CMS extension that serves clean, configurable AI crawler robots.txt direc… |
-| 2026-11-28 13:51:16 | [saascity/contao-ai-robots-bundle](https://www.nuget.org/packages/saascity%2Fcontao-ai-robots-bundle) | v1.0.0 | SaaSCity | Contao CMS 5 bundle hooking contao.robots_txt to manage AI search and training… |
-| 2026-11-28 13:51:20 | [saascity/mautic-ai-robots-bundle](https://www.nuget.org/packages/saascity%2Fmautic-ai-robots-bundle) | v1.0.0 | SaaSCity | Mautic 5 marketing automation plugin serving clean AI crawler robots.txt direct… |
-| 2026-11-28 13:51:23 | [saascity/neos-ai-robots](https://www.nuget.org/packages/saascity%2Fneos-ai-robots) | v1.0.0 | SaaSCity | Neos CMS 8/9 package providing configurable AI crawler robots.txt generation an… |
-| 2026-11-28 13:51:27 | [saascity/bolt-ai-robots](https://www.nuget.org/packages/saascity%2Fbolt-ai-robots) | v1.0.0 | SaaSCity | Bolt CMS 5 extension that generates and serves clean AI crawler robots.txt dire… |
-| 2026-11-28 13:59:35 | [klsoft/auth-session](https://www.nuget.org/packages/klsoft%2Fauth-session) | 1.0.0 |  | Session based authentication |
-| 2026-11-28 14:03:58 | [sec/cms-element-css-class](https://www.nuget.org/packages/sec%2Fcms-element-css-class) | 1.0.1 | Stefan Eik Christiansen | Adds CSS classes and HTML attributes to CMS elements. |
-| 2026-11-28 14:06:05 | [bugo/scss-parser](https://www.nuget.org/packages/bugo%2Fscss-parser) | 0.1 | Bugo | Standalone SCSS, Sass and CSS syntax parser |
+| 2026-11-28 14:29:18 | [knvillena/laravel-sibling-cookies](https://www.nuget.org/packages/knvillena%2Flaravel-sibling-cookies) | v1.0.1 | knvillena | Per-app XSRF and remember-me cookie names for Laravel apps that share a parent… |
+| 2026-11-28 14:34:28 | [philipschlender/http-php](https://www.nuget.org/packages/philipschlender%2Fhttp-php) | 1.0.0 | Philip Schlender | Http |
+| 2026-11-28 14:49:12 | [klsoft/yii3-doctrine-app](https://www.nuget.org/packages/klsoft%2Fyii3-doctrine-app) | 1.0.0 |  | A Yii 3 web application template that supports the Doctrine ORM |
+| 2026-11-28 15:15:24 | [fiberphp/lock](https://www.nuget.org/packages/fiberphp%2Flock) | v0.1.0 | PangBin | 🔒 FiberPHP 分布式锁组件 —— 基于 Redis 的分布式锁实现，支持自动续期、阻塞等待、可扩展驱动，协程安全。 |
 
 ## Data source
 

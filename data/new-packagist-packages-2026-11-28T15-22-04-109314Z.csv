@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-28T14:29:18Z,knvillena/laravel-sibling-cookies,v1.0.1,knvillena,"Per-app XSRF and remember-me cookie names for Laravel apps that share a parent cookie domain, plus a setup checker."
+2026-11-28T14:34:28Z,philipschlender/http-php,1.0.0,Philip Schlender,Http
+2026-11-28T14:49:12Z,klsoft/yii3-doctrine-app,1.0.0,,A Yii 3 web application template that supports the Doctrine ORM
+2026-11-28T15:15:24Z,fiberphp/lock,v0.1.0,PangBin,🔒 FiberPHP 分布式锁组件 —— 基于 Redis 的分布式锁实现，支持自动续期、阻塞等待、可扩展驱动，协程安全。
