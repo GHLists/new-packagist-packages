@@ -1,0 +1,8 @@
+created_at,package,version,author,description
+2026-11-28T16:34:49Z,egensolve/intelligence,0.2.0,,Egensolve Intelligence client for PHP
+2026-11-28T16:45:32Z,altlimit/altengine,v0.1.0,altlimit,"Official PHP SDK for altengine - managed datastore, search, and realtime channels"
+2026-11-28T16:50:06Z,growtask/simflex-file-manager,v1.0.0,pf; Denis Glushkov; Arseniy Kosobryuhov; Andrey Timofeevich,"Файловый менеджер для PHP-сайтов: окно выбора и управления файлами каталога загрузок, JSON API, сжатие картинок и видео"
+2026-11-28T16:50:06Z,simflex/file-manager,v1.0.0,pf; Denis Glushkov; Arseniy Kosobryuhov; Andrey Timofeevich,"Файловый менеджер для PHP-сайтов: окно выбора и управления файлами каталога загрузок, JSON API, сжатие картинок и видео"
+2026-11-28T17:04:16Z,ernestdefoe/callboard,1.0.0,Ernest Defoe,"Callboard: a light sticky-note board where members post collaboration calls (looking for collaborators, offering their skills, looking for a specialist, project opportunities), tag the skills, and answer with a private ""I'm interested""."
+2026-11-28T17:05:42Z,ernestdefoe/mayfly,1.0.0,Ernest Defoe,"Disappearing messages for Flarum's Messages: a timer for each conversation, counted from sending or from reading, with a live countdown and a fade-out."
+2026-11-28T17:06:30Z,ernestdefoe/livery,1.0.0,Ernest Defoe,"Colors for every Flarum tag: generate a palette for all of them at once, readable text on every color, and dark-mode colors, with a preview and undo."
