@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-28T08:22:32Z,reportdesigner/reportdesigner,v0.5.0,Ariful Alam,"ReportDesigner engine for PHP (Laravel, CodeIgniter, Symfony, plain PHP): JSON report + data to HTML/PDF. Native Rust core via ext-ffi."
+2026-11-28T08:35:42Z,szgyds/gy-cron,v1.1.0,szgyds,Hyperf 2.2 / 3.1 / 3.2 跨版本分布式定时任务组件：Scheduler 主动调度，Worker 注解声明任务，JSON-RPC 同步执行。
+2026-11-28T08:59:56Z,nr/scheduledpageactions,1.0.4,Neue Rituale,"Schedule actions like publish, unpublish or hide for ProcessWire pages"
+2026-11-28T09:04:27Z,lyrasoft/agents,0.1.0,,Agents package for Windwalker.

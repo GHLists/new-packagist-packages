@@ -15,16 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 06:19 UTC
+## Latest list — 2026-11-28 09:19 UTC
 
-New packages created between 2026-11-28 05:22 UTC and 2026-11-28 06:19 UTC.
+New packages created between 2026-11-28 08:19 UTC and 2026-11-28 09:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-28T06-19-59-877966Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-28T09-19-43-358023Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-28 05:39:46 | [droplopay/droplopay-php](https://www.nuget.org/packages/droplopay%2Fdroplopay-php) | v1.0.0 |  | Official PHP SDK for DroploPay payment gateway (bKash, Nagad, Rocket, bank). |
-| 2026-11-28 06:06:18 | [droplopay/droplopay-laravel](https://www.nuget.org/packages/droplopay%2Fdroplopay-laravel) | v1.0.0 |  | Official Laravel package for DroploPay payment gateway (bKash, Nagad, Rocket, b… |
+| 2026-11-28 08:22:32 | [reportdesigner/reportdesigner](https://www.nuget.org/packages/reportdesigner%2Freportdesigner) | v0.5.0 | Ariful Alam | ReportDesigner engine for PHP (Laravel, CodeIgniter, Symfony, plain PHP): JSON… |
+| 2026-11-28 08:35:42 | [szgyds/gy-cron](https://www.nuget.org/packages/szgyds%2Fgy-cron) | v1.1.0 | szgyds | Hyperf 2.2 / 3.1 / 3.2 跨版本分布式定时任务组件：Scheduler 主动调度，Worker 注解声明任务，JSON-RPC 同步执行。 |
+| 2026-11-28 08:59:56 | [nr/scheduledpageactions](https://www.nuget.org/packages/nr%2Fscheduledpageactions) | 1.0.4 | Neue Rituale | Schedule actions like publish, unpublish or hide for ProcessWire pages |
+| 2026-11-28 09:04:27 | [lyrasoft/agents](https://www.nuget.org/packages/lyrasoft%2Fagents) | 0.1.0 |  | Agents package for Windwalker. |
 
 ## Data source
 
