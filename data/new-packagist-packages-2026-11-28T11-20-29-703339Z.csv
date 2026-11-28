@@ -1,0 +1,6 @@
+created_at,package,version,author,description
+2026-11-28T10:48:25Z,mignuti/typo3-trackd-analytics,v1.1.2,Mignuti Media,"trackd.one Analytics - Cookieless, privacy-friendly web analytics for TYPO3 (no cookies, no local storage, no fingerprinting, EU-hosted). Adds the trackd.one tracking script via a site set or static TypoScript template."
+2026-11-28T10:51:27Z,fanzly/whatsapp,v1.0.1,Fanzly SDK,"Professional PHP & Laravel package for Fanzly.net WhatsApp Messaging, Campaigns, and OTP Verification API with a bilingual single-page UI and registration shortcodes."
+2026-11-28T11:10:20Z,sec/ip2location,1.0.8,Stefan Eik Christiansen,IP-based CMS content visibility.
+2026-11-28T11:16:05Z,carrier/app,v0.2.0,Helge Sverre,A new bulletin board system on Carrier.
+2026-11-28T11:16:05Z,carrier/framework,v0.2.0,Helge Sverre,"A framework for building telnet, SSH and web bulletin board systems, on Tempest and Amp."

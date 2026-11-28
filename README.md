@@ -15,15 +15,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 10:21 UTC
+## Latest list — 2026-11-28 11:20 UTC
 
-New packages created between 2026-11-28 09:19 UTC and 2026-11-28 10:21 UTC.
+New packages created between 2026-11-28 10:21 UTC and 2026-11-28 11:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-28T10-21-43-486471Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-28T11-20-29-703339Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-28 09:48:01 | [studio-variable/kirby-history](https://www.nuget.org/packages/studio-variable%2Fkirby-history) | v0.1.0 | Studio Variable | A Panel area listing every page by last edit: who edited it, when, its template… |
+| 2026-11-28 10:48:25 | [mignuti/typo3-trackd-analytics](https://www.nuget.org/packages/mignuti%2Ftypo3-trackd-analytics) | v1.1.2 | Mignuti Media | trackd.one Analytics - Cookieless, privacy-friendly web analytics for TYPO3 (no… |
+| 2026-11-28 10:51:27 | [fanzly/whatsapp](https://www.nuget.org/packages/fanzly%2Fwhatsapp) | v1.0.1 | Fanzly SDK | Professional PHP & Laravel package for Fanzly.net WhatsApp Messaging, Campaigns… |
+| 2026-11-28 11:10:20 | [sec/ip2location](https://www.nuget.org/packages/sec%2Fip2location) | 1.0.8 | Stefan Eik Christiansen | IP-based CMS content visibility. |
+| 2026-11-28 11:16:05 | [carrier/app](https://www.nuget.org/packages/carrier%2Fapp) | v0.2.0 | Helge Sverre | A new bulletin board system on Carrier. |
+| 2026-11-28 11:16:05 | [carrier/framework](https://www.nuget.org/packages/carrier%2Fframework) | v0.2.0 | Helge Sverre | A framework for building telnet, SSH and web bulletin board systems, on Tempest… |
 
 ## Data source
 
