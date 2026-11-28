@@ -15,17 +15,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 02:21 UTC
+## Latest list — 2026-11-28 03:20 UTC
 
-New packages created between 2026-11-28 01:19 UTC and 2026-11-28 02:21 UTC.
+New packages created between 2026-11-28 02:21 UTC and 2026-11-28 03:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-28T02-21-20-957792Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-28T03-20-57-66993Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-28 01:21:03 | [szgyds/gy-cron](https://www.nuget.org/packages/szgyds%2Fgy-cron) | v1.0.0 | szgyds | Hyperf 2.2 / 3.1 跨版本分布式定时任务组件：Scheduler 主动调度，Worker 注解声明任务，JSON-RPC 同步执行。 |
-| 2026-11-28 01:28:08 | [cipi/cache](https://www.nuget.org/packages/cipi%2Fcache) | 1.0.0 |  | Purge pages of Cipi's nginx page cache from any PHP app — by path, prefix, URL… |
-| 2026-11-28 02:09:38 | [denetorus/galaxy-logging](https://www.nuget.org/packages/denetorus%2Fgalaxy-logging) | v0.1.0 |  | Standalone structured logging with optional GalaxyApplication lifecycle stages. |
+| 2026-11-28 02:21:33 | [se7enxweb/exppaystack](https://www.nuget.org/packages/se7enxweb%2Fexppaystack) | v0.0.0.1 | 7x | Paystack payment gateway for the Exponential shop: inline Paystack checkout (ca… |
+| 2026-11-28 02:31:03 | [diepxuan/laravel-catalog](https://www.nuget.org/packages/diepxuan%2Flaravel-catalog) | 2.9.9 | Tran Ngoc Duc | Catalog package for DXPanel |
+| 2026-11-28 02:41:26 | [jonesshen/php-cs-fixer-config](https://www.nuget.org/packages/jonesshen%2Fphp-cs-fixer-config) | v1.0.0 | Jone Shen | A custom PHP CS Fixer configuration library |
+| 2026-11-28 02:45:42 | [jaizendra-netizen/email-verify-pack-quote](https://www.nuget.org/packages/jaizendra-netizen%2Femail-verify-pack-quote) | v1.0.0 | Jainendra Ojha | PHP CLI that prices an email verification job on MillionVerifier packs or ZeroB… |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,author,description
+2026-11-28T02:21:33Z,se7enxweb/exppaystack,v0.0.0.1,7x,"Paystack payment gateway for the Exponential shop: inline Paystack checkout (cards, M-Pesa mobile money) as a kernel payment gateway of the shop/checkout payment workflow, with server-side verification on the callback, a signed webhook, and KES/USD and every other Paystack currency."
+2026-11-28T02:31:03Z,diepxuan/laravel-catalog,2.9.9,Tran Ngoc Duc,Catalog package for DXPanel
+2026-11-28T02:41:26Z,jonesshen/php-cs-fixer-config,v1.0.0,Jone Shen,A custom PHP CS Fixer configuration library
+2026-11-28T02:45:42Z,jaizendra-netizen/email-verify-pack-quote,v1.0.0,Jainendra Ojha,"PHP CLI that prices an email verification job on MillionVerifier packs or ZeroBounce packs and ZeroBounce ONE plans, from the published rules on the OneGTMLab comparison page. No dependencies."
