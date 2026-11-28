@@ -15,17 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 04:19 UTC
+## Latest list — 2026-11-28 05:22 UTC
 
-New packages created between 2026-11-28 03:20 UTC and 2026-11-28 04:19 UTC.
+New packages created between 2026-11-28 04:19 UTC and 2026-11-28 05:22 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-28T04-19-46-486977Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-28T05-22-30-542382Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-28 03:28:22 | [jaizendra-netizen/saleshandy-smartlead-plan-quote](https://www.nuget.org/packages/jaizendra-netizen%2Fsaleshandy-smartlead-plan-quote) | v1.0.0 | Jainendra Ojha | PHP CLI that picks the cheapest Saleshandy plan beside the cheapest Smartlead p… |
-| 2026-11-28 03:37:51 | [hotroso/reactphp-device-bridge](https://www.nuget.org/packages/hotroso%2Freactphp-device-bridge) | v1.0.0 | Hotroso | Asynchronous, event-driven TCP socket and HTTP device bridge library built on R… |
-| 2026-11-28 04:04:39 | [szgyds/gy-cron](https://www.nuget.org/packages/szgyds%2Fgy-cron) | v1.0.3 | szgyds | Hyperf 2.2 / 3.1 / 3.2 跨版本分布式定时任务组件：Scheduler 主动调度，Worker 注解声明任务，JSON-RPC 同步执行。 |
+| 2026-11-28 04:46:44 | [firstlightui/custom-tabs](https://www.nuget.org/packages/firstlightui%2Fcustom-tabs) | v1.0.0 |  | Let people choose and reorder the tabs of your NativePHP Mobile app, within the… |
+| 2026-11-28 04:50:58 | [agentisend/craft](https://www.nuget.org/packages/agentisend%2Fcraft) | v1.0.0 | AgentiSend | Craft CMS mail adapter that posts each message to POST /emails. |
 
 ## Data source
 
