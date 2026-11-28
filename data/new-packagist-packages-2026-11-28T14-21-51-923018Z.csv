@@ -1,0 +1,11 @@
+created_at,package,version,author,description
+2026-11-28T13:36:04Z,jaizendra-netizen/lead-source-conversion-report,v1.0.0,OneGTMLab,"PHP CLI and library: funnel conversion by lead source from a CSV of leads and their furthest stage (lead, MQL, SQL, won)."
+2026-11-28T13:36:16Z,jaizendra-netizen/sdr-activity-report,v1.0.0,OneGTMLab,"PHP CLI and library: activity report per sales development rep from a CSV of logged calls, emails, LinkedIn touches and meetings, with totals, daily averages and the channel mix."
+2026-11-28T13:51:12Z,saascity/typo3-ai-robots,v1.0.0,SaaSCity,"TYPO3 CMS extension that serves clean, configurable AI crawler robots.txt directives for GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot, and other LLM agents."
+2026-11-28T13:51:16Z,saascity/contao-ai-robots-bundle,v1.0.0,SaaSCity,"Contao CMS 5 bundle hooking contao.robots_txt to manage AI search and training crawler directives (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot)."
+2026-11-28T13:51:20Z,saascity/mautic-ai-robots-bundle,v1.0.0,SaaSCity,"Mautic 5 marketing automation plugin serving clean AI crawler robots.txt directives (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot) while safeguarding admin and tracking routes."
+2026-11-28T13:51:23Z,saascity/neos-ai-robots,v1.0.0,SaaSCity,"Neos CMS 8/9 package providing configurable AI crawler robots.txt generation and PSR-15 Flow HTTP middleware (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot)."
+2026-11-28T13:51:27Z,saascity/bolt-ai-robots,v1.0.0,SaaSCity,"Bolt CMS 5 extension that generates and serves clean AI crawler robots.txt directives (GPTBot, OAI-SearchBot, ClaudeBot, PerplexityBot) with YAML preset configuration."
+2026-11-28T13:59:35Z,klsoft/auth-session,1.0.0,,Session based authentication
+2026-11-28T14:03:58Z,sec/cms-element-css-class,1.0.1,Stefan Eik Christiansen,Adds CSS classes and HTML attributes to CMS elements.
+2026-11-28T14:06:05Z,bugo/scss-parser,0.1,Bugo,"Standalone SCSS, Sass and CSS syntax parser"
