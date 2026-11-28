@@ -15,16 +15,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 05:22 UTC
+## Latest list — 2026-11-28 06:19 UTC
 
-New packages created between 2026-11-28 04:19 UTC and 2026-11-28 05:22 UTC.
+New packages created between 2026-11-28 05:22 UTC and 2026-11-28 06:19 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-28T05-22-30-542382Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-28T06-19-59-877966Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-28 04:46:44 | [firstlightui/custom-tabs](https://www.nuget.org/packages/firstlightui%2Fcustom-tabs) | v1.0.0 |  | Let people choose and reorder the tabs of your NativePHP Mobile app, within the… |
-| 2026-11-28 04:50:58 | [agentisend/craft](https://www.nuget.org/packages/agentisend%2Fcraft) | v1.0.0 | AgentiSend | Craft CMS mail adapter that posts each message to POST /emails. |
+| 2026-11-28 05:39:46 | [droplopay/droplopay-php](https://www.nuget.org/packages/droplopay%2Fdroplopay-php) | v1.0.0 |  | Official PHP SDK for DroploPay payment gateway (bKash, Nagad, Rocket, bank). |
+| 2026-11-28 06:06:18 | [droplopay/droplopay-laravel](https://www.nuget.org/packages/droplopay%2Fdroplopay-laravel) | v1.0.0 |  | Official Laravel package for DroploPay payment gateway (bKash, Nagad, Rocket, b… |
 
 ## Data source
 
