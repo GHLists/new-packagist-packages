@@ -1,0 +1,7 @@
+created_at,package,version,author,description
+2026-11-28T11:22:27Z,personyze/personyze,v1.2.0,Personyze,"Server-side personalization and A/B testing with Personyze. One endpoint, no runtime dependencies."
+2026-11-28T11:22:29Z,certles/filament-maps,v1.0.0,,"Reliable map fields for Filament: location picker with address search, GeoJSON drawing, table column and infolist entries that work in tabs, repeaters, modals and SPA mode."
+2026-11-28T11:36:15Z,baseos/connect-laravel,1.0.0,BaseOS,"BaseOS Connect for Laravel — one-command pairing, HMAC receiver, Eloquent publisher."
+2026-11-28T11:58:48Z,pkc/sms-gateway,v1.0.0,pkc,A multi-provider SMS gateway integration package for Laravel.
+2026-11-28T12:00:28Z,sec/promotionimage,1.0.4,Stefan Eik Christiansen,Add an image to Shopware promotions and display it in cart and checkout line items.
+2026-11-28T12:13:50Z,klsoft/auth-session,1.0.0,,Session based authentication

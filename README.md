@@ -15,19 +15,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 11:20 UTC
+## Latest list — 2026-11-28 12:20 UTC
 
-New packages created between 2026-11-28 10:21 UTC and 2026-11-28 11:20 UTC.
+New packages created between 2026-11-28 11:20 UTC and 2026-11-28 12:20 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-28T11-20-29-703339Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-28T12-20-56-125132Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-28 10:48:25 | [mignuti/typo3-trackd-analytics](https://www.nuget.org/packages/mignuti%2Ftypo3-trackd-analytics) | v1.1.2 | Mignuti Media | trackd.one Analytics - Cookieless, privacy-friendly web analytics for TYPO3 (no… |
-| 2026-11-28 10:51:27 | [fanzly/whatsapp](https://www.nuget.org/packages/fanzly%2Fwhatsapp) | v1.0.1 | Fanzly SDK | Professional PHP & Laravel package for Fanzly.net WhatsApp Messaging, Campaigns… |
-| 2026-11-28 11:10:20 | [sec/ip2location](https://www.nuget.org/packages/sec%2Fip2location) | 1.0.8 | Stefan Eik Christiansen | IP-based CMS content visibility. |
-| 2026-11-28 11:16:05 | [carrier/app](https://www.nuget.org/packages/carrier%2Fapp) | v0.2.0 | Helge Sverre | A new bulletin board system on Carrier. |
-| 2026-11-28 11:16:05 | [carrier/framework](https://www.nuget.org/packages/carrier%2Fframework) | v0.2.0 | Helge Sverre | A framework for building telnet, SSH and web bulletin board systems, on Tempest… |
+| 2026-11-28 11:22:27 | [personyze/personyze](https://www.nuget.org/packages/personyze%2Fpersonyze) | v1.2.0 | Personyze | Server-side personalization and A/B testing with Personyze. One endpoint, no ru… |
+| 2026-11-28 11:22:29 | [certles/filament-maps](https://www.nuget.org/packages/certles%2Ffilament-maps) | v1.0.0 |  | Reliable map fields for Filament: location picker with address search, GeoJSON… |
+| 2026-11-28 11:36:15 | [baseos/connect-laravel](https://www.nuget.org/packages/baseos%2Fconnect-laravel) | 1.0.0 | BaseOS | BaseOS Connect for Laravel — one-command pairing, HMAC receiver, Eloquent publi… |
+| 2026-11-28 11:58:48 | [pkc/sms-gateway](https://www.nuget.org/packages/pkc%2Fsms-gateway) | v1.0.0 | pkc | A multi-provider SMS gateway integration package for Laravel. |
+| 2026-11-28 12:00:28 | [sec/promotionimage](https://www.nuget.org/packages/sec%2Fpromotionimage) | 1.0.4 | Stefan Eik Christiansen | Add an image to Shopware promotions and display it in cart and checkout line it… |
+| 2026-11-28 12:13:50 | [klsoft/auth-session](https://www.nuget.org/packages/klsoft%2Fauth-session) | 1.0.0 |  | Session based authentication |
 
 ## Data source
 
