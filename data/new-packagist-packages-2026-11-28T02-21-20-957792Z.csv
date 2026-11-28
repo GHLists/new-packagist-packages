@@ -1,0 +1,4 @@
+created_at,package,version,author,description
+2026-11-28T01:21:03Z,szgyds/gy-cron,v1.0.0,szgyds,Hyperf 2.2 / 3.1 跨版本分布式定时任务组件：Scheduler 主动调度，Worker 注解声明任务，JSON-RPC 同步执行。
+2026-11-28T01:28:08Z,cipi/cache,1.0.0,,"Purge pages of Cipi's nginx page cache from any PHP app — by path, prefix, URL or Laravel route."
+2026-11-28T02:09:38Z,denetorus/galaxy-logging,v0.1.0,,Standalone structured logging with optional GalaxyApplication lifecycle stages.

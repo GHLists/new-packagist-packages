@@ -15,16 +15,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 01:19 UTC
+## Latest list — 2026-11-28 02:21 UTC
 
-New packages created between 2026-11-28 00:20 UTC and 2026-11-28 01:19 UTC.
+New packages created between 2026-11-28 01:19 UTC and 2026-11-28 02:21 UTC.
 
-[Full CSV](data/new-packagist-packages-2026-11-28T01-19-57-281509Z.csv)
+[Full CSV](data/new-packagist-packages-2026-11-28T02-21-20-957792Z.csv)
 
 | Created (UTC) | Package | Version | Author | Description |
 | :------------ | :------ | :------ | :------ | :----------- |
-| 2026-11-28 00:28:49 | [pierdolabs/codice-fiscale](https://www.nuget.org/packages/pierdolabs%2Fcodice-fiscale) | v1.0.1 | Pierdomenico Guarnieri | Generazione, validazione e decodifica del codice fiscale italiano, con archivio… |
-| 2026-11-28 00:35:20 | [pierdolabs/codice-fiscale-names](https://www.nuget.org/packages/pierdolabs%2Fcodice-fiscale-names) | v1.0.1 | Pierdomenico Guarnieri | Dizionario di nomi e cognomi per paese e provincia italiana (Wikidata + statist… |
+| 2026-11-28 01:21:03 | [szgyds/gy-cron](https://www.nuget.org/packages/szgyds%2Fgy-cron) | v1.0.0 | szgyds | Hyperf 2.2 / 3.1 跨版本分布式定时任务组件：Scheduler 主动调度，Worker 注解声明任务，JSON-RPC 同步执行。 |
+| 2026-11-28 01:28:08 | [cipi/cache](https://www.nuget.org/packages/cipi%2Fcache) | 1.0.0 |  | Purge pages of Cipi's nginx page cache from any PHP app — by path, prefix, URL… |
+| 2026-11-28 02:09:38 | [denetorus/galaxy-logging](https://www.nuget.org/packages/denetorus%2Fgalaxy-logging) | v0.1.0 |  | Standalone structured logging with optional GalaxyApplication lifecycle stages. |
 
 ## Data source
 
